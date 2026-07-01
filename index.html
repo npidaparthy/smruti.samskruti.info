@@ -1,0 +1,1225 @@
+<!DOCTYPE html>
+<html lang="te" data-font="md">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>శ్రీమద్భగవద్గీతా · Śrīmad Bhagavadgītā — Avadhānam</title>
+<meta name="description" content="Read and practise Bhagavad Gita and Vishnu Sahasranama pada by pada. Avadhānam practice in Telugu, Devanagari and IAST.">
+<meta name="theme-color" content="#8b4513">
+<link rel="manifest" href="/manifest.json">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;500&family=Noto+Serif+Devanagari:wght@400;500&display=swap">
+<link rel="stylesheet" href="/assets/css/main.css?v=24">
+</head>
+<body>
+<div id="app">
+
+  <!-- ── Tab bar ── -->
+  <nav id="tabs" role="tablist" aria-label="Site sections">
+    <button class="tab-btn active" data-tab="reader"    role="tab">పాఠం</button>
+    <button class="tab-btn"        data-tab="avadhanam" role="tab">అవధానం</button>
+    <button class="tab-btn"        data-tab="meanings"  role="tab">అర్థం</button>
+    <button class="tab-btn"        data-tab="search"    role="tab">వెతుకు</button>
+    <button class="tab-btn"        data-tab="calendar"  role="tab">📅</button>
+    <button class="tab-btn"        data-tab="settings"  role="tab">⚙️</button>
+  </nav>
+
+  <!-- ══════════════════════════════════════════════════════════
+       READER TAB
+  ══════════════════════════════════════════════════════════ -->
+  <main id="reader" class="panel active" role="tabpanel">
+
+    <div class="ctrl-row">
+      <span class="ctrl-label" data-i18n="script">లిపి</span>
+      <div class="pill-group" id="r-script-group">
+        <button class="pill active" data-script="te">తె</button>
+        <button class="pill"        data-script="ro">En</button>
+        <button class="pill"        data-script="dn">सं</button>
+      </div>
+      <span class="spacer"></span>
+      <div class="pill-group" id="r-uilang-group">
+        <button class="pill active" data-uilang="te">తె</button>
+        <button class="pill"        data-uilang="en">En</button>
+      </div>
+      <button class="pill pill-help" id="r-help-btn" data-i18n="help">సహాయం</button>
+    </div>
+
+    <div class="ctrl-row">
+      <span class="ctrl-label" data-i18n="text">గ్రంథం</span>
+      <select id="r-text-select">
+        <option value="gita">శ్రీమద్భగవద్గీతా</option>
+        <option value="vsn">శ్రీవిష్ణుసహస్రనామమ్</option>
+      </select>
+    </div>
+
+    <!-- Chapter / range selector -->
+    <div id="r-ch-wrap" class="ch-grid"></div>
+
+    <!-- VSN about panel (shown only when VSN is selected) -->
+    <div id="vsn-about" style="display:none">
+      <details class="vsn-meta-card" id="vsn-meta-details">
+        <summary class="vsn-meta-summary">
+          <span id="vsn-meta-title">శ్రీవిష్ణుసహస్రనామమ్</span>
+          <span class="vsn-meta-chevron">›</span>
+        </summary>
+        <div class="vsn-meta-body">
+
+          <!-- Video embed (hidden when no youtube_id) -->
+          <div class="vsn-meta-video" id="vsn-meta-video" style="display:none">
+            <div class="vsn-meta-section-heading" id="vsn-ml-video"></div>
+            <div class="vsn-video-wrap">
+              <iframe id="vsn-video-frame" src="" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen loading="lazy"></iframe>
+            </div>
+          </div>
+
+          <!-- 1. What is VSN -->
+          <div class="vsn-meta-section">
+            <div class="vsn-meta-section-heading" id="vsn-ml-what"></div>
+            <div class="vsn-meta-narrative" id="vsn-mv-what"></div>
+          </div>
+
+          <!-- 2. Origin — when & where -->
+          <div class="vsn-meta-section vsn-meta-origin">
+            <div class="vsn-meta-section-heading" id="vsn-ml-origin"></div>
+            <div class="vsn-meta-rows" id="vsn-mv-origin-rows">
+              <div class="vsn-meta-row">
+                <span class="vsn-meta-label" id="vsn-ml-source"></span>
+                <span class="vsn-meta-val" id="vsn-mv-source"></span>
+              </div>
+              <div class="vsn-meta-row">
+                <span class="vsn-meta-label" id="vsn-ml-parvam"></span>
+                <span class="vsn-meta-val" id="vsn-mv-parvam"></span>
+              </div>
+              <div class="vsn-meta-row">
+                <span class="vsn-meta-label" id="vsn-ml-adhyaya"></span>
+                <span class="vsn-meta-val" id="vsn-mv-adhyaya"></span>
+              </div>
+              <div class="vsn-meta-row">
+                <span class="vsn-meta-label" id="vsn-ml-composed"></span>
+                <span class="vsn-meta-val" id="vsn-mv-composed"></span>
+              </div>
+            </div>
+          </div>
+
+          <!-- 3. Who to whom + Story -->
+          <div class="vsn-meta-section">
+            <div class="vsn-meta-section-heading" id="vsn-ml-story"></div>
+            <div class="vsn-meta-who-row">
+              <div class="vsn-who-card">
+                <div class="vsn-who-role" id="vsn-ml-speaker"></div>
+                <div class="vsn-who-name" id="vsn-mv-speaker"></div>
+              </div>
+              <div class="vsn-who-arrow">→</div>
+              <div class="vsn-who-card">
+                <div class="vsn-who-role" id="vsn-ml-listener"></div>
+                <div class="vsn-who-name" id="vsn-mv-listener"></div>
+              </div>
+            </div>
+            <div class="vsn-meta-narrative" id="vsn-mv-narrative"></div>
+          </div>
+
+          <!-- 4. Why VSN -->
+          <div class="vsn-meta-section">
+            <div class="vsn-meta-section-heading" id="vsn-ml-why"></div>
+            <div class="vsn-meta-narrative" id="vsn-mv-why"></div>
+          </div>
+
+          <!-- 5. Six Questions with verse -->
+          <div class="vsn-meta-section">
+            <div class="vsn-meta-section-heading" id="vsn-ml-questions"></div>
+            <div class="vsn-meta-verse-block" id="vsn-mv-q-verse"></div>
+            <ol class="vsn-meta-questions" id="vsn-mv-questions"></ol>
+          </div>
+
+          <!-- 6. Auspicious times -->
+          <div class="vsn-meta-section vsn-meta-times">
+            <div class="vsn-meta-section-heading" id="vsn-ml-times"></div>
+            <div class="vsn-meta-narrative" id="vsn-mv-daily"></div>
+            <div class="vsn-meta-days" id="vsn-mv-days"></div>
+          </div>
+
+          <!-- 7. Phalaśruti -->
+          <div class="vsn-meta-section vsn-meta-phalashruti">
+            <div class="vsn-meta-section-heading" id="vsn-ml-phalashruti"></div>
+            <div class="vsn-meta-narrative" id="vsn-mv-phalashruti-text"></div>
+            <ul class="vsn-meta-fruits" id="vsn-mv-fruits"></ul>
+          </div>
+
+        </div>
+      </details>
+    </div>
+
+    <!-- BG Meta Panel -->
+    <div id="bg-about" style="display:none">
+      <details class="bg-meta-card" id="bg-meta-details">
+        <summary class="bg-meta-summary">
+          <span id="bg-meta-title">శ్రీమద్భగవద్గీతా</span>
+          <span class="bg-meta-chevron">›</span>
+        </summary>
+        <div class="bg-meta-body">
+
+          <!-- Tagline -->
+          <div class="bg-meta-tagline" id="bg-mv-tagline"></div>
+
+          <!-- Stat strip -->
+          <div class="bg-stat-strip">
+            <div class="bg-stat"><span class="bg-stat-n">700</span><span class="bg-stat-l" id="bg-sl-verses">శ్లోకాలు</span></div>
+            <div class="bg-stat-div"></div>
+            <div class="bg-stat"><span class="bg-stat-n">18</span><span class="bg-stat-l" id="bg-sl-chapters">అధ్యాయాలు</span></div>
+            <div class="bg-stat-div"></div>
+            <div class="bg-stat"><span class="bg-stat-n">4</span><span class="bg-stat-l" id="bg-sl-speakers">వక్తలు</span></div>
+            <div class="bg-stat-div"></div>
+            <div class="bg-stat"><span class="bg-stat-n">2</span><span class="bg-stat-l" id="bg-sl-meters">ఛందస్సులు</span></div>
+          </div>
+
+          <!-- 1. What is BG -->
+          <details class="bg-meta-section" open>
+            <summary class="bg-meta-section-heading" id="bg-ml-what"></summary>
+            <div class="bg-meta-narrative" id="bg-mv-what"></div>
+          </details>
+
+          <!-- 2. Source & Setting -->
+          <details class="bg-meta-section" open>
+            <summary class="bg-meta-section-heading" id="bg-ml-source"></summary>
+            <div class="bg-meta-rows" id="bg-mv-source-rows">
+              <div class="bg-meta-row"><span class="bg-meta-label" id="bg-ml-scripture"></span><span class="bg-meta-val" id="bg-mv-scripture"></span></div>
+              <div class="bg-meta-row"><span class="bg-meta-label" id="bg-ml-parva"></span><span class="bg-meta-val" id="bg-mv-parva"></span></div>
+              <div class="bg-meta-row"><span class="bg-meta-label" id="bg-ml-setting"></span><span class="bg-meta-val" id="bg-mv-setting"></span></div>
+              <div class="bg-meta-row"><span class="bg-meta-label" id="bg-ml-composed"></span><span class="bg-meta-val" id="bg-mv-composed"></span></div>
+            </div>
+          </details>
+
+          <!-- 3. Speaker breakdown -->
+          <details class="bg-meta-section" open>
+            <summary class="bg-meta-section-heading" id="bg-ml-speakers"></summary>
+            <div class="bg-speaker-grid" id="bg-mv-speakers"></div>
+          </details>
+
+          <!-- 4. Chapters at a glance -->
+          <details class="bg-meta-section" open>
+            <summary class="bg-meta-section-heading" id="bg-ml-chapters"></summary>
+            <div class="bg-ch-list" id="bg-mv-chapters"></div>
+          </details>
+
+          <!-- 5. Real-life benefits -->
+          <details class="bg-meta-section">
+            <summary class="bg-meta-section-heading" id="bg-ml-benefits"></summary>
+            <div class="bg-benefit-list" id="bg-mv-benefits"></div>
+          </details>
+
+          <!-- 6. Chandas / meters -->
+          <details class="bg-meta-section">
+            <summary class="bg-meta-section-heading" id="bg-ml-chandas"></summary>
+            <div class="bg-chandas-list" id="bg-mv-chandas"></div>
+          </details>
+
+          <!-- 7. Great commentators -->
+          <details class="bg-meta-section">
+            <summary class="bg-meta-section-heading" id="bg-ml-commentators"></summary>
+            <div class="bg-comment-grid" id="bg-mv-commentators"></div>
+          </details>
+
+          <!-- 8. Three-part division -->
+          <details class="bg-meta-section">
+            <summary class="bg-meta-section-heading" id="bg-ml-tripartite"></summary>
+            <div class="bg-meta-narrative" id="bg-mv-tri-intro"></div>
+            <div class="bg-tri-grid" id="bg-mv-tripartite"></div>
+          </details>
+
+          <!-- 9. Gita Jayanti -->
+          <details class="bg-meta-section">
+            <summary class="bg-meta-section-heading" id="bg-ml-jayanti"></summary>
+            <div class="bg-meta-narrative" id="bg-mv-jayanti"></div>
+          </details>
+
+          <!-- 10. Vyasa-Ganesha -->
+          <details class="bg-meta-section">
+            <summary class="bg-meta-section-heading" id="bg-ml-vyasa"></summary>
+            <div class="bg-meta-narrative" id="bg-mv-vyasa"></div>
+          </details>
+
+          <!-- 11. World's largest Gita -->
+          <details class="bg-meta-section">
+            <summary class="bg-meta-section-heading" id="bg-ml-largest"></summary>
+            <div class="bg-meta-narrative" id="bg-mv-largest"></div>
+          </details>
+
+          <!-- 12. Gems of Mahabharata -->
+          <details class="bg-meta-section">
+            <summary class="bg-meta-section-heading" id="bg-ml-gems"></summary>
+            <div class="bg-meta-narrative" id="bg-mv-gems-intro"></div>
+            <div class="bg-gems-grid" id="bg-mv-gems"></div>
+          </details>
+
+          <!-- 13. World quotes -->
+          <details class="bg-meta-section">
+            <summary class="bg-meta-section-heading" id="bg-ml-quotes"></summary>
+            <div class="bg-quotes-list" id="bg-mv-quotes"></div>
+          </details>
+
+          <!-- 14. Akṣauhiṇī -->
+          <details class="bg-meta-section">
+            <summary class="bg-meta-section-heading" id="bg-ml-akshauhini"></summary>
+            <div class="bg-meta-narrative" id="bg-mv-akshauhini-intro"></div>
+            <div class="bg-akshauhini-video" id="bg-mv-akshauhini-video" style="display:none">
+              <div class="vsn-video-wrap">
+                <iframe id="bg-akshauhini-frame" src="" frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen loading="lazy"></iframe>
+              </div>
+            </div>
+            <div class="bg-akshauhini-war" id="bg-mv-akshauhini-war"></div>
+            <div class="bg-akshauhini-table-wrap">
+              <table class="bg-akshauhini-table" id="bg-mv-akshauhini-table">
+                <thead>
+                  <tr>
+                    <th id="bg-al-unit">Unit</th>
+                    <th id="bg-al-chariot">🐎 Chariots</th>
+                    <th id="bg-al-elephant">🐘 Elephants</th>
+                    <th id="bg-al-cavalry">🏇 Cavalry</th>
+                    <th id="bg-al-infantry">⚔️ Infantry</th>
+                  </tr>
+                </thead>
+                <tbody id="bg-mv-akshauhini-rows"></tbody>
+              </table>
+            </div>
+          </details>
+
+          <!-- 15. Names of Krishna & Arjuna -->
+          <details class="bg-meta-section">
+            <summary class="bg-meta-section-heading" id="bg-ml-names"></summary>
+            <div class="bg-names-tabs">
+              <button class="bg-name-tab active" data-who="krishna" id="bg-nt-krishna"></button>
+              <button class="bg-name-tab" data-who="arjuna"  id="bg-nt-arjuna"></button>
+            </div>
+            <div class="bg-names-sort">
+              <span id="bg-nl-sortby"></span>
+              <button class="bg-sort-btn active" data-sort="ch" id="bg-ns-ch"></button>
+              <button class="bg-sort-btn" data-sort="name" id="bg-ns-name"></button>
+              <button class="bg-sort-btn" data-sort="count" id="bg-ns-count"></button>
+            </div>
+            <div class="bg-names-grid" id="bg-mv-names"></div>
+          </details>
+
+          <!-- 16. In Popular Culture -->
+          <details class="bg-meta-section">
+            <summary class="bg-meta-section-heading" id="bg-ml-culture"></summary>
+            <div class="bg-culture-list" id="bg-mv-culture"></div>
+          </details>
+
+          <!-- 17. Interesting facts -->
+          <details class="bg-meta-section">
+            <summary class="bg-meta-section-heading" id="bg-ml-facts"></summary>
+            <ul class="bg-fact-list" id="bg-mv-facts"></ul>
+          </details>
+
+        </div>
+      </details>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Verse display -->
+    <div class="verse-box" id="r-verse-box">
+      <div class="verse-ref" id="r-verse-ref">
+        <span class="muted">—</span>
+      </div>
+      <div class="verse-text" id="r-verse-text">
+        <span class="muted" data-i18n="select_prompt">శ్లోకం లోడవుతున్నది…</span>
+      </div>
+    </div>
+
+    <div class="nav-row">
+      <button class="nav-btn" id="r-prev"   title="Previous" aria-label="Previous">←</button>
+      <button class="nav-btn" id="r-random" title="Random"   aria-label="Random">↺</button>
+      <button class="nav-btn" id="r-play"   title="Play audio" aria-label="Play">▶</button>
+      <button class="nav-btn" id="r-next"   title="Next"     aria-label="Next">→</button>
+    </div>
+
+    <!-- Personal notes -->
+    <div id="r-notes-wrap"></div>
+
+    <!-- Short meaning below verse -->
+    <div id="r-meaning-wrap">
+      <div class="meaning-tabs">
+        <span class="ctrl-label" data-i18n="meaning">అర్థం</span>
+        <div class="pill-group" id="r-mlang-group">
+          <button class="pill active" data-mlang="te">తె</button>
+          <button class="pill"        data-mlang="en">En</button>
+          <button class="pill"        data-mlang="sa">सं</button>
+        </div>
+      </div>
+      <div class="meaning-area" id="r-meaning-short" style="display:none"></div>
+    </div>
+
+  </main>
+
+  <!-- ══════════════════════════════════════════════════════════
+       AVADHĀNAM TAB
+  ══════════════════════════════════════════════════════════ -->
+  <section id="avadhanam" class="panel" role="tabpanel">
+
+    <div class="ctrl-row">
+      <span class="ctrl-label" data-i18n="script">లిపి</span>
+      <div class="pill-group" id="a-script-group">
+        <button class="pill active" data-script="te">తె</button>
+        <button class="pill"        data-script="ro">En</button>
+        <button class="pill"        data-script="dn">सं</button>
+      </div>
+      <span class="spacer"></span>
+      <div class="pill-group" id="a-uilang-group">
+        <button class="pill active" data-uilang="te">తె</button>
+        <button class="pill"        data-uilang="en">En</button>
+      </div>
+      <button class="pill pill-help" id="a-help-btn" data-i18n="help">సహాయం</button>
+    </div>
+
+    <!-- Issue #13: no-wrap so text+mode dropdowns stay on one line -->
+    <div class="ctrl-row no-wrap">
+      <span class="ctrl-label" data-i18n="text">గ్రంథం</span>
+      <select id="a-text-select">
+        <option value="gita">శ్రీమద్భగవద్గీతా</option>
+        <option value="vsn">శ్రీవిష్ణుసహస్రనామమ్</option>
+      </select>
+      <span class="ctrl-label" data-i18n="test">పరీక్ష</span>
+      <select id="a-mode-select"></select>
+    </div>
+
+    <!-- Chapter / group buttons -->
+    <div id="a-ch-wrap" class="ch-grid"></div>
+
+    <hr class="divider">
+
+    <!-- Prompt box (for versenum / uvacha / alpha modes) -->
+    <div class="prompt-box" id="a-prompt-box" style="display:none">
+      <div class="prompt-label" id="a-prompt-label"></div>
+      <div class="prompt-value" id="a-prompt-value"></div>
+    </div>
+
+    <!-- Verse box -->
+    <div class="verse-box" id="a-verse-box">
+      <div class="verse-ref" id="a-verse-ref">
+        <span class="muted">—</span>
+      </div>
+      <div class="verse-text" id="a-verse-text">
+        <span class="muted" data-i18n="select_prompt">శ్లోకం లోడవుతున్నది…</span>
+      </div>
+      <div class="verse-hint" id="a-verse-hint" style="display:none">👁 Reveal నొక్కితే మిగిలిన పాదాలు కనిపిస్తాయి</div>
+    </div>
+
+    <div class="nav-row">
+      <button class="nav-btn" id="a-prev"   title="Previous" aria-label="Previous">←</button>
+      <button class="nav-btn" id="a-random" title="Random"   aria-label="Random">↺</button>
+      <button class="nav-btn reveal" id="a-reveal" title="Reveal" aria-label="Reveal">👁</button>
+      <button class="nav-btn" id="a-play"   title="Play audio" aria-label="Play">▶</button>
+      <button class="nav-btn" id="a-next"   title="Next"     aria-label="Next">→</button>
+      <button class="nav-btn" id="a-share"  title="Share"    aria-label="Share">↗</button>
+      <button class="nav-btn" id="a-focus"  title="Focus"    aria-label="Focus">⛶</button>
+    </div>
+
+    <!-- Meaning -->
+    <div id="a-meaning-wrap">
+      <div class="meaning-tabs">
+        <span class="ctrl-label" data-i18n="meaning">అర్థం</span>
+        <div class="pill-group" id="a-mtype-group">
+          <button class="pill active" data-mtype="short" data-i18n="short">చిన్నది</button>
+          <button class="pill"        data-mtype="long"  data-i18n="long">పూర్ణం</button>
+          <button class="pill"        data-mtype="wbw"   data-i18n="wbw">పద×పదం</button>
+        </div>
+        <span class="spacer"></span>
+        <div class="pill-group" id="a-mlang-group">
+          <button class="pill active" data-mlang="te">తె</button>
+          <button class="pill"        data-mlang="en">En</button>
+          <button class="pill"        data-mlang="sa">सं</button>
+        </div>
+      </div>
+      <div class="meaning-area" id="a-meaning-out">
+        <span class="meaning-empty" data-i18n="pick_verse">ముందుగా ఒక శ్లోకాన్ని ఎంచుకోండి.</span>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- ══════════════════════════════════════════════════════════
+       MEANINGS TAB
+  ══════════════════════════════════════════════════════════ -->
+  <section id="meanings" class="panel" role="tabpanel">
+    <p class="muted" style="margin-top:24px;text-align:center" data-i18n="meanings_wip">అర్థాలు త్వరలో వస్తాయి. (Phase 2)</p>
+  </section>
+
+  <!-- ══════════════════════════════════════════════════════════
+       SEARCH TAB
+  ══════════════════════════════════════════════════════════ -->
+  <section id="search" class="panel" role="tabpanel">
+
+    <!-- Search input -->
+    <div class="srch-input-wrap">
+      <span class="srch-icon">🔍</span>
+      <input id="srch-input" class="srch-input" type="search"
+        data-i18n-placeholder="search_placeholder" placeholder="పేరు, అర్థం, 18.66, #42…" autocomplete="off" autocorrect="off" spellcheck="false">
+      <button class="srch-clear" id="srch-clear" style="display:none">✕</button>
+    </div>
+
+    <!-- Filter pills -->
+    <div class="srch-filters">
+      <button class="pill active" data-srch-filter="all" data-i18n="all">అన్నీ</button>
+      <button class="pill" data-srch-filter="gita" data-i18n="filter_gita">గీతా</button>
+      <button class="pill" data-srch-filter="vsn" data-i18n="filter_vsn">విష్ణు సహస్రనామమ్</button>
+    </div>
+
+    <!-- Hint shown before any query -->
+    <div id="srch-hint" class="srch-hint">
+      <div class="srch-hint-row"><kbd>18.66</kbd> <span data-i18n="hint_gita_ref">గీతా అధ్యాయం·శ్లోకం</span></div>
+      <div class="srch-hint-row"><kbd>#42</kbd> <span data-i18n="hint_vsn_name">VSN నామ సంఖ్య</span></div>
+      <div class="srch-hint-row"><kbd>krishna</kbd> <span data-i18n="hint_text_search">పేరు లేదా అర్థంలో వెతుకు</span></div>
+    </div>
+
+    <!-- Results -->
+    <div id="srch-results" class="srch-results"></div>
+
+  </section>
+
+  <!-- ══════════════════════════════════════════════════════════
+       CALENDAR TAB — ఏకాదశి పంచాంగం
+  ══════════════════════════════════════════════════════════ -->
+  <section id="calendar" class="panel" role="tabpanel">
+
+    <div id="cal-countdown" class="cal-countdown"></div>
+
+    <div class="cal-tabs">
+      <button class="cal-tab-btn active" data-cal-tab="list" data-i18n="cal_tab_list">పంచాంగం</button>
+      <button class="cal-tab-btn" data-cal-tab="cards" data-i18n="cal_tab_cards">ఏకాదశి వివరాలు</button>
+    </div>
+
+    <div id="cal-view-list" class="cal-view active">
+      <div id="cal-list"></div>
+    </div>
+
+    <div id="cal-view-cards" class="cal-view">
+      <div id="cal-cards"></div>
+    </div>
+
+  </section>
+
+  <!-- ══════════════════════════════════════════════════════════
+       SETTINGS TAB
+  ══════════════════════════════════════════════════════════ -->
+  <section id="settings" class="panel" role="tabpanel">
+
+    <div class="settings-section">
+      <div class="settings-heading" data-i18n="display">ప్రదర్శన</div>
+
+      <div class="settings-row">
+        <div>
+          <div class="settings-label" data-i18n="script_setting">లిపి (Lipi)</div>
+          <div class="settings-sub" data-i18n="script_sub">శ్లోక పాఠ లిపి</div>
+        </div>
+        <div class="pill-group" id="s-script-group">
+          <button class="pill active" data-script="te">తె</button>
+          <button class="pill"        data-script="ro">En</button>
+          <button class="pill"        data-script="dn">सं</button>
+        </div>
+      </div>
+
+      <div class="settings-row">
+        <div>
+          <div class="settings-label" data-i18n="ui_lang_setting">UI భాష</div>
+          <div class="settings-sub" data-i18n="ui_lang_sub">బటన్లు, శీర్షికలు</div>
+        </div>
+        <div class="pill-group" id="s-uilang-group">
+          <button class="pill active" data-uilang="te">తెలుగు</button>
+          <button class="pill"        data-uilang="en">English</button>
+        </div>
+      </div>
+
+      <div class="settings-row">
+        <div>
+          <div class="settings-label" data-i18n="meaning_lang_setting">అర్థ భాష</div>
+          <div class="settings-sub" data-i18n="meaning_lang_sub">అర్థాల భాష</div>
+        </div>
+        <div class="pill-group" id="s-mlang-group">
+          <button class="pill active" data-mlang="te">తె</button>
+          <button class="pill"        data-mlang="en">En</button>
+          <button class="pill"        data-mlang="sa">सं</button>
+        </div>
+      </div>
+
+      <div class="settings-row">
+        <div>
+          <div class="settings-label" data-i18n="font_size_setting">అక్షర పరిమాణం</div>
+          <div class="settings-sub" data-i18n="font_size_sub_all">అన్ని పాఠ్యాలు</div>
+        </div>
+        <div class="pill-group" id="s-font-group">
+          <button class="pill"        data-font="sm">A−</button>
+          <button class="pill active" data-font="md">A</button>
+          <button class="pill"        data-font="lg">A+</button>
+          <button class="pill"        data-font="xl">A++</button>
+        </div>
+      </div>
+
+      <div class="settings-row">
+        <div>
+          <div class="settings-label" data-i18n="lipi_color_setting">లిపి రంగు</div>
+          <div class="settings-sub" data-i18n="lipi_color_sub">శ్లోక పాఠ్య రంగు</div>
+        </div>
+        <div class="lipi-swatches">
+          <button class="lipi-swatch active" data-preset="0" title="Default" style="background:var(--accent)"></button>
+          <button class="lipi-swatch"        data-preset="1" title="Indigo"   style="background:#4a3580"></button>
+          <button class="lipi-swatch"        data-preset="2" title="Forest"   style="background:#1e6b3a"></button>
+          <button class="lipi-swatch"        data-preset="3" title="Slate"    style="background:#2b4a6b"></button>
+        </div>
+      </div>
+
+      <div class="settings-row">
+        <div>
+          <div class="settings-label" data-i18n="theme_setting">రంగు అమరిక</div>
+          <div class="settings-sub" data-i18n="theme_sub">వెలుతురు / చీకటి</div>
+        </div>
+        <div class="pill-group" id="s-theme-group">
+          <button class="pill active" data-theme="auto"  data-i18n="auto">అటో</button>
+          <button class="pill"        data-theme="light" data-i18n="light">వెలుతురు</button>
+          <button class="pill"        data-theme="dark"  data-i18n="dark">చీకటి</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="settings-section">
+      <div class="settings-heading" data-i18n="about_heading">గురించి</div>
+      <div class="settings-row" style="flex-direction:column;align-items:flex-start;gap:4px">
+        <div class="settings-label">gita.samskruti.info</div>
+        <div class="settings-sub" data-i18n="app_tagline">సంస్కృత గ్రంథ పాఠ్య అభ్యాస సాధన</div>
+        <div class="settings-sub" style="margin-top:6px">
+          <a href="https://samskruti.info" target="_blank">samskruti.info</a> ·
+          <a href="mailto:contact@samskruti.info">Contact</a>
+        </div>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- ══════════════════════════════════════════════════════════
+       HELP PANEL
+  ══════════════════════════════════════════════════════════ -->
+  <section id="help-panel" class="panel" role="tabpanel">
+    <div class="help-topbar">
+      <button class="help-back-inline" id="help-back-btn">← వెనక</button>
+      <div class="pill-group">
+        <button class="pill active help-lang-btn" id="help-lang-te">తెలుగు</button>
+        <button class="pill help-lang-btn"        id="help-lang-en">English</button>
+      </div>
+    </div>
+
+    <!-- Search box -->
+    <div class="help-search-wrap">
+      <input id="help-search" type="search" placeholder="సహాయం వెతుకు / Search help…" autocomplete="off" spellcheck="false">
+    </div>
+
+    <!-- Telugu help -->
+    <div id="help-video-te" class="help-video-wrap">
+      <iframe src="https://www.youtube.com/embed/clD5BxBsVJI" title="Telugu Help Video"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen loading="lazy"></iframe>
+    </div>
+
+    <div class="help-text" id="help-text-te">
+
+      <details class="help-section" open>
+        <summary class="help-section-title">లిపి &amp; భాష</summary>
+        <div class="help-item">
+          <span class="help-icon">🔤</span>
+          <div>
+            <div class="help-item-title">లిపి ఎంపిక (Script)</div>
+            పాఠం టాబ్ పై తె / En / सं బటన్లతో లిపి మారుస్తారు. Settings లో కూడా మార్చవచ్చు. మీరు ఎంచుకున్న లిపి అన్ని వ్యాసాలకూ వర్తిస్తుంది.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🎨</span>
+          <div>
+            <div class="help-item-title">లిపి రంగు vs అర్థ రంగు</div>
+            <strong>నేరుస్తున్న రంగు</strong> (మారూన్/accent) = లిపి పాఠ్యం — శ్లోక పాదాలు, నామాలు. <strong>సాధారణ రంగు</strong> (నలుపు/తెలుపు) = అర్థాలు, లేబుళ్లు, UI. ఈ తేడా వల్ల ఏ పాఠ్యం లిపి మారినప్పుడు మారుతుందో తెలుస్తుంది.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🌐</span>
+          <div>
+            <div class="help-item-title">UI భాష vs అర్థ భాష</div>
+            <strong>UI భాష</strong> — బటన్లు, శీర్షికలు తెలుగు లేదా English లో. <strong>అర్థ భాష</strong> — శ్లోక అర్థాలు ఏ భాషలో చూపించాలో ఎంచుకోండి: English (En), తెలుగు (తె), లేదా Sanskrit (सं).
+          </div>
+        </div>
+      </details>
+
+      <details class="help-section" open>
+        <summary class="help-section-title">పాఠం (Reader)</summary>
+        <div class="help-item">
+          <span class="help-icon">📚</span>
+          <div>
+            <div class="help-item-title">గ్రంథం ఎంపిక</div>
+            పాఠం టాబ్ పై dropdown లో <strong>శ్రీమద్భగవద్గీతా</strong> లేదా <strong>శ్రీవిష్ణుసహస్రనామమ్</strong> ఎంచుకోండి. మీ ఎంపిక తదుపరి సారి కూడా గుర్తుంటుంది.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">📖</span>
+          <div>
+            <div class="help-item-title">అధ్యాయ ఎంపిక</div>
+            ఒకటి లేదా అనేక అధ్యాయ బటన్లు నొక్కండి. బహు అధ్యాయాలు ఎంచుకుంటే Random నొక్కినప్పుడు ఆ అన్నింటి నుండి శ్లోకం వస్తుంది. గ్రంథాన్ని మార్చినప్పుడు ఎంపిక reset అవుతుంది.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">☀️</span>
+          <div>
+            <div class="help-item-title">నేటి శ్లోకం (Today's Verse)</div>
+            ☀️ బటన్ నొక్కితే నేటి తేదీకి నిర్ణయించిన నిర్దిష్ట శ్లోకం వస్తుంది — 700 శ్లోకాలలో రోజువారీ మారుతుంది, ప్రపంచవ్యాప్తంగా ఒకే శ్లోకం.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">◀▶</span>
+          <div>
+            <div class="help-item-title">నావిగేషన్ &amp; కీబోర్డు</div>
+            ← → బటన్లు లేదా Arrow Keys తో శ్లోకాలు మారవచ్చు. <strong>R</strong> = Random శ్లోకం. <strong>Space / Enter</strong> = Reveal (అవధానం టాబ్ లో). ↺ బటన్ = మళ్ళీ Random.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🕐</span>
+          <div>
+            <div class="help-item-title">చివరిగా చదివిన శ్లోకం</div>
+            మీరు చివరిగా చదివిన శ్లోకం తదుపరిసారి యాప్ తెరిచినప్పుడు స్వయంచాలకంగా వస్తుంది — అధ్యాయం అర్ధంలో ఆగిపోయినా, పునఃప్రారంభించవచ్చు.
+          </div>
+        </div>
+      </details>
+
+      <details class="help-section" open>
+        <summary class="help-section-title">భగవద్గీత గురించి (BG Meta Panel)</summary>
+        <div class="help-item">
+          <span class="help-icon">ℹ️</span>
+          <div>
+            <div class="help-item-title">Meta Panel తెరవడం</div>
+            గీత ఎంచుకున్నప్పుడు పైన "శ్రీమద్భగవద్గీతా ›" కార్డ్ వస్తుంది. నొక్కితే విస్తరిస్తుంది. లోపల అనేక విభాగాలు — ఒక్కొక్కటి నొక్కి చదవండి.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">👤</span>
+          <div>
+            <div class="help-item-title">కృష్ణ &amp; అర్జున నామాలు</div>
+            నామాల విభాగంలో కృష్ణుడి 14, అర్జునుడి 16 పేర్లు వివరాలతో ఉంటాయి. ప్రతి పేరు పక్కన ఆ పేరు ఉన్న శ్లోక సంఖ్యలు చిన్న chip లుగా ఉంటాయి — నొక్కితే నేరుగా ఆ శ్లోకానికి వెళ్తారు. శ్లోకంలో ఆ పేరు amber రంగులో highlight అవుతుంది.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">↩️</span>
+          <div>
+            <div class="help-item-title">నామ chip నుండి వెనక్కి రావడం</div>
+            శ్లోకానికి వెళ్ళాక పైన "← నామాల జాబితా" బటన్ కనిపిస్తుంది — నొక్కితే మళ్ళీ నామాల విభాగానికి తిరిగి వస్తారు.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🎬</span>
+          <div>
+            <div class="help-item-title">తెలుగు సినిమాలో గీత</div>
+            అపరిచితుడు (18.66), సాహో (2.54) వంటి చిత్రాలలో ఉపయోగించిన శ్లోకాలు chip లుగా ఉంటాయి — నొక్కితే ఆ శ్లోకానికి వెళ్తారు.
+          </div>
+        </div>
+      </details>
+
+      <details class="help-section" open>
+        <summary class="help-section-title">అవధానం (Practice)</summary>
+        <div class="help-item">
+          <span class="help-icon">👁</span>
+          <div>
+            <div class="help-item-title">పరీక్ష విధానాలు</div>
+            <strong>పాద 1–4:</strong> చూపించిన పాదం చూసి మిగిలినవి చెప్పండి.<br>
+            <strong>శ్లో#:</strong> శ్లోక సంఖ్య చూసి పాఠం చెప్పండి.<br>
+            <strong>అక్షరం:</strong> మొదటి అక్షరం చూసి పాఠం చెప్పండి.<br>
+            <strong>ఉవాచ:</strong> వక్త (కృష్ణ/అర్జున/సంజయ) చూసి పాఠం చెప్పండి.<br>
+            <strong>1వ/చివరి:</strong> అధ్యాయంలో మొదటి/చివరి శ్లోకం అభ్యసించండి.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">📝</span>
+          <div>
+            <div class="help-item-title">పద×పదం అర్థం (WBW)</div>
+            Word-by-word అర్థం <strong>English మాత్రమే</strong> లభ్యం. అర్థ భాషను <strong>En</strong> కి మార్చండి. Settings → Meaning Language → En.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">⌨️</span>
+          <div>
+            <div class="help-item-title">కీబోర్డు సత్వరమార్గాలు</div>
+            <strong>Space / Enter</strong> = Reveal. <strong>← →</strong> = మునుపటి/తదుపరి శ్లోకం. <strong>R</strong> = Random శ్లోకం.
+          </div>
+        </div>
+      </details>
+
+      <details class="help-section" open>
+        <summary class="help-section-title">వెతుకు (Search)</summary>
+        <div class="help-item">
+          <span class="help-icon">🔍</span>
+          <div>
+            <div class="help-item-title">శ్లోక సంఖ్య వెతుకు</div>
+            <strong>2.54</strong> లేదా <strong>2:54</strong> టైప్ చేస్తే గీత 2వ అధ్యాయం 54వ శ్లోకానికి నేరుగా వెళ్తారు.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🔢</span>
+          <div>
+            <div class="help-item-title">Filter-aware సంఖ్య వెతుకు</div>
+            Filter ఎంపిక చేసి సంఖ్య టైప్ చేయండి:<br>
+            <strong>గీతా + 42</strong> → అన్ని అధ్యాయాల 42వ శ్లోకాలు చూపిస్తుంది.<br>
+            <strong>VSN + 42</strong> → 42వ నామం + 42వ శ్లోకం (≤108 అయితే రెండూ).<br>
+            <strong>#42</strong> = VSN 42వ నామం (ఎప్పుడూ).<br>
+            <strong>ch2</strong> = గీత 2వ అధ్యాయం మొత్తం.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">📝</span>
+          <div>
+            <div class="help-item-title">పాఠ్య వెతుకు</div>
+            నామం లేదా శ్లోక పాఠ్యం Telugu/IAST/Sanskrit లో వెతకవచ్చు. diacritics (ā, ī, ū, ṣ…) లేకుండా సాధారణ అక్షరాలతో కూడా మ్యాచ్ అవుతుంది — krsna → Kṛṣṇa.
+          </div>
+        </div>
+      </details>
+
+      <details class="help-section">
+        <summary class="help-section-title">శ్లోక సంఖ్య &amp; రంగులు</summary>
+        <div class="help-item">
+          <span class="help-icon">🏷</span>
+          <div>
+            <div class="help-item-title">Badge రంగులు</div>
+            <strong>నీలం</strong> = అధ్యాయ సంఖ్య (Ch). <strong>పచ్చ</strong> = శ్లోక సంఖ్య (S#).<br>
+            వక్త badges: <strong>నీలం</strong> = శ్రీ భగవానువాచ · <strong>నారింజ</strong> = అర్జున ఉవాచ · <strong>ఊదా</strong> = సంజయ ఉవాచ · <strong>గులాబీ</strong> = ధృతరాష్ట్ర ఉవాచ.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">✨</span>
+          <div>
+            <div class="help-item-title">నామ highlight</div>
+            నామాల chip నొక్కి శ్లోకానికి వెళ్ళినప్పుడు, ఆ పేరు ఉన్న పాదం 2.5 సెకన్లు amber రంగులో మెరుస్తుంది — వెంటనే గుర్తుపట్టవచ్చు.
+          </div>
+        </div>
+      </details>
+
+      <details class="help-section">
+        <summary class="help-section-title">శ్రీవిష్ణుసహస్రనామమ్</summary>
+        <div class="help-item">
+          <span class="help-icon">🌟</span>
+          <div>
+            <div class="help-item-title">నక్షత్ర సమాచారం</div>
+            VSN లో నక్షత్ర badge నొక్కితే ఆ నక్షత్రం గురించి వివరాలు — రాశి, నక్షత్ర గ్రహం, దేవత — చూడవచ్చు.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🔢</span>
+          <div>
+            <div class="help-item-title">నామ సంఖ్య vs శ్లోక సంఖ్య</div>
+            VSN కి 1000 నామాలు, 108 శ్లోకాలు ఉన్నాయి. Search లో VSN filter తో <strong>42</strong> టైప్ చేస్తే నామ #42 + శ్లోక #42 రెండూ వస్తాయి. <strong>#42</strong> అంటే నిర్దిష్టంగా నామ #42 మాత్రమే.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">📋</span>
+          <div>
+            <div class="help-item-title">VSN Meta Panel</div>
+            VSN ఎంచుకున్నప్పుడు "శ్రీవిష్ణుసహస్రనామమ్ ›" కార్డ్ వస్తుంది — గ్రంథం గురించి, ఎవరు చెప్పారు, ఎందుకు పఠించాలి, ఫలశ్రుతి వివరాలు చూడవచ్చు.
+          </div>
+        </div>
+      </details>
+
+      <details class="help-section">
+        <summary class="help-section-title">సెట్టింగ్స్</summary>
+        <div class="help-item">
+          <span class="help-icon">🔡</span>
+          <div>
+            <div class="help-item-title">అక్షర పరిమాణం</div>
+            A− / A / A+ / A++ — <strong>అన్ని</strong> పాఠ్యాలు కలిసి చిన్నవి/పెద్దవి అవుతాయి: శ్లోకాలు, అర్థాలు, search ఫలితాలు, meta వివరాలు అన్నీ కూడా.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🎨</span>
+          <div>
+            <div class="help-item-title">లిపి రంగు</div>
+            4 రంగు presets లో ఒకటి ఎంచుకోండి — శ్లోక పాదాల రంగు మారుతుంది. Default = Maroon/Brown (theme accent). Light/Dark mode లో వేర్వేరు shade స్వయంచాలకంగా వర్తిస్తుంది.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🌙</span>
+          <div>
+            <div class="help-item-title">Theme (వెలుతురు / చీకటి)</div>
+            అటో = పరికరం సెట్టింగ్ ప్రకారం స్వయంచాలకంగా మారుతుంది. వెలుతురు / చీకటి = మీరు నిర్ణయించవచ్చు.
+          </div>
+        </div>
+      </details>
+
+    </div><!-- /help-text-te -->
+
+    <!-- English help -->
+    <div id="help-video-en" class="help-video-wrap" style="display:none">
+      <iframe src="https://www.youtube.com/embed/J2VY9nvKW90" title="English Help Video"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen loading="lazy"></iframe>
+    </div>
+
+    <div class="help-text" id="help-text-en" style="display:none">
+
+      <details class="help-section" open>
+        <summary class="help-section-title">Script &amp; Language</summary>
+        <div class="help-item">
+          <span class="help-icon">🔤</span>
+          <div>
+            <div class="help-item-title">Script selector</div>
+            Switch between Telugu (తె), Devanāgarī (सं), and Roman IAST script using the pills in the Reader tab or in Settings. Your choice persists across sessions.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🎨</span>
+          <div>
+            <div class="help-item-title">Lipi colour vs meaning colour</div>
+            <strong>Accent colour</strong> (maroon by default) = script text — verse padas, names. <strong>Standard colour</strong> = meanings, labels, UI. This makes it immediately clear which text changes when you switch script.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🌐</span>
+          <div>
+            <div class="help-item-title">UI Language vs Meaning Language</div>
+            <strong>UI Language</strong> — buttons and labels in Telugu or English. <strong>Meaning Language</strong> — choose which language verse meanings appear in: English (En), Telugu (తె), or Sanskrit (सं).
+          </div>
+        </div>
+      </details>
+
+      <details class="help-section" open>
+        <summary class="help-section-title">Reader tab</summary>
+        <div class="help-item">
+          <span class="help-icon">📚</span>
+          <div>
+            <div class="help-item-title">Text selection</div>
+            Choose <strong>Śrīmad Bhagavadgītā</strong> or <strong>Śrī Viṣṇu Sahasranāmam</strong> from the dropdown in the Reader tab. Your selection is remembered.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">📖</span>
+          <div>
+            <div class="help-item-title">Chapter selection</div>
+            Tap one or more chapter buttons to select them. With multiple chapters selected, ↺ Random picks from all of them. Tapping a chapter immediately shows a verse from it.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">☀️</span>
+          <div>
+            <div class="help-item-title">Today's Verse</div>
+            The ☀️ button shows a verse assigned to today's date — cycles through all 700 Gita shlokas, same verse worldwide for the same date.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">◀▶</span>
+          <div>
+            <div class="help-item-title">Navigation &amp; keyboard</div>
+            Use ← → buttons or keyboard Arrow Keys to move between verses. <strong>R</strong> = random verse. <strong>↺</strong> = another random from selected chapters.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🕐</span>
+          <div>
+            <div class="help-item-title">Last visited verse</div>
+            The app remembers the last verse you read. When you reopen it, you resume exactly where you left off.
+          </div>
+        </div>
+      </details>
+
+      <details class="help-section" open>
+        <summary class="help-section-title">BG Meta Panel</summary>
+        <div class="help-item">
+          <span class="help-icon">ℹ️</span>
+          <div>
+            <div class="help-item-title">Opening the panel</div>
+            When Gita is selected, a "Śrīmad Bhagavadgītā ›" card appears at the top. Tap it to expand. Inside are several collapsible sections — tap each to explore.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">👤</span>
+          <div>
+            <div class="help-item-title">Names of Kṛṣṇa &amp; Arjuna</div>
+            The Names section lists 14 names of Kṛṣṇa and 16 of Arjuna with meanings. Each name has verse number chips — tap any chip to jump directly to that verse. The name is highlighted in amber for 2.5 seconds.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">↩️</span>
+          <div>
+            <div class="help-item-title">Back from name chip</div>
+            After jumping to a verse via a name chip, a "← Names list" button appears at the top — tap it to return to the names section.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🎬</span>
+          <div>
+            <div class="help-item-title">Gita in Telugu Cinema</div>
+            Film cards for Aparichitudu (18.66) and Saaho (2.54) have verse chips — tap to jump to the exact verse used in that film.
+          </div>
+        </div>
+      </details>
+
+      <details class="help-section" open>
+        <summary class="help-section-title">Avadhānam (Practice)</summary>
+        <div class="help-item">
+          <span class="help-icon">👁</span>
+          <div>
+            <div class="help-item-title">Test modes</div>
+            <strong>Pada 1–4:</strong> given a pada, recall the rest.<br>
+            <strong>Verse #:</strong> given the number, recite the verse.<br>
+            <strong>First letter:</strong> given the opening syllable, recite the verse.<br>
+            <strong>Uvāca:</strong> given the speaker, recite the verse.<br>
+            <strong>First/Last:</strong> practise the opening/closing verse of each chapter.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">📝</span>
+          <div>
+            <div class="help-item-title">Word-by-word meaning (WBW)</div>
+            Available in <strong>English only</strong>. Set Meaning Language to <strong>En</strong> in Settings to see it.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">⌨️</span>
+          <div>
+            <div class="help-item-title">Keyboard shortcuts</div>
+            <strong>Space / Enter</strong> = Reveal. <strong>← →</strong> = previous / next verse. <strong>R</strong> = random verse.
+          </div>
+        </div>
+      </details>
+
+      <details class="help-section" open>
+        <summary class="help-section-title">Search tab</summary>
+        <div class="help-item">
+          <span class="help-icon">🔍</span>
+          <div>
+            <div class="help-item-title">Verse number search</div>
+            Type <strong>2.54</strong> or <strong>2:54</strong> to jump directly to Gita chapter 2, verse 54.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🔢</span>
+          <div>
+            <div class="help-item-title">Filter-aware number search</div>
+            Select a filter pill first, then type a number:<br>
+            <strong>Gita + 42</strong> → all chapters' verse 42 (up to 17 results).<br>
+            <strong>VSN + 42</strong> → name #42 + shloka 42 (if ≤108, two results).<br>
+            <strong>#42</strong> = always VSN name #42.<br>
+            <strong>ch2</strong> = all verses of Gita chapter 2.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">📝</span>
+          <div>
+            <div class="help-item-title">Text search</div>
+            Search names or verse content in Telugu, IAST, or Sanskrit. Diacritics are optional — typing <em>krsna</em> matches Kṛṣṇa, <em>partha</em> matches Pārtha.
+          </div>
+        </div>
+      </details>
+
+      <details class="help-section">
+        <summary class="help-section-title">Verse badges &amp; colours</summary>
+        <div class="help-item">
+          <span class="help-icon">🏷</span>
+          <div>
+            <div class="help-item-title">Badge colours</div>
+            <strong>Blue</strong> = chapter number (Ch). <strong>Green</strong> = shloka number (S#).<br>
+            Speaker badges: <strong>Blue</strong> = Bhagavān · <strong>Orange</strong> = Arjuna · <strong>Purple</strong> = Sañjaya · <strong>Pink</strong> = Dhṛtarāṣṭra.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">✨</span>
+          <div>
+            <div class="help-item-title">Name highlight</div>
+            When you navigate to a verse via a name chip, the pada containing that name pulses amber for 2.5 seconds.
+          </div>
+        </div>
+      </details>
+
+      <details class="help-section">
+        <summary class="help-section-title">Vishnu Sahasranāmam</summary>
+        <div class="help-item">
+          <span class="help-icon">🌟</span>
+          <div>
+            <div class="help-item-title">Nakshatra badge</div>
+            In VSN mode, tap the nakshatra badge to see rashi (zodiac), ruling planet, and presiding deity.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🔢</span>
+          <div>
+            <div class="help-item-title">Name # vs Shloka #</div>
+            VSN has 1000 names across 108 shlokas. In Search with VSN filter, typing <strong>42</strong> returns both name #42 and shloka 42. Use <strong>#42</strong> for name only.
+          </div>
+        </div>
+      </details>
+
+      <details class="help-section">
+        <summary class="help-section-title">Settings</summary>
+        <div class="help-item">
+          <span class="help-icon">🔡</span>
+          <div>
+            <div class="help-item-title">Font size</div>
+            A− / A / A+ / A++ scales <strong>all</strong> text together — verses, meanings, search results, meta panel. UI chrome (tabs, pills) stays fixed.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🎨</span>
+          <div>
+            <div class="help-item-title">Lipi colour</div>
+            4 colour presets for verse text: Default (maroon), Indigo, Forest, Slate. Automatically uses the appropriate shade for light and dark mode.
+          </div>
+        </div>
+        <div class="help-item">
+          <span class="help-icon">🌙</span>
+          <div>
+            <div class="help-item-title">Theme</div>
+            Auto = follows device setting. Light / Dark = override manually.
+          </div>
+        </div>
+      </details>
+
+    </div><!-- /help-text-en -->
+
+    <button class="help-top" id="help-top-btn" aria-label="Back to top">↑</button>
+  </section>
+
+  <!-- ══════════════════════════════════════════════════════════
+       NAKSHATRA MODAL
+  ══════════════════════════════════════════════════════════ -->
+  <div id="naksh-modal" role="dialog" aria-modal="true" aria-label="Nakshatra information">
+    <div class="naksh-card">
+      <div class="naksh-header">
+        <div>
+          <div class="naksh-name-te" id="nm-name-te"></div>
+          <div class="naksh-name-iast" id="nm-name-iast"></div>
+        </div>
+        <button class="naksh-close" id="naksh-close" aria-label="Close">✕</button>
+      </div>
+      <div class="naksh-grid">
+        <div class="naksh-cell">
+          <div class="naksh-cell-label">Stars · Symbol</div>
+          <div class="naksh-cell-val" id="nm-stars"></div>
+          <div class="naksh-cell-sub" id="nm-shape"></div>
+        </div>
+        <div class="naksh-cell">
+          <div class="naksh-cell-label">Rashi / Zodiac</div>
+          <div class="naksh-cell-val"><span id="nm-rashi-symbol"></span> <span id="nm-rashi-te"></span></div>
+          <div class="naksh-cell-sub" id="nm-rashi-en"></div>
+        </div>
+        <div class="naksh-cell">
+          <div class="naksh-cell-label">Nakshatra Graha</div>
+          <div class="naksh-cell-val" id="nm-graha-te"></div>
+          <div class="naksh-cell-sub" id="nm-graha-iast"></div>
+        </div>
+        <div class="naksh-cell">
+          <div class="naksh-cell-label">Deity</div>
+          <div class="naksh-cell-val" id="nm-deity-te"></div>
+          <div class="naksh-cell-sub" id="nm-deity-en"></div>
+        </div>
+        <div class="naksh-cell">
+          <div class="naksh-cell-label">Gana</div>
+          <div class="naksh-cell-val" id="nm-gana-te"></div>
+          <div class="naksh-cell-sub" id="nm-gana-iast"></div>
+        </div>
+        <div class="naksh-cell">
+          <div class="naksh-cell-label">Tattva / Element</div>
+          <div class="naksh-cell-val" id="nm-tattva-te"></div>
+          <div class="naksh-cell-sub" id="nm-tattva-en"></div>
+        </div>
+        <div class="naksh-cell">
+          <div class="naksh-cell-label">Dosha · Nāḍī</div>
+          <div class="naksh-cell-val" id="nm-dosha-te"></div>
+          <div class="naksh-cell-sub" id="nm-nadi-te"></div>
+        </div>
+        <div class="naksh-cell">
+          <div class="naksh-cell-label">Animal</div>
+          <div class="naksh-cell-val" id="nm-animal-te"></div>
+          <div class="naksh-cell-sub" id="nm-animal-iast"></div>
+        </div>
+        <!-- <div class="naksh-cell">
+          <div class="naksh-cell-label">Varna</div>
+          <div class="naksh-cell-val" id="nm-varna-te"></div>
+          <div class="naksh-cell-sub" id="nm-varna-iast"></div>
+        </div>
+        <div class="naksh-cell">
+          <div class="naksh-cell-label">Purushārtha</div>
+          <div class="naksh-cell-val" id="nm-pur-te"></div>
+          <div class="naksh-cell-sub" id="nm-pur-iast"></div>
+        </div> -->
+        <div class="naksh-cell">
+          <div class="naksh-cell-label">Gemstone</div>
+          <div class="naksh-cell-val" id="nm-gem-te"></div>
+          <div class="naksh-cell-sub" id="nm-gem-en"></div>
+        </div>
+        <div class="naksh-cell">
+          <div class="naksh-cell-label">Rashi Lord</div>
+          <div class="naksh-cell-val" id="nm-rashi-lord-te"></div>
+          <div class="naksh-cell-sub" id="nm-rashi-lord-iast"></div>
+        </div>
+      </div>
+      <div class="naksh-vsn" id="nm-vsn"></div>
+      <div class="naksh-mantra-block">
+        <div class="naksh-mantra-heading">ॐ నక్షత్ర మంత్రం</div>
+        <div class="naksh-mantra-text" id="nm-mantra"></div>
+        <div class="naksh-mantra-note" id="nm-mantra-note"></div>
+      </div>
+      <div class="naksh-footer">tap outside to close · data: public domain</div>
+    </div>
+  </div>
+
+</div><!-- #app -->
+
+<footer id="footer">
+  <div class="footer-links">
+    <a href="#" id="footer-contact-btn" data-i18n="contact">Contact</a>
+    <a href="https://www.youtube.com/@samskruti.info.1" target="_blank" rel="noopener" class="footer-yt">▶ YouTube</a>
+  </div>
+</footer>
+
+<!-- Contact Modal -->
+<div id="contact-modal" class="modal-overlay" hidden>
+  <div class="modal-box">
+    <div class="modal-header">
+      <span data-i18n="contact_title">Contact Us</span>
+      <button class="modal-close" id="contact-close">✕</button>
+    </div>
+    <form id="contact-form" novalidate>
+      <div class="form-group">
+        <label data-i18n="contact_name">Name</label>
+        <input type="text" name="name" required autocomplete="name" data-i18n-placeholder="contact_name_ph">
+      </div>
+      <div class="form-group">
+        <label data-i18n="contact_email">Email</label>
+        <input type="email" name="email" required autocomplete="email" data-i18n-placeholder="contact_email_ph">
+      </div>
+      <div class="form-group">
+        <label data-i18n="contact_subject">Subject</label>
+        <select name="subject">
+          <option value="Feedback & Suggestions"  data-i18n="contact_sub_feedback">Feedback &amp; Suggestions</option>
+          <option value="Gita Verse Correction"   data-i18n="contact_sub_gita">Gītā Verse Correction</option>
+          <option value="VSN Name Correction"     data-i18n="contact_sub_vsn">VSN Name Correction</option>
+          <option value="Thanks & Appreciation"   data-i18n="contact_sub_thanks">Thanks &amp; Appreciation</option>
+          <option value="Technical Issue"         data-i18n="contact_sub_tech">Technical Issue</option>
+          <option value="Other"                   data-i18n="contact_sub_other">Other</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label data-i18n="contact_message">Message</label>
+        <textarea name="message" rows="4" required data-i18n-placeholder="contact_msg_ph"></textarea>
+      </div>
+      <input type="hidden" name="site" value="gita.samskruti.info">
+      <div id="contact-status" class="contact-status" hidden></div>
+      <button type="submit" class="btn-submit" data-i18n="contact_send">Send</button>
+    </form>
+  </div>
+</div>
+
+<script src="/assets/js/constants.js?v=18"></script>
+<script src="/assets/js/modules/i18n.js?v=13"></script>
+<script src="/assets/js/modules/settings.js?v=18"></script>
+<script src="/assets/js/modules/share.js?v=2"></script>
+<script src="/assets/js/modules/reader.js?v=26"></script>
+<script src="/assets/js/modules/avadhaanam.js?v=13"></script>
+<script src="/assets/js/modules/calendar.js?v=12"></script>
+<script src="/assets/js/modules/search.js?v=18"></script>
+<script src="/assets/js/modules/contact.js?v=1"></script>
+<script src="/assets/js/app.js?v=20"></script>
+</body>
+</html>

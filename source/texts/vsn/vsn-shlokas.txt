@@ -1,0 +1,86 @@
+# Vishnu Sahasranama — Stotra Shlokas (source: Mahabharata, Anushasana Parva 149)
+# Format per shloka:
+# # <number>
+# p1: <pada1 in IAST>
+# p2: <pada2 in IAST>
+# p3: <pada3 in IAST>
+# p4: <pada4 in IAST>
+#
+# NOTE: Add remaining shlokas 11–108 from an authoritative printed source
+# (e.g. Gita Press edition of Vishnu Sahasranama with commentary).
+# Run: python3 scripts/build.py --text vsn  after adding data.
+
+# 1
+p1: viśvaṃ viṣṇur vaṣaṭkāraḥ
+p2: bhūtabhavyabhavatprabhuḥ
+p3: bhūtakṛd bhūtabhṛd bhāvaḥ
+p4: bhūtātmā bhūtabhāvanaḥ
+
+# 2
+p1: pūtātmā paramātmā ca
+p2: muktānāṃ paramā gatiḥ
+p3: avyayaḥ puruṣaḥ sākṣī
+p4: kṣetrajño'kṣara eva ca
+
+# 3
+p1: yogo yogavidāṃ netā
+p2: pradhānapuruṣeśvaraḥ
+p3: nārasiṃhavapuḥ śrīmān
+p4: keśavaḥ puruṣottamaḥ
+
+# 4
+p1: sarvaḥ śarvaḥ śivaḥ sthāṇuḥ
+p2: bhūtādir nidhir avyayaḥ
+p3: sambhavo bhāvano bhartā
+p4: prabhavaḥ prabhur īśvaraḥ
+
+# 5
+p1: svayambhūḥ śambhur ādityaḥ
+p2: puṣkarākṣo mahāsvanaḥ
+p3: anādinidhano dhātā
+p4: vidhātā dhāturuttamaḥ
+
+# 6
+p1: aprameyaḥ hṛṣīkeśaḥ
+p2: padmanābho'maraprabhuḥ
+p3: viśvakarmā manur tvāṣṭā
+p4: sthaviṣṭhaḥ sthaviro dhruvaḥ
+
+# 7
+p1: aghrāhyaḥ śāśvataḥ kṛṣṇo
+p2: lohitākṣaḥ pratardanaḥ
+p3: prabhūtas trikakub dhāma
+p4: pavitram maṅgalam param
+
+# 8
+p1: īśānaḥ prāṇadaḥ prāṇo
+p2: jyeṣṭhaḥ śreṣṭhaḥ prajāpatiḥ
+p3: hiraṇyagarbho bhūgarbho
+p4: mādhavo madhusūdanaḥ
+
+# 9
+p1: īśvaro vikramī dhanvī
+p2: medhāvī vikramaḥ kramaḥ
+p3: anuttamo durādharṣaḥ
+p4: kṛtajñaḥ kṛtir ātmavān
+
+# 10
+p1: sureśaḥ śaraṇaṃ śarma
+p2: viśvaretāḥ prajābhavaḥ
+p3: ahaḥ saṃvatsaro vyālaḥ
+p4: pratyayaḥ sarvadaśanaḥ
+
+# 11
+p1: ajasya nābhir āditvam
+p2: ādito bhuvanapatiḥ
+p3: kanakāṅgo yatīśvaraḥ (placeholder — verify)
+p4: mahendro bhagavān viṣṇuḥ
+
+# 12
+p1: suvarṇabindurakṣobhyaḥ
+p2: sarvaśāstrabṛttamaḥ (placeholder — verify)
+p3: rohitaḥ mārgo hetuḥ
+p4: dāmodaro sahāḥ priyaḥ
+
+# TODO: Shlokas 13–108 — enter from authoritative source (Gita Press / Sanskrit texts)
+# Format is identical: # <n>, then p1: ... through p4: ...

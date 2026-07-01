@@ -1,0 +1,312 @@
+# Vishnu Sahasranama — Nakshatra data
+# 27 nakshatras × 4 shlokas each = 108 shlokas
+# Shloka N belongs to nakshatra ceil(N/4), pada ((N-1) % 4) + 1
+#
+# Format per nakshatra:
+# # <number>
+# iast: <name> | te: <telugu> | dn: <devanagari>
+# stars: <count> | shape_en: <shape> | shape_te: <telugu shape>
+# rashi_iast: <rashi> | rashi_te: <telugu> | rashi_en: <english zodiac>
+# graha_iast: <ruling planet> | graha_te: <telugu>
+# deity_en: <deity name> | deity_te: <telugu>
+# symbol_en: <symbol>
+# vsn_shlokas: <N-M>
+# future_ref:   ← placeholder for muhūrtadarpana cross-reference (Phase 2)
+# ---
+
+# 1
+iast: Aśvinī | te: అశ్విని | dn: अश्विनी
+stars: 3 | shape_en: Horse's head (equine triangle) | shape_te: అశ్వముఖం
+rashi_iast: Meṣa | rashi_te: మేషం | rashi_en: Aries
+graha_iast: Ketu | graha_te: కేతువు
+deity_en: Aśvinī Kumāras (divine physicians) | deity_te: అశ్వినీ కుమారులు
+symbol_en: Horse head
+vsn_shlokas: 1-4
+future_ref:
+---
+
+# 2
+iast: Bharaṇī | te: భరణి | dn: भरणी
+stars: 3 | shape_en: Yoni (triangular cluster) | shape_te: యోని ఆకారం
+rashi_iast: Meṣa | rashi_te: మేషం | rashi_en: Aries
+graha_iast: Śukra | graha_te: శుక్రుడు
+deity_en: Yama (lord of death and dharma) | deity_te: యముడు
+symbol_en: Yoni (womb)
+vsn_shlokas: 5-8
+future_ref:
+---
+
+# 3
+iast: Kṛttikā | te: కృత్తిక | dn: कृत्तिका
+stars: 6 | shape_en: Flame or razor (Pleiades) | shape_te: క్షురం (అగ్నిశిఖ)
+rashi_iast: Vṛṣabha | rashi_te: వృషభం | rashi_en: Taurus
+graha_iast: Sūrya | graha_te: సూర్యుడు
+deity_en: Agni (god of fire) | deity_te: అగ్నిదేవుడు
+symbol_en: Flame / Razor
+vsn_shlokas: 9-12
+future_ref:
+---
+
+# 4
+iast: Rohiṇī | te: రోహిణి | dn: रोहिणी
+stars: 5 | shape_en: Chariot or cart (Aldebaran + Hyades) | shape_te: శకటం (రథం)
+rashi_iast: Vṛṣabha | rashi_te: వృషభం | rashi_en: Taurus
+graha_iast: Candra | graha_te: చంద్రుడు
+deity_en: Brahmā (the creator) | deity_te: బ్రహ్మదేవుడు
+symbol_en: Chariot / Ox-cart
+vsn_shlokas: 13-16
+future_ref:
+---
+
+# 5
+iast: Mṛgaśirā | te: మృగశిర | dn: मृगशिरा
+stars: 3 | shape_en: Deer's head | shape_te: మృగశిరస్సు
+rashi_iast: Mithuna | rashi_te: మిథునం | rashi_en: Gemini
+graha_iast: Maṅgala | graha_te: కుజుడు
+deity_en: Soma (the moon god / nectar) | deity_te: సోముడు
+symbol_en: Deer's head
+vsn_shlokas: 17-20
+future_ref:
+---
+
+# 6
+iast: Ārdrā | te: ఆర్ద్ర | dn: आर्द्रा
+stars: 1 | shape_en: Single bright star (Betelgeuse / Orion) | shape_te: ఒంటి నక్షత్రం
+rashi_iast: Mithuna | rashi_te: మిథునం | rashi_en: Gemini
+graha_iast: Rāhu | graha_te: రాహువు
+deity_en: Rudra (storm deity) | deity_te: రుద్రుడు
+symbol_en: Teardrop / Diamond
+vsn_shlokas: 21-24
+future_ref:
+---
+
+# 7
+iast: Punarvasu | te: పునర్వసు | dn: पुनर्वसु
+stars: 2 | shape_en: Bow / quiver | shape_te: ధనస్సు
+rashi_iast: Karkaṭa | rashi_te: కర్కాటకం | rashi_en: Cancer
+graha_iast: Guru | graha_te: గురువు
+deity_en: Aditi (mother of the gods) | deity_te: అదితి
+symbol_en: Bow and quiver
+vsn_shlokas: 25-28
+future_ref:
+---
+
+# 8
+iast: Puṣya | te: పుష్య | dn: पुष्य
+stars: 3 | shape_en: Flower / udder of cow | shape_te: పుష్పం
+rashi_iast: Karkaṭa | rashi_te: కర్కాటకం | rashi_en: Cancer
+graha_iast: Śani | graha_te: శనిదేవుడు
+deity_en: Bṛhaspati (divine teacher) | deity_te: బృహస్పతి
+symbol_en: Lotus flower
+vsn_shlokas: 29-32
+future_ref:
+---
+
+# 9
+iast: Āśleṣā | te: ఆశ్లేష | dn: आश्लेषा
+stars: 5 | shape_en: Coiled serpent | shape_te: నాగబంధం
+rashi_iast: Karkaṭa | rashi_te: కర్కాటకం | rashi_en: Cancer
+graha_iast: Budha | graha_te: బుధుడు
+deity_en: Sarpas (serpent deities) | deity_te: నాగదేవతలు
+symbol_en: Coiled serpent
+vsn_shlokas: 33-36
+future_ref:
+---
+
+# 10
+iast: Maghā | te: మఘ | dn: मघा
+stars: 5 | shape_en: Throne / palanquin (Regulus + Leo) | shape_te: సింహాసనం
+rashi_iast: Siṃha | rashi_te: సింహం | rashi_en: Leo
+graha_iast: Ketu | graha_te: కేతువు
+deity_en: Pitṛs (ancestors) | deity_te: పితృదేవతలు
+symbol_en: Royal throne / palanquin
+vsn_shlokas: 37-40
+future_ref:
+---
+
+# 11
+iast: Pūrva Phālgunī | te: పూర్వ ఫాల్గుణి | dn: पूर्वफाल्गुणी
+stars: 2 | shape_en: Front two legs of cot / hammock | shape_te: మంచం ముందు కాళ్ళు
+rashi_iast: Siṃha | rashi_te: సింహం | rashi_en: Leo
+graha_iast: Śukra | graha_te: శుక్రుడు
+deity_en: Bhaga (god of fortune) | deity_te: భగుడు
+symbol_en: Front legs of bed / fig tree
+vsn_shlokas: 41-44
+future_ref:
+---
+
+# 12
+iast: Uttara Phālgunī | te: ఉత్తర ఫాల్గుణి | dn: उत्तरफाल्गुणी
+stars: 2 | shape_en: Rear two legs of cot | shape_te: మంచం వెనక కాళ్ళు
+rashi_iast: Kanyā | rashi_te: కన్య | rashi_en: Virgo
+graha_iast: Sūrya | graha_te: సూర్యుడు
+deity_en: Aryaman (patron of contracts) | deity_te: ఆర్యముడు
+symbol_en: Rear legs of bed
+vsn_shlokas: 45-48
+future_ref:
+---
+
+# 13
+iast: Hasta | te: హస్త | dn: हस्त
+stars: 5 | shape_en: Hand (five fingers, Corvus) | shape_te: అరచేయి
+rashi_iast: Kanyā | rashi_te: కన్య | rashi_en: Virgo
+graha_iast: Candra | graha_te: చంద్రుడు
+deity_en: Sūrya / Savitṛ (sun as generator) | deity_te: సవితృడు
+symbol_en: Open hand / fist
+vsn_shlokas: 49-52
+future_ref:
+---
+
+# 14
+iast: Citrā | te: చిత్ర | dn: चित्रा
+stars: 1 | shape_en: Single brilliant star (Spica / Virgo) | shape_te: ముత్యం
+rashi_iast: Tulā | rashi_te: తులా | rashi_en: Libra
+graha_iast: Maṅgala | graha_te: కుజుడు
+deity_en: Tvaṣṭṛ (divine craftsman) | deity_te: విశ్వకర్మ
+symbol_en: Bright jewel / pearl
+vsn_shlokas: 53-56
+future_ref:
+---
+
+# 15
+iast: Svāti | te: స్వాతి | dn: स्वाति
+stars: 1 | shape_en: Single star (Arcturus / Boötes) | shape_te: ఒంటి నక్షత్రం
+rashi_iast: Tulā | rashi_te: తులా | rashi_en: Libra
+graha_iast: Rāhu | graha_te: రాహువు
+deity_en: Vāyu (wind god) | deity_te: వాయుదేవుడు
+symbol_en: Young sprout blown by wind / sword
+vsn_shlokas: 57-60
+future_ref:
+---
+
+# 16
+iast: Viśākhā | te: విశాఖ | dn: विशाखा
+stars: 4 | shape_en: Forked branch / triumphal arch | shape_te: విశాఖ చెట్టు
+rashi_iast: Vṛścika | rashi_te: వృశ్చికం | rashi_en: Scorpio
+graha_iast: Guru | graha_te: గురువు
+deity_en: Indra and Agni (joint deity) | deity_te: ఇంద్రాగ్నులు
+symbol_en: Triumphal arch / potter's wheel
+vsn_shlokas: 61-64
+future_ref:
+---
+
+# 17
+iast: Anurādhā | te: అనురాధ | dn: अनुराधा
+stars: 4 | shape_en: Umbrella / row of offerings | shape_te: గొడుగు
+rashi_iast: Vṛścika | rashi_te: వృశ్చికం | rashi_en: Scorpio
+graha_iast: Śani | graha_te: శనిదేవుడు
+deity_en: Mitra (god of friendship) | deity_te: మిత్రుడు
+symbol_en: Umbrella / lotus
+vsn_shlokas: 65-68
+future_ref:
+---
+
+# 18
+iast: Jyeṣṭhā | te: జ్యేష్ఠ | dn: ज्येष्ठा
+stars: 3 | shape_en: Earring / circular (Antares) | shape_te: కుండలం
+rashi_iast: Vṛścika | rashi_te: వృశ్చికం | rashi_en: Scorpio
+graha_iast: Budha | graha_te: బుధుడు
+deity_en: Indra (king of the gods) | deity_te: ఇంద్రుడు
+symbol_en: Circular amulet / earring
+vsn_shlokas: 69-72
+future_ref:
+---
+
+# 19
+iast: Mūla | te: మూల | dn: मूल
+stars: 11 | shape_en: Lion's tail / bunch of roots | shape_te: వేళ్ళు
+rashi_iast: Dhanus | rashi_te: ధనుస్సు | rashi_en: Sagittarius
+graha_iast: Ketu | graha_te: కేతువు
+deity_en: Nirṛti (goddess of dissolution) | deity_te: నిరృతి
+symbol_en: Bunch of roots tied together
+vsn_shlokas: 73-76
+future_ref:
+---
+
+# 20
+iast: Pūrvāṣāḍhā | te: పూర్వాషాఢ | dn: पूर्वाषाढा
+stars: 2 | shape_en: Elephant's tusk / fan | shape_te: గజదంతం
+rashi_iast: Dhanus | rashi_te: ధనుస్సు | rashi_en: Sagittarius
+graha_iast: Śukra | graha_te: శుక్రుడు
+deity_en: Āpas (water deity / Varuṇa) | deity_te: జలదేవత
+symbol_en: Fan / elephant tusk / winnowing basket
+vsn_shlokas: 77-80
+future_ref:
+---
+
+# 21
+iast: Uttarāṣāḍhā | te: ఉత్తరాషాఢ | dn: उत्तराषाढा
+stars: 4 | shape_en: Elephant's tusk (rear) | shape_te: ఏనుగు దంతం
+rashi_iast: Makara | rashi_te: మకరం | rashi_en: Capricorn
+graha_iast: Sūrya | graha_te: సూర్యుడు
+deity_en: Viśve Devāḥ (universal gods) | deity_te: విశ్వేదేవతలు
+symbol_en: Small cot / tusk
+vsn_shlokas: 81-84
+future_ref:
+---
+
+# 22
+iast: Śravaṇa | te: శ్రవణ | dn: श्रवण
+stars: 3 | shape_en: Three footprints / ear | shape_te: చెవి
+rashi_iast: Makara | rashi_te: మకరం | rashi_en: Capricorn
+graha_iast: Candra | graha_te: చంద్రుడు
+deity_en: Viṣṇu (as the all-pervading preserver) | deity_te: విష్ణువు
+symbol_en: Three uneven footprints / ear
+vsn_shlokas: 85-88
+future_ref:
+---
+
+# 23
+iast: Dhaniṣṭhā | te: ధనిష్ఠ | dn: धनिष्ठा
+stars: 4 | shape_en: Drum (Delphinus) | shape_te: మృదంగం
+rashi_iast: Kumbha | rashi_te: కుంభం | rashi_en: Aquarius
+graha_iast: Maṅgala | graha_te: కుజుడు
+deity_en: Aṣṭa Vasus (eight elemental gods) | deity_te: అష్టవసువులు
+symbol_en: Drum / flute
+vsn_shlokas: 89-92
+future_ref:
+---
+
+# 24
+iast: Śatabhiṣā | te: శతభిష | dn: शतभिषा
+stars: 100 | shape_en: Empty circle / 100 stars | shape_te: శూన్యవలయం
+rashi_iast: Kumbha | rashi_te: కుంభం | rashi_en: Aquarius
+graha_iast: Rāhu | graha_te: రాహువు
+deity_en: Varuṇa (god of cosmic waters) | deity_te: వరుణదేవుడు
+symbol_en: Empty circle / 100 physicians
+vsn_shlokas: 93-96
+future_ref:
+---
+
+# 25
+iast: Pūrva Bhādrapadā | te: పూర్వ భాద్రపద | dn: पूर्वभाद्रपदा
+stars: 2 | shape_en: Front two legs of funeral cot | shape_te: శవపేటె ముందు కాళ్ళు
+rashi_iast: Mīna | rashi_te: మీనం | rashi_en: Pisces
+graha_iast: Guru | graha_te: గురువు
+deity_en: Aja Ekapāda (one-footed goat / storm deity) | deity_te: అజ ఏకపాదుడు
+symbol_en: Sword / front legs of cot
+vsn_shlokas: 97-100
+future_ref:
+---
+
+# 26
+iast: Uttara Bhādrapadā | te: ఉత్తర భాద్రపద | dn: उत्तरभाद्रपदा
+stars: 2 | shape_en: Rear two legs of funeral cot | shape_te: శవపేటె వెనక కాళ్ళు
+rashi_iast: Mīna | rashi_te: మీనం | rashi_en: Pisces
+graha_iast: Śani | graha_te: శనిదేవుడు
+deity_en: Ahirbudhnya (serpent of the deep) | deity_te: అహిర్బుధ్న్యుడు
+symbol_en: Twins / back legs of cot / serpent
+vsn_shlokas: 101-104
+future_ref:
+---
+
+# 27
+iast: Revatī | te: రేవతి | dn: रेवती
+stars: 32 | shape_en: Fish / drum | shape_te: చేప
+rashi_iast: Mīna | rashi_te: మీనం | rashi_en: Pisces
+graha_iast: Budha | graha_te: బుధుడు
+deity_en: Pūṣan (nourisher, guide of souls) | deity_te: పూషణుడు
+symbol_en: Fish / drum / pair of fish
+vsn_shlokas: 105-108
+future_ref:
+---

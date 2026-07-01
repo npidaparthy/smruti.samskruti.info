@@ -1,0 +1,344 @@
+# 7.1
+short: The Lord says — with mind fixed on Me, practicing yoga, taking refuge in Me, O Pārtha, hear how you shall know Me completely without doubt.
+long: Chapter 7 opens with an intimate promise: practice yoga with mind on Me, take shelter in Me — and you shall know Me fully, without remainder. Krishna here shifts from technique (ch.6) to relationship. "Mayi āsakta-manāḥ" — mind attached to Me — is the seed. Everything else flows from that one-pointed orientation. Full knowledge (samagram mām) is the goal; complete refuge (mad-āśraya) is the method.
+wbw:
+  mayi āsakta-manāḥ | participial phrase | with mind fixed on Me
+  pārtha | vocative | O Pārtha (Arjuna)
+  yogaṃ yuñjan | participial phrase | practicing yoga
+  mad-āśrayaḥ | adjective | taking refuge in Me
+  asaṃśayaṃ | adverb | without doubt
+  samagraṃ māṃ | accusative phrase | Me completely
+  yathā jñāsyasi | future tense | how you shall know
+  tac chṛṇu | imperative | hear that
+---
+# 7.2
+short: I shall teach you jñāna along with vijñāna in full — after knowing this, nothing more remains to be known in this world.
+long: Jñāna here is theoretical/scriptural knowledge; vijñāna is direct experiential realization. Krishna promises both — not just intellectual understanding but lived knowing. "After knowing this, nothing more remains" — a bold claim that this teaching is complete, not partial. The two together constitute full knowledge of Brahman. One without the other is incomplete: knowledge without experience is dry, experience without knowledge is ungrounded.
+wbw:
+  jñānam | noun | knowledge (theoretical)
+  te | dative | to you
+  vijñāna-sahitam | adjective | together with experiential wisdom
+  vakṣyāmi | future | I shall declare
+  aśeṣataḥ | adverb | in full, without remainder
+  yaj jñātvā | relative clause | knowing which
+  iha | adverb | in this world
+  na anyaj jñātavyam | phrase | nothing else remains to be known
+  avaśiṣyate | verb | remains
+---
+# 7.3
+short: Among thousands of humans, one strives for perfection; of those striving, perhaps one knows Me in truth.
+long: The rarity of genuine seekers — and rarer still, those who actually attain. "Manuṣyāṇāṃ sahasreṣu" — among thousands. Not all seek liberation; of those who seek, not all realize. This isn't discouragement but calibration: what Krishna is about to reveal is the rarest knowledge precisely because so few pursue it sincerely to its end. The verse creates urgency: Arjuna, in this rare conversation, is receiving what most never access.
+wbw:
+  manuṣyāṇāṃ sahasreṣu | locative phrase | among thousands of humans
+  kaścit | pronoun | someone, perhaps one
+  yatati | present tense | strives
+  siddhaye | dative | for perfection/liberation
+  yatatām api | even among those striving
+  siddhānāṃ | genitive | of the perfected
+  kaścit | pronoun | perhaps one
+  māṃ vetti | verb phrase | knows Me
+  tattvataḥ | adverb | in truth
+---
+# 7.4
+short: Earth, water, fire, air, ether, mind, intellect, and ego — these eight constitute My lower nature (aparā prakṛti).
+long: The famous enumeration of the eight-fold nature. Five gross elements (pañca-mahābhūtas): earth, water, fire, air, ether. Then three subtle elements: mind (manas), intellect (buddhi), ego (ahaṃkāra). These are Krishna's aparā (lower/inferior) prakṛti — the material principle. This is everything perceivable and conceivable in the universe. Yet "lower" — there is something higher.
+wbw:
+  bhūmir āpaḥ | nominative | earth, water
+  analaḥ vāyuḥ | nominative | fire, air
+  khaṃ | nominative | ether/space
+  manaḥ buddhiḥ | nominative | mind, intellect
+  eva ca | conjunction | and indeed
+  ahaṃkāraḥ | nominative | ego
+  iti me bhinnā | phrase | thus My separated
+  prakṛtiḥ | noun | nature
+  aṣṭadhā | adverb | eightfold
+---
+# 7.5
+short: This is My lower nature; but beyond this, know My higher nature — the life-principle by which this universe is sustained.
+long: The distinction is radical: the eight-fold material nature (7.4) is aparā — lower, inert, dependent. There is also a parā (higher, superior) prakṛti — the jīva, the living principle, consciousness itself. "Jīva-bhūtāṃ mahā-bāho yayedaṃ dhāryate jagat" — by which this entire universe is upheld. Consciousness is not a product of matter; matter is sustained within consciousness. This reverses ordinary materialist assumption entirely.
+wbw:
+  apareyam | nominative | this is lower
+  itas tv anyāṃ | phrase | but beyond this, another
+  prakṛtiṃ viddhi | imperative phrase | know as My nature
+  me parāṃ | accusative | My higher
+  jīva-bhūtāṃ | participial | being the life-principle
+  mahā-bāho | vocative | O mighty-armed
+  yayā | instrumental relative | by which
+  idaṃ jagat dhāryate | passive phrase | this universe is sustained
+---
+# 7.6
+short: Know that all beings have their source in these two natures. I am the origin of this entire universe and also its dissolution.
+long: The two natures (lower material + higher conscious) together account for all of existence. Every being is a combination. Krishna then makes the supreme claim: "I am the origin and dissolution of the entire universe." Not merely a cause among causes — the ultimate source. "Prabhavaḥ pralayaḥ" — arising and passing away. Both creativity and destruction are in Krishna. This establishes His absolute sovereignty over existence.
+wbw:
+  etad yonīni | phrase | having source in these two
+  bhūtāni sarvāṇi | nominative | all beings
+  ity upadhāraya | imperative | understand thus
+  aham | pronoun | I
+  kṛtsnasya jagataḥ | genitive | of the entire universe
+  prabhavaḥ | noun | origin, source
+  pralayaḥ tathā | noun | and dissolution
+---
+# 7.7
+short: There is nothing higher than Me, O Dhanañjaya. All this is strung on Me as pearls on a thread.
+long: The beautiful thread-and-pearls image. A thread runs through every pearl yet is invisible, holding all together — the pearls don't create the thread; the thread sustains the pearls. Krishna is the thread; all creation the pearls. "Mattaḥ parataraṃ nānyat" — nothing whatsoever is beyond Me. This is absolute non-dual claim: every diversity is held in one reality. Yet the thread doesn't merge with pearls — transcendence within immanence.
+wbw:
+  mattaḥ | ablative | than Me, beyond Me
+  parataraṃ nānyat | phrase | nothing higher
+  kiñcid asti | verb phrase | anything exists
+  dhanañjaya | vocative | O Dhanañjaya (Arjuna)
+  mayi sarvam idaṃ | locative phrase | all this in Me
+  protaṃ | participle | strung
+  sūtre maṇi-gaṇā iva | simile | like pearls on a thread
+---
+# 7.8
+short: I am the taste in water, the radiance in the sun and moon, the sacred syllable OM in all the Vedas, the sound in ether, and the manhood in men.
+long: The series of divine immanence begins — Krishna identifying Himself with the essential quality of each element. Not "I made water" but "I am the taste in water" — the very essence that makes water what it is. Rasa in water (the cool, life-giving quality), prabhā in sun/moon (the light itself), praṇava (OM) in Vedas, śabda in ākāśa (the carrier of all sound), pauruṣa in humans (the essential vitality). The divine is not distant; it is the innermost quality of everything.
+wbw:
+  raso'ham | phrase | I am the taste/essence
+  apsu | locative | in water
+  kaunteya | vocative | O Kaunteya
+  prabhāsmi | phrase | I am the radiance
+  śaśi-sūryayoḥ | locative dual | in moon and sun
+  praṇavaḥ | noun | syllable OM
+  sarva-vedeṣu | locative | in all Vedas
+  śabdaḥ khe | phrase | sound in ether
+  pauruṣaṃ nṛṣu | phrase | manhood in men
+---
+# 7.9
+short: I am the pure fragrance in earth, the brilliance in fire, the life in all beings, and the austerity in ascetics.
+long: Continuing the litany: gandha (fragrance) in earth — the earthy smell that identifies the element. Tejas in fire — the heat-light that is fire's essence. Jīvana in all beings — the animating life-force itself. Tapas in tapasvis — the transformative heat of austerity. Each points to the same realization: wherever you find the essential quality of anything, you are touching the divine. Krishna is not hiding in remote temples; He is the quiddity of every thing.
+wbw:
+  puṇyo gandhaḥ | phrase | the pure fragrance
+  pṛthivyāṃ ca | locative | in earth
+  tejaś cāsmi | phrase | and I am the brilliance
+  vibhāvasau | locative | in fire
+  jīvanaṃ | noun | life, vitality
+  sarva-bhūteṣu | locative | in all beings
+  tapaś cāsmi | phrase | and I am the austerity
+  tapasvisu | locative | in ascetics
+---
+# 7.10
+short: Know Me as the eternal seed of all beings, O Pārtha. I am the intelligence of the intelligent, the splendor of the splendid.
+long: "Bījaṃ māṃ sarva-bhūtānāṃ" — the seed of all beings. A seed contains the full tree in potential; Krishna is that primordial potentiality in all existence. Intelligence (buddhi) in the intelligent — not just any cleverness but that capacity for discrimination and wisdom that marks the truly intelligent. Tejas (splendor, vigor, radiance) in the vigorous. These aren't external qualities added to things — Krishna is what makes them genuinely themselves.
+wbw:
+  bījaṃ māṃ sarva-bhūtānāṃ | phrase | know Me as the seed of all beings
+  viddhi | imperative | know
+  pārtha | vocative | O Pārtha
+  sanātanam | adjective | eternal
+  buddhir buddhimatām | phrase | intelligence of the intelligent
+  asmi | verb | I am
+  tejas tejasvinām aham | phrase | splendor of the splendid (I)
+---
+# 7.11
+short: I am the strength of the strong, free from desire and passion. I am desire that is not contrary to dharma, O lord of the Bharatas.
+long: Strength (bala) in the strong — specifically strength free from desire and passion (kāma-rāga-varjitam). Pure strength, not the aggrandizing kind. Then the subtle shift: "dharmāviruddho bhūteṣu kāmo'smi" — among beings, I am desire that does not contradict dharma. Krishna doesn't deny kāma (desire, love) — He purifies it. Desire aligned with dharma is divine. This prevents world-denial: natural, wholesome desire is a manifestation of the divine, not an obstacle to it.
+wbw:
+  balaṃ balavatāṃ | phrase | strength of the strong
+  cāsmi | verb | and I am
+  kāma-rāga-vivarjitam | adjective | free from desire and passion
+  dharma-aviruddhaḥ | adjective | not contrary to dharma
+  bhūteṣu kāmaḥ | phrase | desire among beings
+  asmi | verb | I am
+---
+# 7.12
+short: Whatever states of being exist — sattvic, rajasic, or tamasic — know they are all from Me. Yet I am not in them; they are in Me.
+long: The three guṇas — sattva (clarity/goodness), rajas (passion/activity), tamas (inertia/darkness) — and all the states they produce flow from Krishna. Yet the crucial qualification: "na tv aham teṣu te mayi" — I am not in them; they are in Me. Krishna is not bound by what He produces. The ocean is not wet with its own waves. Waves arise in the ocean, are made of ocean, yet the ocean's nature transcends any particular wave. The divine sustains and permeates the guṇas but is not conditioned by them.
+wbw:
+  ye caiva | conjunction | and whatever
+  sāttvikā bhāvāḥ | noun phrase | sattvic states of being
+  rājasās tāmasāś ca | noun phrase | rajasic and tamasic
+  mattaḥ eva | phrase | from Me alone
+  iti tān viddhi | imperative phrase | know them thus
+  na tv aham teṣu | phrase | yet I am not in them
+  te mayi | phrase | they are in Me
+---
+# 7.13
+short: Deluded by these three states born of the guṇas, this whole world does not know Me — the imperishable, the one beyond them.
+long: The great irony: the very guṇas that manifest the divine become the veil that hides it. Sattvic states make people religious but attached to virtue; rajasic states drive them toward power and achievement; tamasic states dull awareness entirely. None of these lead directly to knowing Krishna because all three are finite, conditioned. "Ataḥ param avyayam" — the imperishable beyond them. The world pursues the waves and misses the ocean entirely.
+wbw:
+  tribhiḥ guṇamayaiḥ bhāvaiḥ | instrumental phrase | by the three guṇa-born states
+  ebhiḥ | instrumental | by these
+  sarvam idaṃ jagat | nominative | this entire world
+  mohitam | participle | deluded
+  nābhijānāti | negative verb | does not know
+  mām ebhyaḥ param avyayam | accusative phrase | Me, the imperishable beyond these
+---
+# 7.14
+short: This My divine māyā composed of the three guṇas is difficult to cross. Those who take refuge in Me alone cross over this māyā.
+long: The famous māyā verse. "Daivī hy eṣā guṇamayī mama māyā" — My divine māyā made of the guṇas. Duratyayā — extremely difficult to cross over. Yet the path is clear: "mām eva ye prapadyante māyām etāṃ taranti te" — those who take refuge in Me alone cross it. Not through intellectual effort, not through ritual, not through renunciation — but through surrender to Krishna. Refuge (prapatti) bypasses the trap of guṇa-consciousness by transcending its frame entirely.
+wbw:
+  daivī | adjective | divine
+  hi eṣā | phrase | indeed this
+  guṇamayī mama māyā | noun phrase | My guṇa-composed māyā
+  duratyayā | adjective | difficult to cross
+  mām eva ye | pronoun phrase | those who unto Me alone
+  prapadyante | verb | take refuge
+  māyām etāṃ taranti te | phrase | cross over this māyā
+---
+# 7.15
+short: The evildoers, the deluded, the lowest of humans, those whose knowledge is destroyed by māyā, and those with a demonic nature — these four do not take refuge in Me.
+long: Four types who do not surrender: duṣkṛtina (evil-doers — those who harm others, drowned in tamas); mūḍha (the deluded — those blinded by ignorance); narādhama (lowest of humans — those who squander human birth on pure sense-gratification); and those of āsurī svabhāva (demonic nature — those who deny the divine and exploit others). The key marker: "jñānaṃ yasyāpahriyate māyayā" — whose knowledge is stolen by māyā. The problem is epistemological; the solution is grace.
+wbw:
+  na māṃ prapadyante | phrase | do not take refuge in Me
+  duṣkṛtinaḥ | noun | evil-doers
+  mūḍhāḥ | noun | deluded ones
+  narādhamāḥ | noun | lowest of humans
+  māyayā apahṛta-jñānāḥ | noun phrase | those whose knowledge is stolen by māyā
+  āsuraṃ bhāvam āśritāḥ | phrase | those who have taken refuge in demonic nature
+---
+# 7.16
+short: Four types of virtuous people worship Me, O Arjuna — the distressed, the seeker of knowledge, the seeker of wealth, and the wise one.
+long: In contrast, four types do come: ārta (the distressed — those in crisis, seeking relief), jijñāsu (the curious seeker — those seeking knowledge of the divine), arthārthī (the seeker of prosperity — those wanting material blessings), and jñānī (the wise one — who seeks nothing but the divine itself). All four are called "sucṛtina" — virtuous. Krishna accepts all motivations as starting points. Even selfish prayer (arthārthī) is better than no contact with the divine. The door is wide.
+wbw:
+  catur-vidhā | adjective | four types
+  bhajante māṃ | verb phrase | worship Me
+  janāḥ sukṛtinaḥ | noun phrase | people of good deeds
+  arjuna | vocative | O Arjuna
+  ārtaḥ | noun | the distressed
+  jijñāsuḥ | noun | seeker of knowledge
+  arthārthī | noun | seeker of wealth
+  jñānī ca | noun | and the wise one
+---
+# 7.17
+short: Of these, the jñānī who is ever steadfast and devoted to the One is the best. I am supremely dear to the jñānī and the jñānī is dear to Me.
+long: Among the four, the jñānī stands apart — "nitya-yukta eka-bhaktiḥ" — always unified, devoted to the One alone. Why is the jñānī supreme? Because the jñānī knows: there is nothing else to seek. The ārta wants relief; arthārthī wants prosperity; jijñāsu wants knowledge — all seek something else through Krishna. The jñānī seeks only Krishna. "Priyo hi jñānino'tyartham ahaṃ sa ca mama priyaḥ" — I am supremely dear to the jñānī, and the jñānī is dear to Me. Mutual love, not transactional.
+wbw:
+  teṣāṃ jñānī | noun phrase | of these, the jñānī
+  nitya-yuktaḥ | adjective | ever steadfast
+  eka-bhaktiḥ | adjective | of singular devotion
+  viśiṣyate | verb | is distinguished/superior
+  priyo hi jñānino'tyartham aham | phrase | supremely dear to the jñānī am I
+  sa ca mama priyaḥ | phrase | and he is dear to Me
+---
+# 7.18
+short: Noble indeed are all of these, but the jñānī I consider as My very self — for the steadfast-souled jñānī is established in Me alone as the supreme goal.
+long: A remarkable statement: "Udārāḥ sarva evaite" — all four are noble. Krishna does not dismiss the ārta or arthārthī. Yet the jñānī is uniquely the "ātmaiva me matam" — My very Self, in My view. How? Because the jñānī has no separate agenda — their being is entirely in Krishna. "Āsthitaḥ sa hi yuktātmā mām evānuttamāṃ gatim" — the jñānī, with concentrated self, is established in Me as the supreme goal. There is no "other"; the jñānī and Krishna have become functionally identical.
+wbw:
+  udārāḥ sarva evaite | phrase | noble indeed are all these
+  jñānī tu ātmaiva me matam | phrase | but the jñānī is My very Self in my view
+  āsthitaḥ sa hi | phrase | for he is established
+  yuktātmā | adjective | with concentrated/unified self
+  mām eva | accusative | in Me alone
+  anuttamāṃ gatim | accusative | as the supreme goal
+---
+# 7.19
+short: At the end of many births, the jñānī takes refuge in Me, knowing "Vāsudeva is all." Such a great soul is very rare.
+long: "Bahūnāṃ janmanām ante jñānavān māṃ prapadyate" — after many births, the wise one comes to Me. The realization: "Vāsudevaḥ sarvam iti" — Vāsudeva (Krishna) is everything. This is the culminating insight. Not "Krishna is one god among many" but "all of this is Krishna." "Sa mahātmā sudurlabhaḥ" — that great soul is exceedingly rare. The verse combines humility (many births needed) with the destination's grandeur (total identification of all with the divine).
+wbw:
+  bahūnāṃ janmanām ante | phrase | at the end of many births
+  jñānavān | noun | the wise one
+  māṃ prapadyate | verb phrase | takes refuge in Me
+  vāsudevaḥ sarvam iti | phrase | "Vāsudeva is all" (thus thinking)
+  sa mahātmā | noun phrase | that great soul
+  su-durlabhaḥ | adjective | extremely rare
+---
+# 7.20
+short: Those whose wisdom is stolen away by various desires take refuge in other deities, following various rules, driven by their own nature.
+long: The contrast to 7.19: those whose knowledge is stolen (hṛta-jñānāḥ) by kāma (desires) worship other devas. "Taṃ taṃ niyamam āsthāya prakṛtyā niyatāḥ svayā" — each following the rules prescribed for that deity, driven by their own nature (prakṛti). This is not condemnation — it is description. Those who want particular results naturally go to particular sources. But stolen knowledge means they miss the ultimate source behind all devas.
+wbw:
+  kāmais tais tair hṛta-jñānāḥ | phrase | those whose knowledge is stolen by those desires
+  prapadyante anya-devatāḥ | verb phrase | take refuge in other deities
+  taṃ taṃ niyamam āsthāya | phrase | following this or that rule
+  prakṛtyā niyatāḥ svayā | phrase | driven by their own nature
+---
+# 7.21
+short: Whatever form a devotee wishes to worship with faith, I make that faith firm and steady.
+long: The divine generosity: "yo yo yāṃ yāṃ tanuṃ bhaktaḥ śraddhayā arcitum icchati" — whatever form, whatever deity, a devotee wants to worship with faith — "tasya tasyācalāṃ śraddhāṃ tām eva vidadhāmy aham" — I Myself make that faith steady and unwavering. Krishna is the ground of all sincere worship, regardless of form. The devotee's faith flows through a particular form, but its ultimate source and sustainer is Krishna. This prevents sectarian exclusivism: all sincere paths are sustained by the One.
+wbw:
+  yo yo yāṃ yāṃ tanuṃ bhaktaḥ | phrase | whatever form a devotee (wishes)
+  śraddhayā arcitum icchati | phrase | wishes to worship with faith
+  tasya tasyācalāṃ śraddhāṃ | accusative phrase | that very faith of his, unwavering
+  tām eva vidadhāmi | verb phrase | I alone establish/make firm
+  aham | pronoun | I
+---
+# 7.22
+short: Endowed with that faith, he seeks to propitiate that form, and from it obtains his desires — which are in truth ordained by Me alone.
+long: "Sa tayā śraddhayā yuktas tasyārādhanam īhate" — endowed with that faith, he engages in that worship. "Labhate ca tataḥ kāmān mayaiva vihitān hi tān" — and from that, he obtains his desires — which were in fact ordained by Me. All blessings, from all deities, ultimately flow from Krishna. The diverse deities are like different windows in the same house — light comes through each, but there is one sun. This is radical divine unity expressed through apparent multiplicity.
+wbw:
+  sa tayā śraddhayā yuktaḥ | phrase | endowed with that faith
+  tasyārādhanam īhate | verb phrase | engages in worship of that (deity)
+  labhate ca tataḥ kāmān | phrase | and from that obtains desires
+  mayaiva vihitān hi tān | phrase | which are indeed ordained by Me alone
+---
+# 7.23
+short: But that fruit is finite — it belongs to those of small understanding. Those who worship the devas go to the devas; those who worship Me come to Me.
+long: The great distinction: "antavat tu phalaṃ teṣāṃ" — the fruit of deva-worship is finite, ending. Not wrong — but limited. "Alpa-medhasāṃ" — of those of limited intelligence (not a moral judgment but a cognitive one about the scope of their seeking). Then the defining statement: "devān deva-yājo yānti mad-bhaktā yānti mām api" — deva-worshippers go to the devas; My devotees come to Me. The destination depends on the direction of love. Finite love reaches finite destinations; infinite love reaches infinity.
+wbw:
+  antavat tu phalaṃ teṣāṃ | phrase | but that fruit of theirs is finite
+  tad bhavati alpa-medhasām | phrase | it belongs to those of small understanding
+  devān deva-yājaḥ yānti | phrase | deva-worshippers go to the devas
+  mad-bhaktā yānti mām api | phrase | and My devotees come to Me
+---
+# 7.24
+short: The unintelligent think I, the unmanifest, have come into manifestation. They do not know My supreme nature, which is immutable and utterly supreme.
+long: A common misunderstanding: treating Krishna as simply a form among forms — the unmanifest that happened to become manifest. "Avyaktaṃ vyaktim āpannaṃ manyante mām abuddhayaḥ" — the unintelligent think the unmanifest has taken on manifestation (as if it's a temporary change of state). They miss "param bhāvam avyayam" — My supreme immutable nature. Krishna's manifestation in form does not exhaust or limit the unmanifest absolute. The form is real; it does not contain the formless. This is the paradox of divine incarnation.
+wbw:
+  avyaktaṃ vyaktim āpannaṃ | phrase | the unmanifest come into manifestation
+  manyante māṃ abuddhayaḥ | phrase | the unintelligent think (of) Me
+  paraṃ bhāvam avyayam | accusative | My supreme immutable nature
+  ajānanto | participle | not knowing
+  mama | genitive | My
+  anuttamam | adjective | utterly supreme
+---
+# 7.25
+short: I am not revealed to all, veiled by My yoga-māyā. This deluded world does not know Me, the unborn and imperishable.
+long: "Nāhaṃ prakāśaḥ sarvasya yoga-māyā-samāvṛtaḥ" — I am not revealed to everyone, covered by yoga-māyā. Not a limitation on Krishna — a function of choice. The divine doesn't announce Itself to the inattentive; it waits to be found by those who sincerely seek. "Mūḍho'yaṃ nābhijānāti loko mām ajam avyayam" — this deluded world doesn't know Me, the unborn, the imperishable. "Yoga-māyā" — not mere illusion, but a creative divine power (yoga = union, māyā = creative power) that both conceals and, for the devoted, reveals.
+wbw:
+  nāhaṃ prakāśaḥ sarvasya | phrase | I am not manifest to all
+  yoga-māyā-samāvṛtaḥ | participial phrase | covered/veiled by yoga-māyā
+  mūḍho'yaṃ nābhijānāti | phrase | this deluded (world) does not know
+  loko māṃ | accusative phrase | Me, the world
+  ajam avyayam | adjective | unborn, imperishable
+---
+# 7.26
+short: I know, O Arjuna, the beings of the past, present, and future — but no one knows Me.
+long: Asymmetric omniscience: "Veda'haṃ samatītāni vartamānāni cārjuna / bhaviṣyāṇi ca bhūtāni māṃ tu veda na kaścana." Krishna knows all beings across all time; no being knows Krishna. Knowledge of finite beings belongs to the omniscient infinite. Knowledge of the infinite is beyond finite being's normal reach — which is why this teaching is the gift. Arjuna is receiving what "no one knows" — the supreme rarity of this moment.
+wbw:
+  veda'haṃ samatītāni | phrase | I know the entirely past
+  vartamānāni ca arjuna | phrase | and the present, O Arjuna
+  bhaviṣyāṇi ca bhūtāni | phrase | and the future beings
+  māṃ tu | accusative | but Me
+  veda na kaścana | phrase | no one knows
+---
+# 7.27
+short: By the delusion of the pairs of opposites arising from desire and aversion, all beings are led into confusion at birth, O Bharata.
+long: The mechanism of cosmic delusion: "icchā-dveṣa-samutthena dvandva-mohena" — by the delusion of pairs-of-opposites arising from desire (icchā) and aversion (dveṣa). All beings are born into dvandva-moha — the trance of duality. Hot/cold, pleasure/pain, gain/loss — each pair locks consciousness into a ping-pong of reaction, covering the unified ground. This begins at birth itself ("sarga") — it is structural to embodied existence in the guṇa-world, not a personal moral failure.
+wbw:
+  icchā-dveṣa-samutthena | instrumental phrase | arising from desire and aversion
+  dvandva-mohena | instrumental | by the delusion of pairs of opposites
+  bhārata | vocative | O Bharata
+  sarva-bhūtāni | nominative | all beings
+  sammohāṃ | accusative | into confusion/delusion
+  yānti | verb | go
+  sarge | locative | at birth/creation
+---
+# 7.28
+short: But those of meritorious deeds whose sin has ended — freed from the delusion of pairs of opposites — worship Me with firm resolve.
+long: The exit from dvandva-moha: "yeṣāṃ tv anta-gataṃ pāpam" — those whose sins have come to an end. Not righteousness by perfection but by completion of karma — the exhaustion of reactive momentum. "Dvandva-moha-nirmuktāḥ" — freed from the delusion of dualities. Then: "bhajante māṃ dṛḍha-vratāḥ" — worship Me with firm resolve. Purified awareness naturally gravitates toward the divine. The "punya" (merit) of past good action makes the vision clearer, the seeking steadier.
+wbw:
+  yeṣāṃ tv anta-gataṃ pāpam | phrase | but those whose sin has come to an end
+  janānāṃ puṇya-karmaṇām | genitive phrase | of people of meritorious deeds
+  te dvandva-moha-nirmuktāḥ | phrase | they, freed from delusion of pairs of opposites
+  bhajante māṃ dṛḍha-vratāḥ | verb phrase | worship Me with firm resolve
+---
+# 7.29
+short: Those who strive for liberation from old age and death, taking refuge in Me — they know Brahman completely, the Adhyātma, and all of karma.
+long: The comprehensive fruit of taking refuge: "jarā-maraṇa-mokṣāya mām āśritya yatanti ye" — those who take refuge in Me striving for liberation from aging and death. "Te brahma tad viduḥ kṛtsnam adhyātmaṃ karma cākhilam" — they know Brahman fully, know the Adhyātma (the inner self, the individual reality), and know all of karma completely. Refuge in the divine doesn't produce ignorance — it produces complete knowledge. The surrender opens all understanding simultaneously.
+wbw:
+  jarā-maraṇa-mokṣāya | dative phrase | for liberation from old age and death
+  mām āśritya yatanti ye | phrase | those who strive taking refuge in Me
+  te brahma | nominative phrase | they, Brahman
+  tad viduḥ kṛtsnam | verb phrase | know that completely
+  adhyātmaṃ karma cākhilam | accusative phrase | the Adhyātma and all of karma
+---
+# 7.30
+short: Those who know Me as Adhibhūta, Adhidaiva, and Adhiyajña — with steadied mind, they know Me even at the time of death.
+long: The chapter closes with three mysterious terms that will be explained in ch.8: Adhibhūta (the divine principle in matter/beings), Adhidaiva (the divine principle in the gods/senses), Adhiyajña (the divine principle in sacrifice/action). Those who know Krishna in these three modes — "prayāṇa-kāle'pi māṃ te viduḥ" — even at the moment of death they know Me. The final thought of a well-aimed life determines its trajectory beyond. Ch.8 will begin with Arjuna's questions about exactly these terms.
+wbw:
+  sādhibhūtādhidaivaṃ māṃ | phrase | Me along with the Adhibhūta and Adhidaiva
+  sādhiyajñaṃ ca | phrase | and with the Adhiyajña
+  ye viduḥ | verb phrase | those who know
+  prayāṇa-kāle'pi | locative phrase | even at the time of departure/death
+  māṃ te viduḥ | phrase | they know Me
+  yukta-cetasaḥ | adjective | with steadied mind
+---

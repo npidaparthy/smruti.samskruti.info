@@ -1,0 +1,384 @@
+# 15.1
+short: The eternal Ashvattha tree has its roots above and branches below — the Vedas are its leaves — one who knows this tree knows the Vedas.
+long: Krishna uses the Ashvattha (peepal) tree as a cosmic metaphor for saṃsāra. The roots are above — the Brahman, the source — and branches spread downward into the manifest world. The Vedic hymns nourish this tree like leaves. This tree is "avyaya" (imperishable) in the sense that saṃsāra perpetually renews itself. True knowledge means seeing this entire creation as rooted in the Divine, not in matter.
+wbw:
+  ūrdhva-mūlam | accusative, compound | having its roots above
+  adhaḥ-śākham | accusative, compound | branches below
+  aśvattham | accusative | the Ashvattha tree (peepal/fig)
+  prāhuḥ | 3rd pl. present | they say, declare
+  avyayam | accusative adjective | imperishable, eternal
+  chandāṃsi | accusative pl. | Vedic metres / the Vedas
+  yasya | genitive | whose
+  parṇāni | nominative pl. | leaves
+  yaḥ | nominative | who
+  tam | accusative | that
+  veda | 3rd sg. perfect | knows
+  saḥ | nominative | he
+  veda-vit | compound nominative | knower of the Vedas
+---
+# 15.2
+short: The branches of this tree spread both up and down, nourished by the guṇas, with sense objects as its shoots — its roots also extend downward into the human world as karma.
+long: The cosmic tree of saṃsāra spreads in all directions. The upper branches represent the divine and subtle realms; lower branches represent the grosser planes of existence. The three guṇas — sattva, rajas, tamas — nourish this growth. Sense pleasures are like tender shoots that attract beings toward further bondage. The secondary roots reaching downward into the human world represent karma — the actions of humans that bind them to further cycles of birth.
+wbw:
+  adhaḥ | indeclinable | below, downward
+  ca | conjunction | and
+  ūrdhvam | indeclinable | above, upward
+  prasṛtāḥ | nominative pl. | spread, extended
+  tasya | genitive | its
+  śākhāḥ | nominative pl. | branches
+  guṇa-pravṛddhāḥ | compound | nourished by the guṇas
+  viṣaya-pravālāḥ | compound | with sense-objects as tender shoots
+  adhaḥ ca | indeclinable | and below
+  mūlāni | nominative pl. | roots
+  anusantatāni | nominative pl. | extended, spread out
+  karma-anubandhanāni | compound | bound to karma, karma-producing
+  manuṣya-loke | locative | in the world of men
+---
+# 15.3
+short: The real form of this tree cannot be perceived here — its beginning, end, or foundation cannot be found — cut down this deep-rooted tree with the weapon of non-attachment.
+long: The tree of saṃsāra, though spoken of in simile, cannot actually be perceived in its true extent by the embodied mind. No one can point to its beginning, trace its end, or establish its ground — for it is sustained by beginningless ignorance and desire. The only escape is not philosophical debate but decisive renunciation — cutting the tree with the strong axe of vairāgya (non-attachment), the firm resolve to not cling to the fruits and pleasures that the tree offers.
+wbw:
+  na | negative particle | not
+  rūpam | nominative | form
+  asya | genitive | of it (this tree)
+  iha | indeclinable | here, in this world
+  tatha | indeclinable | thus, as described
+  upalabhyate | 3rd sg. passive | is perceived
+  na | negative | not
+  antaḥ | nominative | end
+  na | negative | not
+  ca | conjunction | and
+  ādiḥ | nominative | beginning
+  na | negative | not
+  ca | conjunction | and
+  saṃpratiṣṭhā | nominative | firm foundation
+  aśvattham | accusative | this Ashvattha tree
+  enam | accusative pronoun | this
+  suvirudha-mūlam | compound | having deep-set roots
+  asaṅga-śastreṇa | instrumental | with the weapon of non-attachment
+  dṛḍhena | instrumental | firm, sharp
+  chittvā | gerund | having cut
+---
+# 15.4
+short: Then one must seek that supreme state from which those who reach it do not return — surrendering to that primeval Puruṣa from whom this ancient creation has flowed.
+long: After cutting the tree of saṃsāra with vairāgya, the seeker must redirect the quest toward the Absolute. That "supreme state" (param padam) is Mokṣa — the Brahman, the unmanifest, from which there is no return to rebirth. The instruction to "seek the refuge" (prapadye) of the Ādi Puruṣa echoes the Gita's recurring call to surrender. All of creation — this entire cosmic tree — has flowed from that one primeval Source, and return to It is the sole purpose of human life.
+wbw:
+  tataḥ | indeclinable | then, thereafter
+  padam | accusative | state, goal, abode
+  tat | accusative pronoun | that
+  parimārgitavyam | gerundive | to be sought out
+  yasmin | locative | in which
+  gatāḥ | nominative pl. | having gone, those who reach
+  na | negative | not
+  nivartanti | 3rd pl. present | return
+  bhūyaḥ | indeclinable | again
+  tam | accusative | that
+  eva | emphatic | indeed
+  ca | conjunction | and
+  ādyam | accusative | primeval, first
+  puruṣam | accusative | Puruṣa, the Person
+  prapadye | 1st sg. present | I take refuge, I surrender
+  yataḥ | ablative | from which
+  pravṛttiḥ | nominative | activity, creation, flow
+  prasṛtā | nominative | has proceeded, streamed forth
+  purāṇī | nominative | ancient, primeval
+---
+# 15.5
+short: Free from pride and delusion, with the evil of attachment conquered, ever dwelling in the Self, with desires gone and liberated from the pairs of opposites — the undeluded reach that eternal state.
+long: This verse lists the qualifications of the one who reaches Mokṣa. Freedom from māna (pride) and moha (delusion) must come first — for pride binds the ego and delusion clouds the intellect. The "evil of attachment" (saṅga-doṣa) is conquered by sustained discrimination. Constant dwelling in the Self (adhyātma-nitya) means that Self-knowledge is not a weekend pursuit but the ground of one's being. The freedom from dvandvas (pairs of opposites like pleasure/pain, heat/cold) comes naturally to one whose identity has shifted from body to Ātman.
+wbw:
+  nirmāna-mohāḥ | nominative pl. compound | free from pride and delusion
+  jita-saṅga-doṣāḥ | nominative pl. compound | with attachment's evil conquered
+  adhyātma-nityāḥ | nominative pl. compound | ever dwelling in the Self
+  vinivṛtta-kāmāḥ | nominative pl. compound | with desires withdrawn
+  dvandvaiḥ | instrumental pl. | from pairs of opposites
+  vimuktāḥ | nominative pl. | liberated
+  sukha-duḥkha-saṃjñaiḥ | instrumental pl. compound | named pleasure and pain
+  gacchanti | 3rd pl. present | they go, reach
+  amūḍhāḥ | nominative pl. | the undeluded
+  padam | accusative | state, abode
+  avyayam | accusative | imperishable, eternal
+  tat | accusative | that
+---
+# 15.6
+short: That abode of Mine is not illumined by sun, moon, or fire — those who reach it do not return — that is My supreme dwelling.
+long: The supreme state is beyond all physical light — sun, moon, and fire are themselves luminous only because they borrow light from Brahman. The Muṇḍaka and Kaṭha Upanishads echo this: "The sun does not shine there, nor the moon and stars, nor these lightnings, much less this fire. When Brahman shines, everything shines after It." This is not a poetic claim but a metaphysical one — the Absolute is self-luminous, requiring nothing external to illuminate It. Those who reach it are fully liberated — jīvanmuktas who do not return to the cycle of rebirth.
+wbw:
+  na | negative | not
+  tad | accusative | that
+  bhāsayate | 3rd sg. causative | illumines
+  sūryaḥ | nominative | the sun
+  na | negative | not
+  śaśāṅkaḥ | nominative | the moon
+  na | negative | not
+  pāvakaḥ | nominative | fire
+  yat | relative pronoun | which
+  gatvā | gerund | having gone, reaching
+  na | negative | not
+  nivartante | 3rd pl. present | they return
+  tad | accusative | that
+  dhāma | accusative | abode, dwelling
+  paramaṃ | accusative | supreme
+  mama | genitive | My
+---
+# 15.7
+short: An eternal fragment of Myself, having become a living soul in this world of the living, draws to itself the five senses and the mind abiding in Prakṛti.
+long: This verse is one of the most important in the Gita for understanding Vedāntic anthropology. The individual jīva (soul) is not an entirely separate entity but a sanātana (eternal) fragment of the Paramātman — not a product, not a creation from scratch, but a portion. The word "aṃśa" (fragment/portion) is carefully chosen: the jīva is eternally and intrinsically related to Īśvara. In embodiment, this fragment "draws" the six instruments of experience (five senses + mind) that rest in Prakṛti, assembling them around itself.
+wbw:
+  mamaiva | genitive + emphatic | of Me alone, My very own
+  aṃśaḥ | nominative | fragment, portion
+  jīva-loke | locative | in the world of the living
+  jīva-bhūtaḥ | nominative compound | having become a jīva, living soul
+  sanātanaḥ | nominative | eternal
+  manaḥ-ṣaṣṭhāni | accusative compound | with the mind as sixth
+  indriyāṇi | accusative pl. | senses
+  prakṛti-sthāni | accusative compound | abiding in Prakṛti
+  karṣati | 3rd sg. present | draws, attracts, drags
+---
+# 15.8
+short: When the Lord takes a body and when He leaves it, He carries these (the senses and mind) along — as the wind carries fragrances from their source.
+long: The simile of wind carrying fragrance is precise and beautiful. Wind has no fragrance of its own — it merely transports what it encounters. Similarly, the jīvātman has no sensory apparatus of its own — it borrows the instruments of perception from each body it inhabits and carries them forward (as subtle impressions, the sūkṣma śarīra) when it departs. This verse establishes the continuity of the subtle body across lives — not the gross body, which perishes, but the constellation of mind and sense-tendencies that migrates.
+wbw:
+  śarīram | accusative | body
+  yat | relative | which
+  avāpnoti | 3rd sg. | obtains, takes
+  yat | relative | which
+  ca api | conjunctive | and also
+  utkrāmati | 3rd sg. | departs from
+  īśvaraḥ | nominative | the Lord (jīvātman as lord of the body)
+  gṛhītvā | gerund | having taken, grasping
+  etāni | accusative pl. | these
+  saṃyāti | 3rd sg. | goes, departs
+  vāyuḥ | nominative | the wind
+  gandhān | accusative pl. | fragrances
+  iva | comparative | like
+  āśayāt | ablative | from their seat/source
+---
+# 15.9
+short: Presiding over hearing, sight, touch, taste, and smell as well as the mind, He experiences the objects of the senses.
+long: The jīvātman is the pure witness-enjoyer — it does not itself hear or see, but it is the consciousness that illumines all these sense functions. Through the ear, sound is heard; through the skin, touch is felt — but without the presence of the ātman animating these instruments, no cognition occurs. This is the classic Vedāntic teaching of the ātman as the Cit (pure awareness) that makes all experience possible. The individual self is not the senses themselves but the knowing presence behind them.
+wbw:
+  śrotram | accusative | hearing (ear)
+  cakṣuḥ | accusative | sight (eye)
+  sparśanam | accusative | touch
+  ca | conjunction | and
+  rasanam | accusative | taste
+  ghrāṇam | accusative | smell
+  eva | emphatic | indeed
+  ca | conjunction | and
+  adhi-ṣṭhāya | gerund | presiding over, residing in
+  manaḥ | accusative | mind
+  ca | conjunction | and
+  ayam | nominative | this (the jīva)
+  viṣayān | accusative pl. | sense objects
+  upasevate | 3rd sg. middle | enjoys, experiences
+---
+# 15.10
+short: The deluded do not see the soul as it departs, abides, or enjoys — connected with the guṇas — but those with the eye of wisdom see.
+long: Two classes of people are described. The first — utterly governed by their senses and without discrimination — cannot perceive the soul's movement: its departure at death, its residence in a body, or its experience through the guṇas. To them, only the body is real. The second — those whose inner eye of jñāna (wisdom) has been opened by practice and grace — can directly perceive the ātman's presence and movement. This "eye of wisdom" is not physical but the sharpened faculty of Self-inquiry and discrimination.
+wbw:
+  utkrāmantam | accusative participle | departing
+  sthitam | accusative participle | abiding, residing
+  vā api | disjunctive | or also
+  bhuñjānam | accusative participle | enjoying, experiencing
+  vā | disjunctive | or
+  guṇa-anvitam | accusative compound | connected with guṇas
+  vimūḍhāḥ | nominative pl. | the deluded, bewildered
+  na | negative | not
+  anupaśyanti | 3rd pl. | perceive, see clearly
+  paśyanti | 3rd pl. | see
+  jñāna-cakṣuṣaḥ | nominative pl. | those with the eye of wisdom
+---
+# 15.11
+short: The striving yogīs behold the soul dwelling in themselves — but the unrefined, though striving, do not see it even in themselves.
+long: Yoga here means the discipline of Self-inquiry and meditative effort. Even within the yoga path, there is distinction: those who have purified the antaḥkaraṇa (inner instrument) through sustained practice see the ātman clearly within themselves. But those whose minds remain unrefined — still rajasic or tamasic, still attached — look and cannot find It. This is not a discouragement but a call: the purification of the mind through the practices taught throughout the Gita is what makes the Ātman visible, not intellectual sophistication alone.
+wbw:
+  yatantaḥ | nominative pl. participle | striving, making effort
+  yoginaḥ | nominative pl. | yogīs
+  ca | conjunction | and
+  enam | accusative | this (the ātman)
+  paśyanti | 3rd pl. | behold, see
+  ātmani | locative | in the Self/themselves
+  avasthitam | accusative | dwelling, abiding
+  yatantaḥ api | concessive | even though striving
+  akṛta-ātmānaḥ | nominative pl. | those of unrefined self
+  na | negative | not
+  enam | accusative | this
+  paśyanti | 3rd pl. | see
+  acetasaḥ | nominative pl. | the unthinking, mindless
+---
+# 15.12
+short: Know that My splendor is the light of the sun that illumines the whole world, the light in the moon and in fire.
+long: Having established the Ātman's presence in all beings, Krishna now points to His cosmic manifestations. The brilliant, life-sustaining energy of the sun — which enables all photosynthesis, warmth, vision, and biological life — is none other than a ray of divine tejas (radiance). The same applies to the cooler luminosity of the moon that governs the night and the tides, and the warmth of fire used in yajña (ritual), cooking, and warmth. All forms of light and energy in creation trace back to the one divine luminosity.
+wbw:
+  yad | nominative | which
+  āditya-gatam | compound | gone into the sun, belonging to the sun
+  tejaḥ | nominative | splendor, radiance
+  jagat | accusative | the world
+  bhāsayate | 3nd sg. | illumines
+  akhilam | accusative | entire, whole
+  yad | nominative | which
+  candramasi | locative | in the moon
+  yad | nominative | which
+  ca | conjunction | and
+  agnau | locative | in fire
+  tat | nominative | that
+  tejaḥ | nominative | radiance
+  viddhi | 2nd sg. imperative | know
+  māmakam | accusative | Mine, belonging to Me
+---
+# 15.13
+short: Entering the earth I support all beings with My energy — and becoming the watery moon I nourish all plants.
+long: The divine is not merely a distant metaphysical principle but is actively present in the physical world. The earth's capacity to support, hold, and nourish all living beings — its gravitational field, its minerals, its stability — is a direct expression of divine energy (ojas). Similarly, the moon's influence on plant growth, on moisture, on sap — known to ancient Indian agriculture and also to modern science in terms of lunar cycles — is seen here as Krishna's direct nourishment of the plant world. The sacred and the material are one.
+wbw:
+  gām | accusative | the earth
+  āviśya | gerund | entering
+  ca | conjunction | and
+  bhūtāni | accusative pl. | beings, creatures
+  dhārayāmi | 1st sg. | I support, sustain
+  aham | nominative | I
+  ojasā | instrumental | by/with energy, vigor
+  puṣṇāmi | 1st sg. | I nourish, support
+  ca | conjunction | and
+  auṣadhīḥ | accusative pl. | plants, herbs, medicines
+  sarvāḥ | accusative pl. | all
+  somaḥ | nominative | the moon (Soma)
+  bhūtvā | gerund | having become
+  rasātmakaḥ | nominative | consisting of sap/essence
+---
+# 15.14
+short: Becoming Vaiśvānara (the digestive fire), I dwell in the bodies of living beings and, combined with the prāṇa and apāna, digest the fourfold food.
+long: Agni — fire — is the sacred transformative power at the center of Vedic religion. Here, that same divine fire is recognized within every living body as the digestive fire (jaṭharāgni). The four types of food (bhakṣya — chewed, bhojya — swallowed, lehya — licked, cūṣya — sucked) are all digested by this inner fire combined with the prāṇic airs. This is a profound statement: even the ordinary biological act of digestion is a sacred act, sustained by divine presence. Every meal is a yajña at the altar of the inner fire.
+wbw:
+  aham | nominative | I
+  vaiśvānaraḥ | nominative | Vaiśvānara (digestive fire, Agni in all beings)
+  bhūtvā | gerund | having become
+  prāṇinām | genitive pl. | of living beings
+  deham | accusative | body
+  āśritaḥ | nominative | dwelling in, residing in
+  prāṇa-apāna-samāyuktaḥ | compound nominative | united with prāṇa and apāna
+  pacāmi | 1st sg. | I digest, cook
+  annam | accusative | food
+  catur-vidham | accusative | fourfold
+---
+# 15.15
+short: I am seated in the hearts of all — from Me come memory, knowledge, and their loss — I alone am to be known by all the Vedas, I am the author of Vedānta and the knower of the Vedas.
+long: This verse makes the astonishing claim that the inner witness — the one who knows in each heart — is Krishna himself. Memory (smṛti) and its loss (apohana) both come from Him, meaning even the rhythm of learning and forgetting is divinely ordered. The Vedas, which have been described throughout the chapter as the "leaves" of the cosmic tree, ultimately point to one destination: this very Puruṣa. The one who truly knows the Vedas arrives at the Knower of the Vedas — not at a text, not at a ritual, but at the Living Presence within.
+wbw:
+  sarvasya | genitive | of all
+  ca | conjunction | and
+  aham | nominative | I
+  hṛdi | locative | in the heart
+  sanniviṣṭaḥ | nominative | seated, dwelling
+  mattaḥ | ablative | from Me
+  smṛtiḥ | nominative | memory
+  jñānam | nominative | knowledge
+  apohanam | nominative | loss of memory, removal
+  ca | conjunction | and
+  vedaiḥ | instrumental pl. | by/through the Vedas
+  ca | conjunction | and
+  sarvaiḥ | instrumental pl. | all
+  aham | nominative | I
+  eva | emphatic | alone
+  vedyaḥ | nominative gerundive | to be known
+  vedānta-kṛt | nominative compound | the author/maker of Vedānta
+  veda-vit | nominative compound | the knower of the Vedas
+  eva | emphatic | indeed
+  ca | conjunction | and
+  aham | nominative | I
+---
+# 15.16
+short: Two Puruṣas exist in this world — the perishable (kṣara) and the imperishable (akṣara) — all beings are kṣara and the unchanging (the unmanifest) is akṣara.
+long: Krishna lays out his metaphysics with rare clarity. "Kṣara" (perishable) refers to the entire manifest world — all names and forms, all bodies, all phenomena that arise, exist, and dissolve. "Akṣara" (imperishable/immovable) refers to what the Upanishads call the avyakta — the unmanifest ground that does not change. In Sāṃkhya, this is Mūla-Prakṛti. In Advaita, it is māyā-śakti. This dualistic framework sets up the transcendence of the next verse: there is a third, beyond both, who is the supreme.
+wbw:
+  dvāv | nominative dual | two
+  imau | nominative dual | these
+  puruṣau | nominative dual | Puruṣas (persons)
+  loke | locative | in the world
+  kṣaraḥ | nominative | the perishable
+  ca | conjunction | and
+  akṣaraḥ | nominative | the imperishable
+  eva | emphatic | indeed
+  ca | conjunction | and
+  kṣaraḥ | nominative | perishable
+  sarvāṇi | nominative pl. | all
+  bhūtāni | nominative pl. | beings
+  kūṭasthaḥ | nominative | the immovable, unchanging
+  akṣaraḥ | nominative | the imperishable
+  ucyate | 3rd sg. passive | is called, said to be
+---
+# 15.17
+short: But beyond these two is the Supreme Puruṣa, called the Paramātman, who, entering the three worlds as the imperishable Lord, sustains them.
+long: Having described kṣara (the changing manifest) and akṣara (the unchanging unmanifest), Krishna now reveals the uttama puruṣa — the Supreme Person who transcends both. The Paramātman is not merely the abstract ground of existence (Brahman of the Upanishads in the impersonal sense) but the Living Lord who actively enters, pervades, and sustains the three worlds (earth, atmosphere, heaven — or waking, dream, deep sleep). This is the theistic insight at the heart of the Gita: Brahman is not static but dynamic, sovereign, and personal.
+wbw:
+  uttamaḥ | nominative | the highest, supreme
+  puruṣaḥ | nominative | Puruṣa
+  tu | contrastive particle | but
+  anyaḥ | nominative | other, different
+  paramātmā | nominative | the Supreme Self
+  iti | quotative | thus, called
+  udāhṛtaḥ | nominative | designated, named
+  yaḥ | nominative | who
+  loka-trayam | accusative | the three worlds
+  āviśya | gerund | entering
+  bibharti | 3rd sg. | supports, sustains
+  avyayaḥ | nominative | imperishable
+  īśvaraḥ | nominative | the Lord
+---
+# 15.18
+short: Because I transcend the perishable and am even higher than the imperishable, I am declared by the world and by the Vedas as the Puruṣottama — the Supreme Person.
+long: The name Puruṣottama (uttama = highest, puruṣa = person) is not merely an honorific but a precise metaphysical designation. Krishna stands above kṣara (the entire manifest world including all embodied jīvas) AND above akṣara (the unmanifest Prakṛti). This transcendence-while-immanence is the unique claim of the Gita. The Vedas arrive at the same conclusion from their own direction — their highest teaching is not an impersonal absolute but this supremely personal reality. Puruṣottama is thus both a Vedic title and a personal name.
+wbw:
+  yasmāt | ablative | because, since
+  kṣaram | accusative | the perishable
+  atīto | nominative | having transcended
+  aham | nominative | I
+  akṣarāt | ablative | than the imperishable
+  api | emphatic | even, also
+  ca | conjunction | and
+  uttamaḥ | nominative | highest, superior
+  ataḥ | indeclinable | therefore
+  asmi | 1st sg. | I am
+  loke | locative | in the world
+  vede | locative | in the Vedas
+  ca | conjunction | and
+  prathitaḥ | nominative | celebrated, proclaimed
+  puruṣottamaḥ | nominative | Puruṣottama, the Supreme Person
+  iti | quotative | as, thus
+---
+# 15.19
+short: He who, undeluded, knows Me thus as Puruṣottama — he, knowing all, worships Me with his whole being, O Bhārata.
+long: Knowledge of Puruṣottama is the crown of all knowledge. To know Krishna as the supreme reality who transcends both the changing and the unchanging — not as one god among many, not as a teacher among teachers, but as the very ground and summit of existence — is to be "sarva-vit" (the knower of all). This complete knowledge does not remain abstract — it spontaneously becomes bhajana (whole-being worship). The verse teaches that jñāna and bhakti are not opposed: supreme knowledge flowers into supreme devotion.
+wbw:
+  yaḥ | nominative | whoever
+  evam | indeclinable | thus
+  asammūḍhaḥ | nominative | undeluded
+  jānāti | 3rd sg. | knows
+  mām | accusative | Me
+  puruṣottamam | accusative | as Puruṣottama
+  saḥ | nominative | he
+  sarva-vit | nominative compound | knower of all
+  bhajati | 3rd sg. | worships, adores
+  mām | accusative | Me
+  sarva-bhāvena | instrumental compound | with his whole being, completely
+  bhārata | vocative | O Bhārata (Arjuna)
+---
+# 15.20
+short: Thus this most secret teaching has been declared by Me — knowing this, O sinless one, one becomes a person of wisdom and one's actions reach fulfillment, O Bhārata.
+long: Krishna calls this chapter the "guhyatamam śāstram" — the most secret of teachings. Its secrecy is not in the sense of being hidden from the unworthy but secret in the sense of being subtle: most people live their entire lives without recognizing that the Divine sustains everything from within. Knowing Puruṣottama-tattva transforms the knower — they become "kṛta-kṛtya" (one whose purpose is fulfilled) and "buddha" (one awakened to truth). No further action is needed; the goal of all seeking is realized.
+wbw:
+  iti | quotative | thus
+  guhyatamam | nominative | most secret
+  śāstram | nominative | teaching, scripture
+  idam | nominative | this
+  uktam | nominative | has been spoken, declared
+  mayā | instrumental | by Me
+  anagha | vocative | O sinless one
+  etat | accusative | this
+  buddhvā | gerund | having understood, knowing
+  buddhimān | nominative | a person of wisdom
+  syāt | 3rd sg. optative | one becomes, would be
+  kṛta-kṛtyaḥ | nominative | one whose purpose is accomplished
+  ca | conjunction | and
+  bhārata | vocative | O Bhārata
+---

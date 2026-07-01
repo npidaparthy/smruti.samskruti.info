@@ -1,0 +1,680 @@
+# 1.1
+short: Dhṛtarāṣṭra asks Sañjaya: what did my people and the Pāṇḍavas do when gathered at Kurukṣetra, the field of righteousness, eager for battle?
+long: The blind king Dhṛtarāṣṭra opens the Gītā with one question that reveals his anxiety — he calls Kurukṣetra "dharmakṣetra," the field of dharma, perhaps fearing its sacred influence might turn the tide against his sons. The very first word "dharma" sets the theme of the entire Gītā. He asks Sañjaya, who was blessed by Vyāsa with divine sight, to report everything.
+wbw:
+  dharma-kṣetre | locative | on the field of righteousness
+  kuru-kṣetre | locative | at Kurukṣetra
+  samavetāḥ | nom. pl. | assembled together
+  yuyutsavaḥ | nom. pl. | eager to fight
+  māmakāḥ | nom. pl. | my people (the Kauravas)
+  pāṇḍavāḥ ca eva | nom. pl. | and the Pāṇḍavas also
+  kim akurvata | 3rd pl. imperfect | what did they do
+  sañjaya | vocative | O Sañjaya
+---
+# 1.2
+short: Sañjaya reports: King Duryodhana, seeing the Pāṇḍava army arrayed, approached his teacher Droṇa and spoke.
+long: Sañjaya begins his narrative. Duryodhana's first act is to consult Droṇācārya — showing both respect and anxiety. He addresses his own teacher but frames everything with possessive language ("your disciple" for Dhṛṣṭadyumna), revealing his mind from the very first words he speaks in the Gītā.
+wbw:
+  dṛṣṭvā | gerund | having seen
+  tu | particle | but/now
+  pāṇḍavānīkam | acc. sg. | the Pāṇḍava army
+  vyūḍham | acc. sg. | arrayed/marshalled
+  duryodhanaḥ | nom. sg. | Duryodhana
+  tadā | adverb | then
+  ācāryam | acc. sg. | to the teacher
+  upasaṅgamya | gerund | having approached
+  rājā | nom. sg. | the king
+  vacanam abravīt | 3rd sg. aorist | spoke these words
+---
+# 1.3
+short: Duryodhana points out the great Pāṇḍava army arrayed by your intelligent disciple Dhṛṣṭadyumna, son of Drupada.
+long: Duryodhana shows strategic awareness by immediately noting that the enemy army was organized by Dhṛṣṭadyumna — a skilled commander. By saying "your disciple," he subtly reminds Droṇa that his own student now leads the opposing forces, a tension Droṇa must have felt deeply. The word "dhīmatā" (wise/intelligent) is acknowledgment of a formidable foe.
+wbw:
+  paśya | imperative | behold/look
+  etām | acc. sg. | this
+  pāṇḍu-putrāṇām | gen. pl. | of the sons of Pāṇḍu
+  ācārya | vocative | O teacher
+  mahatīm | acc. sg. | great/vast
+  camūm | acc. sg. | army
+  vyūḍhām | acc. sg. | arrayed
+  drupada-putreṇa | inst. sg. | by the son of Drupada
+  tava | gen. | your
+  śiṣyeṇa | inst. sg. | by the disciple
+  dhīmatā | inst. sg. | intelligent/wise
+---
+# 1.4
+short: In the Pāṇḍava army are mighty heroes like Yudhāmanyu, Uttamaujā, and great warriors equal to Bhīma and Arjuna.
+long: Duryodhana catalogues the enemy's heroes to assess the threat. He names Bhīma and Arjuna as the benchmark of greatness — the two warriors he fears most. His assessment is military, analytical, and reveals his anxiety dressed as strategic planning.
+wbw:
+  atra | here | in this (army)
+  śūrāḥ | nom. pl. | heroes/warriors
+  maheṣvāsāḥ | nom. pl. | great bowmen
+  bhīma-arjuna-samāḥ | nom. pl. | equal to Bhīma and Arjuna
+  yudhi | loc. | in battle
+  yuyudhānaḥ | nom. sg. | Yuyudhāna (Sātyaki)
+  virāṭaḥ | nom. sg. | Virāṭa
+  drupadadaś ca | nom. sg. | and Drupada
+  mahārathaḥ | nom. sg. | great chariot-warrior
+---
+# 1.5
+short: Also Dhṛṣṭaketu, Cekitāna, the valiant king of Kāśī, Purujit, Kuntibhoja, and the great man Śaibya are there.
+long: Duryodhana continues his catalogue. These names represent regional kingdoms that allied with the Pāṇḍavas — a pan-India coalition. Each name had political and military weight; by listing them, Duryodhana implicitly acknowledges the Pāṇḍavas' superior alliance-building.
+wbw:
+  dhṛṣṭaketuḥ | nom. sg. | Dhṛṣṭaketu
+  cekitānaḥ | nom. sg. | Cekitāna
+  kāśirājaś ca | nom. sg. | and the king of Kāśī
+  vīryavān | nom. sg. | valiant
+  purujit | nom. sg. | Purujit
+  kuntibhojaś ca | nom. sg. | and Kuntibhoja
+  śaibyaś ca | nom. sg. | and Śaibya
+  nara-puṅgavaḥ | nom. sg. | bull among men
+---
+# 1.6
+short: The heroic Yudhāmanyu, the valiant Uttamaujā, the son of Subhadrā, and the sons of Draupadī — all are great chariot-warriors.
+long: Duryodhana's list ends with Abhimanyu (son of Subhadrā and Arjuna) and the five sons of Draupadī. These are the next generation of Pāṇḍava warriors — young, skilled, and dangerous. The implication is that even youth fights against him. His survey is thorough, almost obsessive in its anxiety.
+wbw:
+  yudhāmanyuś ca | nom. sg. | and Yudhāmanyu
+  vikrānta | adj. | heroic
+  uttamaujāś ca | nom. sg. | and Uttamaujā
+  vīryavān | nom. sg. | valiant
+  saubhadraḥ | nom. sg. | son of Subhadrā (Abhimanyu)
+  draupadeyāś ca | nom. pl. | sons of Draupadī
+  sarve | nom. pl. | all
+  eva | particle | indeed
+  mahā-rathāḥ | nom. pl. | great chariot-warriors
+---
+# 1.7
+short: Now know our distinguished commanders, O best among twice-born — I name the leaders of my army for your information.
+long: Having analysed the enemy, Duryodhana now turns to his own forces. He addresses Droṇa as "dvijottama" (best of the twice-born), flattering him before listing the Kaurava heroes. His tone shifts from anxiety to reassurance — both for himself and for Droṇa.
+wbw:
+  asmākam | gen. pl. | of us/our
+  tu | particle | but
+  viśiṣṭā ye | nom. pl. | distinguished ones who
+  tān nibodha | imperative | know them
+  dvijottama | vocative | O best of twice-born
+  nāyakā | nom. pl. | leaders/commanders
+  mama | gen. | my
+  sainyasya | gen. | of the army
+  saṃjñārtham | ind. | for information
+  tān bravīmi te | 1st sg. pres. | I tell them to you
+---
+# 1.8
+short: Yourself, Bhīṣma, Karṇa, the battle-victorious Kṛpa, Aśvatthāmā, Vikarṇa, and the son of Somadatta.
+long: Duryodhana lists his own heroes, led by Droṇa himself. Bhīṣma — the greatest — is mentioned second, as Droṇa is being addressed. Karṇa, despite being excluded from the formal warrior classification by some, is listed as a key asset. The list reveals Duryodhana's confidence in his commanders, though it also hints at the internal conflicts (Karṇa vs Bhīṣma, for instance).
+wbw:
+  bhavān | nom. sg. | yourself (honorific)
+  bhīṣmaś ca | nom. sg. | and Bhīṣma
+  karṇaś ca | nom. sg. | and Karṇa
+  kṛpaś ca | nom. sg. | and Kṛpa
+  samitiñjayaḥ | nom. sg. | victorious in battle
+  aśvatthāmā | nom. sg. | Aśvatthāmā
+  vikarṇaś ca | nom. sg. | and Vikarṇa
+  saumadattiḥ | nom. sg. | son of Somadatta (Bhūriśravas)
+  tathā eva ca | particle | and similarly
+---
+# 1.9
+short: And many other heroes — willing to give up their lives for me — are there, armed with various weapons, all skilled in battle.
+long: Duryodhana ends his army assessment with a sweeping claim: there are many more, all willing to die for him. The phrase "mad-arthe tyakta-jīvitāḥ" (ready to sacrifice their lives for my sake) is meant to boost confidence, but it also reveals Duryodhana's desperate need for loyalty. The Gītā will later reframe what is truly worth dying for.
+wbw:
+  anye ca | nom. pl. | and others also
+  bahavaḥ | nom. pl. | many
+  śūrāḥ | nom. pl. | heroes
+  mad-arthe | loc. | for my sake
+  tyakta-jīvitāḥ | nom. pl. | having given up their lives
+  nānā-śastra-praharaṇāḥ | nom. pl. | armed with various weapons
+  sarve | nom. pl. | all
+  yuddha-viśāradāḥ | nom. pl. | skilled in warfare
+---
+# 1.10
+short: Our army protected by Bhīṣma is unlimited; theirs protected by Bhīma is limited — thus the assessment is different.
+long: Duryodhana compares the two armies and concludes his is superior. But the reverse reading is also possible: he says "aparyāptam" (unlimited/insufficient) for his side and "paryāptam" (limited/sufficient) for theirs — the Sanskrit is deliberately ambiguous. Commentators debate this, with some reading it as Duryodhana's hidden anxiety breaking through even as he tries to be confident.
+wbw:
+  aparyāptam | adj. | unlimited/insufficient (ambiguous)
+  tad asmākam | that of ours | our force
+  balam | nom. sg. | strength/army
+  bhīṣmābhirakṣitam | nom. sg. | protected by Bhīṣma
+  paryāptam | adj. | limited/sufficient
+  tv idam eteṣām | of these | of them
+  balam | nom. sg. | strength
+  bhīmābhirakṣitam | nom. sg. | protected by Bhīma
+---
+# 1.11
+short: Therefore, all of you, standing in your respective positions at all the gates, must protect Bhīṣma in particular.
+long: Duryodhana's tactical order reveals the core of his military thinking: protect Bhīṣma. The grandsire is the anchor of the Kaurava strategy. Yet this order also shows Duryodhana's lack of trust — he needs to tell his commanders explicitly to guard Bhīṣma rather than trusting them to do so naturally. The anxiety driving his elaborate speech is unmistakable.
+wbw:
+  ayaneṣu | loc. pl. | at the stations/positions
+  ca sarveṣu | loc. pl. | and at all
+  yathā-bhāgam | adverb | according to position
+  avasthitāḥ | nom. pl. | stationed
+  bhīṣmam | acc. sg. | Bhīṣma
+  evābhirakṣantu | 3rd pl. imperative | must protect
+  bhavantaḥ | nom. pl. | all of you (honorific)
+  sarva | adj. | all
+  eva | particle | indeed
+  hi | particle | for
+---
+# 1.12
+short: The grandsire Bhīṣma, gladdening Duryodhana, roared like a lion and blew his conch loudly.
+long: Bhīṣma responds not with words but with action — a lion's roar and the blast of a conch. This is both encouragement to Duryodhana and a signal to the armies. Bhīṣma's silent response speaks volumes: he will fight, but he will not be drawn into Duryodhana's anxiety. The war begins to take on a momentum of its own.
+wbw:
+  tasya | gen. sg. | his
+  sañjanayan | present participle | causing/gladdening
+  harṣam | acc. sg. | joy
+  kuru-vṛddhaḥ | nom. sg. | the eldest Kuru (Bhīṣma)
+  pitāmahaḥ | nom. sg. | the grandsire
+  siṃha-nādam | acc. sg. | lion's roar
+  vinadyoccaiḥ | adverb | loudly
+  śaṅkham | acc. sg. | conch
+  dadhmau | 3rd sg. aorist | blew
+  pratāpavān | nom. sg. | glorious/mighty
+---
+# 1.13
+short: Then conches, kettledrums, tabors, drums, and cow-horns blew all at once — the sound was tumultuous.
+long: The battlefield erupts with sound. Sañjaya's vivid description makes the scene cinematic: the Kaurava instruments join in after Bhīṣma's signal. The noise is enormous, almost overwhelming. Yet within moments, Kṛṣṇa and Arjuna will counter with their divine conches whose names and sounds carry a different resonance entirely.
+wbw:
+  tataḥ | then | thereafter
+  śaṅkhāś ca | nom. pl. | and conches
+  bheryaś ca | nom. pl. | and kettledrums
+  paṇavānaka-gomukkhāḥ | nom. pl. | tabors, drums, and cow-horns
+  sahasaiva | adverb | suddenly/all at once
+  abhyahanyanta | 3rd pl. aorist passive | were blown/struck
+  sa śabdas | that sound | that noise
+  tumulo 'bhavat | 3rd sg. aorist | became tumultuous
+---
+# 1.14
+short: Then Mādhava and Pāṇḍava, standing in their great white chariot drawn by white horses, blew their divine conches.
+long: The Pāṇḍava response: Kṛṣṇa and Arjuna together in their white chariot, drawn by white horses. The imagery is deliberately luminous and pure, contrasting with the general noise of the Kauravas. Their chariot bears the Hanumān standard. The chariot is the center of the Bhagavad Gītā — the entire teaching will happen in this vehicle.
+wbw:
+  tataḥ | then | thereupon
+  śvetair hayaiḥ | inst. pl. | by white horses
+  yukte | loc. | yoked to
+  mahati | loc. | great
+  syandane | loc. | chariot
+  sthitau | nom. dual | standing
+  mādhavaḥ | nom. sg. | Kṛṣṇa (descendant of Madhu)
+  pāṇḍavaś ca eva | nom. sg. | and Arjuna
+  divyau | nom. dual | divine
+  śaṅkhau | acc. dual | two conches
+  pradadhmatuḥ | 3rd dual aorist | blew
+---
+# 1.15
+short: Kṛṣṇa blew Pāñcajanya, Arjuna blew Devadatta; the wolf-bellied Bhīma blew the mighty conch Pauṇḍra.
+long: Each great warrior has a named conch — a sign of status and identity. Pāñcajanya (conch of Pāñcajana, the demon Kṛṣṇa slew) is Kṛṣṇa's conch, taken from the ocean's depths. Devadatta (god-given) is Arjuna's. Bhīma's Pauṇḍra reflects his wolf-belly and enormous strength. The naming of conches elevates this from noise to identity proclamation.
+wbw:
+  pāñcajanyam | acc. sg. | Pāñcajanya (Kṛṣṇa's conch)
+  hṛṣīkeśaḥ | nom. sg. | Hṛṣīkeśa (Kṛṣṇa)
+  devadattam | acc. sg. | Devadatta (Arjuna's conch)
+  dhanaṃjayaḥ | nom. sg. | Arjuna (winner of wealth)
+  pauṇḍram | acc. sg. | Pauṇḍra (Bhīma's conch)
+  dadhmau | 3rd sg. aorist | blew
+  mahā-śaṅkham | acc. sg. | mighty conch
+  bhīma-karmā | nom. sg. | Bhīma (of dreadful deeds)
+  vṛkodaraḥ | nom. sg. | wolf-bellied (epithet of Bhīma)
+---
+# 1.16
+short: King Yudhiṣṭhira blew Anantavijaya; Nakula and Sahadeva blew Sughoṣa and Maṇipuṣpaka.
+long: The Pāṇḍava roll-call of conches continues. Yudhiṣṭhira's "Anantavijaya" (infinite victory) reflects his righteous claim to the throne. Nakula and Sahadeva's conches complete the fraternal chorus. Together, the five Pāṇḍava conches represent a unified, coordinated response — brotherhood in sound and purpose.
+wbw:
+  anantavijayam | acc. sg. | Anantavijaya (Yudhiṣṭhira's conch)
+  rājā | nom. sg. | the king
+  kuntī-putraḥ | nom. sg. | son of Kuntī (Yudhiṣṭhira)
+  yudhiṣṭhiraḥ | nom. sg. | Yudhiṣṭhira
+  nakuḥlaḥ | nom. sg. | Nakula
+  sahadevaś ca | nom. sg. | and Sahadeva
+  sughoṣa-maṇipuṣpakau | acc. dual | Sughoṣa and Maṇipuṣpaka
+---
+# 1.17
+short: And the king of Kāśī the great archer, Śikhaṇḍī the great charioteer, Dhṛṣṭadyumna and Virāṭa, and the unconquered Sātyaki —
+long: The Pāṇḍava allies also blow their conches. Śikhaṇḍī — destined to be the agent of Bhīṣma's fall — is named here, though his role remains hidden from all but the audience who knows the story. Each name represents a promise: this war will not be settled quickly or without enormous loss.
+wbw:
+  kāśyaś ca | nom. sg. | and the king of Kāśī
+  parameṣvāsaḥ | nom. sg. | great bowman
+  śikhaṇḍī ca | nom. sg. | and Śikhaṇḍī
+  mahā-rathaḥ | nom. sg. | great charioteer
+  dhṛṣṭadyumnaḥ | nom. sg. | Dhṛṣṭadyumna
+  virāṭaś ca | nom. sg. | and Virāṭa
+  sātyakiś | nom. sg. | Sātyaki
+  cāparājitaḥ | nom. sg. | the unconquered
+---
+# 1.18
+short: Drupada and the sons of Draupadī together, and the mighty-armed son of Subhadrā, all blew their conches from all sides.
+long: The symphony of Pāṇḍava conches reaches its climax with Drupada (the king, father-in-law of the Pāṇḍavas), the five sons of Draupadī, and Abhimanyu (son of Subhadrā). The sound fills all directions. Sañjaya's narration builds to this moment because the next scene — silence and Arjuna's crisis — requires the contrast of this thunderous overture.
+wbw:
+  drupadaś ca | nom. sg. | and Drupada
+  draupadeyāś ca | nom. pl. | and the sons of Draupadī
+  sarvaśaḥ | adverb | from all sides
+  pṛthivī-pate | vocative | O lord of the earth (Dhṛtarāṣṭra)
+  saubhadraś ca | nom. sg. | and the son of Subhadrā (Abhimanyu)
+  mahābāhuḥ | nom. sg. | mighty-armed
+  śaṅkhān | acc. pl. | conches
+  dadhumuḥ | 3rd pl. aorist | blew
+  pṛthak pṛthak | separately | each individually
+---
+# 1.19
+short: That tumultuous sound rent the hearts of Dhṛtarāṣṭra's sons, reverberating through earth and sky.
+long: The sound penetrates to a psychological and cosmic level — it tears the hearts of the Kauravas. This is not just noise; it is the sound of dharma asserting itself. The earth and sky resonate because the universe recognizes the significance of what is about to unfold. The Gītā is cosmic drama, not merely a human conflict.
+wbw:
+  sa ghoṣaḥ | nom. sg. | that sound/noise
+  dhārtarāṣṭrāṇām | gen. pl. | of Dhṛtarāṣṭra's sons
+  hṛdayāni | acc. pl. | hearts
+  vyadārayat | 3rd sg. imperfect | tore/rent
+  nabhaś ca | acc. sg. | and the sky
+  pṛthivīm | acc. sg. | the earth
+  caiva | particle | also
+  tumulo | adj. | tumultuous
+  vyanunādayan | present participle | making resound
+---
+# 1.20
+short: Then Arjuna, seeing Dhṛtarāṣṭra's sons arrayed and arrows about to fly, took up his bow and spoke to Kṛṣṇa.
+long: The battle is about to begin. Arrows are ready to fly. In this crucial moment, Arjuna — the greatest archer of his age — picks up his bow and turns not to the battlefield but to Kṛṣṇa. This turning is the pivot of the entire Gītā: from external action to inner inquiry. What follows is not cowardice but the beginning of wisdom.
+wbw:
+  atha | then | now/at that point
+  vyavasthitān dṛṣṭvā | gerund | having seen arrayed
+  dhārtarāṣṭrān | acc. pl. | Dhṛtarāṣṭra's sons
+  kapi-dhvajaḥ | nom. sg. | Arjuna (monkey-bannered)
+  pravṛtte | loc. | begun/about to begin
+  śastra-sampāte | loc. | the discharge of weapons
+  dhanuḥ | acc. sg. | bow
+  udyamya | gerund | having raised
+  pāṇḍavaḥ | nom. sg. | the son of Pāṇḍu (Arjuna)
+  hṛṣīkeśam | acc. sg. | Kṛṣṇa (master of the senses)
+  tadā | then | at that time
+  vākyam idam abravīt | spoke these words | said this
+---
+# 1.21
+short: Arjuna said: O Acyuta, place my chariot between the two armies so I may see those eager to fight.
+long: Arjuna requests a viewing position — he wants to assess the battlefield. "Acyuta" (the infallible, the unfallen) is his address to Kṛṣṇa. The name carries irony: Arjuna, who is about to fall into despondency, addresses the one who never falls. His request seems purely strategic, but the vision he is about to receive will shatter him.
+wbw:
+  arjuna uvāca | nom. sg. | Arjuna said
+  senayor | gen. dual | of the two armies
+  ubhayor madhye | loc. | in the middle
+  ratham | acc. sg. | chariot
+  sthāpaya | imperative | place/station
+  me | dat. | for me
+  acyuta | vocative | O Acyuta (Kṛṣṇa, the infallible)
+---
+# 1.22
+short: That I may see those who stand eager to fight, who I must do battle with in this great undertaking of war.
+long: Arjuna explains his motive: he wants to see who has come to fight. The phrase "yotsyamānān" (those about to fight) and "aham" (I) together emphasize the personal weight he feels. This is not curiosity — it is a soldier's reconnaissance. But the reconnaissance will destroy him, because what he sees are not enemies but his own people.
+wbw:
+  yāvad etān nirīkṣe | 1st sg. pres. | that I may observe these
+  aham | nom. | I
+  yoddhu-kāmān | acc. pl. | desiring to fight
+  avasthitān | acc. pl. | arrayed/standing
+  kair mayā | inst. + nom. | with whom I
+  saha | together | together with
+  yoddhavyam | gerund | must fight
+  asmin raṇa-samudyame | loc. | in this undertaking of war
+---
+# 1.23
+short: I will see those who have come to fight here, wishing to please the evil-minded son of Dhṛtarāṣṭra.
+long: Arjuna's final reason: he wants to see who has chosen to serve Duryodhana. "Duryodhana-priyepsavaḥ" — those desiring to please the ill-intentioned Duryodhana — reveals Arjuna's moral framing: he sees the conflict in terms of justice versus injustice. Yet within moments, this clarity will dissolve as faces he loves appear on the other side.
+wbw:
+  yotsyamānān | acc. pl. | those about to fight
+  avekṣe | 1st sg. pres. | I observe/see
+  aham | nom. | I
+  ya ete | nom. pl. | who these
+  atra samāgatāḥ | nom. pl. | gathered here
+  dhārtarāṣṭrasya | gen. sg. | of Dhṛtarāṣṭra's son (Duryodhana)
+  durbuddheḥ | gen. sg. | of the evil-minded
+  yuddhe | loc. | in battle
+  priya-cikīrṣavaḥ | nom. pl. | desirous of pleasing
+---
+# 1.24
+short: Sañjaya said: Thus addressed by Arjuna, Hṛṣīkeśa placed the excellent chariot between the two armies.
+long: Kṛṣṇa complies instantly and perfectly — no argument, no explanation. This is the action of a perfect friend and charioteer: to position Arjuna exactly where he needs to be. The placement is itself profound: between two armies, belonging to neither, is the space where truth is seen and the Gītā can be taught.
+wbw:
+  sañjaya uvāca | nom. sg. | Sañjaya said
+  evam ukto | nom. sg. | thus addressed
+  hṛṣīkeśaḥ | nom. sg. | Kṛṣṇa
+  guḍākeśena | inst. sg. | by Arjuna (conqueror of sleep)
+  bhārata | vocative | O Bhārata (Dhṛtarāṣṭra)
+  senayor ubhayor madhye | loc. | in the middle of the two armies
+  sthāpayitvā | gerund | having placed
+  ratha-uttamam | acc. sg. | the excellent chariot
+---
+# 1.25
+short: In front of Bhīṣma, Droṇa and all the chiefs, Kṛṣṇa said: O Pārtha, behold all these Kurus assembled here.
+long: Kṛṣṇa positions the chariot in the most devastating location: directly in front of Bhīṣma and Droṇa, the two people Arjuna loves and reveres most among the Kauravas. Then Kṛṣṇa says simply: "Look." The command to behold is not cruel — it is the necessary first step of the teaching. Arjuna must see clearly before he can understand clearly.
+wbw:
+  bhīṣma-droṇa-pramukhataḥ | loc. | in front of Bhīṣma and Droṇa
+  sarveṣām | gen. pl. | of all
+  ca | particle | and
+  mahīkṣitām | gen. pl. | of the rulers of the earth
+  uvāca | 3rd sg. aorist | said
+  pārtha | vocative | O Pārtha (Arjuna)
+  paśyaitān | imperative | behold these
+  samāvetān | acc. pl. | assembled
+  kurūn iti | acc. pl. | the Kurus
+---
+# 1.26
+short: There Arjuna saw standing fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, and friends.
+long: The seeing begins. In one sweeping look, Arjuna beholds not enemies but relationships — the entire web of his life arrayed against him. Fathers, teachers, uncles, brothers, sons: this is not an army, it is his world. The Gītā records this moment of recognition because it is the moment when abstract war becomes personal grief, and personal grief opens the door to philosophy.
+wbw:
+  tatrāpaśyat | 3rd sg. imperfect | there he saw
+  sthitān pārthaḥ | nom. sg. | Arjuna standing (there)
+  pitṝn | acc. pl. | fathers
+  atha pitāmahān | acc. pl. | and grandfathers
+  ācāryān | acc. pl. | teachers
+  mātulān | acc. pl. | maternal uncles
+  bhrātṝn | acc. pl. | brothers
+  putrān | acc. pl. | sons
+  pautrān | acc. pl. | grandsons
+  sakhīṃś ca | acc. pl. | and friends
+---
+# 1.27
+short: Fathers-in-law and dear companions in both armies — seeing all these kinsmen arrayed, the son of Kuntī —
+long: The verse is incomplete syntactically — Arjuna's reaction continues into the next verse. This grammatical incompleteness mirrors his emotional incompleteness. He cannot finish the thought because he cannot process what he sees. The Gītā's poetics are as precise as its philosophy: form follows feeling.
+wbw:
+  śvaśurān | acc. pl. | fathers-in-law
+  suhṛdaś caiva | acc. pl. | and also dear companions
+  senayoḥ | gen. dual | in both armies
+  ubhayor api | in both | on both sides
+  tān samīkṣya | gerund | having seen all those
+  sa kaunteyaḥ | nom. sg. | that son of Kuntī (Arjuna)
+  sarvān | acc. pl. | all
+  bandhūn | acc. pl. | kinsmen/relations
+  avasthitān | acc. pl. | arrayed/standing
+---
+# 1.28
+short: Overcome by compassion, Arjuna spoke in sorrow: O Kṛṣṇa, seeing my kinsmen arrayed here eager to fight, my limbs fail.
+long: Arjuna's response is physical before it is philosophical: his limbs fail, his mouth dries, his body trembles. This is grief landing in the body. The word "kṛpayā" (compassion) is significant — Arjuna names his feeling not as fear but as compassion. He cares about these people. That caring is both his crisis and, eventually, his greatest qualification for the teaching.
+wbw:
+  arjuna uvāca | nom. sg. | Arjuna said
+  dṛṣṭvemam | gerund + acc. | seeing these
+  sva-janam | acc. sg. | own people
+  kṛṣṇa | vocative | O Kṛṣṇa
+  yuyutsum | acc. sg. | eager to fight
+  samupasthitam | acc. sg. | arrayed before me
+  sīdanti | 3rd pl. present | sink/fail
+  mama | gen. | my
+  gātrāṇi | nom. pl. | limbs
+  mukham | nom. sg. | mouth
+  ca | particle | and
+  pariśuṣyati | 3rd sg. | dries up
+---
+# 1.29
+short: My body quivers, my hair stands on end, my bow Gāṇḍīva slips from my hand, and my skin burns.
+long: The physical symptoms intensify: quivering body, bristling hair, the Gāṇḍīva bow slipping from trained hands that have never dropped it before, burning skin. Each symptom is a symptom of grief, not cowardice. The Gāṇḍīva — the most famous bow in the world, gifted by Agni — slipping from Arjuna's hands is a profound image: his identity as a warrior is dissolving.
+wbw:
+  vepathuś ca | nom. sg. | and trembling
+  śarīre me | loc. | in my body
+  roma-harṣaś ca | nom. sg. | and bristling of hair
+  jāyate | 3rd sg. | arises
+  gāṇḍīvam | nom. sg. | the Gāṇḍīva bow
+  sraṃsate | 3rd sg. | slips/falls
+  hastāt | abl. | from the hand
+  tvak | nom. sg. | skin
+  caiva | particle | and indeed
+  paridahyate | 3rd sg. passive | burns all over
+---
+# 1.30
+short: I am unable to stand; my mind seems to whirl; I see inauspicious omens, O Keśava, and I foresee evil.
+long: Arjuna's collapse is both physical and mental. He cannot stand — the warrior who stood firm in countless battles cannot stand before his own family. His mind whirls — the intellect that once guided arrows with precision cannot find direction. He sees bad omens — which is his intuition telling him that no good can come from this. All of this is the prelude to his formal request for guidance.
+wbw:
+  na ca | negative | and not
+  śaknomy | 1st sg. | I am able
+  avasthātum | infinitive | to stand
+  bhramatīva | verb + iva | seems to whirl
+  ca | particle | and
+  me | gen. | my
+  manaḥ | nom. sg. | mind
+  nimittāni | acc. pl. | omens/signs
+  ca | particle | and
+  paśyāmi | 1st sg. | I see
+  viparītāni | acc. pl. | inauspicious/contrary
+  keśava | vocative | O Keśava (Kṛṣṇa)
+---
+# 1.31
+short: I see no good in slaying my own kinsmen in battle; nor do I desire victory, O Kṛṣṇa, nor kingdom, nor pleasures.
+long: This is the core of Arjuna's crisis stated plainly: he cannot see the value of this victory. What is a kingdom won through the blood of teachers, uncles, and brothers? What pleasure remains after such a war? Arjuna's utilitarian calculus fails because the cost exceeds any imaginable benefit. His question is genuine and profound — Kṛṣṇa will spend 18 chapters answering it.
+wbw:
+  na ca | negative | and not
+  śreyo 'nupaśyāmi | 1st sg. | I see good/benefit
+  hatvā | gerund | by killing
+  sva-janam | acc. sg. | own people
+  āhave | loc. | in battle
+  na | negative | not
+  kāṅkṣe | 1st sg. | I desire
+  vijayam | acc. sg. | victory
+  kṛṣṇa | vocative | O Kṛṣṇa
+  na ca rājyam | nor kingdom | nor kingdom
+  sukhāni | acc. pl. | pleasures/happiness
+  ca | particle | and
+---
+# 1.32
+short: Of what use is a kingdom, pleasures, or even life itself to us, when those for whose sake we desire them stand here in battle?
+long: Arjuna's logic is compelling and human: he wanted victory for the sake of his people — teachers, fathers, sons. But those very people are now the ones he must kill to achieve it. The means has consumed the end. Life itself becomes meaningless when those who give life meaning are the ones standing in the crosshairs. This is not weakness — it is moral lucidity.
+wbw:
+  kim naḥ | what to us | of what use to us
+  rājyena | inst. sg. | with kingdom
+  govinda | vocative | O Govinda (Kṛṣṇa)
+  kim | what | what
+  bhogaiḥ | inst. pl. | with pleasures
+  jīvitena | inst. sg. | with life
+  vā | or | or
+  yeṣām arthe | gen. pl. + loc. | for whose sake
+  kāṅkṣitam | acc. sg. | desired
+  naḥ | gen. pl. | by us
+  rājyam | nom. sg. | kingdom
+  bhogāḥ | nom. pl. | pleasures
+  sukhāni | nom. pl. | happiness
+  ca | particle | and
+---
+# 1.33
+short: Teachers, fathers, sons, grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, and kinsmen stand here.
+long: Arjuna repeats the catalogue of relationships, now listing those on the enemy side whom he most loves. The repetition is not literary flourish — it is the repetition of a mind that keeps circling back to the same unbearable fact. Teachers and sons: the two extremes of one's duty of care, and both are here, about to be destroyed.
+wbw:
+  ācāryāḥ | nom. pl. | teachers
+  pitaraḥ | nom. pl. | fathers
+  putrāḥ | nom. pl. | sons
+  tathā eva ca | particle | and similarly
+  pitāmahāḥ | nom. pl. | grandfathers
+  mātulāḥ | nom. pl. | maternal uncles
+  śvaśurāḥ | nom. pl. | fathers-in-law
+  pautrāḥ | nom. pl. | grandsons
+  śyālāḥ | nom. pl. | brothers-in-law
+  sambandhinaḥ | nom. pl. | relations/kinsmen
+  tathā | adverb | similarly
+---
+# 1.34
+short: These I do not wish to kill even if killed myself, O Madhusudhana — not for the sovereignty of the three worlds, much less for the earth.
+long: Arjuna's position reaches its absolute: he will not kill these people even for self-preservation. Even if they kill him, he will not strike back. And the reward he refuses is cosmic — not just earth's kingdom but the three worlds. Kṛṣṇa will later gently dismantle this position, not by arguing against compassion but by revealing a deeper understanding of what killing and dying actually mean.
+wbw:
+  etān na hantum | not to kill these | I do not wish to kill these
+  icchāmi | 1st sg. | I wish/desire
+  ghnatopi | gerund + api | even if killing me
+  madhusūdana | vocative | O Madhusūdana (Kṛṣṇa)
+  api | particle | even
+  trailokya-rājyasya | gen. sg. | for sovereignty of the three worlds
+  hetoḥ | gen. | for the sake of
+  kim nu | what then | how much less
+  mahī-kṛte | loc. | for the earth's sake
+---
+# 1.35
+short: What joy would we have in killing the sons of Dhṛtarāṣṭra, O Janārdana? Sin alone would cling to us in slaying these aggressors.
+long: Arjuna raises the moral question of killing even those who are morally in the wrong. He calls them "ātatāyinaḥ" — aggressors, the legally-defined class of people one is permitted to kill in self-defense. Yet he still refuses. The word "ātatāyin" is significant: Arjuna knows the legal category but rejects it on moral grounds. Kṛṣṇa will later address this exact tension.
+wbw:
+  nihatya | gerund | by slaying
+  dhārtarāṣṭrān | acc. pl. | the sons of Dhṛtarāṣṭra
+  naḥ | dat. pl. | to us
+  kā | nom. sg. | what
+  prītiḥ | nom. sg. | joy/pleasure
+  syāt | 3rd sg. optative | would be
+  janārdana | vocative | O Janārdana (Kṛṣṇa)
+  pāpam | nom. sg. | sin/evil
+  eva | particle | indeed
+  āśrayet | 3rd sg. optative | would cling to
+  asmān | acc. pl. | us
+  hatvā | gerund | by killing
+  etān ātatāyinaḥ | acc. pl. | these aggressors
+---
+# 1.36
+short: Therefore we should not kill the sons of Dhṛtarāṣṭra, our own kinsmen; for how can we be happy, O Mādhava, by killing our own people?
+long: Arjuna's conclusion: killing kinsmen cannot lead to happiness. The Sanskrit "svajanaṃ" (own people) is the key — it is not the abstract enemy that troubles him but the personal connection. This verse marks the end of Arjuna's utilitarian argument and the beginning of his social-moral argument, which continues through the end of the chapter.
+wbw:
+  tasmāt | therefore | therefore
+  na arhāḥ | not worthy | we should not
+  vayam | nom. pl. | we
+  hantuṃ | infinitive | to kill
+  dhārtarāṣṭrān | acc. pl. | the sons of Dhṛtarāṣṭra
+  sva-bāndhavān | acc. pl. | our own kinsmen
+  svajanam | acc. sg. | own people
+  hi | particle | for
+  ghātayitā | nom. sg. | by killing
+  katham | how | how
+  sukhinaḥ | nom. pl. | happy
+  syāma | 1st pl. optative | shall we be
+  mādhava | vocative | O Mādhava (Kṛṣṇa)
+---
+# 1.37
+short: Although these, with minds overcome by greed, see no wrong in destroying families or injuring friends —
+long: Arjuna turns the argument to the Kauravas: they are blinded by greed and cannot see the moral consequences of their actions. But Arjuna claims the right to clearer vision — and therefore greater responsibility. One who can see the wrong should not commit it even if others cannot see. This ethical stance is admirable, but Kṛṣṇa will show him that his vision is still incomplete.
+wbw:
+  yadyapi | even if | although
+  ete | nom. pl. | these
+  na paśyanti | 3rd pl. | do not see
+  lobha-upahata-cetasaḥ | nom. pl. | with minds overcome by greed
+  kula-kṣaya-kṛtam | acc. sg. | done by destruction of the family
+  doṣam | acc. sg. | fault/wrong
+  mitra-drohe | loc. | in injuring friends
+  ca | particle | and
+  pātakam | acc. sg. | sin
+---
+# 1.38
+short: — why should we not know to turn back from this sin, O Janārdana, we who can clearly see the wrong in the destruction of families?
+long: Arjuna completes the thought: if others sin out of ignorance, we who see clearly have all the more reason to refrain. This is the "greater insight demands greater restraint" argument. It is philosophically sound and ethically motivated — yet it is also incomplete, because it is based on a mistaken view of the self, which Kṛṣṇa will soon correct.
+wbw:
+  katham na | how not | why should we not
+  jñeyam | gerundive | know/understand
+  asmābhiḥ | inst. pl. | by us
+  pāpāt | abl. | from sin
+  asmāt | abl. | from this
+  nivartitum | infinitive | to turn back
+  kula-kṣaya-kṛtam | acc. sg. | caused by family destruction
+  doṣam | acc. sg. | evil/fault
+  prapaśyadbhiḥ | inst. pl. participle | by those who clearly see
+  janārdana | vocative | O Janārdana
+---
+# 1.39
+short: With the destruction of the family, the eternal family dharmas are destroyed; when dharma is destroyed, adharma overpowers the whole family.
+long: Now Arjuna turns to social consequences: the destruction of a family dissolves its dharmic traditions — the rituals, the customs, the ethical codes that hold society together. When these collapse, adharma floods in. This is Arjuna's sociological argument, and it has weight. The Gītā's response will not deny these social realities but will locate them within a larger metaphysical frame.
+wbw:
+  kula-kṣaye | loc. | in the destruction of the family
+  praṇaśyanti | 3rd pl. | are destroyed
+  kula-dharmāḥ | nom. pl. | family dharmas/traditions
+  sanātanāḥ | nom. pl. | eternal/ancient
+  dharme naṣṭe | loc. | when dharma is lost
+  kulam | acc. sg. | the family
+  kṛtsnam | adj. | entire
+  adharmaḥ | nom. sg. | adharma/unrighteousness
+  abhibhavaty | 3rd sg. | overpowers/overwhelms
+  uta | particle | indeed
+---
+# 1.40
+short: When adharma predominates, the women of the family are corrupted; when women are corrupted, O Vārṣṇeya, there arises intermingling of castes.
+long: Arjuna's argument reflects his social world's anxieties about lineage and social order. The concern is not misogynistic in its deepest intent but social: when war destroys the men who uphold social structure, social fabric tears apart. The Gītā does not explicitly endorse these social norms but works within Arjuna's framework to reach him where he is.
+wbw:
+  adharmābhibhavāt | abl. | from the predominance of adharma
+  kṛṣṇa | vocative | O Kṛṣṇa
+  praduṣyanti | 3rd pl. | become corrupted
+  kula-striyaḥ | nom. pl. | women of the family
+  strīṣu | loc. pl. | when women
+  duṣṭāsu | loc. pl. | are corrupted
+  vārṣṇeya | vocative | O scion of Vṛṣṇi (Kṛṣṇa)
+  jāyate | 3rd sg. | arises
+  varṇa-saṃkaraḥ | nom. sg. | mixture of castes
+---
+# 1.41
+short: Intermingling of castes leads to hell for the destroyers of the family and for the family itself; the ancestors fall when deprived of piṇḍa offerings.
+long: Arjuna extends the argument to the ancestors: the dead depend on the living's ritual offerings (piṇḍa, śrāddha). When families are destroyed and lineages broken, these offerings cease, and ancestors suffer. The social and cosmic contracts are both violated by this war. Arjuna is no longer just arguing from emotion — he is arguing from religious cosmology.
+wbw:
+  saṃkaro | nom. sg. | intermingling
+  narakāyaiva | dat. | indeed leads to hell
+  kula-ghnānām | gen. pl. | of the destroyers of the family
+  kulasya ca | gen. sg. | and of the family
+  patanti | 3rd pl. | fall/sink
+  pitaraḥ | nom. pl. | ancestors
+  hy eṣām | gen. pl. | of these
+  lupta | adj. | deprived
+  piṇḍa | acc. sg. | piṇḍa (rice balls offered to ancestors)
+  odaka-kriyāḥ | nom. pl. | water offerings/rituals
+---
+# 1.42
+short: By the transgressions of the destroyers of the family that cause social mixing, the eternal caste duties and family duties are overthrown.
+long: The dual destruction: both the eternal varna duties (caste duties) and the family traditions (kula-dharmas) collapse simultaneously. Arjuna sees this as total social disintegration. He is not wrong about the consequences — he is wrong about whether these consequences are the ultimate concern. The Gītā will reveal a deeper foundation beneath all social structures.
+wbw:
+  doṣaiḥ etaiḥ | inst. pl. | by these faults/transgressions
+  kula-ghnānām | gen. pl. | of the family destroyers
+  varṇa-saṃkara-kārakaiḥ | inst. pl. | causing social intermingling
+  utsādyante | 3rd pl. passive | are overthrown
+  jāti-dharmāḥ | nom. pl. | caste duties
+  kula-dharmāś ca | nom. pl. | and family duties
+  śāśvatāḥ | nom. pl. | eternal/permanent
+---
+# 1.43
+short: We have heard, O Janārdana, that those whose family dharmas are destroyed dwell in hell for an unspecified time.
+long: Arjuna draws on scriptural tradition — he has "heard" (uśma) that those who destroy family dharma spend time in hell. This appeal to scripture alongside personal reasoning shows Arjuna as a product of his tradition. But hearing without understanding is not the same as wisdom. Kṛṣṇa will take him from śruti (hearing) to vijñāna (direct understanding).
+wbw:
+  uśma | 1st pl. | we have heard
+  dharmam | acc. sg. | dharma
+  kula-ghnānām | gen. pl. | of those who destroy the family
+  janārdana | vocative | O Janārdana
+  niyatam | adj. | certain/unspecified
+  narakam | acc. sg. | hell
+  vasatīty | 3rd pl. | they dwell
+  anuśuśruma | 1st pl. perfect | we have heard (from tradition)
+---
+# 1.44
+short: Alas, we have resolved to commit a great sin, driven by the desire for royal pleasure, intent on slaying our own people.
+long: Arjuna's self-condemnation is complete: he names it "great sin" (mahāpātaka), identifies the motive (greed for kingdom), and recognizes the object (our own people). This self-awareness is rare and valuable. Yet it is built on a misunderstanding of what sin truly is in the context of one's svadharma. Kṛṣṇa's first response will address this directly.
+wbw:
+  aho | exclamation | alas
+  bata | particle | oh
+  mahat pāpam | acc. sg. | great sin
+  kartuṃ vyavasitāḥ vayam | 1st pl. | we have resolved to commit
+  yad | rel. pronoun | which/because
+  rājya-sukha-lobhena | inst. sg. | by desire for kingdom and pleasure
+  hantuṃ | infinitive | to slay
+  svajanam | acc. sg. | own people
+  udyatāḥ | nom. pl. | intent/resolved
+---
+# 1.45
+short: If the weaponed sons of Dhṛtarāṣṭra should slay me, unresisting and unarmed in battle, that would be greater happiness for me.
+long: Arjuna reaches his most extreme position: let me be killed rather than kill. This seems noble — and it is partly noble — but Kṛṣṇa will show that this passive acceptance of death is also a form of attachment: attachment to the idea of being the innocent one, of having clean hands. True renunciation is not passivity but nishkama action.
+wbw:
+  yadi | if | if
+  mām | acc. | me
+  apratīkāram | acc. sg. | unresisting
+  aśastram | acc. sg. | unarmed
+  śastra-pāṇayaḥ | nom. pl. | weapon-bearing
+  dhārtarāṣṭrāḥ | nom. pl. | sons of Dhṛtarāṣṭra
+  raṇe | loc. | in battle
+  hanyuḥ | 3rd pl. optative | should slay
+  tan me | that for me | that would be for me
+  kṣemataraṃ | comparative | more beneficial/better
+  bhavet | 3rd sg. optative | would be
+---
+# 1.46
+short: Sañjaya said: Speaking thus on the battlefield, Arjuna sank into the seat of his chariot, casting aside his bow and arrows, his mind overcome with grief.
+long: The chapter ends with Arjuna's physical and psychological collapse. He drops the Gāṇḍīva — an act unthinkable for a warrior — and sits down in his chariot. The word "viṣīdann" (grieving, despondent) gives the chapter its name: Arjuna Viṣāda Yoga. Yoga of Despondency. The Gītā names this crisis a yoga — because it is through this very breakdown that the breakthrough becomes possible.
+wbw:
+  sañjaya uvāca | nom. sg. | Sañjaya said
+  evam uktvā | gerund | having spoken thus
+  arjunaḥ | nom. sg. | Arjuna
+  saṃkhye | loc. | on the battlefield
+  ratha-upasthe | loc. | on the seat of the chariot
+  upāviśat | 3rd sg. aorist | sat down
+  visṛjya | gerund | casting aside
+  sa-śaram | acc. sg. | along with arrows
+  cāpam | acc. sg. | the bow
+  śoka-saṃvigna-mānasaḥ | nom. sg. | with mind overwhelmed by grief
+---
+# 1.47
+short: Thus ends Chapter One of the Bhagavad Gītā — the Yoga of Arjuna's Despondency.
+long: The chapter heading is Arjuna Viṣāda Yoga. The naming of grief as "yoga" is the Gītā's first radical claim: that the crisis of meaning, the breakdown of certainty, the collapse of easy answers — these are not obstacles to the spiritual path but its very beginning. The despondency of Arjuna is the necessary precondition for the wisdom of Kṛṣṇa. Without the question, there is no teaching.
+wbw:
+  arjuna-viṣāda-yogaḥ | nom. sg. | the yoga of Arjuna's despondency
+  nāma | ind. | named
+  prathamaḥ adhyāyaḥ | nom. sg. | the first chapter
+---

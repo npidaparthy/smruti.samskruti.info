@@ -1,0 +1,443 @@
+# 5.1
+short: Arjuna said: O Kṛṣṇa, you praise renunciation of actions and then yoga (of action). Tell me decisively which of these two is better.
+long: Arjuna revives the question from chapter 3: if both action and renunciation lead to liberation, which is superior? He wants a definitive answer. The chapter will argue that external renunciation without inner transformation is inferior to karma yoga, and that ultimately both paths converge for the self-realized.
+wbw:
+  arjunaḥ | nom. | Arjuna
+  uvāca | 3rd sg. perf. | said
+  sannyāsaṃ | acc. | renunciation
+  karmaṇāṃ | gen. pl. | of actions
+  kṛṣṇa | voc. | O Kṛṣṇa
+  punar | adv. | again
+  yogaṃ | acc. | yoga
+  ca | conj. | and
+  śaṃsasi | 2nd sg. | you praise
+  yac chreya | which better
+  etayor ekaṃ | of these two one
+  tan me | that to me
+  brūhi | 2nd sg. imper. | tell
+  suniścitam | acc. | decisively
+---
+# 5.2
+short: The Blessed Lord said: Both renunciation and yoga of action lead to liberation. But of the two, karma yoga is superior to sannyāsa (renunciation of action).
+long: Kṛṣṇa gives his verdict: karma yoga (yoga of action) is better than mere sannyāsa (external renunciation). Both lead to the supreme (niḥśreyasam). But karma yoga is "viśiṣyate" — distinguished/superior. The reason, as the next verses clarify: genuine renunciation is an inner state, not an external posture, and karma yoga more reliably cultivates that inner state.
+wbw:
+  śrī-bhagavān | nom. | the Blessed Lord
+  uvāca | 3rd sg. perf. | said
+  sannyāsaḥ | nom. | renunciation
+  karma-yogaś | nom. | karma yoga
+  ca | conj. | and
+  niḥśreyasa-karāv ubhau | both leading to liberation
+  tayos | gen. dual | of the two
+  tu | particle | but
+  karma-sannyāsāt | abl. | than renunciation of action
+  karma-yogo | nom. | karma yoga
+  viśiṣyate | 3rd sg. pass. | is superior
+---
+# 5.3
+short: One who neither hates nor desires (is free from dualities) is to be known as a constant renunciant. Free from duality, that person is easily freed from bondage, O mighty-armed.
+long: The definition of a true sannyāsī: not one who wears ochre robes but one who "neither hates nor desires" (dvandvas). "Nitya-sannyāsī" — always a renunciant. And the result: "sukhaṃ bandhāt pramucyate" — is easily freed from bondage. External renunciation without this inner non-dual quality is not real renunciation.
+wbw:
+  jñeyaḥ | nom. | to be known
+  sa nitya-sannyāsī | as a constant renunciant
+  yo | rel. | who
+  na | neg. | not
+  dveṣṭi | 3rd sg. | hates
+  na | neg. | nor
+  kāṃkṣati | 3rd sg. | desires
+  nirdvandvaḥ | nom. | free from duality
+  hi | particle | indeed
+  mahā-bāho | voc. | O mighty-armed
+  sukhaṃ | adv. | easily
+  bandhāt | abl. | from bondage
+  pramucyate | 3rd sg. pass. | is freed
+---
+# 5.4
+short: Children, not the wise, speak of Sāṅkhya and yoga as different. One who is properly established in either obtains the fruits of both.
+long: "Bālāḥ" (children/the immature) see Sāṅkhya (knowledge path / renunciation) and yoga (karma yoga) as opposites. But the wise (paṇḍitāḥ) know they are not. One who achieves either achieves both. Why? Because both paths, if pursued fully, lead to the same inner realization — the transcendence of ego-doership. The apparent difference is pedagogical, not ontological.
+wbw:
+  sāṅkhya-yogau | nom. dual | Sāṅkhya and yoga
+  pṛthag bālāḥ | as different, children
+  pravadanti | 3rd pl. | speak
+  na paṇḍitāḥ | not the wise
+  ekam apy āsthitaḥ | established in one
+  samyag | adv. | properly
+  ubhayor vindate phalam | obtains the fruit of both
+---
+# 5.5
+short: The state reached by Sāṅkhyas is also attained by yogis. One who sees Sāṅkhya and yoga as one — that person truly sees.
+long: The convergence thesis: Sāṅkhya (jñāna, the path of knowledge and renunciation) and yoga (karma yoga, the path of action) lead to the same goal. "Yaḥ paśyati sa paśyati" — the one who sees this unity truly sees. The apparent divergence between the two paths is the starting point; the goal is the same. This is one of the Gītā's integrative moves.
+wbw:
+  yat | acc. | what
+  sāṅkhyaiḥ | instr. pl. | by Sāṅkhyas
+  prāpyate | 3rd sg. | is reached
+  sthānam | acc. | state/place
+  tad yogair api | that by yogis also
+  gamyate | 3rd sg. | is attained
+  ekaṃ | acc. | one
+  sāṅkhyaṃ ca yogaṃ ca | Sāṅkhya and yoga
+  yaḥ paśyati | who sees
+  sa paśyati | truly sees
+---
+# 5.6
+short: Renunciation (sannyāsa) is indeed hard to attain without yoga (of action); the sage yoked to yoga attains Brahman quickly.
+long: Without yoga (karma yoga's discipline), sannyāsa is very difficult: "duḥkham āptum ayogataḥ." The yoga-yukta muni (sage yoked to yoga) reaches Brahman "na cireṇa" — soon, without delay. This provides the practical case for karma yoga: it is the more accessible and effective path for most people, especially at the outset of spiritual life.
+wbw:
+  sannyāsas | nom. | renunciation
+  tu | particle | but
+  mahā-bāho | voc. | O mighty-armed
+  duḥkham | nom. | difficult
+  āptum | inf. | to attain
+  ayogataḥ | abl. | without yoga
+  yoga-yukto | nom. | yoked to yoga
+  munir brahma | a sage Brahman
+  na cireṇa | soon
+  adhigacchati | 3rd sg. | attains
+---
+# 5.7
+short: One who is yoked to yoga, whose self is purified, whose self is controlled, whose senses are conquered, whose self becomes all beings — even acting, one is not tainted.
+long: The qualities of the karma yogi who acts without being tainted: yoga-yukta (yoked to yoga), viśuddha-ātmā (purified self), vijita-ātmā (self-controlled), jita-indriya (senses conquered), sarva-bhūta-ātma-bhūtātmā (self having become the self of all beings — universal empathy/identification). For such a person, "kurvann api na lipyate" — even while acting, not tainted. The inner quality, not the action itself, determines bondage.
+wbw:
+  yoga-yukto | nom. | yoked to yoga
+  viśuddhātmā | nom. | purified self
+  vijitātmā | nom. | self-controlled
+  jitendriyaḥ | nom. | senses conquered
+  sarva-bhūtātma-bhūtātmā | nom. | whose self has become the self of all beings
+  kurvann api | even acting
+  na lipyate | is not tainted
+---
+# 5.8
+short: "I am not doing anything" — thus the truth-knowing yogi should think while seeing, hearing, touching, smelling, eating, going, sleeping, breathing—
+long: (Continued in 5.9) The inner reality of the self-realized while engaging in all activities: "naiva kiñcit karomī" — I am not doing anything at all. This is not a philosophical pose but the actual experience of the one who sees the Self as uninvolved, while the senses engage with their objects. The complete list of activities in 5.8-9 covers the full range of embodied existence.
+wbw:
+  naivaṃ | not at all
+  kiñcit | anything
+  karomī | 1st sg. | I do
+  iti | thus
+  yukto | nom. | the yogi
+  manyeta | 3rd sg. opt. | should think
+  tattva-vit | nom. | truth-knower
+  paśyan | pres. part. | seeing
+  śṛṇvan | pres. part. | hearing
+  spṛśan | pres. part. | touching
+  jighrann | pres. part. | smelling
+  aśnan | pres. part. | eating
+  gacchan | pres. part. | going
+  svapan | pres. part. | sleeping
+  śvasan | pres. part. | breathing
+---
+# 5.9
+short: — speaking, letting go, seizing, opening and closing the eyes: "The senses move among their objects" — one who is convinced of this.
+long: The continuation: pralapan (speaking), visṛjan (letting go/excreting), gṛhṇan (seizing/grasping), unmīṣan-nimīṣan (opening and closing eyes). "Indriyāṇīndriyārtheṣu vartante iti dhārayan" — "The senses are moving among their objects" — holding this conviction. The yogi's certainty is: "I (the Self) am not doing any of this; the senses are acting through their objects." This conviction does not destroy behavior — it liberates the one who holds it.
+wbw:
+  pralapan | pres. part. | speaking
+  visṛjan | pres. part. | letting go
+  gṛhṇann | pres. part. | seizing
+  unmiṣan | pres. part. | opening (eyes)
+  nimiṣann api | even closing (eyes)
+  indriyāṇy | nom. pl. | the senses
+  indriyārtheṣu | loc. pl. | among sense objects
+  vartante | 3rd pl. | move
+  iti | thus
+  dhārayan | pres. part. | holding the conviction
+---
+# 5.10
+short: One who acts placing all actions in Brahman, abandoning attachment — is not tainted by sin, just as a lotus leaf is not wetted by water.
+long: The image of the lotus: a lotus grows in water, rooted in mud, but its leaf repels water — unaffected. Similarly the karma yogi "acts in Brahman" (brahmaṇy ādhāya karmāṇi) with saṅga-tyaktvā (attachment abandoned). Sin (pāpa) does not adhere. The lotus image will appear again in the tradition as the model of engaged non-attachment.
+wbw:
+  brahmaṇy | loc. | in Brahman
+  ādhāya | gerund | placing/resting
+  karmāṇi | acc. pl. | actions
+  saṅgaṃ | acc. | attachment
+  tyaktvā | gerund | abandoning
+  karoti | 3rd sg. | acts
+  yaḥ | rel. | who
+  lipyate | 3rd sg. pass. | is tainted
+  na sa | not that person
+  pāpena | instr. | by sin
+  padma-patram | nom. | lotus leaf
+  ivāmbhasā | like by water
+---
+# 5.11
+short: Yogis act with body, mind, intelligence, and even with senses alone — abandoning attachment — for self-purification.
+long: The karma yogi uses all five instruments: body (kāya), mind (manas), intelligence (buddhi), and senses (indriya) — all engage in action, but always "tyaktvā saṅgam" — with attachment abandoned. The purpose is "ātma-śuddhaye" — self-purification. Action is not abandoned; the inner grip on action is abandoned. The instrument acts; the inner self watches, purifying.
+wbw:
+  kāyena | instr. | with the body
+  manasā | instr. | with the mind
+  buddhyā | instr. | with the intelligence
+  kevalair indriyair api | with senses alone even
+  yoginaḥ | nom. pl. | yogis
+  karma kurvanti | perform action
+  saṅgaṃ | acc. | attachment
+  tyaktvā | gerund | abandoning
+  ātma-śuddhaye | dat. | for self-purification
+---
+# 5.12
+short: A yoked (disciplined) person, having abandoned the fruit of action, attains lasting peace. An undisciplined person, attached to the fruit, is bound by desire-driven action.
+long: The pivotal contrast: yuktaḥ (the yoked/disciplined one) abandons karmaphalam (fruit of action) and attains "śāntim āptikām" — lasting peace. Ayuktaḥ (the undisciplined), kāma-kāreṇa (driven by desire), is bound by action. The difference is not the action but the attachment to results. This is the karma yoga formula in one verse.
+wbw:
+  yuktaḥ | nom. | the yoked/disciplined one
+  karma-phalaṃ | acc. | fruit of action
+  tyaktvā | gerund | having abandoned
+  śāntim | acc. | peace
+  āpnoti | 3rd sg. | attains
+  naiṣṭhikīm | acc. | lasting/ultimate
+  ayuktaḥ | nom. | the undisciplined one
+  kāma-kāreṇa | instr. | by desire-driven action
+  phale | loc. | in the fruit
+  sakto | nom. | attached
+  nibadhyate | 3rd sg. | is bound
+---
+# 5.13
+short: The embodied one, having renounced all actions mentally, dwells happily in the city of nine gates, not acting, not causing action.
+long: The "city of nine gates" is the body (two eyes, two ears, two nostrils, mouth, anus, urethra = nine openings). The inner self "dwells happily" (sukham āste) within this city — not acting (na kurvan), not causing action (na kārayan). The Self does not act; the body and its faculties act. The liberated person identifies with the inner resident (the Self), not the city's activities.
+wbw:
+  sarvā-karmāṇi | acc. pl. | all actions
+  manasā | instr. | with the mind
+  sannyasyā | gerund | having renounced
+  āste | 3rd sg. | dwells
+  sukham | adv. | happily
+  vaśī | nom. | the self-controlled one
+  nava-dvāre | loc. | in the city of nine gates
+  pure | loc. | in the city
+  dehī | nom. | the embodied one
+  naiva | not at all
+  kurvan | pres. part. | acting
+  na kārayan | nor causing action
+---
+# 5.14
+short: The Lord creates neither the agency nor the actions of the world, nor the connection with the fruits of action — nature proceeds by its own quality.
+long: A crucial metaphysical clarification: the Lord (Prabhu) does not create kartṛtvam (the quality of being an agent) or karmāṇi (actions) in people, nor does he connect karma with its fruits. "Svabhāvas tu pravartate" — nature proceeds by its own quality/power. God is not manipulating karma's cause-effect nexus. The guṇas of prakṛti create both the agent-sense and the action-fruit connection. This relieves the divine of karmic micromanagement.
+wbw:
+  na | neg. | not
+  kartṛtvaṃ | acc. | agency/doership
+  na | neg. | nor
+  karmāṇi | acc. pl. | actions
+  lokasya | gen. | of the world
+  sṛjati | 3rd sg. | creates
+  prabhuḥ | nom. | the Lord
+  na | neg. | nor
+  karma-phala-saṃyogaṃ | acc. | connection with fruits
+  svabhāvas | nom. | nature
+  tu | particle | however
+  pravartate | 3rd sg. | proceeds
+---
+# 5.15
+short: The omnipresent One accepts neither the sin nor the merit of anyone. Knowledge is covered by ignorance — by that, beings are deluded.
+long: Why do the ignorant believe God punishes or rewards? Because their knowledge is "āvṛtam ajñānena" — covered by ignorance. In this ignorance, they project human karmic logic onto the divine. The Lord is not a moral accountant collecting sin and virtue. He is "vibhu" — all-pervading and free. This verse is a defense of divine transcendence against anthropomorphic misunderstanding.
+wbw:
+  nādatte | 3rd sg. neg. | does not accept
+  kasya cid | of anyone
+  pāpaṃ | acc. | sin
+  na caiva | nor indeed
+  sukṛtaṃ | acc. | merit
+  vibhuḥ | nom. | the omnipresent
+  ajñānenāvṛtaṃ | covered by ignorance
+  jñānaṃ | nom. | knowledge
+  tena | instr. | by that
+  muhyanti | 3rd pl. | are deluded
+  jantavaḥ | nom. pl. | beings
+---
+# 5.16
+short: But for those whose ignorance is destroyed by knowledge of the Self — their knowledge illumines the supreme, like the sun.
+long: The reversal: when the ātman's knowledge destroys ajñānam (ignorance), it illumines "tat paraṃ" — the supreme — like the sun (āditya-vat). The analogy is precise: the sun does not create light, it is light. Knowledge of the Self is not acquired — it is what remains when ignorance is removed. Ātman-jñāna is its own illumination.
+wbw:
+  jñānena | instr. | by knowledge
+  tu | particle | but
+  tad ajñānaṃ | that ignorance
+  yeṣāṃ | gen. pl. | of those whose
+  nāśitam | nom. | is destroyed
+  ātmanaḥ | gen. | of the Self
+  teṣāṃ | gen. pl. | of theirs
+  āditya-vat | like the sun
+  jñānam | nom. | knowledge
+  prakāśayati | 3rd sg. | illumines
+  tat param | the supreme
+---
+# 5.17
+short: Those whose intelligence is absorbed in That, whose self is fixed in That, who have That as the highest, who are devoted to That — these go, not returning, their impurities destroyed by knowledge.
+long: Four qualities of the fully liberated: tad-buddhi (intelligence absorbed in the Absolute), tad-ātmā (self fixed there), tan-niṣṭhā (That as the highest), tat-parāyaṇa (wholly devoted to That). These go (gacchanti) "apunar-āvṛttiṃ" — to non-return. Their impurities are destroyed by knowledge. This describes the jīvanmukta — liberated while living — whose liberation is complete and irreversible.
+wbw:
+  tad-buddhayas | nom. pl. | intelligence absorbed in That
+  tad-ātmānas | nom. pl. | self fixed in That
+  tan-niṣṭhāḥ | nom. pl. | having That as highest
+  tat-parāyaṇāḥ | nom. pl. | devoted to That
+  gacchanti | 3rd pl. | go
+  apunar-āvṛttiṃ | acc. | to non-return
+  jñāna-nirdhūta-kalmaṣāḥ | nom. pl. | impurities destroyed by knowledge
+---
+# 5.18
+short: The learned see equally a brāhmaṇa who is wise and cultivated, a cow, an elephant, a dog, and a dog-eater.
+long: The hallmark of wisdom: seeing the same in a brāhmaṇa (learned and virtuous), a cow, an elephant, a dog, and a caṇḍāla (a social outcast, "dog-eater"). The four beings span the social and biological spectrum from the highest to the most despised. The wise see the same Ātman in all of them. This is not social indifference — it is metaphysical equality: the Self in all is one.
+wbw:
+  vidyā-vinaya-saṃpanne | loc. | in one endowed with wisdom and humility
+  brāhmaṇe | loc. | in a brāhmaṇa
+  gavi | loc. | in a cow
+  hastini | loc. | in an elephant
+  śuni | loc. | in a dog
+  caiva | and also
+  śva-pāke | loc. | in a dog-eater
+  ca | conj. | and
+  paṇḍitāḥ | nom. pl. | the learned
+  sama-darśinaḥ | nom. pl. | equal-seers
+---
+# 5.19
+short: Even here on earth, birth is conquered by those whose mind is established in equality. Brahman is flawless and equal — therefore they are established in Brahman.
+long: The "conquest of birth" (sarga) by equanimity of mind: sāmye sthitaṃ manaḥ — mind established in equality. Such minds have conquered birth-and-rebirth right here (iha eva). Why? "Brahma nirduṣam samaṃ" — Brahman is flawless and equal. Those who attain sameness with Brahman are established in Brahman. The logic: equality of vision reflects the nature of Brahman, which is non-dual and untouched by differentiation.
+wbw:
+  ihaiva | here on earth
+  taiḥ | instr. pl. | by those
+  jitaḥ | nom. | conquered
+  sargaḥ | nom. | birth/creation
+  yeṣāṃ | gen. pl. | whose
+  sāmye | loc. | in equality
+  sthitaṃ | nom. | established
+  manaḥ | nom. | mind
+  nirdoṣaṃ | nom. | flawless
+  hi | particle | indeed
+  samaṃ | nom. | equal
+  brahma | nom. | Brahman
+  tasmāt | abl. | therefore
+  brahmaṇi | loc. | in Brahman
+  te | nom. pl. | they
+  sthitāḥ | nom. pl. | are established
+---
+# 5.20
+short: Not elated upon obtaining something pleasant, not distressed upon obtaining something unpleasant — with steady intelligence, undeluded, knowing Brahman, established in Brahman.
+long: The marks of brahma-sthiti (established in Brahman): no elation (na prahṛṣyet) at pleasant things, no distress (na dvijet) at unpleasant things. Sthira-buddhi (steady intelligence), asammuḍha (undeluded). Brahma-vid (knower of Brahman), brahmaṇi sthitaḥ (established in Brahman). These are not achieved by suppressing emotions but by the transcendence of identification with the rising and falling experience.
+wbw:
+  na prahrīyet | not elated
+  priyaṃ | nom. | pleasant
+  prāpya | gerund | upon obtaining
+  na dvijet | not distressed
+  apriyaṃ | nom. | unpleasant
+  prāpya | gerund | upon obtaining
+  sthira-buddhir | nom. | steady intelligence
+  asammūḍho | nom. | undeluded
+  brahma-vid | nom. | Brahman-knower
+  brahmaṇi | loc. | in Brahman
+  sthitaḥ | nom. | established
+---
+# 5.21
+short: One who has a self not attached to external contact, finding happiness in the Self — that one, having a self yoked to the yoga of Brahman, attains imperishable happiness.
+long: Happiness sourced in the Self (ātmani) rather than "bāhya-sparśeṣu" (in external contacts) is imperishable. External pleasures are born of sense-contact (sparśas) and are therefore impermanent — they have a beginning and an end. The yogi who finds ānanda (joy) within attains "akṣayam sukham" — undecaying happiness. This internal sourcing is the practical definition of sukha (happiness) in the Gītā.
+wbw:
+  bāhya-sparśeṣu | loc. pl. | in external contacts
+  asaktātmā | nom. | one not attached in self
+  vindaty ātmani | finds in the Self
+  yat sukham | what happiness
+  sa | nom. | that one
+  brahma-yoga-yuktātmā | nom. | with self yoked to yoga of Brahman
+  sukham | acc. | happiness
+  akṣayam | acc. | imperishable
+  aśnute | 3rd sg. | attains
+---
+# 5.22
+short: For pleasures born of contact are indeed wombs of suffering. They have a beginning and an end, O Arjuna; the wise person does not delight in them.
+long: The analysis of sensory pleasure: "ye hi saṃsparśajā bhogā" — pleasures born of contact (with sense objects). These are "duḥkha-yonaya" — sources/wombs of suffering. Why? Because they are ādyanta-vantaḥ — they have a beginning and an end. What begins ends. What ends brings suffering by its ending. Therefore "na teṣu ramate budhaḥ" — the wise do not delight in them. Not ascetic rejection — clear-eyed understanding of their nature.
+wbw:
+  ye hi | indeed those
+  saṃsparśajā | nom. pl. | born of contact
+  bhogāḥ | nom. pl. | pleasures
+  duḥkha-yonaya | nom. pl. | wombs of suffering
+  eva te | they indeed
+  ādy-antavantaḥ | nom. pl. | having beginning and end
+  kaunteya | voc. | O son of Kuntī
+  na teṣu | not in them
+  ramate | 3rd sg. | delights
+  budhaḥ | nom. | the wise one
+---
+# 5.23
+short: One who, here on earth before abandoning the body, is able to withstand the force arising from desire and anger — that person is yoked, that person is happy.
+long: The crucial test: "śaknotī haiva yaḥ soḍhum" — who is able to endure right here (iha eva), in this life, before death. The force (vegam) of kāma (desire) and krodha (anger). "Sa yukto, sa sukhī naraḥ" — that person is yoked/disciplined, that person is happy. This is not suppression but endurance — the capacity to not be overwhelmed by desire and anger as they arise.
+wbw:
+  śaknotī haiva | is indeed able here
+  yaḥ | rel. | who
+  soḍhum | inf. | to withstand
+  prāk | adv. | before
+  śarīra-vimokṣaṇāt | abl. | body's abandonment
+  kāma-krodhodbhavaṃ | acc. | arising from desire and anger
+  vegaṃ | acc. | force/impulse
+  sa yuktaḥ | that one yoked
+  sa sukhī | that one happy
+  naraḥ | nom. | person
+---
+# 5.24
+short: One who has inner happiness, inner delight, inner light — that yogi, having become Brahman, attains Brahman-nirvāṇa.
+long: The portrait of the brahma-nirvāṇa-bound yogi: yo'ntaḥ-sukha (inner happiness), antaḥ-arāmaḥ (inner delight/rest), tathā antaḥ-jyotiḥ (inner light). This person is "brahma-bhūtaḥ" — having become Brahman. And they attain "brahma-nirvāṇa" — liberation in Brahman. The triple "inner" is significant: all three qualities are interior, not dependent on external conditions.
+wbw:
+  yo'ntaḥ-sukho | nom. | who has inner happiness
+  'ntarārāmas | nom. | inner delight
+  tathāntarjyotir | nom. | inner light
+  eva yaḥ | who indeed
+  sa yogī | that yogi
+  brahma-nirvāṇaṃ | acc. | Brahman-nirvāṇa
+  brahma-bhūto | nom. | having become Brahman
+  'dhigacchati | 3rd sg. | attains
+---
+# 5.25
+short: Brahman-nirvāṇa is attained by the seers who have their sins destroyed, dualities cut, selves controlled, and who delight in the welfare of all beings.
+long: The qualifications for brahma-nirvāṇa: kṣīṇa-kalmaṣa (sins destroyed), chinna-dvaidhā (dualities/doubts cut), yata-ātmā (self controlled), sarva-bhūta-hita-ratāḥ (rejoicing in the welfare of all beings). The last quality — delight in all beings' welfare — is notable: liberation is not selfish. The liberated person is naturally compassionate, engaged in the world's welfare.
+wbw:
+  labhante | 3rd pl. | attain
+  brahma-nirvāṇam | acc. | Brahman-nirvāṇa
+  ṛṣayaḥ | nom. pl. | the seers
+  kṣīṇa-kalmaṣāḥ | nom. pl. | sins destroyed
+  chinna-dvaidhā | nom. pl. | dualities cut
+  yatātmānaḥ | nom. pl. | selves controlled
+  sarva-bhūta-hite | loc. | in the welfare of all beings
+  ratāḥ | nom. pl. | delighting
+---
+# 5.26
+short: For those liberated from desire and anger, of disciplined thought, who know the Self — Brahman-nirvāṇa exists all around.
+long: Brahman-nirvāṇa is not a distant destination — it is "samantaḥ" (all around, on every side) for those who qualify. The conditions: kāma-krodha-viyuktānāṃ (freed from desire and anger), yatī-nāṃ (self-restrained), yata-cetasām (controlled in thought), abhijñānam (Self-knowers). For these, liberation is not a future event — it is already present everywhere around them.
+wbw:
+  kāma-krodha-viyuktānāṃ | gen. pl. | freed from desire and anger
+  yatīnāṃ | gen. pl. | of the self-restrained
+  yata-cetasām | gen. pl. | controlled in thought
+  abhito | all around/on all sides
+  brahma-nirvāṇaṃ | nom. | Brahman-nirvāṇa
+  vartate | 3rd sg. | exists
+  viditātmanām | gen. pl. | Self-knowers
+---
+# 5.27
+short: Shutting out external contacts, with the gaze between the brows, making the prāṇa and apāna equal in the nostrils—
+long: (Continues into 5.28) The beginning of a brief meditation instruction: "sparśān" (external contacts — sense impressions) shut out (kṛtvā bahiḥ), gaze "bhruvor antaraṃ" (between the eyebrows — the practice of trikuṭi/ājñā-cakra focus), and "prāṇāpānau samau" (making the outgoing and incoming breath equal in the nostrils). This introduces dhyāna-yoga practice as the culminating discipline.
+wbw:
+  sparśān | acc. pl. | external contacts
+  kṛtvā | gerund | having made/shut
+  bahiḥ | adv. | outside
+  bāhyāṃs | acc. pl. | external
+  cakṣuś caivāntare | and the gaze between
+  bhruvoḥ | gen. dual | eyebrows
+  prāṇāpānau samau | prāṇa and apāna equal
+  kṛtvā | gerund | having made
+  nāsābyantara-cāriṇau | acc. dual | moving within the nostrils
+---
+# 5.28
+short: — with senses, mind, and intellect controlled, the sage intent on liberation, freed from desire, fear, and anger — is ever free.
+long: The continuation: yata-indriya-mano-buddhiḥ (senses, mind, intellect controlled), mokṣa-parāyaṇaḥ (intent on liberation/highest goal), vīta-icchā-bhaya-krodhaḥ (freed from desire, fear, and anger). Such a sage is "sadā mukta" — always free. The meditation described in 5.27-28 is a compressed summary of the yogic path: physical posture, breath control, sense withdrawal, one-pointed focus.
+wbw:
+  yatendriya-mano-buddhiḥ | nom. | with senses mind intellect controlled
+  munir | nom. | the sage
+  mokṣa-parāyaṇaḥ | nom. | intent on liberation
+  vigatecchā-bhaya-krodho | nom. | freed from desire fear and anger
+  yaḥ | rel. | who
+  sadā | adv. | always
+  mukta | nom. | free
+  eva | particle | indeed
+  saḥ | nom. | that one
+---
+# 5.29
+short: Knowing Me as the enjoyer of sacrifices and austerities, the Great Lord of all worlds, the friend of all beings — one attains peace.
+long: The chapter's final verse is a devotional declaration: the one who knows Kṛṣṇa as bhoktāram (the enjoyer/experiencer of yajña and tapas), mahā-Īśvaram (the great Lord of all worlds), suhṛdam (the friend of all beings) — attains śāntim (peace). This verse introduces the devotional dimension that will become central in ch. 7-12. The friend (suhṛd) is a tender word for the cosmic Lord.
+wbw:
+  bhoktāraṃ | acc. | the enjoyer
+  yajña-tapasāṃ | gen. pl. | of sacrifice and austerity
+  sarva-loka-maheśvaraṃ | acc. | the great Lord of all worlds
+  suhṛdaṃ | acc. | the friend
+  sarva-bhūtānāṃ | gen. pl. | of all beings
+  jñātvā | gerund | having known
+  māṃ | acc. | Me
+  śāntim | acc. | peace
+  ṛcchati | 3rd sg. | attains
+---

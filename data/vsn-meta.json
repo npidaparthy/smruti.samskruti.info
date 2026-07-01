@@ -1,0 +1,296 @@
+{
+  "mantra_details": {
+    "title": {
+      "devanagari": "श्री विष्णोः दिव्य सहस्रनाम स्तोत्र महामन्त्रः",
+      "telugu": "శ్రీ విష్ణోః దివ్య సహస్రనామ స్తోత్ర మహామంత్రః",
+      "iast": "Śrī Viṣṇoḥ Divya Sahasranāma Stotra Mahāmantraḥ"
+    }
+  },
+  "epic_context": {
+    "source_text": {
+      "devanagari": "महाभारतम्",
+      "telugu": "మహాభారతము",
+      "iast": "Mahābhārata"
+    },
+    "parvam": {
+      "devanagari": "अनुशासन पर्व",
+      "telugu": "అనుశాసన పర్వము",
+      "iast": "Anuśāsana Parva"
+    },
+    "adhyaya": {
+      "number": 149,
+      "text": {
+        "devanagari": "एकोनपञ्चाशदधिकशततमोऽध्यायः",
+        "telugu": "నూట నలభై తొమ్మిదవ అధ్యాయము",
+        "iast": "Ekonapañcāśad-adhika-śatatamo 'dhyāyaḥ"
+      }
+    },
+    "speaker": {
+      "name": {
+        "devanagari": "भीष्म पितामहः",
+        "telugu": "భీష్మ పితామహుడు",
+        "iast": "Bhīṣma Pitāmaha"
+      }
+    },
+    "listener": {
+      "name": {
+        "devanagari": "युधिष्ठिरः",
+        "telugu": "యుధిష్ఠిరుడు",
+        "iast": "Yudhiṣṭhira"
+      }
+    }
+  },
+  "historical_summary": {
+    "narrative_context": {
+      "english": "Following the Kurukshetra war, Yudhisthira was consumed by intense grief and moral doubt. Sri Krishna guided him to Bhishma Pitamaha, who was resting upon a bed of arrows awaiting the auspicious Uttarayana time to leave his body. Bhishma, a master of statecraft and spiritual wisdom, delivered these names to illuminate the path of ultimate peace.",
+      "telugu": "కురుక్షేత్ర యుద్ధానంతరం యుధిష్ఠిరుడు తీవ్ర శోకంతో, ధర్మసందేహాలతో సతమతమయ్యాడు. శ్రీ కృష్ణ పరమాత్మ అతడిని భీష్మ పితామహుని వద్దకు నడిపించాడు. శరతల్పంపై ఉత్తరాయణ పుణ్యకాలం కొరకు నిరీక్షిస్తున్న భీష్ముడు, సమస్త ధర్మసారమైన ఈ దివ్య సహస్రనామాలను యుధిష్ఠిరునికి ఉపదేశించాడు."
+    },
+    "the_six_questions": {
+      "shloka": {
+        "devanagari": "किमेकं दैवतं लोके किं वाप्येकं परायणम् ।\nस्तुवन्तः कं कमर्चन्तं प्राप्नुयुर्मानవాः शुभम् ॥\nको धर्मः सर्वधर्माणां भवतः परमो मतः ॥",
+        "telugu": "కిమేకం దైవతం లోకే కిం వాప్యేకం పరాయణమ్ ।\nస్తువంతః కం కమర్చంతం ప్రాప్నుయుర్మానవాః శుభమ్ ॥\nకో ధర్మః సర్వధర్మాణాం భవతః పరమో మతః ॥",
+        "iast": "kimekaṃ daivataṃ loke kiṃ vāpyekaṃ parāyaṇam |\nstuvantaḥ kaṃ kamarcantaṃ prāpnuyurmānavāḥ śubham ||\nko dharmaḥ sarvadharmāṇāṃ bhavataḥ paramo mataḥ ||"
+      },
+      "list": [
+        {
+          "id": 1,
+          "english": "Who is the one ultimate Supreme Deity in the world?",
+          "telugu": "ఈ జగత్తులో అందరికీ పరమ దైవం ఎవరు?"
+        },
+        {
+          "id": 2,
+          "english": "What is the sole supreme refuge or ultimate goal for mankind?",
+          "telugu": "మానవాళికి చేరదగిన పరమ ఆశ్రయం లేదా గమ్యస్థానం ఏది?"
+        },
+        {
+          "id": 3,
+          "english": "By praising whom can human beings attain well-being and peace?",
+          "telugu": "ఎవరిని స్తుతించడం ద్వారా మనుషులు శుభాన్ని, శాంతిని పొందగలరు?"
+        },
+        {
+          "id": 4,
+          "english": "By worshipping whom can humans achieve auspiciousness?",
+          "telugu": "ఎవరిని అర్చించడం వల్ల ఇహపర సుఖాలు లభిస్తాయి?"
+        },
+        {
+          "id": 5,
+          "english": "By meditating on whom can humans be freed from the bondage of Samsara?",
+          "telugu": "ఎవరిని ధ్యానించడం ద్వారా మానవుడు జన్మమృత్యు సంసార బంధాల నుండి విముక్తి పొందుతాడు?"
+        },
+        {
+          "id": 6,
+          "english": "Which Dharma, among all protocols of righteousness, do you consider to be the highest?",
+          "telugu": "సమస్త ధర్మములలోకెల్లా అత్యంత శ్రేష్ఠమైన పరమ ధర్మముగా మీ అభిప్రాయం ఏది?"
+        }
+      ]
+    },
+    "importance_and_benefits": {
+      "english": "Bhishma declared that chanting and remembering the names of the Supreme Purusha is the highest of all spiritual paths. The Phala-shruti promises that daily recitation cleanses one of sins, removes fear, grants mental fortitude, clarity of intellect, health, and ultimately guides the soul toward liberation.",
+      "telugu": "పరమపురుషుని నామసంకీర్తనమే అన్ని ధర్మాలకంటే ఉత్తమోత్తమమైన ధర్మమని భీష్ముడు స్పష్టం చేశాడు. ఈ స్తోత్ర పారాయణం వల్ల పాపాలు నశిస్తాయి, భయాలు తొలగుతాయి, మానసిక స్థైర్యం, బుద్ధి వికాసం, ఆరోగ్యం చేకూరి అంతిమంగా మోక్షమార్గం లభిస్తుందని ఫలశ్రుతి వివరిస్తోంది."
+    },
+    "famous_commentaries": [
+      {
+        "author": "Adi Shankaracharya",
+        "philosophical_school": "Advaita (Non-dualism)",
+        "focus": "Interprets names as indicators of the attributeless, non-dual supreme Brahman."
+      },
+      {
+        "author": "Parasara Bhattar",
+        "philosophical_school": "Vishishtadvaita (Qualified Non-dualism)",
+        "focus": "Interprets names with an emphasis on Bhakti, divine attributes, and cosmic avatars."
+      }
+    ]
+  },
+  "nyasa_viniyoga": {
+    "rishi": {
+      "devanagari": "श्री वेदव्यासो भगवान् ऋषिः",
+      "telugu": "శ్రీ వేదవ్యాసో భగవాన్ ఋషిః",
+      "iast": "śrī vedavyāso bhagavān ṛṣiḥ"
+    },
+    "chhandas": {
+      "devanagari": "अनुष्टुप् छन्दः",
+      "telugu": "అనుష్టుప్ ఛందః",
+      "iast": "anuṣṭup chhandas"
+    },
+    "devata": {
+      "devanagari": "श्रीमहाविष्णुः परमात्मा श्रीमन्नारायणो देवता",
+      "telugu": "శ్రీమహావిష్ణుః పరమాత్మా శ్రీమన్నారాయణో దేవతా",
+      "iast": "śrīmahāviṣṇuḥ paramātmā śrīmannārāyaṇaō devatā"
+    },
+    "bijam": {
+      "devanagari": "अमृतांशूद्भवो भानुरिति बीजम्",
+      "telugu": "అమృతాంశూద్భవో భానురితి బీజమ్",
+      "iast": "amṛtāṃśūdbhavo bhānuriti bījam"
+    },
+    "shaktih": {
+      "devanagari": "देवकींनन्दनः स्रष्टेति शक्तिः",
+      "telugu": "దేవకీనందనః స్రష్టేతి శక్తిః",
+      "iast": "devakīnandanaḥ sraṣṭeti śaktiḥ"
+    },
+    "paramo_mantrah": {
+      "devanagari": "उद्भवः क्षोभणो देव इति परमो मन्त्रः",
+      "telugu": "ఉద్భవః క్షోభణో దేవ ఇతి పరమో మంత్రః",
+      "iast": "udbhavaḥ kṣobhaṇo deva iti paramo mantraḥ"
+    },
+    "kilakam": {
+      "devanagari": "शङ्खभृन्नन्दकी चक्रीति कीलकम्",
+      "telugu": "శంఖభృన్నందకీ చక్రీతి కీలకమ్",
+      "iast": "śaṅkhabhṛn nandakī cakrīti kīlakam"
+    },
+    "astram": {
+      "devanagari": "शार्ङ्गधन्वा गदाधर इत्यस्त्रम्",
+      "telugu": "శార్ఙ్గధన్వా గదాధర ఇత్యస్త్రమ్",
+      "iast": "śārṅgadhanvā gadādhara ityastram"
+    },
+    "netram": {
+      "devanagari": "रथाङ्गपाणिरक्षोभ्य इति नेत्रम्",
+      "telugu": "రథాంగపాణిరక్షోభ్య ఇతి నేత్రమ్",
+      "iast": "rathāṅgapāṇir akṣobhya iti netram"
+    },
+    "kavacam": {
+      "devanagari": "त्रिसामा सामगः सामेति कवचम्",
+      "telugu": "త్రిసామా సామగః సామేతి కవచమ్",
+      "iast": "trisāmā sāmagaḥ sāmeti kavacam"
+    },
+    "yonih": {
+      "devanagari": "आनन्दं परब्रह्मेति योनिः",
+      "telugu": "ఆనందం పరబ్రహ్మేతి యోనిః",
+      "iast": "ānandaṃ parabrahmeti yoniḥ"
+    },
+    "digbandhah": {
+      "devanagari": "ऋतुः सुदर्शनः काल इति दिग्बन्धः",
+      "telugu": "ఋతుః సుదర్శనః కాల ఇతి దిగ్బంధః",
+      "iast": "ṛtuḥ sudarśanaḥ kāla iti digbandhaḥ"
+    },
+    "dhyanam": {
+      "devanagari": "श्रीविश्वरूप इति ध्यानम्",
+      "telugu": "శ్రీవిశ్వరూప ఇతి ధ్యానమ్",
+      "iast": "śrīviśvarūpa iti dhyānam"
+    },
+    "viniyogah": {
+      "devanagari": "श्रीमहाविष्णुप्रीत्यर्थे सहस्रनामजपे विनियोगः",
+      "telugu": "శ్రీమహావిష్ణుప్రీత్యర్థే సహస్రనామజపే వినియోగః",
+      "iast": "śrīmahāviṣṇuprītyarthe sahasranāmajape viniyogaḥ"
+    }
+  },
+  "meter_rules": {
+    "name": "Anuṣṭup (Śloka)",
+    "total_syllables": 32,
+    "structure": {
+      "shloka": {
+        "devanagari": "पञ्चमं लघु सर्वत्र सप्तमं द्विचतुर्थयोः ।\nगुरु षष्ठं च पादानां चतुर्णां स्यादनुष्टुभि ॥",
+        "telugu": "పఞ్చమం లఘు సర్వత్ర సప్తమం ద్విచతుర్థयोః ।\nగురు షష్ఠం చ పాదానాం చతుర్ణాం స్యాదనుష్టుభి ॥",
+        "iast": "pañcamaṃ laghu sarvatra saptamaṃ dvicaturthayoḥ |\nguru ṣaṣṭhaṃ ca pādānāṃ caturṇāṃ syādanuṣṭubhi ||"
+      }
+    },
+    "explanations": {
+      "english": "The 5th syllable of all four quarters (pādas) must be short (Laghu), and the 6th syllable must be long (Guru). The 7th syllable is short (Hrasva) in the 2nd and 4th quarters, but long (Dīrgha) in the 1st and 3rd quarters.",
+      "telugu": "నాలుగు పాదములలోను 5వ అక్షరము లఘువుగాను, 6వ అక్షరము గురువుగాను ఉండవలెను. 7వ అక్షరము 2, 4 పాదములలో లఘువుగాను, 1, 3 పాదములలో గురువుగాను ఉండును.",
+      "samskrutam": "अनुष्टुप् छन्दसि चतुर्षु पादेषु पञ्चमं अक्षरं सर्वत्र लघु भवति, षष्ठं च गुरु भवति। सप्तमं अक्षरं द्वितीय-चतुर्थ-पादयोः ह्रस्वं (लघु), प्रथम-तृतीय-पादयोः च दीर्घं (गुरु) भवति।"
+    }
+  },
+  "phalashruti": {
+    "_note": "Placeholder — verses and detailed content to be added in phase 2",
+    "title": {
+      "devanagari": "फलश्रुतिः",
+      "telugu": "ఫలశ్రుతి",
+      "iast": "Phalaśruti"
+    },
+    "summary": {
+      "english": "Bhīṣma Pitāmaha, after imparting the thousand names, declared their fruits. One who recites these names daily with devotion attains purity of mind, freedom from fear, health of body, clarity of intellect, material prosperity, and ultimately liberation (mokṣa). The names are said to be equal in merit to the entire Vedic corpus. Even hearing them once cleanses one of accumulated sins.",
+      "telugu": "భీష్మ పితామహుడు సహస్రనామములను బోధించిన తరువాత వాటి ఫలమును వివరించాడు. ప్రతిదినము భక్తితో ఈ నామములను పఠించువారికి మనశ్శుద్ధి, భయవిముక్తి, శారీరక ఆరోగ్యం, బుద్ధిస్పష్టత, సంపద మరియు అంతిమంగా మోక్షము లభించును. ఈ నామములు సమస్త వేదముల పుణ్యఫలమునకు సమానమని చెప్పబడ్డాయి."
+    },
+    "key_fruits": [
+      {
+        "english": "Purity of mind and heart",
+        "telugu": "మన:శుద్ధి"
+      },
+      {
+        "english": "Freedom from all fears",
+        "telugu": "సర్వభయ నివారణ"
+      },
+      {
+        "english": "Health and longevity",
+        "telugu": "ఆరోగ్యం మరియు దీర్ఘాయువు"
+      },
+      {
+        "english": "Clarity of intellect",
+        "telugu": "బుద్ధి వికాసం"
+      },
+      {
+        "english": "Wealth and prosperity",
+        "telugu": "ఐశ్వర్య సమృద్ధి"
+      },
+      {
+        "english": "Liberation (Mokṣa)",
+        "telugu": "మోక్షప్రాప్తి"
+      }
+    ]
+  },
+  "what_is_vsn": {
+    "english": "Śrī Viṣṇu Sahasranāma is a sacred hymn of 1,000 divine names of Lord Viṣṇu — the Supreme Being who pervades, sustains, and protects all of creation. Each name is not merely a label but a window into one aspect of the Infinite: His cosmic form, His qualities, His acts of grace. Recited together, they form a complete portrait of the Divine.",
+    "telugu": "శ్రీ విష్ణు సహస్రనామం అనేది పరమాత్ముడైన శ్రీ విష్ణువు యొక్క వెయ్యి దివ్య నామాల సమాహారం — సమస్త సృష్టిని వ్యాపించి, పోషించి, రక్షించే పరమేశ్వరుని నామాలివి. ప్రతి నామం ఒక గుణాన్ని, ఒక దివ్యశక్తిని ప్రకాశింపజేస్తుంది. అన్నీ కలిసి పరమాత్మ స్వరూపాన్ని సమగ్రంగా దర్శింపజేస్తాయి."
+  },
+  "why_vsn": {
+    "english": "Bhīṣma Pitāmaha declared before the assembled sages that among all spiritual paths, the recitation of these thousand names is the supreme dharma. It requires no elaborate ritual — only a pure heart and a willing tongue. The names carry the power of Vedic mantras, the depth of Upaniṣadic wisdom, and the grace of devotional surrender.",
+    "telugu": "భీష్మ పితామహుడు సభలో ఉన్న మహర్షుల సమక్షంలో ప్రకటించాడు — సర్వ ధర్మములలో ఉత్తమోత్తమం ఈ సహస్రనామ పారాయణమే అని. ఎటువంటి విస్తారమైన క్రతువూ అవసరం లేదు — కేవలం శుద్ధమైన హృదయం, భక్తితో పలికే నాలుక చాలు. ఈ నామాలు వేదమంత్రాల శక్తిని, ఉపనిషత్ జ్ఞానాన్ని, భక్తి శరణాగతి అనుగ్రహాన్ని ఒకే చోట నిక్షిప్తం చేస్తాయి."
+  },
+  "auspicious_times": {
+    "_note": "Placeholder — verify with traditional sources in phase 2",
+    "daily": {
+      "english": "Daily recitation at dawn (Brāhma muhūrta) or dusk is considered most beneficial. Even a single name, remembered with devotion, carries merit.",
+      "telugu": "నిత్యం బ్రాహ్మీ ముహూర్తంలో లేదా సంధ్యాకాలంలో పారాయణం శ్రేష్ఠం. భక్తితో ఒక్క నామాన్ని స్మరించినా పుణ్యఫలం లభిస్తుంది."
+    },
+    "special_days": [
+      {
+        "name": "Ekādaśī",
+        "name_te": "ఏకాదశి",
+        "note_en": "Especially Vaikuṇṭha Ekādaśī — most auspicious day for VSN recitation",
+        "note_te": "వైకుంఠ ఏకాదశి — VSN పారాయణకు అత్యంత శ్రేష్ఠమైన దినం"
+      },
+      {
+        "name": "Dvādaśī",
+        "name_te": "ద్వాదశి",
+        "note_en": "Day after Ekādaśī — for completing the recitation",
+        "note_te": "ఏకాదశి మరుసటి రోజు — పారాయణ పూర్తి చేయడానికి"
+      },
+      {
+        "name": "Thursday",
+        "name_te": "గురువారం",
+        "note_en": "Dedicated to Lord Viṣṇu in the Vaiṣṇava tradition",
+        "note_te": "వైష్ణవ సంప్రదాయంలో విష్ణువుకు అంకితమైన వారం"
+      },
+      {
+        "name": "Kārtika māsa",
+        "name_te": "కార్తీక మాసం",
+        "note_en": "Entire month sacred to Viṣṇu (Oct–Nov)",
+        "note_te": "కార్తీక మాసం విష్ణువుకు అత్యంత ప్రియమైన మాసం"
+      },
+      {
+        "name": "Janmāṣṭamī",
+        "name_te": "జన్మాష్టమి",
+        "note_en": "Birth anniversary of Lord Kṛṣṇa, an avatāra of Viṣṇu",
+        "note_te": "శ్రీకృష్ణ జన్మదినం — విష్ణు అవతారుని జన్మాష్టమి"
+      }
+    ]
+  },
+  "when_composed": {
+    "_note": "Placeholder — review in phase 2",
+    "traditional": {
+      "english": "The Mahābhārata was composed by Maharṣi Vedavyāsa. The VSN is in Anuśāsana Parva (Book 13, Chapter 149). Traditional dating places the Mahābhārata war at circa 3102 BCE (start of Kali Yuga).",
+      "telugu": "మహాభారతాన్ని మహర్షి వేదవ్యాసుడు రచించాడు. VSN అనుశాసన పర్వంలో (పుస్తకం 13, అధ్యాయం 149) ఉంది. మహాభారత యుద్ధం కలి యుగారంభమైన సుమారు 3102 BCE లో జరిగిందని సాంప్రదాయ లెక్క."
+    },
+    "scholarly": {
+      "english": "Modern scholarship dates the Mahābhārata between 400 BCE and 400 CE. The VSN is considered an ancient core text within it.",
+      "telugu": "ఆధునిక పండితులు మహాభారత రచనాకాలాన్ని 400 BCE నుండి 400 CE మధ్యగా అంచనా వేస్తారు. VSN దాని ప్రాచీన మూల పాఠాలలో ఒకటిగా పరిగణించబడుతుంది."
+    }
+  },
+  "intro_video": {
+    "_note": "YouTube URL to be provided by user — update youtube_id",
+    "youtube_id": "GIPfisTVjPc",
+    "title": {
+      "english": "Introduction to Viṣṇu Sahasranāma",
+      "telugu": "విష్ణు సహస్రనామం పరిచయం"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+# Python
+scripts/__pycache__/
+*.pyc
+*.pyo
+
+# Archives / scratch
+archive/
+
+# Dev notes
+BACKLOG.md
+HOWTO.md
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+
+.claude/

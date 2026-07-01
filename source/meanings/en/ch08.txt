@@ -1,0 +1,267 @@
+# 8.1
+short: Arjuna asks — What is Brahman? What is Adhyātma? What is karma? What is called Adhibhūta? And what is said to be Adhidaiva?
+long: Arjuna picks up the three terms from 7.30 — asking about each. Five questions in one verse: Brahman (the absolute), Adhyātma (the inner self), karma (action/cause), Adhibhūta (the divine in matter/beings), Adhidaiva (the divine in the cosmic realm). These are the great metaphysical categories of existence. Chapter 8 answers these systematically, then turns to the most practical question: what should one think of at death?
+wbw:
+  kim tad brahma | interrogative phrase | what is that Brahman
+  kim adhyātmam | interrogative phrase | what is Adhyātma
+  kim karma | interrogative phrase | what is karma
+  puruṣottama | vocative | O Supreme Person
+  adhibhūtaṃ ca kim proktam | phrase | what is called Adhibhūta
+  adhidaivaṃ kim ucyate | phrase | what is said to be Adhidaiva
+---
+# 8.2
+short: Who is Adhiyajña here in this body, and how? And at the time of death, how are You to be known by those of steadied selves?
+long: Completing Arjuna's questions: Adhiyajña (the divine in sacrifice) — who is it in the body, and how? Then the question most personal and urgent: "prayāṇa-kāle ca kathaṃ jñeyo'si niyatātmabhiḥ" — at the time of departure (death), how are You to be known by those of steadied selves? This is the real question behind all the metaphysics: does any of this matter at death? Krishna's answer will dominate the chapter.
+wbw:
+  adhiyajñaḥ kathaṃ ko'tra | interrogative phrase | who is Adhiyajña here and how
+  dehe'smin | locative | in this body
+  madhusūdana | vocative | O Madhusūdana
+  prayāṇa-kāle ca kathaṃ | interrogative phrase | and at the time of death how
+  jñeyo'si | verb phrase | are You to be known
+  niyatātmabhiḥ | instrumental | by those of steadied selves
+---
+# 8.3
+short: The Lord says — The Imperishable is Brahman; the individual self is called Adhyātma; the creative force that causes the arising of beings is called karma.
+long: Krishna's answers: Brahman = akṣara (the imperishable, the immutable absolute). Adhyātma = svabhāva — the individual's own nature, the principle of selfhood in the individual. Karma = "visarga" — the creative outpouring, the force that brings forth being from the unmanifest. This is karma in its cosmic sense — not just individual action but the primordial creative energy that makes existence continuously arise. The background to individual karma is universal creative impulsion.
+wbw:
+  akṣaraṃ brahma paramaṃ | phrase | the imperishable is the supreme Brahman
+  svabhāvaḥ adhyātmam ucyate | phrase | one's own nature is called Adhyātma
+  bhūta-bhāva-udbhava-karo | adjective phrase | the creative force causing the arising of beings
+  visargaḥ | noun | the outpouring/creation
+  karma-saṃjñitaḥ | adjective | is called karma
+---
+# 8.4
+short: Adhibhūta is the perishable realm; Adhidaiva is the cosmic Person (Puruṣa); and I Myself am Adhiyajña here in the body, O best of embodied ones.
+long: Completing the answers: Adhibhūta = kṣara bhāva (the perishable/changing realm — all that comes and goes in the manifest world). Adhidaiva = Puruṣa (the cosmic Person — the divine intelligence presiding over the senses and cosmic order). Adhiyajña = aham (I myself) am Adhiyajña in this body. How? Through yajna — every act of sacrifice, every breath of reciprocal exchange — the divine is present. The sacrificial principle in the body is Krishna Himself.
+wbw:
+  adhibhūtaṃ kṣaro bhāvaḥ | phrase | Adhibhūta is the perishable realm
+  puruṣaś cādhidaivatam | phrase | the cosmic Person is Adhidaiva
+  adhiyajño'ham evātra | phrase | I am Adhiyajña here
+  dehe dehabhṛtāṃ vara | phrase | in the body, O best of embodied ones
+---
+# 8.5
+short: Whoever, at the time of death, leaves the body while remembering Me alone — comes to My state. Of this there is no doubt.
+long: The central claim of chapter 8: "anta-kāle ca mām eva smaran muktvā kalevaram / yaḥ prayāti sa mad-bhāvaṃ yāti nāsty atra saṃśayaḥ." At death, remembering Me alone — attains My state. "Mad-bhāva" — My being, My nature. Why "at death" specifically? Because death is the moment of ultimate concentration — every habit of mind, every dominant tendency, rises to the surface. The last thought is the summation of a life. Hence the urgency throughout the Gita of training the mind now.
+wbw:
+  anta-kāle ca | temporal phrase | and at the time of death
+  mām eva smaran | participial phrase | remembering Me alone
+  muktvā kalevaram | participial phrase | leaving the body
+  yaḥ prayāti | relative clause | whoever departs
+  sa mad-bhāvam yāti | phrase | comes to My state
+  nāsty atra saṃśayaḥ | phrase | there is no doubt in this
+---
+# 8.6
+short: Whatever state of being one remembers at the time of leaving the body, to that state alone one goes, O Kaunteya — always transformed by that state.
+long: The universal law stated: "yaṃ yaṃ vāpi smaran bhāvaṃ tyajaty ante kalevaram / taṃ tam evaiti kaunteya sadā tad-bhāva-bhāvitaḥ." Whatever state of being one remembers at death — whatever object, whatever principle, whatever person — one goes to that state. "Sadā tad-bhāva-bhāvitaḥ" — always shaped by that state. A lifetime of thinking and loving shapes the dying mind. Thought at death is not arbitrary — it is the distillation of habitual consciousness.
+wbw:
+  yaṃ yaṃ vāpi smaran bhāvaṃ | phrase | whatever state of being remembering
+  tyajaty ante kalevaram | verb phrase | leaves the body at death
+  taṃ tam evaiti kaunteya | phrase | to that alone one goes, O Kaunteya
+  sadā tad-bhāva-bhāvitaḥ | phrase | always shaped/transformed by that state
+---
+# 8.7
+short: Therefore, at all times remember Me and fight. With mind and intellect fixed on Me, you will come to Me without doubt.
+long: The practical conclusion of 8.5-6: since the death-thought determines the destination, the practice is to saturate consciousness with Krishna now. "Tasmāt sarveṣu kāleṣu mām anusmara yudhya ca" — therefore at all times remember Me, and fight (do your duty). The practice is not withdrawal from life but living while maintaining divine remembrance. "Mayyarpita-mano-buddhiḥ" — with mind and intellect fixed in Me. Then: "mām evaika-dhiyo yanti" — no doubt, they come to Me.
+wbw:
+  tasmāt sarveṣu kāleṣu | phrase | therefore at all times
+  mām anusmara | imperative phrase | remember Me
+  yudhya ca | imperative | and fight
+  mayyarpita-mano-buddhiḥ | phrase | with mind and intellect offered to Me
+  mām evaika-dhiyo yanti | phrase | those of single focus come to Me alone
+  asaṃśayaḥ | adverb | without doubt
+---
+# 8.8
+short: With the mind trained by practice, not straying to anything else, one who meditates on the Supreme Divine Person goes to Him, O Pārtha.
+long: The method: "abhyāsa-yoga-yuktena cetasā nānya-gāminā" — with the mind made firm through the yoga of practice (abhyāsa), not going elsewhere. "Paramaṃ puruṣaṃ divyaṃ yāti pārthānucintayan" — meditating on the Supreme Divine Person, one goes to Him. "Abhyāsa" — repeated practice — is the key. The mind by nature wanders; practice channels it. "Nānya-gāminā" — not going elsewhere, not distracted by other objects. Single-pointed contemplation of the divine.
+wbw:
+  abhyāsa-yoga-yuktena | instrumental phrase | with (mind) made firm through practice-yoga
+  cetasā nānya-gāminā | instrumental phrase | with mind not going elsewhere
+  paramaṃ puruṣaṃ divyaṃ | accusative phrase | the Supreme Divine Person
+  yāti pārtha anucintayan | verb phrase | goes, O Pārtha, meditating upon
+---
+# 8.9
+short: One who meditates on the Omniscient, the Ancient, the Ruler, subtler than the atom, the supporter of all, of inconceivable form, effulgent as the sun, beyond darkness —
+long: (Continues in 8.10) The object of meditation — a series of divine attributes. Kavi (the omniscient seer), purāṇa (the ancient, ever-existent), anuśāsitr (the ruler/orderer), aṇor aṇīyāṃsam (subtler than the subtlest atom), sarvasya dhātāram (the supporter of all), acintya-rūpa (of inconceivable form), āditya-varṇa (effulgent like the sun), tamasaḥ parastāt (beyond darkness). Each attribute points to a different facet of the infinite. Together they describe what is beyond description.
+wbw:
+  kaviṃ purāṇam anuśāsitāraṃ | accusative phrase | the omniscient, ancient, ruler
+  aṇor aṇīyāṃsam | accusative | subtler than the atom
+  anusmared yaḥ | relative phrase | whoever meditates on
+  sarvasya dhātāram | accusative | supporter of all
+  acintya-rūpaṃ | accusative | of inconceivable form
+  āditya-varṇaṃ tamasaḥ parastāt | accusative phrase | effulgent as sun, beyond darkness
+---
+# 8.10
+short: At the time of death, with unwavering mind, devoted with love and the power of yoga — fixing the prāṇa between the eyebrows — such a one reaches the Supreme Divine Person.
+long: (Concluding 8.9) "Prayāṇa-kāle manasācalena bhaktyā yukto yoga-balena caiva / bhruvōr madhye prāṇam āveśya samyak" — at the time of death, with unwavering mind, with devotion and the power of yoga, directing the prāṇa (life-force) perfectly between the eyebrows. "Sa taṃ paraṃ puruṣam upaiti divyam" — one reaches that Supreme Divine Person. The āñjā (brow) center is the traditional exit-point in yogic death practice. The whole discipline of life leads to this moment of conscious departure.
+wbw:
+  prayāṇa-kāle manasācalena | phrase | at death with unwavering mind
+  bhaktyā yukto yoga-balena caiva | phrase | endowed with devotion and power of yoga
+  bhruvōr madhye prāṇam āveśya samyak | phrase | directing the prāṇa between the eyebrows
+  sa taṃ paraṃ puruṣam upaiti divyam | phrase | reaches the Supreme Divine Person
+---
+# 8.11
+short: I shall briefly explain to you that which the knowers of the Vedas call the Imperishable (akṣara), which the detached enter, desiring which they live in celibacy.
+long: "Yad akṣaraṃ veda-vido vadanti viśanti yad yatayo vīta-rāgāḥ" — what the Veda-knowers call the Imperishable, what the ascetics enter when free from passion. "Yad icchanto brahmacaryaṃ caranti" — desiring which they practice celibacy (brahmacaryam — conservation of energy for the divine). This is the highest goal — the akṣara. Krishna will now give the method for reaching it: the yoga of controlled departure at death.
+wbw:
+  yad akṣaraṃ veda-vido vadanti | phrase | what the Veda-knowers call the Imperishable
+  viśanti yad yatayaḥ vīta-rāgāḥ | phrase | which the passion-free ascetics enter
+  yad icchanto brahmacaryaṃ caranti | phrase | desiring which they practice celibacy
+  tat te padaṃ saṃgraheṇa pravakṣye | phrase | that state I shall briefly explain to you
+---
+# 8.12
+short: Closing all the gates (senses), confining the mind in the heart, drawing the prāṇa to the head — established in yoga-concentration.
+long: (Continues in 8.13) The yoga of conscious dying. "Sarva-dvārāṇi saṃyamya" — closing all gates (the sense organs). "Mano hṛdi nirudhya ca" — confining the mind in the heart. "Mūrdhny ādhāyātmanaḥ prāṇam" — drawing the life-breath (prāṇa) to the crown of the head. "Āsthito yoga-dhāraṇām" — established in yogic concentration. This is systematic withdrawal of consciousness from the periphery to the center, then upward — the reversal of incarnation. What comes in at birth goes out at death by the same paths, consciously controlled.
+wbw:
+  sarva-dvārāṇi saṃyamya | participial phrase | closing all gates (senses)
+  mano hṛdi nirudhya ca | participial phrase | confining mind in the heart
+  mūrdhni ādhāya ātmanaḥ prāṇam | participial phrase | drawing prāṇa to the head
+  āsthitaḥ yoga-dhāraṇām | phrase | established in yogic concentration
+---
+# 8.13
+short: Uttering the single-syllable OM — Brahman — remembering Me, one who departs leaving the body reaches the supreme goal.
+long: The culminating act: "om ity ekākṣaraṃ brahma vyāharan mām anusmaran / yaḥ prayāti tyajan dehaṃ sa yāti paramāṃ gatim." OM — the one-syllable Brahman — is uttered. Simultaneously: "mām anusmaran" — remembering Me (Krishna). The union of the primal sound (OM) and devotional remembrance (bhakti). The departure: "tyajan deham" — leaving the body. The destination: "paramāṃ gatim" — the supreme goal. OM is not merely a sound but the vibration of the Absolute itself — the fitting vehicle for final departure.
+wbw:
+  om ity ekākṣaraṃ brahma | phrase | the one-syllable Brahman "OM"
+  vyāharan | participle | uttering/pronouncing
+  mām anusmaran | participial phrase | remembering Me
+  yaḥ prayāti tyajan dehaṃ | relative clause | whoever departs leaving the body
+  sa yāti paramāṃ gatim | phrase | goes to the supreme goal
+---
+# 8.14
+short: I am easily attained by the yogi who thinks of Me constantly, with no other thought, O Pārtha — one who is always disciplined.
+long: The simplest statement of the chapter's message: "ananya-cetāḥ satataṃ yo māṃ smarati nityaśaḥ" — whoever, with undivided mind, constantly remembers Me without break. "Tasyāhaṃ sulabhaḥ pārtha nitya-yuktasya yoginaḥ" — to that yogi, always disciplined, I am "sulabha" — easily attained. Not difficult — easy. The qualification is totality: "ananya-cetāḥ" (no other thought). The barrier is not effort but divided attention. Undivided love finds the divine immediately.
+wbw:
+  ananya-cetāḥ | adjective | with undivided mind, no other thought
+  satataṃ yo māṃ smarati | relative phrase | whoever constantly remembers Me
+  nityaśaḥ | adverb | without break, always
+  tasya aham sulabhaḥ pārtha | phrase | to him I am easily attained, O Pārtha
+  nitya-yuktasya yoginaḥ | genitive phrase | of the always-disciplined yogi
+---
+# 8.15
+short: Having reached Me, the great souls do not undergo rebirth — that unstable, sorrowful abode — for they have attained the highest perfection.
+long: "Mām upetya punar janma duḥkhālayam aśāśvatam / nāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ." Having reached Me (mām upetya), the great souls do not return to rebirth. What is rebirth? "Duḥkhālayam aśāśvatam" — the abode of suffering, the unstable home. Impermanence is suffering — not a metaphysical assertion but a practical one: everything conditioned is uncertain, temporary, insufficient. Those who have attained the highest (paramāṃ saṃsiddhim) are done with this cycle.
+wbw:
+  mām upetya punar janma | phrase | having reached Me, rebirth
+  duḥkhālayam aśāśvatam | accusative phrase | abode of suffering, unstable
+  nāpnuvanti mahātmānaḥ | phrase | great souls do not attain
+  saṃsiddhiṃ paramāṃ gatāḥ | phrase | having attained the highest perfection
+---
+# 8.16
+short: From the realm of Brahmā downward, all worlds are subject to return, O Arjuna. But reaching Me, O Kaunteya, there is no rebirth.
+long: The hierarchical view of cosmic existence: all worlds — from the lowest to the highest (Brahmaloka — the realm of Brahmā, the creator himself) — are impermanent. Even the highest heavens are temporary. "Ābrahma-bhuvanāl lokāḥ punar āvartino'rjuna" — from Brahma-loka downward, all undergo return. Only reaching Krishna — the absolute — is permanent. This prevents spiritual materialism: striving for higher worlds still leaves one in saṃsāra. Only the absolute ends the cycle.
+wbw:
+  ābrahmabhuvanāt lokāḥ | phrase | from Brahma's realm downward, all worlds
+  punar āvartinaḥ arjuna | phrase | are subject to return, O Arjuna
+  mām upetya tu kaunteya | phrase | but having reached Me, O Kaunteya
+  punar janma na vidyate | phrase | rebirth is not found
+---
+# 8.17
+short: Those who know that the day of Brahmā lasts a thousand yugas and his night lasts a thousand yugas — they know day and night.
+long: The cosmic time-scale: Brahmā's day = 1000 mahā-yugas (4.32 billion years). Brahmā's night = equal duration. One "day" of the creator spans geological ages. What is the point? Even Brahmā's creation is within time. The world that emerges at Brahmā's dawn dissolves at his dusk — and is recreated at the next dawn. This vast scale relativizes human existence: not to minimize it but to show that even the grandest cosmic cycles are within time, hence impermanent, hence not the ultimate.
+wbw:
+  sahasra-yuga-paryantam | temporal phrase | lasting a thousand yugas
+  ahar yad brahmaṇo viduḥ | relative clause | which they know as Brahmā's day
+  rātriṃ yuga-sahasrāntāṃ | phrase | night of a thousand yugas
+  te'ho-rātra-vido janāḥ | phrase | those people know day and night (truly)
+---
+# 8.18
+short: From the Unmanifest, all beings come forth at Brahmā's dawn; at Brahmā's dusk they dissolve back into what is called the Unmanifest.
+long: "Avyaktād vyaktayaḥ sarvāḥ prabhavanty ahar-āgame / rātry-āgame pralīyante tatraivāvyakta-saṃjñake." At the dawn of Brahmā's day, all beings emerge from the unmanifest (avyakta); at dusk they dissolve back into what is called the unmanifest. This is the rhythm of cosmic manifestation: breath in, breath out. Creation is not a one-time event but a continuous rhythmic process on a vast scale. Everything in the manifest world participates in this cycle.
+wbw:
+  avyaktāt vyaktayaḥ sarvāḥ | phrase | from the unmanifest, all manifestations
+  prabhavanti ahar-āgame | verb phrase | come forth at the dawn of day
+  rātry-āgame pralīyante | verb phrase | dissolve at the coming of night
+  tatra eva avyakta-saṃjñake | locative phrase | into that very one called the unmanifest
+---
+# 8.19
+short: This same multitude of beings, arising again and again, dissolves at the approach of night — and arises again at dawn, O Pārtha, helplessly.
+long: "Bhūta-grāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate / rātry-āgame'vaśaḥ pārtha prabhavaty ahar-āgame." The same multitude of beings — "bhūtvā bhūtvā" (arising again and again) — helplessly (avaśaḥ) dissolves at night, arises at dawn. "Avaśaḥ" — without choice, helplessly — is the key word. This is the condition of existence that is not directed by the divine: involuntary cycling. The path out of this helplessness is the conscious orientation toward the imperishable that the chapter describes.
+wbw:
+  bhūta-grāmaḥ sa eva ayaṃ | phrase | this same multitude of beings
+  bhūtvā bhūtvā pralīyate | phrase | arising again and again dissolves
+  rātry-āgame avaśaḥ pārtha | phrase | at coming of night, helplessly, O Pārtha
+  prabhavaty ahar-āgame | phrase | comes forth at coming of day
+---
+# 8.20
+short: But beyond this unmanifest, there is another unmanifest — eternal, which does not dissolve when all beings dissolve.
+long: "Paras tasmāt tu bhāvo'nyo'vyakto'vyaktāt sanātanaḥ / yaḥ sa sarveṣu bhūteṣu naśyatsu na vinaśyati." Beyond the cosmic unmanifest (avyakta — 8.18, the source/sink of cyclic creation), there is another (anya) — the sanātana avyakta, the eternal unmanifest. When all beings dissolve — "naśyatsu" — this other does not dissolve. Two different unmanifests: the cyclic one (source of temporal creation) and the eternal one (beyond all cycles). The eternal is Krishna's supreme nature.
+wbw:
+  paras tasmāt tu bhāvaḥ anyaḥ | phrase | beyond that, however, another state
+  avyakto'vyaktāt sanātanaḥ | phrase | unmanifest, beyond the unmanifest, eternal
+  yaḥ sa sarveṣu bhūteṣu naśyatsu | relative phrase | which, when all beings dissolve
+  na vinaśyati | negative verb | does not dissolve
+---
+# 8.21
+short: That unmanifest — called the Imperishable — is declared the supreme goal. Those who attain it do not return. That is My supreme abode.
+long: "Avyakto'kṣara ity uktas tam āhuḥ paramāṃ gatim / yaṃ prāpya na nivartante tad dhāma paramaṃ mama." The eternal unmanifest is called akṣara — the Imperishable. It is declared the supreme goal (paramāṃ gatim). "Yaṃ prāpya na nivartante" — having attained which, one does not return. "Tad dhāma paramaṃ mama" — that is My supreme abode (dhāma). The chapter circles back: this is what was promised in 8.5 — "mad-bhāva." The supreme abode is not a place but a state of identity with the eternal.
+wbw:
+  avyakto'kṣara ity uktaḥ | phrase | the unmanifest called the Imperishable
+  tam āhuḥ paramāṃ gatim | phrase | that is declared the supreme goal
+  yaṃ prāpya na nivartante | relative phrase | attaining which one does not return
+  tad dhāma paramaṃ mama | phrase | that is My supreme abode
+---
+# 8.22
+short: That Supreme Person, O Pārtha, is attainable through undivided devotion — in Whom all beings abide and by Whom all this is pervaded.
+long: "Puruṣaḥ sa paraḥ pārtha bhaktyā labhyas tv ananyayā / yasyāntaḥsthāni bhūtāni yena sarvam idaṃ tatam." The supreme Person — attainable through ananyā bhakti (undivided devotion, devoted to no other). Two profound descriptions: "yasyāntaḥsthāni bhūtāni" — in whom all beings abide (all contained in the divine). "Yena sarvam idaṃ tatam" — by whom all this is pervaded. Immanence and transcendence: the divine contains all, and the divine permeates all. Both simultaneously. Bhakti (love) is the key — not intellect, not austerity.
+wbw:
+  puruṣaḥ sa paraḥ pārtha | phrase | that Supreme Person, O Pārtha
+  bhaktyā labhyas tu ananyayā | phrase | attainable through undivided devotion
+  yasya antaḥsthāni bhūtāni | relative phrase | in whom all beings abide
+  yena sarvam idaṃ tatam | relative phrase | by whom all this is pervaded
+---
+# 8.23
+short: O best of the Bharatas, I shall now tell you the times (paths) at which yogis departing do not return, and those at which they do return.
+long: Krishna now turns to a traditional teaching about the paths of death: the "bright path" and the "dark path." Note: this is a traditional Upanishadic teaching (from Chāndogya and Bṛhadāraṇyaka Upaniṣads) on the two paths after death — "deva-yāna" and "pitṛ-yāna." Krishna will describe both. Some read this literally (cosmic routes). Others read it symbolically (the state of consciousness at death). Either way, the message is: orientation toward the eternal matters.
+wbw:
+  yatra kāle tv anāvṛttim | phrase | when (at what time) without return
+  āvṛttim caiva | phrase | and return
+  yoginaḥ yānti | verb phrase | yogis go
+  prayātāḥ | participial | having departed
+  taṃ kālaṃ vakṣyāmi | phrase | that time I shall describe
+  bharatarṣabha | vocative | O best of the Bharatas
+---
+# 8.24
+short: Fire, light, day, the bright half of the month, the six months of the northern course of the sun — departing by this path, those who know Brahman reach Brahman.
+long: The bright path (devayāna): fire (agni), light (jyoti), day (ahaḥ), bright fortnight (śukla-pakṣa), six northern months (uttarāyaṇa). "Tatra prayātā gacchanti brahma brahma-vido janāḥ" — those who know Brahman, departing by this path, go to Brahman. Symbolically: fire = luminous consciousness; light = clarity; day = awakened state; bright fortnight = waxing energy; northern course = upward trajectory. Those departing in this state of inner light reach the light.
+wbw:
+  agniḥ jyotiḥ ahaḥ śuklaḥ | nominative series | fire, light, day, bright (fortnight)
+  ṣaṇ-māsā uttarāyaṇam | nominative phrase | six months of northern course
+  tatra prayātāḥ gacchanti | phrase | departing there they go
+  brahma brahma-vidaḥ janāḥ | phrase | Brahman, the Brahman-knowing people
+---
+# 8.25
+short: Smoke, night, the dark fortnight, the six months of the southern course of the sun — the yogi obtains the lunar light (heavens) and returns.
+long: The dark path (pitṛyāna): smoke (dhūma), night (rātriḥ), dark fortnight (kṛṣṇa-pakṣa), six southern months (dakṣiṇāyana). "Tatra cāndramasaṃ jyotiḥ yogī prāpya nivartate" — the yogi obtaining the lunar light (heavens) returns. This is temporary elevation — the pitṛ-loka, the ancestors' realm, is pleasant but not permanent. Karmic merit is enjoyed, then exhausted, and rebirth follows. The heavens are a waiting room, not a destination. Return to earth is built in.
+wbw:
+  dhūmaḥ rātriḥ tathā kṛṣṇaḥ | nominative series | smoke, night, dark (fortnight)
+  ṣaṇ-māsā dakṣiṇāyanam | nominative phrase | six months of southern course
+  tatra cāndramasaṃ jyotiḥ | locative phrase | the lunar light there
+  yogī prāpya nivartate | verb phrase | the yogi, obtaining, returns
+---
+# 8.26
+short: These two paths — bright and dark — are considered eternal in the world. By one a person does not return; by the other one returns again.
+long: "Śukla-kṛṣṇe gatī hy ete jagataḥ śāśvate mate / ekayā yāty anāvṛttim anyayekayā" — the two paths (bright and dark) are considered eternal in the world. One leads to non-return; the other leads to return. These represent two fundamental orientations: toward the eternal (leading out of saṃsāra) and toward the temporal (leading back into it). The cosmic teaching here grounds a personal urgency: which path are you on? What is the nature of your consciousness?
+wbw:
+  śukla-kṛṣṇe gatī hy ete | phrase | these two paths, bright and dark
+  jagataḥ śāśvate mate | phrase | are considered eternal in the world
+  ekayā yāty anāvṛttim | phrase | by one goes to non-return
+  anyayā āvartate punaḥ | phrase | by the other returns again
+---
+# 8.27
+short: O Pārtha, knowing these two paths, the yogi is not deluded. Therefore, at all times be established in yoga.
+long: "Naite sṛtī pārtha jānan yogī muhyati kaścana / tasmāt sarveṣu kāleṣu yoga-yukto bhavārjuna." Knowing these two paths, no yogi is deluded. The knowledge protects. "Tasmāt sarveṣu kāleṣu yoga-yukto bhavārjuna" — therefore, at all times, be established in yoga. The cosmic teaching resolves into a personal imperative: the grand map of death-paths leads to the simple practice of being yoga-yukta (disciplined in yoga) now, in this life, at every moment.
+wbw:
+  na ete sṛtī pārtha jānan | phrase | knowing these two paths, O Pārtha
+  yogī muhyati kaścana | phrase | no yogi is deluded
+  tasmāt sarveṣu kāleṣu | phrase | therefore at all times
+  yoga-yuktaḥ bhava arjuna | imperative phrase | be established in yoga, O Arjuna
+---
+# 8.28
+short: The yogi, knowing all this, surpasses whatever meritorious fruits are taught in the Vedas, in sacrifices, in austerities, and in charities — and reaches the supreme, primeval abode.
+long: "Vedeṣu yajñeṣu tapaḥsu caiva dāneṣu yat puṇya-phalaṃ pradiṣṭam / atyeti tat sarvam idaṃ viditvā yogī paraṃ sthānam upaiti cādyam." The yogi who knows all this (chapters 7-8 culminating here) surpasses all the meritorious results prescribed in the Vedas, sacrifices, austerities, and charities. Not by performing them more — by transcending the entire framework of merit-seeking. The yogi reaches "paraṃ sthānam ādyam" — the supreme, primordial abode. This is the fruition: not accumulating religious merit but transcending the merit-system entirely through yoga and knowledge.
+wbw:
+  vedeṣu yajñeṣu tapaḥsu caiva | locative series | in Vedas, sacrifices, austerities
+  dāneṣu yat puṇya-phalaṃ pradiṣṭam | phrase | whatever meritorious fruit is prescribed in charities
+  atyeti tat sarvam idaṃ viditvā | phrase | knowing all this, surpasses all that
+  yogī paraṃ sthānam upaiti cādyam | phrase | the yogi reaches the supreme primordial abode
+---

@@ -1,0 +1,315 @@
+# 13.1
+short: Arjuna said — O Keśava, I wish to know about prakṛti (matter) and puruṣa (consciousness), the field and the knower of the field, knowledge and what is to be known.
+long: Chapter 13 addresses the fundamental question of Sāṃkhya metaphysics applied to liberation — what is matter (prakṛti), what is consciousness (puruṣa), what is the body (kṣetra — the field), who knows the body (kṣetrajña), and what constitutes real knowledge (jñāna). Arjuna's question opens one of the Gita's most philosophically concentrated chapters. The body-field analogy — the body as a field that is cultivated and from which results are harvested — sets up the teaching that follows.
+wbw:
+  prakṛtiṃ puruṣaṃ caiva | phrase | matter and consciousness also
+  kṣetraṃ kṣetrajñam eva ca | phrase | the field and the knower of the field
+  etad veditum icchāmi | phrase | I wish to know this
+  jñānaṃ jñeyaṃ ca keśava | phrase | knowledge and what is to be known, O Keśava
+---
+# 13.2
+short: The Lord said — O son of Kuntī, this body is called the field (kṣetra). Those who know this call the one who knows it the knower of the field (kṣetrajña).
+long: "Idaṃ śarīraṃ kaunteya kṣetram ity abhidhīyate / etad yo vetti taṃ prāhuḥ kṣetrajña iti tad-vidaḥ." This body is the kṣetra (field). Those who know say: the one who knows this is the kṣetrajña (knower of the field). The analogy is agricultural — a field can be observed, worked, and harvested by someone who knows it. The body is observed, experienced, and known by the puruṣa (consciousness). The body is not the knower; it is what is known.
+wbw:
+  idaṃ śarīraṃ kaunteya | phrase | this body, O son of Kuntī
+  kṣetram ity abhidhīyate | phrase | is called the field
+  etad yo vetti taṃ prāhuḥ | phrase | one who knows this is called
+  kṣetrajña iti tad-vidaḥ | phrase | the knower of the field, by those who know
+---
+# 13.3
+short: Know Me also as the kṣetrajña in all kṣetras, O Bhārata. Knowledge of the kṣetra and kṣetrajña — this I hold to be (true) knowledge.
+long: "Kṣetrajñaṃ cāpi māṃ viddhi sarva-kṣetreṣu bhārata / kṣetra-kṣetrajñayor jñānaṃ yat taj jñānaṃ mataṃ mama." Know Me as the kṣetrajña in ALL fields — all bodies. The individual consciousness that knows one body is a manifestation of the universal consciousness (Brahman, Krishna) that knows all fields simultaneously. "Kṣetra-kṣetrajñayor jñānaṃ yat taj jñānaṃ mataṃ mama" — knowledge of both the field and the knower: this I consider true knowledge.
+wbw:
+  kṣetrajñaṃ cāpi māṃ viddhi | phrase | know Me also as the kṣetrajña
+  sarva-kṣetreṣu bhārata | phrase | in all fields, O Bhārata
+  kṣetra-kṣetrajñayor jñānam | phrase | knowledge of field and knower-of-field
+  yat taj jñānaṃ mataṃ mama | phrase | that I consider (to be true) knowledge
+---
+# 13.4
+short: What the field is, what its nature, what its modifications, whence and what it is — and who the knower is and what his power — hear that briefly from Me.
+long: "Tat kṣetraṃ yac ca yādṛk ca yad-vikāri yataś ca yat / sa ca yo yat-prabhāvaś ca tat samāsena me śṛṇu." Krishna now promises a brief (samāsena) account of: (1) what the kṣetra is, (2) its qualities (yādṛk), (3) its modifications (yad-vikāri), (4) its origin (yataḥ), (5) who the kṣetrajña is, and (6) his power/influence (yat-prabhāva). This is the outline of what chapters 13.5-12 will teach.
+wbw:
+  tat kṣetraṃ yac ca yādṛk ca | phrase | what the field is, and what its nature
+  yad-vikāri yataś ca yat | phrase | what its modifications, whence and what it is
+  sa ca yo yat-prabhāvaś ca | phrase | and who he is and what his power
+  tat samāsena me śṛṇu | phrase | hear that briefly from Me
+---
+# 13.5
+short: This has been sung by sages in many ways in various distinct Vedic hymns, and also in definitive and reasoned statements of the Brahma Sūtras.
+long: "Ṛṣibhir bahudhā gītam chandobhir vividhaiḥ pṛthak / brahma-sūtra-padaiś caiva hetumadbhir viniścitaiḥ." The teaching about kṣetra comes from an ancient lineage — sages have sung it (gītam) in many ways in various Vedic hymns (chandobhiḥ vividhaiḥ pṛthak) and in the Brahma Sūtras (the systematic philosophical text) with reasoned (hetumadbhiḥ) and definitive (viniścitaiḥ) statements. This places the Gita's teaching in continuity with the entire philosophical tradition.
+wbw:
+  ṛṣibhir bahudhā gītam | phrase | sung by sages in many ways
+  chandobhir vividhaiḥ pṛthak | phrase | in various distinct Vedic hymns
+  brahma-sūtra-padaiś caiva | phrase | and also in statements of the Brahma Sūtras
+  hetumadbhir viniścitaiḥ | phrase | reasoned and definitive
+---
+# 13.6
+short: The great elements, ego, intellect, the unmanifest (avyakta), the ten senses and one (mind), and the five sense objects —
+long: (13.7 continues) The constituents of the kṣetra (field/body) are enumerated. Following Sāṃkhya: the five great elements (pañca-mahābhūta — earth, water, fire, air, space), ahaṃkāra (ego/individuation), buddhi (intellect), avyakta (the unmanifest — root matter/prakṛti), the ten senses (five cognitive: eyes, ears, nose, tongue, skin; five active: hands, feet, speech, genitals, anus), the one mind (manas), and the five sense objects (sound, touch, form, taste, smell). This is the Sāṃkhya 25-tattva schema.
+wbw:
+  mahā-bhūtāny ahaṃkāro | phrase | the great elements, ego
+  buddhir avyaktam eva ca | phrase | intellect, and the unmanifest (prakṛti)
+  indriyāṇi daśaikaṃ ca | phrase | the ten senses and one (mind)
+  pañca cendriya-gocarāḥ | phrase | and the five objects of the senses
+---
+# 13.7
+short: Desire, aversion, pleasure, pain, the aggregate (body), consciousness, steadfastness — this is briefly described as the field with its modifications.
+long: "Icchā dveṣaḥ sukhaṃ duḥkhaṃ saṃghātaś cetanā dhṛtiḥ / etat kṣetraṃ samāsena sa-vikāram udāhṛtam." The field includes not just the physical but the psychological: icchā (desire), dveṣa (aversion), sukha (pleasure), duḥkha (pain), saṃghāta (the aggregate — the body as a whole), cetanā (consciousness as it operates through the field), dhṛti (steadfastness/will). "Sa-vikāram" — with its modifications (vikāra = modification, change). The complete phenomenological description of embodied experience.
+wbw:
+  icchā dveṣaḥ sukhaṃ duḥkham | phrase | desire, aversion, pleasure, pain
+  saṃghātaś cetanā dhṛtiḥ | phrase | the aggregate, consciousness, steadfastness
+  etat kṣetraṃ samāsena | phrase | this is the field, briefly (described)
+  sa-vikāram udāhṛtam | phrase | with its modifications
+---
+# 13.8
+short: Absence of pride, absence of deceit, non-harming, patience, uprightness, service of the teacher, purity, steadiness, self-control —
+long: (13.12 continues) Now Krishna defines the twenty-item list of jñāna (knowledge/wisdom qualities). The first set: amānitva (absence of pride), adambhitva (freedom from hypocrisy/deceit), ahiṃsā (non-harming), kṣānti (patience/forbearance), ārjava (uprightness/straightness), ācāryo-pasevana (service/approaching the teacher), śauca (purity), sthairya (steadiness), ātma-vinigraha (self-control). These are not subjects to be memorized but qualities to be embodied. The Gita presents these as constitutive of jñāna itself — not prerequisites but the thing itself.
+wbw:
+  amānitvam adambhitvam | phrase | absence of pride, absence of deceit
+  ahiṃsā kṣāntir ārjavam | phrase | non-harming, patience, uprightness
+  ācāryopāsanaṃ śaucam | phrase | service of the teacher, purity
+  sthairyam ātma-vinigrahaḥ | phrase | steadiness, self-control
+---
+# 13.9
+short: Dispassion toward sense objects, absence of ego, perception of the defects of birth, death, old age, sickness and pain —
+long: "Indriyārtheṣu vairāgyam anahaṃkāra eva ca / janma-mṛtyu-jarā-vyādhi-duḥkha-doṣānudarśanam." Vairāgya toward sense objects — not forced suppression but natural dispassion born of understanding. Anahaṃkāra — absence of ego (the identification with the body as "I"). "Janma-mṛtyu-jarā-vyādhi-duḥkha-doṣānudarśanam" — the ongoing perception/contemplation (anudarśanam) of the defects (doṣa) inherent in birth (janma), death (mṛtyu), old age (jarā), sickness (vyādhi), and pain (duḥkha). This constant contemplation produces natural detachment.
+wbw:
+  indriyārtheṣu vairāgyam | phrase | dispassion toward sense objects
+  anahaṃkāra eva ca | phrase | and also absence of ego
+  janma-mṛtyu-jarā-vyādhi | compound | birth, death, old age, sickness
+  duḥkha-doṣānudarśanam | phrase | perception of the defects of pain
+---
+# 13.10
+short: Non-attachment, not clinging to son, wife, home and the rest; constant even-mindedness in desired and undesired events —
+long: "Asaktiranabhiṣvaṅgaḥ putra-dāra-gṛhādiṣu / nityaṃ ca sama-cittatvam iṣṭāniṣṭopapattiṣu." Asakti (non-attachment) and anabhiṣvaṅga (not clinging — not being draped over, entangled with) specifically toward son, wife, home. The "ādi" — and so on — covers all close relationships. Then: "nityaṃ ca sama-cittatvam iṣṭāniṣṭopapattiṣu" — constant (nityam) even-mindedness (sama-cittatva) in desired and undesired events. Equanimity is not occasional but continuous; not indifference but stable presence through both.
+wbw:
+  asaktiranabhiṣvaṅgaḥ | phrase | non-attachment, not clinging
+  putra-dāra-gṛhādiṣu | locative | to son, wife, home and so on
+  nityaṃ ca sama-cittatvam | phrase | and constant even-mindedness
+  iṣṭāniṣṭopapattiṣu | locative | in desired and undesired events
+---
+# 13.11
+short: Unwavering devotion to Me with exclusive yoga; resort to solitary places; distaste for the company of people —
+long: "Mayi cānanya-yogena bhaktir avyabhicāriṇī / vivikta-deśa-sevitvam aratir jana-saṃsadi." "Mayi ananya-yogena bhaktir avyabhicāriṇī" — exclusive (ananya), unwavering (avyabhicāriṇī) devotion to Me through yoga. Not split attention but undivided love. "Vivikta-deśa-sevitvam" — seeking/frequenting solitary places — the outer condition that supports inner quietude. "Aratir jana-saṃsadi" — distaste for the company of people — not misanthropy but the recognition that crowds and constant social stimulation scatter the mind.
+wbw:
+  mayi cānanya-yogena | phrase | to Me, with exclusive yoga
+  bhaktir avyabhicāriṇī | phrase | unwavering devotion
+  vivikta-deśa-sevitvam | phrase | resort to solitary places
+  aratir jana-saṃsadi | phrase | distaste for the company of people
+---
+# 13.12
+short: Constancy in knowledge of the Self, perception of the goal of true knowledge — all this is declared to be knowledge; what is other than this is ignorance.
+long: "Adhyātma-jñāna-nityatvaṃ tattva-jñānārtha-darśanam / etaj jñānam iti proktam ajñānaṃ yad ato'nyathā." "Adhyātma-jñāna-nityatva" — constancy/perpetualness in adhyātma (Self-knowledge). "Tattva-jñānārtha-darśanam" — perception of the purpose/goal of knowledge of truth. "Etaj jñānam iti proktam" — this is declared to be jñāna (knowledge). "Ajñānaṃ yad ato'nyathā" — what is otherwise than this is ajñāna (ignorance). The 20-item list of 13.8-12 is not moral virtue — it is epistemological. These qualities constitute the capacity to know reality.
+wbw:
+  adhyātma-jñāna-nityatvaṃ | phrase | constancy in Self-knowledge
+  tattva-jñānārtha-darśanam | phrase | perception of the goal of true knowledge
+  etaj jñānam iti proktam | phrase | this is declared to be knowledge
+  ajñānaṃ yad ato'nyathā | phrase | what is other than this is ignorance
+---
+# 13.13
+short: I will declare what is to be known — knowing which one attains immortality. The beginningless Supreme Brahman — which is called neither being (sat) nor non-being (asat).
+long: "Jñeyaṃ yat tat pravakṣyāmi yaj jñātvāmṛtam aśnute / anādi mat-param brahma na sat tan nāsad ucyate." Now what is to be known — the jñeya. "Yaj jñātvā amṛtam aśnute" — knowing which one tastes immortality (amṛta). Anādi (beginningless), mat-param (having Me as its highest/supreme), Brahman. "Na sat tan nāsad ucyate" — it is called neither being (sat) nor non-being (asat). Not sat because it transcends ordinary existence; not asat because it is not nothing. Beyond the being/non-being binary — the classic Upaniṣadic formulation.
+wbw:
+  jñeyaṃ yat tat pravakṣyāmi | phrase | I will declare what is to be known
+  yaj jñātvāmṛtam aśnute | phrase | knowing which one attains immortality
+  anādi mat-param brahma | phrase | the beginningless Brahman, with Me as supreme
+  na sat tan nāsad ucyate | phrase | it is called neither being nor non-being
+---
+# 13.14
+short: With hands and feet everywhere, with eyes, heads, and mouths everywhere, with ears everywhere — it stands pervading everything in the world.
+long: "Sarvataḥ pāṇi-pādaṃ tat sarvato'kṣi-śiro-mukham / sarvataḥ śrutimal loke sarvam āvṛtya tiṣṭhati." The Brahman described in 13.13 is now described as omni-present. Sarvataḥ pāṇi-pādam — hands and feet everywhere (omnipresent action). Sarvato'kṣi-śiro-mukham — eyes, heads, mouths everywhere (omniscient awareness). Sarvataḥ śrutimat — ears everywhere (omniscient perception). "Sarvam āvṛtya tiṣṭhati" — stands pervading everything. This is the classical description of Brahman as both transcendent and immanent.
+wbw:
+  sarvataḥ pāṇi-pādaṃ tat | phrase | with hands and feet everywhere, that (Brahman)
+  sarvato'kṣi-śiro-mukham | phrase | with eyes, heads, mouths everywhere
+  sarvataḥ śrutimal loke | phrase | with ears everywhere in the world
+  sarvam āvṛtya tiṣṭhati | phrase | stands pervading everything
+---
+# 13.15
+short: Shining through the functioning of all the senses — yet without the senses; unattached yet supporting all; without guṇas yet experiencing the guṇas.
+long: "Sarvendriya-guṇābhāsaṃ sarvendriya-vivarjitam / asaktaṃ sarva-bhṛc caiva nirguṇaṃ guṇa-bhoktṛ ca." "Sarvendriya-guṇābhāsam" — shining/appearing through all the sense-functions (it is what makes sense-experience possible). "Sarvendriya-vivarjitam" — yet itself without senses (it is the witness, not a sense organ). "Asaktam" — unattached. "Sarva-bhṛt" — yet supporting all. "Nirguṇam" — without qualities. "Guṇa-bhoktṛ" — yet the experiencer of the guṇas. These paradoxes point to Brahman's transcendence of all the categories used to describe it.
+wbw:
+  sarvendriya-guṇābhāsam | phrase | shining through all sense-functions
+  sarvendriya-vivarjitam | phrase | yet without senses
+  asaktaṃ sarva-bhṛc caiva | phrase | unattached yet supporting all
+  nirguṇaṃ guṇa-bhoktṛ ca | phrase | without guṇas yet experiencing guṇas
+---
+# 13.16
+short: Outside and inside all beings, unmoving and yet moving; too subtle to be known; far away and yet near.
+long: "Bahir antaś ca bhūtānām acaraṃ caram eva ca / sūkṣmatvāt tad avijñeyaṃ dūrasthaṃ cāntike ca tat." Bahiḥ (outside) and antaḥ (inside) all beings — omnipresent. Acaram (unmoving) and caram (moving) — both the moving (animate) and unmoving (inanimate) contain it. "Sūkṣmatvāt tad avijñeyam" — because of its subtlety it is unknowable by ordinary means. "Dūrastham" — far (transcendent) and "ca antike" — and near (immanent). The classic formulation of Brahman as simultaneously the farthest and the nearest.
+wbw:
+  bahir antaś ca bhūtānām | phrase | outside and inside all beings
+  acaraṃ caram eva ca | phrase | unmoving and moving both
+  sūkṣmatvāt tad avijñeyam | phrase | too subtle to be known
+  dūrasthaṃ cāntike ca tat | phrase | far away and yet near
+---
+# 13.17
+short: Undivided, it stands as if divided in beings; it is to be known as the supporter of beings, their devourer, and creator.
+long: "Avibhaktaṃ ca bhūteṣu vibhaktam iva ca sthitam / bhūta-bhartr ca taj jñeyaṃ grasiṣṇu prabhaviṣṇu ca." Avibhaktam — undivided (Brahman is one). "Vibhaktam iva ca sthitam" — yet appears as if divided in beings (it appears as the multiplicity of individual selves). "Bhūta-bhartr" — supporter of beings. "Grasiṣṇu" — devourer (the consuming/dissolving principle). "Prabhaviṣṇu" — creator/emanator. The one Brahman sustains (bhartr), eventually absorbs (grasiṣṇu), and originally creates (prabhaviṣṇu) all. These three are not separate functions but one movement.
+wbw:
+  avibhaktaṃ ca bhūteṣu | phrase | undivided in beings
+  vibhaktam iva ca sthitam | phrase | yet standing as if divided
+  bhūta-bhartr ca taj jñeyam | phrase | it is to be known as supporter of beings
+  grasiṣṇu prabhaviṣṇu ca | phrase | and devourer and creator
+---
+# 13.18
+short: That, the light of lights, is said to be beyond darkness. Knowledge, the object of knowledge, the goal of knowledge — it is seated in the heart of all.
+long: "Jyotiṣām api taj jyotiḥ tamasaḥ param ucyate / jñānaṃ jñeyaṃ jñāna-gamyaṃ hṛdi sarvasya viṣṭhitam." "Jyotiṣām api taj jyotiḥ" — the light of lights — the light by which all other lights shine (the sun shines because Brahman illuminates it — Kaṭha Upaniṣad). "Tamasaḥ param" — beyond darkness (tamas — matter, ignorance). "Jñānaṃ jñeyaṃ jñāna-gamyam" — knowledge, object of knowledge, and the goal that knowledge reaches — all three are it. "Hṛdi sarvasya viṣṭhitam" — seated in the heart of all. Universal and intimate simultaneously.
+wbw:
+  jyotiṣām api taj jyotiḥ | phrase | the light of lights even
+  tamasaḥ param ucyate | phrase | is said to be beyond darkness
+  jñānaṃ jñeyaṃ jñāna-gamyam | phrase | knowledge, object of knowledge, goal of knowledge
+  hṛdi sarvasya viṣṭhitam | phrase | seated in the heart of all
+---
+# 13.19
+short: Thus the field, knowledge, and the object of knowledge have been briefly stated. My devotee, understanding this, becomes fit to attain My nature.
+long: "Iti kṣetraṃ tathā jñānaṃ jñeyaṃ coktaṃ samāsataḥ / mad-bhakta etad vijñāya mad-bhāvāyopapadyate." "Iti kṣetraṃ tathā jñānaṃ jñeyaṃ ca" — the field, knowledge, and the object of knowledge — all three have been spoken. "Samāsataḥ" — briefly. "Mad-bhakta etad vijñāya" — My devotee, having understood this (vijñāya — experientially realized, not merely intellectually grasped). "Mad-bhāvāyopapadyate" — becomes fit for/attains My nature. Understanding the kṣetra-kṣetrajña distinction is not academic — it produces liberation.
+wbw:
+  iti kṣetraṃ tathā jñānaṃ | phrase | thus the field, and knowledge
+  jñeyaṃ coktaṃ samāsataḥ | phrase | and the object of knowledge stated briefly
+  mad-bhakta etad vijñāya | phrase | My devotee, having understood this
+  mad-bhāvāyopapadyate | phrase | becomes fit to attain My nature
+---
+# 13.20
+short: Know that both prakṛti and puruṣa are beginningless. Know that modifications and the guṇas are born from prakṛti.
+long: "Prakṛtiṃ puruṣaṃ caiva viddhy anādī ubhāv api / vikārāṃś ca guṇāṃś caiva viddhi prakṛti-sambhavān." Both prakṛti (matter) and puruṣa (consciousness) are beginningless (anādī) — they are ultimate realities, not derived from something prior. "Vikārāṃś ca guṇāṃś caiva viddhi prakṛti-sambhavān" — know the modifications (vikāra — the manifest world) and the guṇas (sattva, rajas, tamas) as born from prakṛti. The guṇas belong to matter, not to consciousness. This is the key Sāṃkhya insight: what changes (vikāra) is matter; what witnesses change is consciousness.
+wbw:
+  prakṛtiṃ puruṣaṃ caiva | phrase | both prakṛti and puruṣa also
+  viddhy anādī ubhāv api | phrase | know (them) as beginningless, both
+  vikārāṃś ca guṇāṃś caiva | phrase | modifications and guṇas also
+  viddhi prakṛti-sambhavān | phrase | know (them) as born from prakṛti
+---
+# 13.21
+short: Prakṛti is said to be the cause in the matter of cause and effect and agency. Puruṣa is said to be the cause in the matter of experiencing pleasure and pain.
+long: "Kārya-kāraṇa-kartṛtve hetuḥ prakṛtir ucyate / puruṣaḥ sukha-duḥkhānāṃ bhoktṛtve hetur ucyate." Prakṛti is the cause (hetu) of kārya (effect), kāraṇa (cause), and kartṛtva (agency/doer-ship). All action, causation, and the sense of "I am the doer" belong to prakṛti. Puruṣa is the cause of bhoktṛtva — the capacity to experience pleasure and pain. Puruṣa does not act; it experiences. The confusion of these two (thinking "I act" when in reality prakṛti acts, thinking "I am the body" when in reality I am the witness) is saṃsāra. Clarity about their distinction is liberation.
+wbw:
+  kārya-kāraṇa-kartṛtve | locative compound | in cause, effect, and agency
+  hetuḥ prakṛtir ucyate | phrase | prakṛti is said to be the cause
+  puruṣaḥ sukha-duḥkhānāṃ | phrase | puruṣa, of pleasure and pain
+  bhoktṛtve hetur ucyate | phrase | is said to be the cause in experiencing
+---
+# 13.22
+short: The puruṣa seated in prakṛti experiences the guṇas born from prakṛti. Attachment to the guṇas is the cause of its births in good and evil wombs.
+long: "Puruṣaḥ prakṛti-stho hi bhuṅkte prakṛti-jān guṇān / kāraṇaṃ guṇa-saṅgo'sya sad-asad-yoni-janmasu." "Puruṣaḥ prakṛti-sthaḥ" — puruṣa seated in (apparently located within) prakṛti. "Bhuṅkte prakṛti-jān guṇān" — experiences the guṇas born from prakṛti. "Kāraṇaṃ guṇa-saṅgaḥ asya" — the cause is its attachment (saṅga) to the guṇas. "Sad-asad-yoni-janmasu" — in births in good (sat) and evil (asat) wombs. The mechanism of rebirth: not some external punishment but the natural result of the consciousness identifying with (being attached to) the movement of the guṇas.
+wbw:
+  puruṣaḥ prakṛti-stho hi | phrase | the puruṣa seated in prakṛti indeed
+  bhuṅkte prakṛti-jān guṇān | phrase | experiences the guṇas born from prakṛti
+  kāraṇaṃ guṇa-saṅgo'sya | phrase | its attachment to guṇas is the cause
+  sad-asad-yoni-janmasu | locative | in births in good and evil wombs
+---
+# 13.23
+short: The Supreme Puruṣa in this body is called the witness, the permitter, the supporter, the experiencer, the Great Lord, and also the Supreme Self.
+long: "Upadraṣṭānumantā ca bhartā bhoktā maheśvaraḥ / paramātmeti cāpy ukto dehe'smin puruṣaḥ paraḥ." The paramātman in the body is described with six terms: upadraṣṭā (the witness — who sees from above/nearby, not from the inside as an actor), anumantā (the permitter — who allows events to occur without directing them), bhartā (the supporter), bhoktā (the experiencer), maheśvara (the Great Lord), paramātmā (the Supreme Self). These terms together describe pure consciousness — the witness that makes all experience possible without being bound by any of it.
+wbw:
+  upadraṣṭā anumantā ca | phrase | the witness and the permitter
+  bhartā bhoktā maheśvaraḥ | phrase | the supporter, the experiencer, the Great Lord
+  paramātmeti cāpy uktaḥ | phrase | also called the Supreme Self
+  dehe'smin puruṣaḥ paraḥ | phrase | in this body, the Supreme Puruṣa
+---
+# 13.24
+short: One who thus knows puruṣa and prakṛti along with the guṇas — even while acting in every way — is not born again.
+long: "Ya evaṃ vetti puruṣaṃ prakṛtiṃ ca guṇaiḥ saha / sarvathā vartamāno'pi na sa bhūyo'bhijāyate." "Evaṃ vetti" — one who knows thus (as described). "Puruṣaṃ prakṛtiṃ ca guṇaiḥ saha" — puruṣa and prakṛti together with the guṇas. "Sarvathā vartamāno'pi" — even while acting in every way (even while fully engaged in life). "Na sa bhūyo'bhijāyate" — is not born again. Knowledge of the distinction between the witness (puruṣa) and what is witnessed (prakṛti with its guṇas) is itself liberation. Not withdrawal from action but clarity about what is acting.
+wbw:
+  ya evaṃ vetti puruṣam | phrase | one who knows thus the puruṣa
+  prakṛtiṃ ca guṇaiḥ saha | phrase | and prakṛti along with the guṇas
+  sarvathā vartamāno'pi | phrase | even while acting in every way
+  na sa bhūyo'bhijāyate | phrase | is not born again
+---
+# 13.25
+short: Some by meditation see the Self within the self; others through the yoga of Sāṃkhya; others through the yoga of action.
+long: "Dhyānenātmani paśyanti kecid ātmānam ātmanā / anye sāṃkhyena yogena karma-yogena cāpare." Three paths to the same realization: dhyāna (meditation — the yogic path), Sāṃkhya (the path of discriminative knowledge — understanding puruṣa-prakṛti distinction intellectually until it transforms into wisdom), and karma-yoga (the path of action — offering all actions to the divine). All three lead to the same recognition of the Self. The Gita's characteristic pluralism: no single path is declared universal.
+wbw:
+  dhyānenātmani paśyanti | phrase | by meditation, they see the Self within the self
+  kecid ātmānam ātmanā | phrase | some the Self through the self
+  anye sāṃkhyena yogena | phrase | others through the yoga of Sāṃkhya
+  karma-yogena cāpare | phrase | and others through the yoga of action
+---
+# 13.26
+short: Yet others, not knowing this (these paths), worship having heard from others. Even they, devoted to what they have heard, cross beyond death.
+long: "Anye tv evam ajānantaḥ śrutvānyebhya upāsate / te'pi cātitarantyteva mṛtyuṃ śruti-parāyaṇāḥ." "Anye tv evam ajānantaḥ" — others who don't know these paths. "Śrutvānyebhya upāsate" — worship having heard from others (satsaṅga, learning from teachers, participating in community). "Te'pi cātitaranty eva" — even they, most certainly, cross beyond death. "Śruti-parāyaṇāḥ" — devoted to what they've heard. This is extraordinarily inclusive: even those who follow transmitted tradition without direct realization are on the path and do cross over. Devoted hearing is valid.
+wbw:
+  anye tv evam ajānantaḥ | phrase | others who do not know this
+  śrutvānyebhya upāsate | phrase | worship having heard from others
+  te'pi cātitaranty eva | phrase | even they, most certainly, cross beyond
+  mṛtyuṃ śruti-parāyaṇāḥ | phrase | death, devoted to what they have heard
+---
+# 13.27
+short: O Best of the Bharatas, know that whatever being is born — unmoving or moving — it comes from the union of field (kṣetra) and knower-of-field (kṣetrajña).
+long: "Yāvat sañjāyate kiñcit sattvaṃ sthāvara-jaṃgamam / kṣetra-kṣetrajña-saṃyogāt tad viddhi bharatarṣabha." "Yāvat sañjāyate kiñcit sattvaṃ sthāvara-jaṃgamam" — whatever being comes into existence, whether unmoving (sthāvara — plants, minerals) or moving (jaṃgama — animals, humans). "Kṣetra-kṣetrajña-saṃyogāt" — from the union (saṃyoga) of field (kṣetra) and knower-of-field (kṣetrajña). All existence is this union of matter and consciousness. There is no being that is purely one or the other — all manifestation is the meeting of the two.
+wbw:
+  yāvat sañjāyate kiñcit | phrase | whatever comes into existence
+  sattvaṃ sthāvara-jaṃgamam | phrase | a being, unmoving or moving
+  kṣetra-kṣetrajña-saṃyogāt | ablative | from the union of field and knower-of-field
+  tad viddhi bharatarṣabha | phrase | know that, O Best of the Bharatas
+---
+# 13.28
+short: One who sees the Supreme Lord dwelling equally in all beings — unperishing within the perishing — truly sees.
+long: "Samaṃ sarveṣu bhūteṣu tiṣṭhantaṃ parameśvaram / vinaśyatsu avinaśyantaṃ yaḥ paśyati sa paśyati." "Samaṃ sarveṣu bhūteṣu tiṣṭhantam" — dwelling equally (samaṃ) in all beings. "Parameśvaram" — the Supreme Lord. "Vinaśyatsu avinaśyantam" — the imperishable within the perishing (all bodies perish; the consciousness within them does not). "Yaḥ paśyati sa paśyati" — who sees this, truly sees. Repeated paśyati — "who sees, sees." The one who perceives correctly is the one who sees the undying within the dying, the one within the many.
+wbw:
+  samaṃ sarveṣu bhūteṣu | phrase | equally in all beings
+  tiṣṭhantaṃ parameśvaram | phrase | the Supreme Lord dwelling
+  vinaśyatsu avinaśyantam | phrase | the imperishable within the perishing
+  yaḥ paśyati sa paśyati | phrase | who sees this — truly sees
+---
+# 13.29
+short: Because one sees the Lord dwelling equally everywhere, one does not injure the Self by the self; thereby one reaches the Supreme Goal.
+long: "Samaṃ paśyan hi sarvatra samavasthitam īśvaram / na hinasty ātmanātmānaṃ tato yāti parāṃ gatim." "Samaṃ paśyan sarvatra samavasthitam īśvaram" — seeing the Lord dwelling equally everywhere. "Na hinasty ātmanātmānam" — does not injure the Self by the self. When we see others as separate and act against them in ego, we actually injure ourselves (because the Self is one). Seeing the unity prevents this self-injuring. "Tato yāti parāṃ gatim" — thereby goes to the Supreme Goal. Seeing rightly is both ethical and liberating.
+wbw:
+  samaṃ paśyan hi sarvatra | phrase | seeing equally, indeed, everywhere
+  samavasthitam īśvaram | phrase | the Lord dwelling equally
+  na hinasty ātmanātmānam | phrase | does not injure the Self by the self
+  tato yāti parāṃ gatim | phrase | thereby reaches the Supreme Goal
+---
+# 13.30
+short: When one sees that the variety of beings is established in one — and that expansion is from that one alone — then one attains Brahman.
+long: "Prakṛtyaiva ca karmāṇi kriyamāṇāni sarvaśaḥ / yaḥ paśyati tathātmānam akartāraṃ sa paśyati." (Alternate reading of 13.30): When one sees that all actions are done entirely by prakṛti — and sees the Self as non-doer (akartāram) — that one truly sees. The Self does not act; prakṛti acts. The Self is the witness. When one realizes this — not just intellectually but experientially — the confusion of "I am the doer" dissolves, and with it the binding of karma.
+wbw:
+  prakṛtyaiva ca karmāṇi | phrase | and actions, by prakṛti alone
+  kriyamāṇāni sarvaśaḥ | phrase | being done in every way
+  yaḥ paśyati tathātmānam | phrase | one who sees the Self thus
+  akartāraṃ sa paśyati | phrase | as non-doer — that one truly sees
+---
+# 13.31
+short: When one sees the separate existence of beings established in one and their expansion from that one — then one attains Brahman.
+long: "Yadā bhūta-pṛthag-bhāvam eka-stham anupaśyati / tata eva ca vistāraṃ brahma sampadyate tadā." "Yadā bhūta-pṛthag-bhāvam eka-stham anupaśyati" — when one sees the separate existence (pṛthag-bhāva) of beings established in (eka-stham — in one place, in the One). "Tata eva ca vistāram" — and expansion from that One alone. When one simultaneously sees both the multiplicity (pṛthak-bhāva) and its single source (eka-stham), the apparent paradox resolves. "Brahma sampadyate tadā" — then one attains Brahman. The vision of the one within the many is itself the attainment.
+wbw:
+  yadā bhūta-pṛthag-bhāvam | phrase | when the separate existence of beings
+  eka-stham anupaśyati | phrase | one sees established in one
+  tata eva ca vistāram | phrase | and expansion from that alone
+  brahma sampadyate tadā | phrase | then one attains Brahman
+---
+# 13.32
+short: Being beginningless and without qualities, this Supreme Self — immutable — though dwelling in the body does not act, nor is it tainted, O Kaunteya.
+long: "Anāditvān nirguṇatvāt paramātmāyam avyayaḥ / śarīra-stho'pi kaunteya na karoti na lipyate." "Anāditvāt" — because of being beginningless. "Nirguṇatvāt" — because of being without qualities (nirguṇa — transcending the three guṇas). "Paramātmāyam avyayaḥ" — this Supreme Self, immutable. "Śarīra-stho'pi" — though dwelling in the body (apparently located in it). "Na karoti" — does not act. "Na lipyate" — is not tainted/smeared. Even while in the body, the Supreme Self is untouched by the body's activities. The lotus in the muddy pond.
+wbw:
+  anāditvān nirguṇatvāt | ablative phrase | because of being beginningless, without guṇas
+  paramātmāyam avyayaḥ | phrase | this Supreme Self, immutable
+  śarīra-stho'pi kaunteya | phrase | though dwelling in the body, O Kaunteya
+  na karoti na lipyate | phrase | does not act, is not tainted
+---
+# 13.33
+short: Just as the all-pervading space, because of its subtlety, is not tainted — so the Self, pervading all bodies, is not tainted.
+long: "Yathā sarva-gataṃ saukṣmyāt ākāśaṃ nopalipyate / sarvatrāvasthito dehe tathātmā nopalipyate." A magnificent simile. Ākāśa (space) pervades all things — the interior of every container, the pores of every solid. Space is inside the lamp, inside the sewage pipe, inside the flower. But space itself is untainted by any of this. Identically: "tathātmā nopalipyate" — so the Self is not tainted. The Self pervades all bodies without being contaminated by any body's actions, conditions, or states.
+wbw:
+  yathā sarva-gataṃ saukṣmyāt | phrase | just as the all-pervading, because of subtlety
+  ākāśaṃ nopalipyate | phrase | space is not tainted
+  sarvatrāvasthito dehe | phrase | dwelling everywhere in bodies
+  tathātmā nopalipyate | phrase | so the Self is not tainted
+---
+# 13.34
+short: As the one sun illuminates this entire world — so the owner of the field (kṣetrin) illuminates the entire field, O Bhārata.
+long: "Yathā prakāśayaty ekaḥ kṛtsnaṃ lokam imaṃ raviḥ / kṣetraṃ kṣetrī tathā kṛtsnaṃ prakāśayati bhārata." One sun (ekaḥ raviḥ) illuminates the entire world (kṛtsnaṃ lokam imaṃ). There is one sun; it illuminates all things. Similarly: one kṣetrin (field-owner, the Self) illuminates the entire kṣetra (field, body). Consciousness is like sunlight — it doesn't divide itself to illuminate each thing separately; it illuminates everything with one light. This is the essence of the kṣetra-kṣetrajña teaching.
+wbw:
+  yathā prakāśayaty ekaḥ | phrase | just as, the one (sun) illuminates
+  kṛtsnaṃ lokam imaṃ raviḥ | phrase | this entire world, the sun
+  kṣetraṃ kṣetrī tathā kṛtsnam | phrase | so the field-owner, the entire field
+  prakāśayati bhārata | phrase | illuminates, O Bhārata
+---
+# 13.35
+short: Those who know, through the eye of knowledge, this distinction between the field and the knower of the field — and the liberation of beings from prakṛti — they go to the Supreme.
+long: "Kṣetra-kṣetrajñayor evam antaraṃ jñāna-cakṣuṣā / bhūta-prakṛti-mokṣaṃ ca ye vidur yānti te param." "Jñāna-cakṣuṣā" — with the eye of knowledge (the highest kind of seeing — not with the physical eye but with discernment). "Kṣetra-kṣetrajñayor antaram" — the distinction between field and knower-of-field. "Bhūta-prakṛti-mokṣam ca" — and the liberation of beings from prakṛti. "Ye viduḥ yānti te param" — those who know — they go to the Supreme. Knowing the distinction liberates. This is the chapter's final declaration.
+wbw:
+  kṣetra-kṣetrajñayor evam | phrase | of field and knower-of-field, thus
+  antaraṃ jñāna-cakṣuṣā | phrase | the distinction, with the eye of knowledge
+  bhūta-prakṛti-mokṣaṃ ca | phrase | and liberation of beings from prakṛti
+  ye vidur yānti te param | phrase | those who know — they go to the Supreme
+---

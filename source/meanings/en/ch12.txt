@@ -1,0 +1,318 @@
+# 12.1
+short: Arjuna asks: between those who worship You with form and those who worship the imperishable, unmanifest — who are the better knowers of yoga?
+long: Arjuna poses the philosophical question that drives Chapter 12: which path is superior — saguna upāsanā (worship with form and attributes) or nirguṇa upāsanā (meditation on the formless Absolute)? This is not an idle question; it reflects the actual tension felt by seekers of all ages between devotion to a personal God and the more austere path of formless meditation. Kṛṣṇa's answer will be both inclusive and direct.
+wbw:
+  evam | adverb | thus/in this way
+  satata-yuktāḥ | nom. pl. | those constantly united (in yoga)
+  ye | rel. pronoun | who
+  bhaktāḥ | nom. pl. | devotees
+  tvām | acc. | you
+  paryupāsate | 3rd pl. | worship/contemplate
+  ye | rel. pronoun | who
+  ca api | particle | and also
+  akṣaram | acc. sg. | the imperishable
+  avyaktam | acc. sg. | the unmanifest
+  teṣām | gen. pl. | of them
+  ke | interrogative | who
+  yoga-vittamāḥ | nom. pl. | better knowers of yoga
+---
+# 12.2
+short: Kṛṣṇa answers: Those who worship Me with supreme faith, fixing their minds on Me — I consider them to be the most perfect yogīs.
+long: Kṛṣṇa directly answers: the devotee who worships the personal form with full faith and mental absorption is the best yogī. This is the foundational statement of Bhakti Yoga. The word "mat-parāyaṇāḥ" (devoted to Me as the supreme) indicates complete surrender; "yuktā" indicates union. Faith combined with focused mind is Kṛṣṇa's definition of the highest yoga.
+wbw:
+  śrī bhagavān uvāca | nom. sg. | the Blessed Lord said
+  mayy āveśya | gerund + loc. | having fixed in Me
+  manaḥ | acc. sg. | the mind
+  ye | rel. pronoun | those who
+  mām | acc. | Me
+  nitya-yuktāḥ | nom. pl. | ever united
+  upāsate | 3rd pl. | worship
+  śraddhayā | inst. sg. | with faith
+  parayā | inst. sg. | supreme/highest
+  upetāḥ | nom. pl. | endowed with
+  te | nom. pl. | they
+  me | gen. | to Me
+  yuktātamāḥ | nom. pl. | most perfect yogīs
+  matāḥ | nom. pl. | are considered
+---
+# 12.3
+short: But those who worship the imperishable, indefinable, unmanifest, all-pervading, inconceivable, unchanging, unmovable, constant —
+long: The verse begins the description of the nirguṇa path — meditation on the formless Absolute — without yet completing the judgment (that comes in 12.5). The attributes listed: imperishable (akṣaram), indefinable (anirdeśyam), unmanifest (avyaktam), all-pervading (sarvatra-gam), inconceivable (acintya), unchanging (kūṭastha), unmovable (acala), constant (dhruva). These are the qualities of Brahman without attributes.
+wbw:
+  ye tu | nom. pl. | but those who
+  akṣaram | acc. sg. | the imperishable
+  anirdeśyam | acc. sg. | the indefinable
+  avyaktam | acc. sg. | the unmanifest
+  paryupāsate | 3rd pl. | worship
+  sarvatra-gam | acc. sg. | all-pervading
+  acintyam | acc. sg. | inconceivable
+  ca | particle | and
+  kūṭastham | acc. sg. | unchanging/immovable
+  acalam | acc. sg. | unmovable
+  dhruvam | acc. sg. | constant/eternal
+---
+# 12.4
+short: — restraining all the senses, equal-minded in all conditions, devoted to the welfare of all beings — they also attain Me.
+long: The practitioners of nirguṇa meditation also reach Kṛṣṇa — this is the inclusive answer. Three qualifications are essential: sense control (saṃniyamya indriya-grāmam), equanimity in all conditions (sarvatrasamabuddhayaḥ), and devotion to universal welfare (sarva-bhūta-hite ratāḥ). These are demanding requirements, and 12.5 explains why this path is harder than bhakti.
+wbw:
+  saṃniyamya | gerund | having controlled/restrained
+  indriya-grāmam | acc. sg. | the collection of senses
+  sarvatra | everywhere | in all circumstances
+  samabuddhayaḥ | nom. pl. | equal-minded
+  te | nom. pl. | they
+  prāpnuvanti | 3rd pl. | attain
+  mām eva | acc. + particle | Me indeed
+  sarva-bhūta-hite | loc. | in the welfare of all beings
+  ratāḥ | nom. pl. | devoted/engaged
+---
+# 12.5
+short: The difficulty is greater for those whose minds are set on the unmanifest, for the unmanifest path is hard to reach for the embodied.
+long: Kṛṣṇa explains why saguna bhakti is easier: the embodied soul naturally relates to form, personality, and relationship. Meditating on the formless Absolute — which has no qualities, no name, no story, no face — requires a level of abstraction that is genuinely difficult for beings who live in bodies and relate through senses. This is not a criticism of the nirguṇa path, only an honest assessment of its difficulty for most practitioners.
+wbw:
+  kleśo | nom. sg. | difficulty/trouble
+  adhikataraḥ | comparative | greater/more
+  teṣām | gen. pl. | of them
+  avyakta-āsaktacetasām | gen. pl. | whose minds are attached to the unmanifest
+  avyaktā hi | nom. sg. + particle | for the unmanifest indeed
+  gatiḥ | nom. sg. | path/course
+  duḥkham | nom. sg. | difficult
+  dehavadbhiḥ | inst. pl. | by the embodied
+  avāpyate | 3rd sg. passive | is reached/attained
+---
+# 12.6
+short: But those who dedicate all their actions to Me, worship Me as supreme, meditate on Me, devoted to Me — I deliver them from the ocean of death and rebirth.
+long: For those who practice total dedication (mat-karma), Me-as-supreme orientation (mat-paramāḥ), meditation on Me (mad-bhaktāḥ), and freedom from attachment — Kṛṣṇa personally becomes the deliverer. "Samudra" (ocean) — the saṃsāra of death and rebirth — is overcome not by the practitioner's effort alone but by divine grace responding to total surrender. This is the promise of Bhakti Yoga.
+wbw:
+  ye tu | nom. pl. | but those who
+  sarvāṇi karmāṇi | acc. pl. | all actions
+  mayi | loc. | in Me
+  saṃnyasya | gerund | having surrendered
+  mat-parāḥ | nom. pl. | Me as supreme
+  ananyenaiva | inst. + particle | by undivided only
+  yogena | inst. sg. | by yoga
+  māṃ | acc. | Me
+  dhyāyanta | present participle | meditating
+  upāsate | 3rd pl. | worship
+  teṣām | gen. pl. | of them
+  aham | nom. | I
+  samuddhartā | nom. sg. | the deliverer
+  mṛtyu-saṃsāra-sāgarāt | abl. | from the ocean of death and rebirth
+  bhavāmi | 1st sg. | I become/am
+---
+# 12.7
+short: For those whose minds are fixed on Me, O Pārtha, I become swiftly the savior from the ocean of death and saṃsāra.
+long: Kṛṣṇa emphasizes the swiftness of divine response when the devotee's mind is genuinely fixed on Him. "Na cirāt" — not long/soon — indicates that divine rescue is not delayed by cosmic bureaucracy. The relationship is immediate and personal: mind fixed on Me, and I respond. This directness is the distinctive promise of Bhakti Yoga over other paths that require longer discipline.
+wbw:
+  mayy āveśita | loc. + adj. | those with minds fixed in Me
+  cetasām | gen. pl. | of those whose minds
+  aham | nom. | I
+  pārtha | vocative | O Pārtha
+  samuddhartā | nom. sg. | deliverer/savior
+  mṛtyu-saṃsāra | compound | death and cyclic existence
+  sāgarāt | abl. | from the ocean
+  bhavāmi | 1st sg. | I am/become
+  na cirāt | negative + adverb | not long/soon
+---
+# 12.8
+short: Fix your mind on Me alone, place your intellect in Me — henceforth you shall dwell in Me. No doubt about this.
+long: The direct instruction begins: mind to Me (mayi eva manaḥ), intellect in Me (buddhiṃ niveśaya mayi). The result is immediate residence in the Divine — "mayi eva nivasiṣyasi." Kṛṣṇa adds "na saṃśayaḥ" — no doubt — with confidence. This is the most direct prescription in the Bhakti Yoga chapter: total mental and intellectual surrender to Kṛṣṇa as the practice.
+wbw:
+  mayi | loc. | in Me
+  eva | particle | alone/indeed
+  manaḥ | acc. sg. | the mind
+  ādhatsva | imperative | fix/place
+  mayi | loc. | in Me
+  buddhiṃ | acc. sg. | intellect/understanding
+  niveśaya | imperative | place/establish
+  nivasiṣyasi | 2nd sg. future | you shall dwell
+  mayi | loc. | in Me
+  eva | particle | indeed
+  ataḥ ūrdhvam | adverb | henceforth/from this point
+  na saṃśayaḥ | nom. sg. | no doubt
+---
+# 12.9
+short: If you cannot fix the mind steadily on Me, then by abhyāsa yoga — the yoga of practice — seek to reach Me, O Dhanañjaya.
+long: Kṛṣṇa now builds a graduated path for those who cannot immediately achieve total absorption. If direct mental fixing is too difficult, then practice — abhyāsa — is the next step. Practice means repeatedly bringing the mind back to the Divine even when it wanders. The Gītā's teaching is compassionately layered: it meets the practitioner where they are and offers a path forward from that point.
+wbw:
+  atha | if | if/now
+  citta | acc. sg. | the mind
+  samādhātuṃ | infinitive | to fix steadily
+  na | negative | not
+  śaknoṣi | 2nd sg. | you are able
+  mayi | loc. | in Me
+  sthiram | adj. | steadily/firmly
+  abhyāsa-yogena | inst. sg. | by the yoga of practice
+  tataḥ | then | then
+  māṃ | acc. | Me
+  icchāptuṃ | infinitive | seek to reach/attain
+  dhanañjaya | vocative | O Dhanañjaya (Arjuna)
+---
+# 12.10
+short: If you are unable to do even this abhyāsa, then be devoted to performing action for My sake — performing actions for My sake, you shall attain perfection.
+long: The second step down: if even practice is difficult, then karma-yoga dedicated to Kṛṣṇa is offered. "Mat-karma" — actions for Me, as offering, as service. The householder, the soldier, the teacher — any person in any station of life can practice this. Every action becomes sacred when performed as an offering to the Divine. This is the democratization of spiritual practice in the Gītā.
+wbw:
+  abhyāse | loc. | in practice
+  api | particle | even
+  asamarthaḥ | nom. sg. | unable/incapable
+  asi | 2nd sg. | you are
+  mat-karma-paramo | nom. sg. | devoted to performing My actions
+  bhava | imperative | be
+  mat-artham | for My sake | for My sake
+  api | particle | even
+  karmāṇi | acc. pl. | actions
+  kurvan | present participle | performing
+  siddhiṃ | acc. sg. | perfection/success
+  avāpsyasi | 2nd sg. future | you shall attain
+---
+# 12.11
+short: If even this is beyond you, then taking refuge in My yoga, renounce the fruits of all actions with a self-controlled mind.
+long: The third step: if even dedicated action is too difficult, then at minimum — renounce the fruits of action. This is nishkama karma: action without attachment to results. "Ātma-vān" (self-controlled) is the qualification. Even this minimal practice — doing what you do but letting go of outcomes — is a valid path to Kṛṣṇa. The teaching accommodates every level of practitioner without dismissing any.
+wbw:
+  athaitad | if this | if even this
+  api | particle | even
+  aśakto 'si | 2nd sg. | you are unable
+  kartuṃ | infinitive | to do
+  mad-yogam | acc. sg. | My yoga
+  āśritaḥ | nom. sg. | taking refuge in
+  sarva-karma-phala-tyāgam | acc. sg. | renunciation of the fruits of all actions
+  tataḥ | then | then
+  kuru | imperative | do/perform
+  yatātmavān | nom. sg. | self-controlled
+---
+# 12.12
+short: Better is knowledge than practice, better than knowledge is meditation, better than meditation is renunciation of fruit — from renunciation peace follows immediately.
+long: Kṛṣṇa now ranks the practices in ascending order: mechanical practice < knowledge-based practice < meditation < renunciation of fruits. This does not contradict the earlier graduated path — it clarifies the principle behind it. Renunciation of fruits is highest because it directly removes the cause of bondage: the ego's claim on results. When results are surrendered, peace (śānti) follows immediately — "anantaram" — not eventually but at once.
+wbw:
+  śreyaḥ | nominative | better
+  hi | particle | indeed/for
+  jñānam | nom. sg. | knowledge
+  abhyāsāt | abl. | than practice
+  jñānāt | abl. | than knowledge
+  dhyānaṃ | nom. sg. | meditation
+  viśiṣyate | 3rd sg. | excels/is better
+  dhyānāt | abl. | than meditation
+  karma-phala-tyāgaḥ | nom. sg. | renunciation of the fruits of action
+  tyāgāt | abl. | from renunciation
+  śāntiḥ | nom. sg. | peace
+  anantaram | adverb | immediately/thereafter
+---
+# 12.13
+short: The one who hates no being, who is friendly and compassionate to all, free from "mine" and ego, equal in pain and pleasure, patient —
+long: Kṛṣṇa now describes the qualities of His beloved devotee — and they begin not with ritual or meditation but with the absence of hatred toward any being. The list: adveṣṭā (non-hating), maitrah (friendly), karuṇa (compassionate), nirmama (free from "mine"), nirāhaṃkāra (egoless), samaduḥkhasukha (equal in joy and sorrow), kṣamī (patient). These are not goals to achieve — they are the natural expression of bhakti matured into character.
+wbw:
+  adveṣṭā | nom. sg. | non-hating
+  sarva-bhūtānām | gen. pl. | of all beings
+  maitraḥ | nom. sg. | friendly
+  karuṇa eva ca | nom. sg. + particle | and also compassionate
+  nirmamo | nom. sg. | free from "mine"
+  nirahaṃkāraḥ | nom. sg. | free from ego
+  sama-duḥkha-sukhaḥ | nom. sg. | equal in pain and pleasure
+  kṣamī | nom. sg. | patient/forgiving
+---
+# 12.14
+short: — ever content, the yogī whose self is controlled, whose conviction is firm, whose mind and intellect are surrendered to Me — that devotee of Mine is dear to Me.
+long: The description continues: santuṣṭa (ever content), yoga-yukta (united in yoga), ātmavān (self-controlled), dṛḍha-niścaya (firm conviction), and then the key: mana-buddhir mayi arpita — mind and intellect offered to Me. Content, disciplined, resolved, and surrendered — this is the portrait of the true devotee. Kṛṣṇa declares: this one is dear to Me.
+wbw:
+  santuṣṭaḥ | nom. sg. | ever content/satisfied
+  satatam | adverb | always
+  yogī | nom. sg. | the yogī
+  yatātmā | nom. sg. | self-controlled
+  dṛḍha-niścayaḥ | nom. sg. | firm in conviction
+  mayy arpita | loc. + adj. | surrendered to Me
+  mano-buddhiḥ | nom. sg. | whose mind and intellect
+  yaḥ | rel. pronoun | who
+  mad-bhaktaḥ | nom. sg. | My devotee
+  saḥ me priyaḥ | nom. sg. | that one is dear to Me
+---
+# 12.15
+short: The one from whom the world is not disturbed and who is not disturbed by the world, who is free from joy, envy, fear, and agitation — that one is dear to Me.
+long: The spiritual person neither disturbs the world nor is disturbed by it. This "mutual non-disturbance" is a profound social ideal. Free from harṣa (elation), amarṣa (envy), bhaya (fear), udvega (agitation) — these four cover the main emotional reactivity patterns that make life turbulent. The fully settled devotee is a stabilizing presence wherever they are.
+wbw:
+  yasmāt | abl. | from whom
+  nodvijate | 3rd sg. | is not disturbed
+  lokaḥ | nom. sg. | the world
+  lokāt | abl. | by the world
+  nodvijate | 3rd sg. | is not disturbed
+  ca yaḥ | rel. pronoun | and who
+  harṣāmarṣa-bhayodvegaiḥ | inst. pl. | from joy, envy, fear, agitation
+  muktaḥ | nom. sg. | free
+  yaḥ | rel. pronoun | who
+  sa ca me priyaḥ | nom. sg. | that one is dear to Me
+---
+# 12.16
+short: The one who is independent, pure, capable, impartial, free from anxiety, who has renounced all undertakings — that devotee of Mine is dear to Me.
+long: Anapekṣa (independent, expecting nothing), śuci (pure), dakṣa (capable, efficient), udāsīna (impartial, detached), gata-vyathā (free from anxiety), sarva-ārambha-parityāgī (having renounced all ego-driven undertakings) — these qualities describe a person who acts fully and effectively in the world without any of the ego-stains that normally distort action.
+wbw:
+  anapekṣaḥ | nom. sg. | independent/expecting nothing
+  śuciḥ | nom. sg. | pure
+  dakṣaḥ | nom. sg. | capable/efficient
+  udāsīnaḥ | nom. sg. | impartial/neutral
+  gata-vyathaḥ | nom. sg. | free from distress/anxiety
+  sarva-ārambha | all undertakings | all ego-initiated undertakings
+  parityāgī | nom. sg. | one who has renounced
+  yaḥ | rel. pronoun | who
+  mad-bhaktaḥ | nom. sg. | My devotee
+  sa me priyaḥ | nom. sg. | is dear to Me
+---
+# 12.17
+short: The one who neither rejoices nor hates, neither grieves nor desires, having renounced both auspicious and inauspicious — that devotee is dear to Me.
+long: Equanimity in all four emotional directions: no joy at what is pleasant, no hate toward the unpleasant, no grief for what is lost, no desire for what is not yet attained. Beyond this, "śubhāśubha-parityāgī" — renouncing both the auspicious and the inauspicious. Even the auspicious (śubha) is transcended, because attachment to "good things" still binds. The devotee lives beyond preference, in a fullness that needs nothing added or removed.
+wbw:
+  yaḥ | rel. pronoun | who
+  na hṛṣyati | 3rd sg. | does not rejoice
+  na dveṣṭi | 3rd sg. | does not hate
+  na śocati | 3rd sg. | does not grieve
+  na kāṅkṣati | 3rd sg. | does not desire
+  śubhāśubha | adj. | auspicious and inauspicious
+  parityāgī | nom. sg. | one who has renounced
+  bhaktimān | nom. sg. | full of devotion
+  yaḥ | rel. pronoun | who
+  sa me priyaḥ | nom. sg. | is dear to Me
+---
+# 12.18
+short: Equal to friend and foe, equal in honor and dishonor, cold and heat, pleasure and pain; free from attachment —
+long: Samatā (equanimity) extends to social experience: sama (equal) toward śatru (enemy) and mitra (friend), māna (honor) and apamāna (dishonor), śīta (cold) and uṣṇa (heat), sukha (pleasure) and duḥkha (pain). The list of pairs covers every category of human experience. The devotee does not deny these differences but is not dominated by them. The inner center holds regardless of what the pairs bring.
+wbw:
+  samaḥ | nom. sg. | equal/same
+  śatrau | loc. | toward enemy
+  ca mitre | loc. | and toward friend
+  ca | particle | and
+  tathā | adverb | also
+  mānāpamānayoḥ | loc. dual | in honor and dishonor
+  śītoṣṇa | compound | cold and heat
+  sukha-duḥkheṣu | loc. pl. | in pleasure and pain
+  samaḥ | nom. sg. | equal
+  saṅga-vivarjitaḥ | nom. sg. | free from attachment
+---
+# 12.19
+short: — equal in praise and blame, silent, content with whatever comes, having no fixed home, of steady mind, full of devotion — that person is dear to Me.
+long: The list concludes: tulya-nindā-stuti (equal in blame and praise), maunī (silent/given to silence), santuṣṭa (content with whatever comes), aniketaḥ (having no fixed home — the wandering sage), sthira-mati (steady of mind), bhaktimān (full of devotion). The portrait is complete: a person of total inner freedom, equally at home everywhere, dependent on nothing, rooted in the Divine alone.
+wbw:
+  tulya-nindā-stutiḥ | nom. sg. | equal in blame and praise
+  maunī | nom. sg. | silent/contemplative
+  santuṣṭaḥ | nom. sg. | content
+  yena-kenacit | inst. | with whatever comes
+  aniketaḥ | nom. sg. | without fixed abode
+  sthira-matiḥ | nom. sg. | steady minded
+  bhaktimān | nom. sg. | full of devotion
+  me | dat. | to Me
+  priyaḥ | nom. sg. | dear
+  naraḥ | nom. sg. | person
+---
+# 12.20
+short: Those who follow this immortal dharma as taught, full of faith, devoted to Me as the supreme goal — those devotees are exceedingly dear to Me.
+long: The chapter closes with the supreme declaration: those who practice this "amṛta-dharma" (immortal dharma) with śraddhā (faith) and with Me as the supreme goal — these bhaktas are "atyartham priyāḥ" (exceedingly dear) to Kṛṣṇa. The word "atyartham" (beyond measure) is the Gītā's strongest expression of divine affection for the devotee. The entire chapter is a love letter from the Divine to the one who chooses devotion as the way home.
+wbw:
+  ye tu | nom. pl. | but those who
+  dharmyāmṛtam | acc. sg. | this immortal dharma
+  idam | acc. sg. | this
+  yathoktam | adverb | as stated/taught
+  paryupāsate | 3rd pl. | follow/practice
+  śraddadhānāḥ | nom. pl. | full of faith
+  mat-paramāḥ | nom. pl. | devoted to Me as supreme
+  bhaktāḥ | nom. pl. | devotees
+  te | nom. pl. | they
+  atyartham | adverb | exceedingly/beyond measure
+  me | dat. | to Me
+  priyāḥ | nom. pl. | dear
+---

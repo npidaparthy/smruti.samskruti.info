@@ -1,0 +1,312 @@
+{
+    "text": "gita",
+    "total": 700,
+    "chapters": [
+        {
+            "chapter": 1,
+            "title": {
+                "en": "Arjuna's Despondency",
+                "te": "అర్జున విషాద యోగము",
+                "sa": "अर्जुनविषादयोगः"
+            },
+            "yoga": "Yoga of Despondency",
+            "count": 47,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 1,
+                "sanjaya": 3,
+                "arjuna": 2,
+                "krishna": 0
+            }
+        },
+        {
+            "chapter": 2,
+            "title": {
+                "en": "Sānkhya Yoga",
+                "te": "సాంఖ్య యోగము",
+                "sa": "सांख्ययोगः"
+            },
+            "yoga": "Yoga of Knowledge",
+            "count": 72,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 2,
+                "arjuna": 2,
+                "krishna": 3
+            }
+        },
+        {
+            "chapter": 3,
+            "title": {
+                "en": "Karma Yoga",
+                "te": "కర్మ యోగము",
+                "sa": "कर्मयोगः"
+            },
+            "yoga": "Yoga of Action",
+            "count": 43,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 0,
+                "arjuna": 2,
+                "krishna": 2
+            }
+        },
+        {
+            "chapter": 4,
+            "title": {
+                "en": "Jñāna Yoga",
+                "te": "జ్ఞాన యోగము",
+                "sa": "ज्ञानयोगः"
+            },
+            "yoga": "Yoga of Knowledge",
+            "count": 42,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 0,
+                "arjuna": 1,
+                "krishna": 2
+            }
+        },
+        {
+            "chapter": 5,
+            "title": {
+                "en": "Karma Sanyāsa Yoga",
+                "te": "కర్మ సన్యాస యోగము",
+                "sa": "कर्मसन्यासयोगः"
+            },
+            "yoga": "Yoga of Renunciation of Action",
+            "count": 29,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 0,
+                "arjuna": 1,
+                "krishna": 1
+            }
+        },
+        {
+            "chapter": 6,
+            "title": {
+                "en": "Ātma Sanyama Yoga",
+                "te": "ఆత్మ సంయమ యోగము",
+                "sa": "आत्मसंयमयोगः"
+            },
+            "yoga": "Yoga of Self-Restraint",
+            "count": 47,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 0,
+                "arjuna": 2,
+                "krishna": 3
+            }
+        },
+        {
+            "chapter": 7,
+            "title": {
+                "en": "Jñāna Vijñāna Yoga",
+                "te": "జ్ఞాన విజ్ఞాన యోగము",
+                "sa": "ज्ञानविज्ञानयोगः"
+            },
+            "yoga": "Yoga of Knowledge and Wisdom",
+            "count": 30,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 0,
+                "arjuna": 0,
+                "krishna": 1
+            }
+        },
+        {
+            "chapter": 8,
+            "title": {
+                "en": "Akṣara Parabrahma Yoga",
+                "te": "అక్షర పరబ్రహ్మ యోగము",
+                "sa": "अक्षरपरब्रह्मयोगः"
+            },
+            "yoga": "Yoga of the Imperishable Brahman",
+            "count": 28,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 0,
+                "arjuna": 1,
+                "krishna": 1
+            }
+        },
+        {
+            "chapter": 9,
+            "title": {
+                "en": "Rāja Vidyā Rāja Guhya Yoga",
+                "te": "రాజ విద్యా రాజ గుహ్య యోగము",
+                "sa": "राजविद्याराजगुह्ययोगः"
+            },
+            "yoga": "Yoga of Royal Knowledge and Royal Secret",
+            "count": 34,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 0,
+                "arjuna": 0,
+                "krishna": 1
+            }
+        },
+        {
+            "chapter": 10,
+            "title": {
+                "en": "Vibhūti Yoga",
+                "te": "విభూతి యోగము",
+                "sa": "विभूतियोगः"
+            },
+            "yoga": "Yoga of Divine Glories",
+            "count": 42,
+            "audio": "https://youtu.be/h5PWkc-U5eY",
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 0,
+                "arjuna": 1,
+                "krishna": 2
+            }
+        },
+        {
+            "chapter": 11,
+            "title": {
+                "en": "Viśvarūpa Sandarśana Yoga",
+                "te": "విశ్వ రూప సందర్శన యోగము",
+                "sa": "विश्वरूपसंदर्शनयोगः"
+            },
+            "yoga": "Yoga of the Vision of the Cosmic Form",
+            "count": 55,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 3,
+                "arjuna": 4,
+                "krishna": 4
+            }
+        },
+        {
+            "chapter": 12,
+            "title": {
+                "en": "Bhakti Yoga",
+                "te": "భక్తి యోగము",
+                "sa": "भक्तियोगः"
+            },
+            "yoga": "Yoga of Devotion",
+            "count": 20,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 0,
+                "arjuna": 1,
+                "krishna": 1
+            }
+        },
+        {
+            "chapter": 13,
+            "title": {
+                "en": "Kṣetra Kṣetrajña Vibhāga Yoga",
+                "te": "క్షేత్ర క్షేత్రజ్ఞ విభాగ యోగము",
+                "sa": "क्षेत्रक्षेत्रज्ञविभागयोगः"
+            },
+            "yoga": "Yoga of the Field and its Knower",
+            "count": 34,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 0,
+                "arjuna": 0,
+                "krishna": 1
+            }
+        },
+        {
+            "chapter": 14,
+            "title": {
+                "en": "Guṇa Traya Vibhāga Yoga",
+                "te": "గుణ త్రయ విభాగ యోగము",
+                "sa": "गुणत्रयविभागयोगः"
+            },
+            "yoga": "Yoga of the Division of the Three Gunas",
+            "count": 27,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 0,
+                "arjuna": 1,
+                "krishna": 2
+            }
+        },
+        {
+            "chapter": 15,
+            "title": {
+                "en": "Puruṣottama Prāpti Yoga",
+                "te": "పురుషోత్తమ ప్రాప్తి యోగము",
+                "sa": "पुरुषोत्तमप्राप्तियोगः"
+            },
+            "yoga": "Yoga of Attaining the Supreme Person",
+            "count": 20,
+            "audio": "https://youtu.be/fVUG1eAvbf4?si=DHhHgPARgoV7ge9c",
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 0,
+                "arjuna": 0,
+                "krishna": 1
+            }
+        },
+        {
+            "chapter": 16,
+            "title": {
+                "en": "Daivāsura Sampadvibhāga Yoga",
+                "te": "దైవాసుర సంపద్విభాగ యోగము",
+                "sa": "दैवासुरसम्पद्विभागयोगः"
+            },
+            "yoga": "Yoga of Divine and Demoniac Qualities",
+            "count": 24,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 0,
+                "arjuna": 0,
+                "krishna": 1
+            }
+        },
+        {
+            "chapter": 17,
+            "title": {
+                "en": "Śraddhātraya Vibhāga Yoga",
+                "te": "శ్రద్ధాత్రయ విభాగ యోగము",
+                "sa": "श्रद्धात्रयविभागयोगः"
+            },
+            "yoga": "Yoga of the Division of Threefold Faith",
+            "count": 28,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 0,
+                "arjuna": 1,
+                "krishna": 1
+            }
+        },
+        {
+            "chapter": 18,
+            "title": {
+                "en": "Mokṣa Sanyāsa Yoga",
+                "te": "మోక్ష సన్యాస యోగము",
+                "sa": "मोक्षसन्यासयोगः"
+            },
+            "yoga": "Yoga of Liberation through Renunciation",
+            "count": 78,
+            "audio": null,
+            "uvacha": {
+                "dhritarashtra": 0,
+                "sanjaya": 1,
+                "arjuna": 2,
+                "krishna": 1
+            }
+        }
+    ]
+}

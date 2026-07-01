@@ -1,0 +1,134 @@
+# Bhagavad Gita — Chapter metadata
+# Format per chapter block (one blank line between chapters):
+#   chNN: en=... | te=... | sa=... | ro=...
+#         yoga_en=...
+#         opening_speaker=dhritarashtra|sanjaya|arjuna|krishna
+#         first_verse=<IAST opening words>
+#         last_verse=<IAST opening words of last verse>
+#         uvacha_dhritarashtra=N | uvacha_sanjaya=N | uvacha_arjuna=N | uvacha_krishna=N
+
+ch01: en=Arjuna's Despondency | te=అర్జునవిషాదయోగః | sa=अर्जुनविषादयोगः | ro=Arjunaviṣādayogaḥ
+      yoga_en=Yoga of Despondency
+      opening_speaker=dhritarashtra
+      first_verse=dharmakṣetre kurukṣetre
+      last_verse=evaṃ uktvārjunaḥ saṃkhye
+      uvacha_dhritarashtra=1 | uvacha_sanjaya=3 | uvacha_arjuna=2 | uvacha_krishna=0
+
+ch02: en=Sānkhya Yoga | te=సాంఖ్యయోగః | sa=सांख्ययोगः | ro=Sāṃkhyayogaḥ
+      yoga_en=Yoga of Knowledge
+      opening_speaker=sanjaya
+      first_verse=taṃ tathā kṛpayāviṣṭam
+      last_verse=eṣā brāhmī sthitiḥ pārtha
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=2 | uvacha_arjuna=2 | uvacha_krishna=3
+
+ch03: en=Karma Yoga | te=కర్మయోగః | sa=कर्मयोगः | ro=Karmayogaḥ
+      yoga_en=Yoga of Action
+      opening_speaker=arjuna
+      first_verse=jyāyasī cet karmaṇaste
+      last_verse=evaṃ buddheḥ paraṃ buddhvā
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=0 | uvacha_arjuna=2 | uvacha_krishna=2
+
+ch04: en=Jñāna Yoga | te=జ్ఞానయోగః | sa=ज्ञानयोगः | ro=Jñānayogaḥ
+      yoga_en=Yoga of Knowledge
+      opening_speaker=krishna
+      first_verse=imaṃ vivasvate yogam
+      last_verse=sarvaṃ jñānaplavenaiva
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=0 | uvacha_arjuna=1 | uvacha_krishna=2
+
+ch05: en=Karma Sanyāsa Yoga | te=కర్మసన్యాసయోగః | sa=कर्मसन्यासयोगः | ro=Karmasanyāsayogaḥ
+      yoga_en=Yoga of Renunciation of Action
+      opening_speaker=arjuna
+      first_verse=sannyāsaṃ karmaṇāṃ kṛṣṇa
+      last_verse=bhoktāraṃ yajñatapasāṃ
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=0 | uvacha_arjuna=1 | uvacha_krishna=1
+
+ch06: en=Ātma Sanyama Yoga | te=ఆత్మసంయమయోగః | sa=आत्मसंयमयोगः | ro=Ātmasaṃyamayogaḥ
+      yoga_en=Yoga of Self-Restraint
+      opening_speaker=krishna
+      first_verse=anāśritaḥ karmaphalaṃ
+      last_verse=yogināmapi sarveṣāṃ
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=0 | uvacha_arjuna=2 | uvacha_krishna=3
+
+ch07: en=Jñāna Vijñāna Yoga | te=జ్ఞానవిజ్ఞానయోగః | sa=ज्ञानविज्ञानयोगः | ro=Jñānavijñānayogaḥ
+      yoga_en=Yoga of Knowledge and Wisdom
+      opening_speaker=krishna
+      first_verse=mayyāsaktamanāḥ pārtha
+      last_verse=sādhībhūtādhidaivaṃ māṃ
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=0 | uvacha_arjuna=0 | uvacha_krishna=1
+
+ch08: en=Akṣara Parabrahma Yoga | te=అక్షరపరబ్రహ్మయోగః | sa=अक्षरपरब्रह्मयोगः | ro=Akṣaraparabrahmayogaḥ
+      yoga_en=Yoga of the Imperishable Brahman
+      opening_speaker=arjuna
+      first_verse=kiṃ tad brahma kimaadhyātmaṃ
+      last_verse=vedeṣu yajñeṣu tapassu caiva
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=0 | uvacha_arjuna=1 | uvacha_krishna=1
+
+ch09: en=Rāja Vidyā Rāja Guhya Yoga | te=రాజవిద్యారాజగుహ్యయోగః | sa=राजविद्याराजगुह्ययोगः | ro=Rājavidyārājaguhyayogaḥ
+      yoga_en=Yoga of Royal Knowledge and Royal Secret
+      opening_speaker=krishna
+      first_verse=idaṃ tu te guhyatamaṃ
+      last_verse=manmanā bhava madbhaktaḥ
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=0 | uvacha_arjuna=0 | uvacha_krishna=1
+
+ch10: en=Vibhūti Yoga | te=విభూతియోగః | sa=विभूतियोगः | ro=Vibhūtiyogaḥ
+      yoga_en=Yoga of Divine Glories
+      opening_speaker=krishna
+      first_verse=bhūya eva mahābāho
+      last_verse=athavā bahunaitena
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=0 | uvacha_arjuna=1 | uvacha_krishna=2
+
+ch11: en=Viśvarūpa Sandarśana Yoga | te=విశ్వరూపసందర్శనయోగః | sa=विश्वरूपसंदर्शनयोगः | ro=Viśvarūpasaṃdarśanayogaḥ
+      yoga_en=Yoga of the Vision of the Cosmic Form
+      opening_speaker=arjuna
+      first_verse=madanugrahāya paramaṃ
+      last_verse=matkarmakṛnmatparamo
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=3 | uvacha_arjuna=4 | uvacha_krishna=4
+
+ch12: en=Bhakti Yoga | te=భక్తియోగః | sa=भक्तियोगः | ro=Bhaktiyogaḥ
+      yoga_en=Yoga of Devotion
+      opening_speaker=arjuna
+      first_verse=evaṃ satatayuktā ye
+      last_verse=ye tu dharmāmṛtam idaṃ
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=0 | uvacha_arjuna=1 | uvacha_krishna=1
+
+ch13: en=Kṣetra Kṣetrajña Vibhāga Yoga | te=క్షేత్రక్షేత్రజ్ఞవిభాగయోగః | sa=क्षेत्रक्षेत्रज्ञविभागयोगः | ro=Kṣetrakṣetrajñavibhāgayogaḥ
+      yoga_en=Yoga of the Field and its Knower
+      opening_speaker=krishna
+      first_verse=idaṃ śarīraṃ kaunteya
+      last_verse=kṣetrakṣetrajñayorevam
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=0 | uvacha_arjuna=0 | uvacha_krishna=1
+
+ch14: en=Guṇa Traya Vibhāga Yoga | te=గుణత్రయవిభాగయోగః | sa=गुणत्रयविभागयोगः | ro=Guṇatrayavibhāgayogaḥ
+      yoga_en=Yoga of the Division of the Three Gunas
+      opening_speaker=krishna
+      first_verse=paraṃ bhūyaḥ pravakṣyāmi
+      last_verse=brāhmaṇo hi pratiṣṭhāham
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=0 | uvacha_arjuna=1 | uvacha_krishna=2
+
+ch15: en=Puruṣottama Prāpti Yoga | te=పురుషోత్తమప్రాప్తియోగః | sa=पुरुषोत्तमप्राप्तियोगः | ro=Puruṣottamaprāptiyogaḥ
+      yoga_en=Yoga of Attaining the Supreme Person
+      opening_speaker=krishna
+      first_verse=ūrdhvamūlam adhaḥśākham
+      last_verse=iti guhyatamaṃ śāstram
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=0 | uvacha_arjuna=0 | uvacha_krishna=1
+
+ch16: en=Daivāsura Sampadvibhāga Yoga | te=దైవాసురసంపద్విభాగయోగః | sa=दैवासुरसम्पद्विभागयोगः | ro=Daivāsurasampadvibhāgayogaḥ
+      yoga_en=Yoga of Divine and Demoniac Qualities
+      opening_speaker=krishna
+      first_verse=abhayaṃ sattvasaṃśuddhiḥ
+      last_verse=tasmācchāstraṃ pramāṇaṃ te
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=0 | uvacha_arjuna=0 | uvacha_krishna=1
+
+ch17: en=Śraddhātraya Vibhāga Yoga | te=శ్రద్ధాత్రయవిభాగయోగః | sa=श्रद्धात्रयविभागयोगः | ro=Śraddhātrayavibhāgayogaḥ
+      yoga_en=Yoga of the Division of Threefold Faith
+      opening_speaker=arjuna
+      first_verse=ye śāstravidhimutsṛjya
+      last_verse=aśraddhayā hutaṃ dattaṃ
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=0 | uvacha_arjuna=1 | uvacha_krishna=1
+
+ch18: en=Mokṣa Sanyāsa Yoga | te=మోక్షసన్యాసయోగః | sa=मोक्षसन्यासयोगः | ro=Mokṣasanyāsayogaḥ
+      yoga_en=Yoga of Liberation through Renunciation
+      opening_speaker=arjuna
+      first_verse=sannyāsasya mahābāho
+      last_verse=yatra yogeśvaraḥ kṛṣṇo
+      uvacha_dhritarashtra=0 | uvacha_sanjaya=1 | uvacha_arjuna=2 | uvacha_krishna=1

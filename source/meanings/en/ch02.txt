@@ -1,0 +1,1177 @@
+# 2.1
+short: Sañjaya said: To him who was thus overwhelmed with pity, whose eyes were filled with tears and troubled, and who was despondent, Madhusūdana (Kṛṣṇa) spoke these words.
+long: The chapter opens with Arjuna in full collapse — tears, trembling, grief. Sañjaya narrates to Dhṛtarāṣṭra with the compassionate epithet "Madhusūdana" (slayer of demon Madhu), perhaps hinting that Kṛṣṇa will also slay the inner demon of delusion now gripping Arjuna. This sets up the entire Gītā as Kṛṣṇa's response to a human in crisis.
+wbw:
+  tam | acc. sg. | to him
+  tathā | adv. | thus
+  kṛpayā | instr. | with pity/compassion
+  āviṣṭam | acc. sg. | overwhelmed
+  aśrupūrṇākulekṣaṇam | acc. sg. | whose eyes were full of tears and distressed
+  viṣīdantam | acc. sg. | despondent/grieving
+  idam | acc. | this
+  vākyam | acc. | word/speech
+  uvāca | 3rd sg. perf. | spoke
+  madhusūdanaḥ | nom. | Madhusūdana (Kṛṣṇa)
+---
+# 2.2
+short: The Blessed Lord said: O Arjuna, how has this faint-heartedness come upon you at this crisis? It does not befit a noble man; it will not lead to heaven; it causes disgrace.
+long: Kṛṣṇa's very first word is a challenge — not comfort, but a call to self-examination. He frames Arjuna's grief as "klaibya" (unmanliness/impotence), not mere sadness. Three reasons to shake it off: it is unworthy of nobility (anārya), it blocks heaven (asvargyam), and it brings infamy (akīrtikaram). Kṛṣṇa opens with urgency, not philosophy.
+wbw:
+  kutaḥ | interrog. | from where
+  tvā | acc. | you
+  kaśmalam | acc. | despondency/impurity
+  idam | acc. | this
+  viṣame | loc. | in crisis/difficulty
+  samupasthitam | nom. | has come upon
+  anārya-juṣṭam | acc. | unfit for a noble person
+  asvargyam | acc. | not leading to heaven
+  akīrti-karam | acc. | causing disgrace
+  arjuna | voc. | O Arjuna
+---
+# 2.3
+short: Do not yield to impotence, O Arjuna. It does not befit you. Shake off faint-heartedness and arise.
+long: A brisk, direct command — the shortest of Kṛṣṇa's opening salvos. "Klaibyam" (impotence/unmanliness) is a strong word, and Kṛṣṇa uses it deliberately to sting Arjuna out of self-pity. "Uttara" — arise — will echo at the end of the Gītā (18.73), forming a frame around the entire teaching.
+wbw:
+  klaibyam | acc. | impotence/unmanliness
+  mā sma gamaḥ | 2nd sg. aor. prohib. | do not yield to
+  pārtha | voc. | O son of Pṛthā (Arjuna)
+  na etat | acc. | this is not
+  tvayi | loc. | in you
+  upapadyate | 3rd sg. pres. | befits
+  kṣudram | acc. | petty/faint
+  hṛdaya-daurbalyam | acc. | weakness of heart
+  tyaktvā | gerund | having abandoned
+  uttiṣṭha | 2nd sg. imper. | arise
+  parantapa | voc. | O scorcher of foes
+---
+# 2.4
+short: Arjuna said: How, O Madhusūdana, shall I fight with arrows against Bhīṣma and Droṇa in battle — they who are worthy of worship?
+long: Arjuna shifts from pure grief to a reasoned objection: these men are not enemies, they are elders and teachers who deserve his reverence (pūjā). How can he shoot arrows at those whose feet he should be touching? This is not cowardice but a real moral puzzle — the conflict between duty to fight and duty to revere. The question is genuine.
+wbw:
+  katham | interrog. | how
+  bhīṣmam | acc. | Bhīṣma
+  ca | conj. | and
+  droṇam | acc. | Droṇa
+  ca | conj. | and
+  mādhusūdana | voc. | O Madhusūdana
+  iṣubhiḥ | instr. pl. | with arrows
+  pratiyotsyāmi | 1st sg. fut. | shall I fight against
+  pūjārhau | acc. dual | worthy of worship
+  ari-sūdana | voc. | O slayer of enemies
+---
+# 2.5
+short: It is better to live by begging than to slay these great-souled teachers. By killing them even for worldly gain, I would only be enjoying blood-stained pleasures.
+long: Arjuna makes a stark economic calculation: beggary is preferable to prospering on the earnings of killing one's gurus. "Blood-stained pleasures" (bhuñjīya bhogān rudhira-pradigdhān) is a visceral image — Arjuna foresees that all enjoyments afterward would be morally tainted. The reasoning is heartfelt even if it will be overturned.
+wbw:
+  gurūn | acc. pl. | teachers/elders
+  ahatvā | gerund | without killing
+  hi | particle | indeed
+  mahānubhāvān | acc. pl. | great-souled ones
+  śreyo | nom. | better
+  bhoktum | inf. | to live on/enjoy
+  bhaikṣyam | acc. | begging/alms
+  api | particle | even
+  iha | adv. | in this world
+  hatvā artha-kāmān | having killed for wealth and desire
+  tu | particle | but
+  gurūn | acc. | teachers
+  iha eva | adv. | here indeed
+  bhuñjīya | 1st sg. opt. | I would enjoy
+  bhogān | acc. pl. | pleasures
+  rudhira-pradigdhān | acc. pl. | stained with blood
+---
+# 2.6
+short: And we do not know which is preferable for us — to conquer them or to be conquered by them. Even the sons of Dhṛtarāṣṭra, having killed whom we would not wish to live, stand before us.
+long: Arjuna now admits uncertainty at the root level: he does not know whether victory or defeat is better. If he kills and wins, what has he gained? If he is killed, perhaps that is preferable. The sons of Dhṛtarāṣṭra are his cousins — killing them would hollow out any victory. The confusion is complete, and Arjuna is ready to become a student.
+wbw:
+  na ca | neg. conj. | nor do we
+  etad | acc. | this
+  vidmaḥ | 1st pl. | know
+  katarat | interrog. | which
+  naḥ | gen. | for us
+  garīyaḥ | nom. comparative | preferable/weightier
+  yad vā | or whether
+  jayema | 1st pl. opt. | we should conquer
+  yadi vā | or if
+  no | acc. | us
+  jayeyuḥ | 3rd pl. opt. | they should conquer
+  yān eva | those very ones
+  hatvā | gerund | having killed
+  na jijīviṣāmaḥ | 1st pl. desid. neg. | we would not wish to live
+  te avasthitāḥ | nom. pl. | they stand
+  pramukhe | loc. | before us
+  dhārtarāṣṭrāḥ | nom. pl. | the sons of Dhṛtarāṣṭra
+---
+# 2.7
+short: My nature is afflicted by weakness and compassion; my mind is confused about duty. I ask you: tell me with certainty what is good for me — I am your disciple; teach me who has taken refuge in you.
+long: This is the pivotal verse — Arjuna formally becomes a student (śiṣya) and surrenders (śaraṇam) to Kṛṣṇa as guru. The three problems are named: kārpaṇya (weakness/miserliness of spirit), dharma-sammūḍha-cetā (mind confused about dharma), and pṛcchāmi (I ask). From confusion comes the question, from the question comes the Gītā.
+wbw:
+  kārpaṇya-doṣa | by the defect of weakness/cowardice
+  upahata-svabhāvaḥ | nom. | whose nature is overcome
+  pṛcchāmi | 1st sg. | I ask
+  tvām | acc. | you
+  dharma-sammūḍha-cetāḥ | nom. | whose mind is confused about duty
+  yat | rel. | what
+  śreyas | nom. | is beneficial/good
+  syāt | 3rd sg. opt. | would be
+  niścitam | acc. | for certain
+  brūhi | 2nd sg. imper. | tell
+  tat | acc. | that
+  me | dat. | to me
+  śiṣyas te | I am your disciple
+  aham | nom. | I
+  śādhi | 2nd sg. imper. | teach/instruct
+  mām | acc. | me
+  tvām | acc. | you
+  prapannam | acc. | who has taken refuge in
+---
+# 2.8
+short: For I do not see what would remove this grief that is drying up my senses, even if I were to obtain an unrivalled and prosperous kingdom on earth or lordship over the gods.
+long: Arjuna completes his opening statement: the grief is absolute, not conditional. Even sovereignty over earth and heaven would not fix it. This means the problem is not situational — it is existential. It can only be resolved by a teaching that goes to the root of human suffering. The Gītā's necessity is established.
+wbw:
+  na hi | neg. particle | for I do not
+  prapaśyāmi | 1st sg. | see/perceive
+  mama | gen. | my
+  apanudyāt | 3rd sg. opt. | would remove
+  yat | rel. | what
+  śokam | acc. | grief
+  ucchośaṇam | acc. | drying up
+  indriyāṇām | gen. pl. | of the senses
+  avāpya | gerund | having obtained
+  bhūmau | loc. | on earth
+  asapatnam | acc. | unrivalled
+  ṛddham | acc. | prosperous
+  rājyam | acc. | kingdom
+  surāṇām | gen. pl. | of the gods
+  api | particle | even
+  ca | conj. | and
+  ādhipatyam | acc. | lordship/sovereignty
+---
+# 2.9
+short: Sañjaya said: Having spoken thus to Hṛṣīkeśa (Kṛṣṇa), Arjuna, the scorcher of foes, said "I will not fight" to Govinda (Kṛṣṇa) and became silent.
+long: The dramatic pause. After all his reasoning, Arjuna's conclusion is simple: "na yotsye" — I will not fight. Then silence. The Gītā's teaching begins from this silence, this refusal, this despair. Sañjaya notes Arjuna's two epithets: "Gudākeśa" (master of sleep, indicating alertness) and "Parantapa" (scorcher of foes) — both suggesting he is capable of fighting but choosing not to.
+wbw:
+  sañjaya uvāca | Sañjaya said
+  evam | adv. | thus
+  uktvā | gerund | having spoken
+  hṛṣīkeśam | acc. | to Hṛṣīkeśa (Kṛṣṇa)
+  guḍākeśaḥ | nom. | Arjuna (master of sleep)
+  parantapaḥ | nom. | scorcher of foes
+  na yotsya | I will not fight
+  iti | iti | thus saying
+  govindam | acc. | to Govinda
+  uktvā | gerund | having said
+  tūṣṇīm | adv. | silently
+  babhūva | 3rd sg. perf. | became
+  ha | particle | indeed
+---
+# 2.10
+short: O Bhārata (Dhṛtarāṣṭra), to him who was grieving between the two armies, Hṛṣīkeśa, as if smiling, spoke these words.
+long: "As if smiling" (prahasann iva) is crucial — Kṛṣṇa does not respond with alarm or frustration. The faint smile signals that he sees Arjuna's confusion from a higher vantage point, where the solution is already known. The teaching begins in an atmosphere of compassionate equanimity, not reactive urgency.
+wbw:
+  tam | acc. | to him
+  uvāca | 3rd sg. perf. | spoke
+  hṛṣīkeśaḥ | nom. | Kṛṣṇa
+  prahasann iva | as if smiling
+  bhārata | voc. | O descendant of Bharata (Dhṛtarāṣṭra)
+  senayor | gen. dual | of the two armies
+  ubhayor madhye | loc. | in the middle
+  viṣīdantam | acc. | the grieving
+  idam | acc. | this
+  vacaḥ | acc. | speech
+---
+# 2.11
+short: The Blessed Lord said: You grieve for those who should not be grieved for, and you speak words of wisdom. The wise grieve neither for the living nor for the dead.
+long: Kṛṣṇa opens his teaching with a paradox: Arjuna thinks himself wise (uses words of wisdom) but is grieving in the wrong place. The Sāṅkhya teaching on the soul begins here — the wise (paṇḍitāḥ) do not grieve for the living or the dead, because they understand what the self really is. This verse introduces the entire metaphysical foundation of the Gītā.
+wbw:
+  aśocyān | acc. pl. | those not to be grieved for
+  anvaśocaḥ | 2nd sg. imperf. | you are grieving
+  tvam | nom. | you
+  prajñā-vādāṃś | acc. pl. | words of wisdom
+  ca | conj. | and
+  bhāṣase | 2nd sg. | you speak
+  gatāsūn | acc. pl. | those whose life has departed (dead)
+  agatāsūṃś | acc. pl. | those whose life has not departed (living)
+  ca | conj. | and
+  na anuśocanti | 3rd pl. neg. | do not grieve for
+  paṇḍitāḥ | nom. pl. | the wise
+---
+# 2.12
+short: Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be.
+long: The first direct statement of the soul's eternal nature. Kṛṣṇa speaks in the first person: "I, you, and all these kings" — past, present, future, all exist and will exist. The word "na" appears three times for emphasis. This verse refutes the fear of non-existence that drives Arjuna's grief: there is nothing to lose that can truly be lost.
+wbw:
+  na | neg. | not
+  tv eva | particle | indeed
+  aham | nom. | I
+  jātu | adv. | at any time
+  nāsam | I was not
+  na | neg. | not
+  tvam | nom. | you
+  na | neg. | not
+  ime | nom. pl. | these
+  janādhipāḥ | nom. pl. | rulers of men
+  na ca eva | nor indeed
+  na bhaviṣyāmaḥ | 1st pl. fut. neg. | we shall not exist
+  sarve | nom. pl. | all
+  vayam | nom. | we
+  ataḥ param | adv. | hereafter
+---
+# 2.13
+short: Just as the soul in this body passes through childhood, youth, and old age, so also it passes into another body. The wise person is not deluded by this.
+long: The soul's continuity through bodily change is compared to life's stages — everyone knows the body changes while the "I" persists. Death is just another such change. The wise person (dhīra) sees this and is not confused (na muhyati). This analogy is one of the Gītā's most accessible arguments for the soul's immortality.
+wbw:
+  dehino | gen. | of the embodied soul
+  asmin | loc. | in this
+  yathā | just as
+  dehe | loc. | body
+  kaumāram | nom. | childhood
+  yauvanaṃ | nom. | youth
+  jarā | nom. | old age
+  tathā | so also
+  dehāntara-prāptiḥ | acc. | attaining another body
+  dhīraḥ | nom. | the wise/steady one
+  tatra | adv. | there/in that
+  na muhyati | is not deluded
+---
+# 2.14
+short: The contact of the senses with objects — cold and heat, pleasure and pain — they come and go; they are impermanent. Bear them with endurance, O Arjuna.
+long: The first practical instruction: sensory experiences are transient. The specific example of cold and heat (śītoṣṇa) is universal — every human knows these fluctuate. "Āgamāpāyinaḥ" — they come and they go. The instruction is not to eliminate sensation but to bear it (titikṣasva) — a key Vedāntic virtue. The ability to endure is itself a form of wisdom.
+wbw:
+  mātrā-sparśāḥ | nom. pl. | contacts with sense-objects
+  kaunteya | voc. | O son of Kuntī
+  śītoṣṇa-sukha-duḥkha-dāḥ | nom. pl. | givers of cold-heat-pleasure-pain
+  āgamāpāyinaḥ | nom. pl. | coming and going
+  anityāḥ | nom. pl. | impermanent
+  tān | acc. pl. | them
+  titikṣasva | 2nd sg. imper. | endure/bear
+  bhārata | voc. | O descendant of Bharata
+---
+# 2.15
+short: That person whom these (joys and sorrows) do not afflict, who is even-minded in pleasure and pain, the steadfast one — is fit for immortality.
+long: The result of endurance: the one who is not shaken by pleasure or pain (sama-duḥkha-sukham) is called "mṛtyāmṛtatvāya kalpate" — fit for immortality. This is not stoic numbness but an inner steadiness. The Gītā's positive vision of liberation begins to emerge: it is about freedom from reactive suffering, not mere suppression of feeling.
+wbw:
+  yam | acc. | whom
+  hi | particle | indeed
+  na vyathayanty | do not afflict
+  ete | nom. pl. | these
+  puruṣam | acc. | person
+  puruṣarṣabha | voc. | O best of men
+  sama-duḥkha-sukham | acc. | equal in pleasure and pain
+  dhīram | acc. | steadfast one
+  so amṛtatvāya kalpate | is fit for immortality
+---
+# 2.16
+short: The unreal has no existence and the real never ceases to be. The truth about both has been seen by the seers of truth.
+long: The metaphysical foundation stated at its most compressed: "nāsato vidyate bhāvaḥ" — the unreal has no being; "nābhāvo vidyate sataḥ" — the real has no non-being. This is the Sat-Asat distinction. The body is asat (changing, perishable); the Self is sat (unchanging, real). The ṛṣis who "saw" this (dṛṣṭavantaḥ) received it in direct insight, not inference.
+wbw:
+  nāsataḥ | gen. | of the unreal
+  vidyate | exists
+  bhāvaḥ | nom. | existence/being
+  nābhāvaḥ | nom. | non-existence
+  vidyate | exists
+  sataḥ | gen. | of the real
+  ubhayor api | of both indeed
+  dṛṣṭaḥ | nom. | seen
+  antaḥ | nom. | the truth/conclusion
+  tu | particle | but/and
+  anayoḥ | gen. dual | of these two
+  tattva-darśibhiḥ | instr. pl. | by the seers of truth
+---
+# 2.17
+short: Know that by which all this is pervaded to be indestructible. No one is able to cause the destruction of that imperishable one.
+long: Having stated the sat/asat distinction, Kṛṣṇa now identifies the real: that which pervades everything (yena sarvam idaṃ tatam). It is avināśi (indestructible) — no one can destroy it. This is the first direct description of the Self (Ātman/Brahman) as all-pervading. The word "tatam" (spread out) will recur in ch.9 describing the Lord pervading the cosmos.
+wbw:
+  avināśi | acc. | indestructible
+  tu | particle | but
+  tad | acc. | that
+  viddhi | 2nd sg. imper. | know
+  yena | instr. rel. | by which
+  sarvam | acc. | all
+  idam | acc. | this
+  tatam | acc. | is pervaded
+  vināśam | acc. | destruction
+  avyayasya | gen. | of the imperishable
+  asya | gen. | of this
+  na kaścit | no one
+  kartum | inf. | to do/cause
+  arhati | 3rd sg. | is able
+---
+# 2.18
+short: These bodies of the embodied, eternal, indestructible, and immeasurable Self are said to have an end. Therefore fight, O Arjuna.
+long: The first direct call to action based on the metaphysics just stated. The bodies perish; the Self within them does not. The logic is: grieve if the Self died — but it doesn't. Only the body ends, and the body is finite by definition (anāśinaḥ = indestructible — referring to the Self; the bodies themselves are antavanta = having an end). "Therefore fight" follows necessarily.
+wbw:
+  antavanta | nom. pl. | having an end
+  ime | nom. pl. | these
+  dehāḥ | nom. pl. | bodies
+  nityasya | gen. | of the eternal
+  uktāḥ | nom. pl. | are said
+  śarīriṇaḥ | gen. | of the embodied one
+  anāśinaḥ | gen. | of the indestructible
+  aprameyasya | gen. | of the immeasurable
+  tasmāt | abl. | therefore
+  yudhyasva | 2nd sg. imper. | fight
+  bhārata | voc. | O descendant of Bharata
+---
+# 2.19
+short: He who thinks this (Self) is a slayer and he who thinks this is slain — both of them fail to perceive the truth. This neither slays nor is slain.
+long: The Self is neither agent nor patient of killing. The error is categorical: identifying the self with the body. If the body is slain, the Self is untouched; if the warrior strikes down a body, the Self within remains. "Na hanyate" — it is not killed — is the positive statement that will become famous.
+wbw:
+  yaḥ | nom. | he who
+  enam | acc. | this
+  vetti | 3rd sg. | knows/thinks
+  hantāram | acc. | as slayer
+  yaś ca | and he who
+  enam | acc. | this
+  manyate | 3rd sg. | thinks
+  hatam | acc. | as slain
+  ubhau | nom. dual | both
+  tau | nom. dual | those two
+  na vijānīto | 3rd dual neg. | do not perceive
+  nāyam | nom. | this does not
+  hanti | 3rd sg. | slay
+  na hanyate | is not slain
+---
+# 2.20
+short: This Self is never born nor does it die at any time; it has not come into being, nor will it come into being. It is unborn, eternal, ever-existing, primeval; it is not slain when the body is slain.
+long: The most complete statement of the Self's nature in a single verse: ajah (unborn), nityah (eternal), śāśvataḥ (ever-existing), purāṇaḥ (primeval/ancient). Six negatives: not born, not slain, not coming into being, not perishing, not killed when the body is killed. This verse will later be quoted across all Vedāntic commentary traditions.
+wbw:
+  na jāyate | is not born
+  mriyate | dies
+  vā kadācit | ever at any time
+  nāyam | this does not
+  bhūtvā | gerund | having come into being
+  bhavitā | will be
+  vā | or
+  na bhūyaḥ | not again
+  ajaḥ | nom. | unborn
+  nityaḥ | nom. | eternal
+  śāśvataḥ | nom. | ever-existing
+  ayam | nom. | this
+  purāṇaḥ | nom. | primeval/ancient
+  na hanyate | is not slain
+  hanyamāne śarīre | when the body is being slain
+---
+# 2.21
+short: O Arjuna, he who knows this Self to be indestructible, eternal, unborn, and imperishable — how can such a person slay anyone, or cause anyone to be slain?
+long: A logical argument: given the Self's nature (avināśi, nitya, aja, avyaya), the very concept of slaying becomes incoherent. If the Self cannot be destroyed, who is being destroyed? The question is rhetorical — the answer reveals that the warrior who understands the Self can engage in battle without the moral stain of "killing."
+wbw:
+  vedāvināśinam | who knows the indestructible
+  nityam | acc. | eternal
+  ya | rel. | who
+  enam | acc. | this
+  ajam | acc. | unborn
+  avyayam | acc. | imperishable
+  katham | interrog. | how
+  sa | nom. | that person
+  puruṣaḥ | nom. | person
+  pārtha | voc. | O Arjuna
+  kam | acc. | whom
+  ghātayati | 3rd sg. | causes to slay
+  hanti | 3rd sg. | slays
+  kam | acc. | whom
+---
+# 2.22
+short: Just as a person puts on new garments, giving up old ones, similarly the soul accepts new material bodies, giving up the old and useless ones.
+long: The most famous analogy in the Gītā for rebirth: changing clothes. The soul (dehī) is the wearer; bodies are garments. "Vihāya jarāṃsi" — casting off worn-out ones. The analogy is elegant and immediate — every listener has changed clothes and knows the wearer remains unchanged. Death is thus a wardrobe change, not annihilation.
+wbw:
+  vāsāṃsi | acc. pl. | garments
+  jīrṇāni | acc. pl. | worn out
+  yathā | just as
+  vihāya | gerund | casting off
+  navāni | acc. pl. | new
+  gṛhṇāti | 3rd sg. | takes
+  naraḥ | nom. | a person
+  aparāṇi | acc. pl. | other
+  tathā | so also
+  śarīrāṇi | acc. pl. | bodies
+  vihāya | gerund | casting off
+  jīrṇāny | acc. pl. | worn out
+  anyāni | acc. pl. | other
+  saṃyāti | 3rd sg. | joins/goes to
+  navāni | acc. pl. | new
+  dehī | nom. | the embodied soul
+---
+# 2.23
+short: Weapons do not cut this Self, fire does not burn it, water does not wet it, and wind does not dry it.
+long: Four great physical forces — sword, fire, water, wind — are each negated. This is not mere poetry but a systematic refutation of every mode of physical destruction. The Self has no material property that can be acted upon by material agents. The verse operates like an ancient chemistry: each element tried, each failing. The Self is beyond the elements.
+wbw:
+  nainam | acc. neg. | not this
+  chindanti | 3rd pl. | cut
+  śastrāṇi | nom. pl. | weapons
+  nainam | acc. neg. | not this
+  dahati | 3rd sg. | burns
+  pāvakaḥ | nom. | fire
+  na ca | nor
+  enam | acc. | this
+  kledayanty | 3rd pl. | wet
+  āpaḥ | nom. pl. | waters
+  na | neg. | not
+  śoṣayati | 3rd sg. | dries
+  mārutaḥ | nom. | wind
+---
+# 2.24
+short: This Self cannot be cut, nor burned, nor wetted, nor dried. It is eternal, all-pervading, stable, immovable, and primeval.
+long: A second pass on the same four negations, but now adding positive attributes: nitya (eternal), sarva-gataḥ (all-pervading), sthāṇu (stable, unmoving like a pillar), acala (immovable), sanātana (primeval/eternal). The Self is not just indestructible by force — it is ontologically different from anything in the physical universe.
+wbw:
+  acchedyaḥ | nom. | cannot be cut
+  ayam | nom. | this
+  adāhyaḥ | nom. | cannot be burned
+  ayam | nom. | this
+  akledyaḥ | nom. | cannot be wetted
+  aśoṣyaḥ | nom. | cannot be dried
+  eva ca | and indeed
+  nityaḥ | nom. | eternal
+  sarva-gataḥ | nom. | all-pervading
+  sthāṇuḥ | nom. | stable/immovable
+  acalaḥ | nom. | not moving
+  ayam | nom. | this
+  sanātanaḥ | nom. | primeval/eternal
+---
+# 2.25
+short: This (Self) is said to be unmanifest, unthinkable, and immutable. Therefore, knowing this to be so, you should not grieve.
+long: Three more attributes: avyakta (unmanifest — beyond sense perception), acintya (unthinkable — beyond conceptual mind), avikārya (immutable — incapable of change). Knowing these, grief becomes logically untenable. This completes the Sāṅkhya argument: Arjuna's grief rests on a false premise — the premise that the Self can be harmed.
+wbw:
+  avyaktaḥ | nom. | unmanifest
+  ayam | nom. | this
+  acintya | nom. | unthinkable
+  ayam | nom. | this
+  avikārya | nom. | immutable
+  ayam | nom. | this
+  ucyate | 3rd sg. pass. | is said
+  tasmāt | abl. | therefore
+  evam | adv. | thus
+  viditvā | gerund | having known
+  enam | acc. | this
+  nānuśocitum | inf. neg. | to grieve for
+  arhasi | 2nd sg. | you ought
+---
+# 2.26
+short: But even if you think this Self is constantly being born and constantly dying, even then, O mighty-armed one, you should not grieve.
+long: Kṛṣṇa anticipates the opponent (nāstika/materialist) who denies the eternal Self. Even granting their view — constant birth and death — the conclusion is the same: death follows birth inevitably, birth follows death inevitably. Grief is still pointless because the cycle is unavoidable. The argument works on both sides of the metaphysical divide.
+wbw:
+  atha ca | and if
+  enam | acc. | this
+  nitya-jātam | acc. | constantly born
+  nityam | acc. | always
+  vā manyase | you think
+  mṛtam | acc. | dead/dying
+  tathāpi | even so
+  tvam | nom. | you
+  mahābāho | voc. | O mighty-armed
+  nainam | acc. neg. | not this
+  śocitum | inf. | to grieve
+  arhasi | 2nd sg. | ought
+---
+# 2.27
+short: For the born, death is certain; for the dead, birth is certain. Therefore, for something that is inevitable, you should not grieve.
+long: The logical seal: death and birth are each other's certainties. If the self is born, it will die — that's inevitable (avoidable grief). If it dies, it will be born — equally certain. Since what is inevitable cannot be changed by grief, grief is functionally useless. "Anavadyam" — unavoidable — makes grief not just irrational but pointless.
+wbw:
+  jātasya | gen. | for the born
+  hi | particle | indeed
+  dhruvaḥ | nom. | certain
+  mṛtyuḥ | nom. | death
+  dhruvaṃ | acc. | certain
+  janma | nom. | birth
+  mṛtasya | gen. | for the dead
+  ca | conj. | and
+  tasmāt | abl. | therefore
+  aparihārye | loc. | for what is unavoidable
+  arthe | loc. | in matter
+  na tvam | you should not
+  śocitum | inf. | grieve
+  arhasi | 2nd sg. | ought
+---
+# 2.28
+short: All beings are unmanifest before birth, manifest in the middle state, and again unmanifest after death. What is there to lament?
+long: A third argument for equanimity — cosmological rather than metaphysical. Before birth: unseen. During life: seen. After death: unseen again. We came from the unmanifest and return to it. Grief at death is like grieving that the sun sets — it is merely returning to the state it came from. "Kā paridevanā" — what is there to lament?
+wbw:
+  avyaktādīni | nom. pl. | unmanifest in origin
+  bhūtāni | nom. pl. | beings
+  vyakta-madhyāni | nom. pl. | manifest in the middle
+  bhārata | voc. | O Bhārata
+  avyakta-nidhanāny | nom. pl. | unmanifest at the end
+  eva | particle | indeed
+  tatra | adv. | in that
+  kā | interrog. | what
+  paridevanā | nom. | lamentation
+---
+# 2.29
+short: One sees this (Self) as a wonder; another speaks of it as a wonder; another hears of it as a wonder; yet even after hearing, no one knows it at all.
+long: The mystery of the Self is absolute. Āścaryavat — wonder-full. Whether seen, spoken, heard — each approach leaves the ultimate nature untouched. Even the greatest teaching only points; the Self exceeds all mental grasp. This verse is also read as expressing hope: even to hear of the Self's wonder is itself a form of grace.
+wbw:
+  āścaryavat | like a wonder
+  paśyati | 3rd sg. | sees
+  kaścid | someone
+  enam | acc. | this
+  āścaryavat | like a wonder
+  vadati | 3rd sg. | speaks
+  tathaiva | adv. | likewise
+  ca anyaḥ | another
+  āścaryavad | like a wonder
+  cainam | this
+  anyaḥ | another
+  śṛṇoti | 3rd sg. | hears
+  śrutvā | gerund | having heard
+  api | particle | even
+  enam | acc. | this
+  veda na caiva kaścit | no one knows at all
+---
+# 2.30
+short: This embodied Self in the body of everyone is eternal and indestructible. Therefore, O Arjuna, you should not grieve for any living being.
+long: The conclusion of the Sāṅkhya section. The Self in every being is the same eternal, indestructible reality. Therefore — "therefore" does enormous logical work — grief for any being is based on the error of identifying them with their body. The argument is not just about this battle but about all loss and death everywhere.
+wbw:
+  dehī | nom. | the embodied soul
+  nitya | adj. | eternal
+  ayam | nom. | this
+  avadhaḥ | nom. | indestructible
+  dehe | loc. | in the body
+  sarvasya | gen. | of all/everyone
+  bhārata | voc. | O Bhārata
+  tasmāt | abl. | therefore
+  sarvāṇi | acc. pl. | all
+  bhūtāni | acc. pl. | beings
+  na tvam | you should not
+  śocitum | inf. | to grieve for
+  arhasi | 2nd sg. | ought
+---
+# 2.31
+short: Considering also your own duty, you should not waver; for there is nothing better for a warrior than a righteous war.
+long: Having made the Sāṅkhya argument, Kṛṣṇa now shifts to the second basis for action: svadharma (one's own duty). Even if the metaphysical argument fails to move Arjuna, his duty as a kṣatriya (warrior) is clear. A righteous war is the warrior's highest calling — "na vidyate" — there is nothing better. This is the dharma argument, not the Ātman argument.
+wbw:
+  svadharmam api | even one's own duty
+  ca avekṣya | considering
+  na vikampitum | not to waver
+  arhasi | you should
+  dharmyāt | abl. | than righteous
+  hi yuddhat | than battle
+  śreyaḥ | nom. comparative | better
+  anyat | acc. | other/else
+  kṣatriyasya | gen. | for a warrior
+  na vidyate | does not exist
+---
+# 2.32
+short: O Arjuna, happy are the warriors who are called to fight such a battle — it comes as an open door to heaven.
+long: The verse frames this war as a "yadṛcchayā caiva" — a lucky, heaven-sent opportunity. A battle that arrives spontaneously and righteously is an open gate to heaven for the kṣatriya. To refuse it is to refuse grace. The emotion is almost joy — this is the warrior's dream, not a tragedy.
+wbw:
+  yadṛcchayā | instr. | by fortune/by itself
+  ca | conj. | and
+  upapannam | acc. | arisen/arrived
+  svarga-dvāram | acc. | gate to heaven
+  apāvṛtam | acc. | opened wide
+  sukhinaḥ | nom. pl. | happy/fortunate
+  kṣatriyāḥ | nom. pl. | warriors
+  pārtha | voc. | O Arjuna
+  labhante | 3rd pl. | obtain
+  yuddham | acc. | battle
+  īdṛśam | acc. | such as this
+---
+# 2.33
+short: But if you do not perform this righteous battle, then you will incur sin by abandoning your duty and your reputation.
+long: The consequence of refusal: sin (pāpa) from failing svadharma, and loss of reputation. The word "atha cet" signals the negative case. Kṛṣṇa has given the positive (heaven from righteous battle) — now the negative (sin from refusal). Both arguments point the same direction: fight.
+wbw:
+  atha cet | if however
+  tvam | nom. | you
+  imam | acc. | this
+  dharmyam | acc. | righteous
+  saṃgrāmam | acc. | battle
+  na kariṣyasi | 2nd sg. fut. neg. | will not perform
+  tataḥ | then
+  svadharmam | acc. | your own duty
+  kīrtim ca | and fame
+  hitvā | gerund | having abandoned
+  pāpam | acc. | sin
+  avāpsyasi | 2nd sg. fut. | you will incur
+---
+# 2.34
+short: People will speak of your everlasting dishonour, and for a respectable person, dishonour is worse than death.
+long: Social honour matters deeply in the Gītā's world. Arjuna's withdrawal from battle will be reported and discussed forever — "kathayiṣyanti" — people will keep saying it. For one who has lived by honour, infamy (akīrti) is a living death worse than physical death. Kṛṣṇa pushes on Arjuna's sense of identity and reputation.
+wbw:
+  akīrtiṃ | acc. | dishonour/infamy
+  ca api | and also
+  bhūtāni | nom. pl. | people/beings
+  kathayiṣyanti | 3rd pl. fut. | will speak of
+  te | gen. | your
+  avyayām | acc. | everlasting
+  sambhāvitasya | gen. | for one who is respected/honoured
+  ca akīrtiḥ | and dishonour
+  maraṇāt | abl. | than death
+  atiricyate | 3rd sg. | surpasses/exceeds
+---
+# 2.35
+short: The great warriors will think you have withdrawn from battle out of fear, and by those who have thought well of you, you will be lightly esteemed.
+long: The social fall is specific: the mahārathās (great chariot-warriors) who respected Arjuna will revise their opinion. "Bhayāt" — from fear. The very warriors he has fought alongside or faced in previous battles will reinterpret his withdrawal as cowardice. The warrior's social world is dismantled by one act of refusal.
+wbw:
+  bhayāt | abl. | from fear
+  raṇāt | abl. | from battle
+  uparatam | acc. | withdrawn
+  maṃsyante | 3rd pl. fut. | will think
+  tvām | acc. | you
+  mahā-rathāḥ | nom. pl. | great warriors
+  yeṣāṃ ca | and those for whom
+  tvam | nom. | you
+  bahumato | nom. | esteemed
+  bhūtvā | gerund | having been
+  yāsyasi | 2nd sg. fut. | you will go
+  lāghavam | acc. | to lightness/insignificance
+---
+# 2.36
+short: Your enemies will say many unspeakable things and speak of your ability with contempt. What could be more painful than that?
+long: The verse intensifies the social argument: enemies will taunt, mock, belittle. "Avācya-vādān" — unspeakable, uncouth words. And they will specifically target what Arjuna was most proud of — his skill. The phrase "tataḥ duḥkhataraṃ nu kim" — what is more painful than that — is a rhetorical question that stings.
+wbw:
+  avācya-vādān | acc. pl. | unspeakable words
+  bahudhā | adv. | in many ways
+  vadishyanti | 3rd pl. fut. | will say
+  tavā-hitāḥ | nom. pl. | your enemies
+  nindantaḥ | nom. pl. pres. part. | deriding/mocking
+  tava | gen. | your
+  sāmarthyam | acc. | ability
+  tataḥ | abl. | than that
+  duḥkhataram | acc. comparative | more painful
+  nu | particle | indeed
+  kim | interrog. | what
+---
+# 2.37
+short: Killed, you will attain heaven; victorious, you will enjoy the earth. Therefore, arise, O son of Kuntī, resolved to fight.
+long: The battle-ethics syllogism at its starkest: death in battle → heaven; victory in battle → earth. Either outcome is gain. There is no downside scenario for the warrior who fights righteously. "Tasmād uttiṣṭha" — therefore arise — echoes verse 3. The instruction is now doubly grounded: Sāṅkhya and dharma have both been deployed.
+wbw:
+  hato | nom. | if killed
+  vā | or
+  prāpsyasi | 2nd sg. fut. | you will attain
+  svargam | acc. | heaven
+  jitvā | gerund | having conquered
+  vā | or
+  bhokṣyase | 2nd sg. fut. | you will enjoy
+  mahīm | acc. | the earth
+  tasmāt | abl. | therefore
+  uttiṣṭha | 2nd sg. imper. | arise
+  kaunteya | voc. | O son of Kuntī
+  yuddhāya | dat. | for battle
+  kṛta-niścayaḥ | nom. | with resolved mind
+---
+# 2.38
+short: Treating alike pleasure and pain, gain and loss, victory and defeat — engage in battle. Thus you will not incur sin.
+long: The first formulation of sāmya (equanimity) as an ethical stance. Sukha-duḥkha, lābhālābha, jayājaya — three pairs, each the opposite of the other. Hold them equal. This is not indifference but a radical non-attachment to outcomes. The warrior who fights from this place does not incur pāpa — sin — because the action is not driven by desire for results.
+wbw:
+  sukha-duḥkhe | acc. dual | pleasure and pain
+  same | acc. dual | treating as equal
+  kṛtvā | gerund | having made
+  lābhālābhau | acc. dual | gain and loss
+  jayājayau | acc. dual | victory and defeat
+  tato | abl. | then
+  yuddhāya | dat. | for battle
+  yujyasva | 2nd sg. imper. | engage/yoke yourself
+  na evam | thus not
+  pāpam | acc. | sin
+  avāpsyasi | 2nd sg. fut. | will incur
+---
+# 2.39
+short: This wisdom has been declared to you in terms of Sāṅkhya. Now hear it in terms of Yoga — endowed with which wisdom you will cast off the bond of karma.
+long: The pivot point of chapter 2. Sāṅkhya (the knowledge path of discriminating Self from non-Self) has been expounded — verses 11-38. Now Yoga (here meaning Karma Yoga, the path of right action) begins. "Karmabandham prahāsyasi" — you will cast off the bondage of karma. The key insight: action done with equanimity and without attachment does not bind.
+wbw:
+  eṣā | nom. | this
+  te | dat. | to you
+  abhihitā | nom. | declared/spoken
+  sāṃkhye | loc. | in/according to Sāṃkhya
+  buddhiḥ | nom. | wisdom/understanding
+  yoge | loc. | in/according to Yoga
+  tv imām | acc. | this
+  śṛṇu | 2nd sg. imper. | hear
+  yayā | instr. rel. | with which
+  pārtha | voc. | O Arjuna
+  karma-bandham | acc. | the bond of karma
+  prahāsyasi | 2nd sg. fut. | you will cast off
+---
+# 2.40
+short: In this (Yoga) there is no loss of effort, nor is there any degeneration (of the effect begun). Even a little of this dharma protects from great fear.
+long: The encouraging declaration about Karma Yoga: no waste (na abhikramanāśo'sti), no reversal (pratyavāyo na vidyate). Every step counts and none is lost. And even a small amount of this practice protects from "mahato bhayāt" — great fear, which includes the fear of death and rebirth. The yoga path is safe and cumulative.
+wbw:
+  neh | neg. adv. | not here/in this
+  abhikrama-nāśaḥ | nom. | loss of effort
+  asti | 3rd sg. | there is
+  pratyavāyo | nom. | backward step/reversal
+  na vidyate | does not exist
+  svalpam api | even a little
+  asya | gen. | of this
+  dharmasya | gen. | of this dharma
+  trāyate | 3rd sg. | protects
+  mahato bhayāt | from great fear
+---
+# 2.41
+short: O son of Kuru, in this (Yoga) the resolute intelligence is one-pointed; the thoughts of the irresolute are many-branched and endless.
+long: The crucial contrast: vyavasāyātmikā buddhiḥ (resolute, single-pointed intelligence) vs. ananta-śākhāḥ (endless-branched, scattered thought). The undisciplined mind pursues endless desires and generates endless karma. The Yoga practitioner has one aim. The word "vyavasāya" — resolution — is central to Karma Yoga: it means doing what is to be done without wavering.
+wbw:
+  vyavasāyātmikā | nom. | resolute/decisive
+  buddhiḥ | nom. | intelligence
+  ekā | nom. | one
+  iha | adv. | here/in this
+  kuru-nandana | voc. | O joy of the Kurus
+  bahu-śākhā | nom. pl. | many-branched
+  hy anantāś ca | and truly endless
+  buddhayo | nom. pl. | thoughts/understandings
+  avyavasāyinām | gen. pl. | of the irresolute
+---
+# 2.42
+short: O son of Pṛthā, unwise people who delight in the letter of the Veda and say there is nothing else — they utter flowery words and prescribe various rituals for the attainment of pleasure and power.
+long: Kṛṣṇa begins a critique (verses 42-44) of those who reduce Vedic religion to ritual and reward. "Yām imāṃ puṣpitāṃ vācam" — flowery speech (attractive on the surface but empty within). These people treat the Veda as a catalogue of desire-fulfillment rather than as a path to liberation. They say "nānyad astīti" — there is nothing else beyond this. They are wrong.
+wbw:
+  yām imāṃ | acc. | that
+  puṣpitāṃ | acc. | flowery/elaborate
+  vācam | acc. | speech
+  pravadanty | 3rd pl. | utter
+  avipaścitaḥ | nom. pl. | unwise/ignorant ones
+  veda-vāda-ratāḥ | nom. pl. | delighting in Vedic speech
+  pārtha | voc. | O son of Pṛthā
+  nānyad astīti | there is nothing else
+  vādinaḥ | nom. pl. | those who say
+---
+# 2.43
+short: Full of desires, intent on heaven as the highest goal, these people take rebirth as the result of their actions; they provide many specific rites for the attainment of pleasure and power.
+long: The ritual-oriented person wants svarga (heaven), pleasure (bhoga), and power (aiśvarya). The Veda can give these — but they are impermanent. Heaven itself is temporary. And such people cycle through rebirth (janma-karma-phala-pradām) because they act from desire. The path Kṛṣṇa is teaching leads beyond rebirth, not just to a better rebirth.
+wbw:
+  kāmātmānaḥ | nom. pl. | those whose nature is desire
+  svarga-parāḥ | nom. pl. | intent on heaven
+  janma-karma-phala-pradām | acc. | giving fruits in birth as result of action
+  kriyā-viśeṣa-bahulām | acc. | full of many specific rites
+  bhogaiśvarya-gatim | acc. | aimed at pleasure and power
+  prati | towards
+---
+# 2.44
+short: Those whose minds are stolen by that (flowery speech), who are attached to pleasure and power — they do not attain the resolute intelligence aimed at the highest (state of samādhi).
+long: The consequence of desire-driven religiosity: no samādhi (concentrated equanimity). "Bhogaiśvarya-prasaktānām" — those attached to pleasure and power. "Vyavasāyātmikā buddhiḥ" from verse 41 cannot take root in a mind scattered by desire. This connects back to the yoga of resolute intelligence — only the unattached can develop it.
+wbw:
+  bhogaiśvarya-prasaktānām | gen. pl. | of those attached to pleasure and power
+  tayā | instr. | by that
+  apahṛta-cetasām | gen. pl. | whose minds are stolen/bewildered
+  vyavasāyātmikā | nom. | resolute
+  buddhiḥ | nom. | intelligence
+  samādhau | loc. | in concentration/samādhi
+  na vidhīyate | is not established
+---
+# 2.45
+short: The Vedas deal with the three qualities (guṇas). Be free from these, O Arjuna, free from duality, ever-fixed in purity, free from acquisition and preservation, and be established in the Self.
+long: Kṛṣṇa tells Arjuna to transcend the triguṇa (sattva, rajas, tamas) — the three modes of nature that the Vedas address in their ritual sections. "Nirdvandva" — free from duality (heat/cold, pleasure/pain). "Nityasattvastha" — ever in purity. The instruction is to go beyond the Veda's conventional teaching, toward the Self. This is a remarkable inversion: the Veda itself points beyond its own letters.
+wbw:
+  trai-guṇya-viṣayā | nom. pl. | dealing with the subject of three qualities
+  vedāḥ | nom. pl. | Vedas
+  nistrai-guṇyo | nom. | free from the three qualities
+  bhavārjuna | voc. | O Arjuna, be
+  nirdvandvaḥ | nom. | free from duality
+  nitya-sattva-sthaḥ | nom. | established in purity always
+  niryoga-kṣemaḥ | nom. | free from acquisition and preservation
+  ātmavān | nom. | self-possessed/established in self
+---
+# 2.46
+short: As much utility as there is in a small pond when water floods everywhere, so much is the utility of all the Vedas for the brāhmaṇa who knows.
+long: A striking analogy: when a great flood covers the land, the small well becomes superfluous — the water one needs is everywhere. Similarly, for the one who knows Brahman (the universal Self), the specific rituals and prescriptions of the Vedas are subsumed. This does not reject the Veda but places it within a larger understanding. The knower has access to the source, not just the channels.
+wbw:
+  yāvān | adj. | as much as
+  artha | nom. | utility
+  udapāne | loc. | in a small pond
+  sarvataḥ | adv. | on all sides
+  samplutodake | loc. | when water floods
+  tāvān | adj. | that much
+  sarveṣu | loc. pl. | in all
+  vedeṣu | loc. pl. | Vedas
+  brāhmaṇasya | gen. | for the brāhmaṇa
+  vijānataḥ | gen. | who knows
+---
+# 2.47
+short: Your right is only to the action, never to its fruits. Let not the fruits of action be your motive, nor let your attachment be to inaction.
+long: The most famous verse of the Gītā. Karma (action) is yours; phala (fruit) is not. Do not make phala the motive (mā phala-hetur bhūḥ). Do not fall into inaction (mā te saṅgo'stvakarmani). Three commands in one verse, establishing the entire logic of nishkāma karma (desireless action). The verse does not say "do not desire results" in a passive sense but "do your full action without making results the goal."
+wbw:
+  karmaṇy | loc. | in action
+  evādhikāras te | your right/authority is
+  mā phaleṣu kadācana | never to the fruits
+  mā karma-phala-hetuḥ bhūḥ | do not let fruits be the motive
+  mā te saṅgo'stvakarmani | nor let attachment be to inaction
+---
+# 2.48
+short: Perform actions, O Arjuna, being established in Yoga, abandoning attachment, and being balanced in success and failure. This equanimity is called Yoga.
+long: The practical definition of Karma Yoga: yogasthaḥ kuru karmāṇi (do action while established in yoga); saṅgaṃ tyaktvā (abandoning attachment); siddhy-asiddhyoḥ (in success and failure). The word "samatvam" — equanimity — is defined as Yoga itself. Yoga here is not posture or breath but the inner stance of balanced, unattached action.
+wbw:
+  yoga-sthaḥ | nom. | established in yoga
+  kuru | 2nd sg. imper. | do
+  karmāṇi | acc. pl. | actions
+  saṅgam | acc. | attachment
+  tyaktvā | gerund | having abandoned
+  dhanañjaya | voc. | O Dhanañjaya (Arjuna)
+  siddhy-asiddhyoḥ | loc. dual | in success and failure
+  samo | nom. | equal/same
+  bhūtvā | gerund | having become
+  samatvam | nom. | equanimity
+  yoga | nom. | yoga
+  ucyate | 3rd sg. pass. | is called
+---
+# 2.49
+short: Far inferior indeed is action (done from desire) compared to the yoga of wisdom, O Dhanañjaya. Seek refuge in wisdom. Pitiable are those who are motivated by fruit.
+long: "Dūreṇa hy avaram karma" — action motivated by results is far inferior. The contrast is between kriyā (ordinary result-driven action) and buddhi-yoga (action guided by wisdom/equanimity). "Kṛpaṇāḥ phala-hetavaḥ" — pitiable are those whose motive is the fruit. The word kṛpaṇa (miser, pitiable one) echoes "kārpaṇya" from 2.7 — the very disease Arjuna was suffering from.
+wbw:
+  dūreṇa | instr. | by far
+  hy avaram | truly inferior
+  karma | nom. | action
+  buddhi-yogāt | abl. | compared to yoga of wisdom
+  dhanañjaya | voc. | O Arjuna
+  buddhau | loc. | in wisdom
+  śaraṇam | acc. | refuge
+  anviccha | 2nd sg. imper. | seek
+  kṛpaṇāḥ | nom. pl. | pitiable ones
+  phala-hetavaḥ | nom. pl. | those motivated by fruit
+---
+# 2.50
+short: Endowed with wisdom, one casts off both good and bad deeds even in this life. Therefore, engage in Yoga. Yoga is skill in action.
+long: The liberating claim: buddhi-yoga allows one to go beyond the accumulation of both puṇya (good karma) and pāpa (bad karma). "Ubhe sukṛtaduṣkṛte" — both. Liberation is not about maximizing good karma but transcending the karma mechanism altogether. "Yoga: karmasu kauśalam" — the most compressed definition: yoga is skill in action. Skill here means performing action without the binding of attachment.
+wbw:
+  buddhi-yukto | nom. | endowed with wisdom
+  jahātīha | abandons here/in this life
+  ubhe | acc. dual | both
+  sukṛta-duṣkṛte | acc. dual | good and evil deeds
+  tasmāt | abl. | therefore
+  yogāya | dat. | to yoga
+  yujyasva | 2nd sg. imper. | engage
+  yogaḥ | nom. | yoga
+  karmasu | loc. pl. | in actions
+  kauśalam | nom. | skill
+---
+# 2.51
+short: The wise, endowed with wisdom, abandoning the fruits born of their actions, are freed from the bondage of rebirth and attain the state beyond all suffering.
+long: The soteriological payoff: karma-jam phalam tyaktvā (abandoning the fruits born of action), the wise are freed from the cycle of birth (janma-bandha-vinirmuktāḥ). They reach "padam anamayam" — the state free from all suffering. This is moksha as the final goal, situated within the Karma Yoga framework.
+wbw:
+  karma-jam | nom. pl. | born of action
+  buddhi-yuktā | nom. pl. | endowed with wisdom
+  hi | particle | indeed
+  phalam | acc. | fruit
+  tyaktvā | gerund | having abandoned
+  manīṣiṇaḥ | nom. pl. | the wise
+  janma-bandha-vinirmuktāḥ | nom. pl. | freed from the bondage of birth
+  padam | acc. | state/abode
+  gacchanty | 3rd pl. | attain
+  anamayam | acc. | free from suffering
+---
+# 2.52
+short: When your intellect crosses over the mire of delusion, then you will become indifferent to what is to be heard and to what has already been heard (in the Vedas).
+long: "Moha-kalila" — the mire/thicket of delusion. Once the buddhi (intellect) crosses it, one becomes nirvedya (indifferent/dispassionate) to both śruta (what has been heard — the Vedas) and śrotavyasya (what is yet to be heard). Not rejection of scripture but transcendence — the direct knowledge of the Self renders scriptural injunction secondary.
+wbw:
+  yadā | when
+  te | gen. | your
+  moha-kalilam | acc. | the mire of delusion
+  buddhiḥ | nom. | intellect
+  vyatitariṣyati | 3rd sg. fut. | will cross over
+  tadā | then
+  gantāsi | 2nd sg. fut. | you will go/become
+  nirvedyam | acc. | dispassion/indifference
+  śrotavyasya | gen. | of what is to be heard
+  śrutasya | gen. | of what has been heard
+  ca | conj. | and
+---
+# 2.53
+short: When your intellect, confused by the diversity of what you have heard, stands immovable and stable in samādhi, then you will attain Yoga.
+long: The target state: śruti-vipratipannā (confused by the diversity/contradictions of what has been heard) buddhi (intellect) → once it becomes acalā (immovable) and sthirā (stable) in samādhi, then yoga is attained. The noise of competing Vedic injunctions falls silent. This is the Gītā's promise: not more information but the steadiness that transcends information.
+wbw:
+  śruti-vipratipannā | nom. | confused by conflicting teachings
+  te | gen. | your
+  yadā | when
+  sthāsyati | 3rd sg. fut. | will stand
+  niścalā | nom. | immovable
+  samādhāv | loc. | in samādhi
+  acalā | nom. | unmoving
+  buddhis | nom. | intellect
+  tadā | then
+  yogam | acc. | yoga
+  avāpsyasi | 2nd sg. fut. | you will attain
+---
+# 2.54
+short: Arjuna said: O Kṛṣṇa, what is the description of one of steady wisdom who is established in samādhi? How does the person of steady wisdom speak, sit, and move?
+long: The famous sthitaprajña question. Arjuna shifts from objection to inquiry — the mark of a genuine student. Three operational questions: how does the sthitaprajña speak? sit? walk? These are not metaphysical questions but practical ones: what does wisdom look like from the outside? The answer (verses 55-72) becomes the Gītā's first portrait of the liberated person.
+wbw:
+  arjuna uvāca | Arjuna said
+  sthita-prajñasya | gen. | of one of steady wisdom
+  kā | interrog. | what
+  bhāṣā | nom. | description/speech
+  samādhi-sthasya | gen. | of one established in samādhi
+  keśava | voc. | O Kṛṣṇa
+  sthita-dhīḥ | nom. | steady of wisdom
+  kim | interrog. | how
+  prabhāṣeta | 3rd sg. opt. | would speak
+  kim | interrog. | how
+  āsīta | 3rd sg. opt. | would sit
+  vrajeta | 3rd sg. opt. | would move
+  kim | interrog. | how
+---
+# 2.55
+short: The Blessed Lord said: O Arjuna, when a person completely abandons all the desires of the mind and is satisfied in the Self by the Self — that person is called a sthitaprajña (one of steady wisdom).
+long: The definition of sthitaprajña from the inside: all desires of the mind (manogatāḥ kāmāḥ) are abandoned (prahāya). The person is ātmany evātmanā tuṣṭaḥ — satisfied in the Self by the Self. Not externally satisfied but self-sufficient in the deepest sense. The word "prajñā" here denotes not ordinary intelligence but the clarity of direct Self-knowledge.
+wbw:
+  prajahāti | 3rd sg. | completely abandons
+  yadā | when
+  kāmān | acc. pl. | desires
+  sarvān | acc. pl. | all
+  pārtha | voc. | O Arjuna
+  mano-gatān | acc. pl. | of the mind
+  ātmany | loc. | in the Self
+  eva | particle | indeed
+  ātmanā | instr. | by the Self
+  tuṣṭaḥ | nom. | satisfied
+  sthita-prajñas | nom. | of steady wisdom
+  tadocyate | then is called
+---
+# 2.56
+short: One whose mind is not agitated in sorrow, who has no longing for pleasures, who is free from passion, fear, and anger — that sage is called a sthitamati (steadfast in mind).
+long: The external-facing attributes: in sorrow (duḥkheṣu), not agitated (anudvigna-manāḥ); in pleasure, no longing (spṛhā). And the three reactive emotions: rāga (passion), bhaya (fear), krodha (anger) — all absent. The sage is not emotionless but uncontrolled by emotion. This is the equanimity that Karma Yoga aims at.
+wbw:
+  duḥkheṣu | loc. pl. | in sorrows
+  anudvigna-manāḥ | nom. | whose mind is not agitated
+  sukheṣu | loc. pl. | in pleasures
+  vigata-spṛhaḥ | nom. | free from longing
+  vīta-rāga-bhaya-krodhaḥ | nom. | free from passion, fear, and anger
+  sthita-dhīr | nom. | steady-minded
+  muniḥ | nom. | sage
+  ucyate | 3rd sg. pass. | is called
+---
+# 2.57
+short: One who has no attachment in any circumstance, who is neither delighted by the good nor repelled by the evil — that person's wisdom is firmly established.
+long: The test of established wisdom: neither delight at good (na abhihandati) nor aversion at evil (na dveṣṭi). Not that good and evil are indifferent in reality, but that the sthitaprajña's inner state is not controlled by their arrival. "Pratiṣṭhitā prajñā" — wisdom firmly established, like a tree with deep roots that neither elation nor depression can uproot.
+wbw:
+  yaḥ | rel. | who
+  sarvatrā-nabhisnehaḥ | nom. | without attachment anywhere
+  tat tat | that/those
+  prāpya | gerund | having obtained
+  śubhāśubham | acc. | good and evil
+  nābhinandati | 3rd sg. neg. | does not delight in
+  na dveṣṭi | 3rd sg. neg. | does not hate
+  tasya | gen. | that person's
+  prajñā | nom. | wisdom
+  pratiṣṭhitā | nom. | firmly established
+---
+# 2.58
+short: When one withdraws the senses from sense-objects completely, as a tortoise withdraws its limbs (into its shell), that person's wisdom is firmly established.
+long: The tortoise analogy — the most celebrated image for sense-withdrawal (pratyāhāra) in the Gītā. The tortoise does not abandon its limbs permanently; it withdraws them at will for protection. Similarly the sthitaprajña withdraws the senses not by destroying sensation but by mastering the will to withdraw at appropriate times. This is active restraint, not passive suppression.
+wbw:
+  yadā | when
+  saṃharate | 3rd sg. | withdraws
+  cāyam | and this one
+  kūrmo | nom. | tortoise
+  aṅgānī iva | like limbs
+  sarvataḥ | adv. | from all sides
+  indriyāṇī | acc. pl. | senses
+  indriyārthebhyaḥ | abl. pl. | from sense-objects
+  tasya | gen. | that person's
+  prajñā | nom. | wisdom
+  pratiṣṭhitā | nom. | firmly established
+---
+# 2.59
+short: Sense-objects turn away from the abstinent person but the taste (for them) remains. Even this taste goes away for one who has seen the Supreme.
+long: A subtle and important distinction. The ascetic who merely abstains by force still retains the "rasa" (taste, subtle craving) for sense-objects. The sthitaprajña has gone further: having seen "param" (the Supreme), even the rasa ceases. The vision of the Absolute transforms desire at its root — not by suppression but by replacement of the limited with the unlimited.
+wbw:
+  viṣayā | nom. pl. | sense-objects
+  vinivartante | 3rd pl. | turn away from
+  nirāhārasya | gen. | of one who abstains
+  dehinaḥ | gen. | of the embodied
+  rasavarjam | acc. | except the taste
+  raso'py | nom. | the taste also
+  asya | gen. | this person's
+  paraṃ dṛṣṭvā | having seen the Supreme
+  nivartate | 3rd sg. | ceases/turns away
+---
+# 2.60
+short: O son of Kuntī, even though a wise person strives, the turbulent senses violently carry away the mind.
+long: An honest admission: the senses are powerful. Even the person who strives (ātmanaḥ yatatapi) finds the mind forcibly snatched away (pramāthīni indriyāṇi). This is not defeatism but realism — the yoga path is a genuine struggle. The next verse will give the solution. Kṛṣṇa does not pretend the path is easy.
+wbw:
+  yatato | gen. | of one who strives
+  hy api | even indeed
+  kaunteya | voc. | O son of Kuntī
+  puruṣasya | gen. | of a person
+  vipaścitaḥ | gen. | wise
+  indriyāṇi | nom. pl. | the senses
+  pramāthīni | nom. pl. | turbulent/violent
+  haranti | 3rd pl. | carry away
+  prasabham | adv. | forcibly
+  manaḥ | acc. | mind
+---
+# 2.61
+short: Restraining all the senses, one should sit having focused the mind on Me. One whose senses are controlled — that person's wisdom is firmly established.
+long: The solution to verse 60: yogi yukta āsīta (sit focused, yoked). "Mat-paraḥ" — with Me as the supreme. The theistic element is introduced here for the first time in the Sāṅkhya/Yoga teaching: focus on Kṛṣṇa specifically. Restraining all senses while centered on the Lord stabilizes the buddhi. The sthitaprajña portrait thus includes both philosophical understanding and devotional focus.
+wbw:
+  tāni | acc. pl. | those
+  sarvāṇi | acc. pl. | all
+  saṃyamya | gerund | having restrained
+  yukta | nom. | focused/disciplined
+  āsīta | 3rd sg. opt. | should sit
+  mat-paraḥ | nom. | having Me as the supreme
+  vaśe | loc. | in control
+  hi | particle | indeed
+  yasyendriyāṇi | whose senses
+  tasya | gen. | that person's
+  prajñā | nom. | wisdom
+  pratiṣṭhitā | nom. | firmly established
+---
+# 2.62
+short: When a person dwells on sense-objects, attachment to them arises; from attachment comes desire; from desire arises anger.
+long: The famous chain of psychological degradation begins here. Dhyāyato (dwelling on/contemplating) → saṅga (attachment) → kāma (desire) → krodha (anger when desire is frustrated). This is the downward chain. Kṛṣṇa maps the psychology of spiritual fall with clinical precision: it begins not with action but with the mind lingering on its objects.
+wbw:
+  dhyāyato | gen. | of one who dwells on
+  viṣayān | acc. pl. | sense-objects
+  puṃsaḥ | gen. | of a person
+  saṅgas | nom. | attachment
+  teṣūpajāyate | arises in those
+  saṅgāt | abl. | from attachment
+  sañjāyate | 3rd sg. | is born
+  kāmaḥ | nom. | desire
+  kāmāt | abl. | from desire
+  krodho | nom. | anger
+  abhijāyate | 3rd sg. | arises
+---
+# 2.63
+short: From anger comes confusion of mind; from confusion of mind comes loss of memory; from loss of memory comes destruction of discrimination; from destruction of discrimination a person is lost.
+long: The chain continues: krodha → sammohah (delusion) → smṛti-vibhramaḥ (loss of memory — here memory of one's true nature and values) → buddhi-nāśa (destruction of discriminative intelligence) → praṇaśyati (one is lost, ruined). The sequence is a complete description of moral and psychological collapse. Memory (smṛti) is the linchpin — without remembering who one really is, discrimination collapses.
+wbw:
+  krodhāt | abl. | from anger
+  bhavati | 3rd sg. | arises
+  sammohaḥ | nom. | confusion/delusion
+  sammohāt | abl. | from confusion
+  smṛti-vibhramaḥ | nom. | loss of memory
+  smṛti-bhraṃśāt | abl. | from loss of memory
+  buddhi-nāśaḥ | nom. | destruction of intellect
+  buddhi-nāśāt | abl. | from destruction of intellect
+  praṇaśyati | 3rd sg. | one is lost/ruined
+---
+# 2.64
+short: But a person who moves among objects with senses under control, free from attraction and repulsion, with self-mastery — attains tranquility.
+long: The reverse: the person who has subdued attraction (rāga) and repulsion (dveṣa) can move freely among sense-objects without being touched. "Ātma-vaśyair" — senses subject to the self. "Prasādam adhigacchati" — attains prasāda, which means grace, serenity, clarity. The tranquil mind is the positive outcome contrasted with the chain of destruction in verses 62-63.
+wbw:
+  rāga-dveṣa-vimuktais tu | free from attraction and repulsion
+  viṣayān | acc. pl. | objects
+  indriyaiḥ | instr. pl. | with senses
+  caran | pres. part. | moving among
+  ātma-vaśyaiḥ | instr. pl. | subject to self-control
+  vidheyātmā | nom. | one who is self-disciplined
+  prasādam | acc. | tranquility/grace
+  adhigacchati | 3rd sg. | attains
+---
+# 2.65
+short: In that tranquility, all suffering is destroyed; for the tranquil-minded, wisdom becomes quickly well-established.
+long: The cascade upward: prasāda → duḥkha-hāni (all grief is destroyed). And wisdom "āśu" (quickly) becomes stable. The downward chain of verses 62-63 is now inverted: tranquility restores memory, memory restores discrimination, discrimination restores action. The whole psychology of liberation is contained in these four verses (62-65).
+wbw:
+  prasāde | loc. | in tranquility
+  sarva-duḥkhānām | gen. pl. | of all sorrows
+  hāniḥ | nom. | destruction/removal
+  asyopajāyate | arises for this one
+  prasanna-cetasaḥ | gen. | of the tranquil mind
+  hy āśu | quickly indeed
+  buddhiḥ | nom. | wisdom
+  paryavatiṣṭhate | 3rd sg. | becomes well-established
+---
+# 2.66
+short: There is no wisdom for the undisciplined, and no concentration for the undisciplined; for the one without concentration there is no peace; and for the unpeaceful, from where can happiness come?
+long: Four nested negatives: no yoga (discipline) → no buddhi (wisdom); no buddhi → no bhāvanā (concentration, steadiness); no bhāvanā → no śānti (peace); no śānti → no sukha (happiness). The chain shows that happiness is not the starting point but the result of a long process of self-discipline. This is the Gītā's answer to the question "how do I become happy?" — begin with discipline.
+wbw:
+  nāsti | neg. | there is not
+  buddhir | nom. | wisdom
+  ayuktasya | gen. | of the undisciplined
+  na ca | nor
+  ayuktasya | gen. | of the undisciplined
+  bhāvanā | nom. | concentration/steadiness
+  na ca | nor
+  abhāvayataḥ | gen. | of one without steadiness
+  śāntiḥ | nom. | peace
+  aśāntasya | gen. | of the unpeaceful
+  kutaḥ | interrog. | from where
+  sukham | nom. | happiness
+---
+# 2.67
+short: Just as a boat on the water is tossed about by the wind, so also the mind following whichever of the wandering senses it goes after — that one carries away the wisdom.
+long: The wind-on-water analogy for the relationship between senses and the mind. One wandering sense (yad yad indriyam) that the mind follows (anuvidhīyate) is enough to carry away wisdom (harati prajñām), like a single wind current that tosses a boat. The metaphor emphasizes how easy it is for wisdom to be displaced — just one sense, improperly indulged, is sufficient.
+wbw:
+  indriyāṇām | gen. pl. | of the senses
+  hi | particle | indeed
+  caratām | gen. pl. pres. part. | of wandering
+  yan manaḥ | whichever mind
+  anuvidhīyate | 3rd sg. | follows
+  tad asya | that of this one
+  harati | 3rd sg. | carries away
+  prajñām | acc. | wisdom
+  vāyur | nom. | wind
+  nāvam | acc. | boat
+  ivāmbhasi | like (on) water
+---
+# 2.68
+short: Therefore, O mighty-armed, that person whose senses are completely withdrawn from sense-objects — that person's wisdom is firmly established.
+long: The conclusion of the senses/wisdom discussion. The sthitaprajña phrase "prajñā pratiṣṭhitā" appears for the fourth and final time in this chapter (also at 2.56, 2.58, 2.61). Verse 68 restates it as a definitive conclusion: senses fully withdrawn (sarvataḥ saṃhṛtāni) from objects (indriyārthebhyaḥ) → wisdom firmly established. The teaching on the steady sage is nearly complete.
+wbw:
+  tasmāt | abl. | therefore
+  yasya | gen. rel. | whose
+  mahābāho | voc. | O mighty-armed
+  nigṛhītāni | nom. pl. | withdrawn/restrained
+  sarvaśaḥ | adv. | from all sides
+  indriyāṇī | nom. pl. | senses
+  indriyārthebhyaḥ | abl. pl. | from sense-objects
+  tasya | gen. | that person's
+  prajñā | nom. | wisdom
+  pratiṣṭhitā | nom. | firmly established
+---
+# 2.69
+short: What is night for all beings is the time of waking for the self-controlled; what is the time of waking for all beings is night for the sage who sees.
+long: A paradox verse: the "night" (tamas, sleep, unconsciousness) of ordinary beings is the "day" (awareness) of the sage; what ordinary people call waking (viṣaya-pravrtti, engagement with the external world) is the sage's night (because the sage is inwardly awake while externally disengaged). The sage and ordinary person inhabit the same world but live in opposite orientations.
+wbw:
+  yā niśā | which is night
+  sarva-bhūtānām | gen. pl. | for all beings
+  tasyām | loc. | in that
+  jāgarti | 3rd sg. | is awake
+  saṃyamī | nom. | the self-controlled/restrained one
+  yasyām | loc. rel. | in which
+  jāgrati | 3rd pl. | are awake
+  bhūtāni | nom. pl. | beings
+  sā niśā | that is night
+  paśyato | gen. | of the sage who sees
+  muneḥ | gen. | of the sage
+---
+# 2.70
+short: As the ocean remains full despite the waters of many rivers flowing into it — the person into whom all desires enter but who remains unmoved, attains peace; not so the one who desires.
+long: The ocean analogy: the ocean is vast, full, and unmoved despite rivers constantly flowing in. The person who has realized the Self is like the ocean — desires arise and flow in (as they always will in embodied life) but cannot agitate the depths. "Kāmā yaṃ praviśanti sarve" — all desires enter — but the person remains acalā-pratiṣṭham. The one who pursues desires is not the ocean but the river, always moving, never full.
+wbw:
+  āpūryamāṇam | acc. | being filled
+  acala-pratiṣṭham | acc. | steadily established/unmoved
+  samudram | acc. | ocean
+  āpaḥ | nom. pl. | waters
+  praviśanti | 3rd pl. | enter
+  yadvat | just as
+  tadvat | so too
+  kāmāḥ | nom. pl. | desires
+  yaṃ praviśanti | into whom enter
+  sarve | nom. pl. | all
+  sa | nom. | that person
+  śāntim āpnoti | attains peace
+  na kāma-kāmī | not the one who desires
+---
+# 2.71
+short: The person who, abandoning all desires, moves about without longing, without a sense of "I" and "mine" — that person attains peace.
+long: The positive portrait of the peaceful sage: "vihāya kāmān sarvān" (all desires abandoned), "niḥspṛhaḥ" (without longing), "nirmamo nirahaṅkāraḥ" (without "mine," without "I"). The twin roots of suffering are "I" (ahaṅkāra) and "mine" (mamakāra). Dropping both, the sage moves through the world as freely as the wind — touching but unbound.
+wbw:
+  vihāya | gerund | having abandoned
+  kāmān | acc. pl. | desires
+  yaḥ | rel. | who
+  sarvān | acc. pl. | all
+  pumāṃś | nom. | person
+  carati | 3rd sg. | moves
+  niḥspṛhaḥ | nom. | without longing
+  nirmamo | nom. | without "mine"
+  nirahaṅkāraḥ | nom. | without "I"/ego
+  sa śāntim | that person peace
+  adhigacchati | 3rd sg. | attains
+---
+# 2.72
+short: O Arjuna, this is the brahmic state (state of Brahman). Having attained this, one is not confused; abiding in this even at the hour of death, one attains nirvāṇa in Brahman.
+long: The chapter's final word: "brahmi sthitiḥ" — the state of Brahman. It is the goal. And it is accessible not only at death — one can dwell in it while living, at all times. Even at the moment of death (anta-kāle), abiding in this state, one attains "brahma-nirvāṇam." This is the Gītā's version of liberation: not an event but a mode of being. The chapter that began with Arjuna's breakdown ends with the portrait of the liberated sage.
+wbw:
+  eṣā | nom. | this
+  brāhmī | nom. | of Brahman
+  sthitiḥ | nom. | state/condition
+  pārtha | voc. | O Arjuna
+  naināṃ | acc. neg. | not this
+  prāpya | gerund | having attained
+  vimuhyati | 3rd sg. | is confused
+  sthitvā | gerund | abiding/standing
+  asyām | loc. | in this
+  anta-kāle'pi | even at the end of time
+  brahma-nirvāṇam | acc. | nirvāṇa in Brahman
+  ṛcchati | 3rd sg. | attains
+---

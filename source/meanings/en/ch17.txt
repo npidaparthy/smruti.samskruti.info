@@ -1,0 +1,252 @@
+# 17.1
+short: Arjuna said — Those who abandon the scriptural injunctions but sacrifice with faith — what is their position, O Krishna? Sattva, Rajas, or Tamas?
+long: Arjuna picks up on 16.23-24's conclusion about scripture. A natural follow-up question: what about those who have genuine faith but don't follow specific scriptural rules? Is their faith still valid? Which of the three guṇas does it fall under? This launches chapter 17's exploration of the three types of faith, food, sacrifice, austerity, and giving — all analyzed through the sattva/rajas/tamas framework. "Ye śāstra-vidhim utsṛjya yajante śraddhayānvitāḥ — teṣāṃ niṣṭhā tu kā kṛṣṇa sattvam āho rajas tamaḥ."
+wbw:
+  ye śāstra-vidhim utsṛjya | phrase | those who, having abandoned scriptural injunction
+  yajante śraddhayānvitāḥ | phrase | sacrifice with faith
+  teṣāṃ niṣṭhā tu kā kṛṣṇa | question | what is their position, O Krishna
+  sattvam āho rajas tamaḥ | phrase | sattva, or rajas, or tamas
+---
+# 17.2
+short: The Lord said — The faith of embodied beings is of three kinds, born of their own nature — sattvic, rajasic, and tamasic. Hear about these.
+long: "Tri-vidhā bhavati śraddhā dehināṃ sā svabhāva-jā / sāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu." Krishna's answer: śraddhā (faith) is threefold, born of svabhāva (one's own nature). The key insight is that śraddhā is not a separate faculty — it emerges from one's constitutive guṇa-nature. A sāttvika person has sāttvika faith; a rājasika person has rājasika faith. Faith reflects the person rather than being independently authenticated. This is why two people can have "faith" in very different things.
+wbw:
+  tri-vidhā bhavati śraddhā | phrase | faith is of three kinds
+  dehināṃ sā svabhāva-jā | phrase | of embodied beings, born of their nature
+  sāttvikī rājasī caiva | phrase | sattvic and rajasic
+  tāmasī ceti tāṃ śṛṇu | phrase | and tamasic — hear about these
+---
+# 17.3
+short: The faith of each person corresponds to their inherent nature, O Bhārata. A person consists of faith — what one has faith in, that one is.
+long: "Sattvānurūpā sarvasya śraddhā bhavati bhārata / śraddhāmayo'yaṃ puruṣo yo yac-chraddhaḥ sa eva saḥ." "Sattvānurūpā sarvasya śraddhā bhavati" — each person's faith corresponds to their sattva (here meaning their nature/constitution). "Śraddhāmayo'yaṃ puruṣaḥ" — this person is constituted of faith. "Yo yac-chraddhaḥ sa eva saḥ" — what one has faith in, that one is. This is one of the Gītā's most psychologically penetrating lines: identity is revealed by what we genuinely believe in and trust. The object of our deepest faith defines us.
+wbw:
+  sattvānurūpā sarvasya | phrase | corresponding to the nature of each
+  śraddhā bhavati bhārata | phrase | faith arises, O Bhārata
+  śraddhāmayo'yaṃ puruṣaḥ | phrase | this person is constituted of faith
+  yo yac-chraddhaḥ sa eva saḥ | phrase | what one has faith in, that one is
+---
+# 17.4
+short: Sattvic people worship the gods; rajasic people worship yakṣas and rākṣasas; the others — tamasic people — worship ghosts and troops of spirits.
+long: "Yajante sāttvikā devān yakṣa-rakṣāṃsi rājasāḥ / pretān bhūta-gaṇāṃś cānye yajante tāmasā janāḥ." Each type of faith finds its corresponding object of worship. Sāttvika → devāḥ (the higher divine forces, associated with light, order, truth). Rājasika → yakṣas and rākṣasas (beings associated with power, wealth, desire — transactional worship for worldly gain). Tāmasika → pretas (ghosts) and bhūta-gaṇas (troops of spirits). The object of worship reflects the worshipper's internal orientation and what they truly value.
+wbw:
+  yajante sāttvikā devān | phrase | sattvic people worship the gods
+  yakṣa-rakṣāṃsi rājasāḥ | phrase | rajasic people (worship) yakṣas and rākṣasas
+  pretān bhūta-gaṇāṃś cānye | phrase | ghosts and troops of spirits, and others
+  yajante tāmasā janāḥ | phrase | tamasic people worship
+---
+# 17.5
+short: Those who practice terrible austerity not prescribed by scripture — possessed by ego and force, with attachment and passion for it, and also torturing the body's constituents and Me dwelling within —
+long: "Aśāstra-vihitaṃ ghoraṃ tapyante ye tapo janāḥ / dambhāhaṃkāra-saṃyuktāḥ kāma-rāga-balānvitāḥ." (17.6 continues) "Aśāstra-vihitaṃ ghoras" — terrible (ghora) austerity not prescribed by scripture. "Dambhāhaṃkāra-saṃyuktāḥ" — possessed by dambha (hypocrisy) and ahaṃkāra (ego). "Kāma-rāga-balānvitāḥ" — with kāma (desire), rāga (passion/attachment), and bala (force/compulsion). These are the internal motivations driving the extreme asceticism — not genuine seeking but ego-display or desire for power.
+wbw:
+  aśāstra-vihitaṃ ghoram | phrase | terrible, not prescribed by scripture
+  tapyante ye tapo janāḥ | phrase | the austerity that some people practice
+  dambhāhaṃkāra-saṃyuktāḥ | phrase | possessed by hypocrisy and ego
+  kāma-rāga-balānvitāḥ | phrase | driven by desire, passion, and force
+---
+# 17.6
+short: — torturing the assemblage of elements in the body, and Me dwelling within — know these to be of demonic resolve.
+long: "Karśayantaḥ śarīra-sthaṃ bhūta-grāmam acetasaḥ / māṃ caivāntaḥ śarīra-sthaṃ tān viddhy āsura-niścayān." "Karśayantaḥ śarīra-sthaṃ bhūta-grāmam" — torturing the assemblage (grāma — community) of elements (bhūtas) within the body. "Acetasaḥ" — foolish/mindless (without proper wisdom). "Māṃ caivāntaḥ śarīra-sthaṃ" — and Me dwelling within the body. "Tān viddhy āsura-niścayān" — know these to be of demonic resolve. The extremism of harsh self-mortification is condemned — not because tapas is wrong, but because this variety harms the divine indweller along with the body.
+wbw:
+  karśayantaḥ śarīra-sthaṃ | phrase | torturing (what is) within the body
+  bhūta-grāmam acetasaḥ | phrase | the assemblage of elements, these mindless ones
+  māṃ caivāntaḥ śarīra-stham | phrase | and Me also, dwelling within the body
+  tān viddhy āsura-niścayān | phrase | know these to be of demonic resolve
+---
+# 17.7
+short: The food that is dear to each is also of three kinds — and so too sacrifice, austerity, and giving. Hear this distinction of theirs.
+long: "Āhāras tv api sarvasya tri-vidho bhavati priyaḥ / yajñas tapas tathā dānaṃ teṣāṃ bhedam imaṃ śṛṇu." Food too is threefold. "Āhāras tv api sarvasya tri-vidho bhavati priyaḥ" — food that each person finds pleasing is of three kinds. Then the same analysis will apply to yajña (sacrifice), tapas (austerity), and dāna (giving). "Teṣāṃ bhedam imaṃ śṛṇu" — hear this distinction. The chapter now becomes a systematic analysis: the same three-way guṇa-distinction applies to every major area of human religious/ethical life.
+wbw:
+  āhāras tv api sarvasya | phrase | food also of each person
+  tri-vidho bhavati priyaḥ | phrase | is of three kinds — what is dear
+  yajñas tapas tathā dānam | phrase | sacrifice, austerity, and giving
+  teṣāṃ bhedam imaṃ śṛṇu | phrase | hear this distinction of theirs
+---
+# 17.8
+short: Foods that promote life, vitality, strength, health, joy, and delight — which are juicy, oleaginous, substantial, and pleasing — are dear to sattvic people.
+long: "Āyuḥ-sattva-balārogya-sukha-prīti-vivardhanāḥ / rasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvika-priyāḥ." Sattvic food: "āyuḥ-sattva-bala-ārogya-sukha-prīti-vivardhanāḥ" — that which increases (vivardhanāḥ) life-span (āyus), being (sattva), strength (bala), health (ārogya), happiness (sukha), and love/delight (prīti). Qualities: rasyāḥ (juicy, flavorful), snigdhāḥ (oleaginous, unctuous, nourishing), sthirāḥ (substantial, solid, lasting), hṛdyāḥ (pleasing to the heart). Sattvic food nourishes on multiple levels simultaneously.
+wbw:
+  āyuḥ-sattva-balārogya | compound | life, being, strength, health
+  sukha-prīti-vivardhanāḥ | phrase | increasing happiness and delight
+  rasyāḥ snigdhāḥ sthirā hṛdyāḥ | adjectives | juicy, oleaginous, substantial, pleasing
+  āhārāḥ sāttvika-priyāḥ | phrase | foods dear to sattvic people
+---
+# 17.9
+short: Foods that are bitter, sour, salty, very hot, pungent, dry, and burning — are desired by rajasic people, and produce pain, grief, and disease.
+long: "Kaṭv-amla-lavaṇāty-uṣṇa-tīkṣṇa-rūkṣa-vidāhinaḥ / āhārā rājasasyeṣṭā duḥkha-śokāmaya-pradāḥ." Rajasic food — characterized by extremes of taste stimulation: kaṭu (bitter/pungent), amla (sour), lavaṇa (salty), aty-uṣṇa (very hot), tīkṣṇa (sharp/pungent), rūkṣa (dry/rough), vidāhin (burning). These are food that over-stimulate the senses. "Duḥkha-śokāmaya-pradāḥ" — producing (pradāḥ) pain (duḥkha), grief/agitation (śoka), and disease (āmaya). Excessive stimulation leads to imbalance and suffering.
+wbw:
+  kaṭv-amla-lavaṇāty-uṣṇa | compound | bitter, sour, salty, very hot
+  tīkṣṇa-rūkṣa-vidāhinaḥ | compound | pungent, dry, and burning
+  āhārā rājasasyeṣṭāḥ | phrase | foods desired by rajasic people
+  duḥkha-śokāmaya-pradāḥ | phrase | producing pain, grief, and disease
+---
+# 17.10
+short: Food that is stale, tasteless, putrid, left-over, and impure — is dear to tamasic people.
+long: "Yāta-yāmaṃ gata-rasaṃ pūti paryuṣitaṃ ca yat / ucchiṣṭam api cāmedhyaṃ bhojanaṃ tāmasa-priyam." Tamasic food: "yāta-yāmam" — stale (literally "what has passed through the yāma/hour," i.e., cooked too long ago). "Gata-rasam" — tasteless (rasa/essence has left). "Pūti" — putrid/foul-smelling. "Paryuṣitam" — kept overnight, spoiled. "Ucchiṣṭam" — leftover from others' meals. "Amedhyam" — impure/ritually unclean. Food that has degraded — lacking vitality, nourishment, or freshness — is the tamasic preference.
+wbw:
+  yāta-yāmaṃ gata-rasam | phrase | stale, tasteless (essence-departed)
+  pūti paryuṣitaṃ ca yat | phrase | putrid and left overnight
+  ucchiṣṭam api cāmedhyam | phrase | leftover and also impure
+  bhojanaṃ tāmasa-priyam | phrase | food dear to tamasic people
+---
+# 17.11
+short: The sacrifice offered according to prescription, by those who do not desire the fruit — with the mind fixed on "this must be done" — that is sattvic.
+long: "Aphalākāṅkṣibhir yajño vidhi-dṛṣṭo ya ijyate / yaṣṭavyam eveti manaḥ samādhāya sa sāttvikāḥ." "Aphalākāṅkṣibhiḥ" — by those not desiring fruit (aphalā-kāṅkṣī — free from fruit-desire). "Vidhi-dṛṣṭaḥ" — prescribed by scripture (in accordance with the rules). "Ya ijyate" — that which is offered. "Yaṣṭavyam eveti" — "this must be done" (the sense of duty/obligation as the sole motivator). "Manaḥ samādhāya" — with mind fixed. "Sa sāttvikāḥ" — that is sattvic. Sattvic sacrifice: right method, no fruit-desire, duty as the driver.
+wbw:
+  aphalākāṅkṣibhir yajñaḥ | phrase | sacrifice by those not desiring fruit
+  vidhi-dṛṣṭo ya ijyate | phrase | that which is offered as prescribed
+  yaṣṭavyam eveti manaḥ | phrase | with mind fixed on "this must be done"
+  samādhāya sa sāttvikāḥ | phrase | that is sattvic
+---
+# 17.12
+short: Know, O best of Bhāratas, that sacrifice offered with a view to fruit, or for the purpose of display — that is rajasic.
+long: "Abhisaṃdhāya tu phalaṃ dambhārtham api caiva yat / ijyate bharata-śreṣṭha taṃ yajñaṃ viddhi rājasam." "Abhisaṃdhāya tu phalam" — aiming at fruit (phala) — with the result/reward in view. "Dambhārtham api caiva" — and also for the purpose of display (dambha — hypocrisy, showing off one's religiosity). "Yat ijyate" — what is offered. "Taṃ yajñaṃ viddhi rājasam" — know that sacrifice to be rajasic. Two rajasic motivations for sacrifice: (1) getting a reward, (2) social display. Both involve self-centered motivation rather than offering for its own sake.
+wbw:
+  abhisaṃdhāya tu phalam | phrase | aiming at/with fruit in view
+  dambhārtham api caiva yat | phrase | and also for the purpose of display
+  ijyate bharata-śreṣṭha | phrase | is offered, O best of Bhāratas
+  taṃ yajñaṃ viddhi rājasam | phrase | know that sacrifice to be rajasic
+---
+# 17.13
+short: Sacrifice devoid of scripture, without distributing food, without mantras, without giving fees to priests, and without faith — is declared tamasic.
+long: "Vidhi-hīnam asṛṣṭānnaṃ mantra-hīnam adakṣiṇam / śraddhā-virahitaṃ yajñaṃ tāmasaṃ paricakṣate." "Vidhi-hīnam" — devoid of prescribed rules (not following the method). "Asṛṣṭānnam" — without distributing food (anna-sṛṣṭi — the sharing of food that is part of proper sacrifice). "Mantra-hīnam" — without mantras. "Adakṣiṇam" — without giving dakṣiṇā (the fees/gifts to officiating priests). "Śraddhā-virahitam" — devoid of faith. "Tāmasaṃ paricakṣate" — is declared tamasic. Tamasic sacrifice is careless, faithless, procedurally empty.
+wbw:
+  vidhi-hīnam asṛṣṭānnam | phrase | devoid of rules, without distributing food
+  mantra-hīnam adakṣiṇam | phrase | without mantras, without priest-fees
+  śraddhā-virahitaṃ yajñam | phrase | sacrifice devoid of faith
+  tāmasaṃ paricakṣate | phrase | is declared tamasic
+---
+# 17.14
+short: Worship of the gods, twice-born, teachers, and the wise; purity, uprightness, celibacy, and non-harming — this is called bodily austerity.
+long: "Deva-dvija-guru-prājña-pūjanaṃ śaucam ārjavam / brahmacaryam ahiṃsā ca śārīraṃ tapa ucyate." Physical/bodily (śārīra) tapas: "deva-dvija-guru-prājña-pūjanam" — worship of gods, twice-born (dvija — brāhmaṇas), teachers (guru), and the wise (prājña). "Śaucam" — purity (bodily cleanliness, dietary discipline). "Ārjavam" — uprightness (physical posture, honest bearing). "Brahmacaryam" — celibacy/control of sexual energy. "Ahiṃsā" — non-harming (in physical action). These constitute tapas of the body — the discipline of physical conduct.
+wbw:
+  deva-dvija-guru-prājña | compound | gods, twice-born, teachers, and the wise
+  pūjanaṃ śaucam ārjavam | phrase | worship, purity, and uprightness
+  brahmacaryam ahiṃsā ca | phrase | celibacy and non-harming
+  śārīraṃ tapa ucyate | phrase | is called bodily austerity
+---
+# 17.15
+short: Speech that causes no distress, truthful, pleasant, and beneficial — and the practice of Vedic recitation — is called austerity of speech.
+long: "Anudvega-karaṃ vākyaṃ satyaṃ priya-hitaṃ ca yat / svādhyāyābhyasanaṃ caiva vāṅ-mayaṃ tapa ucyate." Vāṅmaya tapas (austerity of speech): "anudvega-karam" — not causing distress/anxiety to others. "Satyam" — truthful. "Priya-hitam" — pleasant (priya) and beneficial (hita). These three qualities together are essential: truth without harshness (beneficial and pleasant), pleasantness without falsehood (truthful), benefit without unpleasantness (pleasant). "Svādhyāyābhyasanam" — the regular practice of Vedic recitation/scripture study. Together these constitute tapas of speech.
+wbw:
+  anudvega-karaṃ vākyam | phrase | speech that causes no distress
+  satyaṃ priya-hitaṃ ca yat | phrase | which is truthful, pleasant, and beneficial
+  svādhyāyābhyasanaṃ caiva | phrase | and also the practice of scripture study
+  vāṅ-mayaṃ tapa ucyate | phrase | is called austerity of speech
+---
+# 17.16
+short: Serenity of mind, benevolence, silence, self-control, purity of inner being — this is called mental austerity.
+long: "Manaḥ-prasādaḥ saumyatvaṃ maunam ātma-vinigrahaḥ / bhāva-saṃśuddhir ity etat tapo mānasam ucyate." Mānasa tapas (mental austerity): "manaḥ-prasādaḥ" — serenity/cheerfulness of mind (prasāda — clarity, unclouded state). "Saumyatvaṃ" — benevolence/gentleness (quality of being moon-like — cool, kind). "Maunam" — silence (not just of speech but inner quietude, not-commenting). "Ātma-vinigrahaḥ" — self-control (restraint of the inner faculty). "Bhāva-saṃśuddhiḥ" — purity of inner being/intention (bhāva — the feeling-tone, the motivation). Together these constitute the discipline of the inner life.
+wbw:
+  manaḥ-prasādaḥ saumyatvam | phrase | serenity of mind, benevolence
+  maunam ātma-vinigrahaḥ | phrase | silence and self-control
+  bhāva-saṃśuddhir ity etat | phrase | purity of inner being — this
+  tapo mānasam ucyate | phrase | is called mental austerity
+---
+# 17.17
+short: This threefold austerity, practiced with highest faith — by those not desiring fruit, the steadfast ones — is called sattvic.
+long: "Śraddhayā parayā taptaṃ tapas tat tri-vidhaṃ naraiḥ / aphalākāṅkṣibhir yuktaiḥ sāttvikaṃ paricakṣate." "Śraddhayā parayā taptam" — practiced with highest (parā) faith. "Tat tri-vidham" — that threefold (tapas — bodily, vocal, mental). "Naraiḥ aphalākāṅkṣibhiḥ" — by people not desiring fruit. "Yuktaiḥ" — the steadfast/disciplined ones. "Sāttvikaṃ paricakṣate" — is called sattvic. The three forms of tapas (body/speech/mind) combined with fruit-less motivation and genuine faith = sattvic austerity.
+wbw:
+  śraddhayā parayā taptam | phrase | practiced with highest faith
+  tapas tat tri-vidhaṃ naraiḥ | phrase | that threefold austerity, by people
+  aphalākāṅkṣibhir yuktaiḥ | phrase | not desiring fruit, by the steadfast
+  sāttvikaṃ paricakṣate | phrase | is called sattvic
+---
+# 17.18
+short: Austerity that is practiced with hypocrisy, for the sake of honor, respect, and reverence — here in the world — that is said to be rajasic, unstable and impermanent.
+long: "Satkāra-māna-pūjārthaṃ tapo dambhena caiva yat / kriyate tad iha proktaṃ rājasaṃ calam adhruvam." "Satkāra-māna-pūjārtham" — for the sake of (artham) honor (satkāra), respect (māna), and reverence/worship (pūjā). "Dambhena" — with hypocrisy/show. "Kriyate" — is practiced. "Tad iha proktam" — that is said here. "Rājasaṃ calam adhruvam" — rajasic, unstable (cala — moving/wavering), and impermanent (adhruvam). Rajasic tapas is socially motivated — done for prestige — and therefore cannot be stable, because social recognition is inherently variable.
+wbw:
+  satkāra-māna-pūjārtham | phrase | for the sake of honor, respect, and reverence
+  tapo dambhena caiva yat | phrase | austerity with hypocrisy also
+  kriyate tad iha proktam | phrase | practiced — that is said here
+  rājasaṃ calam adhruvam | phrase | to be rajasic, unstable, and impermanent
+---
+# 17.19
+short: Austerity that is practiced with deluded conviction — by torturing oneself, or for the purpose of destroying another — that is declared tamasic.
+long: "Mūḍha-grāheṇātmano yat pīḍayā kriyate tapaḥ / parasyotsādanārthaṃ vā tat tāmasam udāhṛtam." "Mūḍha-grāheṇa" — with deluded conviction/grip (the stubborn foolish persistence that won't question its own practice). "Ātmanaḥ yat pīḍayā kriyate" — practiced with torturing of oneself. "Parasyotsādanārtham vā" — or for the purpose of destroying (utsādana — uprooting/destruction) another. "Tat tāmasam udāhṛtam" — that is declared tamasic. Tamasic tapas destroys — either the self through harmful asceticism, or others through hostile intent.
+wbw:
+  mūḍha-grāheṇātmano yat | phrase | with deluded conviction, of oneself
+  pīḍayā kriyate tapaḥ | phrase | austerity that is practiced with torturing
+  parasyotsādanārthaṃ vā | phrase | or for the purpose of destroying another
+  tat tāmasam udāhṛtam | phrase | that is declared tamasic
+---
+# 17.20
+short: Giving that is given as a matter of duty — to one who will not return it, at the proper place, time, and to a worthy recipient — that is held to be sattvic.
+long: "Dātavyam iti yad dānaṃ dīyate'nupakāriṇe / deśe kāle ca pātre ca tad dānaṃ sāttvikaṃ smṛtam." "Dātavyam iti" — "this must be given" (sense of duty — the same yaṣṭavyam pattern from 17.11's sattvic sacrifice). "Yad dānaṃ dīyate'nupakāriṇe" — giving that is given to one who will not (or cannot) return the favor (anupakārin — not returning benefit). "Deśe kāle ca pātre ca" — at the proper place (deśa), time (kāla), and to a worthy recipient (pātra — literally, a vessel worthy of receiving). "Sāttvikaṃ smṛtam" — remembered/held as sattvic.
+wbw:
+  dātavyam iti yad dānam | phrase | giving given as "this must be given"
+  dīyate'nupakāriṇe | phrase | given to one who will not return it
+  deśe kāle ca pātre ca | phrase | at proper place, time, and to a worthy recipient
+  tad dānaṃ sāttvikaṃ smṛtam | phrase | that giving is held to be sattvic
+---
+# 17.21
+short: But giving that is given with expectation of return, or again with a view to fruit, or unwillingly — that is held to be rajasic.
+long: "Yat tu pratyupakārārthaṃ phalam uddiśya vā punaḥ / dīyate ca parikliṣṭaṃ tad dānaṃ rājasaṃ smṛtam." "Pratyupakārārtham" — with the purpose of getting something back (counter-benefit). "Phalam uddiśya vā punaḥ" — or aiming at a result/reward. "Dīyate ca parikliṣṭam" — and given with reluctance/suffering (parikliṣṭa — troubled, distressed at giving). "Tad dānaṃ rājasaṃ smṛtam" — that giving is held to be rajasic. Three rajasic modes: giving for reciprocity, giving for results, and giving grudgingly. All are conditional.
+wbw:
+  yat tu pratyupakārārtham | phrase | but giving for the sake of reciprocity
+  phalam uddiśya vā punaḥ | phrase | or again aiming at a fruit/result
+  dīyate ca parikliṣṭam | phrase | and given grudgingly/with distress
+  tad dānaṃ rājasaṃ smṛtam | phrase | that giving is held to be rajasic
+---
+# 17.22
+short: Giving that is given at the wrong place and time, to an unworthy recipient — without respect, or with contempt — is declared tamasic.
+long: "Adeśe-kāle yad dānam apātrebhyaś ca dīyate / asatkṛtam avajñātaṃ tat tāmasam udāhṛtam." "Adeśe kāle" — at the wrong place and time (inverting the sattvic formula). "Apātrebhyaḥ" — to unworthy recipients (apātra — literally, vessels not worthy of receiving — those who will misuse what is given). "Ca dīyate" — is given. "Asatkṛtam" — without proper respect (not given with honor). "Avajñātam" — with contempt/disrespect. "Tat tāmasam udāhṛtam" — that is declared tamasic. Tamasic giving is careless, disrespectful, and directed inappropriately.
+wbw:
+  adeśe-kāle yad dānam | phrase | giving at wrong place and time
+  apātrebhyaś ca dīyate | phrase | and given to unworthy recipients
+  asatkṛtam avajñātam | phrase | without respect, with contempt
+  tat tāmasam udāhṛtam | phrase | that is declared tamasic
+---
+# 17.23
+short: "Oṃ Tat Sat" — this has been declared the threefold designation of Brahman. By this were ordained of old the brahmins, the Vedas, and sacrifices.
+long: "Oṃ tat sad iti nirdeśo brahmaṇas tri-vidhaḥ smṛtaḥ / brāhmaṇās tena vedāś ca yajñāś ca vihitāḥ purā." The chapter introduces "Oṃ Tat Sat" as the triple designation (tri-vidha nirdeśa) of Brahman. Oṃ (the primal sound, the affirmation of Being), Tat (That — the transcendent beyond name), Sat (Being/Truth/Existence — the real). "By this were ordained of old" — at the founding of the tradition, these three names were sanctified into the Vedas, brāhmaṇas, and sacrifices. They are used ritually to consecrate actions.
+wbw:
+  oṃ tat sad iti nirdeśaḥ | phrase | "Oṃ Tat Sat" is the designation
+  brahmaṇas tri-vidhaḥ smṛtaḥ | phrase | of Brahman, declared threefold
+  brāhmaṇās tena vedāś ca | phrase | by this were ordained the brahmins and Vedas
+  yajñāś ca vihitāḥ purā | phrase | and sacrifices, ordained of old
+---
+# 17.24
+short: Therefore, with "Oṃ," acts of sacrifice, giving, and austerity — as prescribed in the scriptures — are always begun by those who expound Brahman.
+long: "Tasmād oṃ ity udāhṛtya yajña-dāna-tapaḥ-kriyāḥ / pravartante vidhānoktāḥ satataṃ brahma-vādinām." "Tasmād oṃ ity udāhṛtya" — therefore, with (the sound) "Oṃ" uttered/invoked. "Yajña-dāna-tapaḥ-kriyāḥ" — acts of sacrifice, giving, and austerity. "Pravartante vidhānoktāḥ" — as prescribed in the ordinances. "Satataṃ brahma-vādinām" — always, by those who expound/speak of Brahman (brahma-vādins — the followers/teachers of the Vedic tradition). The practical ritual use of "Oṃ": to begin all three major categories of religious action.
+wbw:
+  tasmād oṃ ity udāhṛtya | phrase | therefore, with "Oṃ" uttered
+  yajña-dāna-tapaḥ-kriyāḥ | compound | acts of sacrifice, giving, and austerity
+  pravartante vidhānoktāḥ | phrase | begin, as prescribed in the ordinances
+  satataṃ brahma-vādinām | phrase | always, by those who expound Brahman
+---
+# 17.25
+short: With "Tat" — without aiming at fruit — acts of sacrifice and austerity and various acts of giving are performed by those seeking liberation.
+long: "Tad ity anabhisaṃdhāya phalaṃ yajña-tapaḥ-kriyāḥ / dāna-kriyāś ca vividhāḥ kriyante mokṣa-kāṅkṣibhiḥ." "Tad iti" — with (the word/intention) "Tat" (That — the transcendent). "Anabhisaṃdhāya phalam" — without aiming at fruit (the same as aphalākāṅkṣin). "Yajña-tapaḥ-kriyāḥ" — acts of sacrifice and austerity. "Dāna-kriyāś ca vividhāḥ" — and various acts of giving. "Kriyante mokṣa-kāṅkṣibhiḥ" — performed by those who desire liberation (mokṣa-kāṅkṣin). "Tat" is the word of offering-to-the-transcendent: when action is done in the name of "That," it transcends personal motivation.
+wbw:
+  tad ity anabhisaṃdhāya | phrase | with "Tat," without aiming at
+  phalaṃ yajña-tapaḥ-kriyāḥ | phrase | fruit, acts of sacrifice and austerity
+  dāna-kriyāś ca vividhāḥ | phrase | and various acts of giving
+  kriyante mokṣa-kāṅkṣibhiḥ | phrase | performed by those seeking liberation
+---
+# 17.26
+short: "Sat" is used in the sense of being/existence and in the sense of goodness. And "Sat" is also used, O Pārtha, for an auspicious act.
+long: "Sad-bhāve sādhu-bhāve ca sad ity etat prayujyate / praśaste karmaṇi tathā sac-chabdaḥ pārtha yujyate." "Sad-bhāve" — in the sense of existence/being (sat-bhāva — the state of being, the existent). "Sādhu-bhāve ca" — and in the sense of goodness/excellence (sādhu — good, right, worthy). "Sat ity etat prayujyate" — "Sat" is used in these senses. "Praśaste karmaṇi tathā" — and also for an auspicious/worthy action (praśasta — praised, excellent). "Sac-chabdaḥ pārtha yujyate" — the word "Sat" is applied, O Pārtha. "Sat" has this triple reference: Being, Goodness, and Auspiciousness.
+wbw:
+  sad-bhāve sādhu-bhāve ca | phrase | in the sense of being and in the sense of goodness
+  sad ity etat prayujyate | phrase | "Sat" is used in this way
+  praśaste karmaṇi tathā | phrase | and also for an auspicious action
+  sac-chabdaḥ pārtha yujyate | phrase | the word "Sat" is applied, O Pārtha
+---
+# 17.27
+short: And steadfastness in sacrifice, austerity, and giving is also called "Sat." And action for the sake of That is also called "Sat."
+long: "Yajñe tapasi dāne ca sthitiḥ sad iti cocyate / karma caiva tad-arthīyaṃ sad ity evābhidhīyate." "Yajñe tapasi dāne ca sthitiḥ" — steadfastness (sthiti — standing firm, being established) in sacrifice, austerity, and giving. "Sad iti cocyate" — is also called "Sat." "Karma caiva tad-arthīyam" — and action that is for the sake of That (tad-arthin — having That as its purpose/meaning). "Sad ity evābhidhīyate" — is indeed called "Sat." The word "Sat" thus encompasses: the act's object (the divine), the act's quality (goodness), and the steadfastness of practice.
+wbw:
+  yajñe tapasi dāne ca | phrase | in sacrifice, austerity, and giving
+  sthitiḥ sad iti cocyate | phrase | steadfastness is also called "Sat"
+  karma caiva tad-arthīyam | phrase | and action for the sake of That
+  sad ity evābhidhīyate | phrase | is indeed called "Sat"
+---
+# 17.28
+short: Whatever sacrifice, giving, and austerity is performed without faith, O Pārtha — it is called "Asat" — it is of no account here or hereafter.
+long: "Aśraddhayā hutaṃ dattaṃ tapas taptaṃ kṛtaṃ ca yat / asad ity ucyate pārtha na ca tat pretya no iha." "Aśraddhayā" — without faith (śraddhā). "Hutam" — offered (in sacrifice). "Dattam" — given. "Tapas taptam" — austerity practiced. "Kṛtaṃ ca yat" — and whatever is done. "Asad ity ucyate" — it is called "Asat" (non-existent, unreal, bad). "Na ca tat pretya no iha" — and that is of no account (na) hereafter (pretya — after death) nor here (iha — in this life). The conclusion: śraddhā is not optional. Without faith, every religious action — sacrifice, giving, tapas — is Asat, without value.
+wbw:
+  aśraddhayā hutaṃ dattam | phrase | offered and given without faith
+  tapas taptaṃ kṛtaṃ ca yat | phrase | austerity practiced and whatever done
+  asad ity ucyate pārtha | phrase | is called "Asat," O Pārtha
+  na ca tat pretya no iha | phrase | it is of no account hereafter or here
+---

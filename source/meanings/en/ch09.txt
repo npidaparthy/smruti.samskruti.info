@@ -1,0 +1,308 @@
+# 9.1
+short: The Lord says — I shall teach you this most secret teaching, for you are without envy (toward Me). Knowing this, you shall be freed from inauspiciousness.
+long: Chapter 9 is called "Rāja-vidyā Rāja-guhya Yoga" — the yoga of the sovereign knowledge and sovereign secret. Krishna addresses Arjuna as "anasūyave" — one without envy, without spite. The teaching can only be received by one who is open, not critical or suspicious. "Jñānaṃ vijñāna-sahitam" — knowledge with direct experience. This is the king among all knowledge, the most secret. Having it, "śubham aśnute" — one partakes of the auspicious. The chapter will climax with one of the Gita's greatest promises (9.22, 9.34).
+wbw:
+  idaṃ tu te guhyatamaṃ | phrase | this most secret thing, to you
+  pravakṣyāmy anasūyave | phrase | I shall speak, to the one without envy
+  jñānaṃ vijñāna-sahitam | phrase | knowledge together with experiential wisdom
+  yaj jñātvā mokṣyase'śubhāt | phrase | knowing which you shall be freed from inauspiciousness
+---
+# 9.2
+short: This is the sovereign knowledge, the sovereign secret — the supreme purifier, directly realizable, in accord with dharma, easy to practice, and imperishable.
+long: Seven qualities of this teaching: rāja-vidyā (sovereign knowledge — king among all knowledge), rāja-guhyam (sovereign secret), pavitram uttamam (supreme purifier), pratyakṣa-avagama (directly realizable — not inferred, but directly experienced), dharmyam (in accord with dharma), su-sukhaṃ kartum (very easy to practice), avyayam (imperishable). The accumulation of superlatives signals: this is the heart of the entire teaching. What is it? The direct experience of the divine in and through all things.
+wbw:
+  rāja-vidyā rāja-guhyaṃ | noun phrase | sovereign knowledge, sovereign secret
+  pavitram idam uttamam | phrase | this supreme purifier
+  pratyakṣāvagamaṃ dharmyaṃ | phrase | directly realizable, in accord with dharma
+  su-sukhaṃ kartum avyayam | phrase | very easy to practice, imperishable
+---
+# 9.3
+short: O chastiser of foes, those who have no faith in this dharma do not attain Me and return to the path of death and rebirth.
+long: The shadow-side of 9.2: those without śraddhā (faith, trust) in this teaching — "asraddadhānāḥ" — do not attain Krishna and return to "mṛtyu-saṃsāra-vartma" — the path of death and transmigration. Faith here is not blind belief but an orientation of trust and openness that makes reception possible. Without it, the teaching passes through but doesn't take root. Śraddhā is the soil; knowledge is the seed.
+wbw:
+  aśraddadhānāḥ puruṣāḥ | phrase | humans who lack faith
+  dharmasyāsya | genitive | in this dharma
+  parantapa | vocative | O chastiser of foes
+  aprāpya māṃ nivartante | phrase | not attaining Me, they return
+  mṛtyu-saṃsāra-vartmani | locative | on the path of death and transmigration
+---
+# 9.4
+short: By Me — unmanifest in form — all this universe is pervaded. All beings abide in Me; I do not abide in them.
+long: "Mayā tatam idaṃ sarvaṃ jagad avyakta-mūrtinā" — by Me, in My unmanifest form, all this world is pervaded. Then the paradox: "mat-sthāni sarva-bhūtāni na cāhaṃ teṣv avasthitaḥ" — all beings abide in Me; I do not abide in them. How? The divine permeates all, yet is not contained by any. All of space is in awareness; awareness is not in any particular space. This is the principle of immanence-without-limitation — the divine holds all without being reduced to any.
+wbw:
+  mayā tatam idaṃ sarvaṃ | phrase | by Me this entire (universe) is pervaded
+  jagad avyakta-mūrtinā | phrase | the world, in My unmanifest form
+  matsthāni sarva-bhūtāni | phrase | all beings abide in Me
+  na cāham teṣv avasthitaḥ | phrase | and I do not abide in them
+---
+# 9.5
+short: And yet beings do not abide in Me — behold My divine yoga! My self bears beings, yet does not abide in beings, yet is the cause of beings.
+long: The paradox deepens: even saying "beings abide in Me" doesn't capture it fully — "na ca mat-sthāni bhūtāni" — not even that. "Paśya me yogam aiśvaram" — behold My divine yoga (power). "Mama ātmā bhūta-bhāvanaḥ" — My self is the cause/sustainer of beings, "na ca bhūta-sthaḥ" — yet does not dwell in beings. The divine is not spatial — it sustains without occupying. A dream doesn't dwell inside the dreamer even though the dreamer is the cause and sustainer of the dream.
+wbw:
+  na ca matsthāni bhūtāni | phrase | and yet beings do not abide in Me (either)
+  paśya me yogam aiśvaram | imperative phrase | behold My divine yoga/power
+  bhūta-bhṛt na ca bhūta-sthaḥ | phrase | supporting beings yet not dwelling in beings
+  mama ātmā bhūta-bhāvanaḥ | phrase | My self is the cause/sustainer of beings
+---
+# 9.6
+short: As the mighty wind, always moving, rests in space — know that all beings similarly rest in Me.
+long: A clarifying image: "yathā ākāśa-sthito nityaṃ vāyuḥ sarvatra-go mahān" — as the mighty wind, moving everywhere, rests in space. "Tathā sarvāṇi bhūtāni mat-sthānīty upadhāraya" — know that all beings rest in Me similarly. Wind moves through space; space doesn't move with the wind — yet wind cannot exist apart from space. Beings move through the divine; the divine doesn't follow their movements — yet beings cannot exist apart from the divine. Space pervades, holds, makes possible — without being affected.
+wbw:
+  yathā ākāśa-sthito nityaṃ | phrase | just as always resting in space
+  vāyuḥ sarvatra-go mahān | phrase | the mighty wind moving everywhere
+  tathā sarvāṇi bhūtāni | phrase | similarly all beings
+  mat-sthānīty upadhāraya | imperative phrase | rest in Me — understand thus
+---
+# 9.7
+short: All beings go into My nature at the end of a cycle (kalpa); at the beginning of the next cycle, I send them forth again.
+long: The rhythm of cosmic creation continues from ch.8. "Sarva-bhūtāni kaunteya prakṛtiṃ yānti māmikām / kalpa-kṣaye" — at the end of a cosmic cycle (kalpa), all beings go into My nature. "Kalpa-ādau visṛjāmy aham" — at the beginning of a cycle, I send them forth. Krishna is both the reservoir and the source of all being. This is neither birth nor death in the human sense — it is the rhythmic pulsation of manifestation. The divine breathes out a universe; breathes it back in; breathes again.
+wbw:
+  sarva-bhūtāni kaunteya | phrase | all beings, O Kaunteya
+  prakṛtiṃ yānti māmikām | phrase | go into My nature
+  kalpa-kṣaye | locative | at the end of a cosmic cycle
+  kalpa-ādau visṛjāmy aham | phrase | at the start of a cycle, I send them forth
+---
+# 9.8
+short: Presiding over My own nature (prakṛti), I send forth again and again this entire helpless multitude of beings — by the force of My nature.
+long: "Prakṛtiṃ svām avaṣṭabhya visṛjāmi punaḥ punaḥ" — presiding over My own nature, I project forth again and again. "Bhūta-grāmam imaṃ kṛtsnam avaśaṃ prakṛter vaśāt" — this entire multitude of beings, helpless (avaśam), by the force of My nature (prakṛter vaśāt). "Avaśam" — helpless — picks up from 8.19. The cosmic rhythm is not random; it is governed by Krishna through prakṛti. Yet the beings themselves have no choice about being born — the divine initiates, and beings participate involuntarily.
+wbw:
+  prakṛtiṃ svām avaṣṭabhya | participial phrase | presiding over My own nature
+  visṛjāmi punaḥ punaḥ | verb phrase | I send forth again and again
+  bhūta-grāmam imaṃ kṛtsnam | accusative phrase | this entire multitude of beings
+  avaśaṃ prakṛter vaśāt | phrase | helpless, by the force of nature
+---
+# 9.9
+short: And these actions do not bind Me, O Dhanañjaya — I remain seated as if indifferent, unattached in those actions.
+long: The creator is not attached to the creation: "na ca māṃ tāni karmāṇi nibadhnanti dhanañjaya" — those actions do not bind Me. "Udāsīna-vad āsīnam asaktaṃ teṣu karmasu" — seated as if indifferent (udāsīna), unattached (asakta). The divine creates without ego-investment in the creation. This is the supreme example of karma yoga — acting without being bound by action. Creation proceeds, is sustained, returns — and the Creator remains unchanged. This models for the individual yogi: act fully, remain detached.
+wbw:
+  na ca māṃ tāni karmāṇi | phrase | those actions do not bind Me
+  nibadhnanti dhanañjaya | verb phrase | bind, O Dhanañjaya
+  udāsīna-vad āsīnam | phrase | seated as if indifferent
+  asaktaṃ teṣu karmasu | phrase | unattached in those actions
+---
+# 9.10
+short: O Kaunteya, with Me as overseer, nature (prakṛti) produces the moving and the unmoving — thus the world turns.
+long: "Mayādhyakṣeṇa prakṛtiḥ sūyate sa-carācaram / hetunānena kaunteya jagad viparivartate." With Me as the supervisor (adhyakṣa), nature (prakṛti) produces the moving (cara — animals, humans) and the unmoving (acara — plants, stones). By this cause (hetunā), the world revolves. The divine is not a micromanager — the divine is the backdrop presence against which all of nature's autonomous functioning occurs. Like a king whose mere presence governs a kingdom without direct intervention in every detail.
+wbw:
+  mayādhyakṣeṇa prakṛtiḥ | phrase | with Me as overseer, nature
+  sūyate sa-carācaram | verb phrase | produces the moving and unmoving
+  hetunānena kaunteya | phrase | by this cause, O Kaunteya
+  jagad viparivartate | verb phrase | the world revolves
+---
+# 9.11
+short: Fools disregard Me when I take human form, not knowing My supreme nature as the great Lord of beings.
+long: The misunderstanding of divine incarnation: "avajānanti māṃ mūḍhā mānuṣīṃ tanum āśritam" — the foolish disregard Me when I assume a human form. "Paraṃ bhāvam ajānanto mama bhūta-maheśvaram" — not knowing My supreme nature as the great Lord of beings. Seeing the human Krishna, people project only human limitations. The form is real, the divine nature in it is also real — and exceeds the form. This parallels 7.24: those who see only the manifest miss the unmanifest behind it.
+wbw:
+  avajānanti māṃ mūḍhāḥ | phrase | fools disregard Me
+  mānuṣīṃ tanum āśritam | phrase | when I take a human form
+  paraṃ bhāvam ajānantaḥ | participial phrase | not knowing My supreme nature
+  mama bhūta-maheśvaram | phrase | My (nature as) great Lord of beings
+---
+# 9.12
+short: Those of vain hopes, vain actions, vain knowledge, and senseless natures — they resort to the deluded, fiendish, and demonic nature.
+long: The consequence of 9.11 — what happens to those who disregard the divine in form? "Moghāśā mogha-karmāṇo mogha-jñānā vicetasaḥ" — vain hopes (mogha-āśāḥ), vain actions, vain knowledge, senseless. "Rākṣasīm āsurīṃ caiva prakṛtiṃ mohinīṃ śritāḥ" — they resort to the deluded, rākṣasic (fiendish), āsuric (demonic) nature. Without the center of the divine, all action, all knowledge, all hope becomes hollow — directed at nothing that can ultimately satisfy.
+wbw:
+  moghāśā mogha-karmāṇaḥ | phrase | vain hopes, vain actions
+  mogha-jñānā vicetasaḥ | phrase | vain knowledge, senseless
+  rākṣasīm āsurīṃ caiva | phrase | rākṣasic and āsuric
+  prakṛtiṃ mohinīṃ śritāḥ | phrase | the deluding nature they have resorted to
+---
+# 9.13
+short: But the great souls, O Pārtha, having resorted to My divine nature, worship Me with undivided mind, knowing Me as the imperishable origin of beings.
+long: In contrast to 9.11-12, the mahātmās: "mahātmānas tu māṃ pārtha daivīṃ prakṛtim āśritāḥ" — the great souls resort to My divine nature. "Bhajanty ananya-manaso jñātvā bhūtādim avyayam" — they worship with undivided mind (ananya-manas), knowing Me as the imperishable (avyaya) origin (ādi) of beings. Great souls are not necessarily those with vast power — those who see the divine in what others dismiss. Their minds are not divided between the divine and other pursuits.
+wbw:
+  mahātmānas tu māṃ pārtha | phrase | but the great souls, O Pārtha
+  daivīṃ prakṛtim āśritāḥ | phrase | having resorted to My divine nature
+  bhajanty ananya-manasaḥ | phrase | worship with undivided mind
+  jñātvā bhūtādim avyayam | participial phrase | knowing Me as the imperishable origin of beings
+---
+# 9.14
+short: Always glorifying Me and striving with firm resolve, bowing down to Me in devotion — they worship Me, ever disciplined.
+long: The activities of the mahātmās: "satataṃ kīrtayanto māṃ yatantaś ca dṛḍha-vratāḥ" — always glorifying Me (kīrtana), striving with firm resolve (dṛḍha-vrata). "Namasyantaś ca māṃ bhaktyā nitya-yuktā upāsate" — bowing in devotion, ever-disciplined, they worship Me. The practices are continuous (satatam), devotional (bhaktyā), and disciplined (nitya-yuktāḥ). This is bhakti-yoga in its classical form: praise, effort, reverence, constancy. The great soul's life is organized around the divine center.
+wbw:
+  satataṃ kīrtayanto māṃ | phrase | always glorifying Me
+  yatantaś ca dṛḍha-vratāḥ | phrase | striving with firm resolve
+  namasyantaś ca māṃ bhaktyā | phrase | and bowing to Me with devotion
+  nitya-yuktā upāsate | phrase | ever-disciplined, they worship
+---
+# 9.15
+short: Others, by the yajna of knowledge, worship Me as the One and as the Manifold — facing all sides, as the universal form.
+long: The diversity of modes of worship: "jñāna-yajñena cāpy anye yajanto mām upāsate" — some, by the yajna (sacrifice/offering) of knowledge, worship Me. Three modes: "ekatvena" (as the One — non-dual); "pṛthaktvena" (as the Manifold — diverse manifestations); "bahudhā viśvato-mukham" (in many ways, the universal form — viśvarūpa, facing all directions). All three are valid worship. Monotheism, pantheism, panentheism — all point at the same reality from different angles.
+wbw:
+  jñāna-yajñena cāpy anye | phrase | and others by the yajna of knowledge
+  yajanto māṃ upāsate | verb phrase | worshipping Me, they worship
+  ekatvena pṛthaktvena | instrumental pair | as the One, as the Manifold
+  bahudhā viśvato-mukham | phrase | in many ways, universal-faced
+---
+# 9.16
+short: I am the ritual (kratu), I am the sacrifice (yajna), I am the offering, I am the herb, I am the mantra, I am also the ghee, I am the fire, and I am the oblation.
+long: The divine as every element of sacred ritual: kratu (Vedic ritual), yajna (sacrifice), svadhā (offering to ancestors), auṣadham (herbs used in ritual), mantram (sacred formula), ājyam (ghee, clarified butter), agni (fire), hutam (oblation). Krishna is not just the goal of worship but every component of the worship itself. Worshipping with full awareness means seeing the divine in the fire, the ghee, the mantra, the priest, the offerer — not just the deity being addressed.
+wbw:
+  aham kraturaham yajñaḥ | phrase | I am the ritual, I am the sacrifice
+  svadhāham aham auṣadham | phrase | I am the offering (to ancestors), I am the herb
+  mantro'ham aham evājyam | phrase | I am the mantra, I am the ghee
+  aham agnir ahaṃ hutam | phrase | I am the fire, I am the oblation
+---
+# 9.17
+short: I am the father of this world, the mother, the sustainer, the grandfather; I am what is to be known, the purifier, the syllable OM, and also the Ṛg, Sāma, and Yajur Vedas.
+long: The divine as every relationship and every sacred text. Pitā — father (source), mātā — mother (nurturer), dhātā — sustainer, pitāmaha — grandfather (primal origin). Then the epistemic: vedyam (what is to be known), pavitram (the purifier), oṃkāra (the primal syllable), and all three ancient Vedas. Krishna is simultaneously the source of all being (father/mother), the context of all learning (Vedas), and the goal of all learning (vedyam). The knower, the known, and the knowing are all Krishna.
+wbw:
+  pitāham asya jagato | phrase | I am the father of this world
+  mātā dhātā pitāmahaḥ | phrase | mother, sustainer, grandfather
+  vedyaṃ pavitram oṃkāra | phrase | what is to be known, purifier, OM
+  ṛk sāma yajur eva ca | phrase | and also Ṛg, Sāma, Yajur (Vedas)
+---
+# 9.18
+short: I am the goal, the sustainer, the lord, the witness, the abode, the refuge, the friend, the origin, the dissolution, the ground, the treasure-store, and the imperishable seed.
+long: Twelve relationships in one verse — the most comprehensive list in the Gita: gati (goal/destination), bhartā (sustainer), prabhu (lord), sākṣī (witness), nivāsa (abode), śaraṇa (refuge), suhṛt (friend, without expectation of return), prabhava (origin), pralaya (dissolution), sthāna (ground/foundation), nidhāna (treasure-house), bījam avyayam (the imperishable seed). From origin to dissolution, from outer to inner, from cosmic to intimate — all these relationships point to Krishna.
+wbw:
+  gatiḥ bhartā prabhuḥ sākṣī | nominative series | goal, sustainer, lord, witness
+  nivāsaḥ śaraṇaṃ suhṛt | nominative series | abode, refuge, friend
+  prabhavaḥ pralayaḥ sthānaṃ | nominative series | origin, dissolution, ground
+  nidhānaṃ bījam avyayam | nominative phrase | treasure-house, imperishable seed
+---
+# 9.19
+short: I give heat; I withhold and send forth the rain; I am immortality and also death; I am being and also non-being, O Arjuna.
+long: The divine as the controller of natural forces: "tapāmy aham" — I give heat (as the sun). "Gṛhṇāmy utsṛjāmi ca" — I withhold and send forth rain. Then the transcendent: "amṛtam caiva mṛtyuś ca" — I am both immortality and death. "Sad asac cāham arjuna" — I am both being (sat) and non-being (asat). The divine includes all opposites, transcends all opposites. Life and death, existence and non-existence — all within one reality. This is the most complete expression of non-dual vision.
+wbw:
+  tapāmy aham | phrase | I give heat, I radiate
+  varṣaṃ nigṛhṇāmy utsṛjāmi ca | phrase | I withhold and send forth rain
+  amṛtaṃ caiva mṛtyuś ca | phrase | and immortality and also death
+  sad asac cāham arjuna | phrase | and being and non-being, O Arjuna
+---
+# 9.20
+short: The knowers of the three Vedas, the soma-drinkers, purified of sin, worshipping Me with sacrifices — they pray for heaven and reach the world of Indra, enjoying divine pleasures.
+long: Those who follow the Vedic ritual path: "trai-vidyā māṃ soma-pāḥ pūta-pāpāḥ" — knowers of the three Vedas, soma-drinkers (participators in the soma ritual), purified of sin. "Yajñair iṣṭvā svar-gatiṃ prārthayante" — they worship with sacrifices, praying for the heavenly worlds. "Prayāti sura-indra-lokam āśnanti divyān" — they reach the realm of Indra (heaven) and enjoy divine pleasures. Vedic ritual produces heavenly rewards. But — as 9.21 will show — these rewards are finite.
+wbw:
+  trai-vidyā māṃ soma-pāḥ pūta-pāpāḥ | phrase | knowers of three Vedas, soma-drinkers, purified
+  yajñair iṣṭvā svar-gatiṃ prārthayante | phrase | worshipping with sacrifices, they pray for heaven
+  te puṇyam āsādya sura-indra-lokam | phrase | having attained the meritorious realm of Indra
+  āśnanti divyān divi deva-bhogān | phrase | they enjoy divine pleasures in heaven
+---
+# 9.21
+short: Having enjoyed that vast heaven, when their merit is exhausted they enter the mortal world again. Thus, following the dharma of the three Vedas and craving pleasure — they come and go.
+long: "Te taṃ bhuktvā svarga-lokaṃ viśālaṃ kṣīṇe puṇye martya-lokaṃ viśanti" — having enjoyed that expansive heaven, when merit (puṇya) is exhausted, they enter the mortal world again. "Evaṃ trayī-dharmam anuprapannā gatāgataṃ kāma-kāmā labhante" — following the Vedic dharma, craving pleasure (kāma-kāmā), they obtain the state of coming and going. The contrast with 8.21 is stark: those who reach Krishna don't return; those who reach heaven do. The difference is the direction of desire — toward the finite or toward the infinite.
+wbw:
+  te taṃ bhuktvā svarga-lokaṃ viśālaṃ | phrase | having enjoyed that expansive heaven
+  kṣīṇe puṇye martya-lokaṃ viśanti | phrase | when merit is exhausted, they enter mortal world
+  evaṃ trayī-dharmam anuprapannāḥ | phrase | following the Vedic threefold dharma thus
+  gatāgataṃ kāma-kāmā labhante | phrase | craving pleasure, they obtain the state of coming and going
+---
+# 9.22
+short: Those who worship Me thinking of none other, who are ever disciplined — I carry what they lack and secure what they have.
+long: One of the Gita's most beloved promises: "ananyāś cintayanto māṃ ye janāḥ paryupāsate / teṣāṃ nityābhiyuktānāṃ yoga-kṣemaṃ vahāmy aham." Those who think of none but Me (ananyāḥ), ever disciplined (nityābhiyuktānām) — "yoga-kṣemaṃ vahāmy aham" — I carry their yoga (what they lack, their acquisition) and kṣema (what they have, their security). Krishna becomes the personal divine protector — not passive enabler but active bearer of the devotee's welfare. This is grace: the divine takes responsibility for the devotee's path.
+wbw:
+  ananyāś cintayanto māṃ | phrase | those who think of none but Me
+  ye janāḥ paryupāsate | phrase | whatever people worship (Me) completely
+  teṣāṃ nityābhiyuktānāṃ | genitive phrase | of those ever disciplined
+  yoga-kṣemaṃ vahāmy aham | phrase | I carry their yoga and kṣema (acquisition and security)
+---
+# 9.23
+short: Even those who are devotees of other gods and worship with faith — they also worship Me, O Kaunteya, though not by the prescribed method.
+long: "Ye'py anya-devatā-bhaktā yajante śraddhayānvitāḥ / te'pi mām eva kaunteya yajanty avidhipūrvakam." Those who worship other devas with faith — they also worship Me, though "avidhipūrvakam" — not in the prescribed manner (not with the direct awareness of the ultimate source). Not wrong — but indirect, partial. All sincere worship reaches Krishna because Krishna is the ground of all deities. But the "avidhi" (not-prescribed) mode misses the completeness of knowing who/what is ultimately being worshipped.
+wbw:
+  ye'py anya-devatā-bhaktāḥ | phrase | even those who are devotees of other deities
+  yajante śraddhayānvitāḥ | phrase | worship with faith
+  te'pi mām eva kaunteya | phrase | they also (worship) Me alone, O Kaunteya
+  yajanty avidhipūrvakam | phrase | they worship, though not in the prescribed manner
+---
+# 9.24
+short: For I am the enjoyer of all sacrifices, and also their lord. But they do not know Me in truth — hence they fall.
+long: "Ahaṃ hi sarva-yajñānāṃ bhoktā ca prabhur eva ca / na tu mām abhijānanti tattvena" — I am the enjoyer of all sacrifices, the lord of all sacrifices. "Na tu mām abhijānanti tattvena" — but they don't know Me in truth (tattvena). "Atach cyavanti" — hence they fall (fail to reach the highest). Knowing the form without the substance leads to limited results. Offering to Indra reaches Indra's realm. Offering to Krishna — the source behind all devas — reaches the ultimate. The difference is understanding, not effort.
+wbw:
+  ahaṃ hi sarva-yajñānāṃ | phrase | I am indeed of all sacrifices
+  bhoktā ca prabhur eva ca | phrase | both the enjoyer and the lord
+  na tu mām abhijānanti tattvena | phrase | but they do not know Me in truth
+  ataś cyavanti te | phrase | hence they fall (miss the highest)
+---
+# 9.25
+short: Those who worship the devas go to the devas; those who worship the ancestors go to the ancestors; those who worship spirits go to spirits; those who worship Me come to Me.
+long: "Yānti deva-vratā devān pitṝn yānti pitṛ-vratāḥ / bhūtāni yānti bhūtejyā yānti mad-yājino'pi mām." The destination matches the direction of devotion. Deva-worshippers → devas. Ancestor-worshippers → ancestors. Spirit-worshippers → spirits. My worshippers → Me. The principle: you become what you devote yourself to; you go where your love goes. Not a punishment — a natural correspondence. The last phrase: "mad-yājino'pi mām" — emphasizes that the same effort, when directed at the ultimate, reaches the ultimate.
+wbw:
+  yānti deva-vratā devān | phrase | those vowed to the devas go to the devas
+  pitṝn yānti pitṛ-vratāḥ | phrase | those vowed to ancestors go to the ancestors
+  bhūtāni yānti bhūtejyāḥ | phrase | spirit-worshippers go to spirits
+  yānti mad-yājino'pi mām | phrase | My worshippers also come to Me
+---
+# 9.26
+short: Whoever offers Me with devotion a leaf, flower, fruit, or water — I accept that offering of love from the pure-hearted one.
+long: The most accessible, most beloved verse in the Gita: "patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati / tad ahaṃ bhakty-upahṛtam aśnāmi prayatātmanaḥ." Leaf, flower, fruit, water — the simplest things. "Yo me bhaktyā prayacchati" — whoever offers it to Me with devotion (bhaktyā). "Tad ahaṃ bhakty-upahṛtam aśnāmi" — I accept that offering of love. "Prayatātmanaḥ" — from the pure-hearted one. The divine doesn't need elaborate ritual or expensive offerings. Devotion is the essential ingredient. Even a blade of grass, offered with love, reaches the infinite.
+wbw:
+  patraṃ puṣpaṃ phalaṃ toyaṃ | accusative series | leaf, flower, fruit, water
+  yo me bhaktyā prayacchati | relative phrase | whoever offers Me with devotion
+  tad ahaṃ bhakty-upahṛtam | phrase | that offering of love
+  aśnāmi prayatātmanaḥ | verb phrase | I accept, from the pure-hearted one
+---
+# 9.27
+short: O Kaunteya, whatever you do, whatever you eat, whatever you offer, whatever you give, whatever austerity you perform — do that as an offering to Me.
+long: "Yat karoṣi yad aśnāsi yaj juhoṣi dadāsi yat / yat tapasyasi kaunteya tat kuruṣva mad-arpaṇam." The principle of total karma-yoga: whatever you do (yat karoṣi), eat (yad aśnāsi), offer as sacrifice (yaj juhoṣi), give (dadāsi yat), perform as austerity (yat tapasyasi) — do that as an offering to Me (mad-arpaṇam). Every activity transformed into worship. Not just formal religious acts — eating, giving, practicing — all become sacred when done in the spirit of offering. The whole life becomes a continuous yajna.
+wbw:
+  yat karoṣi yad aśnāsi | phrase | whatever you do, whatever you eat
+  yaj juhoṣi dadāsi yat | phrase | whatever you offer, whatever you give
+  yat tapasyasi kaunteya | phrase | whatever austerity you perform, O Kaunteya
+  tat kuruṣva mad-arpaṇam | imperative phrase | do that as an offering to Me
+---
+# 9.28
+short: Thus freed from the bonds of action that yield good and evil results — with your self liberated through the yoga of renunciation — you shall come to Me.
+long: The result of 9.27: "śubhāśubha-phalair evaṃ mokṣyase karma-bandhanaiḥ" — thus freed from the bonds of action with good and evil results. "Sannyāsa-yoga-yukta-ātmā vimukto mām upaika-dhiyo yanti" — liberated self, through renunciation-yoga, with single focus — they come to Me. By offering all action to the divine, the actor is freed from the fruits of action. Not withdrawal from action but transformation of the relationship to action — from ownership to offering.
+wbw:
+  śubhāśubha-phalair evaṃ | phrase | thus from good and evil results
+  mokṣyase karma-bandhanaiḥ | phrase | you shall be freed from the bonds of action
+  sannyāsa-yoga-yukta-ātmā | phrase | with self united through renunciation-yoga
+  vimukto mām upaika-dhiyo yanti | phrase | liberated, with single focus, they come to Me
+---
+# 9.29
+short: I am the same toward all beings; there is no one hated or dear to Me. But those who worship Me with devotion are in Me, and I am also in them.
+long: "Samo'haṃ sarva-bhūteṣu na me dveṣyo'sti na priyaḥ" — I am the same toward all beings; none is hated by Me, none is specially dear. Then the apparent paradox: "ye bhajanti tu māṃ bhaktyā mayi te teṣu cāpy aham" — but those who worship Me with devotion are in Me, and I am in them. No contradiction: the divine doesn't play favorites — but the devotee's love creates a special intimacy. The ocean is equally accessible from all shores; those who swim in it experience it more fully.
+wbw:
+  samo'haṃ sarva-bhūteṣu | phrase | I am the same toward all beings
+  na me dveṣyo'sti na priyaḥ | phrase | none is hated by Me, none is dear
+  ye bhajanti tu māṃ bhaktyā | phrase | but those who worship Me with devotion
+  mayi te teṣu cāpy aham | phrase | they are in Me and I am in them
+---
+# 9.30
+short: Even if the most sinful person worships Me with undivided devotion, he is to be considered righteous — for he has resolved rightly.
+long: One of the most radical verses in the Gita: "api cet sudurācāro bhajate mām ananya-bhāk / sādhur eva sa mantavyaḥ" — even if the most evil-behaving person worships Me with undivided devotion, he should be considered righteous (sādhu). Why? "Samyag vyavasito hi saḥ" — for he has resolved rightly. The resolution (vyavasāya) toward the divine is itself the turning point. The past may be dark; the turning is what defines. This isn't license for sin — it's the declaration that grace is available at any moment to anyone who sincerely turns.
+wbw:
+  api cet sudurācāraḥ | phrase | even if the most evil-behaving
+  bhajate mām ananya-bhāk | phrase | worships Me with undivided devotion
+  sādhur eva sa mantavyaḥ | phrase | he is to be considered righteous
+  samyag vyavasito hi saḥ | phrase | for he has resolved rightly
+---
+# 9.31
+short: He quickly becomes a righteous soul and attains eternal peace. O Kaunteya, know for certain that My devotee never perishes.
+long: "Kṣipram bhavati dharmātmā śaśvac-chāntiṃ nigacchati" — quickly (kṣipram) he becomes a dharmātmā (righteous soul) and attains eternal (śāśvat) peace. "Kaunteya pratijānīhi na me bhaktaḥ praṇaśyati" — O Kaunteya, know for certain: My devotee never perishes. "Kṣipram" — quickly — signals that the transformation is not slow. And "pratijānīhi" — know for certain, as My promise — this is among the most solemn pledges in the Gita. The divine commits to the devotee's welfare absolutely.
+wbw:
+  kṣipraṃ bhavati dharmātmā | phrase | quickly he becomes a righteous soul
+  śaśvac-chāntiṃ nigacchati | phrase | attains eternal peace
+  kaunteya pratijānīhi | imperative phrase | O Kaunteya, know for certain
+  na me bhaktaḥ praṇaśyati | phrase | My devotee never perishes
+---
+# 9.32
+short: For those who take refuge in Me, O Pārtha — even those born of sinful wombs, women, vaiśyas, and śūdras — they also attain the supreme goal.
+long: "Māṃ hi pārtha vyapāśritya ye'pi syuḥ pāpa-yonayaḥ / striyo vaiśyās tathā śūdrās te'pi yānti parāṃ gatim." Taking refuge in Me — even those of "pāpa-yoni" (born of sinful wombs — marginalized, stigmatized by birth), women (in the context of that era's restrictions), vaiśyas (merchants), śūdras (laborers) — they also attain the supreme goal. The Gita's radical equality: spiritual liberation is not restricted by birth, gender, or social position. The only qualification is taking refuge in Krishna.
+wbw:
+  māṃ hi pārtha vyapāśritya | phrase | taking refuge in Me, O Pārtha
+  ye'pi syuḥ pāpa-yonayaḥ | phrase | even those who may be of sinful births
+  striyo vaiśyās tathā śūdrāḥ | phrase | women, vaiśyas, and śūdras
+  te'pi yānti parāṃ gatim | phrase | they also attain the supreme goal
+---
+# 9.33
+short: How much more then the holy brahmins and devoted royal sages! Having obtained this impermanent, joyless world — worship Me.
+long: "Kiṃ punar brāhmaṇāḥ puṇyā bhaktā rājarṣayas tathā" — how much more for the pure brahmins and devoted royal sages! If even the marginalized attain the highest, those already positioned for spiritual life certainly can. "Anityam asukhaṃ lokam imaṃ prāpya bhajasva mām" — having obtained this impermanent (anitya), joyless (asukha) world — worship Me. The world is not the goal; it is the opportunity. The impermanence and suffering of worldly life are not tragedies but invitations to orient toward what is permanent.
+wbw:
+  kiṃ punar brāhmaṇāḥ puṇyāḥ | rhetorical phrase | how much more holy brahmins
+  bhaktā rājarṣayas tathā | phrase | and devoted royal sages
+  anityam asukhaṃ lokam imaṃ | accusative phrase | this impermanent, joyless world
+  prāpya bhajasva mām | imperative phrase | having obtained it, worship Me
+---
+# 9.34
+short: Fix your mind on Me, be devoted to Me, worship Me, bow down to Me. Thus disciplined, you shall come to Me — I promise you truly, for you are dear to Me.
+long: The chapter's climax and one of the Gita's most personal, direct verses: "man-manā bhava mad-bhakto mad-yājī māṃ namaskuru / mām evaiṣyasi yuktvaivam ātmānaṃ mat-parāyaṇaḥ." Fix mind on Me (man-manā), be My devotee (mad-bhakta), worship Me (mad-yājī), bow to Me (māṃ namaskuru). "Thus disciplined, you shall come to Me" — the promise. "Satyaṃ te pratijāne" — I promise you truly. "Priyo'si me" — you are dear to Me. The divine speaks directly to Arjuna — and through Arjuna to every reader — as to a beloved friend.
+wbw:
+  man-manā bhava mad-bhakto | imperative phrase | fix mind on Me, be My devotee
+  mad-yājī māṃ namaskuru | imperative phrase | worship Me, bow down to Me
+  mām evaiṣyasi | phrase | you shall come to Me alone
+  yuktvaivam ātmānaṃ mat-parāyaṇaḥ | phrase | thus disciplined, with self directed to Me as the supreme
+  satyaṃ te pratijāne priyo'si me | phrase | I promise you truly, you are dear to Me
+---

@@ -1,0 +1,773 @@
+# 10.1
+short: Krishna asks Arjuna to again hear His supreme word — which He will speak for Arjuna's benefit out of love.
+long: Chapter 10 opens with an intimate note of love. Krishna addresses Arjuna as "mahābāho" (mighty-armed) — an honor — and as "prīyamāṇāya" (one dear to Me). This combination of power and love defines the ideal spiritual relationship: the student is both capable and beloved. The phrase "bhūya eva" (once again) signals that what follows is not entirely new but a deepening of the teaching already given. The repetition is not redundancy but the pedagogy of internalization.
+wbw:
+  bhūya | indeclinable | again, once more
+  eva | emphatic | indeed
+  mahābāho | vocative | O mighty-armed one
+  śṛṇu | 2nd sg. imperative | hear
+  me | genitive | My
+  vacaḥ | accusative | word, speech
+  paramaṃ | accusative | supreme, highest
+  yat | relative | which
+  te | dative | for you
+  aham | nominative | I
+  prīyamāṇāya | dative participle | for one who is dear to Me
+  vakṣyāmi | 1st sg. future | I will speak
+  hitakāmyayā | instrumental | out of desire for your benefit
+---
+# 10.2
+short: Neither gods nor great sages know My origin — for I am the origin of them all.
+long: This verse establishes a crucial asymmetry: the beings who are most revered in the cosmic hierarchy — the gods (devas) and the great sages (maharṣis) — are themselves products of the divine creative power. A product cannot fully know its cause by looking only at itself. The gods know many things, but they cannot know the source of their own existence by introspection or perception, because the Divine is beyond both. This is not a boast but a metaphysical statement about the structure of knowing.
+wbw:
+  na | negative | not
+  me | genitive | My
+  viduḥ | 3rd pl. perfect | they know
+  sura-gaṇāḥ | nominative pl. | hosts of gods, divine assemblies
+  prabhavam | accusative | origin, arising
+  na | negative | not
+  mahā-ṛṣayaḥ | nominative pl. | the great seers/sages
+  aham | nominative | I
+  ādiḥ | nominative | the origin, beginning
+  hi | emphatic | indeed, for
+  devānām | genitive pl. | of the gods
+  maharṣīṇām | genitive pl. | of the great sages
+  ca | conjunction | and
+  sarvaśaḥ | indeclinable | in all respects, completely
+---
+# 10.3
+short: He who knows Me as unborn, beginningless, and the great Lord of worlds — among mortals, he alone is undeluded and freed from all evils.
+long: The path to liberation begins with correct cognition — knowing what the Divine truly is. Most human conceptions of God carry the shape of human experience: a being who was born, who grew, who has a cause, who lives within time. To know Krishna as "aja" (unborn) and "anādi" (beginningless) is to see past all anthropomorphisms. He is not a temporal being but the ground of temporality itself. This knowledge is not merely theological — it is liberating ("sa asmāt sarva-pāpebhyo mokṣyate").
+wbw:
+  yaḥ | nominative | who
+  mām | accusative | Me
+  ajam | accusative | unborn
+  anādim | accusative | without beginning
+  ca | conjunction | and
+  vetti | 3rd sg. | knows
+  loka-maheśvaram | accusative compound | the great Lord of worlds
+  asammūḍhaḥ | nominative | undeluded, free from confusion
+  sa | nominative | he
+  martyeṣu | locative pl. | among mortals
+  sarva-pāpebhyaḥ | ablative pl. | from all evils, sins
+  mucyate | 3rd sg. passive | is freed
+---
+# 10.4
+short: Intelligence, knowledge, freedom from delusion, forbearance, truth, control of senses and mind, joy and sorrow, birth and death, fear and fearlessness —
+long: This and the next verse list twenty qualities that arise in beings — all of which flow from Krishna. The list bridges inner virtues (buddhi, jñāna, amoha) with outer circumstances (birth, death, fear, fearlessness). By placing subjective qualities like "joy and sorrow" alongside metaphysical realities like "birth and death," Krishna shows that nothing in experience — psychological or existential — falls outside the divine order. All qualities are divine gifts, even the ones that seem painful (fear, sorrow).
+wbw:
+  buddhiḥ | nominative | intelligence, discrimination
+  jñānam | nominative | knowledge
+  asammohaḥ | nominative | freedom from delusion
+  kṣamā | nominative | forbearance, patience
+  satyam | nominative | truth
+  damaḥ | nominative | control of the senses
+  śamaḥ | nominative | control of the mind
+  sukham | nominative | joy, happiness
+  duḥkham | nominative | sorrow, suffering
+  bhavaḥ | nominative | existence, birth
+  abhāvaḥ | nominative | non-existence, death
+  bhayam | nominative | fear
+  ca | conjunction | and
+  abhayam | nominative | fearlessness
+  eva | emphatic | indeed
+  ca | conjunction | and
+---
+# 10.5
+short: Non-violence, equanimity, contentment, austerity, charity, fame, and infamy — all these diverse qualities of beings arise from Me alone.
+long: The list continues with ethical qualities (ahiṃsā, samatā), inner states (santoṣa), spiritual practices (tapaḥ), social virtues (dānam), and social standing (kīrti, akīrti). The inclusion of "infamy" (akīrti) alongside "fame" (kīrti) is significant: even negative social states arise from the divine order. This does not excuse immoral behavior — rather, it invites a cosmic perspective that sees even unfavorable conditions as part of the divine unfolding, and frees one from the tyranny of other people's opinions.
+wbw:
+  ahiṃsā | nominative | non-violence
+  samatā | nominative | equanimity
+  tuṣṭiḥ | nominative | contentment, satisfaction
+  tapaḥ | nominative | austerity, discipline
+  dānam | nominative | charity, giving
+  yaśaḥ | nominative | fame, good repute
+  ca | conjunction | and
+  eva | emphatic | indeed
+  akīrtiḥ | nominative | infamy, disrepute
+  ca | conjunction | and
+  eva | emphatic | indeed
+  bhavanti | 3rd pl. | they arise, exist
+  bhāvāḥ | nominative pl. | qualities, states, conditions
+  bhūtānām | genitive pl. | of beings
+  mattaḥ | ablative | from Me
+  eva | emphatic | alone
+  pṛthag-vidhāḥ | nominative pl. | of various kinds
+---
+# 10.6
+short: The seven great sages and also the four Manus of old were born from My mind — from them all beings in the world were born.
+long: The cosmic genealogy is revealed: the seven primordial sages (Marīci, Atri, Aṅgiras, Pulaha, Kratu, Pulastya, Vasiṣṭha) and the four Manus (progenitors of human races in the four world-ages) all arose from Krishna's cosmic mind. They are not independent creative forces but expressions of divine intentionality. "Manasā jātāḥ" — born from Mind — suggests a creative process more like thought than physical generation. All of humanity traces its lineage, through the Manus, to this one divine creative impulse.
+wbw:
+  maharṣayaḥ | nominative pl. | the great sages
+  sapta | numeral | seven
+  pūrve | nominative pl. | the ancient ones, primeval
+  ca | conjunction | and
+  catvāraḥ | nominative | four
+  manavas | nominative pl. | the Manus
+  tathā | indeclinable | also, likewise
+  madbhāvā | nominative pl. compound | born of My being/intent
+  manasā | instrumental | from the mind, by thought
+  jātāḥ | nominative pl. | born, arisen
+  yeṣām | genitive pl. | of whom
+  loke | locative | in the world
+  imāḥ | nominative pl. | these
+  prajāḥ | nominative pl. | beings, offspring
+---
+# 10.7
+short: He who truly knows My manifestation and power — becomes established in unwavering union — of this there is no doubt.
+long: Knowledge of the divine vibhūti (cosmic manifestations) and yoga (power, capacity for creation) is not merely intellectual appreciation but a transformative realization. One who truly understands that the radiance of all beautiful and powerful things in creation is a ray of Krishna's glory — that person's meditation naturally becomes steady and unified. The doubt-free quality of this realization is significant: it is not tentative conviction but direct recognition.
+wbw:
+  etām | accusative | this
+  vibhūtim | accusative | manifestation, divine glory
+  yogam | accusative | yoga, divine power/capacity
+  ca | conjunction | and
+  mama | genitive | My
+  yaḥ | nominative | whoever
+  vetti | 3rd sg. | knows, understands
+  tattvataḥ | indeclinable | in truth, truly
+  so | nominative | he
+  avikampena | instrumental | by unwavering, steady
+  yogena | instrumental | by yoga, union
+  yujyate | 3rd sg. passive | becomes united, yoked
+  nātra | here, in this | in this there is
+  saṃśayaḥ | nominative | doubt
+---
+# 10.8
+short: I am the source of everything — from Me all proceeds — knowing this, the wise worship Me with devotion.
+long: This is one of the most direct theological statements in the Gita: "ahaṃ sarvasya prabhavo" — I am the source of all. Not merely a contributor to creation, not one cause among many, but the ultimate ground of all that exists. The response of the wise (buddhā) is not philosophical satisfaction but bhajana — devotional worship with a knowing heart (bhāva-samanvitāḥ, meaning not ritual alone but accompanied by inner feeling and understanding). Wisdom that does not flower into devotion is incomplete.
+wbw:
+  aham | nominative | I
+  sarvasya | genitive | of everything
+  prabhavaḥ | nominative | source, origin
+  mattaḥ | ablative | from Me
+  sarvam | nominative | everything
+  pravartate | 3rd sg. | proceeds, arises
+  iti | quotative | thus, knowing this
+  matvā | gerund | having understood
+  bhajante | 3rd pl. middle | they worship, adore
+  mām | accusative | Me
+  budhā | nominative pl. | the wise
+  bhāva-samanvitāḥ | nominative pl. compound | endowed with feeling/devotion
+---
+# 10.9
+short: Their minds fixed on Me, their lives surrendered to Me, enlightening each other, speaking of Me always — they are content and rejoice.
+long: A community of devotees is described here — not isolated individuals but a sangha (community) of practitioners who mutually strengthen one another's love for the Divine. "Kathayantaś ca māṃ nityam" — speaking of Me always — refers to kīrtana (devotional singing, storytelling about the Lord), satsaṅga (holy company), and pravacana (discourse). In such company, enlightenment is not a solitary achievement but a shared unfolding. Their contentment (tuṣyanti) and joy (ramanti) are the natural byproducts of their God-absorbed lives.
+wbw:
+  mac-cittāḥ | nominative pl. compound | those with minds fixed on Me
+  mad-gata-prāṇāḥ | nominative pl. compound | those with lives surrendered to Me
+  bodhayantaḥ | nominative pl. participle | enlightening, awakening
+  parasparam | each other | one another
+  kathayantaḥ | nominative pl. participle | speaking, narrating
+  ca | conjunction | and
+  mām | accusative | Me
+  nityam | indeclinable | always, constantly
+  tuṣyanti | 3rd pl. | are content, satisfied
+  ca | conjunction | and
+  ramanti | 3rd pl. | they rejoice, delight
+  ca | conjunction | and
+---
+# 10.10
+short: To those ever-devoted who worship Me with love, I give the yoga of discrimination by which they come to Me.
+long: The grace of the teacher is explicitly promised here. Buddhi-yoga — the yoga of discriminative intelligence — is a gift that flows between the devoted student and the divine Teacher. The phrase "dadāmi" (I give) emphasizes that this wisdom is not earned in the sense of a commercial transaction but is a gracious overflow from the Teacher's abundance. The condition is sincere devotion (bhajatāṃ prīti-pūrvakam — worshipping with love). Love opens the channel; discrimination fills it; the destination is union with Krishna.
+wbw:
+  teṣām | dative pl. | for those
+  satata-yuktānām | genitive pl. compound | of those ever-united, constantly devoted
+  bhajatām | genitive pl. | of those who worship
+  prīti-pūrvakam | adverbial | with love, out of affection
+  dadāmi | 1st sg. | I give
+  buddhi-yogam | accusative compound | yoga of intelligence/discrimination
+  tam | accusative | that
+  yena | instrumental | by which
+  mām | accusative | Me
+  upayānti | 3rd pl. | they come to, attain
+  te | nominative pl. | they
+---
+# 10.11
+short: Out of compassion for them, I, dwelling in their hearts, destroy with the shining lamp of knowledge the darkness born of ignorance.
+long: The divine is not merely a response to devotion but is proactively compassionate (anukampārtham). The image of the blazing lamp of knowledge (jñāna-dīpena bhāsvatā) destroying darkness born of ignorance (ajñāna-jam tamaḥ) is a meditation image used widely in Vedāntic practice. The darkness of ignorance is not punished or argued away — it is simply illuminated. Ātman is self-luminous; ignorance is the mere absence of correct seeing. When the lamp is lit from within (from the divine dwelling in the heart), the darkness cannot survive.
+wbw:
+  teṣām | genitive pl. | for them
+  eva | emphatic | indeed
+  anukampārtham | indeclinable | out of compassion, for their sake
+  aham | nominative | I
+  ajñāna-jam | accusative compound | born of ignorance
+  tamaḥ | accusative | darkness
+  nāśayāmi | 1st sg. | I destroy, dispel
+  ātma-bhāva | compound | dwelling in their self/heart
+  sthaḥ | nominative | abiding, dwelling
+  jñāna-dīpena | instrumental compound | with the lamp of knowledge
+  bhāsvatā | instrumental | shining, radiant
+---
+# 10.12
+short: Arjuna said: You are the Supreme Brahman, the Supreme Light, the Supreme Purifier — the eternal divine Puruṣa, the primeval God, the unborn, the all-pervading.
+long: This and the next verse are Arjuna's response to Krishna's teaching — a moment of recognition and devotion. He addresses Krishna by a cascade of names, each capturing a different facet of the Divine: Para-Brahma (the ultimate reality), Parama-Dhāma (the supreme abode/light), Pavitra (the most purifying), Puruṣa Sanātana (the eternal person), Deva-Ādi (the primal god), Aja (the unborn), Vibhu (the all-pervading). This is not flattery but recognition — Arjuna's understanding has deepened sufficiently to see through the form to the essence.
+wbw:
+  param | accusative | supreme
+  brahma | accusative | Brahman
+  paraṃ | accusative | supreme
+  dhāma | accusative | abode, light
+  pavitraṃ | accusative | most purifying
+  paramam | accusative | supreme
+  bhavān | nominative | You (honorific)
+  puruṣam | accusative | Puruṣa, the Person
+  śāśvatam | accusative | eternal, everlasting
+  divyam | accusative | divine
+  ādi-devam | accusative compound | the primeval God
+  ajam | accusative | unborn
+  vibhum | accusative | all-pervading
+---
+# 10.13
+short: All the sages declare this — Nārada, Asita, Devala, and Vyāsa — and now You Yourself are telling me this.
+long: Arjuna grounds his recognition in the testimony of the great sages. This is an important epistemological move in the Indian tradition: individual insight gains authority when it aligns with the testimony of the great seers (āptavacana). Nārada — the divine sage of devotion; Asita and Devala — ancient Vedic seers; and Vyāsa — the very author of the Mahābhārata who gave the Gita its literary form — all declare the same truth. And now Krishna confirms it directly. Revelation and tradition converge.
+wbw:
+  āhuḥ | 3rd pl. perfect | they have declared, said
+  tvām | accusative | You
+  ṛṣayaḥ | nominative pl. | the seers, sages
+  sarve | nominative pl. | all
+  devarṣiḥ | nominative compound | divine sage
+  nāradaḥ | nominative | Nārada
+  tathā | indeclinable | also
+  asitaḥ | nominative | Asita
+  dealaḥ | nominative | Devala
+  vyāsaḥ | nominative | Vyāsa
+  svayam | nominative | Yourself, directly
+  ca | conjunction | and
+  eva | emphatic | indeed
+  bravīṣi | 2nd sg. | You are telling me
+  me | dative | to me
+---
+# 10.14
+short: I accept all You tell me as truth, O Keśava — neither gods nor demons can know Your manifestation, O Lord.
+long: This verse shows Arjuna's full acceptance — not merely intellectual assent but śraddhā (faith rooted in relationship). "Sarvam etad ṛtam manye" — I consider all this to be true — is a complete yielding of the skeptical faculty to the authority of the teacher. The admission that even gods and demons cannot know the Lord's manifestation echoes 10.2 — Arjuna is now aligning himself with the cosmic truth that the divine origin is unknowable except through grace. His faith is earned, not blind.
+wbw:
+  sarvam | accusative | all, everything
+  etad | accusative | this
+  ṛtam | accusative | true, real
+  manye | 1st sg. middle | I consider, regard
+  yan | relative | which
+  mām | accusative | me
+  vadasi | 2nd sg. | you tell
+  keśava | vocative | O Keśava (Krishna)
+  na | negative | not
+  hi | emphatic | indeed
+  te | genitive | Your
+  bhagavan | vocative | O Lord
+  vyaktiṃ | accusative | manifestation, form
+  viduḥ | 3rd pl. perfect | they know
+  devāḥ | nominative pl. | the gods
+  na | negative | not
+  dānavāḥ | nominative pl. | the demons
+---
+# 10.15
+short: You alone know Yourself through Your own Self, O Supreme Puruṣa — creator of all beings — Lord of beings — God of gods — Lord of the universe.
+long: This verse arrives at the final epistemological boundary: ultimate self-knowledge belongs only to the Supreme. Even the greatest sages know the Divine only as it reveals itself to them — not in its totality. The Divine knows itself completely, through itself, without any mediation. Arjuna addresses Krishna with four great titles: Bhūta-Bhāvana (creator of all beings), Bhūteśa (Lord of beings), Deva-Deva (God of gods), Jagat-Pate (Lord of the universe). Each reveals a different axis of divine sovereignty.
+wbw:
+  svayam | nominative | Yourself, by Your own self
+  eva | emphatic | alone, indeed
+  ātmanā | instrumental | by Yourself, through Your Self
+  ātmānam | accusative | Yourself
+  vettha | 2nd sg. perfect | You know
+  tvam | nominative | You
+  puruṣottama | vocative | O Supreme Puruṣa
+  bhūta-bhāvana | vocative compound | O Creator/nurturer of all beings
+  bhūteśa | vocative compound | O Lord of beings
+  deva-deva | vocative compound | O God of gods
+  jagat-pate | vocative compound | O Lord of the universe
+---
+# 10.16
+short: Please tell me fully of Your divine manifestations by which You pervade all these worlds and remain in them.
+long: Having expressed faith and recognized the divine identity, Arjuna now requests a practical teaching: tell me about the vibhūtis — the specific, concrete manifestations through which I can recognize You in the world. This is a devotee's practical question: given that You are everywhere, how do I see You? The answer will train Arjuna's (and the reader's) perception to recognize the sacred in the magnificent — in the brilliance of the sun, the speed of the wind, the strength of the mountains. Vibhūti-yoga is a meditation practice disguised as cosmology.
+wbw:
+  vaktum | infinitive | to tell
+  arhasi | 2nd sg. | You should, please
+  aśeṣeṇa | instrumental | without remainder, fully, completely
+  divyāḥ | accusative pl. | divine
+  hy | emphatic | indeed
+  ātma-vibhūtayaḥ | accusative pl. compound | Your divine manifestations, Your glories
+  yābhiḥ | instrumental pl. | by which
+  vibhūtibhiḥ | instrumental pl. | by these manifestations
+  lokān | accusative pl. | worlds
+  imān | accusative pl. | these
+  tvam | nominative | You
+  vyāpya | gerund | pervading
+  tiṣṭhasi | 2nd sg. | You remain, abide
+---
+# 10.17
+short: How should I know You, O Yogin, by constant meditation? And in what aspects are You to be thought of by me?
+long: Arjuna asks a profoundly practical question about meditative technique: in what aspects (keṣu keṣu ca bhāveṣu) should I contemplate You? He wants to know the specific "handles" for the mind — the forms and qualities that serve as anchor points for dhyāna (meditation). The question also contains a beautiful acknowledgment: he calls Krishna "yogin" — the master of yoga — whose power pervades and sustains the world. The devotee wants to access that power through correct contemplation.
+wbw:
+  katham | interrogative | how
+  vidyām | 1st sg. optative | may I know
+  aham | nominative | I
+  yogiṃs | vocative | O Yogin
+  tvām | accusative | You
+  sadā | indeclinable | always, constantly
+  paricintayan | nominative participle | meditating, contemplating
+  keṣu | locative pl. | in which
+  keṣu | locative pl. | in which (various)
+  ca | conjunction | and
+  bhāveṣu | locative pl. | aspects, states, forms
+  cintyo | nominative gerundive | to be thought of
+  asi | 2nd sg. | You are
+  me | genitive | by me
+  bhagavan | vocative | O Lord
+---
+# 10.18
+short: Tell me again in detail of Your yoga and manifestations, O Janārdana — I am not satiated hearing Your nectar-like words.
+long: "Nāsti tattor amṛtam" — the divine teaching is compared to amṛta (nectar, ambrosia). Just as one who has tasted nectar wants more, the devotee who has truly heard sacred teaching is never satisfied — not because the teaching is incomplete but because each repetition opens a new depth. Arjuna's hunger is a sign of authentic receptivity. The great spiritual teachings of India were often structured for repetition: the student asks the teacher to elaborate, to repeat, to say it again and again, because each hearing at a deeper level of readiness yields a different understanding.
+wbw:
+  vistareṇa | instrumental | in detail, at length
+  ātmanaḥ | genitive | Your own
+  yogam | accusative | yoga, divine power
+  vibhūtim | accusative | manifestation, glory
+  ca | conjunction | and
+  janārdana | vocative | O Janārdana (Krishna)
+  bhūyaḥ | indeclinable | again
+  kathaya | 2nd sg. imperative | tell, narrate
+  tṛptiḥ | nominative | satiation, satisfaction
+  hi | emphatic | indeed
+  śṛṇvataḥ | genitive participle | while hearing
+  nāsti | negative | there is not
+  me | genitive | for me
+  amṛtam | nominative | nectar
+  ca | conjunction | and
+---
+# 10.19
+short: Krishna said: Yes, I shall tell you of My divine manifestations — but only the principal ones, O best of Kurus, for My extent has no end.
+long: Krishna's acceptance of Arjuna's request is also a teaching moment: "nāsty anto vistarasya me" — there is no end to My extent. The vibhūtis to be described are the most prominent (pradhānyataḥ) — the peaks visible above the clouds of ordinary perception — but the full catalog would be endless, because every particle of creation is a manifestation of the Divine. This limitation is not a failure of the teacher but a gracious concession to the student's finite mind.
+wbw:
+  hanta | interjection | yes, well then
+  te | dative | to you
+  kathayiṣyāmi | 1st sg. future | I will tell
+  divyāḥ | accusative pl. | divine
+  hy | emphatic | indeed
+  ātma-vibhūtayaḥ | accusative pl. compound | My manifestations
+  prādhānyataḥ | indeclinable | chiefly, in terms of prominence
+  kuru-śreṣṭha | vocative compound | O best of the Kurus
+  nāsti | negative | there is not
+  antaḥ | nominative | end, limit
+  vistarasya | genitive | of extent
+  me | genitive | My
+---
+# 10.20
+short: I am the Self, O Guḍākeśa, dwelling in the hearts of all beings — I am the beginning, middle, and end of all beings.
+long: The most important vibhūti is stated first and last: the ātman itself. "Gudākeśa sarvabhūtāśaya-sthitaḥ" — dwelling in the heart of all beings. Every other vibhūti is a specific, outer manifestation; this one is the innermost, universal one. By saying "I am the beginning, middle, and end," Krishna takes responsibility for the entire arc of existence — birth, life, and death are not accidents but divine expressions. The heart (āśaya) is the deepest seat of consciousness where the divine meets the individual.
+wbw:
+  aham | nominative | I
+  ātmā | nominative | the Self
+  guḍākeśa | vocative | O Guḍākeśa (Arjuna)
+  sarva-bhūtāśaya | compound | dwelling in the heart of all beings
+  sthitaḥ | nominative | situated, dwelling
+  aham | nominative | I
+  ādiḥ | nominative | beginning
+  ca | conjunction | and
+  madhyam | nominative | middle
+  ca | conjunction | and
+  bhūtānām | genitive pl. | of beings
+  anta | nominative | end
+  eva | emphatic | indeed
+  ca | conjunction | and
+---
+# 10.21
+short: Among the Ādityas I am Viṣṇu — among lights I am the radiant sun — among Maruts I am Marīci — among stars I am the moon.
+long: The vibhūti list begins. Among the twelve Ādityas (solar deities), Krishna identifies as Viṣṇu — the all-pervading one, the most cosmic in scope. Among lights (jyotiṣām), He is the sun (aṃśumān — the radiantly-beamed one) — the supreme, life-sustaining light. Among the Maruts (storm winds), He is Marīci — the most luminous, the speed of light itself. Among the stars, He is the moon — the lord of the night sky who regulates time and seasons. Each choice is the most glorious, most powerful representative of its category.
+wbw:
+  ādityānām | genitive pl. | among the Ādityas
+  aham | nominative | I
+  viṣṇuḥ | nominative | Viṣṇu
+  jyotiṣām | genitive pl. | among lights
+  ravir | nominative | the sun
+  aṃśumān | nominative | radiant, brilliantly beamed
+  marīciḥ | nominative | Marīci (the luminous one)
+  marutām | genitive pl. | among the Maruts
+  asmi | 1st sg. | I am
+  nakṣatrāṇām | genitive pl. | among stars/constellations
+  aham | nominative | I
+  śaśī | nominative | the moon
+---
+# 10.22
+short: Among the Vedas I am the Sāmaveda — among the gods I am Indra — among the senses I am the mind — among beings I am consciousness.
+long: Among the four Vedas, the Sāmaveda is chosen — not because it is superior in content but because it is the most musical, the most devotional, the one that most directly lifts the heart through melody. Among the thirty-three gods (of the Vedic pantheon), Indra is the king — the wielder of the thunderbolt, the lord of rain and victory. Among the eleven senses, the mind (manas) is singled out because it is the coordinating faculty through which all other sense experiences are processed. Among beings (bhūteṣu), the divine vibhūti is chetanā — pure consciousness, the light by which all beings are aware.
+wbw:
+  vedānām | genitive pl. | among the Vedas
+  sāma-vedaḥ | nominative | the Sāmaveda
+  asmi | 1st sg. | I am
+  devānām | genitive pl. | among the gods
+  asmi | 1st sg. | I am
+  vāsavaḥ | nominative | Vāsava (Indra)
+  indriyāṇām | genitive pl. | among the senses
+  manaḥ | nominative | the mind
+  ca | conjunction | and
+  asmi | 1st sg. | I am
+  bhūtānām | genitive pl. | among beings
+  asmi | 1st sg. | I am
+  cetanā | nominative | consciousness, sentient awareness
+---
+# 10.23
+short: Among the Rudras I am Śaṅkara — among the Yakṣas and Rākṣasas I am the Lord of wealth — among the Vasus I am Agni — among mountains I am Meru.
+long: Śaṅkara (Śiva) is the supreme Rudra — the auspicious one who dissolves ego and grants liberation. Among the Yakṣas (nature spirits) and Rākṣasas (power beings), Kubera — the lord of wealth — represents the most magnificent power. Among the eight Vasus (elemental cosmic powers), Agni (fire) is chosen — the transformer, the purifier, the medium of all sacred communication. Among mountains, Meru — the golden cosmic mountain at the center of Hindu cosmology — stands as the peak of all peaks, the axis mundi.
+wbw:
+  rudrāṇām | genitive pl. | among the Rudras
+  śaṅkaraḥ | nominative | Śaṅkara (Śiva)
+  ca | conjunction | and
+  asmi | 1st sg. | I am
+  vitteśaḥ | nominative compound | the lord of wealth (Kubera)
+  yakṣa-rakṣasām | genitive pl. | among Yakṣas and Rākṣasas
+  vasūnām | genitive pl. | among the Vasus
+  pāvakaḥ | nominative | fire, the purifier (Agni)
+  ca | conjunction | and
+  asmi | 1st sg. | I am
+  meruḥ | nominative | Mount Meru
+  śikhariṇām | genitive pl. | among mountains with peaks
+  aham | nominative | I
+---
+# 10.24
+short: Among priests know Me as Bṛhaspati — among generals I am Skanda — among bodies of water I am the ocean.
+long: Bṛhaspati is the preceptor (guru) of the gods — among all priestly and teaching functions in the cosmos, this one exemplifies divine wisdom in counsel. Skanda (Kārttikeya / Murugan) — the commander of the divine army, son of Śiva — represents the peak of warrior leadership: invincible strategy, divine energy, flawless execution. The ocean — among all water bodies — is the greatest by depth, breadth, age, and mystery. It is also the source to which all rivers return and from which clouds arise, making it a symbol of infinite capacity.
+wbw:
+  purodhasām | genitive pl. | among priests, chaplains
+  ca | conjunction | and
+  mukhyam | accusative | principal, chief
+  mām | accusative | Me
+  viddhi | 2nd sg. imperative | know
+  pārtha | vocative | O Pārtha (Arjuna)
+  bṛhaspatim | accusative | Bṛhaspati
+  senānīnām | genitive pl. | among generals, commanders
+  aham | nominative | I
+  skandaḥ | nominative | Skanda (Kārttikeya)
+  sarasām | genitive pl. | among bodies of water
+  asmi | 1st sg. | I am
+  sāgaraḥ | nominative | the ocean
+---
+# 10.25
+short: Among the great sages I am Bhṛgu — among words I am the one syllable Om — among yajñas I am the japa-yajña — among immovable things I am the Himālaya.
+long: Bhṛgu is the greatest of the ṛṣis, the foremost son of Brahmā — representing the pinnacle of Vedic wisdom. Om — the single syllable — is the most comprehensive and sacred of all sound-expressions: it contains all of creation's vibration in its three components (A-U-M). Among all yajñas (sacrifices), the japa-yajña (sacrifice of silent repetition of a divine name) is supreme — requiring no external materials, only a sincere mind. And among all that is immovable, the Himālaya — the abode of snows, dwelling of Śiva and Pārvatī — is the mightiest of all.
+wbw:
+  maharṣīṇām | genitive pl. | among the great sages
+  bhṛguḥ | nominative | Bhṛgu
+  aham | nominative | I
+  girām | genitive pl. | among words, speech
+  asmy | 1st sg. | I am
+  ekam | accusative | one, single
+  akṣaram | accusative | syllable (Om)
+  yajñānām | genitive pl. | among yajñas, sacrifices
+  japa-yajñaḥ | nominative compound | the sacrifice of japa (repetition)
+  asmi | 1st sg. | I am
+  sthāvarāṇām | genitive pl. | among the immovable
+  himālayaḥ | nominative | the Himālaya
+---
+# 10.26
+short: Among all trees I am the Aśvattha — among divine sages I am Nārada — among the Gandharvas I am Citraratha — among the perfected I am Kapila.
+long: The Aśvattha (peepal/sacred fig) is the most revered tree in Indian tradition — it was under this tree that the Buddha attained enlightenment, and the same tree described in chapter 15 as the cosmic symbol of saṃsāra. Among divine sages, Nārada — whose instrument is the vīṇā and whose medium is devotional song — is the most beloved, carrying divine love between worlds. Citraratha is the chief of the Gandharvas (celestial musicians) — the most melodious of all. Kapila is the founder of the Sāṃkhya philosophy — the greatest of the siddhas (perfected ones).
+wbw:
+  aśvatthaḥ | nominative | the Aśvattha tree (peepal)
+  sarva-vṛkṣāṇām | genitive pl. | among all trees
+  devarṣīṇāṃ | genitive pl. | among the divine sages
+  ca | conjunction | and
+  nāradaḥ | nominative | Nārada
+  gandharvāṇāṃ | genitive pl. | among the Gandharvas
+  citrarāthaḥ | nominative | Citraratha
+  siddhānāṃ | genitive pl. | among the siddhas (perfected ones)
+  kapilo | nominative | Kapila
+  muniḥ | nominative | the sage
+---
+# 10.27
+short: Among horses know Me as Uccaiḥśravas born from nectar — among royal elephants as Airāvata — among humans as the king.
+long: Uccaiḥśravas is the divine white horse that arose from the churning of the cosmic ocean (Samudra Manthana), along with the amṛta (nectar). It is the most beautiful, most divine of all horses — representing the peak of beauty and swiftness. Airāvata is Indra's magnificent white elephant — the royal mount of the king of gods. Among humans, the king represents the highest natural authority — not merely political power but the responsibility to uphold dharma for all. These three together represent peak manifestation in three domains: animal grace, royal power, and human leadership.
+wbw:
+  uccaiḥśravasam | accusative | Uccaiḥśravas (divine horse)
+  aśvānāṃ | genitive pl. | among horses
+  viddhi | 2nd sg. imperative | know
+  mām | accusative | Me
+  amṛtodbhavam | accusative compound | born from nectar
+  airāvataṃ | accusative | Airāvata (Indra's elephant)
+  gajendra | nominative compound | chief of elephants
+  āṇam | genitive pl. | among
+  narāṇāṃ | genitive pl. | among humans
+  ca | conjunction | and
+  nara-adhipam | accusative compound | king, lord of men
+---
+# 10.28
+short: Among weapons I am the thunderbolt — among cows I am the Kāmadhenu — among progenitors I am Kandarpa (Kāma) — among serpents I am Vāsuki.
+long: The vajra (thunderbolt) of Indra is the mightiest weapon in the divine arsenal — forged from the bones of the sage Dadhīci, it represents the irresistible force of righteousness. The Kāmadhenu is the divine wish-fulfilling cow — the nurturer supreme, the inexhaustible source of prosperity. Kandarpa (Kāma, the god of desire) is cited not as temptation but as "prajā-bhavaḥ" — the creative force of desire that leads to offspring, continuing life. It is desire in its dharmic, life-affirming form. Vāsuki is the great serpent who served as the churning rope in the Samudra Manthana.
+wbw:
+  āyudhānāṃ | genitive pl. | among weapons
+  aham | nominative | I
+  vajram | nominative | the thunderbolt (vajra)
+  dhenūnām | genitive pl. | among cows
+  asmi | 1st sg. | I am
+  kāmadhuk | nominative | the wish-fulfilling cow (Kāmadhenu)
+  prajanaś | nominative | procreation, generation
+  ca | conjunction | and
+  asmi | 1st sg. | I am
+  kandarpaḥ | nominative | Kandarpa (Kāma, god of desire)
+  sarpāṇām | genitive pl. | among serpents
+  asmi | 1st sg. | I am
+  vāsukiḥ | nominative | Vāsuki
+---
+# 10.29
+short: Among the Nāgas I am Ananta — among the water-dwellers I am Varuṇa — among the ancestors I am Aryamā — among the enforcers I am Yama.
+long: Ananta (Śeṣa) — the infinite cosmic serpent upon whose coils Viṣṇu rests — represents infinite capacity, the eternal support of creation. Varuṇa — the lord of the cosmic ocean and guardian of cosmic order (ṛta) — is the most cosmic of all water-deities. Aryamā is the most honored of the Pitṛs (ancestors) — representing the respectful continuation of lineage, the debt to those who came before. Yama — the lord of death and dharmic judgment — among all enforcers (damayas, those who control and constrain) is the most inevitable and the most just.
+wbw:
+  anantaś | nominative | Ananta (the infinite serpent Śeṣa)
+  ca | conjunction | and
+  asmi | 1st sg. | I am
+  nāgānāṃ | genitive pl. | among the Nāgas
+  varuṇo | nominative | Varuṇa
+  yādasām | genitive pl. | among water-creatures/dwellers
+  aham | nominative | I
+  pitṝṇām | genitive pl. | among the ancestors/Pitṛs
+  aryamā | nominative | Aryamā
+  ca | conjunction | and
+  asmi | 1st sg. | I am
+  yamaḥ | nominative | Yama (lord of death and dharma)
+  saṃyamatām | genitive pl. | among the enforcers, controllers
+  aham | nominative | I
+---
+# 10.30
+short: Among the Daityas I am Prahlāda — among the counters I am time — among beasts I am the lion — among birds I am Vainateyaḥ (Garuḍa).
+long: Prahlāda is perhaps the most striking choice: among the demons (Daityas), the greatest divine vibhūti is a devotee — the child who defied his demon father Hiraṇyakaśipu and kept his unshakeable love for Viṣṇu. Devotion is the greatest divine expression even among beings hostile to the Divine. Among all measuring principles, Kāla (time) is the most sovereign — nothing escapes it. Among beasts, the lion — the king of the jungle, symbol of courage and mastery — represents the peak of animal power. Garuḍa, the eagle-mount of Viṣṇu, is among birds the most divine — the very vehicle of the Absolute.
+wbw:
+  prahlādaś | nominative | Prahlāda
+  ca | conjunction | and
+  asmi | 1st sg. | I am
+  daityānāṃ | genitive pl. | among the Daityas (demons)
+  kālaḥ | nominative | time, Kāla
+  kalayatāṃ | genitive pl. | among those who count/measure
+  aham | nominative | I
+  mṛgāṇāṃ | genitive pl. | among beasts, wild animals
+  ca | conjunction | and
+  mṛgendro | nominative | king of beasts (lion)
+  'ham | nominative | I
+  vainateyaś | nominative | Vainateyaḥ (Garuḍa, son of Vinatā)
+  ca | conjunction | and
+  pakṣiṇāṃ | genitive pl. | among birds
+---
+# 10.31
+short: Among the purifiers I am the wind — among the warriors I am Rāma — among the fish I am the crocodile — among rivers I am the Jāhnavī (Gaṅgā).
+long: The wind (pavanaḥ) is the cosmic purifier — it disperses pollution, spreads fragrance, and sustains all life through breath. Among all warriors, Rāma — the epitome of dharmic courage, devotion, and kingly righteousness — is the supreme. Among aquatic creatures, the Jhaṣa (crocodile or makara — the largest, most powerful water creature) represents the peak of power in that domain. The Jāhnavī (Gaṅgā) — born from Viṣṇu's feet, descending through Śiva's hair — is the most sacred of all rivers, the mother of purification in Indian civilization.
+wbw:
+  pavanah | nominative | the wind, the purifier
+  pavatām | genitive pl. | among the purifying/moving things
+  asmi | 1st sg. | I am
+  rāmaḥ | nominative | Rāma
+  śastra-bhṛtām | genitive pl. | among those who bear weapons, warriors
+  aham | nominative | I
+  jhaṣāṇāṃ | genitive pl. | among aquatic creatures/fish
+  makaraś | nominative | the makara (crocodile/sea creature)
+  ca | conjunction | and
+  asmi | 1st sg. | I am
+  srotasām | genitive pl. | among rivers, streams
+  asmi | 1st sg. | I am
+  jāhnavī | nominative | the Gaṅgā (daughter of Jahnu)
+---
+# 10.32
+short: Among creations I am the beginning, middle, and end — among knowledges I am the knowledge of the Self — among speakers I am the debate.
+long: This verse returns to the most comprehensive vibhūti: Krishna is the very structure of time itself — beginning, middle, and end. Among all branches of knowledge (vidyā), the supreme is adhyātma-vidyā — self-knowledge, Ātma-jñāna — because it is the knowledge that liberates. All other sciences illuminate a portion of reality; Self-knowledge illuminates the knower of all reality. Among all forms of discourse, "pravāda" (the dialectical debate that seeks truth) represents the highest use of human speech.
+wbw:
+  sargāṇāṃ | genitive pl. | among creations
+  ādiḥ | nominative | beginning
+  antaḥ | nominative | end
+  ca | conjunction | and
+  madhyam | nominative | middle
+  ca | conjunction | and
+  eva | emphatic | indeed
+  aham | nominative | I
+  arjuna | vocative | O Arjuna
+  adhyātma-vidyā | nominative compound | self-knowledge, spiritual science
+  vidyānāṃ | genitive pl. | among sciences/knowledges
+  vādaḥ | nominative | the debate, dialectic (that seeks truth)
+  pravadatām | genitive pl. | among those who speak/debate
+  aham | nominative | I
+---
+# 10.33
+short: Among letters I am the letter A — among compound words I am the dvandva — I alone am time, the destroyer, and the sustainer facing all sides.
+long: The letter "A" (akāra) is the first letter of the Sanskrit alphabet — but more than that, it is the first sound of Om itself (A-kāra) and the basis from which all speech arises. Without "A," no other letter can be formed. Among compound words (samāsāḥ), the dvandva (copulative compound) is the most organic — it joins two equal partners without subordinating either. Among temporal manifestations, Kāla (time) as destroyer is the most inevitable force — and yet it is balanced by "dhātā" — the sustainer who faces all directions, suggesting omnipresent support.
+wbw:
+  akṣarāṇāṃ | genitive pl. | among syllables/letters
+  a-kāraḥ | nominative | the letter A
+  asmi | 1st sg. | I am
+  dvandvaḥ | nominative | the dvandva compound (copulative)
+  sāmasikasya | genitive | among compound words
+  ca | conjunction | and
+  aham | nominative | I
+  eva | emphatic | indeed
+  akṣayaḥ | nominative | the imperishable
+  kālaḥ | nominative | time
+  dhātā | nominative | the sustainer, supporter
+  aham | nominative | I
+  viśvato-mukhaḥ | nominative | facing all directions, omnidirectional
+---
+# 10.34
+short: I am all-consuming death and the origin of all that is yet to be — among the feminine I am fame, prosperity, speech, memory, intelligence, steadfastness, and patience.
+long: Death (mṛtyuḥ) as sarva-haraḥ (the all-devourer) is the most inevitable of all transformations — and it is divine, not demonic. The very universality of death is proof of divine sovereignty. "Udbhavaś ca bhaviṣyatām" — and the source of all that is yet to come — links death with renewal: the Divine presides over both the ending of what has been and the beginning of what will be. Among the great feminine qualities (deified as Śakti-forms), Krishna names the seven — Kīrti, Śrī, Vāk, Smṛti, Medhā, Dhṛti, Kṣamā — the highest human feminine virtues that sustain civilization and spiritual life.
+wbw:
+  mṛtyuḥ | nominative | death
+  sarva-haraś | nominative compound | the all-devourer
+  ca | conjunction | and
+  aham | nominative | I
+  udbhavaś | nominative | arising, source
+  ca | conjunction | and
+  bhaviṣyatāṃ | genitive pl. | of things yet to come
+  kīrtiḥ | nominative | fame, glory
+  śrīḥ | nominative | prosperity, Lakṣmī
+  vāk | nominative | speech
+  ca | conjunction | and
+  nārīṇāṃ | genitive pl. | among women/feminine qualities
+  smṛtiḥ | nominative | memory
+  medhā | nominative | intelligence
+  dhṛtiḥ | nominative | steadfastness, courage
+  kṣamā | nominative | patience, forbearance
+---
+# 10.35
+short: Among the Vedic hymns I am the Bṛhat-Sāman — among metres I am the Gāyatrī — among months I am Mārgaśīrṣa — among seasons I am the flowery spring.
+long: The Bṛhat-Sāman is the most majestic of the Sāmaveda chants — performed at the great soma sacrifices, it vibrates with the deepest resonance of the divine voice. The Gāyatrī (gāyatrī metre, 24 syllables in 3 pādas) is the most sacred of all Vedic metres — the Gāyatrī mantra addressed to Savitṛ is the one mantra that encapsulates the entire Vedic impulse. Among months, Mārgaśīrṣa (November–December) was considered the finest — temperate, harvest-complete, the month of Gita Jayanti itself. Among seasons, Kusumākara (spring) is the most beautiful — the season of flowering and renewal.
+wbw:
+  bṛhat-sāma | nominative compound | the Bṛhat-Sāman (a great Sāmaveda chant)
+  tathā | indeclinable | likewise
+  sāmnāṃ | genitive pl. | among the Sāman hymns
+  gāyatrī | nominative | the Gāyatrī (metre and mantra)
+  chandasām | genitive pl. | among metres
+  aham | nominative | I
+  māsānāṃ | genitive pl. | among months
+  mārgaśīrṣo | nominative | Mārgaśīrṣa (the month)
+  'ham | nominative | I
+  ṛtūnāṃ | genitive pl. | among seasons
+  kusumākaraḥ | nominative | spring, the season of flowers
+---
+# 10.36
+short: I am the gambling of the fraudulent — I am the splendor of the splendid — I am the victory and the resolve — I am the goodness of the good.
+long: The most surprising vibhūti: "dyūtaṃ chalayatām asmi" — among the deceitful, I am their gambling. This is not an endorsement of cheating but a cosmic claim: even the vibration of cunning cunning, of competitive wit, of the game of chance — contains divine energy at its core. The gambler's thrill is a deflected experience of the divine intoxication. Similarly, vijaya (victory), vyavasāya (resolve), sattva (goodness) — each is the divine at its clearest in those domains. The Divine shines most clearly in excellence, even when that excellence is morally complex.
+wbw:
+  dyūtam | nominative | gambling, dicing
+  chalayatām | genitive pl. | among the deceitful, tricksters
+  asmi | 1st sg. | I am
+  tejas | nominative | splendor, brilliance
+  tejasvinām | genitive pl. | among the splendid
+  aham | nominative | I
+  jayaḥ | nominative | victory
+  asmi | 1st sg. | I am
+  vyavasāyaḥ | nominative | determination, resolve
+  asmi | 1st sg. | I am
+  sattvam | nominative | goodness, purity (sattva-guṇa)
+  sattvavat | genitive pl. | among the good, the pure
+  aham | nominative | I
+---
+# 10.37
+short: Among the Vṛṣṇis I am Vāsudeva — among the Pāṇḍavas I am Dhanañjaya — among the sages I am Vyāsa — among the poets I am Uśanā.
+long: Vāsudeva (Krishna, son of Vasudeva) is named among the Vṛṣṇi clan — a moment of divine self-identification with humility. Among the five Pāṇḍavas, Arjuna (Dhanañjaya — winner of wealth) is the supreme vibhūti — the greatest archer, the most devoted student, the one receiving this very teaching. Vyāsa (Kṛṣṇa Dvaipāyana) — the organizer of the Vedas, author of the Mahābhārata, the Purāṇas, and the Brahma-Sūtras — is the greatest of the ṛṣis in literary power. Uśanā (Śukrācārya) is the preceptor of the demons and the most gifted of all poets.
+wbw:
+  vṛṣṇīnāṃ | genitive pl. | among the Vṛṣṇis
+  vāsudevaḥ | nominative | Vāsudeva (Krishna)
+  asmi | 1st sg. | I am
+  pāṇḍavānāṃ | genitive pl. | among the Pāṇḍavas
+  dhanañjayaḥ | nominative | Dhanañjaya (Arjuna)
+  munīnāṃ | genitive pl. | among the sages/munis
+  api | emphatic | also
+  aham | nominative | I
+  vyāsaḥ | nominative | Vyāsa
+  kavīnām | genitive pl. | among the poets
+  uśanāḥ | nominative | Uśanā (Śukrācārya)
+  kaviḥ | nominative | the poet, seer-poet
+---
+# 10.38
+short: Among the enforcers I am the rod of justice — among those who seek victory I am prudent statesmanship — among secrets I am the silence — among the wise I am wisdom.
+long: The daṇḍa (rod of chastisement) represents the power that upholds social dharma — not as tyranny but as the divine principle of cosmic order. Among the means of victory, nīti (prudent policy, statesmanship, ethical statecraft) is superior to mere force — it is the victory of wisdom over brute strength. Maunam (silence) is the greatest secret: the contemplative silence that is more eloquent than all words, the silence in which the Divine is most directly present. And among the wise, the vibhūti is jñāna itself — wisdom, the highest human capacity.
+wbw:
+  daṇḍo | nominative | the rod, staff of justice
+  damayatām | genitive pl. | among those who enforce/control
+  asmi | 1st sg. | I am
+  nītiḥ | nominative | policy, ethics, statesmanship
+  asmi | 1st sg. | I am
+  jigīṣatām | genitive pl. | among those who seek victory
+  maunam | nominative | silence
+  ca | conjunction | and
+  eva | emphatic | indeed
+  asmi | 1st sg. | I am
+  guhyānāṃ | genitive pl. | among secrets
+  jñānaṃ | nominative | knowledge, wisdom
+  jñānavatām | genitive pl. | among the wise, knowledgeable
+  aham | nominative | I
+---
+# 10.39
+short: And whatever is the seed of all beings, that too am I, O Arjuna — nothing that moves or moves not can exist without Me.
+long: This verse is the culmination of the vibhūti teaching: "yac cāpi sarva-bhūtānāṃ bījaṃ tad aham arjuna" — whatever is the seed (bīja, the primal potency, the source-code) of all beings — that too is Me. The list of specific vibhūtis was meant to train perception; this verse dissolves the list into a universal principle. Not just the magnificent things, but every single being — moving or immovable — has Krishna as its seed. "Nāsti mat-stena sarvaṃ" — there is nothing that can exist without Me. This is the unambiguous claim of divine immanence.
+wbw:
+  yac | relative | whatever
+  ca | conjunction | and
+  api | emphatic | also
+  sarva-bhūtānāṃ | genitive pl. | of all beings
+  bījaṃ | nominative | seed, source-energy
+  tad | nominative | that
+  aham | nominative | I
+  arjuna | vocative | O Arjuna
+  na | negative | not
+  tad | nominative | that
+  asti | 3rd sg. | there exists
+  vinā | postposition | without
+  yat | relative | which
+  mat | ablative | from Me, without Me
+  sthāvara | nominative | immovable beings
+  jaṅgamaṃ | nominative | moving beings
+  vā | disjunctive | or
+---
+# 10.40
+short: There is no end to My divine manifestations — what I have described is only a sampling of My infinite glory.
+long: "Nānto vistarasya me" — My extent has no end. The list of vibhūtis — magnificent as it is — is not exhaustive but illustrative. This is the teacher's honesty: the examples point the student's mind in the right direction, but the student must extrapolate. Every beautiful thing, every powerful thing, every excellent thing in all of creation is a ray of the divine glory. The meditation practice of recognizing the Divine in the magnificent is limited only by the vastness of creation — which has no end.
+wbw:
+  nānto | nominative | no end
+  sti | 3rd sg. | there is (contracted from asti)
+  mama | genitive | My
+  divyānāṃ | genitive pl. | of the divine
+  vibhūtīnāṃ | genitive pl. | of manifestations, glories
+  parantapa | vocative | O scorcher of enemies (Arjuna)
+  eṣa | nominative | this
+  tūddeśataḥ | indeclinable | by way of example, briefly
+  prokto | nominative | declared, stated
+  vibhūter | genitive | of manifestation
+  vistaro | nominative | the extent, elaboration
+  mayā | instrumental | by Me
+---
+# 10.41
+short: Whatever being is glorious, prosperous, or powerful — know that as a spark of My splendor.
+long: This is the master key to vibhūti-yoga as a practice. Having given specific examples, Krishna now gives the general principle: wherever you see genuine beauty, power, or excellence — recognize it as a ray (aṃśa) of the divine tejas (splendor). This does not mean the thing itself is God, but that it is illumined by the divine. A flower's perfect color, a musician's transcendent performance, a leader's exceptional courage, a sage's penetrating insight — all of these are made possible by the divine radiance shining through them. This is not pantheism but the recognition of divine immanence.
+wbw:
+  yad | relative | whatever
+  yad | relative | whatever (repeated for emphasis)
+  vibhūtimat | accusative | glorious, full of splendor
+  sattvaṃ | accusative | being, entity
+  śrīmad | accusative | prosperous, magnificent
+  ūrjitam | accusative | powerful, vigorous
+  eva | emphatic | indeed
+  vā | disjunctive | or
+  tat | accusative | that
+  tat | accusative | that
+  eva | emphatic | indeed
+  avagaccha | 2nd sg. imperative | know, understand
+  tvaṃ | nominative | you
+  mama | genitive | My
+  tejas | genitive | splendor, radiance
+  aṃśa | accusative | fragment, spark
+  sambhavam | accusative | born of, arising from
+---
+# 10.42
+short: But what need is there for all this elaborate knowledge, O Arjuna — I sustain this entire universe with a single fraction of Myself and yet remain.
+long: The concluding verse is magnificent in its understatement. After 40 verses of cosmic cataloguing — all the Vedas, the sages, the gods, the powers, the excellences of creation — Krishna sweeps it all aside with serene economy: "atha vā bahunaitena" — or rather, what is all this elaborate knowledge for? The entire universe — with all its billions of galaxies and the unimaginable diversity of life — is sustained by just a single fraction (ekāṃśena) of the Divine, which then "remains" (tiṣṭhate) — meaning the full extent of the Divine is not depleted or absorbed by creation. The creation is a tiny ripple on an infinite ocean.
+wbw:
+  atha | conjunction | or rather, but
+  vā | disjunctive | or
+  bahu | indeclinable | much, elaborate
+  etena | instrumental | with this
+  kim | interrogative | what (need is there)
+  jñātena | instrumental | by knowing
+  tava | genitive | your
+  arjuna | vocative | O Arjuna
+  viṣṭabhya | gerund | pervading, sustaining
+  aham | nominative | I
+  idaṃ | accusative | this
+  kṛtsnam | accusative | entire, whole
+  ekāṃśena | instrumental | with a single fraction
+  sthito | nominative | standing, remaining
+  jagat | accusative | the universe
+---

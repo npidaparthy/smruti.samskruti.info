@@ -1,0 +1,10 @@
+# YouTube audio links per chapter
+# Format: chNN: <url>
+# Optional shloka timestamps: chNN:S: <seconds from video start>
+
+ch10: https://youtu.be/h5PWkc-U5eY
+ch15: https://youtu.be/fVUG1eAvbf4?si=DHhHgPARgoV7ge9c
+
+# Add more chapters as links become available:
+# ch01: https://youtu.be/...
+# ch02: https://youtu.be/...

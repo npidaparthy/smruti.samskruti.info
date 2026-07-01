@@ -1,0 +1,2891 @@
+[
+  {
+    "num": 1,
+    "id": "aswini",
+    "name": {
+      "iast": "Aśvinī",
+      "te": "అశ్విని",
+      "sa": "अश्विनी"
+    },
+    "stars": 3,
+    "symbol": {
+      "en": "Horse's head",
+      "te": "అశ్వముఖం",
+      "sa": "अश्वमुखः"
+    },
+    "rashi": {
+      "iast": "Meṣa",
+      "te": "మేషం",
+      "sa": "मेषः",
+      "symbol": "♈"
+    },
+    "rashi_lord": {
+      "iast": "Maṅgala",
+      "sa": "मङ्गलः",
+      "te": "కుజుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Ketu",
+      "sa": "केतुः",
+      "te": "కేతువు"
+    },
+    "nakshatra_deity": {
+      "iast": "Aśvinī Kumāras",
+      "te": "అశ్వినీ కుమారులు",
+      "sa": "अश्विनीकुमारौ"
+    },
+    "nakshatra_animal": {
+      "iast": "Horse",
+      "te": "గుర్రం",
+      "sa": "अश्वः"
+    },
+    "gana": {
+      "iast": "Deva",
+      "sa": "देवगणः",
+      "te": "దేవగణం"
+    },
+    "tattva": {
+      "iast": "Pṛthvī",
+      "sa": "पृथ्वी",
+      "te": "పృథ్వి",
+      "en": "Earth"
+    },
+    "purushardha": {
+      "iast": "Dharma",
+      "sa": "धर्मः",
+      "te": "ధర్మం"
+    },
+    "dosha": {
+      "iast": "Vāta",
+      "sa": "वातः",
+      "te": "వాతం"
+    },
+    "varna": {
+      "iast": "Vaiśya",
+      "sa": "वैश्यः",
+      "te": "వైశ్యుడు"
+    },
+    "nadi": {
+      "iast": "Ādi",
+      "sa": "आदिनाडी",
+      "te": "ఆది నాడి"
+    },
+    "gemstone": {
+      "iast": "Vaidūrya",
+      "en": "Cat's Eye",
+      "sa": "वैदूर्यः",
+      "te": "వైఢూర్యం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "चू",
+        "te": "చూ",
+        "iast": "cū"
+      },
+      "p2": {
+        "sa": "चे",
+        "te": "చే",
+        "iast": "ce"
+      },
+      "p3": {
+        "sa": "चो",
+        "te": "చో",
+        "iast": "co"
+      },
+      "p4": {
+        "sa": "ला",
+        "te": "లా",
+        "iast": "lā"
+      }
+    },
+    "vsn_shloka_from": 1,
+    "vsn_shloka_to": 4,
+    "mantra": {
+      "sa": "भवत्यश्विनिनक्षत्रमश्वीदस्त्रस्तुरङ्गः ।\nआद्यस्तुरङ्गस्तुरग अश्वो वाजी हयो हरिः ॥",
+      "te": "భవత్యశ్వినినక్షత్రమశ్వీదస్త్రస్తురఙ్గః ।\nఆద్యస్తురఙ్గస్తురగ అశ్వో వాజీ హయో హరిః ॥",
+      "iast": "bhavatyaśvininakṣatramaśvīdastrasturaṅgaḥ |\nādyasturaṅgasturaga aśvo vājī hayo hariḥ ||"
+    }
+  },
+  {
+    "num": 2,
+    "id": "bharani",
+    "name": {
+      "iast": "Bharaṇī",
+      "te": "భరణి",
+      "sa": "भरणी"
+    },
+    "stars": 3,
+    "symbol": {
+      "en": "Yoni (womb)",
+      "te": "యోని ఆకారం",
+      "sa": "योनिः"
+    },
+    "rashi": {
+      "iast": "Meṣa",
+      "te": "మేషం",
+      "sa": "मेषः",
+      "symbol": "♈"
+    },
+    "rashi_lord": {
+      "iast": "Maṅgala",
+      "sa": "मङ्गलः",
+      "te": "కుజుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Śukra",
+      "sa": "शुक्रः",
+      "te": "శుక్రుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Yama",
+      "te": "యముడు",
+      "sa": "यमः"
+    },
+    "nakshatra_animal": {
+      "iast": "Elephant",
+      "te": "ఏనుగు",
+      "sa": "गजः"
+    },
+    "gana": {
+      "iast": "Manuṣya",
+      "sa": "मानुषगणः",
+      "te": "మానవగణం"
+    },
+    "tattva": {
+      "iast": "Pṛthvī",
+      "sa": "पृथ्वी",
+      "te": "పృథ్వి",
+      "en": "Earth"
+    },
+    "purushardha": {
+      "iast": "Artha",
+      "sa": "अर्थः",
+      "te": "అర్థం"
+    },
+    "dosha": {
+      "iast": "Pitta",
+      "sa": "पित्तः",
+      "te": "పిత్తం"
+    },
+    "varna": {
+      "iast": "Chandāla",
+      "sa": "चाण्डालः",
+      "te": "చండాలుడు"
+    },
+    "nadi": {
+      "iast": "Madhya",
+      "sa": "मध्यनाडी",
+      "te": "మధ్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Vajra",
+      "en": "Diamond",
+      "sa": "वज्रम्",
+      "te": "వజ్రం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "ली",
+        "te": "లీ",
+        "iast": "lī"
+      },
+      "p2": {
+        "sa": "लू",
+        "te": "లూ",
+        "iast": "lū"
+      },
+      "p3": {
+        "sa": "ले",
+        "te": "లే",
+        "iast": "le"
+      },
+      "p4": {
+        "sa": "लो",
+        "te": "లో",
+        "iast": "lo"
+      }
+    },
+    "vsn_shloka_from": 5,
+    "vsn_shloka_to": 8,
+    "mantra": {
+      "sa": "भरणी स्याद्यमो याम्यस्त्वन्तको यमसंज्ञिकः ।",
+      "te": "భరణీ స్యాద్యమో యామ్యస్త్వన్తకో యమసంజ్ఞికః ।",
+      "iast": "bharaṇī syādyamo yāmyastvantako yamasaṃjñikaḥ |"
+    }
+  },
+  {
+    "num": 3,
+    "id": "krittika",
+    "name": {
+      "iast": "Kṛttikā",
+      "te": "కృత్తిక",
+      "sa": "कृत्तिका"
+    },
+    "stars": 6,
+    "symbol": {
+      "en": "Flame / Razor",
+      "te": "అగ్నిశిఖ",
+      "sa": "क्षुरः"
+    },
+    "rashi": {
+      "iast": "Vṛṣabha",
+      "te": "వృషభం",
+      "sa": "वृषभः",
+      "symbol": "♉"
+    },
+    "rashi_lord": {
+      "iast": "Śukra",
+      "sa": "शुक्रः",
+      "te": "శుక్రుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Sūrya",
+      "sa": "सूर्यः",
+      "te": "సూర్యుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Agni",
+      "te": "అగ్నిదేవుడు",
+      "sa": "अग्निः"
+    },
+    "nakshatra_animal": {
+      "iast": "Female Sheep",
+      "te": "గొర్రె",
+      "sa": "मेषः"
+    },
+    "gana": {
+      "iast": "Rākṣasa",
+      "sa": "राक्षसगणः",
+      "te": "రాక్షసగణం"
+    },
+    "tattva": {
+      "iast": "Agni",
+      "sa": "अग्निः",
+      "te": "అగ్ని",
+      "en": "Fire"
+    },
+    "purushardha": {
+      "iast": "Kāma",
+      "sa": "कामः",
+      "te": "కామం"
+    },
+    "dosha": {
+      "iast": "Kapha",
+      "sa": "कफः",
+      "te": "కఫం"
+    },
+    "varna": {
+      "iast": "Brāhmaṇa",
+      "sa": "ब्राह्मणः",
+      "te": "బ్రాహ్మణుడు"
+    },
+    "nadi": {
+      "iast": "Antya",
+      "sa": "अन्त्यनाडी",
+      "te": "అంత్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Māṇikya",
+      "en": "Ruby",
+      "sa": "माणिक्यम्",
+      "te": "మాణిక్యం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "अ",
+        "te": "అ",
+        "iast": "a"
+      },
+      "p2": {
+        "sa": "ई",
+        "te": "ఈ",
+        "iast": "ī"
+      },
+      "p3": {
+        "sa": "उ",
+        "te": "ఉ",
+        "iast": "u"
+      },
+      "p4": {
+        "sa": "ए",
+        "te": "ఏ",
+        "iast": "e"
+      }
+    },
+    "vsn_shloka_from": 9,
+    "vsn_shloka_to": 12,
+    "mantra": {
+      "sa": "कृत्तिका बहुला ज्ञेया हुतभुग्वह्नि संज्ञिका ॥\nषट्तारकः पावकश्चानलोऽथ ज्वलनस्तथा ।",
+      "te": "కృత్తికా బహులా జ్ఞేయా హుతభుగ్వహ్ని సంజ్ఞికా ॥\nషట్తారకః పావకశ్చానలోఽథ జ్వలనస్తథా ।",
+      "iast": "kṛttikā bahulā jñeyā hutabhugvahni saṃjñikā ||\nṣaṭtārakaḥ pāvakaścānalo'tha jvalanastathā |"
+    }
+  },
+  {
+    "num": 4,
+    "id": "rohini",
+    "name": {
+      "iast": "Rohiṇī",
+      "te": "రోహిణి",
+      "sa": "रोहिणी"
+    },
+    "stars": 5,
+    "symbol": {
+      "en": "Chariot / Ox-cart",
+      "te": "శకటం",
+      "sa": "शकटः"
+    },
+    "rashi": {
+      "iast": "Vṛṣabha",
+      "te": "వృషభం",
+      "sa": "वृषभः",
+      "symbol": "♉"
+    },
+    "rashi_lord": {
+      "iast": "Śukra",
+      "sa": "शुक्रः",
+      "te": "శుక్రుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Candra",
+      "sa": "चन्द्रः",
+      "te": "చంద్రుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Brahmā",
+      "te": "బ్రహ్మదేవుడు",
+      "sa": "ब्रह्मा"
+    },
+    "nakshatra_animal": {
+      "iast": "Male Serpent",
+      "te": "పాము",
+      "sa": "सर्पः"
+    },
+    "gana": {
+      "iast": "Manuṣya",
+      "sa": "मानुषगणः",
+      "te": "మానవగణం"
+    },
+    "tattva": {
+      "iast": "Pṛthvī",
+      "sa": "पृथ्वी",
+      "te": "పృథ్వి",
+      "en": "Earth"
+    },
+    "purushardha": {
+      "iast": "Mokṣa",
+      "sa": "मोक्षः",
+      "te": "మోక్షం"
+    },
+    "dosha": {
+      "iast": "Vāta",
+      "sa": "वातः",
+      "te": "వాతం"
+    },
+    "varna": {
+      "iast": "Śūdra",
+      "sa": "शूद्रः",
+      "te": "శూద్రుడు"
+    },
+    "nadi": {
+      "iast": "Ādi",
+      "sa": "आदिनाडी",
+      "te": "ఆది నాడి"
+    },
+    "gemstone": {
+      "iast": "Mukta",
+      "en": "Pearl",
+      "sa": "मुक्तम्",
+      "te": "ముత్యం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "ओ",
+        "te": "ఓ",
+        "iast": "o"
+      },
+      "p2": {
+        "sa": "वा",
+        "te": "వా",
+        "iast": "vā"
+      },
+      "p3": {
+        "sa": "वि",
+        "te": "వి",
+        "iast": "vi"
+      },
+      "p4": {
+        "sa": "वु",
+        "te": "వు",
+        "iast": "vu"
+      }
+    },
+    "vsn_shloka_from": 13,
+    "vsn_shloka_to": 16,
+    "mantra": {
+      "sa": "रोहिणी च विधिर्ब्रह्मा प्राजापत्यश्चतुर्मुखः ॥\nप्राजापतिः प्रजेशशच विधातापङ्कजासनः ।\nआत्मभूः पद्मयोनीस्स्याद्ब्रह्मनाम ततः परम् ॥",
+      "te": "రోహిణీ చ విధిర్బ్రహ్మా ప్రాజాపత్యశ్చతుర్ముఖః ॥\nప్రాజాపతిః ప్రజేశశచ విధాతాపఙ్కజాసనః ।\nఆత్మభూః పద్మయోనీస్స్యాద్బ్రహ్మనామ తతః పరమ్ ॥",
+      "iast": "rohiṇī ca vidhirbrahmā prājāpatyaścaturmukhaḥ ||\nprājāpatiḥ prajeśaśaca vidhātāpaṅkajāsanaḥ |\nātmabhūḥ padmayonīssyādbrahmanāma tataḥ param ||"
+    }
+  },
+  {
+    "num": 5,
+    "id": "mrigasira",
+    "name": {
+      "iast": "Mṛgaśirā",
+      "te": "మృగశిర",
+      "sa": "मृगशिरा"
+    },
+    "stars": 3,
+    "symbol": {
+      "en": "Deer's head",
+      "te": "మృగశిరస్సు",
+      "sa": "मृगशिरः"
+    },
+    "rashi": {
+      "iast": "Mithuna",
+      "te": "మిథునం",
+      "sa": "मिथुनः",
+      "symbol": "♊"
+    },
+    "rashi_lord": {
+      "iast": "Budha",
+      "sa": "बुधः",
+      "te": "బుధుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Maṅgala",
+      "sa": "मङ्गलः",
+      "te": "కుజుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Soma",
+      "te": "సోముడు",
+      "sa": "सोमः"
+    },
+    "nakshatra_animal": {
+      "iast": "Female Serpent",
+      "te": "ఆడపాము",
+      "sa": "सर्पी"
+    },
+    "gana": {
+      "iast": "Deva",
+      "sa": "देवगणः",
+      "te": "దేవగణం"
+    },
+    "tattva": {
+      "iast": "Pṛthvī",
+      "sa": "पृथ्वी",
+      "te": "పృథ్వి",
+      "en": "Earth"
+    },
+    "purushardha": {
+      "iast": "Mokṣa",
+      "sa": "मोक्षः",
+      "te": "మోక్షం"
+    },
+    "dosha": {
+      "iast": "Pitta",
+      "sa": "पित्तः",
+      "te": "పిత్తం"
+    },
+    "varna": {
+      "iast": "Vaiśya",
+      "sa": "वैश्यः",
+      "te": "వైశ్యుడు"
+    },
+    "nadi": {
+      "iast": "Madhya",
+      "sa": "मध्यनाडी",
+      "te": "మధ్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Pravāḷa",
+      "en": "Red Coral",
+      "sa": "प्रवालम्",
+      "te": "పగడం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "वे",
+        "te": "వే",
+        "iast": "ve"
+      },
+      "p2": {
+        "sa": "वो",
+        "te": "వో",
+        "iast": "vo"
+      },
+      "p3": {
+        "sa": "का",
+        "te": "కా",
+        "iast": "kā"
+      },
+      "p4": {
+        "sa": "की",
+        "te": "కీ",
+        "iast": "kī"
+      }
+    },
+    "vsn_shloka_from": 17,
+    "vsn_shloka_to": 20,
+    "mantra": {
+      "sa": "मृगशीर्षे मृहश्चन्द्र ऐन्दवो हिमदीधितिः ।\nस्याच्चन्द्र शिशुभं सौम्यो निशानाथो निशाकरः ॥",
+      "te": "మృగశీర్షే మృహశ్చన్ద్ర ఐన్దవో హిమదీధితిః ।\nస్యాచ్చన్ద్ర శిశుభం సౌమ్యో నిశానాథో నిశాకరః ॥",
+      "iast": "mṛgaśīrṣe mṛhaścandra aindavo himadīdhitiḥ |\nsyāccandra śiśubhaṃ saumyo niśānātho niśākaraḥ ||"
+    }
+  },
+  {
+    "num": 6,
+    "id": "ardra",
+    "name": {
+      "iast": "Ārdrā",
+      "te": "ఆర్ద్ర",
+      "sa": "आर्द्रा"
+    },
+    "stars": 1,
+    "symbol": {
+      "en": "Teardrop / Diamond",
+      "te": "వజ్రం",
+      "sa": "मणिः"
+    },
+    "rashi": {
+      "iast": "Mithuna",
+      "te": "మిథునం",
+      "sa": "मिथुनः",
+      "symbol": "♊"
+    },
+    "rashi_lord": {
+      "iast": "Budha",
+      "sa": "बुधः",
+      "te": "బుధుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Rāhu",
+      "sa": "राहुः",
+      "te": "రాహువు"
+    },
+    "nakshatra_deity": {
+      "iast": "Rudra",
+      "te": "రుద్రుడు",
+      "sa": "रुद्रः"
+    },
+    "nakshatra_animal": {
+      "iast": "Female Dog",
+      "te": "ఆడకుక్క",
+      "sa": "शुनी"
+    },
+    "gana": {
+      "iast": "Manuṣya",
+      "sa": "मानुषगणः",
+      "te": "మానవగణం"
+    },
+    "tattva": {
+      "iast": "Jala",
+      "sa": "जलम्",
+      "te": "జలం",
+      "en": "Water"
+    },
+    "purushardha": {
+      "iast": "Kāma",
+      "sa": "कामः",
+      "te": "కామం"
+    },
+    "dosha": {
+      "iast": "Kapha",
+      "sa": "कफः",
+      "te": "కఫం"
+    },
+    "varna": {
+      "iast": "Chandāla",
+      "sa": "चाण्डालः",
+      "te": "చండాలుడు"
+    },
+    "nadi": {
+      "iast": "Antya",
+      "sa": "अन्त्यनाडी",
+      "te": "అంత్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Gomeda",
+      "en": "Hessonite",
+      "sa": "गोमेदम्",
+      "te": "గోమేధికం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "कु",
+        "te": "కు",
+        "iast": "ku"
+      },
+      "p2": {
+        "sa": "घ",
+        "te": "ఘ",
+        "iast": "gha"
+      },
+      "p3": {
+        "sa": "ङ",
+        "te": "ఙ",
+        "iast": "ṅa"
+      },
+      "p4": {
+        "sa": "छ",
+        "te": "ఛ",
+        "iast": "cha"
+      }
+    },
+    "vsn_shloka_from": 21,
+    "vsn_shloka_to": 24,
+    "mantra": {
+      "sa": "आर्द्रा रौद्रश्च पुरजिच्छर्वस्थाणुर्भवो हरः ।",
+      "te": "ఆర్ద్రా రౌద్రశ్చ పురజిచ్ఛర్వస్థాణుర్భవో హరః ।",
+      "iast": "ārdrā raudraśca purajiccharvasthāṇurbhavo haraḥ |"
+    }
+  },
+  {
+    "num": 7,
+    "id": "punarvasu",
+    "name": {
+      "iast": "Punarvasu",
+      "te": "పునర్వసు",
+      "sa": "पुनर्वसु"
+    },
+    "stars": 2,
+    "symbol": {
+      "en": "Bow and quiver",
+      "te": "ధనస్సు",
+      "sa": "धनुः"
+    },
+    "rashi": {
+      "iast": "Karkaṭa",
+      "te": "కర్కాటకం",
+      "sa": "कर्कटः",
+      "symbol": "♋"
+    },
+    "rashi_lord": {
+      "iast": "Candra",
+      "sa": "चन्द्रः",
+      "te": "చంద్రుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Guru",
+      "sa": "गुरुः",
+      "te": "గురువు"
+    },
+    "nakshatra_deity": {
+      "iast": "Aditi",
+      "te": "అదితి",
+      "sa": "अदितिः"
+    },
+    "nakshatra_animal": {
+      "iast": "Female Cat",
+      "te": "ఆడపిల్లి",
+      "sa": "मार्जारी"
+    },
+    "gana": {
+      "iast": "Deva",
+      "sa": "देवगणः",
+      "te": "దేవగణం"
+    },
+    "tattva": {
+      "iast": "Jala",
+      "sa": "जलम्",
+      "te": "జలం",
+      "en": "Water"
+    },
+    "purushardha": {
+      "iast": "Artha",
+      "sa": "अर्थः",
+      "te": "అర్థం"
+    },
+    "dosha": {
+      "iast": "Vāta",
+      "sa": "वातः",
+      "te": "వాతం"
+    },
+    "varna": {
+      "iast": "Vaiśya",
+      "sa": "वैश्यः",
+      "te": "వైశ్యుడు"
+    },
+    "nadi": {
+      "iast": "Ādi",
+      "sa": "आदिनाडी",
+      "te": "ఆది నాడి"
+    },
+    "gemstone": {
+      "iast": "Puṣparāga",
+      "en": "Yellow Sapphire",
+      "sa": "पुष्परागः",
+      "te": "పుష్యరాగం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "के",
+        "te": "కే",
+        "iast": "ke"
+      },
+      "p2": {
+        "sa": "को",
+        "te": "కో",
+        "iast": "ko"
+      },
+      "p3": {
+        "sa": "हा",
+        "te": "హా",
+        "iast": "hā"
+      },
+      "p4": {
+        "sa": "ही",
+        "te": "హీ",
+        "iast": "hī"
+      }
+    },
+    "vsn_shloka_from": 25,
+    "vsn_shloka_to": 28,
+    "mantra": {
+      "sa": "पुनर्वस्वदितिर्देवमाता आदित्यमेव च ॥",
+      "te": "పునర్వస్వదితిర్దేవమాతా ఆదిత్యమేవ చ ॥",
+      "iast": "punarvasvaditirdevamātā ādityameva ca ||"
+    }
+  },
+  {
+    "num": 8,
+    "id": "pushya",
+    "name": {
+      "iast": "Puṣya",
+      "te": "పుష్య",
+      "sa": "पुष्य"
+    },
+    "stars": 3,
+    "symbol": {
+      "en": "Lotus flower / udder",
+      "te": "పద్మం",
+      "sa": "पद्मः"
+    },
+    "rashi": {
+      "iast": "Karkaṭa",
+      "te": "కర్కాటకం",
+      "sa": "कर्कटः",
+      "symbol": "♋"
+    },
+    "rashi_lord": {
+      "iast": "Candra",
+      "sa": "चन्द्रः",
+      "te": "చంద్రుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Śani",
+      "sa": "शनिः",
+      "te": "శనిదేవుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Bṛhaspati",
+      "te": "బృహస్పతి",
+      "sa": "बृहस्पतिः"
+    },
+    "nakshatra_animal": {
+      "iast": "Male Sheep",
+      "te": "గొర్రె పోతు",
+      "sa": "मेषः"
+    },
+    "gana": {
+      "iast": "Deva",
+      "sa": "देवगणः",
+      "te": "దేవగణం"
+    },
+    "tattva": {
+      "iast": "Jala",
+      "sa": "जलम्",
+      "te": "జలం",
+      "en": "Water"
+    },
+    "purushardha": {
+      "iast": "Dharma",
+      "sa": "धर्मः",
+      "te": "ధర్మం"
+    },
+    "dosha": {
+      "iast": "Pitta",
+      "sa": "पित्तः",
+      "te": "పిత్తం"
+    },
+    "varna": {
+      "iast": "Kṣatriya",
+      "sa": "क्षत्रियः",
+      "te": "క్షత్రియుడు"
+    },
+    "nadi": {
+      "iast": "Madhya",
+      "sa": "मध्यनाडी",
+      "te": "మధ్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Nīla",
+      "en": "Blue Sapphire",
+      "sa": "नीलम्",
+      "te": "నీలమణి"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "हु",
+        "te": "హు",
+        "iast": "hu"
+      },
+      "p2": {
+        "sa": "हे",
+        "te": "హే",
+        "iast": "he"
+      },
+      "p3": {
+        "sa": "हो",
+        "te": "హో",
+        "iast": "ho"
+      },
+      "p4": {
+        "sa": "डा",
+        "te": "డా",
+        "iast": "ḍā"
+      }
+    },
+    "vsn_shloka_from": 29,
+    "vsn_shloka_to": 32,
+    "mantra": {
+      "sa": "इज्याद्यौ तिष्यपुष्येतु पूजितो गुरुनामकः ।\nवागीशश्चामरेज्यश्च जीवो देवपुरोहितः ॥",
+      "te": "ఇజ్యాద్యౌ తిష్యపుష్యేతు పూజితో గురునామకః ।\nవాగీశశ్చామరేజ్యశ్చ జీవో దేవపురోహితః ॥",
+      "iast": "ijyādyau tiṣyapuṣyetu pūjito gurunāmakaḥ |\nvāgīśaścāmarejyaśca jīvo devapurohitaḥ ||"
+    }
+  },
+  {
+    "num": 9,
+    "id": "ashlesha",
+    "name": {
+      "iast": "Āśleṣā",
+      "te": "ఆశ్లేష",
+      "sa": "आश्लेषा"
+    },
+    "stars": 5,
+    "symbol": {
+      "en": "Coiled serpent",
+      "te": "నాగబంధం",
+      "sa": "सर्पः"
+    },
+    "rashi": {
+      "iast": "Karkaṭa",
+      "te": "కర్కాటకం",
+      "sa": "कर्कटः",
+      "symbol": "♋"
+    },
+    "rashi_lord": {
+      "iast": "Candra",
+      "sa": "चन्द्रः",
+      "te": "చంద్రుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Budha",
+      "sa": "बुधः",
+      "te": "బుధుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Sarpas",
+      "te": "నాగదేవతలు",
+      "sa": "नागाः"
+    },
+    "nakshatra_animal": {
+      "iast": "Male Cat",
+      "te": "మగపిల్లి",
+      "sa": "मार्जारः"
+    },
+    "gana": {
+      "iast": "Rākṣasa",
+      "sa": "राक्षसगणः",
+      "te": "రాక్షసగణం"
+    },
+    "tattva": {
+      "iast": "Jala",
+      "sa": "जलम्",
+      "te": "జలం",
+      "en": "Water"
+    },
+    "purushardha": {
+      "iast": "Dharma",
+      "sa": "धर्मः",
+      "te": "ధర్మం"
+    },
+    "dosha": {
+      "iast": "Kapha",
+      "sa": "कफः",
+      "te": "కఫం"
+    },
+    "varna": {
+      "iast": "Chandāla",
+      "sa": "चाण्डालः",
+      "te": "చండాలుడు"
+    },
+    "nadi": {
+      "iast": "Antya",
+      "sa": "अन्त्यनाडी",
+      "te": "అంత్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Marakata",
+      "en": "Emerald",
+      "sa": "मरकतम्",
+      "te": "మరకతం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "डी",
+        "te": "డీ",
+        "iast": "ḍī"
+      },
+      "p2": {
+        "sa": "डू",
+        "te": "డూ",
+        "iast": "ḍū"
+      },
+      "p3": {
+        "sa": "डे",
+        "te": "డే",
+        "iast": "ḍe"
+      },
+      "p4": {
+        "sa": "डो",
+        "te": "డో",
+        "iast": "ḍo"
+      }
+    },
+    "vsn_shloka_from": 33,
+    "vsn_shloka_to": 36,
+    "mantra": {
+      "sa": "आश्रेषोरगसार्पाहि भुजङ्गव्यालसंज्ञिकः ।",
+      "te": "ఆశ్రేషోరగసార్పాహి భుజఙ్గవ్యాలసంజ్ఞికః ।",
+      "iast": "āśreṣoragasārpāhi bhujaṅgavyālasaṃjñikaḥ |"
+    }
+  },
+  {
+    "num": 10,
+    "id": "magha",
+    "name": {
+      "iast": "Maghā",
+      "te": "మఘ",
+      "sa": "मघा"
+    },
+    "stars": 5,
+    "symbol": {
+      "en": "Royal throne / palanquin",
+      "te": "సింహాసనం",
+      "sa": "सिंहासनम्"
+    },
+    "rashi": {
+      "iast": "Siṃha",
+      "te": "సింహం",
+      "sa": "सिंहः",
+      "symbol": "♌"
+    },
+    "rashi_lord": {
+      "iast": "Sūrya",
+      "sa": "सूर्यः",
+      "te": "సూర్యుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Ketu",
+      "sa": "केतुः",
+      "te": "కేతువు"
+    },
+    "nakshatra_deity": {
+      "iast": "Pitṛs",
+      "te": "పితృదేవతలు",
+      "sa": "पितरः"
+    },
+    "nakshatra_animal": {
+      "iast": "Male Rat",
+      "te": "మగ ఎలుక",
+      "sa": "मूषकः"
+    },
+    "gana": {
+      "iast": "Rākṣasa",
+      "sa": "राक्षसगणः",
+      "te": "రాక్షసగణం"
+    },
+    "tattva": {
+      "iast": "Agni",
+      "sa": "अग्निः",
+      "te": "అగ్ని",
+      "en": "Fire"
+    },
+    "purushardha": {
+      "iast": "Artha",
+      "sa": "अर्थः",
+      "te": "అర్థం"
+    },
+    "dosha": {
+      "iast": "Vāta",
+      "sa": "वातः",
+      "te": "వాతం"
+    },
+    "varna": {
+      "iast": "Śūdra",
+      "sa": "शूद्रः",
+      "te": "శూద్రుడు"
+    },
+    "nadi": {
+      "iast": "Ādi",
+      "sa": "आदिनाडी",
+      "te": "ఆది నాడి"
+    },
+    "gemstone": {
+      "iast": "Vaidūrya",
+      "en": "Cat's Eye",
+      "sa": "वैदूर्यः",
+      "te": "వైఢూర్యం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "मा",
+        "te": "మా",
+        "iast": "mā"
+      },
+      "p2": {
+        "sa": "मी",
+        "te": "మీ",
+        "iast": "mī"
+      },
+      "p3": {
+        "sa": "मू",
+        "te": "మూ",
+        "iast": "mū"
+      },
+      "p4": {
+        "sa": "मे",
+        "te": "మే",
+        "iast": "me"
+      }
+    },
+    "vsn_shloka_from": 37,
+    "vsn_shloka_to": 40,
+    "mantra": {
+      "sa": "मघा पिता च पैत्रश्च मेखला पितृभं तथा ॥",
+      "te": "మఘా పితా చ పైత్రశ్చ మేఖలా పితృభం తథా ॥",
+      "iast": "maghā pitā ca paitraśca mekhalā pitṛbhaṃ tathā ||"
+    }
+  },
+  {
+    "num": 11,
+    "id": "purva-phalguni",
+    "name": {
+      "iast": "Pūrva Phālgunī",
+      "te": "పూర్వ ఫాల్గుణి",
+      "sa": "पूर्वफाल्गुणी"
+    },
+    "stars": 2,
+    "symbol": {
+      "en": "Front legs of bed / fig tree",
+      "te": "మంచం ముందు కాళ్ళు",
+      "sa": "खट्वा"
+    },
+    "rashi": {
+      "iast": "Siṃha",
+      "te": "సింహం",
+      "sa": "सिंहः",
+      "symbol": "♌"
+    },
+    "rashi_lord": {
+      "iast": "Sūrya",
+      "sa": "सूर्यः",
+      "te": "సూర్యుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Śukra",
+      "sa": "शुक्रः",
+      "te": "శుక్రుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Bhaga",
+      "te": "భగుడు",
+      "sa": "भगः"
+    },
+    "nakshatra_animal": {
+      "iast": "Female Rat",
+      "te": "ఆడ ఎలుక",
+      "sa": "मूषिका"
+    },
+    "gana": {
+      "iast": "Manuṣya",
+      "sa": "मानुषगणः",
+      "te": "మానవగణం"
+    },
+    "tattva": {
+      "iast": "Agni",
+      "sa": "अग्निः",
+      "te": "అగ్ని",
+      "en": "Fire"
+    },
+    "purushardha": {
+      "iast": "Kāma",
+      "sa": "कामः",
+      "te": "కామం"
+    },
+    "dosha": {
+      "iast": "Pitta",
+      "sa": "पित्तः",
+      "te": "పిత్తం"
+    },
+    "varna": {
+      "iast": "Brāhmaṇa",
+      "sa": "ब्राह्मणः",
+      "te": "బ్రాహ్మణుడు"
+    },
+    "nadi": {
+      "iast": "Madhya",
+      "sa": "मध्यनाडी",
+      "te": "మధ్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Vajra",
+      "en": "Diamond",
+      "sa": "वज्रम्",
+      "te": "వజ్రం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "मो",
+        "te": "మో",
+        "iast": "mo"
+      },
+      "p2": {
+        "sa": "टा",
+        "te": "టా",
+        "iast": "ṭā"
+      },
+      "p3": {
+        "sa": "टी",
+        "te": "టీ",
+        "iast": "ṭī"
+      },
+      "p4": {
+        "sa": "टू",
+        "te": "టూ",
+        "iast": "ṭū"
+      }
+    },
+    "vsn_shloka_from": 41,
+    "vsn_shloka_to": 44,
+    "mantra": {
+      "sa": "भाग्यं पूर्वाफल्गुनी स्याद्भागाख्यं भगसंज्ञिकम् ।",
+      "te": "భాగ్యం పూర్వాఫల్గునీ స్యాద్భాగాఖ్యం భగసంజ్ఞికమ్ ।",
+      "iast": "bhāgyaṃ pūrvāphalgunī syādbhāgākhyaṃ bhagasaṃjñikam |"
+    }
+  },
+  {
+    "num": 12,
+    "id": "uttara-phalguni",
+    "name": {
+      "iast": "Uttara Phālgunī",
+      "te": "ఉత్తర ఫాల్గుణి",
+      "sa": "उत्तरफाल्गुणी"
+    },
+    "stars": 2,
+    "symbol": {
+      "en": "Rear legs of bed",
+      "te": "మంచం వెనక కాళ్ళు",
+      "sa": "खट्वापादौ"
+    },
+    "rashi": {
+      "iast": "Kanyā",
+      "te": "కన్య",
+      "sa": "कन्या",
+      "symbol": "♍"
+    },
+    "rashi_lord": {
+      "iast": "Budha",
+      "sa": "बुधः",
+      "te": "బుధుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Sūrya",
+      "sa": "सूर्यः",
+      "te": "సూర్యుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Aryaman",
+      "te": "ఆర్యముడు",
+      "sa": "अर्यमा"
+    },
+    "nakshatra_animal": {
+      "iast": "Male Cow (Bull)",
+      "te": "ఎద్దు",
+      "sa": "वृषभः"
+    },
+    "gana": {
+      "iast": "Manuṣya",
+      "sa": "मानुषगणः",
+      "te": "మానవగణం"
+    },
+    "tattva": {
+      "iast": "Agni",
+      "sa": "अग्निः",
+      "te": "అగ్ని",
+      "en": "Fire"
+    },
+    "purushardha": {
+      "iast": "Mokṣa",
+      "sa": "मोक्षः",
+      "te": "మోక్షం"
+    },
+    "dosha": {
+      "iast": "Kapha",
+      "sa": "कफः",
+      "te": "కఫం"
+    },
+    "varna": {
+      "iast": "Kṣatriya",
+      "sa": "क्षत्रियः",
+      "te": "క్షత్రియుడు"
+    },
+    "nadi": {
+      "iast": "Antya",
+      "sa": "अन्त्यनाडी",
+      "te": "అంత్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Māṇikya",
+      "en": "Ruby",
+      "sa": "माणिक्यम्",
+      "te": "మాణిక్యం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "टे",
+        "te": "టే",
+        "iast": "ṭe"
+      },
+      "p2": {
+        "sa": "टो",
+        "te": "టో",
+        "iast": "ṭo"
+      },
+      "p3": {
+        "sa": "पा",
+        "te": "పా",
+        "iast": "pā"
+      },
+      "p4": {
+        "sa": "पी",
+        "te": "పీ",
+        "iast": "pī"
+      }
+    },
+    "vsn_shloka_from": 45,
+    "vsn_shloka_to": 48,
+    "mantra": {
+      "sa": "अर्यमार्यमणं चैव अर्यम्णं चोत्तरं तथा ॥",
+      "te": "అర్యమార్యమణం చైవ అర్యమ్ణం చోత్తరం తథా ॥",
+      "iast": "aryamāryamaṇaṃ caiva aryamṇaṃ cottaraṃ tathā ||"
+    }
+  },
+  {
+    "num": 13,
+    "id": "hasta",
+    "name": {
+      "iast": "Hasta",
+      "te": "హస్త",
+      "sa": "हस्त"
+    },
+    "stars": 5,
+    "symbol": {
+      "en": "Open hand / fist",
+      "te": "అరచేయి",
+      "sa": "हस्तः"
+    },
+    "rashi": {
+      "iast": "Kanyā",
+      "te": "కన్య",
+      "sa": "कन्या",
+      "symbol": "♍"
+    },
+    "rashi_lord": {
+      "iast": "Budha",
+      "sa": "बुधः",
+      "te": "బుధుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Candra",
+      "sa": "चन्द्रः",
+      "te": "చంద్రుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Sūrya / Savitṛ",
+      "te": "సవితృడు",
+      "sa": "सविता"
+    },
+    "nakshatra_animal": {
+      "iast": "Female Buffalo",
+      "te": "ఆడ గేదె",
+      "sa": "महिषी"
+    },
+    "gana": {
+      "iast": "Deva",
+      "sa": "देवगणः",
+      "te": "దేవగణం"
+    },
+    "tattva": {
+      "iast": "Agni",
+      "sa": "अग्निः",
+      "te": "అగ్ని",
+      "en": "Fire"
+    },
+    "purushardha": {
+      "iast": "Mokṣa",
+      "sa": "मोक्षः",
+      "te": "మోక్షం"
+    },
+    "dosha": {
+      "iast": "Vāta",
+      "sa": "वातः",
+      "te": "వాతం"
+    },
+    "varna": {
+      "iast": "Vaiśya",
+      "sa": "वैश्यः",
+      "te": "వైశ్యుడు"
+    },
+    "nadi": {
+      "iast": "Ādi",
+      "sa": "आदिनाडी",
+      "te": "ఆది నాడి"
+    },
+    "gemstone": {
+      "iast": "Mukta",
+      "en": "Pearl",
+      "sa": "मुक्तम्",
+      "te": "ముత్యం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "पू",
+        "te": "పూ",
+        "iast": "pū"
+      },
+      "p2": {
+        "sa": "षा",
+        "te": "షా",
+        "iast": "ṣā"
+      },
+      "p3": {
+        "sa": "णा",
+        "te": "ణా",
+        "iast": "ṇā"
+      },
+      "p4": {
+        "sa": "ठा",
+        "te": "ఠా",
+        "iast": "ṭhā"
+      }
+    },
+    "vsn_shloka_from": 49,
+    "vsn_shloka_to": 52,
+    "mantra": {
+      "sa": "हस्तस्सवितृसावित्रा वर्कस्सूर्यो दिवाकरः ।",
+      "te": "హస్తస్సవితృసావిత్రా వర్కస్సూర్యో దివాకరః ।",
+      "iast": "hastassavitṛsāvitrā varkassūryo divākaraḥ |"
+    }
+  },
+  {
+    "num": 14,
+    "id": "chitra",
+    "name": {
+      "iast": "Citrā",
+      "te": "చిత్ర",
+      "sa": "चित्रा"
+    },
+    "stars": 1,
+    "symbol": {
+      "en": "Bright jewel / pearl",
+      "te": "ముత్యం",
+      "sa": "मुक्ता"
+    },
+    "rashi": {
+      "iast": "Tulā",
+      "te": "తులా",
+      "sa": "तुला",
+      "symbol": "♎"
+    },
+    "rashi_lord": {
+      "iast": "Śukra",
+      "sa": "शुक्रः",
+      "te": "శుక్రుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Maṅgala",
+      "sa": "मङ्गलः",
+      "te": "కుజుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Tvaṣṭṛ",
+      "te": "విశ్వకర్మ",
+      "sa": "त्वष्टा"
+    },
+    "nakshatra_animal": {
+      "iast": "Female Tiger",
+      "te": "ఆడ పులి",
+      "sa": "व्याघ्री"
+    },
+    "gana": {
+      "iast": "Rākṣasa",
+      "sa": "राक्षसगणः",
+      "te": "రాక్షసగణం"
+    },
+    "tattva": {
+      "iast": "Agni",
+      "sa": "अग्निः",
+      "te": "అగ్ని",
+      "en": "Fire"
+    },
+    "purushardha": {
+      "iast": "Kāma",
+      "sa": "कामः",
+      "te": "కామం"
+    },
+    "dosha": {
+      "iast": "Pitta",
+      "sa": "पित्तः",
+      "te": "పిత్తం"
+    },
+    "varna": {
+      "iast": "Vaiśya",
+      "sa": "वैश्यः",
+      "te": "వైశ్యుడు"
+    },
+    "nadi": {
+      "iast": "Madhya",
+      "sa": "मध्यनाडी",
+      "te": "మధ్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Pravāḷa",
+      "en": "Red Coral",
+      "sa": "प्रवालम्",
+      "te": "పగడం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "पे",
+        "te": "పే",
+        "iast": "pe"
+      },
+      "p2": {
+        "sa": "पो",
+        "te": "పో",
+        "iast": "po"
+      },
+      "p3": {
+        "sa": "रा",
+        "te": "రా",
+        "iast": "rā"
+      },
+      "p4": {
+        "sa": "री",
+        "te": "రీ",
+        "iast": "rī"
+      }
+    },
+    "vsn_shloka_from": 53,
+    "vsn_shloka_to": 56,
+    "mantra": {
+      "sa": "चित्रास्यात्त्वष्टृदैवत्यं त्वाष्ट्रेन्द्रे सुरवर्धकम् ॥",
+      "te": "చిత్రాస్యాత్త్వష్టృదైవత్యం త్వాష్ట్రేన్ద్రే సురవర్ధకమ్ ॥",
+      "iast": "citrāsyāttvaṣṭṛdaivatyaṃ tvāṣṭrendre suravardhakam ||"
+    }
+  },
+  {
+    "num": 15,
+    "id": "swati",
+    "name": {
+      "iast": "Svāti",
+      "te": "స్వాతి",
+      "sa": "स्वाति"
+    },
+    "stars": 1,
+    "symbol": {
+      "en": "Young sprout blown by wind",
+      "te": "చిగురు",
+      "sa": "अङ्कुरः"
+    },
+    "rashi": {
+      "iast": "Tulā",
+      "te": "తులా",
+      "sa": "तुला",
+      "symbol": "♎"
+    },
+    "rashi_lord": {
+      "iast": "Śukra",
+      "sa": "शुक्रः",
+      "te": "శుక్రుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Rāhu",
+      "sa": "राहुः",
+      "te": "రాహువు"
+    },
+    "nakshatra_deity": {
+      "iast": "Vāyu",
+      "te": "వాయుదేవుడు",
+      "sa": "वायुः"
+    },
+    "nakshatra_animal": {
+      "iast": "Male Buffalo",
+      "te": "మగ గేదె",
+      "sa": "महिषः"
+    },
+    "gana": {
+      "iast": "Deva",
+      "sa": "देवगणः",
+      "te": "దేవగణం"
+    },
+    "tattva": {
+      "iast": "Vāyu",
+      "sa": "वायुः",
+      "te": "వాయువు",
+      "en": "Air"
+    },
+    "purushardha": {
+      "iast": "Artha",
+      "sa": "अर्थः",
+      "te": "అర్థం"
+    },
+    "dosha": {
+      "iast": "Kapha",
+      "sa": "कफः",
+      "te": "కఫం"
+    },
+    "varna": {
+      "iast": "Chandāla",
+      "sa": "चाण्डालः",
+      "te": "చండాలుడు"
+    },
+    "nadi": {
+      "iast": "Antya",
+      "sa": "अन्त्यनाडी",
+      "te": "అంత్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Gomeda",
+      "en": "Hessonite",
+      "sa": "गोमेदम्",
+      "te": "గోమేధికం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "रू",
+        "te": "రూ",
+        "iast": "rū"
+      },
+      "p2": {
+        "sa": "रे",
+        "te": "రే",
+        "iast": "re"
+      },
+      "p3": {
+        "sa": "रो",
+        "te": "రో",
+        "iast": "ro"
+      },
+      "p4": {
+        "sa": "ता",
+        "te": "తా",
+        "iast": "tā"
+      }
+    },
+    "vsn_shloka_from": 57,
+    "vsn_shloka_to": 60,
+    "mantra": {
+      "sa": "स्वाती समीरणो वायुः पवनश्चानिलो मरुत् ।",
+      "te": "స్వాతీ సమీరణో వాయుః పవనశ్చానిలో మరుత్ ।",
+      "iast": "svātī samīraṇo vāyuḥ pavanaścānilo marut |"
+    }
+  },
+  {
+    "num": 16,
+    "id": "vishakha",
+    "name": {
+      "iast": "Viśākhā",
+      "te": "విశాఖ",
+      "sa": "विशाखा"
+    },
+    "stars": 4,
+    "symbol": {
+      "en": "Triumphal arch / potter's wheel",
+      "te": "విజయతోరణం",
+      "sa": "तोरणम्"
+    },
+    "rashi": {
+      "iast": "Vṛścika",
+      "te": "వృశ్చికం",
+      "sa": "वृश्चिकः",
+      "symbol": "♏"
+    },
+    "rashi_lord": {
+      "iast": "Maṅgala",
+      "sa": "मङ्गलः",
+      "te": "కుజుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Guru",
+      "sa": "गुरुः",
+      "te": "గురువు"
+    },
+    "nakshatra_deity": {
+      "iast": "Indra and Agni",
+      "te": "ఇంద్రాగ్నులు",
+      "sa": "इन्द्राग्नी"
+    },
+    "nakshatra_animal": {
+      "iast": "Male Tiger",
+      "te": "మగ పులి",
+      "sa": "व्याघ्रः"
+    },
+    "gana": {
+      "iast": "Rākṣasa",
+      "sa": "राक्षसगणः",
+      "te": "రాక్షసగణం"
+    },
+    "tattva": {
+      "iast": "Agni",
+      "sa": "अग्निः",
+      "te": "అగ్ని",
+      "en": "Fire"
+    },
+    "purushardha": {
+      "iast": "Dharma",
+      "sa": "धर्मः",
+      "te": "ధర్మం"
+    },
+    "dosha": {
+      "iast": "Vāta",
+      "sa": "वातः",
+      "te": "వాతం"
+    },
+    "varna": {
+      "iast": "Chandāla",
+      "sa": "चाण्डालः",
+      "te": "చండాలుడు"
+    },
+    "nadi": {
+      "iast": "Ādi",
+      "sa": "आदिनाडी",
+      "te": "ఆది నాడి"
+    },
+    "gemstone": {
+      "iast": "Puṣparāga",
+      "en": "Yellow Sapphire",
+      "sa": "पुष्परागः",
+      "te": "పుష్యరాగం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "ती",
+        "te": "తీ",
+        "iast": "tī"
+      },
+      "p2": {
+        "sa": "तू",
+        "te": "తూ",
+        "iast": "tū"
+      },
+      "p3": {
+        "sa": "ते",
+        "te": "తే",
+        "iast": "te"
+      },
+      "p4": {
+        "sa": "तो",
+        "te": "తో",
+        "iast": "to"
+      }
+    },
+    "vsn_shloka_from": 61,
+    "vsn_shloka_to": 64,
+    "mantra": {
+      "sa": "विशाखं शूर्पमैन्द्राग्नं द्विदैवत्यं विशाखभम् ॥",
+      "te": "విశాఖం శూర్పమైన్ద్రాగ్నం ద్విదైవత్యం విశాఖభమ్ ॥",
+      "iast": "viśākhaṃ śūrpamaindrāgnaṃ dvidaivatyaṃ viśākhabham ||"
+    }
+  },
+  {
+    "num": 17,
+    "id": "anuradha",
+    "name": {
+      "iast": "Anurādhā",
+      "te": "అనురాధ",
+      "sa": "अनुराधा"
+    },
+    "stars": 4,
+    "symbol": {
+      "en": "Umbrella / lotus",
+      "te": "గొడుగు",
+      "sa": "छत्रम्"
+    },
+    "rashi": {
+      "iast": "Vṛścika",
+      "te": "వృశ్చికం",
+      "sa": "वृश्चिकः",
+      "symbol": "♏"
+    },
+    "rashi_lord": {
+      "iast": "Maṅgala",
+      "sa": "मङ्गलः",
+      "te": "కుజుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Śani",
+      "sa": "शनिः",
+      "te": "శనిదేవుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Mitra",
+      "te": "మిత్రుడు",
+      "sa": "मित्रः"
+    },
+    "nakshatra_animal": {
+      "iast": "Female Deer (Doe)",
+      "te": "ఆడ లేడి",
+      "sa": "मृगी"
+    },
+    "gana": {
+      "iast": "Deva",
+      "sa": "देवगणः",
+      "te": "దేవగణం"
+    },
+    "tattva": {
+      "iast": "Agni",
+      "sa": "अग्निः",
+      "te": "అగ్ని",
+      "en": "Fire"
+    },
+    "purushardha": {
+      "iast": "Dharma",
+      "sa": "धर्मः",
+      "te": "ధర్మం"
+    },
+    "dosha": {
+      "iast": "Pitta",
+      "sa": "पित्तः",
+      "te": "పిత్తం"
+    },
+    "varna": {
+      "iast": "Śūdra",
+      "sa": "शूद्रः",
+      "te": "శూద్రుడు"
+    },
+    "nadi": {
+      "iast": "Madhya",
+      "sa": "मध्यनाडी",
+      "te": "మధ్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Nīla",
+      "en": "Blue Sapphire",
+      "sa": "नीलम्",
+      "te": "నీలమణి"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "ना",
+        "te": "నా",
+        "iast": "nā"
+      },
+      "p2": {
+        "sa": "नी",
+        "te": "నీ",
+        "iast": "nī"
+      },
+      "p3": {
+        "sa": "नू",
+        "te": "నూ",
+        "iast": "nū"
+      },
+      "p4": {
+        "sa": "ने",
+        "te": "నే",
+        "iast": "ne"
+      }
+    },
+    "vsn_shloka_from": 65,
+    "vsn_shloka_to": 68,
+    "mantra": {
+      "sa": "मित्रं मैत्रमनूराधमनूराधस्य संज्ञिकम् ।",
+      "te": "మిత్రం మైత్రమనూరాధమనూరాధస్య సంజ్ఞికమ్ ।",
+      "iast": "mitraṃ maitramanūrādhamanūrādhasya saṃjñikam |"
+    }
+  },
+  {
+    "num": 18,
+    "id": "jyeshtha",
+    "name": {
+      "iast": "Jyeṣṭhā",
+      "te": "జ్యేష్ఠ",
+      "sa": "ज्येष्ठा"
+    },
+    "stars": 3,
+    "symbol": {
+      "en": "Earring / circular amulet",
+      "te": "కుండలం",
+      "sa": "कुण्डलम्"
+    },
+    "rashi": {
+      "iast": "Vṛścika",
+      "te": "వృశ్చికం",
+      "sa": "वृश्चिकः",
+      "symbol": "♏"
+    },
+    "rashi_lord": {
+      "iast": "Maṅgala",
+      "sa": "मङ्गलः",
+      "te": "కుజుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Budha",
+      "sa": "बुधः",
+      "te": "బుధుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Indra",
+      "te": "ఇంద్రుడు",
+      "sa": "इन्द्रः"
+    },
+    "nakshatra_animal": {
+      "iast": "Male Deer (Stag)",
+      "te": "మగ లేడి",
+      "sa": "मृगः"
+    },
+    "gana": {
+      "iast": "Rākṣasa",
+      "sa": "राक्षसगणः",
+      "te": "రాక్షసగణం"
+    },
+    "tattva": {
+      "iast": "Jala",
+      "sa": "जलम्",
+      "te": "జలం",
+      "en": "Water"
+    },
+    "purushardha": {
+      "iast": "Artha",
+      "sa": "अर्थः",
+      "te": "అర్థం"
+    },
+    "dosha": {
+      "iast": "Kapha",
+      "sa": "कफः",
+      "te": "కఫం"
+    },
+    "varna": {
+      "iast": "Vaiśya",
+      "sa": "वैश्यः",
+      "te": "వైశ్యుడు"
+    },
+    "nadi": {
+      "iast": "Antya",
+      "sa": "अन्त्यनाडी",
+      "te": "అంత్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Marakata",
+      "en": "Emerald",
+      "sa": "मरकतम्",
+      "te": "మరకతం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "नो",
+        "te": "నో",
+        "iast": "no"
+      },
+      "p2": {
+        "sa": "या",
+        "te": "యా",
+        "iast": "yā"
+      },
+      "p3": {
+        "sa": "यी",
+        "te": "యీ",
+        "iast": "yī"
+      },
+      "p4": {
+        "sa": "यू",
+        "te": "యూ",
+        "iast": "yū"
+      }
+    },
+    "vsn_shloka_from": 69,
+    "vsn_shloka_to": 72,
+    "mantra": {
+      "sa": "ज्येष्टेन्द्रः पुरुहूतश्च ऐन्द्रश्शतमुखस्तथा ॥",
+      "te": "జ్యేష్టేన్ద్రః పురుహూతశ్చ ఐన్ద్రశ్శతముఖస్తథా ॥",
+      "iast": "jyeṣṭendraḥ puruhūtaśca aindraśśatamukhastathā ||"
+    }
+  },
+  {
+    "num": 19,
+    "id": "moola",
+    "name": {
+      "iast": "Mūla",
+      "te": "మూల",
+      "sa": "मूल"
+    },
+    "stars": 11,
+    "symbol": {
+      "en": "Bunch of roots tied together",
+      "te": "వేళ్ళ గుత్తి",
+      "sa": "मूलम्"
+    },
+    "rashi": {
+      "iast": "Dhanus",
+      "te": "ధనుస్సు",
+      "sa": "धनुः",
+      "symbol": "♐"
+    },
+    "rashi_lord": {
+      "iast": "Guru",
+      "sa": "गुरुः",
+      "te": "గురువు"
+    },
+    "nakshatra_graha": {
+      "iast": "Ketu",
+      "sa": "केतुः",
+      "te": "కేతువు"
+    },
+    "nakshatra_deity": {
+      "iast": "Nirṛti",
+      "te": "నిరృతి",
+      "sa": "निरृतिः"
+    },
+    "nakshatra_animal": {
+      "iast": "Male Dog",
+      "te": "మగ కుక్క",
+      "sa": "शुनः"
+    },
+    "gana": {
+      "iast": "Rākṣasa",
+      "sa": "राक्षसगणः",
+      "te": "రాక్షసగణం"
+    },
+    "tattva": {
+      "iast": "Agni",
+      "sa": "अग्निः",
+      "te": "అగ్ని",
+      "en": "Fire"
+    },
+    "purushardha": {
+      "iast": "Kāma",
+      "sa": "कामः",
+      "te": "కామం"
+    },
+    "dosha": {
+      "iast": "Vāta",
+      "sa": "वातः",
+      "te": "వాతం"
+    },
+    "varna": {
+      "iast": "Chandāla",
+      "sa": "चाण्डालः",
+      "te": "చండాలుడు"
+    },
+    "nadi": {
+      "iast": "Ādi",
+      "sa": "आदिनाडी",
+      "te": "ఆది నాడి"
+    },
+    "gemstone": {
+      "iast": "Vaidūrya",
+      "en": "Cat's Eye",
+      "sa": "वैदूर्यः",
+      "te": "వైఢూర్యం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "ये",
+        "te": "యే",
+        "iast": "ye"
+      },
+      "p2": {
+        "sa": "यो",
+        "te": "యో",
+        "iast": "yo"
+      },
+      "p3": {
+        "sa": "भा",
+        "te": "భా",
+        "iast": "bhā"
+      },
+      "p4": {
+        "sa": "भी",
+        "te": "భీ",
+        "iast": "bhī"
+      }
+    },
+    "vsn_shloka_from": 73,
+    "vsn_shloka_to": 76,
+    "mantra": {
+      "sa": "मूलं निशाचरं प्रोक्तमासुरं निरृतिस्तथा ।\nनक्तञ्चरं कोणपं च राक्षसं पिशिताशनम् ॥",
+      "te": "మూలం నిశాచరం ప్రోక్తమాసురం నిరృతిస్తథా ।\nనక్తఞ్చరం కోణపం చ రాక్షసం పిశితాశనమ్ ॥",
+      "iast": "mūlaṃ niśācaraṃ proktamāsuraṃ nirṛtistathā |\nnaktañcaraṃ koṇapaṃ ca rākṣasaṃ piśitāśanam ||"
+    }
+  },
+  {
+    "num": 20,
+    "id": "purvashadha",
+    "name": {
+      "iast": "Pūrvāṣāḍhā",
+      "te": "పూర్వాషాఢ",
+      "sa": "पूर्वाषाढा"
+    },
+    "stars": 2,
+    "symbol": {
+      "en": "Elephant tusk / fan",
+      "te": "గజదంతం",
+      "sa": "गजदन्तः"
+    },
+    "rashi": {
+      "iast": "Dhanus",
+      "te": "ధనుస్సు",
+      "sa": "धनुः",
+      "symbol": "♐"
+    },
+    "rashi_lord": {
+      "iast": "Guru",
+      "sa": "गुरुः",
+      "te": "గురువు"
+    },
+    "nakshatra_graha": {
+      "iast": "Śukra",
+      "sa": "शुक्रः",
+      "te": "శుక్రుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Āpas",
+      "te": "జలదేవత",
+      "sa": "आपः"
+    },
+    "nakshatra_animal": {
+      "iast": "Male Monkey",
+      "te": "మగ కోతి",
+      "sa": "वानरः"
+    },
+    "gana": {
+      "iast": "Manuṣya",
+      "sa": "मानुषगणः",
+      "te": "మానవగణం"
+    },
+    "tattva": {
+      "iast": "Jala",
+      "sa": "जलम्",
+      "te": "జలం",
+      "en": "Water"
+    },
+    "purushardha": {
+      "iast": "Mokṣa",
+      "sa": "मोक्षः",
+      "te": "మోక్షం"
+    },
+    "dosha": {
+      "iast": "Pitta",
+      "sa": "पित्तः",
+      "te": "పిత్తం"
+    },
+    "varna": {
+      "iast": "Brāhmaṇa",
+      "sa": "ब्राह्मणः",
+      "te": "బ్రాహ్మణుడు"
+    },
+    "nadi": {
+      "iast": "Madhya",
+      "sa": "मध्यनाडी",
+      "te": "మధ్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Vajra",
+      "en": "Diamond",
+      "sa": "वज्रम्",
+      "te": "వజ్రం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "भू",
+        "te": "భూ",
+        "iast": "bhū"
+      },
+      "p2": {
+        "sa": "धा",
+        "te": "ధా",
+        "iast": "dhā"
+      },
+      "p3": {
+        "sa": "फा",
+        "te": "ఫా",
+        "iast": "phā"
+      },
+      "p4": {
+        "sa": "ढा",
+        "te": "ఢా",
+        "iast": "ḍhā"
+      }
+    },
+    "vsn_shloka_from": 77,
+    "vsn_shloka_to": 80,
+    "mantra": {
+      "sa": "पूर्वाषाढा जलं तोयमुदकं चाप एव च ।",
+      "te": "పూర్వాషాఢా జలం తోయముదకం చాప ఏవ చ ।",
+      "iast": "pūrvāṣāḍhā jalaṃ toyamudakaṃ cāpa eva ca |"
+    }
+  },
+  {
+    "num": 21,
+    "id": "uttarashadha",
+    "name": {
+      "iast": "Uttarāṣāḍhā",
+      "te": "ఉత్తరాషాఢ",
+      "sa": "उत्तराषाढा"
+    },
+    "stars": 4,
+    "symbol": {
+      "en": "Small cot / tusk",
+      "te": "చిన్న మంచం",
+      "sa": "खट्वा"
+    },
+    "rashi": {
+      "iast": "Makara",
+      "te": "మకరం",
+      "sa": "मकरः",
+      "symbol": "♑"
+    },
+    "rashi_lord": {
+      "iast": "Śani",
+      "sa": "शनिः",
+      "te": "శనిదేవుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Sūrya",
+      "sa": "सूर्यः",
+      "te": "సూర్యుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Viśve Devāḥ",
+      "te": "విశ్వేదేవతలు",
+      "sa": "विश्वेदेवाः"
+    },
+    "nakshatra_animal": {
+      "iast": "Female Mongoose",
+      "te": "ఆడ ముంగిస",
+      "sa": "नकुली"
+    },
+    "gana": {
+      "iast": "Manuṣya",
+      "sa": "मानुषगणः",
+      "te": "మానవగణం"
+    },
+    "tattva": {
+      "iast": "Pṛthvī",
+      "sa": "पृथ्वी",
+      "te": "పృథ్వి",
+      "en": "Earth"
+    },
+    "purushardha": {
+      "iast": "Mokṣa",
+      "sa": "मोक्षः",
+      "te": "మోక్షం"
+    },
+    "dosha": {
+      "iast": "Kapha",
+      "sa": "कफः",
+      "te": "కఫం"
+    },
+    "varna": {
+      "iast": "Kṣatriya",
+      "sa": "क्षत्रियः",
+      "te": "క్షత్రియుడు"
+    },
+    "nadi": {
+      "iast": "Antya",
+      "sa": "अन्त्यनाडी",
+      "te": "అంత్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Māṇikya",
+      "en": "Ruby",
+      "sa": "माणिक्यम्",
+      "te": "మాణిక్యం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "भे",
+        "te": "భే",
+        "iast": "bhe"
+      },
+      "p2": {
+        "sa": "भो",
+        "te": "భో",
+        "iast": "bho"
+      },
+      "p3": {
+        "sa": "जा",
+        "te": "జా",
+        "iast": "jā"
+      },
+      "p4": {
+        "sa": "जी",
+        "te": "జీ",
+        "iast": "jī"
+      }
+    },
+    "vsn_shloka_from": 81,
+    "vsn_shloka_to": 84,
+    "mantra": {
+      "sa": "उत्तराषाढा विश्वे च अभिजिद्वाप्रकाशकम् ॥",
+      "te": "ఉత్తరాషాఢా విశ్వే చ అభిజిద్వాప్రకాశకమ్ ॥",
+      "iast": "uttarāṣāḍhā viśve ca abhijidvāprakāśakam ||"
+    }
+  },
+  {
+    "num": 22,
+    "id": "shravana",
+    "name": {
+      "iast": "Śravaṇa",
+      "te": "శ్రవణ",
+      "sa": "श्रवण"
+    },
+    "stars": 3,
+    "symbol": {
+      "en": "Three footprints / ear",
+      "te": "చెవి",
+      "sa": "श्रोत्रम्"
+    },
+    "rashi": {
+      "iast": "Makara",
+      "te": "మకరం",
+      "sa": "मकरः",
+      "symbol": "♑"
+    },
+    "rashi_lord": {
+      "iast": "Śani",
+      "sa": "शनिः",
+      "te": "శనిదేవుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Candra",
+      "sa": "चन्द्रः",
+      "te": "చంద్రుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Viṣṇu",
+      "te": "విష్ణువు",
+      "sa": "विष्णुः"
+    },
+    "nakshatra_animal": {
+      "iast": "Female Monkey",
+      "te": "ఆడ కోతి",
+      "sa": "वानरी"
+    },
+    "gana": {
+      "iast": "Deva",
+      "sa": "देवगणः",
+      "te": "దేవగణం"
+    },
+    "tattva": {
+      "iast": "Vāyu",
+      "sa": "वायुः",
+      "te": "వాయువు",
+      "en": "Air"
+    },
+    "purushardha": {
+      "iast": "Artha",
+      "sa": "अर्थः",
+      "te": "అర్థం"
+    },
+    "dosha": {
+      "iast": "Vāta",
+      "sa": "वातः",
+      "te": "వాతం"
+    },
+    "varna": {
+      "iast": "Chandāla",
+      "sa": "चाण्डालः",
+      "te": "చండాలుడు"
+    },
+    "nadi": {
+      "iast": "Ādi",
+      "sa": "आदिनाडी",
+      "te": "ఆది నాడి"
+    },
+    "gemstone": {
+      "iast": "Mukta",
+      "en": "Pearl",
+      "sa": "मुक्तम्",
+      "te": "ముత్యం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "खी",
+        "te": "ఖీ",
+        "iast": "khī"
+      },
+      "p2": {
+        "sa": "खू",
+        "te": "ఖూ",
+        "iast": "khū"
+      },
+      "p3": {
+        "sa": "खे",
+        "te": "ఖే",
+        "iast": "khe"
+      },
+      "p4": {
+        "sa": "खो",
+        "te": "ఖో",
+        "iast": "kho"
+      }
+    },
+    "vsn_shloka_from": 85,
+    "vsn_shloka_to": 88,
+    "mantra": {
+      "sa": "श्रवणं वैष्णवं श्रीशश्श्रीकान्तो मुरजिद्धरिः ।",
+      "te": "శ్రవణం వైష్ణవం శ్రీశశ్శ్రీకాన్తో మురజిద్ధరిః ।",
+      "iast": "śravaṇaṃ vaiṣṇavaṃ śrīśaśśrīkānto murajiddhariḥ |"
+    }
+  },
+  {
+    "num": 23,
+    "id": "dhanishtha",
+    "name": {
+      "iast": "Dhaniṣṭhā",
+      "te": "ధనిష్ఠ",
+      "sa": "धनिष्ठा"
+    },
+    "stars": 4,
+    "symbol": {
+      "en": "Drum / flute",
+      "te": "మృదంగం",
+      "sa": "मृदङ्गः"
+    },
+    "rashi": {
+      "iast": "Kumbha",
+      "te": "కుంభం",
+      "sa": "कुम्भः",
+      "symbol": "♒"
+    },
+    "rashi_lord": {
+      "iast": "Śani",
+      "sa": "शनिः",
+      "te": "శనిదేవుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Maṅgala",
+      "sa": "मङ्गलः",
+      "te": "కుజుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Aṣṭa Vasus",
+      "te": "అష్టవసువులు",
+      "sa": "अष्टवसवः"
+    },
+    "nakshatra_animal": {
+      "iast": "Female Lion (Lioness)",
+      "te": "ఆడ సింహం",
+      "sa": "सिंही"
+    },
+    "gana": {
+      "iast": "Rākṣasa",
+      "sa": "राक्षसगणः",
+      "te": "రాక్షసగణం"
+    },
+    "tattva": {
+      "iast": "Ākāśa",
+      "sa": "आकाशः",
+      "te": "ఆకాశం",
+      "en": "Ether"
+    },
+    "purushardha": {
+      "iast": "Dharma",
+      "sa": "धर्मः",
+      "te": "ధర్మం"
+    },
+    "dosha": {
+      "iast": "Pitta",
+      "sa": "पित्तः",
+      "te": "పిత్తం"
+    },
+    "varna": {
+      "iast": "Vaiśya",
+      "sa": "वैश्यः",
+      "te": "వైశ్యుడు"
+    },
+    "nadi": {
+      "iast": "Madhya",
+      "sa": "मध्यनाडी",
+      "te": "మధ్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Pravāḷa",
+      "en": "Red Coral",
+      "sa": "प्रवालम्",
+      "te": "పగడం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "गा",
+        "te": "గా",
+        "iast": "gā"
+      },
+      "p2": {
+        "sa": "गी",
+        "te": "గీ",
+        "iast": "gī"
+      },
+      "p3": {
+        "sa": "गु",
+        "te": "గు",
+        "iast": "gu"
+      },
+      "p4": {
+        "sa": "गे",
+        "te": "గే",
+        "iast": "ge"
+      }
+    },
+    "vsn_shloka_from": 89,
+    "vsn_shloka_to": 92,
+    "mantra": {
+      "sa": "श्रविष्ठा च धनिष्ठा च वसुर्वासव एव च ॥",
+      "te": "శ్రవిష్ఠా చ ధనిష్ఠా చ వసుర్వాసవ ఏవ చ ॥",
+      "iast": "śraviṣṭhā ca dhaniṣṭhā ca vasurvāsava eva ca ||"
+    }
+  },
+  {
+    "num": 24,
+    "id": "shatabhisha",
+    "name": {
+      "iast": "Śatabhiṣā",
+      "te": "శతభిష",
+      "sa": "शतभिषा"
+    },
+    "stars": 100,
+    "symbol": {
+      "en": "Empty circle / 100 stars",
+      "te": "శూన్యవలయం",
+      "sa": "वृत्तम्"
+    },
+    "rashi": {
+      "iast": "Kumbha",
+      "te": "కుంభం",
+      "sa": "कुम्भः",
+      "symbol": "♒"
+    },
+    "rashi_lord": {
+      "iast": "Śani",
+      "sa": "शनिः",
+      "te": "శనిదేవుడు"
+    },
+    "nakshatra_graha": {
+      "iast": "Rāhu",
+      "sa": "राहुः",
+      "te": "రాహువు"
+    },
+    "nakshatra_deity": {
+      "iast": "Varuṇa",
+      "te": "వరుణదేవుడు",
+      "sa": "वरुणः"
+    },
+    "nakshatra_animal": {
+      "iast": "Male Horse",
+      "te": "మగ గుర్రం",
+      "sa": "अश्वः"
+    },
+    "gana": {
+      "iast": "Rākṣasa",
+      "sa": "राक्षसगणः",
+      "te": "రాక్షసగణం"
+    },
+    "tattva": {
+      "iast": "Ākāśa",
+      "sa": "आकाशः",
+      "te": "ఆకాశం",
+      "en": "Ether"
+    },
+    "purushardha": {
+      "iast": "Dharma",
+      "sa": "धर्मः",
+      "te": "ధర్మం"
+    },
+    "dosha": {
+      "iast": "Kapha",
+      "sa": "कफः",
+      "te": "కఫం"
+    },
+    "varna": {
+      "iast": "Chandāla",
+      "sa": "चाण्डालः",
+      "te": "చండాలుడు"
+    },
+    "nadi": {
+      "iast": "Antya",
+      "sa": "अन्त्यनाडी",
+      "te": "అంత్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Gomeda",
+      "en": "Hessonite",
+      "sa": "गोमेदम्",
+      "te": "గోమేధికం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "गो",
+        "te": "గో",
+        "iast": "go"
+      },
+      "p2": {
+        "sa": "सा",
+        "te": "సా",
+        "iast": "sā"
+      },
+      "p3": {
+        "sa": "सी",
+        "te": "సీ",
+        "iast": "sī"
+      },
+      "p4": {
+        "sa": "सू",
+        "te": "సూ",
+        "iast": "sū"
+      }
+    },
+    "vsn_shloka_from": 93,
+    "vsn_shloka_to": 96,
+    "mantra": {
+      "sa": "प्राचेतसो जलनिधिश्शततारश्च वारुणः ।",
+      "te": "ప్రాచేతసో జలనిధిశ్శతతారశ్చ వారుణః ।",
+      "iast": "prācetaso jalanidhiśśatatāraśca vāruṇaḥ |"
+    }
+  },
+  {
+    "num": 25,
+    "id": "purva-bhadrapada",
+    "name": {
+      "iast": "Pūrva Bhādrapadā",
+      "te": "పూర్వ భాద్రపద",
+      "sa": "पूर्वभाद्रपदा"
+    },
+    "stars": 2,
+    "symbol": {
+      "en": "Sword / front legs of funeral cot",
+      "te": "శవపేటె ముందు కాళ్ళు",
+      "sa": "खड्गः"
+    },
+    "rashi": {
+      "iast": "Mīna",
+      "te": "మీనం",
+      "sa": "मीनः",
+      "symbol": "♓"
+    },
+    "rashi_lord": {
+      "iast": "Guru",
+      "sa": "गुरुः",
+      "te": "గురువు"
+    },
+    "nakshatra_graha": {
+      "iast": "Guru",
+      "sa": "गुरुः",
+      "te": "గురువు"
+    },
+    "nakshatra_deity": {
+      "iast": "Aja Ekapāda",
+      "te": "అజ ఏకపాదుడు",
+      "sa": "अजएकपादः"
+    },
+    "nakshatra_animal": {
+      "iast": "Male Lion",
+      "te": "మగ సింహం",
+      "sa": "सिंहः"
+    },
+    "gana": {
+      "iast": "Manuṣya",
+      "sa": "मानुषगणः",
+      "te": "మానవగణం"
+    },
+    "tattva": {
+      "iast": "Ākāśa",
+      "sa": "आकाशः",
+      "te": "ఆకాశం",
+      "en": "Ether"
+    },
+    "purushardha": {
+      "iast": "Artha",
+      "sa": "अर्थः",
+      "te": "అర్థం"
+    },
+    "dosha": {
+      "iast": "Vāta",
+      "sa": "वातः",
+      "te": "వాతం"
+    },
+    "varna": {
+      "iast": "Brāhmaṇa",
+      "sa": "ब्राह्मणः",
+      "te": "బ్రాహ్మణుడు"
+    },
+    "nadi": {
+      "iast": "Ādi",
+      "sa": "आदिनाडी",
+      "te": "ఆది నాడి"
+    },
+    "gemstone": {
+      "iast": "Puṣparāga",
+      "en": "Yellow Sapphire",
+      "sa": "पुष्परागः",
+      "te": "పుష్యరాగం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "से",
+        "te": "సే",
+        "iast": "se"
+      },
+      "p2": {
+        "sa": "सो",
+        "te": "సో",
+        "iast": "so"
+      },
+      "p3": {
+        "sa": "दा",
+        "te": "దా",
+        "iast": "dā"
+      },
+      "p4": {
+        "sa": "दी",
+        "te": "దీ",
+        "iast": "dī"
+      }
+    },
+    "vsn_shloka_from": 97,
+    "vsn_shloka_to": 100,
+    "mantra": {
+      "sa": "अजैकपात्प्रोष्ठपदा पुर्वाभाद्र पदा तथा ॥",
+      "te": "అజైకపాత్ప్రోష్ఠపదా పుర్వాభాద్ర పదా తథా ॥",
+      "iast": "ajaikapātproṣṭhapadā purvābhādra padā tathā ||"
+    }
+  },
+  {
+    "num": 26,
+    "id": "uttara-bhadrapada",
+    "name": {
+      "iast": "Uttara Bhādrapadā",
+      "te": "ఉత్తర భాద్రపద",
+      "sa": "उत्तरभाद्रपदा"
+    },
+    "stars": 2,
+    "symbol": {
+      "en": "Twins / rear legs of funeral cot",
+      "te": "శవపేటె వెనక కాళ్ళు",
+      "sa": "युगलम्"
+    },
+    "rashi": {
+      "iast": "Mīna",
+      "te": "మీనం",
+      "sa": "मीनः",
+      "symbol": "♓"
+    },
+    "rashi_lord": {
+      "iast": "Guru",
+      "sa": "गुरुः",
+      "te": "గురువు"
+    },
+    "nakshatra_graha": {
+      "iast": "Śani",
+      "sa": "शनिः",
+      "te": "శనిదేవుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Ahirbudhnya",
+      "te": "అహిర్బుధ్న్యుడు",
+      "sa": "अहिर्बुध्न्यः"
+    },
+    "nakshatra_animal": {
+      "iast": "Female Cow",
+      "te": "ఆవు",
+      "sa": "गौः"
+    },
+    "gana": {
+      "iast": "Manuṣya",
+      "sa": "मानुषगणः",
+      "te": "మానవగణం"
+    },
+    "tattva": {
+      "iast": "Ākāśa",
+      "sa": "आकाशः",
+      "te": "ఆకాశం",
+      "en": "Ether"
+    },
+    "purushardha": {
+      "iast": "Kāma",
+      "sa": "कामः",
+      "te": "కామం"
+    },
+    "dosha": {
+      "iast": "Pitta",
+      "sa": "पित्तः",
+      "te": "పిత్తం"
+    },
+    "varna": {
+      "iast": "Kṣatriya",
+      "sa": "क्षत्रियः",
+      "te": "క్షత్రియుడు"
+    },
+    "nadi": {
+      "iast": "Madhya",
+      "sa": "मध्यनाडी",
+      "te": "మధ్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Nīla",
+      "en": "Blue Sapphire",
+      "sa": "नीलम्",
+      "te": "నీలమణి"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "दू",
+        "te": "దూ",
+        "iast": "dū"
+      },
+      "p2": {
+        "sa": "था",
+        "te": "థా",
+        "iast": "thā"
+      },
+      "p3": {
+        "sa": "झा",
+        "te": "ఝా",
+        "iast": "jhā"
+      },
+      "p4": {
+        "sa": "ञा",
+        "te": "ఞా",
+        "iast": "ñā"
+      }
+    },
+    "vsn_shloka_from": 101,
+    "vsn_shloka_to": 104,
+    "mantra": {
+      "sa": "उत्तराभाद्रकं चैव अहिर्बुध्न्यं निशामुखम् ।",
+      "te": "ఉత్తరాభాద్రకం చైవ అహిర్బుధ్న్యం నిశాముఖమ్ ।",
+      "iast": "uttarābhādrakaṃ caiva ahirbudhnyaṃ niśāmukham |"
+    }
+  },
+  {
+    "num": 27,
+    "id": "revati",
+    "name": {
+      "iast": "Revatī",
+      "te": "రేవతి",
+      "sa": "रेवती"
+    },
+    "stars": 32,
+    "symbol": {
+      "en": "Fish / drum",
+      "te": "చేప",
+      "sa": "मत्स्यः"
+    },
+    "rashi": {
+      "iast": "Mīna",
+      "te": "మీనం",
+      "sa": "मीनः",
+      "symbol": "♓"
+    },
+    "rashi_lord": {
+      "iast": "Guru",
+      "sa": "गुरुः",
+      "te": "గురువు"
+    },
+    "nakshatra_graha": {
+      "iast": "Budha",
+      "sa": "बुधः",
+      "te": "బుధుడు"
+    },
+    "nakshatra_deity": {
+      "iast": "Pūṣan",
+      "te": "పూషణుడు",
+      "sa": "पूषा"
+    },
+    "nakshatra_animal": {
+      "iast": "Female Elephant",
+      "te": "ఆడ ఏనుగు",
+      "sa": "हस्तिनी"
+    },
+    "gana": {
+      "iast": "Deva",
+      "sa": "देवगणः",
+      "te": "దేవగణం"
+    },
+    "tattva": {
+      "iast": "Ākāśa",
+      "sa": "आकाशः",
+      "te": "ఆకాశం",
+      "en": "Ether"
+    },
+    "purushardha": {
+      "iast": "Mokṣa",
+      "sa": "मोक्षः",
+      "te": "మోక్షం"
+    },
+    "dosha": {
+      "iast": "Kapha",
+      "sa": "कफः",
+      "te": "కఫం"
+    },
+    "varna": {
+      "iast": "Śūdra",
+      "sa": "शूद्रः",
+      "te": "శూద్రుడు"
+    },
+    "nadi": {
+      "iast": "Antya",
+      "sa": "अन्त्यनाडी",
+      "te": "అంత్య నాడి"
+    },
+    "gemstone": {
+      "iast": "Marakata",
+      "en": "Emerald",
+      "sa": "मरकतम्",
+      "te": "మరకతం"
+    },
+    "sound_syllables": {
+      "p1": {
+        "sa": "दे",
+        "te": "దే",
+        "iast": "de"
+      },
+      "p2": {
+        "sa": "दो",
+        "te": "దో",
+        "iast": "do"
+      },
+      "p3": {
+        "sa": "चा",
+        "te": "చా",
+        "iast": "cā"
+      },
+      "p4": {
+        "sa": "ची",
+        "te": "చీ",
+        "iast": "cī"
+      }
+    },
+    "vsn_shloka_from": 105,
+    "vsn_shloka_to": 108,
+    "mantra": {
+      "sa": "रेवती पौष्ण इत्याहुरन्त्यः पूषा तथैव च ॥",
+      "te": "రేవతీ పౌష్ణ ఇత్యాహురన్త్యః పూషా తథైవ చ ॥",
+      "iast": "revatī pauṣṇa ityāhurantyaḥ pūṣā tathaiva ca ||"
+    }
+  }
+]

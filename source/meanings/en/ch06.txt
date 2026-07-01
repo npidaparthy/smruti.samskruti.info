@@ -1,0 +1,681 @@
+# 6.1
+short: The Blessed Lord said: One who performs the required duty without depending on the fruit of action is a sannyāsī (renunciant) and a yogī — not one who is without fire and without action.
+long: Chapter 6 defines yoga on its own terms. Kṛṣṇa dismisses two easy misidentifications: the sannyāsī is not the one who has given up sacred fires (anagni), and the yogī is not the one who has given up all action (akriya). Both positive qualities — engagement in duty + non-dependence on fruit — are required. The inner stance defines the sannyāsī; not external appearances.
+wbw:
+  anāśritaḥ | nom. | not depending on
+  karma-phalaṃ | acc. | fruit of action
+  kāryaṃ | acc. | required/necessary
+  karma | acc. | action
+  karoti | 3rd sg. | performs
+  yaḥ | rel. | who
+  sa | nom. | that one
+  sannyāsī | nom. | renunciant
+  ca yogī ca | and yogi
+  na | neg. | not
+  niragnir | nom. | without fire
+  na ca | nor
+  akriyaḥ | nom. | without action
+---
+# 6.2
+short: Know that what they call renunciation (sannyāsa) is yoga. No one becomes a yogī without renouncing desire, O Pāṇḍava.
+long: The equation: sannyāsa = yoga. They are not two separate paths but the same goal described differently. The defining condition: "na hy asannyasta-saṅkalpaḥ yogī bhavati kaścana" — no one becomes a yogī who has not renounced saṅkalpa (desire, intentional grasping for results). Sannyāsa, properly understood, is the inner renunciation of result-seeking that karma yoga requires.
+wbw:
+  yaṃ | acc. | which
+  sannyāsam | acc. | renunciation
+  iti | particle | thus
+  prāhuḥ | 3rd pl. | they call
+  yogaṃ | acc. | yoga
+  taṃ | acc. | that
+  viddhi | 2nd sg. imper. | know
+  pāṇḍava | voc. | O son of Pāṇḍu
+  na hy asannyasta-saṅkalpaḥ | not without renounced desire
+  yogī | nom. | a yogī
+  bhavati | 3rd sg. | becomes
+  kaścana | anyone
+---
+# 6.3
+short: For the sage who wishes to ascend yoga, action is said to be the cause. For that same sage who has ascended yoga, stillness (śama) is said to be the cause.
+long: Two stages in yoga practice: the ascent and the summit. For the one climbing (ārurukṣu), karma (action) is the means. For the one who has climbed (yogā-rūḍha), śama (quietude/stillness) is the means. This verse introduces a natural spiritual progression: active engagement gives way to increasing interior stillness as the yogi matures. Both stages are valid and necessary.
+wbw:
+  ārurukṣoḥ | gen. | of one who wishes to ascend
+  muneḥ | gen. | of the sage
+  yogaṃ | acc. | yoga
+  karma | nom. | action
+  kāraṇaṃ | nom. | cause/means
+  ucyate | 3rd sg. pass. | is said to be
+  yogā-rūḍhasya | gen. | of one who has ascended yoga
+  tasya eva | of that very one
+  śamaḥ | nom. | stillness/quietude
+  kāraṇaṃ | nom. | cause/means
+  ucyate | 3rd sg. pass. | is said to be
+---
+# 6.4
+short: When one is not attached to sense objects or to actions, having renounced all desires, then one is said to have ascended yoga.
+long: The definition of yoga-rūḍha (one who has ascended yoga): no attachment to sense objects (indriyārthes), no attachment to actions (karmasv), all desires renounced (sannyasta-sarva-saṅkalpa). This is the criterion for having "arrived" at the summit of yoga. It is entirely an inner criterion — not visible from the outside.
+wbw:
+  yadā | when
+  hi | particle | indeed
+  nendriyārtheṣu | not in sense objects
+  na karmasv | not in actions
+  anusajjate | 3rd sg. | is attached
+  sarva-saṅkalpa-sannyāsī | having renounced all desires
+  yogā-rūḍhas | nom. | one who has ascended yoga
+  tadocyate | then is said to be
+---
+# 6.5
+short: Let one lift oneself by the self — do not let the self be lowered. For the self alone is the friend of the self, and the self alone is the enemy of the self.
+long: One of the Gītā's most celebrated verses: the call to self-reliance. "Uddhared ātmanā ātmānaṃ" — lift yourself by yourself. The self can be both the instrument of liberation and the obstacle. "Ātmā bandhuḥ ātmā ripuḥ" — the self is its own friend and its own enemy. This is not abstract — it refers to the higher self (discriminating intelligence) lifting the lower self (ego/habit).
+wbw:
+  uddharet | 3rd sg. opt. | should lift
+  ātmanā | instr. | by the self
+  ātmānaṃ | acc. | the self
+  nā'tmānam | not the self
+  avasādayet | 3rd sg. opt. | should lower
+  ātmaiva | the self alone
+  hy ātmanaḥ | indeed of the self
+  bandhur | nom. | friend
+  ātmaiva | the self alone
+  ripur | nom. | enemy
+  ātmanaḥ | gen. | of the self
+---
+# 6.6
+short: The self is the friend of the self for one who has conquered the self by the self. For one who has not conquered the self, the self acts as an enemy, like an external foe.
+long: The conditional: for the "jitātmā" (self-conquered), the self is a friend. For the one who has not conquered the self, the self acts as an external enemy — "vairi iva" — like a foe. The metaphor is precise: an unconquered self is not merely neutral; it actively works against one's liberation, leading toward destructive patterns, attachments, and delusion.
+wbw:
+  bandhur ātmā | friend the self
+  ātmanas | gen. | of the self
+  tasya | gen. | of that one
+  yenā'tmaivaātmanā | by whom the self by the self
+  jitaḥ | nom. | is conquered
+  anātmanas | gen. | of one who has not conquered the self
+  tu | particle | but
+  śatrutve | loc. | in enmity
+  vartetā'tmaiva | the self indeed acts
+  śatruvat | like an enemy
+---
+# 6.7
+short: For the self-conquered, whose mind is pacified, the highest self is steadily in a state of equanimity — in cold and heat, in pleasure and pain, in honor and dishonor.
+long: The self-conquered (jitātmā) whose mind is śānta (pacified) has the paramātmā (the supreme self) steadily within them — or better: they are steadily established in equanimity across all pairs of opposites: cold/heat (śītoṣṇa), pleasure/pain (sukha-duḥkha), honor/dishonor (māna-apamāna). The outer world no longer has the power to destabilize the inner ground.
+wbw:
+  jitātmanaḥ | gen. | of the self-conquered
+  praśāntasya | gen. | of the pacified one
+  paramātmā | nom. | the supreme self
+  samāhitaḥ | nom. | steadily/absorbed
+  śītoṣṇa | cold-heat
+  sukha-duḥkheṣu | in pleasure-pain
+  tathā | also
+  māna-apamānayoḥ | in honor-dishonor
+---
+# 6.8
+short: One who is satisfied with knowledge and direct experience (vijñāna), who is stable, who has conquered the senses, who regards alike a lump of earth, a stone, and gold — that one is said to be a yogi who is "yoked" (yukta).
+long: Portrait of the yukta (yoked/enlightened) yogi: jñāna-vijñāna-tṛptātmā (satisfied with knowledge and direct experiential wisdom), kūṭa-sthā (stable, like an anvil), vijita-indriya (senses conquered), and sama-loṣṭāśma-kañcana (regarding earth-clod, stone, and gold with equal eye). The last quality (equanimity toward wealth) is a concrete, testable marker of genuine inner freedom.
+wbw:
+  jñāna-vijñāna-tṛptātmā | nom. | self satisfied with knowledge and wisdom
+  kūṭa-stho | nom. | stable/unmoving
+  vijitendriyaḥ | nom. | senses conquered
+  yukta | nom. | yoked
+  ity ucyate | is said
+  yogī | nom. | a yogī
+  sama-loṣṭāśma-kañcanaḥ | nom. | regarding earth stone and gold equally
+---
+# 6.9
+short: One who is equal toward well-wishers, friends, enemies, the neutral, the mediators, the hateful, the relatives, the virtuous, and the sinful — that person excels.
+long: The widest circle of equanimity: suhr̥d (well-wisher/spontaneous friend), mitra (cultivated friend), ari (enemy), udāsīna (the neutral), madhyastha (mediator), dveṣya (the hateful), bandhu (relative), sādhu (virtuous), and pāpa (sinful). All nine types receive the same inner regard. Not because differences are denied — but because the Self in each is the same. "Sa viśiṣyate" — that person excels/is distinguished.
+wbw:
+  suhṛn | nom. | well-wisher
+  mitra-ary-udāsīna | friend-enemy-neutral
+  madhyastha | nom. | mediator
+  dveṣya | nom. | the hateful
+  bandhuṣu | loc. pl. | among relatives
+  sādhuṣv api | among the virtuous also
+  ca pāpeṣu | and among the sinful
+  sama-buddhiḥ | nom. | equal-minded
+  viśiṣyate | 3rd sg. | excels
+---
+# 6.10
+short: The yogi should constantly apply the self to yoga — alone, in seclusion, with mind and body controlled, free from desire and possession.
+long: The practical prescription for meditation: yoga yukta (constantly apply to yoga), ekākī (alone), yata-citta-ātmā (controlled mind and self), nirāśīr (free from expectation), aparigraha (without possessiveness). "Viviktasthānam" — in a solitary place. These are the conditions for formal meditation practice. The chapter now begins its extended teaching on dhyāna (meditation).
+wbw:
+  yogī | nom. | the yogī
+  yuñjīta | 3rd sg. opt. | should apply
+  satatam | adv. | constantly
+  ātmānaṃ | acc. | the self
+  rahasi | loc. | in seclusion
+  sthitaḥ | nom. | being situated
+  ekākī | nom. | alone
+  yata-citta-ātmā | nom. | with controlled mind and self
+  nirāśīr | nom. | free from expectation
+  aparigrahaḥ | nom. | without possessiveness
+---
+# 6.11
+short: Having set up a firm seat for oneself in a clean place — neither too high nor too low — covered with kuśa grass, a deerskin, and cloth—
+long: The meditation seat (āsana) instructions: in a śuci (clean) place, a fixed/firm seat (sthiram āsanam), neither too high (aty-ucchritam) nor too low (atī-nīcam), with a layered surface: kuśa grass (the sacred grass), ajina (deerskin), cela (cloth). The layered surface has both practical and ritual significance in classical yoga. The physical setup supports the inner discipline.
+wbw:
+  śucau | loc. | in a clean place
+  deśe | loc. | place
+  pratiṣṭhāpya | gerund | having established
+  sthiram | acc. | firm
+  āsanam | acc. | seat
+  ātmanaḥ | gen. | for oneself
+  nāty-ucchritam | not too high
+  nāti-nīcaṃ | not too low
+  cailājina-kuśottaram | covered with cloth deerskin kuśa
+---
+# 6.12
+short: There, having made the mind one-pointed and having controlled the activities of the mind and senses, one should practice yoga for self-purification.
+long: The inner practice: tatra ekāgraṃ manaḥ kṛtvā (having made the mind one-pointed there), yata-citta-indriya-kriyaḥ (with controlled mental and sensory activities). The purpose: "yoga ātma-viśuddhaye" — yoga for self-purification. The seat has been prepared (6.11); now the actual meditation practice is described. One-pointedness of mind (ekāgra) is the core of dhyāna.
+wbw:
+  tatra | adv. | there
+  ekāgraṃ | acc. | one-pointed
+  manaḥ | acc. | mind
+  kṛtvā | gerund | having made
+  yata-citta-indriya-kriyaḥ | nom. | with controlled mind-sense activities
+  upaviśya āsane | sitting on the seat
+  yuñjyāt | 3rd sg. opt. | should practice
+  yogaṃ | acc. | yoga
+  ātma-viśuddhaye | dat. | for self-purification
+---
+# 6.13
+short: Holding the body, head, and neck erect and still, gazing at the tip of the nose without looking in any direction—
+long: (Continues in 6.14) Physical posture for meditation: body-head-neck held straight, unmoving (acalam). The gaze is fixed at "nāsikāgraṃ" (the tip of the nose) — a traditional external focus point. "Asampreksya diśo daśa" — without looking in any of the ten directions. The stillness of body supports the stillness of mind. External attention is withdrawn from the peripheral.
+wbw:
+  samaṃ | acc. | straight/level
+  kāya-śiro-grīvaṃ | acc. | body head neck
+  dhārayann | pres. part. | holding
+  acalaṃ | acc. | unmoving
+  sthiraḥ | nom. | still
+  samprekṣya | gerund | gazing at
+  nāsikā-graṃ | acc. | tip of the nose
+  svaṃ | acc. | one's own
+  diśaś cānavalokayan | not looking in any direction
+---
+# 6.14
+short: — calm, fearless, firm in the brahmacarya vow, with mind controlled, thinking of Me, harmonized — thus the yogi should sit, intent on Me as the supreme.
+long: The completion: praśāntātmā (calm in self), vigata-bhīḥ (free from fear), brahmacarya-vrate sthitaḥ (firm in the vow of brahmacarya — sexual continence / sense restraint), manaḥ saṃyamya (mind controlled), maccittaḥ (thinking of Me — the Lord), āsīta mat-paraḥ (sit intent on Me as the highest). The ultimate aim of dhyāna: not merely one-pointed mind, but the mind pointed at the Lord.
+wbw:
+  praśāntātmā | nom. | calm in self
+  vigata-bhīḥ | nom. | free from fear
+  brahma-cary-avrate | loc. | in the vow of brahmacarya
+  sthitaḥ | nom. | firm
+  manaḥ saṃyamya | gerund | controlling the mind
+  mac-cittaḥ | nom. | thinking of Me
+  yukta | nom. | harmonized
+  āsīta | 3rd sg. opt. | should sit
+  mat-paraḥ | nom. | intent on Me as highest
+---
+# 6.15
+short: Thus, always applying the self, with mind controlled, the yogi attains the peace that abides in Me — the highest nirvāṇa.
+long: The culmination of the meditation practice described in 6.10-14: "yuñjann evaṃ sadā ātmānaṃ" (thus always applying oneself), "yata-mānasaḥ" (with controlled mind), the yogi attains "śāntiṃ nirvāṇa-paramāṃ" — the peace that is the supreme nirvāṇa — "mat-saṃsthām" — abiding in Me. The peace is not self-generated; it is the peace of Brahman that is received through the disciplined practice.
+wbw:
+  yuñjann evaṃ | thus applying
+  sadā | adv. | always
+  ātmānaṃ | acc. | the self
+  yogī | nom. | the yogī
+  yata-mānasaḥ | nom. | with controlled mind
+  śāntiṃ | acc. | peace
+  nirvāṇa-paramāṃ | acc. | supreme nirvāṇa
+  mat-saṃsthām | acc. | abiding in Me
+  adhigacchati | 3rd sg. | attains
+---
+# 6.16
+short: Yoga is not for one who eats too much or too little, nor for one who sleeps too much or keeps too little, O Arjuna.
+long: The yoga of the middle way: extremes of āhāra (food — eating too much or too little) and svapna (sleep — sleeping too much or too little) both prevent yoga. This is practically important: the body must be neither starved nor over-nourished, neither exhausted nor over-rested. The yogi's practice rests on a well-maintained physical foundation — not on torturing or indulging the body.
+wbw:
+  nāty-aśnatas | gen. | not for one who eats too much
+  tu | particle | but
+  yogo'sti | yoga exists
+  na caikāntam | not ever
+  anaśnataḥ | gen. | for one who fasts completely
+  na cāti-svapna-śīlasya | not for one who sleeps too much
+  jāgrato naiva cārjuna | not for one who keeps too little, O Arjuna
+---
+# 6.17
+short: For one who is moderate in eating and recreation, moderate in effort in actions, moderate in sleep and wakefulness — yoga destroys suffering.
+long: The positive formulation: yuktāhāra (measured in eating), yukta-vihāra (measured in recreation), yukta-ceṣṭa (measured in action/effort), yukta-svapna-avabodha (measured in sleep and waking) — for such a one "yoga bhavati duḥkhahā" — yoga becomes the destroyer of suffering. The middle path is not mediocrity — it is precision and sustainability. "Yukta" (yoked/measured) is the key word.
+wbw:
+  yukta-āhārasya | gen. | for one with measured eating
+  yukta-vihārasya | gen. | measured in recreation
+  yukta-ceṣṭasya | gen. | measured in action/effort
+  yukta-svapnā-avabodhasya | gen. | measured in sleep and waking
+  yoga bhavati | yoga becomes
+  duḥkhahā | nom. | destroyer of suffering
+---
+# 6.18
+short: When the controlled mind rests in the Self alone, free from desire for all objects of longing — then one is said to be "yoked" (yukta).
+long: The definition of yukta (yoked/established): the mind, disciplined (viniyata-citta), "rests in the Self alone" (ātmany evāvatiṣṭhate) — free from desire for all objects of longing (sarva-kāma-vigataḥ). The mark of the yukta is not the absence of a body or the suspension of function — it is the cessation of inner agitation and grasping, with the mind resting in its natural state: the Self.
+wbw:
+  yadā | when
+  viniyataṃ | acc. | controlled
+  cittaṃ | acc. | mind
+  ātmany evāvatiṣṭhate | rests in the Self alone
+  niḥspṛhaḥ | nom. | free from desire
+  sarva-kāmebhyo | abl. pl. | from all objects of longing
+  yukta | nom. | yoked
+  ity ucyate | is said to be
+  tadā | then
+---
+# 6.19
+short: "As a lamp in a windless place does not flicker" — this is the simile given for the yogi of controlled thought who practices the yoga of the Self.
+long: The most famous image of meditation in the Gītā: "yathā dīpo nivātastho neṅgate sopamā smṛtā" — just as a lamp in a windless place does not flicker. The meditating mind is the flame; the windless place is the absence of distracting senses and desires. The flame burns steadily, giving light without wavering. This is the yogi who is "abhyasya-māna" (practicing yoga of the Self).
+wbw:
+  yathā | just as
+  dīpo | nom. | a lamp
+  nivāta-stho | nom. | in a windless place
+  neṅgate | neg. 3rd sg. | does not flicker
+  sopamā | nom. | that simile
+  smṛtā | nom. | is remembered/given
+  yogino | gen. | of the yogi
+  yata-cittasya | gen. | of controlled mind
+  yuñjato | gen. | who is practicing
+  yoga ātmanaḥ | yoga of the Self
+---
+# 6.20
+short: Where the mind ceases, restrained by the practice of yoga; where, seeing the Self by the Self, one is content in the Self—
+long: (Continues into 6.21) The state of samādhi begins to be described: "yatroparamate cittam" — where the mind ceases/becomes still. "Niruddhaṃ yoga-sevayā" — restrained by the practice of yoga. And "ātmanā ātmānaṃ paśyan" — seeing the Self by the Self. In this state, the seer and the seen collapse: the Self sees itself by itself. "Ātmany eva tuṣyati" — one is content in the Self alone. Not contentment about something — contentment as the nature of the Self.
+wbw:
+  yatroparamate | where is stilled
+  cittaṃ | nom. | the mind
+  niruddhaṃ | nom. | restrained
+  yoga-sevayā | instr. | by the practice of yoga
+  yatra | where
+  caivātmanā | and by the Self
+  ātmānaṃ | acc. | the Self
+  paśyann | pres. part. | seeing
+  ātmany | loc. | in the Self
+  eva | particle | alone
+  tuṣyati | 3rd sg. | is content
+---
+# 6.21
+short: — where one knows that supreme happiness, perceived by intelligence, beyond the senses; established there, one does not move from the truth—
+long: (Continuing from 6.20, continues into 6.22) The happiness of samādhi: "sukham ātyantikaṃ" — supreme/infinite happiness, "buddhi-grāhyam" — perceived by pure intelligence (not by ordinary senses), "atīndriyam" — beyond the senses. "Yatra sthito na calati tattvatoḥ" — established there, one does not move from the truth (tattvatoḥ). The state is stable: once the truth of the Self is directly perceived, it does not slide back.
+wbw:
+  sukham | acc. | happiness
+  ātyantikam | acc. | supreme/infinite
+  yat | rel. | which
+  tad | acc. | that
+  buddhi-grāhyam | acc. | perceived by intelligence
+  atīndriyam | acc. | beyond the senses
+  vetti | 3rd sg. | knows
+  yatra | where
+  ca | conj. | and
+  na | neg. | not
+  caivāyaṃ | this one
+  sthitaś calati | established moves
+  tattvatoḥ | abl. | from the truth
+---
+# 6.22
+short: — and having obtained which, one does not consider any other gain to be greater; established in which, one is not moved even by great suffering—
+long: The superlative quality of this gain: "yam labdhvā cāparaṃ lābhaṃ manyate nādhikaṃ tataḥ" — having obtained which, one does not think any other gain greater. This is a complete satiation — nothing can add to it. And the mark of its stability: "yasmin sthito na duḥkhena guruṇāpi vicālyate" — established there, one is not moved even by great/heavy suffering (duḥkhena guruṇā). The realization is not a positive feeling that can be disturbed — it is beyond feeling.
+wbw:
+  yaṃ | acc. | which
+  labdhvā | gerund | having obtained
+  cāparaṃ | and other
+  lābhaṃ | acc. | gain
+  manyate | 3rd sg. | considers
+  nādhikaṃ | not greater
+  tataḥ | abl. | than that
+  yasmin | loc. | in which
+  sthito | nom. | established
+  na duḥkhena | not by suffering
+  guruṇāpi | even great
+  vicālyate | 3rd sg. | is moved
+---
+# 6.23
+short: Let that be known as the disjunction (viyoga) from the conjunction of pain. This yoga should be practiced with determination, without dejection of mind.
+long: Kṛṣṇa names the state: yoga is defined as "duḥkha-saṃyoga-viyogaṃ" — the disjunction from the conjunction of pain. Pain (duḥkha) arises from "saṃyoga" — conjunction/contact with what one is not. Yoga is freedom from that conjunction. The practice instruction: niścayena (with determination/resolve), anirviṇṇa-cetasā (without dejection of mind). Discouragement is the primary obstacle; determination is the antidote.
+wbw:
+  taṃ | acc. | that
+  vidyāt | 3rd sg. opt. | let one know
+  duḥkha-saṃyoga-viyogaṃ | acc. | disjunction from conjunction of pain
+  yoga-saṃjñitam | acc. | called yoga
+  sa | nom. | that
+  niścayena | instr. | with determination
+  yoktavyo | nom. | should be practiced
+  yogo'nirviṇṇa-cetasā | nom. | yoga with undiscouraged mind
+---
+# 6.24
+short: Abandoning without exception all desires born of saṅkalpa (intention), and drawing in with the mind alone all the senses from all directions—
+long: (Continues into 6.25) The practice of withdrawal: "saṅkalpa-prabhavān kāmān" (desires born of intentional planning) are to be abandoned "aśeṣataḥ" (without exception). Then "manasā indriya-grāmam viniyamya samantataḥ" — drawing in all the senses from all directions with the mind alone. This is pratyāhāra (sensory withdrawal) — the Gītā's version of the fifth limb of Patañjali's aṣṭāṅga yoga.
+wbw:
+  saṅkalpa-prabhavān | acc. pl. | born of intention/planning
+  kāmāṃs | acc. pl. | desires
+  tyaktvā | gerund | abandoning
+  sarvān | acc. pl. | all
+  aśeṣataḥ | adv. | without remainder
+  manasaivendriya-grāmaṃ | with mind alone the senses
+  viniyamya | gerund | drawing in/controlling
+  samantataḥ | adv. | from all directions
+---
+# 6.25
+short: — gradually let one come to rest through intelligence held firm; having established the mind in the Self, one should not think of anything at all.
+long: The progressive deepening: "śanaiḥ śanaiḥ" — gradually, step by step — the mind settles. "Dhṛtyā gṛhītayā" — with the intellect held firm. "Ātma-saṃsthaṃ manaḥ kṛtvā" — having established the mind in the Self. "Na kiñcid api cintayet" — one should not think of anything at all. This is dhāraṇā flowing into dhyāna — the mind held in the Self, ceasing all outward-directed thought. "Nothing at all" is the goal of deeper meditation.
+wbw:
+  śanaiḥ | adv. | gradually
+  śanair | adv. | step by step
+  uparamed | 3rd sg. opt. | should come to rest
+  buddhyā | instr. | with intelligence
+  dhṛti-gṛhītayā | instr. | held firm
+  ātma-saṃsthaṃ | acc. | established in the Self
+  manaḥ | acc. | mind
+  kṛtvā | gerund | having made
+  na kiñcid api | not anything at all
+  cintayet | 3rd sg. opt. | should think
+---
+# 6.26
+short: Wherever the wavering, unsteady mind wanders away — restrain it from there and bring it back again, under the control of the Self alone.
+long: The practical instruction for a wandering mind during meditation — and perhaps the most encouraging verse for meditators: "yato yato niścalati" — wherever, whenever the mind wanders. "Tatas tato niyamyaitad" — from there, restrain it. "Ātmany eva vaśaṃ nayet" — bring it back under the control of the Self alone. The instruction is not "don't let the mind wander" (impossible to guarantee) but "keep bringing it back." Repetition is the practice.
+wbw:
+  yato yato | from wherever
+  niścalati | 3rd sg. | wanders
+  manaś | nom. | mind
+  cañcalaṃ | nom. | wavering/unsteady
+  asthiram | nom. | unstable
+  tatas tataḥ | from there
+  niyamyaitad | restrain this
+  ātmany eva | in the Self alone
+  vaśaṃ | acc. | under control
+  nayet | 3rd sg. opt. | should bring
+---
+# 6.27
+short: Supreme happiness comes to this yogi of pacified mind, whose passion (rajas) has become quiet, who is without sin, who has become Brahman.
+long: The fruits of sustained practice: "paramāṃ sukham" — supreme happiness — comes to the yogi with a "praśānta-manasaṃ" (pacified mind), "śānta-rajasaṃ" (passion/rajas quieted), "pāpam akalmasaṃ" (without sin, unstained), "brahma-bhūtam" (having become Brahman). Note that the sequence matters: mind pacified → passion quieted → sin eliminated → becoming Brahman. This is the natural progression of deepening meditation.
+wbw:
+  praśānta-manasaṃ | acc. | one of pacified mind
+  hy enaṃ | indeed this one
+  yoginaṃ | acc. | the yogi
+  sukham | nom. | happiness
+  uttamaṃ | nom. | supreme
+  upaiti | 3rd sg. | comes to
+  śānta-rajasaṃ | acc. | one whose passion is quieted
+  brahma-bhūtam | acc. | having become Brahman
+  akalmaṣam | acc. | unstained
+---
+# 6.28
+short: The yogi, always applying the self thus, free from sin, easily obtains the supreme happiness of contact with Brahman.
+long: "Yuñjann evaṃ sadā ātmānaṃ" — always thus applying the self. "Vigata-kalmaṣaḥ" — free from sin/impurity. "Sukh-enam brahma-saṃsparśaṃ atyantaṃ sukham aśnute" — easily attains the supreme happiness of contact with Brahman. The word "brahma-saṃsparśa" (contact/touch with Brahman) is beautiful: it is not union with an abstract absolute but an intimate contact, like touching. And "sukh-ena" — easily — after the sustained practice.
+wbw:
+  yuñjann evaṃ | thus applying
+  sadā | adv. | always
+  ātmānaṃ | acc. | the self
+  yogī | nom. | the yogi
+  vigata-kalmaṣaḥ | nom. | free from impurity
+  sukhena | instr. | easily
+  brahma-saṃsparśam | acc. | contact with Brahman
+  atyantaṃ | acc. | supreme
+  sukham | acc. | happiness
+  aśnute | 3rd sg. | attains
+---
+# 6.29
+short: With a self yoked through yoga, seeing everywhere equally — such a yogi sees the Self in all beings and all beings in the Self.
+long: The vision of the perfected yogi: "sarva-bhūtastham ātmānaṃ sarva-bhūtāni cātmani" — the Self dwelling in all beings, and all beings dwelling in the Self. This is the experiential (not merely conceptual) realization of the non-dual view. "Sarva-samam paśyan" — seeing equally everywhere. The quality of seeing has changed: where ordinary vision sees multiplicity, the yogi's vision sees the unifying ground.
+wbw:
+  sarva-bhūtastham | acc. | dwelling in all beings
+  ātmānaṃ | acc. | the Self
+  sarva-bhūtāni | acc. pl. | all beings
+  cātmani | and in the Self
+  ikṣate | 3rd sg. | sees
+  yoga-yuktātmā | nom. | one with self yoked in yoga
+  sarvatra | adv. | everywhere
+  sama-darśanaḥ | nom. | equal-seeing
+---
+# 6.30
+short: For one who sees Me in everything and sees everything in Me — I am not lost to that person, and that person is not lost to Me.
+long: The devotional culmination of 6.29: the yogi who sees the Lord in all and all in the Lord — "na sa me praṇaśyati" — is not lost to Me, "aham api na tasya" — I am not lost to that person either. This is the intimacy of non-dual devotion: the divine-human relationship is not erased but transformed. The Lord and the devotee find each other in everything — they cannot be separated.
+wbw:
+  yo māṃ | who Me
+  paśyati | 3rd sg. | sees
+  sarvatra | adv. | everywhere
+  sarvaṃ ca mayi | and everything in Me
+  paśyati | sees
+  tasya ahaṃ | for that person I
+  na praṇaśyāmi | am not lost
+  sa ca me | and that one to Me
+  na praṇaśyati | is not lost
+---
+# 6.31
+short: The yogi who is established in unity and who honors Me as dwelling in all beings — that yogi lives in Me in every way, no matter how that person lives.
+long: The final synthesis of karma yoga and devotion: the "ekavat sthitaḥ" (established in unity) yogi, who "pūjayati" (honors/worships) the Lord as dwelling in all beings — "sarvadhā vartamāno'pi sa yogī mayi vartate" — that yogi lives in Me in every way, whatever their manner of living. External lifestyle does not determine spiritual reality; internal unity does.
+wbw:
+  sarva-bhūtastham | acc. | dwelling in all beings
+  yo māṃ | who Me
+  bhajati | 3rd sg. | honors/worships
+  ekatvam | acc. | unity
+  āsthitaḥ | nom. | established in
+  sarvathā vartamāno'pi | in every way living even
+  sa yogī | that yogi
+  mayi | loc. | in Me
+  vartate | 3rd sg. | lives
+---
+# 6.32
+short: One who measures all as identical with the Self — through one's own example — in pleasure and in pain — that one is considered the highest yogi, O Arjuna.
+long: The definition of the highest yogi: "ātmaupamyena" — by the measure of one's own experience. Knowing from one's own experience what pleasure and pain are, the yogi extends that knowing equally to all: "sukham vā yadi vā duḥkhaṃ" — whether pleasure or pain, they apply the same measure to all beings. This is the ultimate expression of the "see the Self in all" vision: it is not abstract philosophy but lived empathy grounded in self-knowledge.
+wbw:
+  ātmaupamyena | instr. | by self-analogy/measure of self
+  sarvatra | adv. | everywhere
+  samaṃ | acc. | equal
+  paśyati | 3rd sg. | sees
+  yo'rjuna | who O Arjuna
+  sukhaṃ | acc. | pleasure
+  vā yadi vā | or if or
+  duḥkhaṃ | acc. | pain
+  sa yogī | that yogi
+  paramo | nom. | highest
+  mataḥ | nom. | is considered
+---
+# 6.33
+short: Arjuna said: This yoga that you describe as equanimity — O Madhusūdana, I do not see its stable foundation because of the restlessness (capala) of mind.
+long: Arjuna's practical objection cuts to the heart of every meditator's experience: the mind is cañcala (restless, fickle). How can equanimity be stable if the foundation — the mind — is inherently unstable? The term "capala" (restless, waving) perfectly describes ordinary mental experience. Arjuna voices the sincere practitioner's doubt: the yoga sounds wonderful but is it achievable?
+wbw:
+  arjunaḥ uvāca | Arjuna said
+  yo'yaṃ | this which
+  yogas | nom. | yoga
+  tvayā | instr. | by you
+  proktaḥ | nom. | described
+  sāmyena | instr. | as equanimity
+  madhusūdana | voc. | O Madhusūdana
+  etasyāhaṃ | of this I
+  na paśyāmi | do not see
+  cañcalatvāt | abl. | because of restlessness
+  sthitiṃ | acc. | stable foundation
+  sthirām | acc. | firm
+---
+# 6.34
+short: For the mind is truly restless, O Kṛṣṇa — turbulent, strong, and obstinate. I think it is as hard to control as the wind.
+long: Arjuna's eloquent description of the mind: cañcalāṃ hi manaḥ (restless indeed), pramāthi (turbulent, agitating), balavatam (strong), dṛḍham (obstinate/firm in its habits). "Tasyāhaṃ nigrahaṃ manye vāyor iva su-duṣkaram" — I think its restraint is as difficult as restraining the wind. The wind analogy is vivid: you cannot grab wind; you can only redirect it. The admission of difficulty is honest and important.
+wbw:
+  cañcalaṃ | nom. | restless
+  hi | particle | indeed
+  manaḥ | nom. | mind
+  kṛṣṇa | voc. | O Kṛṣṇa
+  pramāthi | nom. | turbulent
+  balavad | nom. | strong
+  dṛḍham | nom. | obstinate
+  tasyāhaṃ | of it I
+  nigrahaṃ | acc. | restraint
+  manye | 1st sg. | think
+  vāyor iva | like the wind
+  su-duṣkaram | nom. | very difficult
+---
+# 6.35
+short: The Blessed Lord said: Undoubtedly, O mighty-armed, the mind is hard to control and restless. But through practice (abhyāsa) and dispassion (vairāgya), it is held, O Kaunteya.
+long: Kṛṣṇa concedes Arjuna's point: "asaṃśayam mahābāho" — without doubt, O mighty-armed — the mind is duṣnirgrahaṃ calam (hard to control and restless). Then the answer: "abhyāsena tu kaunteya vairāgyeṇa ca gṛhyate" — through practice (abhyāsa) and through dispassion (vairāgya), the mind is held/controlled. These two form the classic pair in Yoga philosophy: sustained regular practice + gradually decreasing attachment to sensory pulls.
+wbw:
+  asaṃśayaṃ | adv. | undoubtedly
+  mahā-bāho | voc. | O mighty-armed
+  mano | nom. | mind
+  duṣnirgrahaṃ | nom. | hard to control
+  calaṃ | nom. | restless
+  abhyāsena | instr. | through practice
+  tu | particle | but
+  kaunteya | voc. | O son of Kuntī
+  vairāgyeṇa | instr. | through dispassion
+  ca | conj. | and
+  gṛhyate | 3rd sg. pass. | is held
+---
+# 6.36
+short: Yoga is indeed hard to attain for one of uncontrolled self — so I think. But for one of controlled self who strives through the right means, it is possible to attain.
+long: The conditional: yoga is "duṣprāpaḥ" (hard to attain) for "ayatātmā" (uncontrolled self). Kṛṣṇa's opinion (mat): this is likely. But for "yatātmā" (controlled self) who strives by the right means (upāyataḥ), attainment is possible (saṃbhavati). The verse balances realism with hope: the difficulty is real, but not insurmountable. The key is effort through right means.
+wbw:
+  asaṃyatātmanā | instr. | by one of uncontrolled self
+  yogo | nom. | yoga
+  duṣprāpaḥ | nom. | hard to attain
+  iti me matiḥ | thus my opinion
+  vaśyātmanā | instr. | by one of controlled self
+  tu | particle | but
+  yatatā | instr. | by one who strives
+  śakyo'vāptum | possible to attain
+  upāyataḥ | adv. | through right means
+---
+# 6.37
+short: Arjuna said: One who is not disciplined but has faith, whose mind has strayed from yoga — without reaching perfection in yoga, what is their destination, O Kṛṣṇa?
+long: A profound question about the incomplete spiritual practitioner: "ayatiḥ" (not disciplined), "śraddhā-anvitaḥ" (with faith), "yoga-calita-mānasaḥ" (mind strayed from yoga). This is the person who sincerely tried, had genuine faith, but did not complete the journey. What happens to them? The question is personal — this is everyone who practices but does not attain liberation in this life. Kṛṣṇa's answer will be the most encouraging in the Gītā.
+wbw:
+  arjunaḥ uvāca | Arjuna said
+  ayatiḥ | nom. | the undisciplined one
+  śraddhayā'peto | nom. | endowed with faith
+  yogāc calita-mānasaḥ | from yoga strayed in mind
+  aprāpya | gerund | not having reached
+  yoga-saṃsiddhiṃ | acc. | perfection in yoga
+  kāṃ gatiṃ | what destination
+  kṛṣṇa | voc. | O Kṛṣṇa
+  gacchati | 3rd sg. | goes
+---
+# 6.38
+short: Does the one who has slipped from both (yoga and worldly enjoyment), fallen away from support like a rent cloud — not attain either state, confused on Brahman's path?
+long: Arjuna deepens his concern: the failed yogi seems to fall from both worlds. Yoga is abandoned before completion; ordinary worldly life is also abandoned. Like a rent cloud (vinnābhram iva) that gives neither rain nor shade — dispersed, purposeless, supporting nothing. "Ubhayabhrāṣṭaḥ" — fallen from both. "Brahmaṇaḥ pathi" — on Brahman's path. The anxiety is genuine: is incomplete practice worse than no practice at all?
+wbw:
+  kaccin nobhaya-vibhrāṣṭaś | not fallen from both
+  chinnābhram iva | like a rent cloud
+  naśyati | 3rd sg. | perishes
+  apratiṣṭho | nom. | without support
+  mahā-bāho | voc. | O mighty-armed
+  vimūḍho | nom. | confused
+  brahmaṇaḥ pathi | on Brahman's path
+---
+# 6.39
+short: O Kṛṣṇa, you should completely dispel this doubt of mine. For other than you, no destroyer of this doubt is to be found.
+long: Arjuna's request is a measure of his trust in Kṛṣṇa's authority: "tvad anyaḥ saṃśayasya asya chettā na hy upapadyate" — no one other than you can cut this doubt. He is not posing a rhetorical question; he genuinely does not know the answer. And only the Lord — not scripture, not tradition — can cut this deep existential doubt. This sets up Kṛṣṇa's reassuring answer.
+wbw:
+  etan me | this for me
+  saṃśayaṃ | acc. | doubt
+  kṛṣṇa | voc. | O Kṛṣṇa
+  chettum | inf. | to cut/dispel
+  arhasi | 2nd sg. | you should
+  aśeṣataḥ | adv. | completely
+  tvad anyaḥ | other than you
+  saṃśayasya asya | of this doubt
+  chettā | nom. | cutter/dispeller
+  na hi | not indeed
+  upapadyate | is found
+---
+# 6.40
+short: The Blessed Lord said: O Pārtha, there is no destruction for that person — here or hereafter. For one who does good, O dear one, never comes to grief.
+long: Kṛṣṇa's categorical reassurance: "pārtha naiveha nāmutra vināśas tasya vidyate" — there is no destruction for that person, either here or hereafter. And then the fundamental principle: "na hi kalyāṇa-kṛt kaścid durgatiṃ tāta gacchati" — one who does good never goes to a bad state, dear one (tāta — an affectionate term). No sincere spiritual effort is wasted. This is one of the Gītā's most comforting promises.
+wbw:
+  śrī-bhagavān uvāca | The Lord said
+  pārtha | voc. | O Pārtha
+  naiveha | not indeed here
+  nāmutra | nor hereafter
+  vināśas tasya | destruction for that one
+  vidyate | exists
+  na hi | indeed not
+  kalyāṇa-kṛt | nom. | one who does good
+  kaścid | anyone
+  durgatiṃ | acc. | bad state
+  tāta | voc. | dear one
+  gacchati | 3rd sg. | goes
+---
+# 6.41
+short: Having attained the worlds of the meritorious, dwelling there for many years, the one fallen from yoga is reborn in the house of the pure and glorious.
+long: The fate of the yoga-bhraṣṭa (one who has slipped from yoga): they go to "puṇyakṛtāṃ lokāṃ" (the worlds of the meritorious) and dwell there for many years (śāśvatīḥ samāḥ). Then they are "reborn in the house of the śucīnāṃ śrīmatāṃ" (pure and glorious ones). The accumulated merit from yoga practice earns a virtuous rebirth. Good practice counts, even if not completed.
+wbw:
+  prāpya | gerund | having attained
+  puṇya-kṛtāṃ lokān | the worlds of the meritorious
+  uṣitvā | gerund | having dwelt
+  śāśvatīḥ samāḥ | for many years
+  śucīnāṃ | gen. pl. | of the pure
+  śrīmatāṃ | gen. pl. | of the glorious
+  gehe | loc. | in the house
+  yoga-bhraṣṭo'bhijāyate | the yoga-fallen one is reborn
+---
+# 6.42
+short: Or else one is born in the family of even wise yogis — this kind of birth in the world is indeed very hard to obtain.
+long: An even more favorable option for the more advanced yoga-bhraṣṭa: rebirth in "jñānavatāṃ kule" (the family of wise ones, jñāna-yogis). This birth "etad dhi durlabhataram" — is indeed very rare to obtain. Why is it a great boon? Because birth in a family already engaged in yoga and wisdom means the child will naturally be exposed to that environment and resume their practice from a more advanced starting point.
+wbw:
+  atha vā | or else
+  yoginām eva | among yogis even
+  kule | loc. | in the family
+  bhavati | 3rd sg. | is born
+  dhīmatām | gen. pl. | of the wise
+  etad dhi | this indeed
+  durlabhataraṃ | comparative nom. | harder to obtain
+  loke | loc. | in the world
+  janma | nom. | birth
+  yad īdṛśam | which of this kind
+---
+# 6.43
+short: There one regains the mental dispositions of the previous body — and from there one strives even more for perfection, O descendant of Kuru.
+long: The continuation across lives: "tatra taṃ buddhi-saṃyogaṃ labhate paurva-dehikam" — there (in the new birth) one regains the buddhi-saṃyoga (mental dispositions, spiritual intelligence) of the previous body. And from that starting point, one "yatate ca tato bhūyaḥ saṃsiddhau kuru-nandana" — strives even more for perfection. Spiritual progress carries over. The new life does not start from zero.
+wbw:
+  tatra | adv. | there
+  taṃ | acc. | that
+  buddhi-saṃyogaṃ | acc. | mental dispositions/spiritual intelligence
+  labhate | 3rd sg. | regains
+  paurva-dehikam | acc. | of the previous body
+  yatate | 3rd sg. | strives
+  ca tato bhūyaḥ | and from there more
+  saṃsiddhau | loc. | for perfection
+  kuru-nandana | voc. | O descendant of Kuru
+---
+# 6.44
+short: By that very former practice (abhyāsa), one is carried forward even against one's will. Even the seeker of yoga goes beyond the word-Brahman.
+long: The power of accumulated practice: "pūrvābhyāsena tenaiva hriyate hy avaśo'pi saḥ" — by that very former practice, one is carried forward even involuntarily (avaśaḥ — without will). The spiritual momentum accumulated over lifetimes does not disappear — it operates even in the new life as a kind of gravitational pull toward practice. And even the sincere seeker (jijñāsu) surpasses the "śabda-brahman" (Veda-based ritual orthodoxy) — because direct experience exceeds external observance.
+wbw:
+  pūrvābhyāsena | instr. | by former practice
+  tenaiva | by that very
+  hriyate | 3rd sg. | is carried forward
+  hy avaśo'pi | even without will
+  saḥ | nom. | that one
+  jijñāsur api | even the seeker
+  yogasya | gen. | of yoga
+  śabda-brahma-ativartate | surpasses the word-Brahman
+---
+# 6.45
+short: The yogi who strives with great effort, purified from all sins, progressing through many births — then goes to the highest goal.
+long: The long view: "bahūnāṃ janmanām ante" — after many births. "Prayatnāt yatamānas tu" — striving with great effort. "Vigata-sarvāghavan" — purified from all sins. Such a yogi "parama-gatiṃ gatvā" — attaining the highest goal. The path may span many lives, but persistence guarantees arrival. The implied comfort: no one is excluded from the highest goal; some just need more lifetimes of practice.
+wbw:
+  prayatnāt | abl. | with great effort
+  yatamānas | nom. | striving
+  tu | particle | but
+  yogī | nom. | the yogī
+  saṃśuddha-kilbiṣaḥ | nom. | purified from all sin
+  aneka-janma-saṃsiddhas | nom. | perfected through many births
+  tato | then
+  yāti | 3rd sg. | goes
+  parāṃ gatiṃ | highest goal
+---
+# 6.46
+short: The yogi is superior to the ascetics, superior to the jñānīs (of mere learning), and superior to the ritualists. Therefore, become a yogi, O Arjuna.
+long: The comprehensive claim: yoga surpasses tapasvin (ascetics), jñānin (mere scholars/learned), and yajñin (ritualists). The practitioner of integrated yoga — combining action, knowledge, devotion, and meditation — excels those who pursue only one dimension. "Tasmāt yogī bhavārjuna" — therefore become a yogi. The word "therefore" (tasmāt) follows logically: given all of this, this is the conclusion.
+wbw:
+  tapasvibhyo'dhiko yogī | superior to ascetics, the yogī
+  jñānibhyo'pi | and than the knowers also
+  mato'dhikaḥ | considered superior
+  karmibhyaś cādhiko yogī | superior to ritualists also, the yogī
+  tasmāt | therefore
+  yogī bhavārjuna | become a yogī O Arjuna
+---
+# 6.47
+short: And of all yogis, the one who worships Me with faith, with the inner self devoted to Me — I consider that one the most devoted (yukta).
+long: The culminating verse of chapter 6 and a bridge to the devotional chapters (7-12): "sarva-yoginām" (of all yogis), the one who "śraddhāvān bhajate yo māṃ sa me yuktatamo mataḥ" — who with faith (śraddhāvān) worships/honors Me, with the inner self devoted to Me (mad-gatenāntarātmanā) — that one is considered by Me the most yoked (yuktatamo). The bhakta who meditates on the Lord is the highest yogi.
+wbw:
+  yoginām api | of all yogis
+  sarveṣāṃ | gen. pl. | of all
+  mad-gatenāntarātmanā | with inner self devoted to Me
+  śraddhāvān | nom. | with faith
+  bhajate | 3rd sg. | worships
+  yo māṃ | who Me
+  sa me | that one by Me
+  yuktatamo | nom. | the most yoked
+  mataḥ | nom. | is considered
+---

@@ -1,0 +1,496 @@
+# 11.1
+short: Arjuna says — By this supreme secret teaching about the Self that You have spoken out of compassion for me — this delusion of mine has been dispelled.
+long: Chapter 11 opens with Arjuna's gratitude — the teaching of chapters 7-9 has cleared his delusion. "Paramam guhyam adhyātma-saṃjñitam" — the supreme secret called Adhyātma. "Yat tvayoktam vacas tena moho'yaṃ vigato mama" — by Your word, this delusion has departed. The stage is set for the most dramatic event in the Gita: Arjuna, his mind somewhat cleared, will now ask to see what no human has ever seen.
+wbw:
+  mad-anugrahāya | phrase | out of compassion for me
+  paramaṃ guhyam | adjective phrase | the supreme secret
+  adhyātma-saṃjñitam | adjective | called/designated Adhyātma
+  yat tvayoktaṃ vacas tena | phrase | by which word spoken by You
+  moho'yaṃ vigato mama | phrase | this delusion of mine has departed
+---
+# 11.2
+short: O Lotus-eyed One, I have heard from You at length the origin and dissolution of beings, and Your inexhaustible greatness.
+long: Arjuna summarizes what he has learned: "śrutam" — heard — the chapters on creation, dissolution, and divine greatness. "Bhavāpyayau hi bhūtānāṃ" — the arising and passing away of beings. "Māhātmyam api cāvyayam" — and Your inexhaustible (avyayam) greatness. This is the preparation: Arjuna has received the conceptual teaching. But concepts have limitations. He is now about to ask for direct vision — not hearing about the divine but actually seeing it.
+wbw:
+  bhavāpyayau hi bhūtānāṃ | phrase | the arising and dissolution of beings
+  śrutau vistaraśo mayā | phrase | heard at length by me
+  tvattaḥ kamala-patrākṣa | phrase | from You, O lotus-eyed one
+  māhātmyam api cāvyayam | phrase | and also Your inexhaustible greatness
+---
+# 11.3
+short: O Supreme Lord, just as You have described Yourself, I wish to see Your divine form, O Supreme Person.
+long: "Evam etad yathāttha tvam ātmānaṃ parameśvara / draṣṭum icchāmi te rūpam aiśvaraṃ puruṣottama." Just as You have described Yourself (evam etad yathāttha tvam) — all the claims of chapters 7-10 — Arjuna now wants to see them directly. "Draṣṭum icchāmi te rūpam aiśvaram" — I wish to see Your sovereign/divine form. The shift from śruti (hearing) to darśana (direct vision) is the pivot of the chapter. Arjuna is asking for the supreme grace of direct divine vision.
+wbw:
+  evam etad yathāttha tvam | phrase | just as You have described Yourself
+  ātmānaṃ parameśvara | phrase | Your own self, O Supreme Lord
+  draṣṭum icchāmi te rūpam | phrase | I wish to see Your form
+  aiśvaraṃ puruṣottama | adjective phrase | divine/sovereign, O Supreme Person
+---
+# 11.4
+short: O Lord, if You think it possible for me to see this — O Yoga-Lord, then show me Your immutable Self.
+long: "Manyase yadi tac chakyaṃ mayā draṣṭum iti prabho / yogeśvara tato me tvaṃ darśayātmānam avyayam." If You think it possible (yadi manyase tat śakyam) — Arjuna is appropriately humble. He does not demand; he requests. "Yogeśvara" — O Lord of Yoga — acknowledging that the power to grant this vision belongs entirely to Krishna. "Darśayātmānam avyayam" — show me Your immutable Self. The humility of the request contrasts beautifully with the enormity of what will be granted.
+wbw:
+  manyase yadi tac chakyaṃ | phrase | if You think this is possible
+  mayā draṣṭum iti prabho | phrase | to be seen by me, O Lord
+  yogeśvara tato me tvaṃ | phrase | O Lord of Yoga, then You to me
+  darśayātmānam avyayam | imperative phrase | show Your immutable Self
+---
+# 11.5
+short: The Lord says — O Pārtha, behold My hundreds and thousands of divine forms of many kinds, of various colors and shapes.
+long: "Paśya me pārtha rūpāṇi śataśo'tha sahasraśaḥ / nānāvidhāni divyāni nānāvarṇākṛtīni ca." Behold (paśya) My forms — hundreds, thousands. "Nānāvidhāni divyāni" — many kinds, divine. "Nānāvarṇākṛtīni" — of many colors and shapes. The plurality — hundreds, thousands — signals that what Arjuna is about to see cannot be reduced to any single image or form. The divine is not one shape but a living multiplicity that defies finite description. The viśvarūpa darśana begins.
+wbw:
+  paśya me pārtha rūpāṇi | imperative phrase | behold My forms, O Pārtha
+  śataśo'tha sahasraśaḥ | phrase | hundreds and thousands
+  nānāvidhāni divyāni | adjective phrase | of many kinds, divine
+  nānāvarṇākṛtīni ca | phrase | and of many colors and shapes
+---
+# 11.6
+short: Behold the Ādityas, Vasus, Rudras, the Aśvins, the Maruts — behold many wonders not seen before, O Bhārata.
+long: A cosmic roll-call: Ādityas (12 solar deities), Vasus (8 elemental gods), Rudras (11 storm deities), the two Aśvins (divine healers), and Maruts (the wind gods, 49 in number). "Paśyādityān vasūn rudrān aśvinau marutas tathā" — the entire Vedic pantheon within one vision. "Bahūny adṛṣṭa-pūrvāṇi paśyāścaryāṇi bhārata" — see many wonders never seen before. The vision encompasses not just the deities that Arjuna knows from tradition but forms beyond any prior conception.
+wbw:
+  paśya ādityān vasūn rudrān | imperative phrase | behold the Ādityas, Vasus, Rudras
+  aśvinau marutas tathā | phrase | and the Aśvins, the Maruts
+  bahūny adṛṣṭa-pūrvāṇi | phrase | many never-seen-before
+  paśyāścaryāṇi bhārata | phrase | behold wonders, O Bhārata
+---
+# 11.7
+short: O Gudākeśa, see here today the entire universe — moving and unmoving — gathered in My body, and whatever else you wish to see.
+long: "Ihaika-sthaṃ jagat kṛtsnaṃ paśyādya sa-carācaram / mama dehe guḍākeśa yac cānyad draṣṭum icchasi." Here (iha), in one place (eka-stham), see the entire universe (jagat kṛtsnam) — moving and unmoving (sa-carācaram) — gathered in My body. "And whatever else you wish to see" — a magnificent generosity: whatever Arjuna has ever wondered about is included in this vision. The cosmos compressed into one form. Time, space, all beings, all events — simultaneously visible in the divine body.
+wbw:
+  ihaika-sthaṃ jagat kṛtsnaṃ | phrase | here in one place the entire universe
+  paśyādya sa-carācaram | phrase | see today the moving and unmoving
+  mama dehe guḍākeśa | locative phrase | in My body, O Gudākeśa
+  yac cānyad draṣṭum icchasi | phrase | and whatever else you wish to see
+---
+# 11.8
+short: But you cannot see Me with this eye of yours. I grant you divine sight — behold My supreme yoga-power.
+long: "Na tu māṃ śakyase draṣṭum anenaiva sva-cakṣuṣā / divyaṃ dadāmi te cakṣuḥ paśya me yogam aiśvaram." You cannot (na śakyase) see Me with your own (sva) eye. The ordinary eye can only see the ordinary. Krishna grants divine sight (divyaṃ cakṣuḥ) — the capacity to perceive what transcends ordinary perception. This is the grace: the vision is not earned by Arjuna but granted. And the instruction: "paśya me yogam aiśvaram" — behold My divine yoga-power. The gift precedes the vision.
+wbw:
+  na tu māṃ śakyase draṣṭum | phrase | but you cannot see Me
+  anena eva sva-cakṣuṣā | phrase | with this, your own eye
+  divyaṃ dadāmi te cakṣuḥ | phrase | I grant you divine sight
+  paśya me yogam aiśvaram | imperative phrase | behold My divine yoga-power
+---
+# 11.9
+short: Sañjaya says — Having thus spoken, O King, Hari, the great Lord of yoga, then showed Arjuna His supreme, divine form.
+long: Sañjaya narrates what Dhṛtarāṣṭra cannot see: "evaṃ uktvā tato rājan mahā-yogeśvaro hariḥ / darśayāmāsa pārthāya paramaṃ rūpam aiśvaram." Sañjaya, granted divine vision by Vyāsa (1.25), can describe what happened on Kurukṣetra. "Mahā-yogeśvaraḥ" — the great Lord of yoga — the grandest title. "Hariḥ" — Hari (remover of suffering, or golden-yellow). "Paramaṃ rūpam aiśvaram" — the supreme divine form. The description that follows is the poetic climax of the Bhagavad Gita.
+wbw:
+  evam uktvā tato rājan | phrase | having spoken thus, O King
+  mahā-yogeśvaro hariḥ | noun phrase | the great Lord of yoga, Hari
+  darśayāmāsa pārthāya | phrase | showed to Pārtha
+  paramaṃ rūpam aiśvaram | phrase | the supreme divine form
+---
+# 11.10
+short: (He showed) the form with many mouths and eyes, many wondrous aspects, many divine ornaments, many divine weapons upraised.
+long: (11.11 continues) The description begins. "Aneka-vaktra-nayanam anekādbhuta-darśanam / aneka-divyābharaṇaṃ divyānekodyatāyudham." Many mouths and eyes — not a normal face but a multiplicity that represents all-seeing, all-speaking. Many wondrous aspects — each "aspect" (darśana) is itself a wonder. Many divine ornaments — adorned with cosmic beauty. Many divine weapons upraised — the active principle, ready to create and destroy. This is a form that does not fit into any human frame of reference.
+wbw:
+  aneka-vaktra-nayanam | accusative compound | (the form) with many mouths and eyes
+  anekādbhuta-darśanam | accusative phrase | with many wondrous aspects
+  aneka-divyābharaṇam | accusative | with many divine ornaments
+  divyānekodyatāyudham | accusative | with many divine weapons upraised
+---
+# 11.11
+short: (He showed the form) wearing divine garlands and garments, anointed with divine fragrances — all-wonderful, boundless, facing in all directions.
+long: "Divya-mālyāmbara-dharaṃ divya-gandhānulepanam / sarvāścaryamayaṃ devam anantaṃ viśvato-mukham." Wearing divine garlands (mālyāmbara) — adorned with the beauty of all creation. Anointed with divine fragrances — all senses are engaged in this vision. "Sarvāścaryamayam" — all-wonder-composed — wonder itself is the substance of this form. "Anantam" — without end, infinite. "Viśvato-mukham" — facing in all directions simultaneously. No part of existence is outside this form's field of awareness. It faces everywhere at once.
+wbw:
+  divya-mālyāmbara-dharaṃ | accusative | wearing divine garlands and garments
+  divya-gandhānulepanam | accusative | anointed with divine fragrances
+  sarvāścaryamayaṃ devam | accusative phrase | all-wonder-composed, divine
+  anantaṃ viśvato-mukham | accusative | infinite, facing all directions
+---
+# 11.12
+short: If the radiance of a thousand suns were to blaze forth simultaneously in the sky — that might resemble the splendor of that Great Being.
+long: "Divi sūrya-sahasrasya bhaved yugapad utthitā / yadi bhāḥ sadṛśī sā syād bhāsas tasya mahātmanaḥ." A thousand suns blazing simultaneously — even that might (syāt) approach the light of that Great Being. "Might" — even this image understates. The image is functionally impossible — a thousand suns would incinerate existence — and even so it only approximates. The scale of the viśvarūpa is beyond cosmic measure. Light that makes all other light seem dim.
+wbw:
+  divi sūrya-sahasrasya | locative phrase | in the sky, of a thousand suns
+  bhaved yugapad utthitā | phrase | if there were a simultaneous blazing
+  yadi bhāḥ sadṛśī sā syāt | conditional phrase | if that radiance were similar
+  bhāsas tasya mahātmanaḥ | genitive phrase | to the splendor of that Great Being
+---
+# 11.13
+short: There, in the body of the God of gods, the Pāṇḍava then saw the entire universe resting in one place — with its manifold divisions.
+long: "Tatraika-sthaṃ jagat kṛtsnaṃ pravibhaktam anekadhā / apaśyad deva-devasya śarīre pāṇḍavas tadā." There, in one place (eka-stham), the entire universe (jagat kṛtsnam) — divided into many (pravibhaktam anekadhā). Arjuna sees it. Not the promise (7.7, 11.7) but the experience. All divisions — nations, species, times, events, cosmos — simultaneously present in one divine body. The many within the one, the one expressing as the many. The vision confirms everything Krishna has been saying.
+wbw:
+  tatra eka-sthaṃ jagat kṛtsnaṃ | phrase | there, the entire universe in one place
+  pravibhaktam anekadhā | phrase | divided into many (divisions)
+  apaśyad deva-devasya śarīre | phrase | Arjuna saw in the body of the God of gods
+  pāṇḍavas tadā | phrase | the Pāṇḍava then
+---
+# 11.14
+short: Then Arjuna, filled with wonder, with hair standing on end, bowing his head to the God with folded hands, spoke thus.
+long: "Tataḥ sa vismayāviṣṭo hṛṣṭa-romā dhanañjayaḥ / praṇamya śirasā devaṃ kṛtāñjalir abhāṣata." The physical response to theophany: vismayāviṣṭa (filled with wonder/awe), hṛṣṭa-romā (hair standing on end — the classic śokaharṣa response of the body to overwhelming experience), praṇamya śirasā (bowing the head), kṛtāñjali (with folded hands). These are not Arjuna's usual warrior composure — this is the body responding to what the mind cannot contain. The response of a human being to the infinite.
+wbw:
+  tataḥ sa vismayāviṣṭo | phrase | then he, filled with wonder
+  hṛṣṭa-romā dhanañjayaḥ | phrase | hair standing on end, Dhanañjaya
+  praṇamya śirasā devaṃ | phrase | bowing his head to the God
+  kṛtāñjalir abhāṣata | phrase | with folded hands, he spoke
+---
+# 11.15
+short: Arjuna said — O God, I see all the gods in Your body — and all the various hosts of beings; and Brahmā, the Lord, seated on the lotus-throne; and all the sages and divine serpents.
+long: Arjuna's speech begins with what he sees: "paśyāmi devāṃs tava deva dehe sarvāṃs tathā bhūta-viśeṣa-saṃghān / brahmāṇam īśam kamalāsana-stham ṛṣīṃś ca sarvān uragāṃś ca divyān." He sees all the devas, all beings, Brahmā seated on his lotus throne ("kamalāsana-stham"), all the sages, all the divine serpents. The vision is a living compendium of all mythology, all cosmology, all beings — simultaneously present in the divine body. Arjuna is overwhelmed by what he cannot categorize.
+wbw:
+  paśyāmi devāṃs tava deva dehe | phrase | I see the gods in Your body, O God
+  sarvāṃs tathā bhūta-viśeṣa-saṃghān | phrase | and all the various hosts of beings
+  brahmāṇam īśam kamalāsana-stham | phrase | Brahmā the Lord, seated on the lotus throne
+  ṛṣīṃś ca sarvān uragāṃś ca divyān | phrase | and all the sages and divine serpents
+---
+# 11.16
+short: I see You with many arms, stomachs, mouths, and eyes — of infinite form — everywhere. I see no end, no middle, and no beginning of You, O Lord of All, Universal Form.
+long: "Aneka-bāhūdara-vaktra-netraṃ paśyāmi tvāṃ sarvato'nanta-rūpam / nāntaṃ na madhyaṃ na punas tavādiṃ paśyāmi viśveśvara viśva-rūpa." Aneka (many) arms, stomachs, mouths, eyes — not a defined number but radical multiplicity. Sarvato'nanta-rūpam — of infinite form everywhere. "Nāntam na madhyam na punastava ādim" — no end, no middle, no beginning. The divine form is not located in space — it has no boundary points. It doesn't start or stop; it simply is. Viśveśvara (Lord of All), Viśvarūpa (Universal Form) — the grandest titles.
+wbw:
+  aneka-bāhūdara-vaktra-netram | accusative | many arms, stomachs, mouths, eyes
+  paśyāmi tvāṃ sarvato'nanta-rūpam | phrase | I see You everywhere, of infinite form
+  nāntaṃ na madhyaṃ na punas tavādim | phrase | no end, no middle, no beginning of You
+  viśveśvara viśva-rūpa | vocative | O Lord of All, Universal Form
+---
+# 11.17
+short: I see You with crown, mace, and discus — a mass of brilliance shining on all sides — difficult to gaze upon — blazing like a flaming fire and sun — immeasurable.
+long: "Kirīṭinaṃ gadinaṃ cakriṇaṃ ca tejorāśiṃ sarvato dīptimantam / paśyāmi tvāṃ durnirīkṣyaṃ samantād dīptānalārka-dyutim aprameyam." The specific iconographic forms: kirīṭa (crown), gadā (mace), cakra (discus) — Viṣṇu's emblems. But the abstract dominates: "tejorāśim" — mass of brilliance. "Durnirīkṣyam" — difficult to look upon directly (like staring at the sun). "Dīptānalārka-dyutiḥ" — blazing like fire and sun. "Aprameyam" — immeasurable, beyond measure. The form overwhelms sight; the divine is both an object of vision and what makes vision impossible.
+wbw:
+  kirīṭinaṃ gadinaṃ cakriṇaṃ ca | phrase | with crown, mace, and discus
+  tejorāśiṃ sarvato dīptimantam | phrase | mass of brilliance, blazing on all sides
+  paśyāmi tvāṃ durnirīkṣyaṃ samantāt | phrase | I see You, difficult to gaze upon, on all sides
+  dīptānalārka-dyutim aprameyam | phrase | blazing like fire and sun, immeasurable
+---
+# 11.18
+short: You are the Imperishable, the supreme to be known. You are the supreme refuge of this universe. You are the undying guardian of eternal dharma. You are the primeval Person — I believe this.
+long: "Tvam akṣaraṃ paramaṃ veditavyaṃ tvam asya viśvasya paraṃ nidhānam / tvam avyayaḥ śāśvata-dharma-goptā sanātanas tvaṃ puruṣo mato me." Four declarations: akṣaram (the Imperishable), paramaṃ veditavyam (the supreme thing to be known), asya viśvasya paraṃ nidhānam (supreme treasure-house of this universe), avyayaḥ śāśvata-dharma-goptā (the undying guardian of eternal dharma), sanātana puruṣa (the primeval/eternal Person). "Mato me" — I believe this, I affirm this. Arjuna, in the midst of an overwhelming vision, is simultaneously formulating the highest theological affirmations.
+wbw:
+  tvam akṣaraṃ paramaṃ veditavyam | phrase | You are the Imperishable, supreme to be known
+  tvam asya viśvasya paraṃ nidhānam | phrase | You are the supreme treasure-house of this universe
+  tvam avyayaḥ śāśvata-dharma-goptā | phrase | You are the undying guardian of eternal dharma
+  sanātanas tvaṃ puruṣo mato me | phrase | You are the primeval Person — this I believe
+---
+# 11.19
+short: Without beginning, middle, or end — of infinite power — with countless arms — with sun and moon as eyes — blazing fire as Your mouth — scorching this universe with Your radiance.
+long: "Anādi-madhyāntam ananta-vīryam ananta-bāhuṃ śaśisūrya-netram / paśyāmi tvāṃ dīpta-hutāśa-vaktraṃ sva-tejasā viśvam idaṃ tapantam." Without beginning, middle, or end (anādi-madhyāntam) — truly infinite. Infinite power (ananta-vīryam), innumerable arms, sun and moon as eyes — the cosmic scale of the eyes sees by the light of the cosmic luminaries. "Dīpta-hutāśa-vaktra" — mouth blazing like a fire, consuming oblations. The entire universe scorched (tapantam) by the divine's own radiance. The vision is not comfortable — it is awesome in the original sense: awe-full.
+wbw:
+  anādi-madhyāntam ananta-vīryam | accusative phrase | without beginning/middle/end, of infinite power
+  ananta-bāhuṃ śaśi-sūrya-netram | phrase | countless arms, sun and moon as eyes
+  dīpta-hutāśa-vaktraṃ | phrase | mouth blazing like fire (consuming oblations)
+  sva-tejasā viśvam idaṃ tapantam | phrase | scorching this universe with Your own radiance
+---
+# 11.20
+short: The space between heaven and earth and all the directions are pervaded by You alone. Seeing this wondrous and terrible form of Yours, O Great-souled One, the three worlds tremble.
+long: "Dyāv ā-pṛthivyor idam antaraṃ hi vyāptaṃ tvayaikena diśaś ca sarvāḥ / dṛṣṭvādbhutaṃ rūpam idaṃ tavograṃ loka-trayaṃ pravyathitaṃ mahātman." The space between heaven and earth (dyāvā-pṛthivyo antaram) and all directions — pervaded by You alone (tvayaikena). Then: seeing this wondrous (adbhutam) and terrible (ugram) form — the three worlds tremble (pravyathitam). Not just Arjuna — the entire cosmic order shakes in the face of the viśvarūpa. The vision is simultaneously wonderful and terrible — "sublime" in the deepest sense.
+wbw:
+  dyāv ā-pṛthivyor idam antaraṃ hi | phrase | the space between heaven and earth
+  vyāptaṃ tvayaikena diśaś ca sarvāḥ | phrase | pervaded by You alone, and all directions
+  dṛṣṭvādbhutaṃ rūpam idaṃ tavogram | phrase | seeing this wondrous and terrible form of Yours
+  loka-trayaṃ pravyathitaṃ mahātman | phrase | the three worlds tremble, O Great-souled One
+---
+# 11.21
+short: Hosts of suras are entering You; some, frightened, are praising You with joined hands; hosts of maharṣis and siddhas are saying "all is well" and worshipping You with wonderful hymns.
+long: "Amī hi tvāṃ sura-saṃghā viśanti kecid bhītāḥ prāñjalayo gṛṇanti / svastīty uktvā maharṣi-siddha-saṃghāḥ stuvanti tvāṃ stutibhiḥ puṣkalābhiḥ." A vision within the vision: the devas themselves entering Krishna, some in fear, hands joined. The great sages and siddhas — the perfected ones — chant "svasti" (all is well, may it be auspicious) and praise with magnificent hymns. The divine hierarchy bows before the supreme. Even those who are themselves divine beings recognize something greater.
+wbw:
+  amī hi tvāṃ sura-saṃghāḥ viśanti | phrase | these hosts of suras are entering You
+  kecid bhītāḥ prāñjalayo gṛṇanti | phrase | some frightened, praise with joined hands
+  svastīty uktvā maharṣi-siddha-saṃghāḥ | phrase | saying "all is well," hosts of great sages and siddhas
+  stuvanti tvāṃ stutibhiḥ puṣkalābhiḥ | phrase | praise You with wonderful hymns
+---
+# 11.22
+short: Rudras, Ādityas, Vasus, Sādhyas, Viśvedevas, the two Aśvins, Maruts, Uṣmapas — all the Gandharvas, Yakṣas, Asuras, and Siddhas — they all look at You, amazed.
+long: "Rudrādityā vasavaḥ ye ca sādhyā viśve'śvinau marutaś coṣmapāś ca / gandharva-yakṣāsura-siddha-saṃghā vīkṣante tvāṃ vismitāś caiva sarve." The entire hierarchy of cosmic beings — Rudras, Ādityas, Vasus, Sādhyas, Viśvedevas, Aśvins, Maruts, Uṣmapas, Gandharvas, Yakṣas, Asuras, Siddhas — all "vīkṣante tvāṃ vismitāḥ" — look at You in amazement. Not one being is unmoved. Every class of cosmic entity, including the asuras (demons), stares in amazement at the viśvarūpa. The vision is beyond all categories.
+wbw:
+  rudrādityā vasavaḥ ye ca sādhyāḥ | nominative | Rudras, Ādityas, Vasus, Sādhyas
+  viśve'śvinau marutaś coṣmapāś ca | nominative | Viśvedevas, Aśvins, Maruts, Uṣmapas
+  gandharva-yakṣāsura-siddha-saṃghāḥ | nominative | hosts of Gandharvas, Yakṣas, Asuras, Siddhas
+  vīkṣante tvāṃ vismitāś caiva sarve | phrase | all look at You in amazement
+---
+# 11.23
+short: Seeing Your great form with many mouths and eyes, O Mighty-armed One — with many arms, thighs, feet, bellies, and many terrible tusks — the worlds are terrified, and so am I.
+long: "Rūpaṃ mahatte bahu-vaktra-netraṃ mahā-bāho bahu-bāhūru-pādam / bahūdaraṃ bahu-daṃṣṭrā-karālaṃ dṛṣṭvā lokāḥ pravyathitās tathāham." Arjuna now speaks from his own terror as well as observing the trembling of the worlds. "Bahu-daṃṣṭrā-kārālam" — terrible with many tusks. The tusks are a sign of the destructive/consuming aspect of the divine — like Kālī's teeth. "Lokāḥ pravyathitās tathāham" — the worlds tremble, and so do I. Arjuna is explicitly identifying with the cosmic trembling. He is not outside the vision; he is in it.
+wbw:
+  rūpaṃ mahatte bahu-vaktra-netram | phrase | Your great form with many mouths and eyes
+  mahā-bāho bahu-bāhūru-pādam | phrase | O Mighty-armed One, with many arms, thighs, feet
+  bahūdaraṃ bahu-daṃṣṭrā-karālam | phrase | with many bellies, terrible with many tusks
+  dṛṣṭvā lokāḥ pravyathitās tathāham | phrase | seeing (this) worlds tremble, and so do I
+---
+# 11.24
+short: On seeing You touching the sky, blazing with many colors, with mouths wide open and large eyes — I am terrified at heart, O Viṣṇu, and find no steadiness or peace.
+long: "Nabhaḥ-spṛśaṃ dīptam aneka-varṇaṃ vyāttānanaṃ dīpta-viśāla-netram / dṛṣṭvā hi tvāṃ pravyathitāntar-ātmā dhṛtiṃ na vindāmi śamaṃ ca viṣṇo." Nabhaḥ-spṛśam — touching the sky. Dīptam aneka-varṇam — blazing with many colors. "Vyāttānanam" — with wide-open mouths. "Dīpta-viśāla-netram" — with blazing, large eyes. "Pravyathitāntar-ātmā" — terrified at the core of my being. "Dhṛtiṃ na vindāmi śamaṃ ca" — I find no steadiness, no peace. Arjuna has lost the composure he usually has even before battle. The viśvarūpa transcends war; it transcends everything.
+wbw:
+  nabhaḥ-spṛśaṃ dīptam aneka-varṇam | phrase | touching the sky, blazing, many-colored
+  vyāttānanaṃ dīpta-viśāla-netram | phrase | wide-open mouths, blazing large eyes
+  dṛṣṭvā hi tvāṃ pravyathitāntar-ātmā | phrase | seeing You, terrified at the core
+  dhṛtiṃ na vindāmi śamaṃ ca viṣṇo | phrase | I find no steadiness or peace, O Viṣṇu
+---
+# 11.25
+short: Seeing Your mouths terrible with tusks — like the fires of cosmic time — I lose my sense of direction and find no peace. Be gracious, O Lord of gods, O abode of the universe.
+long: "Daṃṣṭrā-karālāni ca te mukhāni dṛṣṭvaiva kālānala-sannibhāni / diśo na jāne na labhe ca śarma prasīda deveśa jagannivāsa." Mouths terrible with tusks (daṃṣṭrā-karālāni), like the fires at the end of time (kālānala-sannibhāni) — the fire that destroys the cosmos at the end of an age. "Diśo na jāne" — I don't know the directions (completely disoriented). "Na labhe ca śarma" — I find no shelter/peace. Then the plea: "prasīda deveśa jagannivāsa" — be gracious (prasīda), O Lord of gods, O abode of the universe. The vision of absolute power drives Arjuna to absolute surrender.
+wbw:
+  daṃṣṭrā-karālāni ca te mukhāni | phrase | Your mouths terrible with tusks
+  dṛṣṭvaiva kālānala-sannibhāni | phrase | seeing them like the fires of cosmic time
+  diśo na jāne na labhe ca śarma | phrase | I don't know directions, find no shelter
+  prasīda deveśa jagannivāsa | vocative phrase | be gracious, O Lord of gods, abode of universe
+---
+# 11.26
+short: All these sons of Dhṛtarāṣṭra with the hosts of kings — along with Bhīṣma, Droṇa, Sūtaputra Karṇa, and our warrior chiefs —
+long: (11.27 continues) Arjuna now identifies specific individuals he sees being consumed. Dhṛtarāṣṭra's sons — all the Kauravas — kings with their armies. And on the other side: "bhīṣmaḥ droṇaḥ sūta-putras tathāsau sahāsmadīyair api yodha-mukhyaiḥ." Bhīṣma — the grandsire, the greatest warrior of his age. Droṇa — his teacher. Sūtaputra (Karṇa) — his greatest adversary. "Sahāsmadīyair api" — and our own warrior chiefs too. Both sides are in the vision. The war's outcome is already present in the divine body, being consumed.
+wbw:
+  amī ca tvāṃ dhṛtarāṣṭrasya putrāḥ | phrase | these sons of Dhṛtarāṣṭra
+  sarve sahaivāvani-pāla-saṃghaiḥ | phrase | with all the hosts of kings
+  bhīṣmo droṇaḥ sūta-putras tathāsau | phrase | Bhīṣma, Droṇa, and Sūtaputra (Karṇa)
+  sahāsmadīyair api yodha-mukhyaiḥ | phrase | and also our warrior chiefs
+---
+# 11.27
+short: Rush into Your mouths that are terrible with tusks and fearsome — some are seen stuck between Your teeth with their heads already crushed.
+long: "Vaktrāṇi te tvaramāṇā viśanti daṃṣṭrā-karālāni bhayānakāni / kecid vilagnā daśanāntareṣu sandṛśyante cūrṇitair uttamāṅgaiḥ." They rush (tvaramāṇāḥ) into the mouths — as if hurrying to their fate, driven by the force of karma. Terrible with tusks, fearsome. "Kecid vilagnā daśanāntareṣu" — some are stuck between the teeth. "Sandṛśyante cūrṇitair uttamāṅgaiḥ" — seen with crushed heads. A vision of mass death — the war's devastation is shown in concentrated cosmic form. Arjuna sees the ultimate fate of these warriors already accomplished in the divine vision.
+wbw:
+  vaktrāṇi te tvaramāṇā viśanti | phrase | rushing into Your mouths
+  daṃṣṭrā-karālāni bhayānakāni | adjective phrase | terrible with tusks, fearsome
+  kecid vilagnā daśanāntareṣu | phrase | some stuck between the teeth
+  sandṛśyante cūrṇitair uttamāṅgaiḥ | phrase | seen with crushed heads
+---
+# 11.28
+short: As rivers with many streams flow toward the ocean — so do these heroes of the human world rush into Your blazing mouths.
+long: "Yathā nadīnāṃ bahavo'mbu-vegāḥ samudram evābhimukhā dravanti / tathā tavāmī nara-loka-vīrā viśanti vaktrāṇy abhivijvalanti." A gentler image momentarily: rivers rushing to the ocean. Many rivers (bahavo'mbu-vegāḥ), all flowing toward (abhimukhāḥ) the ocean. The warriors flow into the divine mouth as inevitably as rivers to the sea. "Abhivijvalanti" — blazing (the mouths). The simile shifts from violent consumption to natural inevitability. Death is not unnatural — it is the ocean that receives all rivers. The warriors are rivers; the divine mouth is the sea.
+wbw:
+  yathā nadīnāṃ bahavo'mbu-vegāḥ | phrase | just as rivers with many streams
+  samudram evābhimukhā dravanti | phrase | flow straight toward the ocean
+  tathā tavāmī nara-loka-vīrāḥ | phrase | so these heroes of the human world
+  viśanti vaktrāṇy abhivijvalanti | phrase | enter Your blazing mouths
+---
+# 11.29
+short: As moths rushed swiftly into a blazing fire for their destruction — so too these worlds are rushing into Your mouths for their destruction.
+long: "Yathā pradīptaṃ jvalanaṃ pataṃgā viśanti nāśāya samṛddha-vegāḥ / tathaiva nāśāya viśanti lokās tavāpi vaktrāṇi samṛddha-vegāḥ." Moths flying into flame — a universal image of beings drawn fatally to what destroys them. "Samṛddha-vegāḥ" — with full velocity, without hesitation. The same phrase applies to both moths and worlds: rushing in with full velocity. The irresistibility of the divine consummation. The worlds rush to the viśvarūpa's mouths as helplessly and inevitably as moths to fire. Death is not imposed — it is rushed into.
+wbw:
+  yathā pradīptaṃ jvalanaṃ pataṃgāḥ | phrase | just as moths into a blazing fire
+  viśanti nāśāya samṛddha-vegāḥ | phrase | enter for destruction with full speed
+  tathaiva nāśāya viśanti lokāḥ | phrase | so similarly the worlds enter for destruction
+  tavāpi vaktrāṇi samṛddha-vegāḥ | phrase | into Your mouths with full speed
+---
+# 11.30
+short: You lick up and swallow all the worlds on every side with Your flaming mouths. Your fierce rays fill the entire universe with radiance and scorch it, O Viṣṇu.
+long: "Lelihyase grasamānaḥ samantāl lokān samagrān vadanair jvaladbhiḥ / tejobhir āpūrya jagat samagraṃ bhāsas tavograḥ pratapanti viṣṇo." Lelihyase — licking up (like fire licks). Grasamānaḥ — swallowing. Samantāl — on all sides. All worlds (lokān samagrān) consumed by blazing mouths. "Tejobhir āpūrya jagat samagram" — filling the entire universe with radiance. "Bhāsas tavograḥ pratapanti" — Your fierce rays scorch. O Viṣṇu — the preserver-name used even as Arjuna sees the destroyer aspect. The divine that preserves is the same divine that destroys. Neither is separate from the other.
+wbw:
+  lelihyase grasamānaḥ samantāl | phrase | You lick up, swallowing on all sides
+  lokān samagrān vadanair jvaladbhiḥ | phrase | all worlds with blazing mouths
+  tejobhir āpūrya jagat samagram | phrase | filling the entire universe with radiance
+  bhāsas tavograḥ pratapanti viṣṇo | phrase | Your fierce rays scorch, O Viṣṇu
+---
+# 11.31
+short: Tell me — who are You of this fierce form? O Best of the gods, I bow to You, be gracious. I wish to know You, the primeval One — for I do not understand Your working.
+long: "Ākhyāhi me ko bhavān ugra-rūpo namo'stu te deva-vara prasīda / vijñātum icchāmi bhavantam ādyaṃ na hi prajānāmi tava pravṛttim." Arjuna's direct question after the overwhelming vision: "Who are You of this fierce form?" The question of identity — beneath the viśvarūpa, who is this? "Namo'stu te, prasīda" — I bow, be gracious. "Vijñātum icchāmi bhavantam ādyam" — I wish to know You, the primeval One. "Na hi prajānāmi tava pravṛttim" — I don't understand Your working/activity. Arjuna has seen the what; now he needs the who and why.
+wbw:
+  ākhyāhi me ko bhavān ugra-rūpaḥ | phrase | tell me, who are You of this fierce form
+  namo'stu te deva-vara prasīda | phrase | I bow to You, O Best of gods, be gracious
+  vijñātum icchāmi bhavantam ādyam | phrase | I wish to know You, the primeval One
+  na hi prajānāmi tava pravṛttim | phrase | for I do not understand Your working
+---
+# 11.32
+short: The Lord says — I am Time, the great destroyer of worlds, here to destroy. Even without you, these warriors standing in the opposing armies shall cease to exist.
+long: "Kālo'smi loka-kṣaya-kṛt pravṛddho lokān samāhartum iha pravṛttaḥ / ṛte'pi tvāṃ na bhaviṣyanti sarve ye'vasthitāḥ pratyanīkeṣu yodhāḥ." "Kālo'smi" — I am Time. Specifically: loka-kṣaya-kṛt pravṛddha (grown to destroy the worlds). "Lokān samāhartum iha pravṛttaḥ" — engaged here in consuming the worlds. Then the decisive statement: "ṛte'pi tvāṃ na bhaviṣyanti" — even without you (ṛte = without), all these warriors will cease to exist. Arjuna has been agonizing about whether to fight. The answer: these deaths have already been decreed by Time. He is not their cause; he can be only their instrument.
+wbw:
+  kālo'smi loka-kṣaya-kṛt pravṛddhaḥ | phrase | I am Time, grown, the destroyer of worlds
+  lokān samāhartum iha pravṛttaḥ | phrase | engaged here in consuming worlds
+  ṛte'pi tvāṃ na bhaviṣyanti sarve | phrase | even without you, they will not exist
+  ye'vasthitāḥ pratyanīkeṣu yodhāḥ | phrase | the warriors standing in the opposing armies
+---
+# 11.33
+short: Therefore stand up, win glory; having conquered the enemies, enjoy a prosperous kingdom. By Me alone they have already been slain — be only My instrument, O left-handed archer (Savyasācin).
+long: "Tasmāt tvam uttiṣṭha yaśo labhasva jitvā śatrūn bhuṅkṣva rājyaṃ samṛddham / mayaivaite nihatāḥ pūrvam eva nimitta-mātraṃ bhava savyasācin." Stand up. Win glory. Conquer. Enjoy prosperity. These are Arjuna's legitimate functions as a warrior-king. "Mayaivaite nihatāḥ pūrvam eva" — by Me alone, these have already been slain. The past-tense is cosmic: in the timeless divine vision, the war is already over. "Nimitta-mātraṃ bhava" — be merely the instrument. "Savyasācin" — the ambidextrous archer (a title of skill). Arjuna is skilled; let that skill be the tool of the already-decreed.
+wbw:
+  tasmāt tvam uttiṣṭha yaśo labhasva | imperative phrase | therefore stand up, win glory
+  jitvā śatrūn bhuṅkṣva rājyaṃ samṛddham | phrase | having conquered enemies, enjoy prosperous kingdom
+  mayaivaite nihatāḥ pūrvam eva | phrase | by Me alone, these have already been slain
+  nimitta-mātraṃ bhava savyasācin | phrase | be merely the instrument, O Savyasācin
+---
+# 11.34
+short: Droṇa and Bhīṣma, Jayadratha and Karṇa, and the other warlike heroes — these have been already slain by Me; kill, do not hesitate. Fight — you shall conquer the enemies in battle.
+long: "Droṇaṃ ca bhīṣmaṃ ca jayadrathaṃ ca karṇaṃ tathānyān api yodha-vīrān / mayā hatāṃs tvaṃ jahi mā vyathiṣṭhā yudhyasva jetāsi raṇe sapatnān." Named specifically: Droṇa (his teacher), Bhīṣma (the grandsire), Jayadratha (Duhśalā's husband, who would kill Abhimanyu), Karṇa (his greatest opponent). "Mayā hatāṃs tvaṃ jahi" — already slain by Me, kill them. "Mā vyathiṣṭhāḥ" — don't be distressed/hesitate. "Jetāsi raṇe sapatnān" — you shall conquer the enemies in battle. The cosmic certainty resolves Arjuna's personal hesitation. The outcome is already written; his courage makes him worthy of witnessing the writing.
+wbw:
+  droṇaṃ ca bhīṣmaṃ ca jayadrathaṃ ca | accusative | Droṇa, Bhīṣma, Jayadratha
+  karṇaṃ tathānyān api yodha-vīrān | accusative | Karṇa and other warrior heroes
+  mayā hatāṃs tvaṃ jahi mā vyathiṣṭhāḥ | phrase | already slain by Me, you kill; don't hesitate
+  yudhyasva jetāsi raṇe sapatnān | phrase | fight — you shall conquer enemies in battle
+---
+# 11.35
+short: Sañjaya says — Having heard this word of Keśava, the diadem-wearer Arjuna, trembling with joined hands, bowing down, barely speaking, in great fear, said again to Krishna.
+long: "Sañjaya uvāca — etac chrutvā vacanaṃ keśavasya kṛtāñjalir vepamānaḥ kirīṭī / namaskṛtvā bhūya evāha kṛṣṇaṃ sa-gadgadaṃ bhīta-bhītaḥ praṇamya." Trembling (vepamānaḥ), hands joined (kṛtāñjaliḥ), bowing (namaskṛtvā), voice choked (sa-gadgadaṃ) — "bhīta-bhītaḥ" — exceedingly afraid. The compound with bhīta repeated intensifies: terrified, terrified. Arjuna, the supremely confident warrior who was in despair before the battle (ch.1), is now in a different kind of fear — the fear of a human before the infinite, not moral despair but cosmic awe.
+wbw:
+  etac chrutvā vacanaṃ keśavasya | phrase | having heard this word of Keśava
+  kṛtāñjalir vepamānaḥ kirīṭī | phrase | with joined hands, trembling, the diadem-wearer
+  namaskṛtvā bhūya evāha kṛṣṇaṃ | phrase | bowing, spoke again to Krishna
+  sa-gadgadaṃ bhīta-bhītaḥ praṇamya | phrase | with choked voice, exceedingly afraid, bowing
+---
+# 11.36
+short: Arjuna says — O Hṛṣīkeśa, rightly does the universe rejoice and delight in Your praise. Rākṣasas flee in all directions in fear, and the hosts of Siddhas bow down.
+long: "Sthāne hṛṣīkeśa tava prakīrtyā jagat prahṛṣyaty anurajyate ca / rakṣāṃsi bhītāni diśo dravanti sarve namasyanti ca siddha-saṃghāḥ." "Sthāne" — rightly (in its proper place). The universe rejoicing (prahṛṣyati) and being delighted (anurajyate) at Your praise — this is as it should be. The Rākṣasas flee in fear (bhītāni diśo dravanti). The Siddhas bow (namasyanti). The cosmic response is divided: those aligned with the divine rejoice; those opposed flee. This is the nature of the viśvarūpa — it is the ultimate reality that each being responds to according to their nature.
+wbw:
+  sthāne hṛṣīkeśa tava prakīrtyā | phrase | rightly, O Hṛṣīkeśa, at Your praise
+  jagat prahṛṣyaty anurajyate ca | phrase | the universe rejoices and is delighted
+  rakṣāṃsi bhītāni diśo dravanti | phrase | rākṣasas flee in all directions in fear
+  sarve namasyanti ca siddha-saṃghāḥ | phrase | and all hosts of Siddhas bow down
+---
+# 11.37
+short: And why should they not bow down to You, O Great-souled One — the original creator, greater than even Brahmā? O Infinite One, O Lord of gods, O Abode of the universe — You are the imperishable, being, non-being, and what is beyond.
+long: "Kasmāc ca te na nameran mahātman garīyase brahmano'py ādi-kartre / ananta deveśa jagan-nivāsa tvam akṣaraṃ sad asat tat paraṃ yat." Why would they NOT bow? You are: mahātman (great-souled), ādi-kartr (original creator), greater even than Brahmā (who himself is a created being in the Hindu understanding). Ananta (infinite), deveśa (lord of gods), jagan-nivāsa (abode of the universe). And: akṣaram (imperishable), sat (being), asat (non-being), and "tat paraṃ yat" — that which is beyond both. The theological completeness of this enumeration is remarkable.
+wbw:
+  kasmāc ca te na nameran mahātman | phrase | and why should they not bow to You, O Great-souled One
+  garīyase brahmaṇo'py ādi-kartre | phrase | greater than Brahmā, the original creator
+  ananta deveśa jagan-nivāsa | vocative | O Infinite One, Lord of gods, Abode of universe
+  tvam akṣaraṃ sad asat tat paraṃ yat | phrase | You are the imperishable, being, non-being, and what is beyond
+---
+# 11.38
+short: You are the Primeval God, the Ancient Person. You are the supreme refuge of this universe. You are the knower, the known, and the supreme state. O You of Infinite Form, the universe is pervaded by You.
+long: "Tvam ādi-devaḥ puruṣaḥ purāṇas tvam asya viśvasya paraṃ nidhānam / vettāsi vedyaṃ ca paraṃ ca dhāma tvayā tataṃ viśvam ananta-rūpa." Ādi-devaḥ (Primeval God), puruṣaḥ purāṇa (the Ancient Person). Paraṃ nidhānam (supreme treasure-house) of the universe. Then the epistemic triad: vettā (the knower), vedyam (what is known), paraṃ dhāma (the supreme state/home). These three together constitute the complete circuit of knowledge: the knowing subject, the object of knowledge, and the illumination that makes knowledge possible — all are Krishna. "Tvayā tataṃ viśvam ananta-rūpa" — pervaded by You, O of infinite form.
+wbw:
+  tvam ādi-devaḥ puruṣaḥ purāṇaḥ | phrase | You are the Primeval God, the Ancient Person
+  tvam asya viśvasya paraṃ nidhānam | phrase | You are the supreme treasure-house of this universe
+  vettāsi vedyaṃ ca paraṃ ca dhāma | phrase | You are the knower, the known, and the supreme state
+  tvayā tataṃ viśvam ananta-rūpa | phrase | the universe is pervaded by You, O of Infinite Form
+---
+# 11.39
+short: You are Vāyu, Yama, Agni, Varuṇa, the moon, Prajāpati, and the great-grandfather. Salutations to You a thousand times, and again salutations to You.
+long: "Vāyur yamo'gnir varuṇaḥ śaśāṅkaḥ prajāpatis tvaṃ prapitāmahaś ca / namo namas te'stu sahasra-kṛtvaḥ punaś ca bhūyo'pi namo namas te." Arjuna names the great elemental gods: Vāyu (wind), Yama (death/dharma), Agni (fire), Varuṇa (waters/cosmic order), the moon, Prajāpati (lord of creatures), prapitāmaha (great-grandfather — beyond even Brahmā). Then the overflow of salutation: "namo namas te'stu sahasra-kṛtvaḥ" — a thousand-fold salutation. "Punaś ca bhūyo'pi namo namas te" — and again, once more, salutation. The repetition of "namas" is itself a form of overwhelm — one salutation is not enough.
+wbw:
+  vāyur yamo'gnir varuṇaḥ śaśāṅkaḥ | nominative | Vāyu, Yama, Agni, Varuṇa, the moon
+  prajāpatis tvaṃ prapitāmahaś ca | phrase | You are Prajāpati and the great-grandfather
+  namo namas te'stu sahasra-kṛtvaḥ | phrase | salutations a thousand times to You
+  punaś ca bhūyo'pi namo namas te | phrase | and again, and once more, salutations to You
+---
+# 11.40
+short: Salutations from the front and from behind, salutation to You on all sides, O All. You are of infinite power, infinite vigor — You pervade all, therefore You are all.
+long: "Namaḥ purastād atha pṛṣṭhatas te namo'stu te sarvata eva sarva / ananta-vīryāmita-vikramas tvaṃ sarvaṃ samāpnoṣi tato'si sarvaḥ." Salutations from in front, from behind — salutations on all sides (sarvataḥ), O All (sarva). "Ananta-vīryāmita-vikrama" — infinite power, infinite valor/stride. "Sarvaṃ samāpnoṣi tato'si sarvaḥ" — You pervade all, therefore You are all. The logic is explicit: pervasion implies identity. If the divine is everywhere, the divine is everything. Arjuna has arrived at the philosophical realization through direct vision rather than argument.
+wbw:
+  namaḥ purastād atha pṛṣṭhatas te | phrase | salutation from before and behind to You
+  namo'stu te sarvata eva sarva | phrase | salutation on all sides, O All
+  ananta-vīryāmita-vikramas tvaṃ | phrase | You of infinite power and infinite valor
+  sarvaṃ samāpnoṣi tato'si sarvaḥ | phrase | You pervade all, therefore You are all
+---
+# 11.41
+short: Whatever I have said presuming You to be a friend — "O Krishna, O Yādava, O Friend" — in negligence or even in affection — forgive me for all that, O Immeasurable One.
+long: "Sakha-bhāvena yat kiñcid ukto'si sahāyatāṃ ca / māyayā vā yad uktaṃ te kṛṣṇa yādava sakha iti." (11.42 continues) After the vision, Arjuna is mortified by his earlier familiarity. "He called Me friend! He called Me Yādava — a family name! He complained to Me!" The easy intimacy before the battle now seems sacrilegious. "Māyayā" — in negligence. "Pranayena" (11.42) — in love/affection. Both are offered as explanations. The vision has permanently altered how Arjuna will address Krishna — never again in casual familiarity.
+wbw:
+  sakha-bhāvena yad uktaṃ te | phrase | whatever I have said in the spirit of friendship
+  kṛṣṇa yādava sakha iti | quotation phrase | "O Krishna, O Yādava, O friend"
+  ajānatā mahimānam tavedam | phrase | not knowing this greatness of Yours
+  māyayā praṇayena vāpi | phrase | in negligence or even in affection
+---
+# 11.42
+short: Whatever I have spoken irreverently in jest — while at play, resting, sitting, or eating, alone or in others' presence — forgive me for all that, O Immeasurable One.
+long: "Yac cāvahāsārtham asat-kṛto'si vihāra-śayya-āsana-bhojaneṣu / eko'tha vāpy acyuta tat-samakṣaṃ tat kṣāmaye tvām aham aprameyam." A specific and touching enumeration: in play (vihāra), in bed (śayyā), while sitting (āsana), while eating (bhojana) — all the casual moments of a companion relationship. "Eko'tha vāpy... tat-samakṣam" — alone or in company. Arjuna has been Krishna's intimate companion — the relationship is real and beautiful. But now its presumptions stand revealed. "Aprameyam" — immeasurable One — the contrast with casual familiarity is complete.
+wbw:
+  yac cāvahāsārtham asat-kṛto'si | phrase | whatever irreverence I have spoken in jest
+  vihāra-śayya-āsana-bhojaneṣu | locative | while at play, in bed, sitting, eating
+  eko'tha vāpy acyuta tat-samakṣam | phrase | alone or in company, O Acyuta
+  tat kṣāmaye tvām aham aprameyam | phrase | all that I ask forgiveness from You, O Immeasurable One
+---
+# 11.43
+short: You are the father of this world — of moving and unmoving. You are worthy of worship, the most venerable teacher. Nothing is equal to You — how then could there be anything greater? — in all three worlds, O Being of unequalled power.
+long: "Pitāsi lokasya caracarasya tvaṃ asya pūjyaś ca gurur garīyān / na tvat-samaḥ asti'bhyadhikaḥ kuto'nyo loka-traye'py apratima-prabhāva." Arjuna recovers himself with theological clarity. "Pitāsi lokasya caracarasya" — You are the father of this world — moving and unmoving. "Pūjyaś ca gurur garīyān" — worthy of worship, the most venerable guru. "Na tvat-samaḥ asti" — nothing equals You. "Abhyadhikaḥ kuto'nyo" — how could there be anything greater? In all three worlds. "Apratima-prabhāva" — of unequalled power. The theology is precise: not "You are the greatest among many" but "You are what cannot be compared."
+wbw:
+  pitāsi lokasya caracarasya | phrase | You are the father of this world of moving and unmoving
+  tvam asya pūjyaś ca gurur garīyān | phrase | You are worthy of worship, the most venerable teacher
+  na tvat-samaḥ asti'bhyadhikaḥ kuto'nyaḥ | phrase | nothing equals You, how could there be anything greater
+  loka-traye'py apratima-prabhāva | phrase | in all three worlds, O of unequalled power
+---
+# 11.44
+short: Therefore, bowing down and prostrating my body, I ask Your grace, O Lord, worthy of praise. As a father to a son, as a friend to a friend, as a lover to a beloved — please bear with me, O God.
+long: "Tasmāt praṇamya praṇidhāya kāyaṃ prasādaye tvām aham īśam īḍyam / pitevaputrasya sakheva sakhyuḥ priyaḥ priyāyārhasi deva soḍhum." Having recognized the incomparable greatness, Arjuna now performs full prostration (praṇamya praṇidhāya kāyam — prostrating the body). "Prasādaye" — I seek Your grace/favor. Three analogies for how Krishna should bear with Arjuna's former presumptions: as father to son (piteva putrasya), as friend to friend (sakheva sakhyuḥ), as lover to beloved (priyaḥ priyāyāḥ). Beautiful: Arjuna does not abandon these relationships — he asks that they continue, now in full awareness.
+wbw:
+  tasmāt praṇamya praṇidhāya kāyam | phrase | therefore, bowing down, prostrating my body
+  prasādaye tvām aham īśam īḍyam | phrase | I seek Your grace, O Lord worthy of praise
+  piteva putrasya sakheva sakhyuḥ | phrase | as father to son, as friend to friend
+  priyaḥ priyāyārhasi deva soḍhum | phrase | as a lover to beloved, please bear with me, O God
+---
+# 11.45
+short: I am delighted having seen what was never seen before, and my mind is disturbed with fear. Show me that (four-armed) form — be gracious, O Lord of gods, O Abode of the universe.
+long: "Adrṣṭa-pūrvaṃ hṛṣito'smi dṛṣṭvā bhayena ca pravyathitaṃ mano me / tad eva me darśaya deva rūpaṃ prasīda deveśa jagan-nivāsa." "Adṛṣṭa-pūrvaṃ hṛṣito'smi dṛṣṭvā" — I am delighted (hṛṣita) having seen what was never seen before. "Bhayena ca pravyathitaṃ mano me" — but my mind is disturbed with fear. Both — delight and fear. The viśvarūpa produces both simultaneously: the delight of cosmic vision and the terror of cosmic scale. "Tad eva me darśaya deva rūpam" — show me that form, O God — the four-armed Viṣṇu form, the gentle, approachable form.
+wbw:
+  adṛṣṭa-pūrvaṃ hṛṣito'smi dṛṣṭvā | phrase | I am delighted having seen what was never seen before
+  bhayena ca pravyathitaṃ mano me | phrase | and my mind is disturbed with fear
+  tad eva me darśaya deva rūpam | phrase | show me that form of Yours, O God
+  prasīda deveśa jagan-nivāsa | phrase | be gracious, O Lord of gods, O Abode of universe
+---
+# 11.46
+short: I wish to see You with crown, mace, and discus in hand — that form of Yours, O Thousand-armed One, of universal form. Assume that four-armed form.
+long: "Kirīṭinaṃ gadinaṃ cakra-hastam icchāmi tvāṃ draṣṭum ahaṃ tathaiva / tenaiva rūpeṇa catur-bhujena sahasra-bāho bhava viśva-mūrte." Kirīṭin (crowned), gadin (mace-bearer), cakra-hasta (discus-in-hand) — the iconic Viṣṇu form. Arjuna wants this. Not the viśvarūpa, not the formless absolute, but the specific, recognizable, beloved form. "Catur-bhujena" — four-armed. "Bhava viśva-mūrte" — become that, O Universal Form. The "thousand-armed" (sahasra-bāho) and "universal form" (viśva-mūrte) are still being used, but the request is for the four-armed form of personal devotion.
+wbw:
+  kirīṭinaṃ gadinaṃ cakra-hastam | accusative phrase | crowned, mace-bearing, discus-in-hand
+  icchāmi tvāṃ draṣṭum ahaṃ tathaiva | phrase | I wish to see You thus
+  tenaiva rūpeṇa catur-bhujena | instrumental phrase | in that very four-armed form
+  sahasra-bāho bhava viśva-mūrte | imperative phrase | O Thousand-armed, become that, O Universal Form
+---
+# 11.47
+short: The Lord says — By My grace, using My own yoga-power, O Arjuna, this supreme form has been shown — effulgent, universal, infinite, primal — which has never been seen by any other before.
+long: "Mayā prasannena tavārjunedaṃ rūpaṃ paraṃ darśitam ātma-yogāt / tejomayaṃ viśvam anantam ādyam yan me tvad anyena na dṛṣṭa-pūrvam." "By My grace" (mayā prasannena) — the vision was a gift of grace. "Ātma-yogāt" — through My own yoga-power. The form described: tejomayam (effulgent), viśvam (universal), anantam (infinite), ādyam (primal/original). "Yan me tvad anyena na dṛṣṭa-pūrvam" — which no one other than you has ever seen before. This is the unprecedented gift given to Arjuna — and through the Gita, available to all who receive this teaching.
+wbw:
+  mayā prasannena tavārjuna | phrase | by Me, graciously, to you, O Arjuna
+  idaṃ rūpaṃ paraṃ darśitam ātma-yogāt | phrase | this supreme form has been shown through My own yoga
+  tejomayaṃ viśvam anantam ādyam | phrase | effulgent, universal, infinite, primal
+  yan me tvad anyena na dṛṣṭa-pūrvam | phrase | which no one other than you has ever seen before
+---
+# 11.48
+short: Neither by study of the Vedas, nor by sacrifice, nor by gift, nor by ritual, nor by severe austerity — can this form of Mine be seen in the world of men by any other than you.
+long: "Na veda-yajñādhyayanair na dānair na ca kriyābhir na tapobhir ugraiḥ / evaṃ rūpaḥ śakya ahaṃ nṛ-loke draṣṭuṃ tvad anyena kuru-pravīra." Not Vedic study, not sacrifice, not charity, not ritual, not severe austerity — none of these, alone or combined, produce this vision. This is not a system that can be gamed or earned by accumulation of merit. The viśvarūpa is given by grace (11.47 — prasannena). The vision belongs to the devotee who has received divine grace, not to the scholar or ritualist who has completed a program. Arjuna has received this.
+wbw:
+  na veda-yajñādhyayanair na dānaiḥ | phrase | not by Vedic sacrificial studies, not by gifts
+  na ca kriyābhir na tapobhir ugraiḥ | phrase | not by rituals, not by severe austerities
+  evaṃ rūpaḥ śakya ahaṃ nṛ-loke | phrase | in this form can I in the world of men
+  draṣṭuṃ tvad anyena kuru-pravīra | phrase | be seen by any other than you, O hero of the Kurus
+---
+# 11.49
+short: Do not be afraid, do not be bewildered, seeing My this terrible form. With fear dispelled and gladdened heart — see again this My (gentle) form.
+long: "Mā te vyathā mā ca vimūḍha-bhāvo dṛṣṭvā rūpaṃ ghoram īdṛṅ mamedam / vyapeta-bhīḥ prīta-manāḥ punas tvaṃ tad eva me rūpam idaṃ prapaśya." After the overwhelming vision: "Don't be afraid (mā vyathā), don't be bewildered (mā vimūḍha-bhāvaḥ) by seeing this terrible form." "Vyapeta-bhīḥ" — with fear dispelled. "Prīta-manāḥ" — with gladdened heart. "Punas tvaṃ... prapaśya" — again, see. The cosmic vision was necessary; now the personal, familiar, loving form will be restored. The divine knows that the viśvarūpa is not what humans can live with — it requires the return to a form that can be loved.
+wbw:
+  mā te vyathā mā ca vimūḍha-bhāvaḥ | imperative phrase | don't be afraid, don't be bewildered
+  dṛṣṭvā rūpaṃ ghoram īdṛṅ mamedam | phrase | having seen this terrible form of Mine
+  vyapeta-bhīḥ prīta-manāḥ punaḥ | phrase | with fear dispelled, with gladdened heart, again
+  tvaṃ tad eva me rūpam idaṃ prapaśya | phrase | see again this (gentle) form of Mine
+---
+# 11.50
+short: Sañjaya says — Having thus spoken to Arjuna, Vāsudeva showed His own form again; and the Great Being, having assumed again His gentle form, consoled the frightened one.
+long: "Sañjaya uvāca — ity arjunaṃ vāsudevas tathoktā svakaṃ rūpaṃ darśayāmāsa bhūyaḥ / āśvāsayāmāsa ca bhītam enaṃ bhūtvā punaḥ saumya-vapur mahātmā." Vāsudeva (son of Vasudeva) showed His own form again (svakaṃ rūpam). "Āśvāsayāmāsa ca bhītam enam" — comforted the frightened one. "Bhūtvā punaḥ saumya-vapuḥ" — having assumed again the gentle (saumya) form. The word saumya — gentle, beautiful, moonlike — is the precise opposite of the ugra (fierce) form. The cosmic destroyer returns to the loving friend. The bhakta needs the personal form; grace provides it.
+wbw:
+  ity arjunaṃ vāsudevas tathoktā | phrase | having thus spoken to Arjuna, Vāsudeva
+  svakaṃ rūpaṃ darśayāmāsa bhūyaḥ | phrase | showed His own form again
+  āśvāsayāmāsa ca bhītam enam | phrase | and consoled the frightened one
+  bhūtvā punaḥ saumya-vapur mahātmā | phrase | having assumed again the gentle form, the Great Being
+---
+# 11.51
+short: Arjuna says — Seeing this Your gentle human form, O Janārdana, now I am composed, returned to my own nature.
+long: "Dṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyaṃ janārdana / idānīm asmi saṃvṛttaḥ sa-cetāḥ prakṛtiṃ gataḥ." "Idaṃ mānuṣam rūpam tava saumyam" — this Your human, gentle form. "Idānīm asmi saṃvṛttaḥ" — now I am composed/restored. "Sa-cetāḥ" — having returned to consciousness/awareness. "Prakṛtiṃ gataḥ" — returned to my own nature. Arjuna was temporarily taken out of himself by the viśvarūpa — overwhelmed beyond his capacity to function. The return of the gentle human form restores him. The human form of the divine is not lesser — it is what humans can receive and live by.
+wbw:
+  dṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyam | phrase | having seen this Your gentle human form
+  janārdana | vocative | O Janārdana
+  idānīm asmi saṃvṛttaḥ | phrase | now I am restored/composed
+  sa-cetāḥ prakṛtiṃ gataḥ | phrase | having returned to awareness, restored to my own nature
+---
+# 11.52
+short: The Lord says — This My form which you have seen is very difficult to behold. Even the gods forever long to see this form.
+long: "Su-durdarśam idaṃ rūpaṃ dṛṣṭavān asi yan mama / devā apy asya rūpasya nityaṃ darśana-kāṅkṣiṇaḥ." "Su-durdarśam" — extremely difficult to see (this My form). Not the viśvarūpa — it is the saumya, gentle four-armed form of Viṣṇu (or perhaps the two-armed human form of Krishna) that is described here as precious. "Devā apy asya rūpasya nityaṃ darśana-kāṅkṣiṇaḥ" — even the gods forever long to see this form. Arjuna has just been given what even the gods perpetually desire. The most intimate form of the divine is the rarest and most precious.
+wbw:
+  su-durdarśam idaṃ rūpaṃ | phrase | very difficult to see is this form
+  dṛṣṭavān asi yan mama | phrase | which you have seen, of Mine
+  devā apy asya rūpasya | phrase | even the gods, of this form
+  nityaṃ darśana-kāṅkṣiṇaḥ | phrase | are forever longing to see it
+---
+# 11.53
+short: Not by the Vedas, not by austerity, not by gift, not by sacrifice can I be seen in the form in which you have seen Me.
+long: "Nāhaṃ vedair na tapasā na dānena na cejyayā / śakya evaṃ-vidho draṣṭuṃ dṛṣṭavān asi māṃ yathā." (Parallel to 11.48 but now about the gentle/personal form, not the viśvarūpa.) Not Vedas, not tapas, not dāna (gift), not ijyā (sacrifice or worship) can reveal this form. The gentle personal form of the divine is also beyond merit — also given by grace. Both the cosmic form and the personal form transcend ritual access. Only one thing grants either vision, as the next verse reveals.
+wbw:
+  nāhaṃ vedair na tapasā | phrase | not by Vedas, not by austerity
+  na dānena na cejyayā | phrase | not by gift, not by sacrifice/worship
+  śakya evaṃ-vidho draṣṭum | phrase | can I be seen in this manner
+  dṛṣṭavān asi māṃ yathā | phrase | as you have seen Me
+---
+# 11.54
+short: But by undivided devotion, O Arjuna, can I be known in this form, seen in truth, and entered into, O chastiser of foes.
+long: "Bhaktyā tv ananyayā śakya aham evaṃ-vidho'rjuna / jñātuṃ draṣṭuṃ ca tattvena praviṣṭuṃ ca parantapa." The answer: "bhaktyā tu ananyayā" — by undivided devotion alone. "Evaṃ-vidho" — in this form. Three levels of the devotional relationship: jñātum (to know — intellectual understanding), draṣṭuṃ (to see — direct vision), praviṣṭuṃ (to enter into — union). The progression goes from outside to inside: knowing about, then seeing, then entering. The climax is praviṣṭuṃ — entering the divine. Not just observer but participant, not just worshipper but beloved.
+wbw:
+  bhaktyā tv ananyayā śakya | phrase | but by undivided devotion, it is possible
+  aham evaṃ-vidho'rjuna | phrase | for Me in this form, O Arjuna
+  jñātuṃ draṣṭuṃ ca tattvena | phrase | to be known and seen in truth
+  praviṣṭuṃ ca parantapa | phrase | and to be entered into, O chastiser of foes
+---
+# 11.55
+short: He who does My work, who regards Me as the supreme goal, who is My devotee, free from attachment, without enmity toward any being — he comes to Me, O Pāṇḍava.
+long: "Mat-karma-kṛt mat-paramo mad-bhaktaḥ saṅga-varjitaḥ / nirvairaḥ sarva-bhūteṣu yaḥ sa mām eti pāṇḍava." The chapter ends with the most practical statement: five qualities of the one who comes to Krishna. Mat-karma-kṛt (doer of My work — engaged in God's service), mat-paramaḥ (regarding Me as the supreme goal), mad-bhakta (My devotee), saṅga-varjita (free from attachment), nirvairam sarva-bhūteṣu (without enmity toward any being). After the cosmic spectacle of the viśvarūpa, the chapter ends with the most human-scale instruction: live with devotion, purpose, non-attachment, and universal goodwill.
+wbw:
+  mat-karma-kṛt mat-paramaḥ | phrase | doer of My work, with Me as the supreme goal
+  mad-bhaktaḥ saṅga-varjitaḥ | phrase | My devotee, free from attachment
+  nirvairaḥ sarva-bhūteṣu | phrase | without enmity toward any being
+  yaḥ sa mām eti pāṇḍava | phrase | such a one comes to Me, O Pāṇḍava
+---

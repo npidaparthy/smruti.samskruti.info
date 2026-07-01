@@ -1,0 +1,216 @@
+# 16.1
+short: The Lord said — Fearlessness, purity of being, steadfastness in knowledge-yoga, generosity, self-control, sacrifice, study of scripture, austerity, uprightness —
+long: Chapter 16 distinguishes the divine (daivī) from the demonic (āsurī) qualities in human beings. The daivī sampad (divine endowment) is a 26-quality list (16.1-3) representing what the sattvic, spiritually mature person cultivates. First group: abhayam (fearlessness — the foundation of spiritual life), sattva-saṃśuddhi (purity of being — sattva in one's very constitution), jñāna-yoga-vyavasthiti (steadfastness in jñāna-yoga), dāna (generosity), dama (self-control of senses), yajña (sacrifice/ritual), svādhyāya (scripture study), tapas (austerity), ārjava (uprightness).
+wbw:
+  abhayaṃ sattva-saṃśuddhiḥ | phrase | fearlessness, purity of being
+  jñāna-yoga-vyavasthitiḥ | phrase | steadfastness in knowledge-yoga
+  dānaṃ damaś ca yajñaś ca | phrase | generosity, self-control, and sacrifice
+  svādhyāyas tapa ārjavam | phrase | scripture study, austerity, uprightness
+---
+# 16.2
+short: Non-harming, truth, freedom from anger, renunciation, tranquility, non-slandering, compassion for beings, freedom from covetousness, gentleness, modesty, absence of fickleness —
+long: Continuing the list: ahiṃsā (non-harming), satya (truth), akrodha (freedom from anger), tyāga (renunciation), śānti (tranquility/peace), apaiśuna (absence of fault-finding/slander — literally not-making-others-small), bhūteṣu dayā (compassion for beings), aloluptva (freedom from covetousness), mārdava (gentleness/mildness), hrī (modesty/shame at wrongdoing), acāpala (absence of fickleness/inconstancy). Each of these is a specific virtue that emerges from sattva and enables spiritual growth.
+wbw:
+  ahiṃsā satyam akrodhas | phrase | non-harming, truth, freedom from anger
+  tyāgaḥ śāntir apaiśunam | phrase | renunciation, tranquility, non-slandering
+  dayā bhūteṣv aloluptvaṃ | phrase | compassion for beings, non-covetousness
+  mārdavaṃ hrīr acāpalam | phrase | gentleness, modesty, absence of fickleness
+---
+# 16.3
+short: Vigor, patience, fortitude, purity, freedom from ill will, absence of excessive pride — these belong to one born to divine destiny, O Bhārata.
+long: "Tejaḥ kṣamā dhṛtiḥ śaucam adroho nātimanitā / bhavanti sampadaṃ daivīm abhijātasya bhārata." Completing the list: tejas (vigor/energy/brilliance), kṣamā (patience/forgiveness), dhṛti (fortitude/steadiness), śauca (purity), adroha (freedom from ill will/hostility), nātimanitā (absence of excessive pride — note it says excessive; some self-respect is appropriate). "Sampadaṃ daivīm abhijātasya" — belonging to one born to the divine endowment (daivī sampad). These are the 26 divine qualities complete.
+wbw:
+  tejaḥ kṣamā dhṛtiḥ śaucam | phrase | vigor, patience, fortitude, purity
+  adroho nātimanitā | phrase | freedom from ill will, absence of excessive pride
+  bhavanti sampadaṃ daivīm | phrase | belong to the divine endowment
+  abhijātasya bhārata | phrase | for one born to it, O Bhārata
+---
+# 16.4
+short: Hypocrisy, arrogance, conceit, anger, harshness, and ignorance — these belong to one born to demonic destiny, O Pārtha.
+long: "Dambho darpo'timānaś ca krodhaḥ pāruṣyam eva ca / ajñānaṃ cābhijātasya pārtha sampadaṃ āsurīm." The āsurī sampad (demonic endowment) in six qualities: dambha (hypocrisy — performing righteousness for show), darpa (arrogance — pride without foundation), atimāna (conceit — excessive pride), krodha (anger), pāruṣya (harshness/cruelty — in speech and action), ajñāna (ignorance — the root that underlies all the others). These are the āsurī traits. Notably the list of demonic qualities is much shorter than the divine — six versus twenty-six.
+wbw:
+  dambho darpo'timānaś ca | phrase | hypocrisy, arrogance, and conceit
+  krodhaḥ pāruṣyam eva ca | phrase | anger and harshness also
+  ajñānaṃ cābhijātasya | phrase | and ignorance, for one born to
+  pārtha sampadaṃ āsurīm | phrase | the demonic endowment, O Pārtha
+---
+# 16.5
+short: Divine destiny leads to liberation; demonic destiny leads to bondage. Do not grieve — you are born to divine destiny, O Pāṇḍava.
+long: "Daivī sampad vimokṣāya nibandhāyāsurī matā / mā śucaḥ sampadaṃ daivīm abhijāto'si pāṇḍava." Daivī sampad → vimokṣāya (leads to liberation). Āsurī sampad → nibandhāya (leads to bondage). Then Krishna adds a personal word: "mā śucaḥ" — do not grieve. "Sampadaṃ daivīm abhijāto'si pāṇḍava" — you are born to divine endowment, O Pāṇḍava. The teaching isn't just philosophy — it's addressed to Arjuna personally. He needs to hear: you are on the right side of this distinction. Don't worry.
+wbw:
+  daivī sampad vimokṣāya | phrase | divine endowment leads to liberation
+  nibandhāyāsurī matā | phrase | demonic is held to lead to bondage
+  mā śucaḥ sampadaṃ daivīm | phrase | do not grieve, the divine endowment
+  abhijāto'si pāṇḍava | phrase | you are born to, O Pāṇḍava
+---
+# 16.6
+short: There are two types of created beings in this world — the divine and the demonic. The divine has been described at length; hear from Me about the demonic, O Pārtha.
+long: "Dvau bhūta-sargau loke'smin daiva āsura eva ca / daivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu." Two fundamental types of created beings in this world — daiva (divine) and āsura (demonic). The daivī has been described at length (vistaraśaḥ) — the twenty-six qualities. Now hear about the āsurī. This binary is not meant to permanently categorize people — it describes tendencies, and tendencies can shift. The chapter is not about condemning specific people but about recognizing and transforming qualities within oneself.
+wbw:
+  dvau bhūta-sargau loke'smin | phrase | two kinds of created beings in this world
+  daiva āsura eva ca | phrase | divine and demonic also
+  daivo vistaraśaḥ proktaḥ | phrase | the divine has been described at length
+  āsuraṃ pārtha me śṛṇu | phrase | hear from Me about the demonic, O Pārtha
+---
+# 16.7
+short: The demonic people know neither what should be done nor what should not be done. Neither purity, nor right conduct, nor truth is found in them.
+long: "Pravṛttiṃ ca nivṛttiṃ ca janā na vidur āsurāḥ / na śaucaṃ nāpi cācāro na satyaṃ teṣu vidyate." The āsurī person doesn't know pravṛtti (what to do — right action) or nivṛtti (what to refrain from — right restraint). This is the epistemological failure at the root of the demonic character: not knowing what is dharma. From this ignorance flows: no śauca (purity), no ācāra (right conduct/behavior), no satya (truth). The three pillars of a life aligned with dharma are absent.
+wbw:
+  pravṛttiṃ ca nivṛttiṃ ca | phrase | both what should be done and what should not
+  janā na vidur āsurāḥ | phrase | demonic people do not know
+  na śaucaṃ nāpi cācāraḥ | phrase | neither purity nor right conduct
+  na satyaṃ teṣu vidyate | phrase | nor truth is found in them
+---
+# 16.8
+short: They say — the world is without truth, without a foundation, without a God — not produced by any causal sequence. What else — only desire is the cause.
+long: "Asatyam apratiṣṭhaṃ te jagad āhur anīśvaram / aparaspara-sambhūtaṃ kim anyat kāma-haitukam." The āsurī worldview: "asatyam" — the world is without truth (no dharma, no moral order). "Apratiṣṭham" — without foundation/grounding. "Anīśvaram" — without a God/Lord (no divine principle). "Aparaspara-sambhūtam" — not produced by any mutual causal sequence (no meaningful causation). "Kim anyat kāma-haitukam" — what else — only desire (kāma) is the cause. This is nihilism: the universe is purposeless, driven only by desire, with no order, truth, or divinity.
+wbw:
+  asatyam apratiṣṭhaṃ te | phrase | they say, the world is without truth, without foundation
+  jagad āhur anīśvaram | phrase | without a God
+  aparaspara-sambhūtam | phrase | not produced by any causal sequence
+  kim anyat kāma-haitukam | phrase | what else — desire is the cause
+---
+# 16.9
+short: Holding this view, the lost ones — with small intellects, fierce in action — arise as enemies of the world for its destruction.
+long: "Etāṃ dṛṣṭim avaṣṭabhya naṣṭātmāno'lpa-buddhayaḥ / prabhavanty ugra-karmāṇaḥ kṣayāya jagato'hitāḥ." "Etāṃ dṛṣṭim avaṣṭabhya" — holding onto this view (14.8's nihilism). "Naṣṭātmānaḥ" — lost selves (the self/soul is lost to them — buried under ego). "Alpa-buddhayaḥ" — small intellects (not academic dullness but spiritual shortsightedness). "Ugra-karmāṇaḥ" — fierce/terrible in action. "Kṣayāya jagato'hitāḥ" — enemies of the world, for its destruction. Holding nihilism, one becomes destructive — if nothing matters, anything is justified.
+wbw:
+  etāṃ dṛṣṭim avaṣṭabhya | phrase | holding onto this view
+  naṣṭātmāno'lpa-buddhayaḥ | phrase | lost selves, with small intellects
+  prabhavanty ugra-karmāṇaḥ | phrase | arise, fierce in action
+  kṣayāya jagato'hitāḥ | phrase | enemies of the world, for its destruction
+---
+# 16.10
+short: Holding to insatiable desire, filled with hypocrisy, arrogance, and pride — holding to false views through delusion — they undertake defiled resolves.
+long: "Kāmam āśritya duṣpūraṃ dambha-māna-madānvitāḥ / mohād gṛhītvāsad-grāhān pravartante'śuci-vratāḥ." "Kāmam āśritya duṣpūram" — holding to desire (kāma) that is insatiable (duṣpūra — difficult to fill). "Dambha-māna-madānvitāḥ" — filled with dambha (hypocrisy/show), māna (arrogance), mada (pride/intoxication). "Mohāt gṛhītvā asad-grāhān" — through delusion taking hold of false views (asat = false, wrong). "Pravartante'śuci-vratāḥ" — they undertake defiled resolves/vows. The unending cycle of desire leading to delusion leading to destructive action.
+wbw:
+  kāmam āśritya duṣpūram | phrase | holding to insatiable desire
+  dambha-māna-madānvitāḥ | phrase | filled with hypocrisy, arrogance, and pride
+  mohād gṛhītvāsad-grāhān | phrase | through delusion holding false views
+  pravartante'śuci-vratāḥ | phrase | they undertake defiled resolves
+---
+# 16.11
+short: Clinging to immeasurable anxiety lasting until death — regarding sense enjoyment as the highest — convinced that this is all —
+long: "Cintām aparimeyāṃ ca pralayāntām upāśritāḥ / kāmopabhoga-paramā etāvad iti niścitāḥ." (16.12 continues) "Cintām aparimeyāṃ" — clinging to anxiety (worry, planning, scheming) that is boundless (aparimeyā — unmeasurable). "Pralayāntām" — lasting until death/dissolution. The āsurī person is never at peace — perpetual anxiety. "Kāmopabhoga-paramāḥ" — regarding sense enjoyment (kāmopabhoga) as the supreme (paramā) value. "Etāvad iti niścitāḥ" — convinced that "this is all there is." Life reduced to sensory pleasure, and anxiety about securing it.
+wbw:
+  cintām aparimeyāṃ ca | phrase | and to immeasurable anxiety
+  pralayāntām upāśritāḥ | phrase | lasting until death
+  kāmopabhoga-paramāḥ | phrase | regarding sense-enjoyment as the highest
+  etāvad iti niścitāḥ | phrase | convinced that this is all
+---
+# 16.12
+short: Bound by a hundred bonds of hope, given over to desire and anger — they seek to amass wealth by unjust means, for the sake of sense enjoyment.
+long: "Āśā-pāśa-śatair baddhāḥ kāma-krodha-parāyaṇāḥ / ihante kāma-bhogārtham anyāyenārtha-sañcayān." "Āśā-pāśa-śataiḥ baddhāḥ" — bound by hundreds of bonds of hope (āśā-pāśa — the snares/bonds of expectation). "Kāma-krodha-parāyaṇāḥ" — given over to desire and anger. "Ihante kāma-bhogārtham anyāyena artha-sañcayān" — they seek (ihante) to accumulate wealth (artha-sañcayān) by unjust/unrighteous means (anyāyena) for the sake of sense enjoyment (kāma-bhogārtham). The accumulation of means (money, power) without regard for justice.
+wbw:
+  āśā-pāśa-śatair baddhāḥ | phrase | bound by hundreds of bonds of hope
+  kāma-krodha-parāyaṇāḥ | phrase | given over to desire and anger
+  ihante kāma-bhogārtham | phrase | they seek, for the sake of sense enjoyment
+  anyāyenārtha-sañcayān | phrase | to amass wealth by unjust means
+---
+# 16.13
+short: "This has been gained by me today, this longing I will fulfill — this wealth is mine and this shall be mine also" —
+long: "Idam adya mayā labdham imaṃ prāpsye manoratham / idam astīdam api me bhaviṣyati punar dhanam." (16.14-15 continue) The inner monologue of the āsurī mind: "idam adya mayā labdham" — this has been gained by me today. "Imaṃ prāpsye manoratham" — I will fulfill this desire (mano-ratha — the chariot of the mind, i.e., imagination's goal). "Idam asti" — this wealth is mine. "Idam api me bhaviṣyati" — this shall also be mine. The acquisitive mind cataloguing what has been gained and planning what to acquire next.
+wbw:
+  idam adya mayā labdham | phrase | this has been gained by me today
+  imaṃ prāpsye manoratham | phrase | this longing/desire I will fulfill
+  idam astīdam api me | phrase | this is mine, and this also mine
+  bhaviṣyati punar dhanam | phrase | shall be wealth again (mine)
+---
+# 16.14
+short: "That enemy has been slain by me, and others I shall slay too; I am the Lord, I am the enjoyer; I am accomplished, powerful, and happy" —
+long: "Asau mayā hataḥ śatruḥ haniṣye cāparān api / īśvaro'ham ahaṃ bhogī siddho'haṃ balavān sukhī." (16.15 continues) The āsurī self-narrative: "asau mayā hataḥ śatruḥ" — that enemy has been slain by me. "Haniṣye cāparān api" — I will slay others too. "Īśvaro'ham" — I am the Lord (claiming divine authority). "Ahaṃ bhogī" — I am the enjoyer. "Siddho'haṃ balavān sukhī" — I am accomplished, powerful, and happy. The sequence of "ahaṃ ahaṃ ahaṃ" — I, I, I — shows the ego-inflation at the center of the āsurī character.
+wbw:
+  asau mayā hataḥ śatruḥ | phrase | that enemy has been slain by me
+  haniṣye cāparān api | phrase | and others I shall slay too
+  īśvaro'ham ahaṃ bhogī | phrase | I am the Lord, I am the enjoyer
+  siddho'haṃ balavān sukhī | phrase | I am accomplished, powerful, and happy
+---
+# 16.15
+short: "I am wealthy and of noble birth — who else is like me? I will sacrifice, I will give, I will rejoice" — thus deluded by ignorance —
+long: "Āḍhyo'bhijanavān asmi ko'nyo'sti sadṛśo mayā / yakṣye dāsyāmi modiṣya ity ajñāna-vimohitāḥ." "Āḍhyaḥ abhijanavān asmi" — I am wealthy (āḍhya) and of noble birth (abhijanavān). "Ko'nyo'sti sadṛśo mayā" — who else is there like me? The arrogance of self-comparison. "Yakṣye dāsyāmi modiṣye" — I will sacrifice, I will give, I will rejoice — even religious activities done from ego, for show. "Iti ajñāna-vimohitāḥ" — thus deluded by ignorance. The outer form of religiosity does not guarantee inner alignment.
+wbw:
+  āḍhyo'bhijanavān asmi | phrase | I am wealthy and of noble birth
+  ko'nyo'sti sadṛśo mayā | phrase | who else is there like me
+  yakṣye dāsyāmi modiṣye | phrase | I will sacrifice, give, and rejoice
+  ity ajñāna-vimohitāḥ | phrase | thus deluded by ignorance
+---
+# 16.16
+short: Bewildered by many thoughts, enmeshed in the net of delusion, addicted to sense enjoyment — they fall into a foul hell.
+long: "Aneka-citta-vibhrāntā moha-jāla-samāvṛtāḥ / prasaktāḥ kāma-bhogeṣu patanti narake'śucau." "Aneka-citta-vibhrāntā" — bewildered (vibhrāntā) by many (aneka) thoughts (citta — the multiplied, scattered mind). "Moha-jāla-samāvṛtāḥ" — enmeshed/covered in the net of delusion (moha-jāla — the web/net of illusion). "Prasaktāḥ kāma-bhogeṣu" — attached/addicted to sense enjoyment. "Patanti narake'śucau" — they fall into a foul (aśuci) hell. The consequence: scattered, confused, addicted, they descend.
+wbw:
+  aneka-citta-vibhrāntā | phrase | bewildered by many thoughts
+  moha-jāla-samāvṛtāḥ | phrase | enmeshed in the net of delusion
+  prasaktāḥ kāma-bhogeṣu | phrase | addicted to sense enjoyment
+  patanti narake'śucau | phrase | fall into a foul hell
+---
+# 16.17
+short: Self-glorifying, stubborn, filled with the pride and intoxication of wealth — they sacrifice in name only, without proper observance, out of hypocrisy.
+long: "Ātma-sambhāvitāḥ stabdhā dhana-māna-madānvitāḥ / yajante nāma-yajñais te dambhenāvidhi-pūrvakam." "Ātma-sambhāvitāḥ" — self-glorifying (considering themselves to be great). "Stabdhāḥ" — stubborn/rigid (unable to be taught or corrected). "Dhana-māna-madānvitāḥ" — filled with the pride and intoxication of wealth. "Yajante nāma-yajñaiḥ" — they sacrifice in name only (nāma-yajña — sacrifice in name alone, the shell without the substance). "Dambhena" — through hypocrisy. "Avidhi-pūrvakam" — without proper observance (without following the rules). Religiosity as performance.
+wbw:
+  ātma-sambhāvitāḥ stabdhāḥ | phrase | self-glorifying, stubborn
+  dhana-māna-madānvitāḥ | phrase | filled with pride and intoxication of wealth
+  yajante nāma-yajñais te | phrase | they sacrifice with sacrifices in name only
+  dambhenāvidhi-pūrvakam | phrase | through hypocrisy, without proper observance
+---
+# 16.18
+short: Given to egoism, force, pride, desire, and anger — these malicious people hate Me in their own bodies and in those of others.
+long: "Ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ / mām ātma-para-deheṣu pradviṣanto'bhyasūyakāḥ." "Ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodham" — ego, force, pride, desire, and anger. "Saṃśritāḥ" — given to/dependent on these. "Mām ātma-para-deheṣu pradviṣantaḥ" — they hate Me (the divine) in their own bodies and in others' bodies (because the divine dwells in all bodies). "Abhyasūyakāḥ" — malicious (finding fault). The deepest problem: hating the divine that dwells within and in others — which is the seed of all the destruction they cause.
+wbw:
+  ahaṃkāraṃ balaṃ darpaṃ | phrase | egoism, force, and pride
+  kāmaṃ krodhaṃ ca saṃśritāḥ | phrase | desire and anger — given to these
+  mām ātma-para-deheṣu | phrase | Me in their own and others' bodies
+  pradviṣanto'bhyasūyakāḥ | phrase | hating, malicious
+---
+# 16.19
+short: These cruel haters — the worst of men — I hurl perpetually into demonic wombs in the cycles of birth and death.
+long: "Tān ahaṃ dviṣataḥ krūrān saṃsāreṣu narādhamān / kṣipāmy ajasram aśubhān āsurīṣv eva yoniṣu." "Tān ahaṃ dviṣataḥ krūrān" — these (who) hate, cruel ones. "Saṃsāreṣu narādhamān" — the lowest of humans in saṃsāra (the cycle of birth and death). "Kṣipāmy ajasram aśubhān" — I hurl perpetually (ajasram — without cessation) into inauspicious. "Āsurīṣv eva yoniṣu" — into demonic wombs precisely. The mechanism: their own character pulls them into existences that reflect and reinforce that character. This is not divine punishment but natural consequence.
+wbw:
+  tān ahaṃ dviṣataḥ krūrān | phrase | these, who hate, cruel ones
+  saṃsāreṣu narādhamān | phrase | lowest of humans in saṃsāra
+  kṣipāmy ajasram aśubhān | phrase | I hurl perpetually, inauspicious ones
+  āsurīṣv eva yoniṣu | phrase | into demonic wombs precisely
+---
+# 16.20
+short: Having entered demonic wombs, birth after birth — deluded, they do not attain Me, O Kaunteya. Then they go to the lowest state.
+long: "Āsurīṃ yonim āpannā mūḍhā janmani janmani / mām aprāpyaiva kaunteya tato yānty adhamāṃ gatim." "Āsurīṃ yonim āpannā" — having entered demonic wombs. "Mūḍhāḥ janmani janmani" — deluded, birth after birth. "Mām aprāpyaiva" — without attaining Me. "Kaunteya tato yānty adhamāṃ gatim" — they then go to the lowest state (adhamāṃ gatim). The trajectory of the unreformed āsurī character: downward spiral across multiple lives. Without the divine recognition (of one's true nature), the cycle deepens.
+wbw:
+  āsurīṃ yonim āpannā | phrase | having entered demonic wombs
+  mūḍhā janmani janmani | phrase | deluded, birth after birth
+  mām aprāpyaiva kaunteya | phrase | without attaining Me, O Kaunteya
+  tato yānty adhamāṃ gatim | phrase | then they go to the lowest state
+---
+# 16.21
+short: This is the threefold gate of hell — destructive of the self — desire, anger, and greed. Therefore one should abandon these three.
+long: "Tri-vidhaṃ narakasyedaṃ dvāraṃ nāśanam ātmanaḥ / kāmaḥ krodhas tathā lobhas tasmād etat trayaṃ tyajet." "Tri-vidhaṃ narakasya dvāram" — the threefold gate of hell. "Nāśanam ātmanaḥ" — destructive of the self (the spiritual self, the chance for liberation). The three gates: kāma (desire), krodha (anger), lobha (greed). These three together constitute the āsurī trap. "Tasmād etat trayaṃ tyajet" — therefore one should abandon these three. Kāma (unfulfilled desire) → krodha (anger when frustrated) → lobha (greed to prevent future frustration). They feed each other.
+wbw:
+  tri-vidhaṃ narakasyedaṃ | phrase | this threefold (gate) of hell
+  dvāraṃ nāśanam ātmanaḥ | phrase | the gate, destructive of the self
+  kāmaḥ krodhas tathā lobhaḥ | phrase | desire, anger, and greed
+  tasmād etat trayaṃ tyajet | phrase | therefore one should abandon these three
+---
+# 16.22
+short: A person freed from these three gates of darkness, O Kaunteya — practices what is good for the Self and thereby goes to the Supreme Goal.
+long: "Etair vimuktaḥ kaunteya tamo-dvārais tribhir naraḥ / ācaraty ātmanaḥ śreyas tato yāti parāṃ gatim." "Etair vimuktaḥ... tamo-dvārais tribhir naraḥ" — a person freed from these three gates of darkness. "Ācaraty ātmanaḥ śreyas" — practices what is good for the Self (śreyas — the truly beneficial, as opposed to preyas — what is pleasant). "Tato yāti parāṃ gatim" — thereby goes to the Supreme Goal (parāṃ gatim). Freedom from the three = freedom to pursue liberation. The positive path becomes available when these three barriers are lifted.
+wbw:
+  etair vimuktaḥ kaunteya | phrase | freed from these, O Kaunteya
+  tamo-dvārais tribhir naraḥ | phrase | from the three gates of darkness, a person
+  ācaraty ātmanaḥ śreyas | phrase | practices what is good for the Self
+  tato yāti parāṃ gatim | phrase | thereby goes to the Supreme Goal
+---
+# 16.23
+short: One who, having abandoned the injunctions of scripture, acts under the influence of desire — does not attain perfection, happiness, or the Supreme Goal.
+long: "Yaḥ śāstra-vidhim utsṛjya vartate kāma-kārataḥ / na sa siddhim avāpnoti na sukhaṃ na parāṃ gatim." "Śāstra-vidhim utsṛjya" — abandoning the injunctions of scripture (śāstra-vidhi — the instructions/ordinances of the shastra). "Vartate kāma-kārataḥ" — acts solely by desire (kāma-kāra — desire as the acting principle). "Na sa siddhim avāpnoti" — that person does not attain siddhi (perfection). "Na sukham" — not happiness. "Na parāṃ gatim" — not the Supreme Goal. Three things lost when one abandons śāstra: perfection, happiness, liberation.
+wbw:
+  yaḥ śāstra-vidhim utsṛjya | phrase | who, having abandoned the injunctions of scripture
+  vartate kāma-kārataḥ | phrase | acts solely by desire
+  na sa siddhim avāpnoti | phrase | that one does not attain perfection
+  na sukhaṃ na parāṃ gatim | phrase | nor happiness nor the Supreme Goal
+---
+# 16.24
+short: Therefore, let scripture be your authority in determining what should be done and what should not be done. Having known the scriptural injunction, you should act here.
+long: "Tasmāc chāstraṃ pramāṇaṃ te kāryākārya-vyavasthitau / jñātvā śāstra-vidhānoktaṃ karma kartum ihārhasi." "Tasmāc chāstraṃ pramāṇaṃ te" — therefore, let scripture be your authority (pramāṇa — the valid means of knowledge). "Kāryākārya-vyavasthitau" — in determining what should be done (kārya) and what should not be done (akārya). "Jñātvā śāstra-vidhānoktaṃ karma kartum ihārhasi" — having known what the scriptural instruction prescribes, you should perform action here. This is the conclusion of chapter 16: scripture as the guide to dharmic action. But "scripture" must be understood as living wisdom, not dead rule.
+wbw:
+  tasmāc chāstraṃ pramāṇaṃ te | phrase | therefore, scripture is your authority
+  kāryākārya-vyavasthitau | locative | in determining what should and should not be done
+  jñātvā śāstra-vidhānoktam | phrase | having known what scripture prescribes
+  karma kartum ihārhasi | phrase | you should perform action here
+---

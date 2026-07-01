@@ -1,0 +1,243 @@
+# 14.1
+short: The Lord said — I will again declare the supreme knowledge — the best of all knowledge — knowing which all the sages went from here to the highest perfection.
+long: "Paraṃ bhūyaḥ pravakṣyāmi jñānānāṃ jñānam uttamam / yaj jñātvā munayaḥ sarve parāṃ siddhim ito gatāḥ." Krishna continues from ch. 13's kṣetra-kṣetrajña teaching with the teaching on the three guṇas. "Paraṃ... jñānam uttamam" — supreme, the best of knowledge. "Yaj jñātvā munayaḥ sarve parāṃ siddhim ito gatāḥ" — knowing which, all the sages went from here to the highest perfection. The Gita returns to this formula often: this is what the wise have always known, and this knowing itself is the liberation.
+wbw:
+  paraṃ bhūyaḥ pravakṣyāmi | phrase | I will again declare the supreme
+  jñānānāṃ jñānam uttamam | phrase | the best of all knowledge
+  yaj jñātvā munayaḥ sarve | phrase | knowing which, all the sages
+  parāṃ siddhim ito gatāḥ | phrase | went from here to the highest perfection
+---
+# 14.2
+short: Taking refuge in this knowledge, they come to identity with Me — they are not born at the time of creation nor troubled at the time of dissolution.
+long: "Idaṃ jñānam upāśritya mama sādharmyam āgatāḥ / sarge'pi nopajāyante pralaye na vyathanti ca." Taking refuge in (upāśritya) this knowledge, they reach "mama sādharmyam" — my own nature/state (sādharmya = same dharma, same essential quality). "Sarge'pi nopajāyante" — not born even at (re)creation. "Pralaye na vyathanti ca" — not troubled even at dissolution. Liberation means freedom from the entire cycle — birth, life, cosmic dissolution — because the liberated one is of the same nature as that which persists through all cycles.
+wbw:
+  idaṃ jñānam upāśritya | phrase | having taken refuge in this knowledge
+  mama sādharmyam āgatāḥ | phrase | they come to identity with My nature
+  sarge'pi nopajāyante | phrase | not born even at creation
+  pralaye na vyathanti ca | phrase | not troubled at dissolution
+---
+# 14.3
+short: My womb is the great Brahman (mahad brahma). In it I place the seed. From that, O Bhārata, comes the birth of all beings.
+long: "Mama yonir mahad brahma tasmin garbhaṃ dadhāmy aham / sambhavaḥ sarva-bhūtānāṃ tato bhavati bhārata." "Mama yoniḥ mahad brahma" — My womb is the great Brahman (mahad brahma — the cosmic womb of all manifestation, the fundamental nature/prakṛti). "Tasmin garbhaṃ dadhāmy aham" — in it I place the seed (garbham). "Sambhavaḥ sarva-bhūtānāṃ tato bhavati" — from that comes the birth of all beings. The imagery is cosmic parenthood: divine consciousness (puruṣa) fertilizes the cosmic womb (mahad brahma / prakṛti), and all beings arise from this union.
+wbw:
+  mama yonir mahad brahma | phrase | My womb is the great Brahman
+  tasmin garbhaṃ dadhāmy aham | phrase | in it I place the seed
+  sambhavaḥ sarva-bhūtānāṃ | phrase | the birth of all beings
+  tato bhavati bhārata | phrase | arises from that, O Bhārata
+---
+# 14.4
+short: O Kaunteya, in whatever womb whatever forms are born — the great Brahman is their womb, I am the seed-giving father.
+long: "Sarva-yoniṣu kaunteya mūrtayaḥ sambhavanti yāḥ / tāsāṃ brahma mahad yonir ahaṃ bīja-pradaḥ pitā." "Sarva-yoniṣu... mūrtayaḥ sambhavanti yāḥ" — in all wombs (sarva-yoniṣu), whatever forms are born. "Tāsāṃ brahma mahad yoniḥ" — for all of them, the great Brahman is the womb. "Ahaṃ bīja-pradaḥ pitā" — I am the seed-giving (bīja-prada) father. This universalizes the previous verse: the pattern applies to every birth in every category — not just human but all forms. Krishna is the father of all; mahad brahma is the mother of all.
+wbw:
+  sarva-yoniṣu kaunteya | phrase | in all wombs, O Kaunteya
+  mūrtayaḥ sambhavanti yāḥ | phrase | whatever forms are born
+  tāsāṃ brahma mahad yoniḥ | phrase | for them all, the great Brahman is the womb
+  ahaṃ bīja-pradaḥ pitā | phrase | I am the seed-giving father
+---
+# 14.5
+short: Sattva, rajas, and tamas — these guṇas, born of prakṛti, bind the immutable embodied one in the body, O Mighty-armed.
+long: "Sattvaṃ rajas tama iti guṇāḥ prakṛti-sambhavāḥ / nibadhnanti mahā-bāho dehe dehinam avyayam." The three guṇas (sattva, rajas, tamas) are born of prakṛti. "Nibadhnanti" — they bind. "Dehe dehinam avyayam" — the immutable embodied one (the ātman) in the body. The paradox: the ātman is avyaya (imperishable, immutable) but is bound in the body by the guṇas. How can the immutable be bound? It's not the ātman itself that is bound but its identification with the body's guṇas creates the experience of binding. Freedom is the recognition that one was never bound.
+wbw:
+  sattvaṃ rajas tama iti | phrase | sattva, rajas, and tamas — these
+  guṇāḥ prakṛti-sambhavāḥ | phrase | guṇas born of prakṛti
+  nibadhnanti mahā-bāho | phrase | bind, O Mighty-armed
+  dehe dehinam avyayam | phrase | the immutable embodied one in the body
+---
+# 14.6
+short: Of these, sattva — being stainless — is illuminating and disease-free. It binds by attachment to happiness and by attachment to knowledge, O sinless one.
+long: "Tatra sattvaṃ nirmalātvāt prakāśakam anāmayam / sukha-saṅgena badhnāti jñāna-saṅgena cānagha." Among the three guṇas, sattva is nirmalāt (stainless, clear), prakāśakam (illuminating — the quality of clarity, knowledge), anāmayam (disease-free, healthy). Yet even sattva binds: "sukha-saṅgena" — through attachment to sukha (happiness, well-being) and "jñāna-saṅgena" — attachment to jñāna (knowledge). The attachment to the products of sattva (happiness and understanding) keeps the self identified with the sattvic state, which is still a guṇa-state, not liberation.
+wbw:
+  tatra sattvaṃ nirmalātvāt | phrase | of these, sattva, because of being stainless
+  prakāśakam anāmayam | phrase | illuminating, disease-free
+  sukha-saṅgena badhnāti | phrase | binds through attachment to happiness
+  jñāna-saṅgena cānagha | phrase | and attachment to knowledge, O sinless one
+---
+# 14.7
+short: Know that rajas has the nature of passion — born of thirst and attachment. It binds the embodied one through attachment to action, O son of Kuntī.
+long: "Rajo rāgātmakaṃ viddhi tṛṣṇā-saṅga-samudbhavam / tan nibadhnāti kaunteya karma-saṅgena dehinam." Rajas: "rāgātmakam" — having passion/attachment as its essential nature. "Tṛṣṇā-saṅga-samudbhavam" — born of thirst (tṛṣṇā) and attachment (saṅga). The fundamental restlessness — the hunger that drives activity. "Karma-saṅgena dehinam nibadhnāti" — it binds the embodied one through attachment to action (karma-saṅga). The rajasic mind cannot rest — it must do, acquire, achieve. Even spiritual practice done from rajas can bind, if the doing is attached to results.
+wbw:
+  rajo rāgātmakaṃ viddhi | phrase | know rajas as having passion as its nature
+  tṛṣṇā-saṅga-samudbhavam | phrase | born of thirst and attachment
+  tan nibadhnāti kaunteya | phrase | that binds, O son of Kuntī
+  karma-saṅgena dehinam | phrase | the embodied one through attachment to action
+---
+# 14.8
+short: Know that tamas is born of ignorance, deluding all embodied beings. It binds through heedlessness, laziness, and sleep, O Bhārata.
+long: "Tamas tv ajñāna-jaṃ viddhi mohanaṃ sarva-dehinām / pramādālasya-nidrābhis tan nibadhnāti bhārata." Tamas: "ajñāna-jam" — born of ignorance. "Mohanaṃ sarva-dehinām" — deluding all embodied beings. How does tamas bind? Through: pramāda (heedlessness, negligence — not seeing what's there), ālasya (laziness — unwillingness to act even when action is needed), and nidrā (sleep/stupor — physical and mental drowsiness). Tamas is heaviness, inertia, confusion, and darkness. Not all sleep is tamasic — restorative sleep is rajasic at worst, but compulsive, excessive, torpid sleep is tamas.
+wbw:
+  tamas tv ajñāna-jaṃ viddhi | phrase | know tamas as born of ignorance
+  mohanaṃ sarva-dehinām | phrase | deluding all embodied beings
+  pramādālasya-nidrābhis | phrase | through heedlessness, laziness, and sleep
+  tan nibadhnāti bhārata | phrase | that binds, O Bhārata
+---
+# 14.9
+short: Sattva attaches to happiness, rajas to action, O Bhārata. Tamas, covering knowledge, attaches to heedlessness.
+long: "Sattvaṃ sukhe sañjayati rajaḥ karmaṇi bhārata / jñānam āvṛtya tu tamaḥ pramāde sañjayaty uta." The binding mechanism of each: sattva → happiness (sukhe sañjayati — attaches to pleasure/contentment, making one cling to sattvic states). Rajas → action (karmaṇi — cannot stop doing, cannot rest). Tamas → heedlessness/negligence (pramāde — "jñānam āvṛtya" — having covered/veiled knowledge, it attaches to pramāda). Tamas's specific mechanism is the veiling of knowledge (jñānam āvṛtya) — it works by making one unable to see clearly.
+wbw:
+  sattvaṃ sukhe sañjayati | phrase | sattva attaches (one) to happiness
+  rajaḥ karmaṇi bhārata | phrase | rajas to action, O Bhārata
+  jñānam āvṛtya tu tamaḥ | phrase | but tamas, having covered knowledge
+  pramāde sañjayaty uta | phrase | attaches to heedlessness indeed
+---
+# 14.10
+short: Rajas and tamas being overcome, sattva arises; sattva and tamas being overcome, rajas; and rajas and tamas being overcome, tamas.
+long: "Rajas tamaś cābhibhūya sattvaṃ bhavati bhārata / rajaḥ sattvaṃ tamaś caiva tamaḥ sattvaṃ rajas tathā." The guṇas are in constant flux, each rising as the others are suppressed. When rajas and tamas are overcome: sattva rises. When sattva and tamas are overcome: rajas rises. When sattva and rajas are overcome: tamas rises. This is the ecology of the mind — the three guṇas are always present, but in constantly shifting proportions. Practice shifts the balance toward sattva; ultimately the goal is to transcend all three.
+wbw:
+  rajas tamaś cābhibhūya | phrase | rajas and tamas being overcome
+  sattvaṃ bhavati bhārata | phrase | sattva arises, O Bhārata
+  rajaḥ sattvaṃ tamaś caiva | phrase | rajas, and sattva and tamas
+  tamaḥ sattvaṃ rajas tathā | phrase | and tamas, sattva and rajas (similarly)
+---
+# 14.11
+short: When the knowledge-light shines through all the gates of this body — then one should know that sattva has increased.
+long: "Sarva-dvāreṣu dehe'smin prakāśa upajāyate / jñānaṃ yadā tadā vidyāt vivṛddhaṃ sattvam ity uta." "Sarva-dvāreṣu dehe'smin" — through all the gates of this body (the senses are the gates through which experience enters/exits). "Prakāśa upajāyate" — light/illumination arises. "Jñānam yadā" — when knowledge (the fruit of sattva). "Tadā vidyāt vivṛddhaṃ sattvam" — then one should know that sattva has increased. The sign of sattva rising is luminosity — clarity, perceptiveness, the sense of light. The body's "gates" (senses and mind) become clear rather than cloudy.
+wbw:
+  sarva-dvāreṣu dehe'smin | phrase | through all the gates of this body
+  prakāśa upajāyate | phrase | light/illumination arises
+  jñānaṃ yadā tadā vidyāt | phrase | when knowledge — then one should know
+  vivṛddhaṃ sattvam ity uta | phrase | that sattva has increased
+---
+# 14.12
+short: Greed, activity, the undertaking of actions, restlessness, longing — these arise when rajas increases, O best of the Bharatas.
+long: "Lobhaḥ pravṛttir ārambhaḥ karmaṇām aśamaḥ spṛhā / rajasy etāni jāyante vivṛddhe bharatarṣabha." The signs of rajas rising: lobha (greed — the wanting-more that drives acquisition), pravṛtti (activity — restless engagement, can't stop), ārambha (the undertaking/starting of actions — compulsive initiation), aśama (restlessness — inability to settle), spṛhā (longing/desire — yearning for what isn't present). All five are forms of the fundamental rajasic energy: forward drive, wanting, reaching. Not inherently evil — rajas builds worlds — but binding when not directed by sattva.
+wbw:
+  lobhaḥ pravṛttir ārambhaḥ | phrase | greed, activity, the undertaking of actions
+  karmaṇām aśamaḥ spṛhā | phrase | restlessness of actions, longing
+  rajasy etāni jāyante | phrase | these arise when rajas (increases)
+  vivṛddhe bharatarṣabha | phrase | having increased, O best of the Bharatas
+---
+# 14.13
+short: Lack of light, inactivity, heedlessness, and also delusion — these arise when tamas increases, O joy of the Kurus.
+long: "Aprakāśo'pravṛttiś ca pramādo moha eva ca / tamasy etāni jāyante vivṛddhe kuru-nandana." The signs of tamas rising: aprakāśa (absence of light/illumination — darkness, dullness), apravṛtti (inactivity — not doing even what needs to be done), pramāda (heedlessness — not noticing, not caring), moha (delusion — confusion, inability to discern). These are all forms of heaviness and obscuration. Tamas is the guṇa of matter itself — the inertia that makes change difficult, that keeps things stuck, that veils reality.
+wbw:
+  aprakāśo'pravṛttiś ca | phrase | lack of light, and inactivity
+  pramādo moha eva ca | phrase | heedlessness and delusion also
+  tamasy etāni jāyante | phrase | these arise when tamas (increases)
+  vivṛddhe kuru-nandana | phrase | having increased, O joy of the Kurus
+---
+# 14.14
+short: When the embodied one dies when sattva is dominant, then they reach the stainless worlds of those who know the Highest.
+long: "Yadā sattve pravṛddhe tu pralayaṃ yāti deha-bhṛt / tadottama-vidāṃ lokān amalān pratipadyate." Death in the condition of sattva leads to the worlds (lokān) of those who know the Highest (uttama-vidām — those who know the Supreme). "Amalān" — stainless worlds. The Gita uses the language of heavenly realms here (and in the next verses for rajas and tamas) as a pedagogical device — illustrating the principle that the quality of one's consciousness at death shapes what follows. These "worlds" correspond to states of being.
+wbw:
+  yadā sattve pravṛddhe tu | phrase | when sattva is dominant (at death)
+  pralayaṃ yāti deha-bhṛt | phrase | the body-bearer reaches dissolution
+  tadottama-vidāṃ lokān | phrase | then the worlds of those who know the Highest
+  amalān pratipadyate | phrase | the stainless (worlds) they attain
+---
+# 14.15
+short: Dying when rajas is dominant, one is born among those attached to action. Dying when tamas is dominant, one is born from the wombs of the deluded.
+long: "Rajasi pralayaṃ gatvā karma-saṅgiṣu jāyate / tathā pralīnas tamasi mūḍha-yoniṣu jāyate." Death in rajas: "karma-saṅgiṣu jāyate" — born among those attached to action. The rajasic person continues into a rajasic existence — more doing, more striving, more desire. Death in tamas: "mūḍha-yoniṣu jāyate" — born from the wombs of the deluded (mūḍha = foolish, deluded). The principle is consistent: the quality of consciousness at death shapes the next birth. This is not eternal damnation but the natural continuation of tendencies.
+wbw:
+  rajasi pralayaṃ gatvā | phrase | going to dissolution when rajas (dominates)
+  karma-saṅgiṣu jāyate | phrase | one is born among those attached to action
+  tathā pralīnas tamasi | phrase | and similarly, dissolved when tamas (dominates)
+  mūḍha-yoniṣu jāyate | phrase | one is born from deluded wombs
+---
+# 14.16
+short: The fruit of sāttvic action is said to be pure; the fruit of rajasic is pain; the fruit of tamasic is ignorance.
+long: "Karmaṇaḥ sukṛtasyāhuḥ sāttvikam nirmalaṃ phalam / rajasas tu phalaṃ duḥkham ajñānaṃ tamasaḥ phalam." "Karmaṇaḥ sukṛtasya" — of good action. "Sāttvikaṃ nirmalaṃ phalam" — the fruit is sāttvic and pure (nirmala). Rajasic action: "phalaṃ duḥkham" — pain/suffering as the fruit (because rajasic action is driven by craving, and craving's nature is that satisfaction is always temporary, always followed by more craving). Tamasic action: "ajñānaṃ phalam" — ignorance as the fruit (tamas produces more tamas, more obscuration, more confusion). The guṇas are self-reinforcing.
+wbw:
+  karmaṇaḥ sukṛtasyāhuḥ | phrase | of good action, they say
+  sāttvikaṃ nirmalaṃ phalam | phrase | the fruit is sāttvic and pure
+  rajasas tu phalaṃ duḥkham | phrase | but the fruit of rajas is pain
+  ajñānaṃ tamasaḥ phalam | phrase | ignorance is the fruit of tamas
+---
+# 14.17
+short: From sattva, knowledge arises; from rajas, greed; from tamas arise heedlessness, delusion, and also ignorance.
+long: "Sattvāt sañjāyate jñānaṃ rajaso lobha eva ca / pramāda-mohau tamaso bhavato'jñānam eva ca." The products of each guṇa — what they produce internally. Sattva → jñāna (knowledge, clear understanding). Rajas → lobha (greed — craving for more, insatiability). Tamas → pramāda (heedlessness), moha (delusion/confusion), and ajñāna (ignorance — the fundamental not-knowing). The chain is visible: tamas first produces heedlessness (not noticing), which produces moha (confusion about what's real), which produces ajñāna (fundamental ignorance). These reinforce each other.
+wbw:
+  sattvāt sañjāyate jñānam | phrase | from sattva, knowledge is born
+  rajaso lobha eva ca | phrase | from rajas, greed indeed
+  pramāda-mohau tamaso | phrase | from tamas, heedlessness and delusion
+  bhavato'jñānam eva ca | phrase | and ignorance indeed arises
+---
+# 14.18
+short: Those established in sattva go upward; those in rajas remain in the middle; those in tamas, abiding in the lowest quality, go downward.
+long: "Ūrdhvaṃ gacchanti sattva-sthā madhye tiṣṭhanti rājasāḥ / jaghanya-guṇa-vṛtti-sthā adho gacchanti tāmasāḥ." Sattva-sthāḥ → ūrdhvaṃ gacchanti (go upward). Rājasāḥ → madhye tiṣṭhanti (remain in the middle). Tāmasāḥ → adho gacchanti (go downward). "Upward" and "downward" describe the quality of existence — sattva leads toward higher clarity, consciousness, and liberation; rajas maintains the status quo of worldly striving; tamas leads toward greater obscuration, lower forms of existence. "Jaghanya-guṇa-vṛtti-sthāḥ" — those established in the activity of the lowest quality.
+wbw:
+  ūrdhvaṃ gacchanti sattva-sthāḥ | phrase | those established in sattva go upward
+  madhye tiṣṭhanti rājasāḥ | phrase | those in rajas remain in the middle
+  jaghanya-guṇa-vṛtti-sthāḥ | phrase | established in the activity of the lowest quality
+  adho gacchanti tāmasāḥ | phrase | the tamasic go downward
+---
+# 14.19
+short: When the seer sees no other agent than the guṇas, and knows what is higher than the guṇas — he attains My nature.
+long: "Nānyaṃ guṇebhyaḥ kartāraṃ yadā draṣṭānupaśyati / guṇebhyaś ca paraṃ vetti mad-bhāvaṃ so'dhigacchati." "Nānyaṃ guṇebhyaḥ kartāram" — no agent other than the guṇas. The seer (draṣṭā) sees that all action is by the guṇas of prakṛti — not by the ātman. "Guṇebhyaś ca paraṃ vetti" — and knows what is higher than (para) the guṇas — the consciousness that is not any of the three. "Mad-bhāvaṃ so'dhigacchati" — he attains My nature. This is liberation: seeing accurately (the guṇas act, not I) and knowing the witness that transcends all three guṇas.
+wbw:
+  nānyaṃ guṇebhyaḥ kartāram | phrase | no other agent than the guṇas
+  yadā draṣṭānupaśyati | phrase | when the seer sees
+  guṇebhyaś ca paraṃ vetti | phrase | and knows what is higher than the guṇas
+  mad-bhāvaṃ so'dhigacchati | phrase | he attains My nature
+---
+# 14.20
+short: The embodied one, having transcended these three guṇas that are the source of the body, is freed from birth, death, old age, and pain, and attains immortality.
+long: "Guṇān etān atītya trīn dehī deha-samudbhavān / janma-mṛtyu-jarā-duḥkhair vimukto'mṛtam aśnute." "Guṇān etān atītya trīn" — having transcended these three guṇas. "Dehī" — the embodied one (the ātman in the body). "Deha-samudbhavān" — which are the source/origin of the body (the three guṇas constitute the body). "Janma-mṛtyu-jarā-duḥkhair vimukto" — freed from birth, death, old age, and pain — the classic Upaniṣadic four-fold suffering (mṛtyu-janman-jarā-śoka). "Amṛtam aśnute" — attains immortality. Transcendence of the guṇas is the end of the cycle.
+wbw:
+  guṇān etān atītya trīn | phrase | having transcended these three guṇas
+  dehī deha-samudbhavān | phrase | the embodied one, which are the source of the body
+  janma-mṛtyu-jarā-duḥkhair | phrase | from birth, death, old age, and pain
+  vimukto'mṛtam aśnute | phrase | freed, attains immortality
+---
+# 14.21
+short: Arjuna said — What are the marks of one who has transcended these three guṇas, O Lord? What is his conduct? And how does he transcend these three guṇas?
+long: "Arjuna uvāca — kair liṅgais trīn guṇān etān atīto bhavati prabho / kim ācāraḥ kathaṃ caitāṃs trīn guṇān ativartate." The practical question: how do I recognize the guṇa-transcender (guṇātīta)? And how does one transcend? Three questions: (1) kair liṅgais — by what signs/marks, (2) kim ācāraḥ — what is his conduct/behavior, (3) kathaṃ caitāṃs trīn guṇān ativartate — how does one transcend these three guṇas? The answers occupy 14.22-26 and are among the most practical descriptions of the liberated person in the Gita.
+wbw:
+  kair liṅgais trīn guṇān etān | phrase | by what marks, these three guṇas
+  atīto bhavati prabho | phrase | one who has transcended becomes, O Lord
+  kim ācāraḥ kathaṃ ca | phrase | what is his conduct, and how
+  etāṃs trīn guṇān ativartate | phrase | does one transcend these three guṇas
+---
+# 14.22
+short: The Lord said — O Pāṇḍava, one who does not hate light, activity, or delusion when they arise — nor longs for them when they cease —
+long: "Śrī bhagavān uvāca — prakāśaṃ ca pravṛttiṃ ca moham eva ca pāṇḍava / na dveṣṭi sampravṛttāni na nivṛttāni kāṅkṣati." (14.23 continues) The first mark: the guṇātīta does not hate (na dveṣṭi) light/clarity (prakāśa — sattva's fruit), activity (pravṛtti — rajas's fruit), or delusion (moha — tamas's fruit) when they arise (sampravṛttāni). Nor longs for (na kāṅkṣati) any of them when they cease (nivṛttāni). He observes the guṇas rising and falling without aversion or craving — neither fleeing tamas nor clinging to sattva. Pure witnessing.
+wbw:
+  prakāśaṃ ca pravṛttiṃ ca | phrase | light and activity also
+  moham eva ca pāṇḍava | phrase | and delusion also, O Pāṇḍava
+  na dveṣṭi sampravṛttāni | phrase | does not hate when they arise
+  na nivṛttāni kāṅkṣati | phrase | nor longs for them when they cease
+---
+# 14.23
+short: Seated as if uninvolved — not moved by the guṇas — who knows that the guṇas function and remains steady and does not waver —
+long: "Udāsīnavad āsīno guṇair yo na vicālyate / guṇā vartanta ity evaṃ yo'vatiṣṭhati neṅgate." (14.24 continues) "Udāsīnavad āsīnaḥ" — seated as if an uninvolved witness (udāsīna = one who sits apart, indifferent). "Guṇair yo na vicālyate" — who is not moved by the guṇas. "Guṇā vartanta ity evaṃ" — knowing thus: "the guṇas are functioning" (not "I am feeling, doing, confused"). "Yo'vatiṣṭhati neṅgate" — who remains steady, does not waver. The key insight: substituting "the guṇas are functioning" for "I am experiencing" is the fundamental cognitive shift of liberation.
+wbw:
+  udāsīnavad āsīnaḥ | phrase | seated as if uninvolved/indifferent
+  guṇair yo na vicālyate | phrase | who is not moved by the guṇas
+  guṇā vartanta ity evam | phrase | knowing that "the guṇas are functioning"
+  yo'vatiṣṭhati neṅgate | phrase | who remains steady, does not waver
+---
+# 14.24
+short: Who is the same in pleasure and pain, self-abiding, for whom a clod of earth, stone, and gold are the same; who is the same to the pleasant and unpleasant —
+long: "Sama-duḥkha-sukhaḥ sva-sthaḥ sama-loṣṭāśma-kāñcanaḥ / tulya-priyāpriyo dhīras tulya-nindātma-saṃstutiḥ." The guṇātīta's equanimity described concretely: sama-duḥkha-sukha (same in pain and pleasure), sva-stha (self-abiding — the most important word: dwelling in the Self), sama-loṣṭāśma-kāñcana (clod of earth = stone = gold — not indifferent to value but unattached), tulya-priyāpriya (the pleasant and unpleasant are equal), dhīra (steady/wise), tulya-nindātma-saṃstuti (equal in blame and self-praise — not seeking approval, not fearing criticism).
+wbw:
+  sama-duḥkha-sukhaḥ sva-sthaḥ | phrase | equal in pain and pleasure, self-abiding
+  sama-loṣṭāśma-kāñcanaḥ | phrase | equal toward earth-clod, stone, and gold
+  tulya-priyāpriyo dhīraḥ | phrase | equal to pleasant and unpleasant, steady
+  tulya-nindātma-saṃstutiḥ | phrase | equal in blame and self-praise
+---
+# 14.25
+short: Who is the same in honor and dishonor, the same toward friend's and enemy's faction — one who has renounced all undertakings — is said to have transcended the guṇas.
+long: "Māna-apamānayos tulyas tulyo mitrāri-pakṣayoḥ / sarvārambha-parityāgī guṇātītaḥ sa ucyate." "Māna-apamānayos tulya" — equal in honor (māna) and dishonor (apamāna). "Tulyo mitrāri-pakṣayoḥ" — equal toward the friend's faction and the enemy's. "Sarvārambha-parityāgī" — one who has abandoned all undertakings (not laziness, but freedom from the ego's compulsion to initiate, achieve, and acquire for itself). "Guṇātītaḥ sa ucyate" — that one is said to have transcended the guṇas. The equanimity is comprehensive: nothing in the outer world can disturb the inner steadiness.
+wbw:
+  māna-apamānayos tulyas | phrase | equal in honor and dishonor
+  tulyo mitrāri-pakṣayoḥ | phrase | equal toward friend's and enemy's faction
+  sarvārambha-parityāgī | phrase | who has abandoned all undertakings
+  guṇātītaḥ sa ucyate | phrase | that one is said to have transcended the guṇas
+---
+# 14.26
+short: And one who serves Me with unwavering devotional yoga — having transcended these guṇas, he is fit to become Brahman.
+long: "Māṃ ca yo'vyabhicāreṇa bhakti-yogena sevate / sa guṇān samatītyaitān brahma-bhūyāya kalpate." "Māṃ ca yo'vyabhicāreṇa bhakti-yogena sevate" — who serves Me with unwavering (avyabhicāra) devotional yoga (bhakti-yoga). "Sa guṇān samatītyaitān" — he, having transcended these guṇas. "Brahma-bhūyāya kalpate" — is fit to become Brahman. Bhakti-yoga is explicitly named as the path to transcending the guṇas. After describing the guṇātīta's characteristics, the method is given: unwavering devotion. Not analysis of guṇas alone, but love — and through love, freedom from all three.
+wbw:
+  māṃ ca yo'vyabhicāreṇa | phrase | and who Me with unwavering
+  bhakti-yogena sevate | phrase | serves with devotional yoga
+  sa guṇān samatītyaitān | phrase | he, having transcended these guṇas
+  brahma-bhūyāya kalpate | phrase | is fit to become Brahman
+---
+# 14.27
+short: For I am the abode of Brahman — the Immortal and Immutable — of the Eternal Dharma, and of Absolute Bliss.
+long: "Brahmaṇo hi pratiṣṭhāham amṛtasyāvyayasya ca / śāśvatasya ca dharmasya sukhasyaikāntikasya ca." The chapter ends with the supreme declaration. "Brahmaṇo hi pratiṣṭhā aham" — I am the foundation/abode of Brahman. This completes the circle: Brahman is the ultimate reality (chapters 13-14); and Krishna is the foundation of Brahman itself. "Amṛtasya avyayasya ca" — of the Immortal and Immutable. "Śāśvatasya ca dharmasya" — of the Eternal Dharma. "Sukhasyaikāntikasya ca" — of Absolute Bliss (eka-āntika = exclusive, absolute). Beyond all the guṇas is this — and I am its ground.
+wbw:
+  brahmaṇo hi pratiṣṭhā aham | phrase | I am indeed the abode of Brahman
+  amṛtasyāvyayasya ca | phrase | of the Immortal and Immutable
+  śāśvatasya ca dharmasya | phrase | and of the Eternal Dharma
+  sukhasyaikāntikasya ca | phrase | and of Absolute Bliss
+---

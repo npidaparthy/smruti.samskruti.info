@@ -1,0 +1,659 @@
+# 4.1
+short: The Blessed Lord said: I taught this imperishable yoga to Vivasvān (the Sun-god); Vivasvān taught it to Manu; Manu instructed Ikṣvāku.
+long: Chapter 4 opens with a startling claim: this yoga is ancient, transmitted from the cosmic beginning. Vivasvān (the Sun) received it from Kṛṣṇa, taught it to Manu (the progenitor of humanity), who taught it to Ikṣvāku (founder of the solar dynasty). The teaching has an unbroken lineage. Kṛṣṇa is not revealing something new — he is restoring what was lost.
+wbw:
+  imam | acc. | this
+  vivasvate | dat. | to Vivasvān (Sun-god)
+  yogam | acc. | yoga
+  proktavān | nom. | I taught/declared
+  aham | nom. | I
+  avyayam | acc. | imperishable
+  vivasvān | nom. | Vivasvān
+  manave | dat. | to Manu
+  prāha | 3rd sg. perf. | taught
+  manuḥ | nom. | Manu
+  ikṣvākave | dat. | to Ikṣvāku
+  abravīt | 3rd sg. aor. | instructed
+---
+# 4.2
+short: This royal knowledge, inherited through succession, was known to the royal sages. But over time it was lost here on earth due to the length of time, O scorcher of enemies.
+long: The teaching was preserved by the rājarṣis (royal sages — warrior-kings who were also knowers of Brahman, like Janaka). But the chain broke: "naṣṭaḥ parantapa" — it was lost. Time itself erodes transmission. Knowledge that is not actively practiced and taught deteriorates. This is why Kṛṣṇa must teach it again to Arjuna in this moment.
+wbw:
+  evam | adv. | thus
+  paramparā-prāptam | acc. | received through succession
+  imaṃ | acc. | this
+  rājarṣayo | nom. pl. | royal sages
+  viduḥ | 3rd pl. | knew
+  sa kāleneha | in time here
+  mahatā | instr. | great
+  yogaḥ | nom. | yoga
+  naṣṭaḥ | nom. | lost
+  parantapa | voc. | O scorcher of enemies
+---
+# 4.3
+short: That same ancient yoga is today declared by Me to you; for you are My devotee and friend, and this is the supreme secret.
+long: The teaching comes with a double qualification: Arjuna is Kṛṣṇa's bhakta (devotee) and sakhā (friend). The secret (rahasya) is not withheld for esoteric reasons — it requires the right relationship to receive. "Purātanam" — ancient. The yoga being taught in Kurukṣetra is the same truth that Vivasvān received at the cosmic dawn.
+wbw:
+  sa evāyam | that very same
+  mayā | instr. | by me
+  te | dat. | to you
+  adya | adv. | today
+  yoga | nom. | yoga
+  proktaḥ | nom. | declared
+  purātanaḥ | nom. | ancient
+  bhaktas | nom. | devotee
+  asi | 2nd sg. | you are
+  me | gen. | my
+  sakhā | nom. | friend
+  ca | conj. | and
+  iti | iti | this
+  rahasyam | nom. | secret
+  uttamam | nom. | supreme
+---
+# 4.4
+short: Arjuna said: Your birth was later; the birth of Vivasvān was earlier. How am I to understand that you taught this in the beginning?
+long: A pointed chronological objection: Vivasvān predates Kṛṣṇa by cosmic eons. How could Kṛṣṇa have taught him? The question is not cynical but genuinely puzzled. Arjuna is asking about the nature of Kṛṣṇa's identity. The answer will be one of the Gītā's most profound statements — about divine incarnation and the eternal Self.
+wbw:
+  aparaṃ | acc. | later/subsequent
+  bhavatō | gen. | your
+  janma | nom. | birth
+  paraṃ | acc. | earlier/prior
+  janma | nom. | birth
+  vivasvataḥ | gen. | of Vivasvān
+  katham | interrog. | how
+  etad | acc. | this
+  vijānīyāṃ | 1st sg. opt. | am I to understand
+  tvam | nom. | you
+  ādau | adv. | in the beginning
+  proktavān | nom. | taught
+  iti | iti | thus
+---
+# 4.5
+short: The Blessed Lord said: Many births of Mine have passed, and yours too, O Arjuna. I know all of them; you do not know them.
+long: The divine claim: Kṛṣṇa has had many births — his incarnations are real. But unlike ordinary beings, he remembers them all: "veda sarvaḥ" — I know them all. Arjuna does not know his past births because he is caught in māyā (the power of delusion). The difference is not in the fact of birth but in the quality of awareness across births.
+wbw:
+  bahūni | nom. pl. | many
+  me | gen. | my
+  vyatītāni | nom. pl. | have passed
+  janmāni | nom. pl. | births
+  tava | gen. | your
+  ca | conj. | and
+  arjuna | voc. | O Arjuna
+  tāny ahaṃ | those I
+  veda | 1st sg. | know
+  sarvāṇi | acc. pl. | all
+  na tvam | not you
+  vettha | 2nd sg. perf. | know
+  parantapa | voc. | O scorcher of enemies
+---
+# 4.6
+short: Though I am unborn, of imperishable nature, and am the Lord of all beings — yet, ruling over My own nature (prakṛti), I come into being by My own power (māyā).
+long: The paradox of divine incarnation: unborn (ajo), imperishable (avyaya), Lord (Īśvara) — and yet: "sambhavāmy ātmamāyayā" — I come into being through My own power. This power (māyā) is not delusion but the Lord's creative self-manifestation. The incarnation is real but different in kind from human birth: it is chosen, not compelled. The Lord is never subject to karma or rebirth as ordinary souls are.
+wbw:
+  ajo | nom. | unborn
+  api | particle | though
+  sann | nom. | being
+  avyayātmā | nom. | of imperishable nature
+  bhūtānām | gen. pl. | of beings
+  īśvaro | nom. | the Lord
+  api | particle | though
+  san | nom. | being
+  prakṛtiṃ svām | acc. | my own nature
+  adhiṣṭhāya | gerund | ruling over/controlling
+  sambhavāmy | 1st sg. | I come into being
+  ātma-māyayā | instr. | by My own power/māyā
+---
+# 4.7
+short: Whenever there is a decline of righteousness (dharma) and an uprising of unrighteousness, then I manifest Myself.
+long: The principle of divine intervention: when dharma (the cosmic order, righteousness) declines and adharma (its opposite) rises, the Lord incarnates. "Tadātmānaṃ sṛjāmy aham" — I project Myself. This is not a reaction to failure but a cosmic rhythm: the Absolute participates in history through avatāras to preserve the conditions for human flourishing and spiritual growth.
+wbw:
+  yadā yadā | whenever
+  hi | particle | indeed
+  dharmasya | gen. | of dharma
+  glāniḥ | nom. | decline/fading
+  bhavati | 3rd sg. | occurs
+  bhārata | voc. | O Bhārata
+  abhyutthānam | nom. | rise/uprising
+  adharmasya | gen. | of unrighteousness
+  tadā | then
+  ātmānam | acc. | Myself
+  sṛjāmy | 1st sg. | I project/create
+  aham | nom. | I
+---
+# 4.8
+short: For the protection of the good, for the destruction of the wicked, and for the establishment of dharma, I come into being age after age.
+long: Three purposes of divine incarnation: protection of the sādhus (virtuous ones), destruction of the duṣkṛtas (evil-doers), and establishment of dharma. These three define the avatāra's mission across all incarnations — Rāma, Kṛṣṇa, the Boar, the Fish, all others. "Yuge yuge" — age after age — signals the recurring necessity of divine re-entry into history.
+wbw:
+  paritrāṇāya | dat. | for the protection
+  sādhūnāṃ | gen. pl. | of the good
+  vināśāya | dat. | for the destruction
+  ca | conj. | and
+  duṣkṛtām | gen. pl. | of the evil-doers
+  dharma-saṃsthāpanārthāya | dat. | for the establishment of dharma
+  sambhavāmi | 1st sg. | I come into being
+  yuge yuge | adv. | age after age
+---
+# 4.9
+short: One who knows in truth My divine birth and actions — having left the body, does not come to birth again; such a person comes to Me, O Arjuna.
+long: The soteriological claim: understanding Kṛṣṇa's birth as divine (divyam) and his actions as transcendent (karma) liberates the knower from rebirth. "Na punar janma" — no more birth. This is not a rewards system but a metaphysical claim: if one truly understands the nature of the divine, the identity between the devotee's Self and the Lord becomes clear, and the cycle of birth-death ends.
+wbw:
+  janma | acc. | birth
+  karma | acc. | actions
+  ca | conj. | and
+  me | gen. | my
+  divyam | acc. | divine
+  evaṃ | adv. | thus
+  yo vetti | who knows
+  tattvataḥ | adv. | in truth
+  tyaktvā | gerund | having left
+  dehaṃ | acc. | body
+  punar janma | rebirth
+  naiti | 3rd sg. neg. | does not come to
+  mām eti | comes to Me
+  so'rjuna | voc. | O Arjuna
+---
+# 4.10
+short: Freed from attachment, fear, and anger, absorbed in Me, taking refuge in Me, purified by the fire of knowledge — many have attained My nature.
+long: Historical validation: it is not just a promise — many (bahavaḥ) have actually attained the divine state. The qualifications are: vīta-rāga-bhaya-krodha (freed from desire, fear, anger), man-mayā (absorbed in the Lord), mām upāśritāḥ (taking refuge). These purified beings attain "mad-bhāvam" — my state/nature. The path is proven.
+wbw:
+  vīta-rāga-bhaya-krodhā | nom. pl. | freed from attachment, fear, and anger
+  manmayā | nom. pl. | absorbed in Me
+  mām upāśritāḥ | nom. pl. | taking refuge in Me
+  bahavaḥ | nom. pl. | many
+  jñānatapasā | instr. | by the fire/austerity of knowledge
+  pūtā | nom. pl. | purified
+  mad-bhāvam | acc. | My nature/state
+  āgatāḥ | nom. pl. | have attained
+---
+# 4.11
+short: In whatever way people take refuge in Me, I fulfill their desires in the same measure. O Arjuna, people follow My path in all ways.
+long: The divine is universal in responsiveness: "ye yathā māṃ prapadyante" — however they approach, the divine meets them there. Those seeking material benefit receive material help; those seeking liberation receive liberation; those seeking knowledge receive knowledge. The Lord does not discriminate based on the form of approach. "Mama vartmā anuvartante" — all paths ultimately follow Mine — because all desire is ultimately desire for the Absolute.
+wbw:
+  ye | rel. pl. | those who
+  yathā | just as
+  māṃ | acc. | Me
+  prapadyante | 3rd pl. | take refuge
+  tāṃs tathaiva | them in the same way
+  bhajāmy | 1st sg. | I fulfill/reward
+  aham | nom. | I
+  mama vartmā | my path
+  anuvartante | 3rd pl. | follow
+  manuṣyāḥ | nom. pl. | people
+  pārtha | voc. | O Arjuna
+  sarvaśaḥ | adv. | in all ways
+---
+# 4.12
+short: Those who desire the fruits of action worship the gods here; for in this human world, success from action is quickly attained.
+long: A neutral observation: action-oriented people worship specific deities (devas) for specific results — wealth, health, children, rain. And they get results quickly (kṣipraṃ hi). Kṛṣṇa does not condemn this — it is a valid level of practice. But the implication is clear: this path leads to conditioned, temporary results, not to the unconditioned. The Gītā's higher teaching points beyond deva-worship to the Lord himself.
+wbw:
+  kāṃkṣantaḥ | nom. pl. | those who desire
+  karmaṇāṃ | gen. pl. | of actions
+  siddhiṃ | acc. | success/fruit
+  yajante | 3rd pl. | worship
+  iha | adv. | here
+  devatāḥ | acc. pl. | the gods
+  kṣipram | adv. | quickly
+  hi | particle | indeed
+  mānuṣe | loc. | in the human
+  loke | loc. | world
+  siddhiḥ | nom. | success
+  bhavati | 3rd sg. | is attained
+  karma-jā | nom. | born of action
+---
+# 4.13
+short: The fourfold social order (varṇa) was created by Me according to the division of quality and action; though I am its creator, know Me to be non-acting and imperishable.
+long: Kṛṣṇa claims authorship of the varṇa system (the four functional categories: brāhmaṇa, kṣatriya, vaiśya, śūdra) based on guṇa (quality of nature) and karma (function/action), not birth. This is the Gītā's understanding of social order — functional, not hereditary. And the crucial qualifier: the creator (sraṣṭā) remains non-acting (akartāram) and immutable (avyaya). The divine creates without being bound by the creation.
+wbw:
+  cātur-varṇyaṃ | acc. | the fourfold social order
+  mayā | instr. | by Me
+  sṛṣṭaṃ | acc. | created
+  guṇa-karma-vibhāgaśaḥ | adv. | according to the division of quality and action
+  tasya | gen. | of it
+  kartāram | acc. | the creator
+  api | particle | though
+  māṃ | acc. | Me
+  viddhi | 2nd sg. imper. | know
+  akartāram | acc. | non-acting
+  avyayam | acc. | imperishable
+---
+# 4.14
+short: Actions do not taint Me, nor do I have any longing for the fruits of actions. One who understands Me thus is not bound by actions.
+long: The reason for the Lord's non-bondage: na karmaphalasaṃspṛhaḥ — no longing for results. The divine acts without attachment to fruit, and therefore action does not bind. The one who truly understands this — who grasps the Lord's transcendence — models that same non-attachment and is also freed from bondage. Understanding the divine liberates, not merely theoretically but practically.
+wbw:
+  na māṃ | not Me
+  karmāṇi | nom. pl. | actions
+  limpanti | 3rd pl. | taint
+  na me | nor my
+  karma-phale | loc. dual | in the fruits of action
+  spṛhā | nom. | longing/desire
+  iti māṃ | thus Me
+  yo'bhijānāti | who knows
+  karmabhiḥ | instr. pl. | by actions
+  na sa | not that one
+  badhyate | 3rd sg. pass. | is bound
+---
+# 4.15
+short: Having known this, the ancient seekers of liberation also performed actions; therefore you too should perform actions as the ancients did in ancient times.
+long: Another appeal to tradition: the pūrva (ancient) mumukṣus (seekers of liberation) performed karmāṇi (actions) even while knowing the truth. They did not become inactive upon realization. Their example shows that knowledge and action are compatible — in fact, knowledge transforms the quality of action rather than ending it. "Tasmāt" — therefore — follows with logical necessity.
+wbw:
+  evam | adv. | having known thus
+  jñātvā | gerund | knowing
+  kṛtam | acc. | done/performed
+  karma | acc. | action
+  pūrvair api | by the ancients also
+  mumukṣubhiḥ | instr. pl. | by seekers of liberation
+  kuru | 2nd sg. imper. | do
+  karmaiva | action indeed
+  tasmāt | abl. | therefore
+  tvam | nom. | you
+  pūrvaiḥ | instr. pl. | by the ancients
+  pūrvataram | adv. | in the ancient way
+  kṛtam | acc. | done
+---
+# 4.16
+short: Even the wise are confused about what is action and what is non-action. I will tell you of action, knowing which you will be freed from inauspiciousness.
+long: The problem with "action" and "inaction" is more subtle than it appears. Even the kavayaḥ (the poets/the wise) are confused. Kṛṣṇa will resolve this: the definition of action goes beyond physical movement. Understanding the true nature of action (karma), inaction (akarma), and forbidden action (vikarma) is the key to freedom. The Gītā's analysis of karma is one of its most philosophically rich sections.
+wbw:
+  kim | interrog. | what
+  karma | nom. | action
+  kim | interrog. | what
+  akarmeti | non-action
+  kavayo'py | even the wise
+  atra | adv. | here
+  mohitāḥ | nom. pl. | are confused
+  tat te | that for you
+  karma | acc. | action
+  pravakṣyāmi | 1st sg. fut. | I will declare
+  yaj jñātvā | knowing which
+  mokṣyase | 2nd sg. fut. | you will be freed
+  aśubhāt | abl. | from inauspiciousness
+---
+# 4.17
+short: One must understand action, as well as forbidden action, and also inaction — the nature of action is deep and difficult to penetrate.
+long: A triple distinction: karma (action), vikarma (forbidden/wrong action), and akarma (inaction/non-action). All three require understanding. "Gahanā karmaṇo gatiḥ" — the nature of action is deep and hard to fathom. This is not a simple matter of "do this, don't do that." The philosophical depth of karma — its nature, its effects, when it binds and when it does not — is a profound topic.
+wbw:
+  karmaṇo | gen. | of action
+  hy api | indeed also
+  boddhavyaṃ | acc. | what must be understood
+  boddhavyaṃ | acc. | must be understood
+  ca | conj. | and
+  vikarmaṇaḥ | gen. | of forbidden action
+  akarmaṇaś | gen. | of inaction
+  ca | conj. | and
+  boddhavyam | acc. | must be understood
+  gahanā | nom. | deep
+  karmaṇo gatiḥ | the nature of action
+---
+# 4.18
+short: One who sees inaction in action, and action in inaction — that person is wise among people; that person is a yogi who has accomplished all actions.
+long: The most paradoxical statement in chapter 4: seeing akarma (non-action) in karma (action) and karma in akarma. What does this mean? The wise person who acts without ego-ownership (the Self is not the doer — 3.27) sees akarma in every action: the action happens through them, not by them. And they may "sit still" outwardly but the guṇas continue their play — so even in apparent inaction, there is always action. True inaction is at the level of the Self.
+wbw:
+  karmaṇy | loc. | in action
+  akarma | acc. | inaction
+  yaḥ | rel. | who
+  paśyed | 3rd sg. opt. | sees
+  akarmaṇi | loc. | in inaction
+  karma | acc. | action
+  yaḥ | rel. | who
+  saḥ | nom. | that person
+  buddhimān | nom. | wise
+  manuṣyeṣu | loc. pl. | among people
+  saḥ | nom. | that person
+  yuktaḥ | nom. | yogi
+  kṛtsna-karma-kṛt | nom. | who has accomplished all actions
+---
+# 4.19
+short: One whose undertakings are all free from desire and purpose, whose karma is burned by the fire of knowledge — that person is called a paṇḍita (wise one) by the wise.
+long: The definition of the wise person (paṇḍita): all undertakings (ārambhāḥ) are free from kāma-saṃkalpa (desire and planning for results). Their karma is "jñānāgni-dagdha" — burned by the fire of knowledge. This burning is not destruction but transformation: action performed in knowledge no longer accumulates as binding karma. It is like seeds roasted in fire that cannot sprout.
+wbw:
+  yasya | gen. | whose
+  sarve | nom. pl. | all
+  samārambhāḥ | nom. pl. | undertakings
+  kāma-saṃkalpa-varjitāḥ | nom. pl. | free from desire and purpose
+  jñānāgni-dagdha-karmāṇaṃ | acc. | whose karma is burned by the fire of knowledge
+  tam | acc. | that person
+  āhuḥ | 3rd pl. | call
+  paṇḍitaṃ | acc. | a wise one
+  budhāḥ | nom. pl. | the wise
+---
+# 4.20
+short: Having abandoned attachment to the fruits of action, always content, depending on nothing — even though engaged in action, one does nothing at all.
+long: The paradox of non-doership in action. "Niśraya" — depending on nothing. "Naiva kiñcit karoti" — one does nothing at all. This is not physical inaction but the inner reality of the liberated person: the Self does not do; the body-mind-guṇas do. The person acts, but the true Self remains uninvolved. "Tyaktvā karma-phalāsaṅgam" — having abandoned attachment to results — is the key condition.
+wbw:
+  tyaktvā | gerund | having abandoned
+  karma-phalāsaṅgam | acc. | attachment to the fruits of action
+  nitya-tṛptaḥ | nom. | always content
+  nirāśrayaḥ | nom. | depending on nothing
+  karmaṇy | loc. | in action
+  abhipravṛtto | nom. | engaged
+  api | particle | even
+  naiva | neg. | not at all
+  kiñcit | anything
+  karoti | 3rd sg. | does
+  saḥ | nom. | that person
+---
+# 4.21
+short: Without expectation, with mind and self controlled, having abandoned all possessiveness, performing action with the body alone — one does not incur sin.
+long: The qualities of action that does not bind: nirāśīḥ (without expectation/hope), yata-citta-ātmā (controlled mind and self), tyakta-sarva-parigraha (all possessiveness abandoned), kevalaṃ śarīra-karma (actions with the body alone — instrumentally, not egotistically). Such action is spiritually clean: it leaves no residue in the performer because the performer is no longer identified as the actor.
+wbw:
+  nirāśīḥ | nom. | without expectation
+  yata-citta-ātmā | nom. | with controlled mind and self
+  tyakta-sarva-parigrahaḥ | nom. | having abandoned all possessiveness
+  śārīraṃ | acc. | of the body
+  kevalaṃ | acc. | only/alone
+  karma | acc. | action
+  kurvan | pres. part. | performing
+  na āpnoti | does not incur
+  kilbiṣam | acc. | sin/fault
+---
+# 4.22
+short: Content with what comes of its own accord, rising above duality, free from envy, balanced in success and failure — even acting, one is not bound.
+long: The life of the jñāna-yogi in practice: yadṛcchā-lābha-santuṣṭa (content with whatever comes by itself — no calculated seeking), dvandvātīta (beyond duality), asamāhita-anasūyu (not tense, without envy). And the result: even while acting fully (karma kurvan api), one is not bound (na nibadhyate). The inner freedom is complete, the outer engagement remains.
+wbw:
+  yadṛcchā-lābha-santuṣṭaḥ | nom. | content with what comes by itself
+  dvandvātītaḥ | nom. | beyond duality
+  vimatsaraḥ | nom. | free from envy
+  samaḥ | nom. | equal
+  siddhy-asiddhyoḥ | loc. dual | in success and failure
+  kṛtvāpi | even having done
+  na nibadhyate | is not bound
+---
+# 4.23
+short: One who is liberated, free from attachment, whose mind is established in knowledge, who works for sacrifice — all karma dissolves.
+long: Four conditions that dissolve karma: gata-saṅgasya (liberated from attachment), jñānāvasthita-cetasaḥ (mind established in knowledge), yajñāyācarataḥ (working as sacrifice/offering). For such a person, karma literally dissolves — "pralīyate" — it does not accumulate, it does not bind. Action becomes offering; offering dissolves in the Absolute.
+wbw:
+  gata-saṅgasya | gen. | of one free from attachment
+  muktasya | gen. | of the liberated one
+  jñānāvasthita-cetasaḥ | gen. | whose mind is established in knowledge
+  yajñāyācarataḥ | gen. | who acts as sacrifice
+  karma | nom. | karma/action
+  samagram | adv. | completely
+  pralīyate | 3rd sg. pass. | dissolves
+---
+# 4.24
+short: Brahman is the offering; Brahman is the oblation poured by Brahman into the fire of Brahman. Brahman alone is to be reached by one who is absorbed in the action of Brahman.
+long: The most radical formulation of yajña: every element of the sacrifice is Brahman. The ladle (offering instrument), the ghee (oblation), the fire, the act of pouring — all are Brahman. The doer absorbed in this vision sees only Brahman everywhere. Such a sacrifice does not accumulate karma because there is no separate doer. This verse has been used as a blessing (āhuti-mantra) before meals in Vedāntic traditions.
+wbw:
+  brahma | nom. | Brahman
+  arpaṇam | nom. | the offering/ladle
+  brahma | nom. | Brahman
+  haviḥ | nom. | the oblation
+  brahmāgnau | loc. | in the fire of Brahman
+  brahmaṇā | instr. | by Brahman
+  hutam | nom. | poured/offered
+  brahmaiva | Brahman alone
+  tena gantavyam | to be reached by such a one
+  brahma-karma-samādhinā | instr. | by one absorbed in the action of Brahman
+---
+# 4.25
+short: Some yogis offer sacrifice to the divine powers; others offer the sacrifice itself into the fire of Brahman.
+long: The first of many different forms of sacrifice (yajña) listed in verses 25-32. The Gītā extends the concept of yajña far beyond ritual fire offerings. Here: some offer to devas (traditional sacrifice); others offer "by Brahman into Brahman" — a purely contemplative sacrifice with no physical ritual. Both are valid yajñas.
+wbw:
+  daivam | acc. | to divine powers
+  evāpare | and others
+  yajñam | acc. | sacrifice
+  yoginaḥ | nom. pl. | yogis
+  paryupāsate | 3rd pl. | attend to/perform
+  brahmāgnāv | loc. | into the fire of Brahman
+  apare | others
+  yajñam | acc. | sacrifice
+  yajñenaivopajuhvati | offer sacrifice by sacrifice itself
+---
+# 4.26
+short: Some offer hearing and the other senses into the fires of restraint; others offer sound and other objects of the senses into the fires of the senses.
+long: Two more forms of internal yajña: hearing (śrotrādīni — senses) poured into the fire of saṃyama (restraint). And inversely: sound and other sense objects poured into the fires of the senses themselves — meaning, the senses become the fire that "burns up" their objects by offering them as yajña. Both approaches transform ordinary sensory activity into spiritual practice.
+wbw:
+  śrotrādīnī | acc. pl. | hearing and other senses
+  indriyāṇy | acc. pl. | senses
+  anye | nom. pl. | others
+  saṃyamāgniṣu | loc. pl. | into the fires of restraint
+  juhvati | 3rd pl. | offer/pour
+  śabdādīn | acc. pl. | sound and others (sense objects)
+  viṣayān | acc. pl. | objects
+  anye | nom. pl. | others
+  indriyāgniṣu | loc. pl. | into the fires of the senses
+  juhvati | 3rd pl. | offer
+---
+# 4.27
+short: Others offer all the actions of the senses and the actions of the vital force (prāṇa) into the fire of self-restraint in yoga, kindled by knowledge.
+long: A more interior form of sacrifice: all indriya-karma (sensory actions) and prāṇa-karma (vital force activities) are offered into the "knowledge-kindled fire of yoga self-control." This is a comprehensive internalization — all physical and vital activity is transformed into meditation. The yogi's entire existence becomes a continuous yajña.
+wbw:
+  sarvaṇīndriya-karmāṇi | acc. pl. | all actions of the senses
+  prāṇa-karmāṇi | acc. pl. | actions of vital force
+  ca | conj. | and
+  apare | others
+  ātma-saṃyama-yogāgnau | loc. | into the fire of yoga self-restraint
+  juhvati | 3rd pl. | offer
+  jñāna-dīpite | loc. | kindled by knowledge
+---
+# 4.28
+short: Others offer wealth as sacrifice, austerity as sacrifice, yoga as sacrifice, and learning of the scriptures as sacrifice; others offer jñāna (knowledge) as sacrifice — ascetics of strict vows.
+long: An expanded list of valid yajñas: dravya-yajña (sacrifice of wealth), tapo-yajña (sacrifice of austerity), yoga-yajña (sacrifice of meditative practice), svādhyāya-jñāna-yajña (sacrifice of Vedic study and knowledge). These are all valid paths, suited to different temperaments. The Gītā is remarkably inclusive of diverse spiritual practices.
+wbw:
+  dravya-yajñāḥ | nom. pl. | sacrificers of wealth
+  tapo-yajñāḥ | nom. pl. | sacrificers of austerity
+  yoga-yajñāḥ | nom. pl. | sacrificers of yoga
+  tathā'pare | and others
+  svādhyāya-jñāna-yajñāś | nom. pl. | sacrificers of study and knowledge
+  ca | conj. | and
+  yatayaḥ | nom. pl. | ascetics
+  saṃśita-vratāḥ | nom. pl. | of strict vows
+---
+# 4.29
+short: Others offer the outgoing breath into the incoming, and the incoming into the outgoing — controlling the course of breath, engaged in prāṇāyāma.
+long: Breath control (prāṇāyāma) is here classified as a form of yajña. Prāṇa (outgoing breath) is offered into apāna (incoming breath) and apāna into prāṇa — the two become one steady flow. The yogi who practices kumbhaka (breath retention) is performing a sacrifice of the most fundamental vital activity. This connects yogic breath practice to the larger framework of offering everything to the Absolute.
+wbw:
+  apāne | loc. | into the outgoing breath (apāna)
+  juhvati | 3rd pl. | offer
+  prāṇam | acc. | the incoming breath
+  prāṇe | loc. | into the incoming breath (prāṇa)
+  'pānam | acc. | the outgoing breath
+  tathāpare | and others
+  prāṇāpāna-gatī | acc. dual | the courses of prāṇa and apāna
+  ruddhvā | gerund | having controlled
+  prāṇāyāma-parāyaṇāḥ | nom. pl. | devoted to breath control
+---
+# 4.30
+short: Others, having controlled their diet, offer their vital breaths into vital breaths. All of these are knowers of sacrifice; their sins have been destroyed by sacrifice.
+long: A final note on the diverse yajñas: even dietary restraint (niyatāhārāḥ — controlling food intake) is a form of sacrifice where prāṇas are offered into prāṇas. The common theme across all these forms is the same: offering, restraint, transformation. And the result: "sarve'py ete yajña-vido yajña-kṣapita-kalmaṣāḥ" — all these yajña-knowers have had their sin burned away by sacrifice.
+wbw:
+  apare | others
+  niyatāhārāḥ | nom. pl. | controlling their diet
+  prāṇān | acc. pl. | vital breaths
+  prāṇeṣu | loc. pl. | into vital breaths
+  juhvati | 3rd pl. | offer
+  sarve'py ete | all these
+  yajña-vidaḥ | nom. pl. | knowers of sacrifice
+  yajña-kṣapita-kalmaṣāḥ | nom. pl. | whose sins have been destroyed by sacrifice
+---
+# 4.31
+short: Those who eat the nectar of sacrifice left over after the sacrifice go to the eternal Brahman. This world is not for one who does not sacrifice; how then the next world, O best of Kurus?
+long: Yajñaśiṣṭa-amṛtabhujaḥ — those who consume the "nectar-remnants" of sacrifice — go to the "eternal Brahman" (sanātanaṃ brahma). This world itself is not fit for the non-sacrificer: "ayaṃ loko'sti na ayajñasya" — this world does not exist for the non-sacrificer. If even earthly flourishing requires the spirit of offering, how much more so the next world?
+wbw:
+  yajña-śiṣṭāmṛta-bhujaḥ | nom. pl. | those who eat the nectar-remnants of sacrifice
+  yānti | 3rd pl. | go
+  brahma | acc. | Brahman
+  sanātanam | acc. | eternal
+  nāyaṃ | not this
+  loko | nom. | world
+  'sty | exists
+  ayajñasya | gen. | for the non-sacrificer
+  kuto'nyaḥ | how the other
+  kuru-sattama | voc. | O best of Kurus
+---
+# 4.32
+short: Thus many forms of sacrifice are explained in the Veda. Know all of them to be born of action. Knowing this, you will be liberated.
+long: Summarizing verses 25-31: all the forms of yajña described are karmaja — born of action. Action (karma), when performed as yajña, ceases to bind. The Veda itself teaches these diverse forms of sacrifice. Understanding this full spectrum of yajña practice enables liberation. The conceptual key: any consciously offered action becomes yajña.
+wbw:
+  evam | adv. | thus
+  bahuvidhā | nom. pl. | of many kinds
+  yajñāḥ | nom. pl. | sacrifices
+  vitatāḥ | nom. pl. | spread out/explained
+  brahmaṇo | gen. | of the Veda/Brahman
+  mukhe | loc. | in the mouth/text
+  karma-jān | acc. pl. | born of action
+  viddhi | 2nd sg. imper. | know
+  tān | acc. pl. | them
+  sarvān | acc. pl. | all
+  evaṃ jñātvā | having known thus
+  vimokṣyase | 2nd sg. fut. | you will be liberated
+---
+# 4.33
+short: O scorcher of enemies, the sacrifice of knowledge is superior to any sacrifice of material objects, for all actions without exception culminate in knowledge.
+long: Hierarchy among the yajñas: jñāna-yajña (sacrifice of knowledge) is superior to all dravya-yajña (material sacrifice). Why? "Sarvaṃ karmākhilam pārtha jñāne parisamāpyate" — all karma culminates/is completed in knowledge. The ultimate point of all action is to arrive at knowledge. Material sacrifice prepares the ground; knowledge is the fruit. The means becomes irrelevant once the goal is reached.
+wbw:
+  śreyān | comparative nom. | superior
+  dravya-mayāt | abl. | than material
+  yajñāt | abl. | than sacrifice
+  jñāna-yajñaḥ | nom. | sacrifice of knowledge
+  parantapa | voc. | O scorcher of enemies
+  sarvam | acc. | all
+  karma'khilam | acc. | karma in entirety
+  pārtha | voc. | O son of Pṛthā
+  jñāne | loc. | in knowledge
+  parisamāpyate | 3rd sg. pass. | culminates/is completed
+---
+# 4.34
+short: Know that by prostration, by inquiry, and by service — the wise who have seen the truth will teach you knowledge.
+long: The method of acquiring this knowledge: praṇipāta (prostration — humility), paripraśna (inquiry — genuine questioning), sevā (service — selfless attendance). The teachers (tattva-darśinaḥ — those who have seen the truth) respond to genuine seekers. This verse establishes the guru-śiṣya relationship as the primary vehicle for jñāna-transmission.
+wbw:
+  tad | acc. | that
+  viddhi | 2nd sg. imper. | know
+  praṇipātena | instr. | by prostration
+  paripraśnena | instr. | by inquiry
+  sevayā | instr. | by service
+  upadekṣyanti | 3rd pl. fut. | will teach
+  te | dat. | to you
+  jñānam | acc. | knowledge
+  jñāninaḥ | nom. pl. | the wise
+  tattva-darśinaḥ | nom. pl. | those who have seen the truth
+---
+# 4.35
+short: Having known that, you will not fall again into confusion; by that knowledge, O Arjuna, you will see all beings in your Self and then in Me.
+long: The transformative vision that knowledge brings: "yena bhūtāny aśeṣāṇi drakṣyasy ātmany atho mayi" — by which you will see all beings in the Self and in Me. The plural becomes one: self (individual), Self (universal), and Me (divine). This triple vision is the mark of complete understanding — not intellectual agreement but direct perception of the unity underlying multiplicity.
+wbw:
+  yaj jñātvā | having known which
+  na | neg. | not
+  punar | adv. | again
+  moham | acc. | confusion
+  evaṃ | adv. | thus
+  yāsyasi | 2nd sg. fut. | you will go
+  pāṇḍava | voc. | O son of Pāṇḍu
+  yena | instr. | by which
+  bhūtāni | acc. pl. | beings
+  aśeṣāṇi | acc. pl. | without remainder/all
+  drakṣyasy ātmani | you will see in the Self
+  atho mayi | and in Me
+---
+# 4.36
+short: Even if you are the most sinful of all sinners, you will cross over all sin by the raft of knowledge.
+long: The power of jñāna: it transcends even the worst karma. "Sarvebhyaḥ pāpebhyaḥ pāpakṛttamaḥ" — even the most sinful of all. The metaphor "jñāna-plavena" — by the raft of knowledge — is elegant: a raft floats over the water without being submerged by it. Knowledge allows one to cross the ocean of karma without being drowned by it.
+wbw:
+  api | particle | even
+  ced | conj. | if
+  asi | 2nd sg. | you are
+  pāpebhyaḥ | abl. | than sinners
+  sarvebhyaḥ | abl. pl. | all
+  pāpa-kṛttamaḥ | nom. | the most sinful
+  sarvaṃ | acc. | all
+  pāpa-plavam | acc. | the flood of sin
+  jñāna-plavena | instr. | by the raft of knowledge
+  eva | particle | indeed
+  tariṣyasi | 2nd sg. fut. | you will cross
+---
+# 4.37
+short: As fire reduces wood to ashes, O Arjuna, so too the fire of knowledge reduces all karma to ashes.
+long: Fire as metaphor for knowledge: just as fire (agni) completely burns up firewood (samidha) and leaves only ash, so jñānāgni (the fire of knowledge) completely burns up (bhasmasāt kurute) all karma. Nothing remains. The ash cannot be re-composed into wood. Karma reduced to ash by knowledge cannot sprout into new binding consequences. The image is total and irreversible.
+wbw:
+  yathā | just as
+  edhamsi | acc. pl. | firewood
+  samiddhaḥ | nom. | blazing
+  agniḥ | nom. | fire
+  bhasmasāt | indecl. | to ashes
+  kurute | 3rd sg. | reduces
+  arjuna | voc. | O Arjuna
+  jñānāgniḥ | nom. | the fire of knowledge
+  sarva-karmāṇi | acc. pl. | all karmas
+  bhasmasāt | indecl. | to ashes
+  kurute | 3rd sg. | reduces
+  tathā | so too
+---
+# 4.38
+short: Truly, there is no purifier in this world equal to knowledge. One who has become perfect through yoga finds this in due time within the Self.
+long: The superlative claim: nothing is equal to jñāna as a purifier. "Na hi jñānena sadṛśaṃ pavitram iha vidyate" — a categorical statement. And for those who seek it: the yogi who is perfected (in the practice) finds this jñāna within the Self in due time ("svayam"). The timing is one's own readiness; the location is one's own interior.
+wbw:
+  na | neg. | not
+  hi | particle | indeed
+  jñānena | instr. | with knowledge
+  sadṛśaṃ | nom. | equal
+  pavitram | nom. | purifier
+  iha | adv. | here
+  vidyate | exists
+  tat | acc. | that
+  svayam | adv. | by oneself/within oneself
+  yoga-saṃsiddhaḥ | nom. | one perfected through yoga
+  kālenātmani | loc. | in time in the Self
+  vindati | 3rd sg. | finds
+---
+# 4.39
+short: One who has śraddhā (faith) and is devoted to that (knowledge), having conquered the senses — attains knowledge. Having attained knowledge, one quickly attains supreme peace.
+long: The path to jñāna has three components: śraddhā (faith — committed openness to the teaching), tat-para (devoted to that — single-pointed focus), saṃyata-indriya (sense restraint). These three together produce jñāna. And jñāna produces "parāṃ śāntim" — supreme peace — āśu (quickly). "Quickly" is noteworthy: the Gītā is not a path of indefinitely deferred liberation.
+wbw:
+  śraddhāvān | nom. | one who has faith
+  labhate | 3rd sg. | attains
+  jñānam | acc. | knowledge
+  tat-paraḥ | nom. | devoted to that
+  saṃyatendriyaḥ | nom. | with senses controlled
+  jñānam | acc. | knowledge
+  labdhvā | gerund | having attained
+  parāṃ | acc. | supreme
+  śāntim | acc. | peace
+  acireṇa | instr. | quickly
+  adhigacchati | 3rd sg. | attains
+---
+# 4.40
+short: The ignorant, the faithless, the doubting self — these are destroyed. Not this world, not the next, nor happiness belongs to the doubting self.
+long: Three types who fail: ajña (ignorant of the teaching), aśraddadhāna (without faith), and saṃśayātmā (the doubting self). The saṃśayātmā is the most dangerous — someone who has heard the teaching but remains perpetually undecided. "Saṃśayātmā vinaśyati" — the doubting self is destroyed. They are destroyed because chronic doubt prevents action and transformation. "Na iha loko'sti" — neither this world nor the next holds happiness for them.
+wbw:
+  ajñaś | nom. | the ignorant one
+  ca | conj. | and
+  aśraddadhānaś | nom. | the faithless
+  ca | conj. | and
+  saṃśayātmā | nom. | the doubting self
+  vinaśyati | 3rd sg. | is destroyed
+  nāyaṃ | not this
+  loko | nom. | world
+  'sti | exists
+  na | neg. | nor
+  paro | nom. | the next
+  na sukhaṃ | nor happiness
+  saṃśayātmanaḥ | gen. | for the doubting self
+---
+# 4.41
+short: One who has renounced actions through yoga, whose doubts have been cut by knowledge, who is self-possessed — actions do not bind, O Dhanañjaya.
+long: The liberated person in action: yoga-sannyasta-karma (renounced action through yoga — not physical renunciation but inner non-attachment), jñāna-saṃchinna-saṃśaya (doubts cut by knowledge), ātmavat (self-possessed). For such a person, actions (karmāṇi) do not bind (nibadhnanti). The synthesis of karma and jñāna is complete: action performed from knowledge, with inner renunciation, is liberating.
+wbw:
+  yoga-sannyasta-karmāṇam | acc. | one who has renounced action through yoga
+  jñāna-saṃchinna-saṃśayam | acc. | whose doubts have been cut by knowledge
+  ātmavantam | acc. | who is self-possessed
+  na | neg. | not
+  karmāṇi | nom. pl. | actions
+  nibadhnanti | 3rd pl. | bind
+  dhanañjaya | voc. | O Dhanañjaya
+---
+# 4.42
+short: Therefore, having cut this doubt born of ignorance in your heart with the sword of knowledge, be established in yoga, arise, O Bhārata.
+long: The chapter's final instruction: cut (chindhi) the doubt (saṃśaya) that lives in the heart (hṛda) — born of ignorance (ajñāna-sambhūtam) — with the sword of knowledge (jñānāsinā). Then: yoga-ātiṣṭha (be established in yoga). Then: uttiṣṭha (arise). Three imperatives in one verse, matching the opening of chapter 2 (uttiṣṭha). The Gītā's answer to grief, confusion, and doubt is always: knowledge, yoga, action.
+wbw:
+  tasmāt | abl. | therefore
+  ajñāna-sambhūtaṃ | acc. | born of ignorance
+  hṛd-sthaṃ | acc. | dwelling in the heart
+  jñānāsinā | instr. | with the sword of knowledge
+  ātmanaḥ | gen. | of the self
+  chindhi | 2nd sg. imper. | cut
+  enam | acc. | this
+  saṃśayam | acc. | doubt
+  yoga-ātiṣṭha | be established in yoga
+  uttiṣṭha | arise
+  bhārata | voc. | O Bhārata
+---

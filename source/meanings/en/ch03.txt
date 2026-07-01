@@ -1,0 +1,691 @@
+# 3.1
+short: Arjuna said: O Janārdana, if you consider that wisdom is superior to action, why do you urge me to engage in this terrible action?
+long: Arjuna heard two things in chapter 2 that appear contradictory: Kṛṣṇa praised the wisdom of the sthitaprajña (who transcends action) and also urged Arjuna to fight. The question is genuine: if knowledge is higher, why act? This is the central problem of chapter 3 — the relationship between jñāna (knowledge) and karma (action).
+wbw:
+  jyāyasī | comparative nom. | superior
+  cet | conj. | if
+  karmaṇas | abl. | than action
+  te | gen. | your
+  matā | nom. | considered
+  buddhiḥ | nom. | wisdom
+  janārdana | voc. | O Janārdana
+  tat | acc. | then
+  kim | interrog. | why
+  karmaṇi | loc. | in action
+  ghore | loc. | terrible
+  mām | acc. | me
+  niyojayasi | 2nd sg. | you urge/engage
+  keśava | voc. | O Keśava
+---
+# 3.2
+short: With this seemingly contradictory speech you are confusing my understanding. Tell me conclusively what is truly good for me.
+long: Arjuna feels the contradition as a real cognitive burden — his mind is bewildered (buddhi-mohita). He asks for a single decisive answer, not a both/and. The word "niścitya" (conclusively/with certainty) echoes his request in 2.7 for certainty. He wants clarity, not philosophical nuance. Kṛṣṇa's answer will explain why the apparent contradiction is resolved.
+wbw:
+  vyāmiśreṇa | instr. | with mixed/contradictory
+  iva | particle | as if
+  vākyena | instr. | with speech
+  buddhim | acc. | understanding
+  mohayasi | 2nd sg. | you confuse
+  me | gen. | my
+  tad | acc. | that
+  ekam | acc. | one
+  vada | 2nd sg. imper. | tell
+  niścitya | gerund | having decided conclusively
+  yena | instr. rel. | by which
+  śreyas | nom. | good/benefit
+  aham | nom. | I
+  āpnuyām | 1st sg. opt. | may obtain
+---
+# 3.3
+short: The Blessed Lord said: O sinless one, two paths have been taught in this world from the beginning — the path of knowledge for the reflective, and the path of action for the active.
+long: The crucial answer: there are two legitimate paths, not one. Sāṅkhya-yoga (the path of discriminative knowledge) for the jñāninaḥ (the contemplative, philosophical type). Karma-yoga (the path of action) for the yoginaḥ (the active type). Neither is wrong; they suit different natures. The contradiction Arjuna perceived was actually a recognition of human diversity.
+wbw:
+  loke | loc. | in this world
+  asmin | loc. | in this
+  dvividhā | nom. | twofold
+  niṣṭhā | nom. | path/foundation/steadiness
+  purā | adv. | from the beginning
+  proktā | nom. | declared/taught
+  mayā | instr. | by me
+  anagha | voc. | O sinless one
+  jñānayogena | instr. | by the yoga of knowledge
+  sāṃkhyānāṃ | gen. pl. | for the Sāṃkhyas (reflective ones)
+  karmayogena | instr. | by the yoga of action
+  yoginām | gen. pl. | for the yogins (active ones)
+---
+# 3.4
+short: Not by abstaining from actions does a person reach the state of action-lessness; and not by renunciation alone does one attain perfection.
+long: Kṛṣṇa pre-empts the obvious misunderstanding: since knowledge is praised, just stop all action! No. Inaction is not the same as transcendence. Simply sitting still while the mind churns desires and plans is not naiskarmya (freedom from action). True actionlessness comes from inner transformation, not external cessation.
+wbw:
+  na | neg. | not
+  karmaṇām | gen. pl. | of actions
+  anārambhāt | abl. | from non-commencement
+  naiṣkarmyam | acc. | state of actionlessness
+  puruṣaḥ | nom. | person
+  aśnute | 3rd sg. | attains
+  na ca | nor
+  saṃnyasanāt | abl. | from renunciation alone
+  eva | particle | indeed
+  siddhim | acc. | perfection
+  samadhigacchati | 3rd sg. | attains
+---
+# 3.5
+short: Indeed, no one can ever remain without acting even for a moment; for all are helplessly driven to action by the qualities born of nature (guṇas).
+long: The fundamental insight of chapter 3: action is unavoidable. Every being acts constantly — even the act of refraining from external action involves internal mental action. The guṇas (sattva, rajas, tamas) are the active constituents of nature (prakṛti), and they act through every being. Nobody is truly inactive. The choice is not action vs. inaction, but conscious vs. unconscious action.
+wbw:
+  na | neg. | not
+  hi | particle | indeed
+  kaścit | anyone
+  kṣaṇam | acc. | a moment
+  api | particle | even
+  jātu | adv. | at any time
+  tiṣṭhati | 3rd sg. | remains/stands
+  akarmakṛt | nom. | not doing action
+  kāryate | 3rd sg. pass. | is driven
+  hi | particle | indeed
+  avaśaḥ | nom. | helplessly
+  karma | acc. | action
+  sarvaḥ | nom. | everyone
+  prakṛtijaiḥ | instr. pl. | by those born of nature
+  guṇaiḥ | instr. pl. | by the qualities
+---
+# 3.6
+short: One who restrains the organs of action but who dwells on sense-objects with the mind — such a deluded person is called a hypocrite.
+long: The hypocrite (mithyācāra) is defined: external restraint with internal churning. The body sits still but the mind runs after all its desires. This is worse than honest engagement — it combines the costs of abstinence with the bondage of desire. Kṛṣṇa is clearing space for Karma Yoga: the right path is honest, wholehearted action, not suppressed action.
+wbw:
+  karmendriyāṇi | acc. pl. | organs of action
+  saṃyamya | gerund | having restrained
+  yaḥ | rel. | who
+  āste | 3rd sg. | sits
+  manasā | instr. | with the mind
+  smaran | pres. part. | dwelling on/remembering
+  indriyārthān | acc. pl. | sense-objects
+  vimūḍhātmā | nom. | deluded in self
+  mithyācāraḥ | nom. | hypocrite
+  sa ucyate | is called
+---
+# 3.7
+short: But one who, controlling the senses with the mind, engages the organs of action without attachment — such a person is superior, O Arjuna.
+long: The contrast to the hypocrite: controlling the senses through the mind (not just the body), then engaging actively and without attachment (anāsaktaḥ). This is true yoga — the integration of inner discipline and outer action. The organs of action (karmendriyāṇi) are not suppressed but directed. This person is viśiṣyate — distinguished/superior.
+wbw:
+  yas tv | but who
+  indriyāṇi | acc. pl. | senses
+  manasā | instr. | with the mind
+  niyamya | gerund | having controlled
+  ārabhate | 3rd sg. | engages in
+  arjuna | voc. | O Arjuna
+  karmendriyaiḥ | instr. pl. | with organs of action
+  karma-yogam | acc. | the yoga of action
+  asaktaḥ | nom. | without attachment
+  sa viśiṣyate | that one is superior
+---
+# 3.8
+short: Perform your prescribed duty, for action is superior to inaction. Even the maintenance of your body cannot be accomplished without action.
+long: The practical ground level: niyatam karma (prescribed, obligatory duty) must be done. Why? Because inaction — even for a supposedly contemplative person — cannot be sustained: the body must be fed, cared for, maintained. And maintenance of the body requires action. The argument for action is not heroic but biological: life demands activity.
+wbw:
+  niyatam | acc. | prescribed/obligatory
+  kuru | 2nd sg. imper. | do/perform
+  karma | acc. | action
+  tvam | nom. | you
+  karma | nom. | action
+  jyāyo | comparative nom. | superior
+  hi | particle | indeed
+  akarmaṇaḥ | abl. | than inaction
+  śarīra-yātrā | acc. | maintenance of the body
+  ca api | and also
+  te | gen. | your
+  na | neg. | not
+  prasiddhyet | 3rd sg. opt. | would be accomplished
+  akarmaṇaḥ | abl. | without action
+---
+# 3.9
+short: This world is bound by actions other than those performed for the sake of yajña (sacrifice). O son of Kuntī, perform action for that purpose, free from attachment.
+long: The concept of yajña (sacrifice/offering) enters. All action that is selfish (not yajña) creates karma bondage. But action performed as yajña — as an offering, as a service, for a higher purpose than one's own gain — does not bind. The key distinction: who is the action for? The Gītā redefines yajña beyond ritual sacrifice to any action done in the spirit of offering.
+wbw:
+  yajñārthāt | abl. | for the sake of sacrifice/offering
+  karmaṇaḥ | abl. | than action
+  anyatra | adv. | other than
+  lokaḥ | nom. | world
+  ayam | nom. | this
+  karma-bandhanaḥ | nom. | bound by action
+  tad-artham | acc. | for that purpose
+  karma | acc. | action
+  kaunteya | voc. | O son of Kuntī
+  mukta-saṅgaḥ | nom. | free from attachment
+  samācara | 2nd sg. imper. | perform
+---
+# 3.10
+short: In the beginning, having created beings along with sacrifice, the Creator said: By this you shall multiply; let this (yajña) be your wish-fulfilling cow.
+long: A cosmogonic claim: creation itself was set up as a sacrificial exchange. Prajāpati (the Creator) created beings along with yajña (sacrifice) and declared them interdependent — through sacrifice you flourish. "Kāmadhuk" — the wish-fulfilling cow — suggests yajña is not mere obligation but the mechanism by which human wellbeing is sustained. Cooperation with the cosmic order, not exploitation of it.
+wbw:
+  saha-yajñāḥ | nom. pl. | along with sacrifice
+  prajāḥ | acc. pl. | beings/creatures
+  sṛṣṭvā | gerund | having created
+  puro | adv. | in the beginning
+  uvāca | 3rd sg. perf. | said
+  prajāpatiḥ | nom. | Prajāpati (Creator)
+  anena | instr. | by this
+  prasaviṣyadhvam | 2nd pl. imper. | you shall multiply/prosper
+  eṣa vaḥ | this to you
+  astu | 3rd sg. imper. | let it be
+  iṣṭa-kāma-dhuk | nom. | wish-fulfilling (like a cow)
+---
+# 3.11
+short: Nourish the gods with this sacrifice, and let the gods nourish you; thus nourishing each other, you shall attain the highest good.
+long: The mutual-nourishment model: human beings nourish the divine powers (devas) through yajña; the devas in turn nourish human beings through rain, harvest, fertility. This is the ancient Vedic vision of cosmic reciprocity. The word "parasparaṃ bhāvayantaḥ" — nourishing each other — extends beyond human-divine to all relationships. The highest good (param śreyas) arises from this interdependence.
+wbw:
+  devān | acc. pl. | the gods/divine powers
+  bhāvayata | 2nd pl. imper. | nourish
+  anena | instr. | by this
+  te devāḥ | those gods
+  bhāvayantu | 3rd pl. imper. | may nourish
+  vaḥ | acc. pl. | you
+  parasparaṃ | adv. | each other
+  bhāvayantaḥ | pres. part. | nourishing
+  śreyas | acc. | the highest good
+  param | acc. | supreme
+  avāpsyatha | 2nd pl. fut. | you shall attain
+---
+# 3.12
+short: Nourished by sacrifice, the gods will give you the desired enjoyments. One who enjoys their gifts without offering in return is indeed a thief.
+long: The devas (cosmic powers) give prosperity — rain, crops, health — but only in response to yajña. One who takes these gifts without giving back is a steya (thief). This is a radical ethical claim: all enjoyment that doesn't flow from a spirit of offering is a form of stealing from the cosmic order. The consumer who only takes is spiritually bankrupt.
+wbw:
+  iṣṭān | acc. pl. | desired
+  bhogān | acc. pl. | enjoyments
+  hi vaḥ | to you indeed
+  devāḥ | nom. pl. | the gods
+  dāsyante | 3rd pl. fut. | will give
+  yajña-bhāvitāḥ | nom. pl. | nourished by sacrifice
+  tair dattān | those given by them
+  apradāya | gerund neg. | without offering
+  ebhyaḥ | dat. pl. | to them
+  yo | rel. | who
+  bhuṅkte | 3rd sg. | enjoys
+  stena | nom. | thief
+  eva saḥ | that one is
+---
+# 3.13
+short: The saintly persons who eat the remnants of sacrifice are freed from all sins; but those who cook only for their own sake — truly they eat sin.
+long: The yajñaśeṣa (remnants of sacrifice) is transformed by the act of offering. What was selfishly taken becomes sacred when offered first and shared. Those who cook only for themselves (kevalaṃ te'ghnaṃ bhuñjate) eat sin — not because the food is tainted but because the orientation is wrong. This principle can be extended: any action done purely for oneself becomes spiritually harmful.
+wbw:
+  yajña-śiṣṭāśinaḥ | nom. pl. | those who eat the remnants of sacrifice
+  santo | nom. pl. | saintly persons
+  mucyante | 3rd pl. pass. | are freed
+  sarva-kilbiṣaiḥ | instr. pl. | from all sins
+  bhuñjate | 3rd pl. | eat
+  te tv | but those
+  agham | acc. | sin
+  pāpāḥ | nom. pl. | sinful ones
+  ye | rel. pl. | who
+  pacanty | 3rd pl. | cook
+  ātma-kāraṇāt | abl. | for their own sake
+---
+# 3.14
+short: Beings are born from food; food is born from rain; rain comes from sacrifice; sacrifice is born from action.
+long: The cosmic chain is laid out: beings → food → rain → sacrifice → action. Action (karma) sustains sacrifice (yajña) sustains rain (parjanya) sustains food (anna) sustains life (bhūtāni). This is the Vedic ecology: human ritual action participates in the natural cycle. Refusing to act in this chain is to break it — not just ethically but cosmologically.
+wbw:
+  annāt | abl. | from food
+  bhavanti | 3rd pl. | are born
+  bhūtāni | nom. pl. | beings
+  parjanyāt | abl. | from rain
+  anna-sambhavaḥ | nom. | food comes into being
+  yajñāt | abl. | from sacrifice
+  bhavati | 3rd sg. | comes
+  parjanyaḥ | nom. | rain
+  yajñaḥ | nom. | sacrifice
+  karma-samudbhavaḥ | nom. | born from action
+---
+# 3.15
+short: Know that action arises from Brahman; and Brahman arises from the imperishable (Akṣara). Therefore the all-pervading Brahman is always established in sacrifice.
+long: The chain extends upward: action → Brahman (here meaning the Veda/cosmic order) → Akṣara (the Imperishable, the Absolute). The entire cosmological cycle (3.14-15) originates in and returns to the Imperishable. Sacrifice participates in the eternal order — it is not a human invention but a cosmic principle. This grounds yajña in metaphysics, not just in social custom.
+wbw:
+  karma | nom. | action
+  brahmodbhavam | nom. | arising from Brahman
+  viddhi | 2nd sg. imper. | know
+  brahma | nom. | Brahman
+  akṣara-samudbhavam | nom. | arising from the Imperishable
+  tasmāt | abl. | therefore
+  sarva-gataṃ | nom. | all-pervading
+  brahma | nom. | Brahman
+  nityam | acc. | always
+  yajñe | loc. | in sacrifice
+  pratiṣṭhitam | nom. | established
+---
+# 3.16
+short: One who does not follow this wheel thus set in motion — who lives in sin and enjoys the senses — such a person lives in vain, O Arjuna.
+long: "Evaṃ pravartitaṃ cakram" — the wheel thus set in motion — is the cosmic cycle of sacrifice just described. The person who does not participate in this wheel (anuvartayati), who lives selfishly, sins (agha-āyuḥ) and indulges the senses, lives meaninglessly (mogham). A human life that does not contribute to the cosmic order is wasted. This is not a threat but a cosmological fact.
+wbw:
+  evaṃ | adv. | thus
+  pravartitaṃ | acc. | set in motion
+  cakram | acc. | wheel
+  nānuvartayatī | 3rd sg. neg. | does not follow
+  iha | adv. | here
+  yaḥ | rel. | who
+  aghāyuḥ | nom. | one who lives in sin
+  indriya-āarāmaḥ | nom. | one who delights in senses
+  mogham | acc. | in vain
+  pārtha | voc. | O Arjuna
+  sa jīvati | that one lives
+---
+# 3.17
+short: But for that person who rejoices in the Self alone, who is satisfied with the Self, and is content in the Self — for such a person there is nothing that need be done.
+long: The exception: the person who has realized the Self (ātmārāma — one who rejoices in the Self) is released from the cosmic obligation. Their action or inaction no longer has consequences in the same sense, because they have transcended the level at which yajña operates. They have arrived at the source — the Akṣara. For them, everything is already whole. This is the jivanmukta.
+wbw:
+  yas tv | but who
+  ātma-ratiḥ | nom. | rejoicing in the Self
+  eva syāt | would be
+  ātma-tṛptaś | nom. | satisfied in the Self
+  ca mānavaḥ | person
+  ātmany | loc. | in the Self
+  eva ca | and also
+  santuṣṭaḥ | nom. | content
+  tasya | gen. | for that person
+  kāryaṃ | acc. | what needs to be done
+  na vidyate | does not exist
+---
+# 3.18
+short: For such a person there is nothing to gain by actions done, nor anything to lose by actions not done; nor does such a person depend on any being for anything.
+long: Complete freedom from the calculus of gain and loss. The ātmārāma has no "naiva tasya kṛtenārthaḥ" (no purpose served by action) and no "nākṛtena kaścana" (nothing lost by inaction). And crucially: "na cāsya sarva-bhūteṣu kaścid artha-vyapāśrayaḥ" — no dependence on any being for anything. This is absolute self-sufficiency — not selfishness but the overflow of fullness.
+wbw:
+  naiva | neg. | not indeed
+  tasya | gen. | for such a person
+  kṛtena | instr. | by action done
+  arthaḥ | nom. | purpose/gain
+  nākṛtena | instr. neg. | by action not done
+  kaścana | any
+  na cāsya | nor for such a person
+  sarva-bhūteṣu | loc. pl. | among all beings
+  kaścit | any
+  artha-vyapāśrayaḥ | nom. | dependence for any purpose
+---
+# 3.19
+short: Therefore, always perform what ought to be done without attachment. By performing action without attachment, one attains the Supreme.
+long: The synthesis of chapter 3's teaching so far: the jivanmukta may transcend duty, but Arjuna has not yet. For him (and for most people), the instruction is: do your duty (kāryam karma) without attachment (asakta). And this path of detached action is itself the road to the Supreme (param āpnoti). Action and liberation are not opposed; detached action is liberation in progress.
+wbw:
+  tasmāt | abl. | therefore
+  asaktaḥ | nom. | without attachment
+  satataṃ | adv. | always
+  kāryam | acc. | what ought to be done
+  karma | acc. | action
+  samācara | 2nd sg. imper. | perform
+  asakto | nom. | without attachment
+  hy ācaran | performing
+  karma | acc. | action
+  param | acc. | the Supreme
+  āpnoti | 3rd sg. | attains
+  pūruṣaḥ | nom. | person
+---
+# 3.20
+short: Janaka and others attained perfection through action alone. You should also act, with a view to maintaining the world order.
+long: Historical precedent: Janaka (the philosopher-king of the Upaniṣads) achieved perfection while remaining fully active as a king. His life refutes the idea that liberation requires withdrawal. "Lokasaṃgrahameva'pi" — and also with a view to holding the world together. Not just personal liberation but social responsibility is invoked. The enlightened person continues to act for the welfare of the world.
+wbw:
+  janakādayaḥ | nom. pl. | Janaka and others
+  saṃsiddhim | acc. | perfection
+  āsthitāḥ | nom. pl. | established in
+  karma | instr. | by action
+  naiva | neg. particle | only
+  janakādayaḥ | nom. pl. | Janaka and others
+  loka-saṃgraham | acc. | holding the world together
+  evāpi | and also
+  sampasyan | pres. part. | viewing/considering
+  kartum | inf. | to do
+  arhasi | 2nd sg. | you should
+---
+# 3.21
+short: Whatever a great person does, that very thing others also do. Whatever standard such a person sets, the world follows.
+long: Leadership by example. The great person (śreṣṭha) sets the standard that others imitate — "yad yad ācarati" (whatever one does), that becomes the model. Kṛṣṇa is deploying this argument for Arjuna specifically: as a warrior-hero, Arjuna's behavior will be emulated by ordinary soldiers and citizens. If he flees, others flee. If he acts with wisdom, others learn.
+wbw:
+  yad yad | whatever
+  ācarati | 3rd sg. | does
+  śreṣṭhaḥ | nom. | a great/eminent person
+  tat tat | that very thing
+  eva | particle | indeed
+  itaraḥ | nom. | another/others
+  janaḥ | nom. | people
+  sa | nom. | that person
+  yat | rel. | what
+  pramāṇam | acc. | standard/example
+  kurute | 3rd sg. | sets
+  lokas | nom. | the world
+  tad | acc. | that
+  anuvartate | 3rd sg. | follows
+---
+# 3.22
+short: O Arjuna, in the three worlds there is nothing that must be done by Me, nor is there anything unattained that I must attain; yet I engage in action.
+long: Kṛṣṇa now applies the logic to himself. He has nothing to gain (kṛtyam = nothing to do for self-interest), nothing to achieve (nānavāptam = nothing unattained). By the logic of verse 3.18, he should be completely inactive. And yet — "varta eva ca karmani" — he engages in action. Why? He will answer this in verse 3.23.
+wbw:
+  na | neg. | not
+  me | gen. | for me
+  pārtha | voc. | O Arjuna
+  kartavyam | acc. | what must be done
+  triṣu lokeṣu | loc. pl. | in the three worlds
+  kiñcana | anything
+  nānavāptam | neg. | nothing unattained
+  avāptavyaṃ | acc. | to be attained
+  varta | 1st sg. pres. | I engage
+  eva | particle | indeed
+  ca karmani | in action
+---
+# 3.23
+short: For, O Arjuna, if I did not engage in action without lazing, people would follow my path in all ways.
+long: If Kṛṣṇa, the supreme being, were to become inactive, everyone would follow suit — since the great set the standard (verse 3.21). The world would grind to halt. "Tandrī" — sloth, torpor — is the danger. Even the enlightened must act, because their example creates the template others live by. Self-realization does not exempt one from social responsibility.
+wbw:
+  yadi | if
+  hy ahaṃ | indeed I
+  na varteyam | were not to engage
+  jātu karmany atandritaḥ | ever in action without laziness
+  mama vartmā | my path
+  anuvartante | 3rd pl. | would follow
+  manuṣyāḥ | nom. pl. | people
+  pārtha | voc. | O Arjuna
+  sarvaśaḥ | adv. | in all ways
+---
+# 3.24
+short: These worlds would fall into ruin if I did not act; I would be the cause of disorder, and I would destroy these people.
+long: The consequences of the enlightened person's inaction are catastrophic for others. "Saṅkarasya ca kartā syām" — I would be the cause of disorder (saṅkara = mixing/confusion of duties and social order). "Upahanyām imāḥ prajāḥ" — I would destroy these people. Kṛṣṇa's inaction would be an act of destruction. This is the cosmic responsibility of wisdom: those who know must act, for the sake of those who do not yet know.
+wbw:
+  utsīdeyur | 3rd pl. opt. | would fall into ruin
+  ime lokāḥ | nom. pl. | these worlds
+  na kuryāṃ | were I not to do
+  karma | acc. | action
+  cet | conj. | if
+  aham | nom. | I
+  saṃkarasya | gen. | of disorder
+  ca | conj. | and
+  kartā syām | I would be the cause
+  upahanyām | 1st sg. opt. | I would destroy
+  imāḥ prajāḥ | acc. pl. | these people
+---
+# 3.25
+short: Just as the ignorant act with attachment to action, O Arjuna, so the wise should act without attachment, wishing to maintain the welfare of the world.
+long: The model for the wise person: do exactly what the ordinary person does externally, but with a different inner orientation. The unwise act from attachment (sakta); the wise act without attachment (asakta), from care for the world (lokasaṃgraham). The action looks the same from outside; only the motivation differs. This is the Gītā's answer to the question: why do the enlightened continue to act?
+wbw:
+  saktāḥ | nom. pl. | those who are attached
+  karmaṇy | loc. | in action
+  avidvāṃso | nom. pl. | the unwise
+  yathā | just as
+  kurvanti | 3rd pl. | act
+  bhārata | voc. | O Bhārata
+  kuryāt | 3rd sg. opt. | should act
+  tathā | so also
+  vidvān | nom. | the wise one
+  asaktaḥ | nom. | without attachment
+  cikīrṣuḥ | nom. | wishing to do
+  loka-saṃgraham | acc. | welfare of the world
+---
+# 3.26
+short: The wise should not unsettle the minds of the ignorant who are attached to action; the wise, engaged in all actions, should cause others to perform them.
+long: A subtle and important instruction: don't disturb the ignorant by challenging their attachment to action. They cannot suddenly drop attachment and act freely — that would lead to confused inaction. Instead, the wise person models right action while the ignorant watch and gradually learn. The teacher does not confuse; the teacher leads by example in a way that guides without uprooting.
+wbw:
+  na | neg. | not
+  buddhi-bhedam | acc. | confusion of understanding
+  janayed | 3rd sg. opt. | should cause
+  ajñānāṃ | gen. pl. | of the ignorant
+  karma-saṅginām | gen. pl. | who are attached to action
+  joṣayet | 3rd sg. opt. | should cause to be engaged
+  sarva-karmāṇi | acc. pl. | all actions
+  vidvān | nom. | the wise one
+  yuktaḥ | nom. | engaged
+  samācaran | pres. part. | performing
+---
+# 3.27
+short: All actions are performed by the qualities of nature. But one deluded by ego thinks "I am the doer."
+long: The metaphysical basis of non-attachment: in reality, it is the guṇas (qualities of prakṛti/nature) that act. The ego (ahaṃkāra) falsely claims "I am doing this." The wise person sees through this claim. This shifts the question: who is really acting? Not the true Self, but the guṇas playing themselves out through the body-mind. The Self watches without being the doer.
+wbw:
+  prakṛteḥ | gen. | of nature
+  kriyamāṇāni | nom. pl. pass. | being performed
+  guṇaiḥ | instr. pl. | by the qualities
+  karmāṇi | nom. pl. | actions
+  sarvaśaḥ | adv. | in all ways
+  ahaṅkāra-vimūḍhātmā | nom. | one whose self is deluded by ego
+  kartā | nom. | doer
+  aham | nom. | I
+  iti | iti | thus
+  manyate | 3rd sg. | thinks
+---
+# 3.28
+short: But one who knows the truth about the division of qualities and actions, O mighty-armed, understanding that the qualities move among the qualities, is not attached.
+long: The knowing person (tattva-vit) understands that guṇas interact with guṇas — the senses (which are guṇas) encounter sense-objects (also guṇas); the mind (guṇa) processes experiences. None of this involves the true Self. Understanding this, the wise person does not attach themselves to the outcomes. They watch the guṇa-play without claiming ownership of it.
+wbw:
+  tattva-vit | nom. | knower of truth
+  tu | particle | but
+  mahābāho | voc. | O mighty-armed
+  guṇa-karma-vibhāgayoḥ | gen. dual | of the division of qualities and actions
+  guṇā guṇeṣu | qualities among qualities
+  vartanta | 3rd pl. | move/operate
+  iti | iti | thus
+  matvā | gerund | thinking/understanding
+  na sajjate | is not attached
+---
+# 3.29
+short: Those deluded by the qualities of nature become attached to the actions of those qualities. The person of perfect knowledge should not disturb these fools of imperfect knowledge.
+long: The same principle as verse 3.26 but from the metaphysical angle: people of limited understanding are naturally attached to the guṇa-driven actions — that is their level. The fully knowing person (kṛtsna-vit) should not disturb (na vicālayet) these people of partial knowledge (manda-kṛtsna-vit). Lead them gently, not by ripping away their framework.
+wbw:
+  prakṛteḥ | gen. | of nature
+  guṇa-sammūḍhāḥ | nom. pl. | those deluded by the qualities of nature
+  sajjante | 3rd pl. | become attached
+  guṇa-karmasu | loc. pl. | to the actions of the qualities
+  tān akṛtsnavido | those of imperfect knowledge
+  mandān | acc. pl. | fools/slow ones
+  kṛtsnavit | nom. | one of complete knowledge
+  na vicālayet | should not disturb
+---
+# 3.30
+short: Dedicating all actions to Me, with mind intent on the Self, free from hope and egoism, and free from mental agitation — fight.
+long: A concise summary of the entire Karma Yoga framework: mayi (in Me, to Me), sarvāṇi karmāṇi (all actions), saṃnyasya (dedicated/renounced), adhyātma-cetasā (with mind fixed on the Self), nirāśīḥ (without hope/desire for fruit), nirmama (without mine-ness), vigata-jvaraḥ (without fever/agitation). Then — yudhyasva. Fight. The synthesis is complete.
+wbw:
+  mayi | loc. | in me/to Me
+  sarvāṇi | acc. pl. | all
+  karmāṇi | acc. pl. | actions
+  saṃnyasya | gerund | having dedicated/renounced
+  adhyātma-cetasā | instr. | with mind fixed on the Self
+  nirāśīr | nom. | without desire/hope
+  nirmamo | nom. | without mine-ness
+  bhūtvā | gerund | having become
+  yudhyasva | 2nd sg. imper. | fight
+  vigata-jvaraḥ | nom. | free from agitation/fever
+---
+# 3.31
+short: Those who constantly follow this teaching of Mine with faith and without envy — they are freed from the bondage of actions.
+long: The promise to those who follow this teaching: mucyante te'pi karmabhiḥ — they too are freed from karma bondage. "Śraddhāvanto" — with faith. "Anasūyantaḥ" — without envy (toward Kṛṣṇa's teaching or toward others who practice it). Faith is not blind belief but an openness to the teaching that precedes full comprehension. The path is available to all.
+wbw:
+  ye | rel. pl. | those who
+  me | gen. | my
+  matam | acc. | teaching/view
+  idam | acc. | this
+  nityam | adv. | always/constantly
+  anutiṣṭhanti | 3rd pl. | follow
+  mānavāḥ | nom. pl. | people
+  śraddhāvanto | nom. pl. | with faith
+  anasūyanto | nom. pl. | without envy
+  mucyante | 3rd pl. pass. | are freed
+  te'pi | even they
+  karmabhiḥ | instr. pl. | from actions
+---
+# 3.32
+short: But those who, out of envy, do not practice this teaching of Mine and ridicule it — know them to be fools, deluded in all their knowledge, and doomed.
+long: The stark counterpart: those who "anatiṣṭhanto" (don't follow) and "nindanto" (mock) this teaching are declared "sarva-jñāna-vimūḍhān" — deluded in all their knowledge — and "naṣṭān" — ruined/doomed. Envy prevents learning; mockery closes the door. The "knowledge" of the mocker is actually deeper delusion. This is a sharp warning but also psychologically accurate: cynicism is its own prison.
+wbw:
+  ye | rel. pl. | those who
+  tv etad | but this
+  abhyasūyanto | nom. pl. | being envious
+  nānutiṣṭhanti | 3rd pl. neg. | do not follow
+  me matam | my teaching
+  sarva-jñāna-vimūḍhāṃs | acc. pl. | deluded in all knowledge
+  tān | acc. pl. | those
+  viddhi | 2nd sg. imper. | know
+  naṣṭān | acc. pl. | ruined
+  acetasaḥ | acc. pl. | lacking wisdom
+---
+# 3.33
+short: Even a person of knowledge acts in accordance with their own nature; all beings follow their own nature. What will restraint accomplish?
+long: A profound admission of limits: "sadṛśam ceṣṭate svasyāḥ prakṛteḥ" — everyone acts in accordance with their own nature. Even a wise person. Nature (svabhāva, prakṛti) is extraordinarily powerful. What will mere repression (nigraha) accomplish? This verse is not fatalistic — Kṛṣṇa does not say "so don't try." Rather, transformation must go deeper than surface restraint.
+wbw:
+  sadṛśam | adv. | in accordance with
+  ceṣṭate | 3rd sg. | acts/strives
+  svasyāḥ | gen. | of one's own
+  prakṛteḥ | gen. | nature
+  jñānavān | nom. | a person of knowledge
+  api | particle | even
+  bhūtāni | nom. pl. | all beings
+  svām prakṛtim | acc. | their own nature
+  yānti | 3rd pl. | follow/go to
+  nigrahaḥ | nom. | restraint
+  kim | interrog. | what
+  kariṣyati | 3rd sg. fut. | will accomplish
+---
+# 3.34
+short: Attraction and aversion are fixed with regard to the sense-objects of each sense. One should not come under the power of these two — they are, indeed, one's enemies.
+long: The two primal pulls — rāga (attraction/desire) and dveṣa (aversion/hatred) — are seated in the sensory apparatus. They are like permanent fixtures, arising automatically. But the instruction is not to surrender to them — "na vaśam āgacchet" — do not fall under their control. They are enemies (paripanthinau). Understanding them as enemies does not mean fighting them blindly but not submitting to their automatic dominion.
+wbw:
+  indriyasyendriyasyārthe | loc. | in the sense-object of each sense
+  rāgadveṣau | nom. dual | attraction and aversion
+  vyavasthitau | nom. dual | fixed/established
+  tayor na vaśam āgacchet | should not come under the power of those two
+  tau hy asya | for those are its
+  paripanthinau | nom. dual | enemies/obstacles
+---
+# 3.35
+short: Better is one's own duty, though imperfectly performed, than the duty of another even if well performed. Death in performing one's own duty is preferable; the duty of another is fraught with danger.
+long: The celebrated svadharma principle: performing one's own duty imperfectly (svanuṣṭhitat) is better than performing another's duty perfectly (su-anuṣṭhitat). "Paradharmā bhayāvahaḥ" — another's duty is fraught with fear/danger. This applies to Arjuna directly: his dharma is that of a warrior, not a scholar or renunciant. Attempting to adopt another's role (even a "higher" one) without the nature to sustain it leads to failure and loss.
+wbw:
+  śreyān | comparative nom. | better
+  sva-dharmaḥ | nom. | one's own duty
+  viguṇaḥ | nom. | imperfect/deficient
+  para-dharmāt | abl. | than another's duty
+  svananuṣṭhitāt | abl. | though imperfectly performed
+  svadharmī nidhanaṃ | death in one's own duty
+  śreyaḥ | nom. | better
+  para-dharmaḥ | nom. | another's duty
+  bhayāvahaḥ | nom. | fraught with danger
+---
+# 3.36
+short: Arjuna said: O Kṛṣṇa, by what is a person impelled to commit sin, even against their will, as if constrained by force?
+long: The deepest practical question: even knowing what is right, why do people do wrong? Arjuna identifies the compulsive quality of sinful action — "balāt iva" — as if by force. This is the psychology of the person who knows better but cannot help themselves. Kṛṣṇa's answer will name the enemy precisely.
+wbw:
+  arjuna uvāca | Arjuna said
+  atha | then
+  kena | instr. | by what
+  prayuktaḥ | nom. | impelled
+  ayam | nom. | this person
+  pāpam | acc. | sin
+  carati | 3rd sg. | commits
+  pūruṣaḥ | nom. | person
+  anicchann | nom. pres. part. | even without wishing
+  api | particle | even
+  vārṣṇeya | voc. | O Vārṣṇeya (Kṛṣṇa)
+  balāt iva | as if by force
+  niyojitaḥ | nom. | constrained
+---
+# 3.37
+short: The Blessed Lord said: It is desire, it is anger, born of the quality of rajas — all-consuming and most sinful; know this to be the enemy in this world.
+long: The enemy named: kāma (desire) and its frustrated form krodha (anger), both born of rajas (the quality of passion, activity). "Mahāśano mahāpāpmā" — all-consuming and the great sinner. This is the force that drives people to act against their better judgment. Not external circumstances, not other people — the internal drive of desire is the root enemy. Kṛṣṇa will go on to describe how to recognize and deal with it.
+wbw:
+  kāmaḥ | nom. | desire
+  eṣa | nom. | this
+  krodhaḥ | nom. | anger
+  eṣa | nom. | this
+  rajo-guṇa-samudbhavaḥ | nom. | born of the quality of passion
+  mahā-śanaḥ | nom. | all-consuming
+  mahā-pāpmā | nom. | most sinful
+  viddhy | 2nd sg. imper. | know
+  enam | acc. | this
+  iha | adv. | here
+  vairiṇam | acc. | enemy
+---
+# 3.38
+short: As fire is enveloped by smoke, as a mirror by dust, and as an embryo by the womb, so is knowledge enveloped by this (desire).
+long: Three analogies for how desire (kāma) veils knowledge (jñāna): smoke veils fire (they coexist but the fire is obscured); dust veils a mirror (the reflective capacity is blocked); the womb envelops the embryo (the child is enclosed). The analogies suggest different degrees of concealment. Desire doesn't destroy knowledge — it covers it. The covering can be removed. This is the basis for hope in spiritual practice.
+wbw:
+  dhūmenā | instr. | by smoke
+  āvriyate | 3rd sg. pass. | is enveloped
+  vahniḥ | nom. | fire
+  yathā | just as
+  ādarśo | nom. | mirror
+  malena ca | and by dust/dirt
+  yathol-benāvṛtaḥ | just as an embryo by the womb
+  garbhas | nom. | embryo
+  tathā | so also
+  tenedam | by that this
+  āvṛtam | nom. | is enveloped
+---
+# 3.39
+short: O son of Kuntī, by this constant enemy in the form of desire, knowledge is covered — and this fire of desire is difficult to satisfy.
+long: The enemy is persistent: it is nityavairiṇā — the eternal enemy, not a one-time attacker. And it is described as kāma-rūpa (in the form of desire), durniveśa (difficult to be content, insatiable). The fire of desire grows with feeding. Knowledge (jñāna) — the counter-weapon — is covered by this insatiable force. The practitioner must understand the depth of the enemy before developing the counterforce.
+wbw:
+  āvṛtam | nom. | covered
+  jñānam | nom. | knowledge
+  etena | instr. | by this
+  jñānino | gen. | of the knower
+  nitya-vairiṇā | instr. | by the eternal enemy
+  kāma-rūpeṇa | instr. | in the form of desire
+  kaunteya | voc. | O son of Kuntī
+  durniveśena | instr. | by what is difficult to satisfy/fill
+  analena | instr. | by fire
+  ca | conj. | and
+---
+# 3.40
+short: The senses, the mind, and the intellect are said to be the seat of this desire. Through these it deludes the embodied soul by veiling knowledge.
+long: Where does desire live? In the indriyāṇi (senses), manas (mind), and buddhi (intellect). All three levels of the person are infiltrated. Desire works bottom-up (senses) and top-down (intellect), enveloping the entire personality. "Etair vimohayaty eṣa" — through these it deludes. The embodied soul (dehinam) is deluded by its own apparatus being captured by kāma.
+wbw:
+  indriyāṇi | nom. pl. | the senses
+  manaḥ | nom. | mind
+  buddhiḥ | nom. | intellect
+  asyādhiṣṭhānam | nom. | the seat of this
+  ucyate | 3rd sg. pass. | is said
+  etair | instr. pl. | through these
+  vimohayaty | 3rd sg. | deludes
+  eṣa | nom. | this (desire)
+  jñānam | acc. | knowledge
+  āvṛtya | gerund | having veiled
+  dehinam | acc. | the embodied soul
+---
+# 3.41
+short: Therefore, O Arjuna, having first controlled the senses, slay this destroyer of knowledge and discrimination.
+long: The action prescription: begin with the senses (indriyāṇi), regulate them first, then engage the enemy at the level of mind and intellect. This enemy (pāpmānam) is the destroyer (prajñāhīna — destructive of discrimination). Slay it — "prajahi" — overcome it. This language of warfare is intentional: kāma must be actively engaged and overcome, not just philosophically understood.
+wbw:
+  tasmāt | abl. | therefore
+  tvam | nom. | you
+  indriyāṇy | acc. pl. | the senses
+  ādau | adv. | first
+  niyamya | gerund | having controlled
+  bharatarṣabha | voc. | O best of Bharatas
+  pāpmānam | acc. | the sinful one (desire)
+  prajahi | 2nd sg. imper. | slay/overcome
+  hy enam | this one indeed
+  jñāna-vijñāna-nāśanam | acc. | destroyer of knowledge and discrimination
+---
+# 3.42
+short: They say the senses are superior to the sense-objects; the mind is superior to the senses; the intellect is superior to the mind; but higher than the intellect is the Self.
+long: A hierarchy of faculties: viṣaya (sense-objects) < indriyāṇi (senses) < manaḥ (mind) < buddhiḥ (intellect) < ātmā (Self). Each level has power to govern the level below it. The strategy against kāma follows this hierarchy — regulate the senses with the mind, regulate the mind with the intellect, and ultimately, establish the intellect in the Self. The battle has a strategy.
+wbw:
+  indriyāṇi | nom. pl. | the senses
+  parāṇy | nom. pl. | superior
+  āhur | 3rd pl. perf. | they say
+  indriyebhyaḥ | abl. pl. | than the senses
+  paraṃ | nom. | superior
+  manaḥ | nom. | mind
+  manasas tu | but than the mind
+  parā | nom. | superior
+  buddhiḥ | nom. | intellect
+  yo buddheḥ | than what of intellect
+  parataḥ | nom. | superior
+  tu saḥ | is that one (the Self)
+---
+# 3.43
+short: Thus knowing the Self to be higher than the intellect, O mighty-armed, strengthen the lower self by the higher self, and slay the enemy in the form of desire, which is so difficult to conquer.
+long: The culminating instruction of chapter 3: knowing the Self (Ātman) to be higher than even the buddhi (intellect), use the buddhi (the higher self that reflects the Ātman) to regulate the lower self (the personality driven by kāma). "Jahi śatrum" — slay this enemy. "Mahābāho" — the mighty-armed one — is reminded that the real battle is internal. The weapons are wisdom and self-governance, not swords.
+wbw:
+  evam | adv. | thus
+  buddhiḥ | nom. | intellect
+  parataḥ | abl. | than which is higher
+  jñātvā | gerund | having known
+  saṃstabhyā | gerund | having strengthened
+  ātmānam | acc. | the lower self
+  ātmanā | instr. | by the higher Self
+  jahi | 2nd sg. imper. | slay
+  śatrum | acc. | enemy
+  mahābāho | voc. | O mighty-armed
+  kāma-rūpaṃ | acc. | in the form of desire
+  durāsadam | acc. | difficult to conquer
+---

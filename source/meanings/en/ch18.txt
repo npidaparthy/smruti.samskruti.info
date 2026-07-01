@@ -1,0 +1,702 @@
+# 18.1
+short: Arjuna said — O mighty-armed, I wish to know separately the truth of sannyāsa and of tyāga, O Hṛṣīkeśa, O Keśiniṣūdana.
+long: The final chapter opens with Arjuna asking for the distinction between two terms that have appeared throughout: sannyāsa (renunciation — typically of action itself) and tyāga (relinquishment — of the fruits of action). These two Sanskrit words are easy to conflate but signify different practices. The Gītā's answer will clarify: tyāga of fruits while performing action is the true teaching; outright abandonment of all action (sannyāsa) is typically impractical. This sets up the chapter's major review of all prior teachings, culminating in the Gītā's ultimate message.
+wbw:
+  sannyāsasya mahābāho | phrase | of sannyāsa, O mighty-armed
+  tattvam icchāmi veditum | phrase | I wish to know the truth
+  tyāgasya ca hṛṣīkeśa | phrase | and of tyāga, O Hṛṣīkeśa
+  pṛthak keśiniṣūdana | phrase | separately, O Keśiniṣūdana
+---
+# 18.2
+short: The Lord said — Sages understand sannyāsa as the giving up of desire-motivated actions; the wise declare the relinquishment of all action's fruits to be tyāga.
+long: "Kāmyānāṃ karmaṇāṃ nyāsaṃ sannyāsaṃ kavayo viduḥ / sarva-karma-phala-tyāgaṃ prāhus tyāgaṃ vicakṣaṇāḥ." Sannyāsa (per the sages): "kāmyānāṃ karmaṇāṃ nyāsam" — the giving up (nyāsa) of kāmya-karmas (actions motivated by desire). Tyāga (per the wise): "sarva-karma-phala-tyāgam" — relinquishment (tyāga) of the fruits (phala) of all actions. This distinction is important: sannyāsa means not performing desire-driven actions; tyāga means performing all actions while releasing attachment to their results. The latter is the Gītā's teaching from chapters 2-3.
+wbw:
+  kāmyānāṃ karmaṇāṃ nyāsam | phrase | the giving up of desire-motivated actions
+  sannyāsaṃ kavayo viduḥ | phrase | sages understand as sannyāsa
+  sarva-karma-phala-tyāgam | phrase | the relinquishment of all action's fruits
+  prāhus tyāgaṃ vicakṣaṇāḥ | phrase | the wise declare to be tyāga
+---
+# 18.3
+short: "Action should be abandoned as evil," say some thinkers. "Sacrifice, giving, and austerity are not to be abandoned," say others.
+long: "Tyājyaṃ doṣavad ity eke karma prāhur manīṣiṇaḥ / yajña-dāna-tapaḥ-karma na tyājyam iti cāpare." Two opposing views among thinkers: (1) "Tyājyaṃ doṣavad ity eke" — "action should be abandoned as flawed" — these are those who advocate total renunciation (action as inherently binding). (2) "Yajña-dāna-tapaḥ-karma na tyājyam" — "sacrifice, giving, and austerity should not be abandoned" — those who insist certain obligatory actions must be maintained. Krishna will give his own resolution to this debate in the following verses.
+wbw:
+  tyājyaṃ doṣavad ity eke | phrase | "to be abandoned as flawed," say some
+  karma prāhur manīṣiṇaḥ | phrase | thinkers say about action
+  yajña-dāna-tapaḥ-karma | compound | sacrifice, giving, and austerity
+  na tyājyam iti cāpare | phrase | "not to be abandoned," say others
+---
+# 18.4
+short: Hear My conclusion about tyāga, O best of Bhāratas — for tyāga has been declared threefold, O tiger among men.
+long: "Niścayaṃ śṛṇu me tatra tyāge bharata-sattama / tyāgo hi puruṣa-vyāghra tri-vidhaḥ samprakīrtitaḥ." "Niścayaṃ śṛṇu me" — hear My conclusion/determination. "Tatra tyāge" — on the matter of tyāga. "Tri-vidhaḥ samprakīrtitaḥ" — tyāga has been declared threefold. As with food (17.8-10), sacrifice (17.11-13), austerity (17.14-19), and giving (17.20-22), tyāga too is analyzed through the three guṇas. Krishna's position will be: sattvic tyāga (fruit-renunciation while performing action) is the right answer, and outright abandonment of obligatory action is tamasic.
+wbw:
+  niścayaṃ śṛṇu me tatra | phrase | hear My conclusion on that matter
+  tyāge bharata-sattama | phrase | concerning tyāga, O best of Bhāratas
+  tyāgo hi puruṣa-vyāghra | phrase | for tyāga, O tiger among men
+  tri-vidhaḥ samprakīrtitaḥ | phrase | has been declared threefold
+---
+# 18.5
+short: Acts of sacrifice, giving, and austerity are not to be abandoned — they should be performed. Sacrifice, giving, and austerity purify the wise.
+long: "Yajña-dāna-tapaḥ-karma na tyājyaṃ kāryam eva tat / yajño dānaṃ tapaś caiva pāvanāni manīṣiṇām." "Yajña-dāna-tapaḥ-karma na tyājyam" — sacrifice, giving, and austerity are not to be abandoned. "Kāryam eva tat" — they must be performed (kārya — what is to be done). "Yajño dānaṃ tapaś caiva pāvanāni manīṣiṇām" — sacrifice, giving, and austerity are purifiers (pāvanāni) of the wise. These three are not optional religious extras — they are the karmas that purify consciousness. Abandoning them (in the name of "renunciation") is the wrong understanding of tyāga.
+wbw:
+  yajña-dāna-tapaḥ-karma | compound | sacrifice, giving, and austerity
+  na tyājyaṃ kāryam eva tat | phrase | not to be abandoned — they must be performed
+  yajño dānaṃ tapaś caiva | phrase | sacrifice, giving, and austerity also
+  pāvanāni manīṣiṇām | phrase | are purifiers of the wise
+---
+# 18.6
+short: Even these actions should be performed, abandoning attachment and fruits. That is My final and definite view, O Pārtha.
+long: "Etāny api tu karmāṇi saṅgaṃ tyaktvā phalāni ca / kartavyānīti me pārtha niścitaṃ matam uttamam." "Etāny api tu karmāṇi" — even these actions (sacrifice, giving, austerity). "Saṅgaṃ tyaktvā phalāni ca" — abandoning saṅga (attachment) and phalāni (fruits). "Kartavyāni" — must be performed (kartavya — what is to be done, duty). "Iti me pārtha niścitaṃ matam uttamam" — this is My settled (niścitam), highest (uttamam) opinion. The formula is the heart of karma-yoga: perform all obligatory action, release attachment and outcomes, keep performing.
+wbw:
+  etāny api tu karmāṇi | phrase | even these actions
+  saṅgaṃ tyaktvā phalāni ca | phrase | abandoning attachment and fruits
+  kartavyānīti me pārtha | phrase | must be performed — this is My view, O Pārtha
+  niścitaṃ matam uttamam | phrase | settled, highest opinion
+---
+# 18.7
+short: The giving up of a prescribed action is not proper. Its abandonment through delusion is declared to be tamasic.
+long: "Niyatasya tu sannyāsaḥ karmaṇo nopapadyate / mohāt tasya parityāgas tāmasaḥ parikīrtitaḥ." "Niyatasya tu sannyāsaḥ karmaṇaḥ" — the giving up of niyata (prescribed, obligatory) action. "Nopapadyate" — is not proper/is not acceptable. "Mohāt tasya parityāgaḥ" — its abandonment through moha (delusion). "Tāmasaḥ parikīrtitaḥ" — declared to be tamasic. The delusion referred to: believing that obligatory action is inherently bad, or that complete inaction is spiritually purer than right action. Tamasic tyāga = abandoning duty from confusion about what is truly "renunciation."
+wbw:
+  niyatasya tu sannyāsaḥ | phrase | the abandonment of prescribed action
+  karmaṇo nopapadyate | phrase | is not proper
+  mohāt tasya parityāgaḥ | phrase | its abandonment through delusion
+  tāmasaḥ parikīrtitaḥ | phrase | is declared tamasic
+---
+# 18.8
+short: "This action is painful, this is bodily distress" — one who abandons action from this reasoning performs rajasic tyāga. He does not gain the fruit of tyāga.
+long: "Duḥkham ity eva yat karma kāya-kleśa-bhayāt tyajet / sa kṛtvā rājasaṃ tyāgaṃ naiva tyāga-phalaṃ labhet." "Duḥkham ity eva yat karma" — whatever action is thought to be painful. "Kāya-kleśa-bhayāt tyajet" — abandoned from fear of bodily distress (kāya-kleśa). This is rajasic tyāga: abandoning action not from wisdom but from discomfort — "this is too hard, too painful, too inconvenient." "Sa kṛtvā rājasaṃ tyāgam" — having performed rajasic tyāga. "Naiva tyāga-phalaṃ labhet" — does not gain the fruit of tyāga. Avoiding effort is not renunciation — it's just avoidance.
+wbw:
+  duḥkham ity eva yat karma | phrase | whatever action is (thought to be) painful
+  kāya-kleśa-bhayāt tyajet | phrase | abandoned from fear of bodily distress
+  sa kṛtvā rājasaṃ tyāgam | phrase | having performed rajasic tyāga
+  naiva tyāga-phalaṃ labhet | phrase | does not gain the fruit of tyāga
+---
+# 18.9
+short: When prescribed action is performed — thinking "this must be done" — abandoning attachment and fruit — that tyāga is held to be sattvic.
+long: "Kāryam ity eva yat karma niyataṃ kriyate'rjuna / saṅgaṃ tyaktvā phalaṃ caiva sa tyāgaḥ sāttviko mataḥ." "Kāryam ity eva yat karma" — whatever action is performed with the sense "this must be done." "Niyataṃ kriyate" — prescribed action performed. "Saṅgaṃ tyaktvā phalaṃ caiva" — abandoning attachment and fruit. "Sa tyāgaḥ sāttviko mataḥ" — that tyāga is held as sattvic. This is the resolution: sattvic tyāga is not abandonment of action — it is action performed dutifully with the abandonment of attachment and results. This is the Gītā's karma-yoga distilled.
+wbw:
+  kāryam ity eva yat karma | phrase | whatever action is performed as "this must be done"
+  niyataṃ kriyate'rjuna | phrase | prescribed action performed, O Arjuna
+  saṅgaṃ tyaktvā phalaṃ caiva | phrase | abandoning attachment and fruit also
+  sa tyāgaḥ sāttviko mataḥ | phrase | that tyāga is held to be sattvic
+---
+# 18.10
+short: One of tyāga who is sattvic, who has no doubt — neither hates unpleasant action nor is attached to pleasant action.
+long: "Na dveṣṭy akuśalaṃ karma kuśale nānuṣajjate / tyāgī sattva-samāviṣṭo medhāvī chinna-saṃśayaḥ." "Na dveṣṭy akuśalaṃ karma" — does not hate unpleasant/difficult action. "Kuśale nānuṣajjate" — nor becomes attached to pleasant/skillful action. "Tyāgī sattva-samāviṣṭaḥ" — the tyāgī (one who has truly renounced) who is pervaded by sattva. "Medhāvī chinna-saṃśayaḥ" — intelligent, with doubts cut away. The sattvic tyāgī has equanimity toward action itself — not drawn to agreeable tasks or repelled by disagreeable ones. Action is performed based on what is right, not what is comfortable.
+wbw:
+  na dveṣṭy akuśalaṃ karma | phrase | does not hate unpleasant action
+  kuśale nānuṣajjate | phrase | nor is attached to pleasant action
+  tyāgī sattva-samāviṣṭaḥ | phrase | the renouncer pervaded by sattva
+  medhāvī chinna-saṃśayaḥ | phrase | intelligent, with doubts cut away
+---
+# 18.11
+short: For an embodied being, it is not possible to completely abandon action. But one who abandons the fruit of action — that one is called a tyāgī.
+long: "Na hi deha-bhṛtā śakyaṃ tyaktuṃ karmāṇy aśeṣataḥ / yas tu karma-phala-tyāgī sa tyāgīty abhidhīyate." "Na hi deha-bhṛtā śakyaṃ tyaktuṃ karmāṇy aśeṣataḥ" — for an embodied being (deha-bhṛt — one who bears a body), it is not possible to abandon all action completely (aśeṣataḥ — without remainder). As long as one has a body, one acts — breathing, eating, thinking are all action. "Yas tu karma-phala-tyāgī" — but one who abandons the fruits of action. "Sa tyāgīty abhidhīyate" — that one is called a tyāgī. The practical definition of renunciation: not actionlessness but fruit-renunciation.
+wbw:
+  na hi deha-bhṛtā śakyam | phrase | for an embodied being it is not possible
+  tyaktuṃ karmāṇy aśeṣataḥ | phrase | to abandon actions completely
+  yas tu karma-phala-tyāgī | phrase | but one who abandons the fruits of action
+  sa tyāgīty abhidhīyate | phrase | that one is called a tyāgī
+---
+# 18.12
+short: Desirable, undesirable, and mixed — these three kinds of fruits of action come to the non-relinquisher after death. But none at all for the sannyāsī.
+long: "Aniṣṭam iṣṭaṃ miśraṃ ca tri-vidhaṃ karmaṇaḥ phalam / bhavaty atyāgināṃ pretya na tu sannyāsinām kvacit." Three kinds of fruits come "pretya" (after death) to those who have not renounced: "aniṣṭam" (undesirable), "iṣṭam" (desirable), "miśram" (mixed). "Bhavaty atyāgināṃ pretya" — comes to non-relinquishers after death. "Na tu sannyāsinām kvacit" — but for the sannyāsī (here meaning the true fruit-renouncer), none at all. The mechanism of karma: accumulated fruit-desire generates future existences. The fruit-renouncer breaks this chain.
+wbw:
+  aniṣṭam iṣṭaṃ miśraṃ ca | phrase | undesirable, desirable, and mixed
+  tri-vidhaṃ karmaṇaḥ phalam | phrase | the threefold fruit of action
+  bhavaty atyāgināṃ pretya | phrase | comes to non-relinquishers after death
+  na tu sannyāsinām kvacit | phrase | but for the sannyāsī, none at all
+---
+# 18.13
+short: O mighty-armed, learn from Me these five factors declared in Sāṃkhya for the accomplishment of all actions —
+long: "Pañcaitāni mahābāho kāraṇāni nibodha me / sāṃkhye kṛtānte proktāni siddhaye sarva-karmaṇām." (18.14 continues) Krishna now turns to a Sāṃkhya analysis of action. "Pañcaitāni" — these five. "Kāraṇāni" — causes/factors. "Nibodha me" — learn from Me. "Sāṃkhye kṛtānte" — as declared in the Sāṃkhya teaching (the systematic philosophical analysis). "Proktāni siddhaye sarva-karmaṇām" — declared for the accomplishment/completion of all actions. This five-factor analysis of action (18.14) will provide the philosophical basis for the next major teaching: the one who thinks "I am the sole doer" misunderstands causation.
+wbw:
+  pañcaitāni mahābāho | phrase | these five, O mighty-armed
+  kāraṇāni nibodha me | phrase | factors — learn from Me
+  sāṃkhye kṛtānte proktāni | phrase | declared in the Sāṃkhya teaching
+  siddhaye sarva-karmaṇām | phrase | for the accomplishment of all actions
+---
+# 18.14
+short: The basis, the agent, the instruments of various kinds, the many distinct motions, and the divine as the fifth —
+long: "Adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthag-vidham / vividhāś ca pṛthak ceṣṭā daivaṃ caivātra pañcamam." The five factors of action: (1) "Adhiṣṭhānam" — the basis/locus (the body as the field of action). (2) "Kartā" — the agent (the individual ego-sense, the one who thinks it acts). (3) "Karaṇaṃ ca pṛthag-vidham" — the instruments of various kinds (the senses, both cognitive and active, along with the mind). (4) "Vividhāś ca pṛthak ceṣṭāḥ" — the many distinct movements/functions (the physiological life-functions, prāṇa). (5) "Daivam... pañcamam" — the divine as the fifth (fate, prior karma, the cosmic factor).
+wbw:
+  adhiṣṭhānaṃ tathā kartā | phrase | the basis and also the agent
+  karaṇaṃ ca pṛthag-vidham | phrase | and the instruments of various kinds
+  vividhāś ca pṛthak ceṣṭāḥ | phrase | and the many distinct movements
+  daivaṃ caivātra pañcamam | phrase | and the divine here as the fifth
+---
+# 18.15
+short: Whatever action a person performs with body, speech, and mind — whether right or wrong — these five are its causes.
+long: "Śarīra-vāṅ-manobhir yat karma prārabhate naraḥ / nyāyyaṃ vā viparītaṃ vā pañcaite tasya hetavaḥ." "Śarīra-vāṅ-manobhiḥ" — with body, speech, and mind. "Yat karma prārabhate naraḥ" — whatever action a person undertakes. "Nyāyyaṃ vā viparītaṃ vā" — whether righteous (nyāyya) or its opposite (viparīta — wrong, contrary to dharma). "Pañcaite tasya hetavaḥ" — these five (from 18.14) are its causes. The scope is total: every action, whether dharmic or adharmic, is produced by the interaction of these five factors. None is caused by the individual ego-agent alone.
+wbw:
+  śarīra-vāṅ-manobhir yat | phrase | with body, speech, and mind whatever
+  karma prārabhate naraḥ | phrase | action a person undertakes
+  nyāyyaṃ vā viparītaṃ vā | phrase | whether righteous or its opposite
+  pañcaite tasya hetavaḥ | phrase | these five are its causes
+---
+# 18.16
+short: This being so — one who sees the isolated self as the agent — that person, of distorted understanding, does not see clearly.
+long: "Tatraivaṃ sati kartāram ātmānaṃ kevalaṃ tu yaḥ / paśyaty akṛta-buddhitvān na sa paśyati durmatiḥ." "Tatra evaṃ sati" — this being so (given the five-factor analysis). "Kartāram ātmānaṃ kevalam" — seeing the self (ātman) as the sole (kevala) agent. "Tu yaḥ paśyati" — the one who sees thus. "Akṛta-buddhitvāt" — due to incomplete/immature understanding (akṛta — unmade/incomplete). "Na sa paśyati durmatiḥ" — that person of distorted mind does not truly see. The philosophical point: claiming sole authorship of action ignores the five-factor causation. The sense of "I am the doer" is an over-simplification that creates bondage.
+wbw:
+  tatraivaṃ sati kartāram | phrase | this being so, the agent
+  ātmānaṃ kevalaṃ tu yaḥ | phrase | the self alone, who
+  paśyaty akṛta-buddhitvāt | phrase | sees, due to incomplete understanding
+  na sa paśyati durmatiḥ | phrase | that distorted-minded person does not truly see
+---
+# 18.17
+short: One whose nature is free from the ego-notion "I am the doer" — whose understanding is not stained — even if he slays these people, he does not slay and is not bound.
+long: "Yasya nāhaṃkṛto bhāvo buddhir yasya na lipyate / hatvāpi sa imāl lokān na hanti na nibadhyate." "Yasya nāhaṃkṛto bhāvo" — one whose nature is free from the ahaṃkāra-driven sense of "I am the doer" (ahaṃ-kṛta — "I made/did"). "Buddhir yasya na lipyate" — whose understanding is not tainted/stained. "Hatvāpi sa imāl lokān" — even if he slays all these people. "Na hanti na nibadhyate" — he does not slay and is not bound. The radical statement: action performed without ahaṃkāra (the sense of personal doership) does not create karma-bondage. This is the philosophical underpinning of all of Krishna's earlier "fight, but don't identify with fighting."
+wbw:
+  yasya nāhaṃkṛto bhāvaḥ | phrase | one whose nature is free from "I am the doer"
+  buddhir yasya na lipyate | phrase | whose understanding is not stained
+  hatvāpi sa imāl lokān | phrase | even if he slays all these people
+  na hanti na nibadhyate | phrase | he does not slay and is not bound
+---
+# 18.18
+short: Knowledge, the object of knowledge, and the knower — these are the threefold impulse to action. The instrument, the action, and the agent — these are the threefold foundation of action.
+long: "Jñānaṃ jñeyaṃ parijñātā tri-vidhā karma-codanā / karaṇaṃ karma karteti tri-vidhaḥ karma-saṃgrahaḥ." "Jñānam jñeyaṃ parijñātā" — knowledge (jñāna), the object of knowledge (jñeya), and the knower (parijñātā). "Tri-vidhā karma-codanā" — the threefold impulse/incentive to action (every action begins with knowing something). "Karaṇam karma kartā" — instrument (the means), the action itself, and the agent. "Tri-vidhaḥ karma-saṃgrahaḥ" — the threefold basis/collection of action. Two triads: the epistemic triad that initiates action (knower-knowing-known), and the practical triad that constitutes action (agent-instrument-action).
+wbw:
+  jñānaṃ jñeyaṃ parijñātā | phrase | knowledge, object of knowledge, and knower
+  tri-vidhā karma-codanā | phrase | the threefold impulse to action
+  karaṇaṃ karma karteti | phrase | instrument, action, and agent
+  tri-vidhaḥ karma-saṃgrahaḥ | phrase | the threefold foundation of action
+---
+# 18.19
+short: Knowledge, action, and the agent — these are declared in Sāṃkhya to be of three kinds, depending on the difference of guṇas. Hear these also completely.
+long: "Jñānaṃ karma ca kartā ca tridhaiva guṇa-bhedataḥ / procyate guṇa-saṃkhyāne yathāvac chṛṇu tāny api." "Jñānam karma ca kartā ca" — knowledge, action, and the agent also. "Tridhaiva guṇa-bhedataḥ" — are threefold, due to the difference in guṇas. "Procyate guṇa-saṃkhyāne" — declared in the Sāṃkhya analysis of the guṇas. "Yathāvac chṛṇu tāny api" — hear these correctly also. More threefold analysis follows: knowledge (18.20-22), action (18.23-25), and agent/doer (18.26-28) — each analyzed by guṇa-type.
+wbw:
+  jñānaṃ karma ca kartā ca | phrase | knowledge, action, and the agent
+  tridhaiva guṇa-bhedataḥ | phrase | are threefold, by the distinction of guṇas
+  procyate guṇa-saṃkhyāne | phrase | declared in the Sāṃkhya of guṇas
+  yathāvac chṛṇu tāny api | phrase | hear these correctly also
+---
+# 18.20
+short: That knowledge by which one sees in all beings the one undivided imperishable — in the divided, the undivided — know that knowledge to be sattvic.
+long: "Sarva-bhūteṣu yenaikaṃ bhāvam avyayam īkṣate / avibhaktaṃ vibhakteṣu taj jñānaṃ viddhi sāttvikam." "Sarva-bhūteṣu yena ekaṃ bhāvam avyayam" — by which one sees one (eka) imperishable (avyaya) being (bhāva) in all beings (sarva-bhūteṣu). "Avibhaktaṃ vibhakteṣu" — the undivided in the divided (seeing unity beneath apparent multiplicity). "Taj jñānaṃ viddhi sāttvikam" — know that knowledge to be sattvic. The sattvic jñāna is the perception of the one Ātman/Brahman running through all apparently separate beings. This is the culminating insight of jñāna-yoga.
+wbw:
+  sarva-bhūteṣu yenaikam | phrase | by which, in all beings, one
+  bhāvam avyayam īkṣate | phrase | imperishable being one sees
+  avibhaktaṃ vibhakteṣu | phrase | undivided in the divided
+  taj jñānaṃ viddhi sāttvikam | phrase | know that knowledge to be sattvic
+---
+# 18.21
+short: Knowledge that sees separately in all beings different entities of different kinds — know that knowledge to be rajasic.
+long: "Pṛthaktvena tu yaj jñānaṃ nānā-bhāvān pṛthag-vidhān / vetti sarveṣu bhūteṣu taj jñānaṃ viddhi rājasam." "Pṛthaktvena tu yaj jñānam" — knowledge that (knows) by separation (pṛthaktva — separateness/distinctness). "Nānā-bhāvān pṛthag-vidhān" — different beings (nānā-bhāva) of different kinds (pṛthag-vidha). "Vetti sarveṣu bhūteṣu" — sees in all beings. "Taj jñānaṃ viddhi rājasam" — know that knowledge to be rajasic. The rajasic knowledge: seeing only the multiplicity and difference — this person's nature, that animal's instinct, this group's characteristics — without perceiving the underlying unity. Valid as far as it goes, but incomplete.
+wbw:
+  pṛthaktvena tu yaj jñānam | phrase | knowledge that (knows) by separation
+  nānā-bhāvān pṛthag-vidhān | phrase | different beings of different kinds
+  vetti sarveṣu bhūteṣu | phrase | (it) sees in all beings
+  taj jñānaṃ viddhi rājasam | phrase | know that knowledge to be rajasic
+---
+# 18.22
+short: But that which clings to one effect as if it were everything — irrational, without grasping the true — trivial — that is declared tamasic.
+long: "Yat tu kṛtsnavad ekasmin kārye saktam ahaitukam / atattvārtha-vad alpaṃ ca tat tāmasam udāhṛtam." "Yat tu kṛtsnavad ekasmin kārye saktam" — what clings (saktam) to one single effect (eka kārya) as if it were everything (kṛtsna-vat — as if complete). "Ahaitukam" — irrational, without reasoning/cause. "Atattvārtha-vat" — not grasping the true meaning (a-tattva-artha — without the truth's meaning). "Alpam ca" — trivial/petty. "Tat tāmasam udāhṛtam" — declared tamasic. Tamasic knowledge: obsessing over one thing without understanding its true nature or its place in the whole — narrow, irrational, clinging.
+wbw:
+  yat tu kṛtsnavad ekasmin | phrase | but what is as-if-everything in one
+  kārye saktam ahaitukam | phrase | effect-clinging, irrational
+  atattvārtha-vad alpaṃ ca | phrase | not grasping the true, trivial
+  tat tāmasam udāhṛtam | phrase | that is declared tamasic
+---
+# 18.23
+short: Regulated action, performed without attachment, without desire and aversion, without craving for fruit — is called sattvic.
+long: "Niyataṃ saṅga-rahitam arāga-dveṣataḥ kṛtam / aphala-prepsunā karma yat tat sāttvikam ucyate." "Niyatam" — regulated/prescribed (niyata — the obligatory duty). "Saṅga-rahitam" — free from attachment. "Arāga-dveṣataḥ kṛtam" — performed without rāga (desire/passion) and dveṣa (aversion). "Aphala-prepsunā" — without craving for fruit (a-phala-prepsu — one who does not seek fruit). "Tat sāttvikam ucyate" — that is called sattvic. The sattvic action: obligation + no attachment + no desire/aversion + no fruit-seeking. This is karma-yoga distilled in one verse.
+wbw:
+  niyataṃ saṅga-rahitam | phrase | regulated, free from attachment
+  arāga-dveṣataḥ kṛtam | phrase | performed without desire and aversion
+  aphala-prepsunā karma | phrase | action by one not craving fruit
+  yat tat sāttvikam ucyate | phrase | that is called sattvic
+---
+# 18.24
+short: Action performed with great effort, by one who craves gratification or who acts from ego — that is declared rajasic.
+long: "Yat tu kāmepsunā karma sāhaṃkāreṇa vā punaḥ / kriyate bahulāyāsaṃ tad rājasam udāhṛtam." "Yat tu kāmepsunā karma" — action by one who is desirous (kāma-epsu — one who seeks desire-gratification). "Sāhaṃkāreṇa vā punaḥ" — or with ahaṃkāra (ego, the sense of "I am the doer"). "Kriyate bahulāyāsam" — performed with great effort/strain (bahula-āyāsa — excessive labor — the straining that comes from wanting results and needing to control outcomes). "Tad rājasam udāhṛtam" — that is declared rajasic. Rajasic action is marked by desire + ego + the resultant straining exertion.
+wbw:
+  yat tu kāmepsunā karma | phrase | action by one who craves desire-gratification
+  sāhaṃkāreṇa vā punaḥ | phrase | or with ego also
+  kriyate bahulāyāsam | phrase | performed with great effort/strain
+  tad rājasam udāhṛtam | phrase | that is declared rajasic
+---
+# 18.25
+short: Action that is begun from delusion, without regard to capacity, loss, injury, and consequences — that is declared tamasic.
+long: "Anubandhaṃ kṣayaṃ hiṃsām anapekṣya ca pauruṣam / mohād ārabhyate karma yat tat tāmasam ucyate." "Anubandhaṃ kṣayaṃ hiṃsām anapekṣya" — without regard (anapekṣya) to consequences (anubandha), loss (kṣaya), and harm/injury (hiṃsā). "Ca pauruṣam" — and without regard to one's capacity/ability (pauruṣa — the human potential/power). "Mohāt ārabhyate karma" — action begun from delusion (moha). "Tat tāmasam ucyate" — that is called tamasic. Tamasic action: begun impulsively, without thinking through consequences, harm to others, loss involved, or whether one has the capacity for it.
+wbw:
+  anubandhaṃ kṣayaṃ hiṃsām | phrase | consequences, loss, and harm
+  anapekṣya ca pauruṣam | phrase | without regard, and without regard to capacity
+  mohād ārabhyate karma | phrase | action begun from delusion
+  yat tat tāmasam ucyate | phrase | that is called tamasic
+---
+# 18.26
+short: Free from attachment, not speaking of self, endowed with steadiness and enthusiasm, unaffected by success or failure — such a doer is called sattvic.
+long: "Mukta-saṅgo'nahaṃvādī dhṛty-utsāha-samanvitaḥ / siddhy-asiddhyor nirvikāraḥ kartā sāttvika ucyate." "Mukta-saṅgaḥ" — free from attachment. "Anahaṃvādī" — not proclaiming "I" (not speaking of oneself, not claiming credit — a-ahaṃ-vādī: one who does not say "I did this"). "Dhṛty-utsāha-samanvitaḥ" — endowed with steadiness (dhṛti) and enthusiasm (utsāha). "Siddhy-asiddhyor nirvikāraḥ" — unaffected (nirvikāra — without transformation/agitation) in success (siddhi) and failure (asiddhi). "Kartā sāttvika ucyate" — that doer is called sattvic.
+wbw:
+  mukta-saṅgo'nahaṃvādī | phrase | free from attachment, not claiming "I"
+  dhṛty-utsāha-samanvitaḥ | phrase | endowed with steadiness and enthusiasm
+  siddhy-asiddhyor nirvikāraḥ | phrase | unaffected in success and failure
+  kartā sāttvika ucyate | phrase | that doer is called sattvic
+---
+# 18.27
+short: Passionate, desiring the fruits of action, greedy, harmful, impure, moved by joy and sorrow — such a doer is declared rajasic.
+long: "Rāgī karma-phala-prepsur lubdho hiṃsātmako'śuciḥ / harṣa-śokānvitaḥ kartā rājasaḥ parikīrtitaḥ." "Rāgī" — full of passion/attachment (rāga). "Karma-phala-prepsuḥ" — desirous/craving the fruits of action. "Lubdhaḥ" — greedy. "Hiṃsātmakaḥ" — harmful in nature (hiṃsā-ātmaka — violence as one's character). "Aśuciḥ" — impure. "Harṣa-śokānvitaḥ" — moved by joy (harṣa) and sorrow (śoka) — the emotional reactivity of the outcome-dependent person. "Kartā rājasaḥ parikīrtitaḥ" — that doer is declared rajasic.
+wbw:
+  rāgī karma-phala-prepsuḥ | phrase | passionate, craving the fruits of action
+  lubdho hiṃsātmako'śuciḥ | phrase | greedy, harmful in nature, impure
+  harṣa-śokānvitaḥ kartā | phrase | a doer moved by joy and sorrow
+  rājasaḥ parikīrtitaḥ | phrase | is declared rajasic
+---
+# 18.28
+short: Undisciplined, vulgar, stubborn, deceitful, malicious, lazy, despondent, and procrastinating — such a doer is called tamasic.
+long: "Ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko'lasaḥ / viṣādī dīrgha-sūtrī ca kartā tāmasa ucyate." "Ayuktaḥ" — undisciplined, not self-collected. "Prākṛtaḥ" — vulgar/coarse (of low nature — prākṛta — ordinary, unrefined). "Stabdhaḥ" — stubborn (immovable — cannot be corrected or directed). "Śaṭhaḥ" — deceitful/cunning. "Naiṣkṛtikaḥ" — malicious (taking delight in others' harm). "Alasaḥ" — lazy. "Viṣādī" — despondent/dejected (prone to despair). "Dīrgha-sūtrī" — procrastinating (literally "long-threaded" — one who drags things out indefinitely). "Kartā tāmasa ucyate" — that doer is called tamasic.
+wbw:
+  ayuktaḥ prākṛtaḥ stabdhaḥ | phrase | undisciplined, vulgar, stubborn
+  śaṭho naiṣkṛtiko'lasaḥ | phrase | deceitful, malicious, lazy
+  viṣādī dīrgha-sūtrī ca | phrase | despondent and procrastinating
+  kartā tāmasa ucyate | phrase | that doer is called tamasic
+---
+# 18.29
+short: Hear now the threefold distinction of understanding and of steadiness, O Dhanaṃjaya, according to the guṇas — described completely and separately.
+long: "Buddher bhedaṃ dhṛteś caiva guṇatas tri-vidhaṃ śṛṇu / procyamānam aśeṣeṇa pṛthaktvena dhanañjaya." "Buddher bhedam dhṛteś caiva" — the distinction of buddhi (intelligence/understanding) and dhṛti (steadiness/resolve) also. "Guṇatas tri-vidham" — threefold by guṇas. "Śṛṇu procyamānam aśeṣeṇa" — hear, being declared completely. "Pṛthaktvena dhanañjaya" — separately, O Dhanaṃjaya. The analysis continues to two more faculties: buddhi (the discerning intelligence — the capacity to judge right from wrong) and dhṛti (steadiness — the capacity to maintain the will over time).
+wbw:
+  buddher bhedaṃ dhṛteś caiva | phrase | the distinction of buddhi and steadiness also
+  guṇatas tri-vidhaṃ śṛṇu | phrase | threefold by guṇas — hear
+  procyamānam aśeṣeṇa | phrase | being declared completely
+  pṛthaktvena dhanañjaya | phrase | separately, O Dhanaṃjaya
+---
+# 18.30
+short: The buddhi that knows what is pravṛtti and nivṛtti, what should be done and what should not, fear and fearlessness, bondage and liberation — that is sattvic, O Pārtha.
+long: "Pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye / bandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī." Sattvic buddhi knows: "pravṛttiṃ ca nivṛttiṃ ca" — what to engage with and what to withdraw from. "Kāryākārye" — what is to be done (kārya) and what is not (akārya). "Bhayābhaye" — what is truly fearful (bhaya) and what is not (abhaya). "Bandhaṃ mokṣaṃ ca" — what leads to bondage (bandha) and what leads to liberation (mokṣa). The sattvic buddhi has the complete discerning map of the spiritual life.
+wbw:
+  pravṛttiṃ ca nivṛttiṃ ca | phrase | what to engage with and what to withdraw from
+  kāryākārye bhayābhaye | phrase | what to do and not do, fear and fearlessness
+  bandhaṃ mokṣaṃ ca yā vetti | phrase | which knows bondage and liberation
+  buddhiḥ sā pārtha sāttvikī | phrase | that buddhi is sattvic, O Pārtha
+---
+# 18.31
+short: The buddhi that understands dharma and adharma, what should and should not be done, incorrectly — that is rajasic, O Pārtha.
+long: "Yayā dharmam adharmam ca kāryaṃ cākāryam eva ca / ayathāvat prajānāti buddhiḥ sā pārtha rājasī." "Yayā dharmam adharmam ca" — by which (buddhi) dharma and adharma. "Kāryam cākāryam eva ca" — and what should and should not be done. "Ayathāvat prajānāti" — understands incorrectly (a-yathāvat — not as they truly are). "Buddhiḥ sā pārtha rājasī" — that buddhi is rajasic, O Pārtha. The rajasic buddhi doesn't lack discernment entirely — it has a moral framework — but applies it incorrectly. It confuses dharma with adharma, important with trivial, necessary with unnecessary.
+wbw:
+  yayā dharmam adharmam ca | phrase | by which dharma and adharma
+  kāryaṃ cākāryam eva ca | phrase | and what should and should not be done
+  ayathāvat prajānāti | phrase | understands incorrectly
+  buddhiḥ sā pārtha rājasī | phrase | that buddhi is rajasic, O Pārtha
+---
+# 18.32
+short: The buddhi enveloped in darkness that understands adharma as dharma, and all things contrary to what they truly are — that is tamasic, O Pārtha.
+long: "Adharmam dharmam iti yā manyate tamasāvṛtā / sarvārthān viparītāṃś ca buddhi sā pārtha tāmasī." "Adharmam dharmam iti yā manyate" — which thinks adharma is dharma (the complete inversion — taking what is wrong to be right). "Tamasāvṛtā" — enveloped/covered by tamas (the darkness of ignorance covering the buddhi). "Sarvārthān viparītāṃś ca" — and all things contrarily (seeing everything the wrong way around). "Buddhi sā pārtha tāmasī" — that buddhi is tamasic, O Pārtha. Tamasic buddhi: complete inversion — adharma seen as dharma, darkness as light. The extreme of moral confusion.
+wbw:
+  adharmam dharmam iti yā | phrase | which thinks adharma is dharma
+  manyate tamasāvṛtā | phrase | (it) thinks, enveloped by darkness
+  sarvārthān viparītāṃś ca | phrase | and all things contrarily
+  buddhi sā pārtha tāmasī | phrase | that buddhi is tamasic, O Pārtha
+---
+# 18.33
+short: The steadiness by which one upholds the functions of mind, breath, and senses through yoga, without wavering — that is sattvic, O Pārtha.
+long: "Dhṛtyā yayā dhārayate manaḥ-prāṇendriya-kriyāḥ / yogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī." "Dhṛtyā yayā dhārayate" — the steadiness by which one upholds/maintains. "Manaḥ-prāṇendriya-kriyāḥ" — the functions of the mind, prāṇa (vital breath/life-force), and the senses. "Yogenāvyabhicāriṇyā" — through yoga, without wavering (avyabhicāriṇī — not deviating, constant). "Dhṛtiḥ sā pārtha sāttvikī" — that steadiness is sattvic, O Pārtha. Sattvic steadiness: the consistent, unwavering maintenance of the mind-breath-senses through yoga practice. This is the will that sustains the spiritual life.
+wbw:
+  dhṛtyā yayā dhārayate | phrase | steadiness by which one upholds
+  manaḥ-prāṇendriya-kriyāḥ | compound | the functions of mind, breath, and senses
+  yogenāvyabhicāriṇyā | phrase | through yoga, without wavering
+  dhṛtiḥ sā pārtha sāttvikī | phrase | that steadiness is sattvic, O Pārtha
+---
+# 18.34
+short: But the steadiness by which one upholds dharma, pleasure, and wealth — with attachment, desiring fruits — O Pārtha, that is rajasic.
+long: "Yayā tu dharma-kāmārthān dhṛtyā dhārayate'rjuna / prasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī." "Yayā tu dharma-kāmārthān" — the steadiness by which dharma, kāma (pleasure/desire), and artha (wealth/material aims) — the three of the classical four life-aims (puruṣārthas), notably without mokṣa. "Dhṛtyā dhārayate'rjuna" — upholds with steadiness. "Prasaṅgena phalākāṅkṣī" — with attachment (prasaṅga) and craving fruit. "Dhṛtiḥ sā pārtha rājasī" — that steadiness is rajasic, O Pārtha. Rajasic steadiness: real commitment, real application — but for worldly goals (dharma, pleasure, wealth) with attachment and fruit-desire.
+wbw:
+  yayā tu dharma-kāmārthān | phrase | by which dharma, pleasure, and wealth
+  dhṛtyā dhārayate'rjuna | phrase | are upheld with steadiness, O Arjuna
+  prasaṅgena phalākāṅkṣī | phrase | with attachment, craving fruit
+  dhṛtiḥ sā pārtha rājasī | phrase | that steadiness is rajasic, O Pārtha
+---
+# 18.35
+short: By which the dull person does not give up sleep, fear, grief, despondency, and intoxication — that steadiness is tamasic, O Pārtha.
+long: "Yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madam eva ca / na vimuñcati durmēdhā dhṛtiḥ sā pārtha tāmasī." "Yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madam eva ca" — by which sleep (svapna), fear (bhaya), grief (śoka), despondency (viṣāda), and intoxication/arrogance (mada). "Na vimuñcati" — does not give up/release. "Durmēdhā" — the dull-witted/foolish one. "Dhṛtiḥ sā pārtha tāmasī" — that steadiness is tamasic. Tamasic "steadiness" is actually the obstinate clinging to what should be released — holding onto fear, grief, depression, sleep — a dark inertia rather than genuine resolve.
+wbw:
+  yayā svapnaṃ bhayaṃ śokaṃ | phrase | by which sleep, fear, grief
+  viṣādaṃ madam eva ca | phrase | despondency and intoxication also
+  na vimuñcati durmēdhā | phrase | the dull-witted person does not give up
+  dhṛtiḥ sā pārtha tāmasī | phrase | that steadiness is tamasic, O Pārtha
+---
+# 18.36
+short: Now hear from Me the threefold happiness, O best of Bharatas — in which one rejoices through practice, and where suffering comes to an end.
+long: "Sukhaṃ tv idānīṃ tri-vidhaṃ śṛṇu me bharatarṣabha / abhyāsād ramate yatra duḥkhāntaṃ ca nigacchati." "Sukhaṃ tv idānīṃ tri-vidham" — happiness (sukha) also is threefold. "Śṛṇu me bharatarṣabha" — hear from Me, O best of Bharatas. "Abhyāsād ramate yatra" — where one rejoices through practice (abhyāsa — the practice of yoga, meditation, discipline). "Duḥkhāntaṃ ca nigacchati" — and where suffering comes to an end. The three types of happiness will be analyzed in 18.37-39 — and the key word is abhyāsa: happiness that comes through practice. Pleasure without practice is not what's being analyzed here.
+wbw:
+  sukhaṃ tv idānīṃ tri-vidham | phrase | happiness, threefold, now
+  śṛṇu me bharatarṣabha | phrase | hear from Me, O best of Bharatas
+  abhyāsād ramate yatra | phrase | where one rejoices through practice
+  duḥkhāntaṃ ca nigacchati | phrase | and where suffering comes to an end
+---
+# 18.37
+short: That which is like poison at first but like nectar in the end — born of the clarity of Self-knowledge — that happiness is called sattvic.
+long: "Yat tad agre viṣam iva pariṇāme'mṛtopamam / tat sukhaṃ sāttvikaṃ proktam ātma-buddhi-prasāda-jam." "Yat tad agre viṣam iva" — what is like poison (viṣa) at first (agre — in the beginning). "Pariṇāme'mṛtopamam" — like nectar (amṛta) in the end (pariṇāma — the outcome, the ripening). "Tat sukhaṃ sāttvikaṃ proktam" — that happiness is called sattvic. "Ātma-buddhi-prasāda-jam" — born of the clarity of the buddhi's perception of the Self (ātma-buddhi-prasāda — the serene clarity of the Self-aware intelligence). Sattvic happiness requires effort and initial difficulty — meditation, spiritual practice — but the end is nectar.
+wbw:
+  yat tad agre viṣam iva | phrase | what is like poison at first
+  pariṇāme'mṛtopamam | phrase | like nectar in the end
+  tat sukhaṃ sāttvikaṃ proktam | phrase | that happiness is called sattvic
+  ātma-buddhi-prasāda-jam | phrase | born of the clarity of Self-knowing buddhi
+---
+# 18.38
+short: That happiness which arises from the contact of the senses with their objects — which is like nectar at first and like poison in the end — is declared rajasic.
+long: "Viṣayendriya-saṃyogād yat tad agre'mṛtopamam / pariṇāme viṣam iva tat sukhaṃ rājasaṃ smṛtam." "Viṣayendriya-saṃyogāt" — from the contact (saṃyoga) of the senses (indriya) with their objects (viṣaya). "Yat tad agre'mṛtopamam" — what is like nectar (amṛta) at first. "Pariṇāme viṣam iva" — like poison in the end. "Tat sukhaṃ rājasaṃ smṛtam" — that happiness is declared rajasic. The opposite of sattvic: pleasant at first (sense-pleasure feels like nectar), but leaves suffering, craving, and hangover in its wake. This is the trajectory of sensual pleasure: fleeting peak, followed by aftermath.
+wbw:
+  viṣayendriya-saṃyogāt | phrase | from the contact of senses with their objects
+  yat tad agre'mṛtopamam | phrase | what is like nectar at first
+  pariṇāme viṣam iva | phrase | like poison in the end
+  tat sukhaṃ rājasaṃ smṛtam | phrase | that happiness is declared rajasic
+---
+# 18.39
+short: That happiness which is deluding to the self both at first and in consequence — arising from sleep, laziness, and heedlessness — that is declared tamasic.
+long: "Yad agre cānubandhe ca sukhaṃ mohanam ātmanaḥ / nidrālasya-pramādotthaṃ tat tāmasam udāhṛtam." "Yad agre cānubandhe ca sukham" — happiness that is deluding (mohanam) both at first (agre) and in consequence (anubandha — what follows from it). "Ātmanaḥ" — to the self. "Nidrālasya-pramādottham" — arising from (uttham) sleep (nidrā), laziness (ālasya), and heedlessness (pramāda). "Tat tāmasam udāhṛtam" — that is declared tamasic. Tamasic happiness: unlike sattvic (better later) or rajasic (pleasant then bad) — tamasic is deluding throughout. It's not genuine pleasure at all — just avoidance, numbness, stupor.
+wbw:
+  yad agre cānubandhe ca | phrase | what at first and in consequence
+  sukhaṃ mohanam ātmanaḥ | phrase | happiness deluding to the self
+  nidrālasya-pramādottham | compound | arising from sleep, laziness, heedlessness
+  tat tāmasam udāhṛtam | phrase | that is declared tamasic
+---
+# 18.40
+short: There is no being on earth, or again in heaven among the gods — that is free from these three guṇas born of prakṛti.
+long: "Na tad asti pṛthivyāṃ vā divi deveṣu vā punaḥ / sattvaṃ prakṛti-jair muktaṃ yad ebhiḥ syāt tribhir guṇaiḥ." "Na tad asti pṛthivyāṃ vā" — there is no such thing (na tad asti) on earth. "Divi deveṣu vā punaḥ" — or again in heaven (divi) among the gods. "Sattvaṃ prakṛti-jair muktam" — being (sattva — here meaning any existent thing/entity) free from the guṇas born of prakṛti. "Yad ebhiḥ syāt tribhir guṇaiḥ" — which would be free from these three guṇas. The guṇas pervade all of existence — no being, however exalted, is exempt from their influence. Even the gods are within prakṛti.
+wbw:
+  na tad asti pṛthivyāṃ vā | phrase | there is no such thing on earth
+  divi deveṣu vā punaḥ | phrase | or again in heaven among the gods
+  sattvaṃ prakṛti-jair muktam | phrase | being free from guṇas born of prakṛti
+  yad ebhiḥ syāt tribhir guṇaiḥ | phrase | which would be free from these three guṇas
+---
+# 18.41
+short: The duties of brāhmaṇas, kṣatriyas, vaiśyas, and śūdras are distributed by their own guṇas born of their nature, O Scorcher of Foes.
+long: "Brāhmaṇa-kṣatriya-viśāṃ śūdrāṇāṃ ca paraṃtapa / karmāṇi pravibhaktāni svabhāva-prabhavair guṇaiḥ." "Brāhmaṇa-kṣatriya-viśāṃ śūdrāṇāṃ ca" — of brāhmaṇas, kṣatriyas, vaiśyas, and śūdras. "Karmāṇi pravibhaktāni" — the duties/functions are distributed/allocated. "Svabhāva-prabhavair guṇaiḥ" — by the guṇas born of (one's own) svabhāva (prabhava = arising from). This reframes the caste system as a guṇa-based vocation: one's function is determined by one's inherent guṇa-nature, not by birth-order alone. The following verses (18.42-44) describe what each function involves.
+wbw:
+  brāhmaṇa-kṣatriya-viśāṃ | compound | of brāhmaṇas, kṣatriyas, and vaiśyas
+  śūdrāṇāṃ ca paraṃtapa | phrase | and śūdras, O Scorcher of Foes
+  karmāṇi pravibhaktāni | phrase | the duties are distributed
+  svabhāva-prabhavair guṇaiḥ | phrase | by the guṇas born of their own nature
+---
+# 18.42
+short: Serenity, self-control, austerity, purity, patience, uprightness, knowledge, wisdom, and faith in the divine — these are the duties of a brāhmaṇa born of his own nature.
+long: "Śamo damas tapaḥ śaucam kṣāntir ārjavam eva ca / jñānaṃ vijñānam āstikyaṃ brahma-karma svabhāva-jam." "Śamaḥ" — serenity/mental quietude. "Damaḥ" — self-control (of the senses). "Tapaḥ" — austerity. "Śaucam" — purity. "Kṣāntiḥ" — patience/forbearance. "Ārjavam" — uprightness. "Jñānam" — knowledge (theoretical). "Vijñānam" — wisdom (practical, applied knowledge). "Āstikyam" — faith/conviction in the divine (āstika — one who affirms the reality of the unseen). "Brahma-karma svabhāva-jam" — the natural duty (brahma-karma) born of svabhāva for the brāhmaṇa.
+wbw:
+  śamo damas tapaḥ śaucam | phrase | serenity, self-control, austerity, purity
+  kṣāntir ārjavam eva ca | phrase | patience and uprightness also
+  jñānaṃ vijñānam āstikyam | phrase | knowledge, wisdom, and faith
+  brahma-karma svabhāva-jam | phrase | the brāhmaṇa's duty born of nature
+---
+# 18.43
+short: Heroism, brilliance, steadiness, skill, not fleeing in battle, generosity, and lordship — these are the duties of a kṣatriya born of his own nature.
+long: "Śauryaṃ tejo dhṛtir dākṣyaṃ yuddhe cāpy apalāyanam / dānam īśvara-bhāvaś ca kṣātraṃ karma svabhāva-jam." "Śauryam" — heroism/valor. "Tejaḥ" — brilliance/energy/fire. "Dhṛtiḥ" — steadiness/fortitude. "Dākṣyam" — skill/dexterity. "Yuddhe cāpy apalāyanam" — and also not fleeing in battle. "Dānam" — generosity (the ruler's generosity to subjects). "Īśvara-bhāvaḥ" — the disposition of lordship/authority (the natural instinct to govern, protect, command). "Kṣātraṃ karma svabhāva-jam" — the kṣatriya's duty born of his nature. These are qualities suited to the protector-warrior-ruler function.
+wbw:
+  śauryaṃ tejo dhṛtir dākṣyam | phrase | heroism, brilliance, steadiness, skill
+  yuddhe cāpy apalāyanam | phrase | and also not fleeing in battle
+  dānam īśvara-bhāvaś ca | phrase | generosity and lordship
+  kṣātraṃ karma svabhāva-jam | phrase | the kṣatriya's duty born of nature
+---
+# 18.44
+short: Agriculture, cattle-herding, and trade are the duties of a vaiśya born of his nature. Service is the duty of a śūdra born of his nature.
+long: "Kṛṣi-go-rakṣya-vāṇijyaṃ vaiśya-karma svabhāva-jam / paricaryātmakaṃ karma śūdrasyāpi svabhāva-jam." "Kṛṣi-go-rakṣya-vāṇijyam" — agriculture (kṛṣi), cattle-herding/protection (go-rakṣya), and trade/commerce (vāṇijya). "Vaiśya-karma svabhāva-jam" — the vaiśya's duty born of nature (the function of producing, maintaining, and distributing material goods). "Paricaryātmakaṃ karma" — action of the nature of service (paricaryā — attending, serving). "Śūdrasyāpi svabhāva-jam" — the śūdra's duty also born of his nature. Service as svabhāva-function: the natural inclination to assist, support, and implement.
+wbw:
+  kṛṣi-go-rakṣya-vāṇijyam | compound | agriculture, cattle-herding, and trade
+  vaiśya-karma svabhāva-jam | phrase | the vaiśya's duty born of nature
+  paricaryātmakaṃ karma | phrase | action of the nature of service
+  śūdrasyāpi svabhāva-jam | phrase | the śūdra's duty also born of nature
+---
+# 18.45
+short: One who is devoted to one's own duty attains perfection. Hear how one who is devoted to one's own duty finds perfection.
+long: "Sve sve karmaṇy abhirataḥ saṃsiddhiṃ labhate naraḥ / sva-karma-nirataḥ siddhiṃ yathā vindati tac chṛṇu." "Sve sve karmaṇy abhirataḥ" — devoted to (abhirata — delighting in, thoroughly engaged with) one's own (sve sve — each person's own) duty. "Saṃsiddhiṃ labhate naraḥ" — a person attains perfection/fulfilment (saṃsiddhi). "Sva-karma-nirataḥ siddhiṃ yathā vindati" — how one devoted to one's own duty finds (vindati) siddhi. "Tac chṛṇu" — hear that. The emphasis on sva-karma (one's own duty, one's own natural function) over simply "high" or "low" functions. Excellence in one's own function = the path to perfection.
+wbw:
+  sve sve karmaṇy abhirataḥ | phrase | devoted to one's own duty each
+  saṃsiddhiṃ labhate naraḥ | phrase | a person attains perfection
+  sva-karma-nirataḥ siddhiṃ | phrase | devoted to one's duty, perfection
+  yathā vindati tac chṛṇu | phrase | how one finds it — hear that
+---
+# 18.46
+short: By worshipping through one's own duty the One from whom all beings arise, by whom all this is pervaded — a person attains perfection.
+long: "Yataḥ pravṛttir bhūtānāṃ yena sarvam idaṃ tatam / sva-karmaṇā tam abhyarcya siddhiṃ vindati mānavaḥ." "Yataḥ pravṛttir bhūtānāṃ" — from whom arises the activity (pravṛtti) of all beings. "Yena sarvam idaṃ tatam" — by whom all this (sarvam idam) is pervaded/woven (tatam — stretched out, pervaded). "Sva-karmaṇā tam abhyarcya" — worshipping (abhyarcya) That through one's own duty. "Siddhiṃ vindati mānavaḥ" — a person finds siddhi (perfection). The key: sva-karma itself becomes worship (pūjā) when offered to the Source. Any function performed as an offering to the pervading divine is spiritual practice.
+wbw:
+  yataḥ pravṛttir bhūtānāṃ | phrase | from whom comes the activity of all beings
+  yena sarvam idaṃ tatam | phrase | by whom all this is pervaded
+  sva-karmaṇā tam abhyarcya | phrase | worshipping That through one's own duty
+  siddhiṃ vindati mānavaḥ | phrase | a person attains perfection
+---
+# 18.47
+short: Better is one's own imperfect dharma than another's dharma well-performed. One who performs the duty born of one's own nature does not incur sin.
+long: "Śreyān sva-dharmo viguṇaḥ para-dharmāt sv-anuṣṭhitāt / svabhāva-niyataṃ karma kurvan nāpnoti kilbiṣam." "Śreyān sva-dharmo viguṇaḥ para-dharmāt sv-anuṣṭhitāt" — one's own dharma even if deficient (viguṇa — without guṇa, imperfectly) is better than another's dharma even if well-performed (su-anuṣṭhita). This repeats 3.35 — the Gītā is returning to its foundational teaching. "Svabhāva-niyataṃ karma" — action regulated/ordained by one's own nature. "Kurvan nāpnoti kilbiṣam" — performing it, one does not incur sin (kilbiṣa). Inauthenticity — doing someone else's dharma — produces its own kind of sin.
+wbw:
+  śreyān sva-dharmo viguṇaḥ | phrase | better is one's own imperfect dharma
+  para-dharmāt sv-anuṣṭhitāt | phrase | than another's dharma well-performed
+  svabhāva-niyataṃ karma | phrase | action regulated by one's own nature
+  kurvan nāpnoti kilbiṣam | phrase | performing it, one incurs no sin
+---
+# 18.48
+short: One should not abandon the duty born of one's own nature even if it is defective, O Kaunteya. All undertakings are enveloped by imperfection as fire is by smoke.
+long: "Saha-jaṃ karma kaunteya sa-doṣam api na tyajet / sarvārambhā hi doṣeṇa dhūmenāgnir ivāvṛtāḥ." "Saha-jaṃ karma kaunteya" — the duty born along with one (saha-ja — born together, innate). "Sa-doṣam api na tyajet" — even if defective (sa-doṣa), one should not abandon it. "Sarvārambhā hi doṣeṇa" — for all undertakings are with defect. "Dhūmenāgnir ivāvṛtāḥ" — as fire is enveloped by smoke. The simile of fire and smoke: every action has its impurity, as fire produces smoke. Abandoning action because of its inevitable imperfection is not the answer — the answer is to perform it with wisdom and detachment.
+wbw:
+  saha-jaṃ karma kaunteya | phrase | innate duty, O Kaunteya
+  sa-doṣam api na tyajet | phrase | even if defective, one should not abandon
+  sarvārambhā hi doṣeṇa | phrase | for all undertakings are with defect
+  dhūmenāgnir ivāvṛtāḥ | phrase | as fire is enveloped by smoke
+---
+# 18.49
+short: One of un-attached intellect everywhere, who has conquered the self, gone beyond desire — by renunciation attains the supreme perfection of freedom from action.
+long: "Asakta-buddhiḥ sarvatra jitātmā vigata-spṛhaḥ / naiṣkarmya-siddhiṃ paramāṃ sannyāsenādhigacchati." "Asakta-buddhiḥ sarvatra" — one whose buddhi is unattached everywhere (in every situation). "Jitātmā" — who has conquered the self (jita-ātmā — the inner instruments subdued). "Vigata-spṛhaḥ" — gone beyond desire/craving (vigata — departed, spṛhā — longing). "Naiṣkarmya-siddhiṃ paramām" — the supreme perfection of naiṣkarmya (non-action in its deepest sense — actionlessness in the sense of no karma-accumulation, not physical inactivity). "Sannyāsenādhigacchati" — attains through sannyāsa (true renunciation).
+wbw:
+  asakta-buddhiḥ sarvatra | phrase | unattached-buddhi everywhere
+  jitātmā vigata-spṛhaḥ | phrase | self-conquered, gone beyond desire
+  naiṣkarmya-siddhiṃ paramām | phrase | the supreme perfection of non-action
+  sannyāsenādhigacchati | phrase | attains through renunciation
+---
+# 18.50
+short: How one who has attained perfection also attains Brahman — that understand from Me briefly, O Kaunteya. That is the supreme summit of knowledge.
+long: "Siddhiṃ prāpto yathā brahma tathāpnoti nibodha me / samāsenaiva kaunteya niṣṭhā jñānasya yā parā." "Siddhiṃ prāpto yathā brahma" — how one who has attained siddhi also attains (āpnoti) Brahman. "Tathā nibodha me" — understand this from Me. "Samāsenaiva kaunteya" — briefly (samāsena — in summary). "Niṣṭhā jñānasya yā parā" — the supreme (parā) culmination/foundation (niṣṭhā) of knowledge. The chapter is moving to its climax: the attainment of Brahman as the final destination. 18.51-53 describe what to do; 18.54-56 describe what that state is.
+wbw:
+  siddhiṃ prāpto yathā brahma | phrase | how one who has attained perfection
+  tathāpnoti nibodha me | phrase | attains Brahman — understand this from Me
+  samāsenaiva kaunteya | phrase | briefly, O Kaunteya
+  niṣṭhā jñānasya yā parā | phrase | the supreme culmination of knowledge
+---
+# 18.51
+short: Endowed with purified buddhi, controlling the self with steadiness, having abandoned sound and the other sense objects, having put away desire and aversion —
+long: "Buddhyā viśuddhayā yukto dhṛtyātmānaṃ niyamya ca / śabdādīn viṣayāṃs tyaktvā rāga-dveṣau vyudasya ca." (18.52 continues) The prerequisites for Brahman-attainment listed: "Buddhyā viśuddhayā yukta" — endowed with (yukta) purified (viśuddha) buddhi. "Dhṛtyātmānaṃ niyamya ca" — controlling (niyamya) the self with steadiness (dhṛti). "Śabdādīn viṣayāṃs tyaktvā" — having abandoned the sense objects beginning with sound (i.e., all five sensory domains). "Rāga-dveṣau vyudasya ca" — having put away rāga (desire/passion) and dveṣa (aversion).
+wbw:
+  buddhyā viśuddhayā yuktaḥ | phrase | endowed with purified buddhi
+  dhṛtyātmānaṃ niyamya ca | phrase | controlling the self with steadiness
+  śabdādīn viṣayāṃs tyaktvā | phrase | having abandoned sense objects from sound onward
+  rāga-dveṣau vyudasya ca | phrase | having put away desire and aversion
+---
+# 18.52
+short: Living in solitude, eating little, controlling speech, body, and mind, always in meditation-yoga, taking refuge in dispassion —
+long: "Vivikta-sevī laghv-āśī yata-vāk-kāya-mānasaḥ / dhyāna-yoga-paro nityaṃ vairāgyaṃ samupāśritaḥ." (18.53 continues) "Vivikta-sevī" — living in solitude (vivikta — secluded, quiet). "Laghv-āśī" — eating little (laghu — light/small, āśin — eater). "Yata-vāk-kāya-mānasaḥ" — with controlled speech (vāk), body (kāya), and mind (mānasa). "Dhyāna-yoga-paro nityaṃ" — always (nitya) absorbed in (para) meditation-yoga. "Vairāgyaṃ samupāśritaḥ" — having taken full refuge in dispassion (vairāgya — freedom from passion/attachment). These are the practical disciplines of the life oriented toward Brahman.
+wbw:
+  vivikta-sevī laghv-āśī | phrase | living in solitude, eating little
+  yata-vāk-kāya-mānasaḥ | phrase | with controlled speech, body, and mind
+  dhyāna-yoga-paro nityaṃ | phrase | always absorbed in meditation-yoga
+  vairāgyaṃ samupāśritaḥ | phrase | taking full refuge in dispassion
+---
+# 18.53
+short: Having relinquished egoism, force, pride, desire, anger, and possessiveness — not claiming "mine" — peaceful — one is fit for becoming Brahman.
+long: "Ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham / vimucya nirmamaḥ śānto brahma-bhūyāya kalpate." "Ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham" — relinquishing egoism (ahaṃkāra), force (bala), pride (darpa), desire (kāma), anger (krodha), and possessiveness (parigraha — grasping, holding). "Vimucya nirmamaḥ" — having relinquished, not claiming "mine" (nir-mama — without "my"-sense). "Śāntaḥ" — peaceful. "Brahma-bhūyāya kalpate" — is fit/worthy for becoming Brahman (brahma-bhūya — the becoming-of-Brahman state). Note the six that must be relinquished — ahaṃkāra and its train.
+wbw:
+  ahaṃkāraṃ balaṃ darpaṃ | phrase | egoism, force, and pride
+  kāmaṃ krodhaṃ parigraham | phrase | desire, anger, and possessiveness
+  vimucya nirmamaḥ śāntaḥ | phrase | having relinquished, without "mine," peaceful
+  brahma-bhūyāya kalpate | phrase | is fit for becoming Brahman
+---
+# 18.54
+short: Becoming Brahman, serene in Self — one neither grieves nor desires. Equal to all beings — one obtains supreme devotion to Me.
+long: "Brahma-bhūtaḥ prasannātmā na śocati na kāṅkṣati / samaḥ sarveṣu bhūteṣu mad-bhaktiṃ labhate parām." "Brahma-bhūtaḥ" — one who has become Brahman (not merged into impersonal Absolute, but identified with the cosmic Self). "Prasannātmā" — serene of self (prasanna — clear, cheerful, undisturbed). "Na śocati na kāṅkṣati" — neither grieves nor desires. "Samaḥ sarveṣu bhūteṣu" — equal toward all beings. "Mad-bhaktiṃ labhate parām" — obtains supreme (parā) devotion (bhakti) to Me. The culmination of the jñāna path leads not to cold impersonality but to parā-bhakti. Jñāna and bhakti are not rivals — the former opens into the latter.
+wbw:
+  brahma-bhūtaḥ prasannātmā | phrase | become Brahman, serene of self
+  na śocati na kāṅkṣati | phrase | neither grieves nor desires
+  samaḥ sarveṣu bhūteṣu | phrase | equal toward all beings
+  mad-bhaktiṃ labhate parām | phrase | obtains supreme devotion to Me
+---
+# 18.55
+short: By devotion one knows Me in truth — what and who I am. Then knowing Me in truth, one enters into Me immediately.
+long: "Bhaktyā mām abhijānāti yāvān yaś cāsmi tattvataḥ / tato māṃ tattvato jñātvā viśate tad-anantaram." "Bhaktyā mām abhijānāti" — through bhakti one knows Me. "Yāvān yaś cāsmi tattvataḥ" — what (yāvān — the extent/nature) and who (yaś ca) I am in truth (tattvataḥ). "Tato māṃ tattvato jñātvā" — then, having known Me in truth. "Viśate tad-anantaram" — one enters into Me immediately (tad-anantaram — immediately after that). The chain: bhakti → true knowledge of Krishna → entry into Krishna. This is not a sequential temporal process but the description of what authentic devotional knowing is: it is itself the entering.
+wbw:
+  bhaktyā mām abhijānāti | phrase | through devotion one knows Me
+  yāvān yaś cāsmi tattvataḥ | phrase | what and who I am in truth
+  tato māṃ tattvato jñātvā | phrase | then having known Me in truth
+  viśate tad-anantaram | phrase | one enters into Me immediately
+---
+# 18.56
+short: Even while performing all actions always, taking refuge in Me — through My grace one obtains the eternal, imperishable state.
+long: "Sarva-karmāṇy api sadā kurvāṇo mad-vyapāśrayaḥ / mat-prasādād avāpnoti śāśvataṃ padam avyayam." "Sarva-karmāṇy api sadā kurvāṇaḥ" — even while always (sadā) performing all (sarva) actions. "Mad-vyapāśrayaḥ" — taking refuge in Me (vyapāśraya — sheltering in). "Mat-prasādāt" — through My grace (prasāda — grace, clear gift). "Avāpnoti śāśvataṃ padam avyayam" — obtains the eternal (śāśvata), imperishable (avyaya) state (padam — the position/station/goal). The synthesis: action + refuge in Krishna + grace = the eternal state. Not through renunciation of action, but through its transformation.
+wbw:
+  sarva-karmāṇy api sadā | phrase | all actions, even always
+  kurvāṇo mad-vyapāśrayaḥ | phrase | performing, taking refuge in Me
+  mat-prasādād avāpnoti | phrase | through My grace obtains
+  śāśvataṃ padam avyayam | phrase | the eternal, imperishable state
+---
+# 18.57
+short: Mentally surrendering all actions to Me, intent on Me as the supreme — taking refuge in the yoga of buddhi — always have your mind on Me.
+long: "Cetasā sarva-karmāṇi mayi sannyasya mat-paraḥ / buddhi-yogam upāśritya mac-cittaḥ satataṃ bhava." "Cetasā sarva-karmāṇi mayi sannyasya" — mentally (cetasā) surrendering (sannyasya) all actions (sarva-karmāṇi) to Me. "Mat-paraḥ" — intent on Me as the supreme (mat-para — having Me as the highest). "Buddhi-yoga-upāśritya" — taking refuge in buddhi-yoga (the yoga of discerning intelligence — all of this teaching). "Mac-cittaḥ satataṃ bhava" — always (satataṃ) be with your mind (citta) on Me. The practice: inward surrender (all actions offered to Krishna), while performing them outwardly with buddhi-yoga.
+wbw:
+  cetasā sarva-karmāṇi | phrase | mentally, all actions
+  mayi sannyasya mat-paraḥ | phrase | surrendering to Me, intent on Me as supreme
+  buddhi-yogam upāśritya | phrase | taking refuge in buddhi-yoga
+  mac-cittaḥ satataṃ bhava | phrase | always be with mind on Me
+---
+# 18.58
+short: With your mind on Me you shall cross all obstacles by My grace. But if, from ego, you will not listen — you will perish.
+long: "Mac-cittaḥ sarva-durgāṇi mat-prasādāt tariṣyasi / atha cet tvam ahaṃkārān na śroṣyasi vinaṅkṣyasi." "Mac-cittaḥ sarva-durgāṇi mat-prasādāt tariṣyasi" — with mind on Me (mac-citta), you will cross all obstacles (sarva-durgāṇi — difficult places, impasses) through My grace (mat-prasādāt). "Atha cet tvam ahaṃkārān na śroṣyasi" — but if from ego (ahaṃkāra) you will not listen. "Vinaṅkṣyasi" — you will perish (naś — to be destroyed). The choice is stark: grace through surrender, or self-destruction through ego. This is not a threat — it is the description of how things work.
+wbw:
+  mac-cittaḥ sarva-durgāṇi | phrase | with mind on Me, all obstacles
+  mat-prasādāt tariṣyasi | phrase | through My grace you will cross
+  atha cet tvam ahaṃkārān | phrase | but if, from ego
+  na śroṣyasi vinaṅkṣyasi | phrase | you will not listen — you will perish
+---
+# 18.59
+short: If you think from ego — "I will not fight" — this resolve is false. Your own nature will compel you.
+long: "Yad ahaṃkāram āśritya na yotsya iti manyase / mithyaiṣa vyavasāyas te prakṛtis tvāṃ niyokṣyati." "Yad ahaṃkāram āśritya" — if, taking refuge in ego (the sense of personal autonomy). "Na yotsya iti manyase" — you think "I will not fight." "Mithyaiṣa vyavasāyas te" — this resolve (vyavasāya) of yours is false (mithyā). "Prakṛtis tvāṃ niyokṣyati" — your own nature (prakṛti) will compel/employ you. The paradox: Arjuna's sense that "I, from my own free will, am choosing not to fight" is itself the deepest form of delusion. The guṇas of his kṣatriya nature will drive him to fight regardless — better to do it consciously with wisdom.
+wbw:
+  yad ahaṃkāram āśritya | phrase | if, taking refuge in ego
+  na yotsya iti manyase | phrase | you think "I will not fight"
+  mithyaiṣa vyavasāyas te | phrase | this resolve of yours is false
+  prakṛtis tvāṃ niyokṣyati | phrase | your own nature will compel you
+---
+# 18.60
+short: O Kaunteya — bound by your own karma born of your own nature — what, through delusion, you do not wish to do, you will do against your will.
+long: "Svabhāva-jena kaunteya nibaddhaḥ svena karmaṇā / kartuṃ necchasi yan mohāt kariṣyasy avaśo'pi tat." "Svabhāva-jena... svena karmaṇā nibaddhaḥ" — bound (nibaddha) by your own karma born of your own nature (svabhāva-ja). "Kartuṃ necchasi yan mohāt" — what you do not wish (necchasi) to do from delusion (moha). "Kariṣyasy avaśo'pi tat" — you will do even unwillingly (avaśa — without will/control). The mechanism: svabhāva-born karma creates patterns of action that operate whether or not the conscious mind cooperates. The solution is not to fight the nature but to align consciousness with it wisely.
+wbw:
+  svabhāva-jena kaunteya | phrase | born of one's own nature, O Kaunteya
+  nibaddhaḥ svena karmaṇā | phrase | bound by one's own karma
+  kartuṃ necchasi yan mohāt | phrase | what you do not wish to do from delusion
+  kariṣyasy avaśo'pi tat | phrase | you will do even against your will
+---
+# 18.61
+short: The Lord dwells in the heart of all beings, O Arjuna — causing all beings to revolve by His power, as if mounted on a machine.
+long: "Īśvaraḥ sarva-bhūtānāṃ hṛd-deśe'rjuna tiṣṭhati / bhrāmayan sarva-bhūtāni yantrārūḍhāni māyayā." "Īśvaraḥ sarva-bhūtānāṃ hṛd-deśe tiṣṭhati" — the Lord (Īśvara) dwells (tiṣṭhati) in the heart-region (hṛd-deśa) of all beings (sarva-bhūtānāṃ). "Bhrāmayan sarva-bhūtāni" — causing all beings to revolve/wander. "Yantrārūḍhāni māyayā" — as if mounted on a machine (yantra), by māyā. The cosmic image: the divine as inner controller of each being, who through māyā creates the appearance of each being operating its own machine (the body-mind). The "controller in the heart" is also the Ātman of 13.23.
+wbw:
+  īśvaraḥ sarva-bhūtānāṃ | phrase | the Lord of all beings
+  hṛd-deśe'rjuna tiṣṭhati | phrase | dwells in the heart-region, O Arjuna
+  bhrāmayan sarva-bhūtāni | phrase | causing all beings to revolve
+  yantrārūḍhāni māyayā | phrase | as if mounted on a machine, by māyā
+---
+# 18.62
+short: Go to That alone for refuge with your whole being, O Bhārata. By His grace you will attain the supreme peace, the eternal abode.
+long: "Tam eva śaraṇaṃ gaccha sarva-bhāvena bhārata / tat-prasādāt parāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam." "Tam eva śaraṇaṃ gaccha" — go to that One (the Īśvara in the heart) alone for refuge (śaraṇa). "Sarva-bhāvena bhārata" — with your whole being (sarva-bhāva — all the modes of your being). "Tat-prasādāt" — by His grace. "Parāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam" — you will attain the supreme peace (parā śānti) and the eternal (śāśvata) abode (sthāna). The instruction is radical: total surrender (sarva-bhāvena) to the inner Lord. This is the bhakti-yoga culmination.
+wbw:
+  tam eva śaraṇaṃ gaccha | phrase | go to that One alone for refuge
+  sarva-bhāvena bhārata | phrase | with your whole being, O Bhārata
+  tat-prasādāt parāṃ śāntim | phrase | by His grace the supreme peace
+  sthānaṃ prāpsyasi śāśvatam | phrase | the eternal abode you will attain
+---
+# 18.63
+short: Thus this knowledge — more secret than secret — has been explained to you by Me. Reflecting on this fully, do as you wish.
+long: "Iti te jñānam ākhyātaṃ guhyād guhyataraṃ mayā / vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru." "Iti te jñānam ākhyātam" — thus this knowledge (jñāna) has been explained to you (te ākhyātam). "Guhyād guhyataram" — more secret than (the already) secret (guhya — secret, hidden). "Mayā" — by Me. "Vimṛśyaitad aśeṣeṇa" — reflecting on this completely (vimṛśya — having reflected, considered; aśeṣeṇa — without remainder, fully). "Yathecchasi tathā kuru" — do as you wish (yathā icchasi — as you desire). Krishna does not command. Having given the full teaching, He returns Arjuna's freedom: you have heard everything — now choose freely.
+wbw:
+  iti te jñānam ākhyātam | phrase | thus this knowledge has been explained to you
+  guhyād guhyataram mayā | phrase | more secret than secret, by Me
+  vimṛśyaitad aśeṣeṇa | phrase | reflecting on this fully
+  yathecchasi tathā kuru | phrase | do as you wish
+---
+# 18.64
+short: Listen again to My supreme word — the most secret of all. You are well-beloved of Me; therefore I will speak for your benefit.
+long: "Sarva-guhyatamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ / iṣṭo'si me dṛḍham iti tato vakṣyāmi te hitam." "Sarva-guhyatamaṃ" — the most secret of all (sarva-guhya-tama — the superlative of secret). "Bhūyaḥ śṛṇu me paramaṃ vacaḥ" — listen again to My supreme (parama) word. "Iṣṭo'si me dṛḍham iti" — "you are well-beloved (iṣṭa) of Me firmly (dṛḍham)" — this is personal love being declared. "Tato vakṣyāmi te hitam" — therefore I will speak for your benefit (hita). The prelude to 18.65-66: the most secret teaching comes because of love, not from obligation. The Gītā's ultimate message is introduced as a gift of love.
+wbw:
+  sarva-guhyatamaṃ bhūyaḥ | phrase | the most secret of all, again
+  śṛṇu me paramaṃ vacaḥ | phrase | hear My supreme word
+  iṣṭo'si me dṛḍham iti | phrase | you are well-beloved of Me — firmly
+  tato vakṣyāmi te hitam | phrase | therefore I speak for your benefit
+---
+# 18.65
+short: Fix your mind on Me, be devoted to Me, worship Me, bow down to Me. So you will come to Me — I promise you truly — you are dear to Me.
+long: "Man-manā bhava mad-bhakto mad-yājī māṃ namaskuru / mām evaiṣyasi satyaṃ te pratijāne priyo'si me." "Man-manā bhava" — fix your mind on Me (man-mana — whose mind is on Me). "Mad-bhakto" — be devoted to Me. "Mad-yājī" — worship Me. "Māṃ namaskuru" — bow down to Me. "Mām evaiṣyasi" — you will come to Me alone (eva — certainly, alone). "Satyaṃ te pratijāne" — I promise you truly (satya — truth, pratijāne — I declare/promise). "Priyo'si me" — you are dear to Me. This is 9.34 repeated verbatim — the fullness of the bhakti-yoga path condensed. Four practices: mind on Krishna, devotion, worship, reverence.
+wbw:
+  man-manā bhava mad-bhaktaḥ | phrase | fix mind on Me, be devoted to Me
+  mad-yājī māṃ namaskuru | phrase | worship Me, bow down to Me
+  mām evaiṣyasi satyaṃ te | phrase | to Me alone you will come — truly to you
+  pratijāne priyo'si me | phrase | I promise — you are dear to Me
+---
+# 18.66
+short: Abandoning all dharmas, come to Me alone for refuge. I shall liberate you from all sins — do not grieve.
+long: "Sarva-dharmān parityajya mām ekaṃ śaraṇaṃ vraja / ahaṃ tvā sarva-pāpebhyo mokṣayiṣyāmi mā śucaḥ." The Gītā's culminating verse. "Sarva-dharmān parityajya" — abandoning all dharmas (not just some — sarva — all; parityajya — completely relinquishing). "Mām ekaṃ śaraṇaṃ vraja" — come to Me alone (ekaṃ) for refuge (śaraṇam). "Ahaṃ tvā sarva-pāpebhyo mokṣayiṣyāmi" — I will liberate you (mokṣayiṣyāmi) from all sins (sarva-pāpebhyaḥ). "Mā śucaḥ" — do not grieve. "Sarva-dharmān" does not mean abandon morality — it means abandon the burden of determining your own path through dharma-calculation, and instead surrender entirely to Krishna. Total refuge, total freedom from the weight of action's consequences.
+wbw:
+  sarva-dharmān parityajya | phrase | abandoning all dharmas completely
+  mām ekaṃ śaraṇaṃ vraja | phrase | come to Me alone for refuge
+  ahaṃ tvā sarva-pāpebhyaḥ | phrase | I, you, from all sins
+  mokṣayiṣyāmi mā śucaḥ | phrase | will liberate — do not grieve
+---
+# 18.67
+short: This is never to be spoken by you to one who lacks austerity, nor to one who is not devoted, nor to one not willing to hear, nor to one who speaks ill of Me.
+long: "Idaṃ te nātapaskāya nābhaktāya kadācana / na cāśuśrūṣave vācyaṃ na ca māṃ yo'bhyasūyati." "Idaṃ te nātapaskāya" — this (idam — the whole Gītā teaching) should not be spoken by you to one who lacks tapas (atapaska — without austerity). "Nābhaktāya kadācana" — never to one who is not devoted. "Na cāśuśrūṣave" — nor to one not willing to hear/serve (aśuśrūṣu — not desirous of hearing). "Na ca māṃ yo'bhyasūyati" — nor to one who speaks ill of (abhyasūyati — finds fault with, is malicious toward) Me. Four disqualifications: no tapas, no devotion, no willingness to listen, hostile to the divine.
+wbw:
+  idaṃ te nātapaskāya | phrase | this, not to one without tapas
+  nābhaktāya kadācana | phrase | never to one not devoted
+  na cāśuśrūṣave vācyam | phrase | not to be spoken to one unwilling to hear
+  na ca māṃ yo'bhyasūyati | phrase | nor to one who speaks ill of Me
+---
+# 18.68
+short: One who will teach this supreme secret to My devotees — performing the highest devotion to Me — shall without doubt come to Me.
+long: "Ya idaṃ paramaṃ guhyaṃ mad-bhakteṣv abhidhāsyati / bhaktiṃ mayi parāṃ kṛtvā mām evaiṣyaty asaṃśayaḥ." "Ya idaṃ paramaṃ guhyam" — who will declare this supreme secret (parama guhya). "Mad-bhakteṣv abhidhāsyati" — to My devotees. "Bhaktiṃ mayi parāṃ kṛtvā" — having performed the highest devotion to Me. "Mām evaiṣyaty asaṃśayaḥ" — will come to Me alone, without doubt. The act of teaching the Gītā is itself declared to be the highest devotion. Sharing this knowledge — to those qualified to receive it — is a form of bhakti. The teacher and the taught are both moving toward the same destination.
+wbw:
+  ya idaṃ paramaṃ guhyam | phrase | who will declare this supreme secret
+  mad-bhakteṣv abhidhāsyati | phrase | to My devotees
+  bhaktiṃ mayi parāṃ kṛtvā | phrase | having performed the highest devotion to Me
+  mām evaiṣyaty asaṃśayaḥ | phrase | will come to Me alone, without doubt
+---
+# 18.69
+short: And there is no one among humans who does more beloved service to Me than this one. Nor shall there be another dearer to Me on earth.
+long: "Na ca tasmān manuṣyeṣu kaścin me priya-kṛttamaḥ / bhaviṣyati na ca me tasmād anyaḥ priyataro bhuvi." "Na ca tasmān manuṣyeṣu kaścin me priya-kṛttamaḥ" — there is no one among humans who performs more beloved service (priya-kṛt — one who does what is beloved) to Me than this one (the teacher of the Gītā). "Bhaviṣyati na ca me tasmād anyaḥ priyataro bhuvi" — nor shall there be another dearer to Me on earth. The superlative of love: the transmitter of this teaching is the most beloved to Krishna. This is the divine valuation of spreading the wisdom of the Gītā.
+wbw:
+  na ca tasmān manuṣyeṣu | phrase | and there is none among humans
+  kaścin me priya-kṛttamaḥ | phrase | who performs more beloved service to Me
+  bhaviṣyati na ca me tasmāt | phrase | nor shall there be, than that one
+  anyaḥ priyataro bhuvi | phrase | another dearer to Me on earth
+---
+# 18.70
+short: And one who will study this sacred dialogue of ours — by that person, through the sacrifice of knowledge, I would be worshipped. Such is My view.
+long: "Adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādam āvayoḥ / jñāna-yajñena tenāham iṣṭaḥ syām iti me matiḥ." "Adhyeṣyate ca ya imam" — and one who will study (adhyeṣyate — will read, recite, practice) this. "Dharmyaṃ saṃvādam āvayoḥ" — this righteous/dharmic dialogue of ours (āvayoḥ — of us two, Krishna and Arjuna). "Jñāna-yajñena tenāham iṣṭaḥ syām" — by that person, through the sacrifice of knowledge (jñāna-yajña), I would be worshipped/propitiated (iṣṭaḥ). "Iti me matiḥ" — this is My view. Reading and studying the Gītā is jñāna-yajña — an offering of knowledge — and constitutes worship of Krishna.
+wbw:
+  adhyeṣyate ca ya imam | phrase | and one who will study this
+  dharmyaṃ saṃvādam āvayoḥ | phrase | righteous dialogue of ours
+  jñāna-yajñena tenāham | phrase | by that person through the sacrifice of knowledge, I
+  iṣṭaḥ syām iti me matiḥ | phrase | would be worshipped — this is My view
+---
+# 18.71
+short: And one who listens to it with faith and without jealousy — even that person, liberated, shall attain the auspicious worlds of the righteous.
+long: "Śraddhāvān anasūyaś ca śṛṇuyād api yo naraḥ / so'pi muktaḥ śubhāl lokān prāpnuyāt puṇya-karmaṇām." "Śraddhāvān" — full of faith. "Anasūyaḥ ca" — and without jealousy/malice (a-asūya — without fault-finding). "Śṛṇuyād api yo naraḥ" — the person who even listens. "So'pi muktaḥ" — even that person, liberated. "Śubhāl lokān prāpnuyāt" — attains the auspicious (śubha) worlds. "Puṇya-karmaṇām" — of the righteous/meritorious-deed-doers. Even hearing (not just teaching, not just practicing), when done with faith and openness, is itself a meritorious act leading to liberation. The Gītā's accessibility is total.
+wbw:
+  śraddhāvān anasūyaś ca | phrase | full of faith and without jealousy
+  śṛṇuyād api yo naraḥ | phrase | the person who even listens
+  so'pi muktaḥ śubhāl lokān | phrase | even that person, liberated, the auspicious worlds
+  prāpnuyāt puṇya-karmaṇām | phrase | attains of the righteous
+---
+# 18.72
+short: Has this been heard by you, O Pārtha, with focused attention? Has your delusion born of ignorance been destroyed, O Dhanaṃjaya?
+long: "Kac cid etac chrutaṃ pārtha tvayaikāgreṇa cetasā / kac cid ajñāna-sammohāḥ praṇaṣṭas te dhanaṃjaya." "Kac cid etac chrutaṃ pārtha" — has this been heard (śrutam) by you, O Pārtha. "Tvayaikāgreṇa cetasā" — with focused (ekāgra — one-pointed) attention (cetasā — by the mind). "Kac cid ajñāna-sammohāḥ" — has the delusion-born-of-ignorance (ajñāna-sammoha). "Praṇaṣṭas te dhanaṃjaya" — been destroyed (praṇaṣṭa) for you, O Dhanaṃjaya. The perfect question: not "did you understand me?" but "has your ignorance been destroyed?" — because that is the actual measure of whether the teaching has worked.
+wbw:
+  kac cid etac chrutaṃ pārtha | question | has this been heard by you, O Pārtha
+  tvayaikāgreṇa cetasā | phrase | with focused, one-pointed mind
+  kac cid ajñāna-sammohāḥ | phrase | has the delusion born of ignorance
+  praṇaṣṭas te dhanaṃjaya | phrase | been destroyed for you, O Dhanaṃjaya
+---
+# 18.73
+short: Arjuna said — My delusion has been destroyed. I have regained memory through Your grace, O Acyuta. I stand firm — my doubt is gone. I will do Your word.
+long: "Arjuna uvāca — naṣṭo mohaḥ smṛtir labdhā tvat-prasādān mayācyuta / sthito'smi gata-sandehaḥ kariṣye vacanaṃ tava." "Naṣṭo mohaḥ" — my delusion (moha) is destroyed (naṣṭa). "Smṛtir labdhā" — memory/discernment (smṛti — not just recollection but the re-alignment with what is true) has been regained. "Tvat-prasādān mayācyuta" — through Your grace (tvat-prasāda), O Acyuta (immovable one). "Sthito'smi gata-sandehaḥ" — I stand firm (sthita), my doubt (saṃdeha) gone. "Kariṣye vacanaṃ tava" — I will do Your word. This mirrors the opening of the Gītā (2.7: "I am your disciple") — but now from clarity, not confusion. The transformation is complete.
+wbw:
+  naṣṭo mohaḥ smṛtir labdhā | phrase | my delusion is destroyed, memory regained
+  tvat-prasādān mayācyuta | phrase | through Your grace, O Acyuta
+  sthito'smi gata-sandehaḥ | phrase | I stand firm, my doubt gone
+  kariṣye vacanaṃ tava | phrase | I will do Your word
+---
+# 18.74
+short: Sañjaya said — Thus I heard this wonderful dialogue between Vāsudeva and the great-souled Pārtha, causing the hair to stand on end.
+long: "Sañjaya uvāca — ity ahaṃ vāsudevasya pārthasya ca mahātmanaḥ / saṃvādam imam aśrauṣam adbhutaṃ roma-harṣaṇam." The narrative frame returns. Sañjaya, who has been reporting to Dhṛtarāṣṭra since chapter 1, now reflects. "Vāsudevasya pārthasya ca mahātmanaḥ" — of Vāsudeva (Krishna) and of the great-souled (mahātmā) Pārtha (Arjuna). "Saṃvādam imam aśrauṣam" — this dialogue I heard. "Adbhutam" — wonderful, extraordinary. "Roma-harṣaṇam" — causing the hair to stand on end (goosebumps — the mark of profound spiritual experience). Sañjaya is moved by what he has transmitted.
+wbw:
+  ity ahaṃ vāsudevasya | phrase | thus I, of Vāsudeva
+  pārthasya ca mahātmanaḥ | phrase | and of the great-souled Pārtha
+  saṃvādam imam aśrauṣam | phrase | heard this dialogue
+  adbhutaṃ roma-harṣaṇam | phrase | wonderful, causing hair to stand on end
+---
+# 18.75
+short: By the grace of Vyāsa I heard this supreme, most secret yoga — directly from Krishna, the Lord of Yoga, himself explaining it.
+long: "Vyāsa-prasādāc chrutavān etad guhyam ahaṃ param / yogaṃ yogeśvarāt kṛṣṇāt sākṣāt kathayataḥ svayam." "Vyāsa-prasādāt" — through the grace of Vyāsa (who granted Sañjaya divine sight to see/hear the battlefield events). "Śrutavān etad guhyam ahaṃ param" — I heard this supreme (param) secret (guhyam). "Yogaṃ yogeśvarāt kṛṣṇāt" — this yoga, from Krishna, the Lord of Yoga (yogeśvara). "Sākṣāt kathayataḥ svayam" — himself explaining it directly (sākṣāt — directly, in person). Sañjaya acknowledges his privileged position: he heard it all, directly, by divine grace.
+wbw:
+  vyāsa-prasādāc chrutavān | phrase | by Vyāsa's grace I heard
+  etad guhyam ahaṃ param | phrase | this supreme secret
+  yogaṃ yogeśvarāt kṛṣṇāt | phrase | this yoga, from Krishna the Lord of Yoga
+  sākṣāt kathayataḥ svayam | phrase | himself explaining it directly
+---
+# 18.76
+short: O King, remembering and remembering again this wondrous and auspicious dialogue of Keśava and Arjuna, I rejoice again and again.
+long: "Rājan saṃsmṛtya saṃsmṛtya saṃvādam imam adbhutam / keśavārjunayoḥ puṇyaṃ hṛṣyāmi ca muhur muhuḥ." "Rājan saṃsmṛtya saṃsmṛtya" — O King, remembering and remembering again (saṃsmṛtya — repeated recollection). "Saṃvādam imam adbhutam" — this wondrous dialogue. "Keśavārjunayoḥ puṇyam" — the auspicious (puṇya — meritorious, holy) dialogue of Keśava (Krishna) and Arjuna. "Hṛṣyāmi ca muhur muhuḥ" — I rejoice (hṛṣyāmi) again and again (muhuḥ muhuḥ). Sañjaya's response: the text he has transmitted is living in him — each time he returns to it, the joy renews. This is the description of what happens when the Gītā is truly received.
+wbw:
+  rājan saṃsmṛtya saṃsmṛtya | phrase | O King, remembering and remembering
+  saṃvādam imam adbhutam | phrase | this wondrous dialogue
+  keśavārjunayoḥ puṇyam | phrase | the auspicious dialogue of Keśava and Arjuna
+  hṛṣyāmi ca muhur muhuḥ | phrase | I rejoice again and again
+---
+# 18.77
+short: And remembering and remembering that most wondrous form of Hari — my amazement is great, O King — and I rejoice again and again.
+long: "Tac ca saṃsmṛtya saṃsmṛtya rūpam aty-adbhutaṃ hareḥ / vismayo me mahān rājan hṛṣyāmi ca muhur muhuḥ." "Tac ca saṃsmṛtya saṃsmṛtya" — and remembering again and again that. "Rūpam aty-adbhutaṃ hareḥ" — the most wondrous (ati-adbhuta — exceedingly wonderful) form (rūpa) of Hari (Krishna, the sustaining divine). "Vismayo me mahān rājan" — my amazement (vismaya) is great, O King. "Hṛṣyāmi ca muhur muhuḥ" — and I rejoice again and again. The specific memory: the viśvarūpa of chapter 11 — the cosmic form. Sañjaya's awe at that vision is still fresh, still generating joy.
+wbw:
+  tac ca saṃsmṛtya saṃsmṛtya | phrase | and remembering and remembering that
+  rūpam aty-adbhutaṃ hareḥ | phrase | the most wondrous form of Hari
+  vismayo me mahān rājan | phrase | my amazement is great, O King
+  hṛṣyāmi ca muhur muhuḥ | phrase | and I rejoice again and again
+---
+# 18.78
+short: Wherever there is Krishna, the Lord of Yoga, and wherever there is Pārtha, the archer — there will be prosperity, victory, abundance, and unfaltering right conduct. This is my view.
+long: "Yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanur-dharaḥ / tatra śrīr vijayo bhūtir dhruvā nītir matir mama." "Yatra yogeśvaraḥ kṛṣṇaḥ" — wherever there is Krishna, the Lord of Yoga (yogeśvara). "Yatra pārtho dhanur-dharaḥ" — wherever there is Pārtha, the bearer of the bow (dhanur-dhara — archer). "Tatra śrīr vijayo bhūtir" — there is śrī (prosperity/abundance/glory), vijaya (victory), bhūti (abundance/power). "Dhruvā nītiḥ" — and unfaltering (dhruvā — fixed, certain) nīti (right conduct, ethics, statecraft). "Matir mama" — this is my view/opinion. The Gītā ends not with a doctrine but with a vision: where divine grace (Krishna) meets devoted human action (Arjuna the archer), all good follows.
+wbw:
+  yatra yogeśvaraḥ kṛṣṇaḥ | phrase | wherever Krishna the Lord of Yoga is
+  yatra pārtho dhanur-dharaḥ | phrase | wherever Pārtha the archer is
+  tatra śrīr vijayo bhūtiḥ | phrase | there are prosperity, victory, and abundance
+  dhruvā nītir matir mama | phrase | and unfaltering right conduct — this is my view
+---
