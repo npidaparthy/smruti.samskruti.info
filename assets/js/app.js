@@ -132,6 +132,7 @@
 
   // ── Bootstrap ─────────────────────────────────────────────────
   Settings.init();
+  Settings.loadBuildBadge();
   Reader.init();
   Avadhaanam.init();
   Calendar.init();
@@ -139,5 +140,5 @@
   Contact.init();
   syncHelpLang();
 
-  console.log('gita.samskruti.info initialised ✓');
+  console.log('smruti.samskruti.info initialised ✓');
 })();

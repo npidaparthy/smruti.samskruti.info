@@ -130,7 +130,10 @@ const C = {
     TEXT:         'smriti_active_text',
     TEST_MODE:    'smriti_test_mode',
     CHAPTERS_SEL: 'smriti_chapters_selected',
-    LIPI_PRESET:  'smriti_lipi_preset'
+    LIPI_PRESET:  'smriti_lipi_preset',
+    AUDIO_SPEED:  'smriti_audio_speed',
+    AUTO_ADVANCE: 'smriti_auto_advance',
+    AV_MEANING:   'smriti_av_meaning'
   }
 };
 

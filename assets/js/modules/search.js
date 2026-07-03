@@ -244,7 +244,8 @@ const Search = (() => {
     else if (parsed.type === 'text') {
       const q = parsed.q;
 
-      if (activeFilter === 'all' || activeFilter === 'vsn') {
+      const isSpeakerFilter = activeFilter === 'krishna' || activeFilter === 'arjuna';
+      if (!isSpeakerFilter && (activeFilter === 'all' || activeFilter === 'vsn')) {
         const names = await loadVsn();
         const hits = names.filter(n =>
           matches(q, n.name.ro, n.name.te || '', n.name.sa || '',
@@ -254,11 +255,14 @@ const Search = (() => {
         hits.forEach(n => { frag.appendChild(vsnCard(n)); count++; });
       }
 
-      if (activeFilter === 'all' || activeFilter === 'gita') {
+      const speakerFilters = { krishna: 'krishna', arjuna: 'arjuna' };
+      const speakerFilter = speakerFilters[activeFilter];
+      if (activeFilter === 'all' || activeFilter === 'gita' || speakerFilter) {
         const idx = await loadGitaIndex();
         for (const entry of idx.chapters) {
           const shlokas = await loadGitaCh(entry.chapter);
           const hits = shlokas.filter(sh => {
+            if (speakerFilter && sh.speaker !== speakerFilter) return false;
             const p1ro = (sh.p1 && sh.p1.ro) || '';
             const men  = sh.meaning && (sh.meaning.en || {});
             return matches(q, p1ro,

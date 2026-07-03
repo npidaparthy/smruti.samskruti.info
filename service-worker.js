@@ -1,4 +1,8 @@
-const CACHE = 'smriti-v13';
+const CACHE = 'smriti-v14';
+
+// Set to true during local testing to skip all caching (network-only).
+// Set back to false before committing/deploying.
+const DEV = false;
 
 const PRECACHE = [
   '/',
@@ -17,12 +21,14 @@ const PRECACHE = [
 ];
 
 self.addEventListener('install', e => {
+  if (DEV) { self.skipWaiting(); return; }
   e.waitUntil(
     caches.open(CACHE).then(c => c.addAll(PRECACHE)).then(() => self.skipWaiting())
   );
 });
 
 self.addEventListener('activate', e => {
+  if (DEV) { e.waitUntil(self.clients.claim()); return; }
   e.waitUntil(
     caches.keys().then(keys =>
       Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k)))
@@ -31,6 +37,9 @@ self.addEventListener('activate', e => {
 });
 
 self.addEventListener('fetch', e => {
+  // DEV mode: always go to network, no caching
+  if (DEV) { e.respondWith(fetch(e.request)); return; }
+
   const url = new URL(e.request.url);
 
   // Network-first for chapter JSON and ekadashi calendar (fresh data, fall back offline)

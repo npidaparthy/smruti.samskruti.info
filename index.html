@@ -9,7 +9,7 @@
 <link rel="manifest" href="/manifest.json">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;500&family=Noto+Serif+Devanagari:wght@400;500&display=swap">
-<link rel="stylesheet" href="/assets/css/main.css?v=24">
+<link rel="stylesheet" href="/assets/css/main.css?v=27">
 </head>
 <body>
 <div id="app">
@@ -467,6 +467,8 @@
       <button class="pill active" data-srch-filter="all" data-i18n="all">అన్నీ</button>
       <button class="pill" data-srch-filter="gita" data-i18n="filter_gita">గీతా</button>
       <button class="pill" data-srch-filter="vsn" data-i18n="filter_vsn">విష్ణు సహస్రనామమ్</button>
+      <button class="pill" data-srch-filter="krishna" data-i18n="filter_krishna">కృష్ణ</button>
+      <button class="pill" data-srch-filter="arjuna" data-i18n="filter_arjuna">అర్జున</button>
     </div>
 
     <!-- Hint shown before any query -->
@@ -586,14 +588,69 @@
     </div>
 
     <div class="settings-section">
-      <div class="settings-heading" data-i18n="about_heading">గురించి</div>
-      <div class="settings-row" style="flex-direction:column;align-items:flex-start;gap:4px">
-        <div class="settings-label">gita.samskruti.info</div>
-        <div class="settings-sub" data-i18n="app_tagline">సంస్కృత గ్రంథ పాఠ్య అభ్యాస సాధన</div>
-        <div class="settings-sub" style="margin-top:6px">
-          <a href="https://samskruti.info" target="_blank">samskruti.info</a> ·
-          <a href="mailto:contact@samskruti.info">Contact</a>
+      <div class="settings-heading" data-i18n="reading_heading">పఠనం</div>
+
+      <div class="settings-row">
+        <div>
+          <div class="settings-label" data-i18n="auto_advance_setting">స్వయంచాలిత పురోగతి</div>
+          <div class="settings-sub" data-i18n="auto_advance_sub">పఠనంలో శ్లోకాలు స్వయంగా మారాలా</div>
         </div>
+        <div class="pill-group" id="s-autoadvance-group">
+          <button class="pill active" data-autoadvance="off" data-i18n="off">ఆపు</button>
+          <button class="pill"        data-autoadvance="on"  data-i18n="on">చేయి</button>
+        </div>
+      </div>
+
+      <div class="settings-row" id="s-autoadvance-speed-row" style="display:none">
+        <div>
+          <div class="settings-label" data-i18n="auto_advance_speed">శ్లోకానికి సమయం</div>
+          <div class="settings-sub"><span id="s-autoadvance-val">9</span> <span data-i18n="seconds">సెకన్లు</span></div>
+        </div>
+        <input type="range" id="s-autoadvance-slider" min="3" max="30" step="1" value="9" style="width:120px">
+      </div>
+
+      <div class="settings-row">
+        <div>
+          <div class="settings-label" data-i18n="av_meaning_setting">అవధానం అర్థం</div>
+          <div class="settings-sub" data-i18n="av_meaning_sub">అవధానం కార్డులో అర్థం అప్రమేయంగా</div>
+        </div>
+        <div class="pill-group" id="s-avmeaning-group">
+          <button class="pill active" data-avmeaning="show" data-i18n="show">చూపు</button>
+          <button class="pill"        data-avmeaning="hide" data-i18n="hide">దాచు</button>
+        </div>
+      </div>
+
+      <div class="settings-row">
+        <div>
+          <div class="settings-label" data-i18n="audio_speed_setting">ఆడియో వేగం</div>
+          <div class="settings-sub" data-i18n="audio_speed_sub">పఠన ఆడియో వేగం</div>
+        </div>
+        <div class="pill-group" id="s-audiospeed-group">
+          <button class="pill active" data-audiospeed="1">1×</button>
+          <button class="pill"        data-audiospeed="1.25">1.25×</button>
+          <button class="pill"        data-audiospeed="1.5">1.5×</button>
+          <button class="pill"        data-audiospeed="2">2×</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="settings-section">
+      <div class="settings-heading about-heading-row">
+        <span data-i18n="about_heading">గురించి</span>
+        <div id="s-build-badge" class="build-badge" title="build version">—</div>
+      </div>
+      <div class="settings-row">
+        <div>
+          <div class="settings-label">smruti.samskruti.info</div>
+          <div class="settings-sub" data-i18n="app_tagline">సంస్కృత గ్రంథ పాఠ్య అభ్యాస సాధన</div>
+        </div>
+      </div>
+      <div class="settings-row">
+        <div>
+          <div class="settings-label">Nagendra Pidaparthy</div>
+          <div class="settings-sub"><a class="about-link" href="mailto:npidaparthy@gmail.com">npidaparthy@gmail.com</a></div>
+        </div>
+        <div class="settings-sub"><a class="about-link" href="https://samskruti.info" target="_blank">samskruti.info ↗</a></div>
       </div>
     </div>
 
@@ -1212,14 +1269,14 @@
 </div>
 
 <script src="/assets/js/constants.js?v=18"></script>
-<script src="/assets/js/modules/i18n.js?v=13"></script>
-<script src="/assets/js/modules/settings.js?v=18"></script>
+<script src="/assets/js/modules/i18n.js?v=15"></script>
+<script src="/assets/js/modules/settings.js?v=21"></script>
 <script src="/assets/js/modules/share.js?v=2"></script>
-<script src="/assets/js/modules/reader.js?v=26"></script>
+<script src="/assets/js/modules/reader.js?v=28"></script>
 <script src="/assets/js/modules/avadhaanam.js?v=13"></script>
 <script src="/assets/js/modules/calendar.js?v=12"></script>
-<script src="/assets/js/modules/search.js?v=18"></script>
+<script src="/assets/js/modules/search.js?v=3"></script>
 <script src="/assets/js/modules/contact.js?v=1"></script>
-<script src="/assets/js/app.js?v=20"></script>
+<script src="/assets/js/app.js?v=21"></script>
 </body>
 </html>

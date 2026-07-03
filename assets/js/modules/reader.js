@@ -10,6 +10,8 @@ const Reader = (() => {
   let currentPos   = 0;
   let activeText   = 'gita';   // 'gita' | 'vsn'
   let _votdSh      = null;
+  let _votdVsnSh   = null;
+  let bgMetaChapters = null;
   let keyVersesMode = false;
   let bookmarksMode = false;
 
@@ -772,6 +774,7 @@ const Reader = (() => {
       bookmarksMode = false;
       selectedChs.clear();
       updateChBtnStates();
+      hideChapterSummary();
       pickRandom();
     });
     wrap.appendChild(allBtn);
@@ -783,7 +786,7 @@ const Reader = (() => {
     starBtn.title = window._uiLang === 'en' ? 'Key Verses' : 'ముఖ్య శ్లోకాలు';
     starBtn.addEventListener('click', () => {
       keyVersesMode = !keyVersesMode;
-      if (keyVersesMode) { bookmarksMode = false; selectedChs.clear(); }
+      if (keyVersesMode) { bookmarksMode = false; selectedChs.clear(); hideChapterSummary(); }
       updateChBtnStates();
       pickRandom();
     });
@@ -796,7 +799,7 @@ const Reader = (() => {
     bmFilterBtn.title = window._uiLang === 'en' ? 'Bookmarks' : 'నచ్చిన శ్లోకాలు';
     bmFilterBtn.addEventListener('click', async () => {
       bookmarksMode = !bookmarksMode;
-      if (bookmarksMode) { keyVersesMode = false; selectedChs.clear(); }
+      if (bookmarksMode) { keyVersesMode = false; selectedChs.clear(); hideChapterSummary(); }
       updateChBtnStates();
       if (bookmarksMode && getBookmarks().size === 0) {
         pool = [];
@@ -824,16 +827,76 @@ const Reader = (() => {
       btn.addEventListener('click', async () => {
         keyVersesMode = false;
         bookmarksMode = false;
-        if (selectedChs.has(entry.chapter)) {
+        const wasSelected = selectedChs.has(entry.chapter);
+        if (wasSelected) {
           selectedChs.delete(entry.chapter);
         } else {
           selectedChs.add(entry.chapter);
         }
         updateChBtnStates();
+        if (selectedChs.size === 1) showChapterSummary([...selectedChs][0]);
+        else hideChapterSummary();
+        // Navigate to first verse when selecting a single new chapter; random otherwise
+        if (!wasSelected && selectedChs.size === 1) {
+          const chData = await loadChapter(entry.chapter);
+          const shlokas = chData.shlokas || [];
+          if (shlokas.length) { pool = shlokas; renderVerse(shlokas[0]); return; }
+        }
         pickRandom();
       });
       wrap.appendChild(btn);
     }
+  }
+
+  // ── Chapter summary card ──────────────────────────────────────
+  async function loadBgMetaChapters() {
+    if (bgMetaChapters) return bgMetaChapters;
+    const meta = await loadBgMeta();
+    bgMetaChapters = {};
+    (meta.chapters || []).forEach(ch => { bgMetaChapters[ch.ch] = ch; });
+    return bgMetaChapters;
+  }
+
+  async function showChapterSummary(chNum) {
+    let card = $('r-ch-summary');
+    if (!card) {
+      card = document.createElement('div');
+      card.id = 'r-ch-summary';
+      card.className = 'ch-summary-card';
+      $('r-ch-wrap')?.after(card);
+    }
+    const script = window._script || 'te';
+    const lang   = window._uiLang === 'en' ? 'en' : 'te';
+    const meta   = await loadBgMetaChapters();
+    const ch     = meta[chNum];
+    const chData = await loadChapter(chNum);
+    if (!ch) { card.hidden = true; return; }
+
+    const nameKey = script === 'ro' ? 'iast' : script === 'dn' ? 'sa' : 'te';
+    const yogaName = ch.name?.[nameKey] || ch.name?.iast || '';
+    const phalashruti = ch.phalashruti?.[lang] || ch.phalashruti?.en || '';
+
+    // Speaker breakdown
+    const speakers = {};
+    (chData.shlokas || []).forEach(sh => {
+      if (sh.speaker) speakers[sh.speaker] = (speakers[sh.speaker] || 0) + 1;
+    });
+    const speakerHtml = Object.entries(speakers).map(([sp, cnt]) => {
+      const badge = { krishna:'badge-krishna', arjuna:'badge-arjuna', sanjaya:'badge-sanjaya', dhritarashtra:'badge-dhritarashtra' }[sp] || 'badge-krishna';
+      return `<span class="badge ${badge}">${sp} ${cnt}</span>`;
+    }).join(' ');
+
+    card.innerHTML = `
+      <div class="ch-summary-yoga">${yogaName}</div>
+      <div class="ch-summary-meta">${ch.verses} ${lang === 'te' ? 'శ్లోకాలు' : 'verses'} · ${speakerHtml}</div>
+      ${phalashruti ? `<div class="ch-summary-phalashruti">${phalashruti}</div>` : ''}
+    `;
+    card.hidden = false;
+  }
+
+  function hideChapterSummary() {
+    const card = $('r-ch-summary');
+    if (card) card.hidden = true;
   }
 
   function updateVsnGroupBtns(wrap) {
@@ -1174,6 +1237,7 @@ const Reader = (() => {
 
   // ── VOTD card ─────────────────────────────────────────────────
   function showVotdCard(sh) {
+    const isVsn = !sh.c;
     let card = $('r-votd-card');
     if (!card) {
       card = document.createElement('div');
@@ -1187,30 +1251,44 @@ const Reader = (() => {
     const line2  = padaText(sh.p2, script) + ' ।';
     const ml     = window._meaningLang || 'en';
     const short  = sh.meaning?.[ml]?.short || sh.meaning?.en?.short || sh.meaning?.te?.short || '';
+    const ref    = isVsn ? `VSN · ${sh.s}` : `${sh.c}.${sh.s}`;
+    const gotoLabel = en ? 'Read in context →' : 'శ్లోకానికి వెళ్ళు →';
     card.innerHTML = `
       <div class="votd-header">
         <span class="votd-sun">☀</span>
         <span class="votd-label">${en ? "Today's Verse" : 'నేటి శ్లోకం'}</span>
-        <span class="votd-ref">${sh.c}.${sh.s}</span>
+        <span class="votd-ref">${ref}</span>
         <button class="votd-close" id="r-votd-close">✕</button>
       </div>
       <div class="votd-verse">${line1}<br>${line2}…</div>
       ${short ? `<div class="votd-meaning">${short}</div>` : ''}
-      <button class="votd-goto" id="r-votd-goto">${en ? 'Read in context →' : 'శ్లోకానికి వెళ్ళు →'}</button>
+      <button class="votd-goto" id="r-votd-goto">${gotoLabel}</button>
     `;
     card.hidden = false;
     $('r-votd-close')?.addEventListener('click', () => { card.hidden = true; });
     $('r-votd-goto')?.addEventListener('click', () => {
       card.hidden = true;
-      if (activeText !== 'gita') {
-        activeText = 'gita';
-        const sel = $('r-text-select'); if (sel) sel.value = 'gita';
-        buildChapterGrid();
+      if (isVsn) {
+        if (activeText !== 'vsn') {
+          activeText = 'vsn';
+          const sel = $('r-text-select'); if (sel) sel.value = 'vsn';
+          buildChapterGrid();
+        }
+        loadVsn().then(shlokas => {
+          const target = shlokas.find(x => +x.s === +sh.s);
+          if (target) { pool = shlokas; renderVerse(target); }
+        });
+      } else {
+        if (activeText !== 'gita') {
+          activeText = 'gita';
+          const sel = $('r-text-select'); if (sel) sel.value = 'gita';
+          buildChapterGrid();
+        }
+        loadChapter(sh.c).then(chData => {
+          const target = (chData.shlokas || []).find(x => +x.s === +sh.s);
+          if (target) { pool = chData.shlokas; renderVerse(target); }
+        });
       }
-      loadChapter(sh.c).then(chData => {
-        const target = (chData.shlokas || []).find(x => +x.s === +sh.s);
-        if (target) { pool = chData.shlokas; renderVerse(target); }
-      });
     });
   }
 
@@ -1224,6 +1302,53 @@ const Reader = (() => {
       if (offset < shlokas.length) { _votdSh = shlokas[offset]; showVotdCard(_votdSh); return; }
       offset -= shlokas.length;
     }
+  }
+
+  async function checkGitaJayanti() {
+    try {
+      const r = await fetch('/data/ekadashi.json', { cache: 'no-store' });
+      const data = await r.json();
+      const today = new Date().toISOString().slice(0, 10);
+      let jayanti = null;
+      for (const yr of Object.values(data.dates || {})) {
+        for (const e of yr) {
+          if (e.id === 'mokshada') {
+            const diff = (new Date(e.date) - new Date(today)) / 86400000;
+            if (diff >= -1 && diff <= 3) { jayanti = e; break; }
+          }
+        }
+        if (jayanti) break;
+      }
+      if (!jayanti) return;
+      const en = window._uiLang === 'en';
+      const banner = document.createElement('div');
+      banner.id = 'r-jayanti-banner';
+      banner.className = 'jayanti-banner';
+      banner.innerHTML = `
+        <span class="jayanti-icon">🌟</span>
+        <span class="jayanti-text">${en ? 'Gītā Jayantī — ' + jayanti.date : 'గీతా జయంతి — ' + jayanti.date}</span>
+        <button class="jayanti-goto" id="r-jayanti-goto">18.66 →</button>
+        <button class="jayanti-close" id="r-jayanti-close">✕</button>
+      `;
+      $('r-verse-box')?.before(banner);
+      $('r-jayanti-close')?.addEventListener('click', () => banner.remove());
+      $('r-jayanti-goto')?.addEventListener('click', () => {
+        banner.remove();
+        if (activeText !== 'gita') { activeText = 'gita'; const sel = $('r-text-select'); if (sel) sel.value = 'gita'; buildChapterGrid(); }
+        loadChapter(18).then(chData => {
+          const target = (chData.shlokas || []).find(x => +x.s === 66);
+          if (target) { pool = chData.shlokas; renderVerse(target); }
+        });
+      });
+    } catch(e) {}
+  }
+
+  async function loadAndShowVsnVotd() {
+    const shlokas = await loadVsn();
+    if (!shlokas.length) return;
+    const idx = Math.floor(Date.now() / 86400000) % shlokas.length;
+    _votdVsnSh = shlokas[idx];
+    showVotdCard(_votdVsnSh);
   }
 
   // ── Today's verse ─────────────────────────────────────────────
@@ -1270,6 +1395,7 @@ const Reader = (() => {
     todayBtn.addEventListener('click', () => {
       const card = $('r-votd-card');
       if (card && !card.hidden) { card.hidden = true; }
+      else if (activeText === 'vsn') { loadAndShowVsnVotd(); }
       else { loadAndShowVotd(); }
     });
 
@@ -1320,13 +1446,33 @@ const Reader = (() => {
           else pickRandom();
         }).catch(pickRandom);
       }
-      loadAndShowVotd();
+      if (activeText === 'vsn') loadAndShowVsnVotd(); else loadAndShowVotd();
+      checkGitaJayanti();
     });
 
     $('r-random').addEventListener('click', pickRandom);
     $('r-prev').addEventListener('click', navPrev);
-    $('r-next').addEventListener('click', navNext);
+    $('r-next').addEventListener('click', () => { resetAutoAdvance(); navNext(); });
     $('r-play').addEventListener('click', playAudio);
+
+    // Auto-advance
+    let _aaTimer = null;
+    function resetAutoAdvance() {
+      clearTimeout(_aaTimer);
+      const aa = window._autoAdvance || { on: false, secs: 9 };
+      if (aa.on) _aaTimer = setTimeout(() => { navNext(); resetAutoAdvance(); }, aa.secs * 1000);
+    }
+    const _origRender = renderVerse;
+    window.addEventListener('autoAdvanceChange', e => {
+      window._autoAdvance = e.detail;
+      clearTimeout(_aaTimer);
+      if (e.detail.on) resetAutoAdvance();
+    });
+    // Restart timer on any navigation
+    const _patchNav = () => resetAutoAdvance();
+    $('r-prev').addEventListener('click', _patchNav);
+    $('r-random').addEventListener('click', _patchNav);
+    if (window._autoAdvance?.on) resetAutoAdvance();
 
     const textSel = $('r-text-select');
     if (textSel) {
@@ -1336,6 +1482,12 @@ const Reader = (() => {
         vsnSelectedGroups.clear();
         buildChapterGrid();
         pickRandom();
+        const isVsn = activeText === 'vsn';
+        const pb = $('r-progress-badge'); if (pb) pb.hidden = isVsn;
+        // Switch VOTD to match text mode
+        const vc = $('r-votd-card');
+        if (isVsn) { if (_votdVsnSh) showVotdCard(_votdVsnSh); else loadAndShowVsnVotd(); }
+        else { if (vc) vc.hidden = true; if (_votdSh) showVotdCard(_votdSh); else loadAndShowVotd(); }
       });
     }
 
