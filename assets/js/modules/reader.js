@@ -1014,10 +1014,32 @@ const Reader = (() => {
     });
 
     renderMeaning(sh);
+    renderConclusion(sh);
     renderNotesPanel(sh);
     if (_pendingHighlight) { highlightVerseName(_pendingHighlight); _pendingHighlight = null; }
     if (_pendingSearchHL) { const p = _pendingSearchHL; _pendingSearchHL = null; setTimeout(() => highlightSearchQuery(p.q, p.scope), 250); }
     saveLastVerse(sh);
+  }
+
+  function renderConclusion(sh) {
+    const wrap = $('r-conclusion-wrap');
+    if (!wrap) return;
+    if (activeText !== 'gita') { wrap.style.display = 'none'; return; }
+    const chData = chapterCache[sh.c];
+    if (!chData || !chData.conclusion) { wrap.style.display = 'none'; return; }
+    const shlokas = chData.shlokas || [];
+    const lastS   = shlokas[shlokas.length - 1]?.s;
+    if (sh.s !== lastS) { wrap.style.display = 'none'; return; }
+
+    const script  = window._script || 'te';
+    const lang    = window._meaningLang || 'en';
+    const c       = chData.conclusion;
+    const text    = script === 'ro' ? c.ro : script === 'dn' ? c.dn : c.te;
+    const meaning = c.meaning?.[lang]?.short || c.meaning?.en?.short || '';
+
+    $('r-conclusion-text').textContent    = text;
+    $('r-conclusion-meaning').textContent = meaning;
+    wrap.style.display = '';
   }
 
   let _pendingHighlight   = null;
@@ -1624,7 +1646,7 @@ const Reader = (() => {
       });
     });
     window.addEventListener('meaningLangChange', () => {
-      if (current) renderMeaning(current);
+      if (current) { renderMeaning(current); renderConclusion(current); }
       const vc = $('r-votd-card'); if (_votdSh && vc && !vc.hidden) showVotdCard(_votdSh);
     });
     window.addEventListener('uiLangChange', () => {

@@ -606,6 +606,11 @@ sup.akshara-badge {
 .wbw-table td { padding: 3px 6px; border-bottom: 1px solid var(--bg3); vertical-align: top; }
 .wbw-table td:first-child { font-family: var(--font-verse); font-size: 13px; }
 
+/* ── Chapter conclusion colophon ───────────────────────────────── */
+#r-conclusion-wrap { margin-top: 24px; padding-top: 18px; border-top: 1px solid var(--bg3); text-align: center; }
+.conclusion-text { font-family: var(--font-verse); font-size: 14px; line-height: 2; color: var(--fg2); white-space: pre-line; }
+.conclusion-meaning { font-size: 12px; color: var(--fg3); margin-top: 8px; font-style: italic; }
+
 /* ── Nakshatra panel (modal) ───────────────────────────────────── */
 #naksh-modal {
   display: none;
