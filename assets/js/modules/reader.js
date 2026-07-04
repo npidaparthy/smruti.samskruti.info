@@ -660,7 +660,7 @@ const Reader = (() => {
 
   async function loadChapter(num) {
     if (chapterCache[num]) return chapterCache[num];
-    const r = await fetch(C.CHAPTER_PATH(num));
+    const r = await fetch(C.CHAPTER_PATH(num), { cache: 'no-store' });
     const data = await r.json();
     chapterCache[num] = data;
     return data;
@@ -828,16 +828,12 @@ const Reader = (() => {
         keyVersesMode = false;
         bookmarksMode = false;
         const wasSelected = selectedChs.has(entry.chapter);
-        if (wasSelected) {
-          selectedChs.delete(entry.chapter);
-        } else {
-          selectedChs.add(entry.chapter);
-        }
+        selectedChs.clear();
+        if (!wasSelected) selectedChs.add(entry.chapter);
         updateChBtnStates();
         if (selectedChs.size === 1) showChapterSummary([...selectedChs][0]);
         else hideChapterSummary();
-        // Navigate to first verse when selecting a single new chapter; random otherwise
-        if (!wasSelected && selectedChs.size === 1) {
+        if (!wasSelected) {
           const chData = await loadChapter(entry.chapter);
           const shlokas = chData.shlokas || [];
           if (shlokas.length) { pool = shlokas; renderVerse(shlokas[0]); return; }
@@ -922,6 +918,8 @@ const Reader = (() => {
   // ── Verse rendering ───────────────────────────────────────────
   function renderVerse(sh) {
     current = sh;
+    const idx = pool.findIndex(x => x.c === sh.c && x.s === sh.s);
+    if (idx !== -1) currentPos = idx;
     const script = window._script || 'te';
 
     const refEl = $('r-verse-ref');
