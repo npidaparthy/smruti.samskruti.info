@@ -1016,10 +1016,12 @@ const Reader = (() => {
     renderMeaning(sh);
     renderNotesPanel(sh);
     if (_pendingHighlight) { highlightVerseName(_pendingHighlight); _pendingHighlight = null; }
+    if (_pendingSearchHL) { const p = _pendingSearchHL; _pendingSearchHL = null; setTimeout(() => highlightSearchQuery(p.q, p.scope), 250); }
     saveLastVerse(sh);
   }
 
-  let _pendingHighlight = null;
+  let _pendingHighlight   = null;
+  let _pendingSearchHL    = null;
 
   function showNameBackBtn(nameLabel) {
     let btn = $('r-name-back-btn');
@@ -1065,6 +1067,49 @@ const Reader = (() => {
       verseEl.classList.add('verse-box-flash');
       setTimeout(() => verseEl.classList.remove('verse-box-flash'), 900);
     }
+  }
+
+  function highlightSearchQuery(query, scope) {
+    if (!query) return;
+    // Build diacritic-tolerant regex: each Latin char optionally matches its accented variants
+    const dMap = {
+      a:'[aāáàäâã]',i:'[iīíìïî]',u:'[uūúùüû]',e:'[eéèëê]',o:'[oóòöô]',
+      r:'[rṛ]',n:'[nṇṅñ]',s:'[sśṣ]',t:'[tṭ]',d:'[dḍ]',
+      m:'[mṃṁ]',h:'[hḥ]',l:'[lḷ]'
+    };
+    const q = query.trim();
+    if (!q) return;
+    const pattern = q.toLowerCase().split('').map(c => dMap[c] || c.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('');
+    const re = new RegExp(pattern, 'gi');
+
+    function hlText(text) {
+      return text.replace(new RegExp(pattern, 'gi'), m => `<mark class="search-hl">${m}</mark>`);
+    }
+    function applyHL(el) {
+      if (!el) return;
+      // Use innerHTML replacement on leaf text containers (safe — content is from trusted JSON)
+      if (!el.querySelector('*')) {
+        // Leaf element — replace text directly
+        const t = el.textContent;
+        if (new RegExp(pattern,'i').test(t)) el.innerHTML = hlText(t);
+      } else {
+        el.querySelectorAll('*').forEach(child => {
+          if (!child.querySelector('*')) {
+            const t = child.textContent;
+            if (new RegExp(pattern,'i').test(t)) child.innerHTML = hlText(t);
+          }
+        });
+      }
+    }
+
+    if (scope === 'verse' || scope === 'both') {
+      $('r-verse-text')?.querySelectorAll('.verse-pada').forEach(span => applyHL(span));
+    }
+    if (scope === 'meaning' || scope === 'both') {
+      applyHL($('r-meaning-short'));
+    }
+
+    // Clear on next navigation (handled by renderVerse resetting innerHTML)
   }
 
   function renderMeaning(sh) {
@@ -1513,8 +1558,9 @@ const Reader = (() => {
     });
 
     window.addEventListener('readerNavigate', async e => {
-      const { text, sh, ch, s, highlightName } = e.detail;
+      const { text, sh, ch, s, highlightName, hlQuery, hlScope } = e.detail;
       if (highlightName) _pendingHighlight = highlightName;
+      if (hlQuery) _pendingSearchHL = { q: hlQuery, scope: hlScope || 'both' };
       const sel = $('r-text-select');
       if (text === 'vsn') {
         if (activeText !== 'vsn') {

@@ -7,6 +7,7 @@ const Search = (() => {
   let gitaIndex   = null;
   let gitaCache   = {};     // ch number → shlokas[]
   let activeFilter = 'all';
+  let activeScope  = 'both';   // 'both' | 'verse' | 'meaning'
   let debounceTimer = null;
   let lastQuery = '';
 
@@ -39,6 +40,7 @@ const Search = (() => {
     return (s || '').toLowerCase()
       .replace(/[ḥṃṁṅñṭḍṇśṣḷ]/g, c => ({'ḥ':'h','ṃ':'m','ṁ':'m','ṅ':'n','ñ':'n','ṭ':'t','ḍ':'d','ṇ':'n','ś':'s','ṣ':'s','ḷ':'l'}[c]||c))
       .replace(/[āīūṛ]/g, c => ({'ā':'a','ī':'i','ū':'u','ṛ':'r'}[c]||c))
+      .replace(/sh/g, 's')   // "keshava"→"kesava" matches IAST "keśava"→"kesava"
       .replace(/[^a-z0-9ఀ-౿]/g, '');
   }
 
@@ -53,7 +55,7 @@ const Search = (() => {
     return fields.some(f => {
       const fn = norm(f);
       if (fn.includes(q)) return true;
-      if (qc.length >= 3 && compact(f).includes(qc)) return true;
+      if (qc.length >= 5 && compact(f).includes(qc)) return true;
       return false;
     });
   }
@@ -90,7 +92,7 @@ const Search = (() => {
       </div>
       <div class="srch-card-title">${name}</div>
       ${m ? `<div class="srch-card-sub">${m}</div>` : ''}`;
-    div.addEventListener('click', () => goToVsn(n.sh));
+    div.addEventListener('click', () => goToVsn(n.sh, lastQuery));
     return div;
   }
 
@@ -107,7 +109,7 @@ const Search = (() => {
         <span class="srch-card-speaker">${total} నామాలు</span>
       </div>
       <div class="srch-card-title">${firstNames}${total > 3 ? ' …' : ''}</div>`;
-    div.addEventListener('click', () => goToVsn(sh));
+    div.addEventListener('click', () => goToVsn(sh, lastQuery));
     return div;
   }
 
@@ -127,17 +129,17 @@ const Search = (() => {
       </div>
       <div class="srch-card-title">${p1}</div>
       ${short ? `<div class="srch-card-sub">${short.slice(0,90)}${short.length>90?'…':''}</div>` : ''}`;
-    div.addEventListener('click', () => goToGita(+sh.c, +sh.s));
+    div.addEventListener('click', () => goToGita(+sh.c, +sh.s, lastQuery));
     return div;
   }
 
   // ── Navigation ────────────────────────────────────────────────
-  function goToVsn(sh) {
-    window.dispatchEvent(new CustomEvent('searchNavigate', { detail: { text: 'vsn', sh } }));
+  function goToVsn(sh, query) {
+    window.dispatchEvent(new CustomEvent('searchNavigate', { detail: { text: 'vsn', sh, hlQuery: query, hlScope: activeScope } }));
   }
 
-  function goToGita(ch, s) {
-    window.dispatchEvent(new CustomEvent('searchNavigate', { detail: { text: 'gita', ch, s } }));
+  function goToGita(ch, s, query) {
+    window.dispatchEvent(new CustomEvent('searchNavigate', { detail: { text: 'gita', ch, s, hlQuery: query, hlScope: activeScope } }));
   }
 
   // ── Core search ───────────────────────────────────────────────
@@ -152,6 +154,7 @@ const Search = (() => {
     hintEl && (hintEl.style.display = 'none');
     resultsEl.innerHTML = '<div class="srch-loading">వెతుకుతున్నాం…</div>';
 
+    lastQuery = raw.trim();
     const parsed = parseQuery(raw);
     const frag   = document.createDocumentFragment();
     let count = 0;
@@ -247,11 +250,13 @@ const Search = (() => {
       const isSpeakerFilter = activeFilter === 'krishna' || activeFilter === 'arjuna';
       if (!isSpeakerFilter && (activeFilter === 'all' || activeFilter === 'vsn')) {
         const names = await loadVsn();
-        const hits = names.filter(n =>
-          matches(q, n.name.ro, n.name.te || '', n.name.sa || '',
-            (n.meaning && n.meaning.en) || '',
-            (n.meaning && n.meaning.te) || '')
-        ).slice(0, 15);
+        const hits = names.filter(n => {
+          const inVerse   = matches(q, n.name.ro, n.name.te || '', n.name.sa || '');
+          const inMeaning = matches(q, (n.meaning && n.meaning.en) || '', (n.meaning && n.meaning.te) || '');
+          if (activeScope === 'verse')   return inVerse;
+          if (activeScope === 'meaning') return inMeaning;
+          return inVerse || inMeaning;
+        }).slice(0, 15);
         hits.forEach(n => { frag.appendChild(vsnCard(n)); count++; });
       }
 
@@ -263,12 +268,17 @@ const Search = (() => {
           const shlokas = await loadGitaCh(entry.chapter);
           const hits = shlokas.filter(sh => {
             if (speakerFilter && sh.speaker !== speakerFilter) return false;
-            const p1ro = (sh.p1 && sh.p1.ro) || '';
-            const men  = sh.meaning && (sh.meaning.en || {});
-            return matches(q, p1ro,
-              (sh.p1 && sh.p1.te) || '',
+            // Search all 4 padas, not just p1
+            const allRo = ['p1','p2','p3','p4'].map(k => (sh[k] && sh[k].ro) || '').join(' ');
+            const allTe = ['p1','p2','p3','p4'].map(k => (sh[k] && sh[k].te) || '').join(' ');
+            const men   = sh.meaning && (sh.meaning.en || {});
+            const inVerse   = matches(q, allRo, allTe);
+            const inMeaning = matches(q,
               (typeof men === 'object' ? men.short || '' : men),
               (sh.meaning && sh.meaning.te && sh.meaning.te.short) || '');
+            if (activeScope === 'verse')   return inVerse;
+            if (activeScope === 'meaning') return inMeaning;
+            return inVerse || inMeaning;
           }).slice(0, 5);
           hits.forEach(sh => { frag.appendChild(gitaCard(sh)); count++; });
           if (count >= 30) break;
@@ -316,6 +326,16 @@ const Search = (() => {
         filters.forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
         activeFilter = btn.dataset.srchFilter;
+        if (input.value.trim()) runSearch(input.value);
+      });
+    });
+
+    const scopeBtns = document.querySelectorAll('[data-srch-scope]');
+    scopeBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        scopeBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeScope = btn.dataset.srchScope;
         if (input.value.trim()) runSearch(input.value);
       });
     });

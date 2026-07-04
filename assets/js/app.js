@@ -138,6 +138,7 @@
   Calendar.init();
   Search.init();
   Contact.init();
+  NamesReview.init();
   syncHelpLang();
 
   console.log('smruti.samskruti.info initialised ✓');
