@@ -803,15 +803,23 @@ const Reader = (() => {
       updateChBtnStates();
       if (bookmarksMode && getBookmarks().size === 0) {
         pool = [];
-        const verseEl = $('r-verse-text');
-        if (verseEl) {
-          verseEl.innerHTML = '';
-          const msg = document.createElement('span');
-          msg.className = 'muted';
+        const box = $('r-verse-box');
+        if (box) {
+          box.style.display = 'none';
+          $('r-meaning-wrap').style.display  = 'none';
+          $('r-conclusion-wrap').style.display = 'none';
+          let msg = $('r-empty-state');
+          if (!msg) {
+            msg = document.createElement('p');
+            msg.id = 'r-empty-state';
+            msg.className = 'muted';
+            msg.style.cssText = 'text-align:center;padding:24px 16px';
+            box.after(msg);
+          }
           msg.textContent = window._uiLang === 'en'
             ? 'No bookmarks yet. Tap ♡ on any verse to save it here.'
             : 'ఇంకా ఏ శ్లోకమూ సేవ్ కాలేదు. ఏదైనా శ్లోకంపై ♡ నొక్కండి.';
-          verseEl.appendChild(msg);
+          msg.style.display = '';
         }
       } else {
         pickRandom();
@@ -920,6 +928,9 @@ const Reader = (() => {
     current = sh;
     const idx = pool.findIndex(x => x.c === sh.c && x.s === sh.s);
     if (idx !== -1) currentPos = idx;
+    const box = $('r-verse-box'); if (box) box.style.display = '';
+    const es = $('r-empty-state'); if (es) es.style.display = 'none';
+    const mw = $('r-meaning-wrap'); if (mw) mw.style.display = '';
     const script = window._script || 'te';
 
     const refEl = $('r-verse-ref');
