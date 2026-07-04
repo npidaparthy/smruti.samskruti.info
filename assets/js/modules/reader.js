@@ -1113,8 +1113,9 @@ const Reader = (() => {
   }
 
   function renderMeaning(sh) {
-    const lang = window._meaningLang || 'en';
-    const out  = $('r-meaning-short');
+    const lang  = window._meaningLang || 'en';
+    const mtype = document.querySelector('#r-mtype-group .pill.active')?.dataset.mtype || 'short';
+    const out   = $('r-meaning-short');
 
     // VSN shloka: show names + meanings
     if (activeText === 'vsn' && sh) {
@@ -1141,12 +1142,36 @@ const Reader = (() => {
 
     if (!sh || !sh.meaning) { out.style.display = 'none'; return; }
     const m = sh.meaning[lang] || sh.meaning.en;
-    if (m && m.short) {
-      out.textContent = m.short;
-      out.style.display = '';
+    if (!m) { out.style.display = 'none'; return; }
+
+    if (mtype === 'wbw') {
+      if (lang !== 'en') {
+        out.innerHTML = `<span class="meaning-empty wbw-note">పద×పదం అర్థం English లో మాత్రమే లభ్యం. / Word-by-word only available in English.</span>`;
+        out.style.display = '';
+        return;
+      }
+      if (!m.wbw || !m.wbw.length) {
+        out.innerHTML = `<span class="meaning-empty">${t('no_meaning')}</span>`;
+        out.style.display = '';
+        return;
+      }
+      const uiLang = window._uiLang || 'te';
+      const table = document.createElement('table');
+      table.className = 'wbw-table';
+      table.innerHTML = `<tr><th>${uiLang === 'te' ? 'పదం' : 'Word'}</th><th>${uiLang === 'te' ? 'వ్యాకరణం' : 'Grammar'}</th><th>${uiLang === 'te' ? 'అర్థం' : 'Meaning'}</th></tr>`;
+      m.wbw.forEach(row => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<td>${row.word}</td><td>${row.grammar}</td><td>${row.meaning}</td>`;
+        table.appendChild(tr);
+      });
+      out.innerHTML = '';
+      out.appendChild(table);
+    } else if (mtype === 'long') {
+      out.textContent = m.long || m.short || t('no_meaning');
     } else {
-      out.style.display = 'none';
+      out.textContent = m.short || t('no_meaning');
     }
+    out.style.display = '';
   }
 
   // ── Navigation ────────────────────────────────────────────────
@@ -1590,6 +1615,13 @@ const Reader = (() => {
           }
         }
       }
+    });
+    document.querySelectorAll('#r-mtype-group .pill').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('#r-mtype-group .pill').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        if (current) renderMeaning(current);
+      });
     });
     window.addEventListener('meaningLangChange', () => {
       if (current) renderMeaning(current);
