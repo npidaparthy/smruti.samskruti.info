@@ -1,1 +1,1746 @@
-{"chapter":17,"title":{"en":"Śraddhātraya Vibhāga Yoga","te":"శ్రద్ధాత్రయవిభాగయోగః","sa":"श्रद्धात्रयविभागयोगः","ro":"Śraddhātrayavibhāgayogaḥ"},"yoga":"Yoga of the Division of Threefold Faith","opening_speaker":"arjuna","first_verse":"ye śāstravidhimutsṛjya","last_verse":"aśraddhayā hutaṃ dattaṃ","uvacha":{"dhritarashtra":0,"sanjaya":0,"arjuna":1,"krishna":1},"audio":null,"shlokas":[{"c":17,"s":1,"speaker":"arjuna","p1":{"ro":"ye śāstravidhimutsṛjya","te":"యే శాస్త్రవిధిముత్సృజ్య","dn":"ये शास्त्रविधिमुत्सृज्य"},"p2":{"ro":"yajante śraddhayānvitāḥ","te":"యజన్తే శ్రద్ధయాన్వితాః","dn":"यजन्ते श्रद्धयान्विताः"},"p3":{"ro":"teṣāṃ niṣṭhā tu kā kṛṣṇa","te":"తేషాం నిష్ఠా తు కా కృష్ణ","dn":"तेषां निष्ठा तु का कृष्ण"},"p4":{"ro":"sattvamāho rajastamaḥ","te":"సత్త్వమాహో రజస్తమః","dn":"सत्त्वमाहो रजस्तमः"},"meaning":{"en":{"short":"Arjuna said — Those who abandon the scriptural injunctions but sacrifice with faith — what is their position, O Krishna? Sattva, Rajas, or Tamas?","long":"Arjuna picks up on 16.23-24's conclusion about scripture. A natural follow-up question: what about those who have genuine faith but don't follow specific scriptural rules? Is their faith still valid? Which of the three guṇas does it fall under? This launches chapter 17's exploration of the three types of faith, food, sacrifice, austerity, and giving — all analyzed through the sattva/rajas/tamas framework. \"Ye śāstra-vidhim utsṛjya yajante śraddhayānvitāḥ — teṣāṃ niṣṭhā tu kā kṛṣṇa sattvam āho rajas tamaḥ.\"","wbw":[{"word":"ye śāstra-vidhim utsṛjya","grammar":"phrase","meaning":"those who, having abandoned scriptural injunction"},{"word":"yajante śraddhayānvitāḥ","grammar":"phrase","meaning":"sacrifice with faith"},{"word":"teṣāṃ niṣṭhā tu kā kṛṣṇa","grammar":"question","meaning":"what is their position, O Krishna"},{"word":"sattvam āho rajas tamaḥ","grammar":"phrase","meaning":"sattva, or rajas, or tamas"}]},"te":{"short":"అర్జునుడు అన్నాడు — శాస్త్రవిధులను వదిలి కానీ శ్రద్ధతో యజ్ఞంచేసే వారి స్థితి ఏమిటి, కృష్ణా? సత్త్వమా, రజస్సా, తమస్సా?","long":"అర్జునుడు 16.23-24 నిర్ణయం ఆధారంగా ప్రశ్నిస్తున్నాడు. సహజమైన అనుగ్రహప్రశ్న: నిజమైన శ్రద్ధ ఉన్నవారు కానీ నిర్దిష్ట శాస్త్రనియమాలు పాటించకుండా ఉంటే వారి శ్రద్ధ చెల్లుబాటవుతుందా? మూడు గుణాలలో ఏది? ఈ ప్రశ్న అధ్యాయం 17లో మూడు రకాల శ్రద్ధ, ఆహారం, యజ్ఞం, తపస్సు, దానం — అన్నీ సత్త్వ/రజస్/తమస్ చట్రంలో విశ్లేషణకు దారితీస్తుంది."},"sa":{"short":"अर्जुन उवाच — शास्त्रविधिमुत्सृज्य श्रद्धयान्विताः यजंते — तेषां निष्ठा का कृष्ण — सत्त्वमाहो रजस्तमः?","long":"अर्जुनः १६.२३-२४ के उत्तरतः प्रश्नं करोति। स्वाभाविकोऽनुगामी प्रश्नः: शास्त्रनियमान् अनुसरन् न, किंतु सच्छ्रद्धया यजमानेषु कथम्? तेषां श्रद्धा मान्या वा? त्रिषु गुणेषु कः? एष प्रश्नः सप्तदशाध्यायस्य श्रद्धात्रय-विश्लेषणं (आहार, यजन, तपस्, दानं) प्रारभते — सर्वं सत्त्व-रजस्-तमसः चट्टाने।"}}},{"c":17,"s":2,"speaker":"krishna","p1":{"ro":"trividhā bhavati śraddhā","te":"త్రివిధా భవతి శ్రద్ధా","dn":"त्रिविधा भवति श्रद्धा"},"p2":{"ro":"dehināṃ sā svabhāvajā","te":"దేహినాం సా స్వభావజా","dn":"देहिनां सा स्वभावजा"},"p3":{"ro":"sāttvikī rājasī caiva","te":"సాత్త్వికీ రాజసీ చైవ","dn":"सात्त्विकी राजसी चैव"},"p4":{"ro":"tāmasī ceti tāṃ śṛṇu","te":"తామసీ చేతి తాం శృణు","dn":"तामसी चेति तां शृणु"},"meaning":{"en":{"short":"The Lord said — The faith of embodied beings is of three kinds, born of their own nature — sattvic, rajasic, and tamasic. Hear about these.","long":"\"Tri-vidhā bhavati śraddhā dehināṃ sā svabhāva-jā / sāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu.\" Krishna's answer: śraddhā (faith) is threefold, born of svabhāva (one's own nature). The key insight is that śraddhā is not a separate faculty — it emerges from one's constitutive guṇa-nature. A sāttvika person has sāttvika faith; a rājasika person has rājasika faith. Faith reflects the person rather than being independently authenticated. This is why two people can have \"faith\" in very different things.","wbw":[{"word":"tri-vidhā bhavati śraddhā","grammar":"phrase","meaning":"faith is of three kinds"},{"word":"dehināṃ sā svabhāva-jā","grammar":"phrase","meaning":"of embodied beings, born of their nature"},{"word":"sāttvikī rājasī caiva","grammar":"phrase","meaning":"sattvic and rajasic"},{"word":"tāmasī ceti tāṃ śṛṇu","grammar":"phrase","meaning":"and tamasic — hear about these"}]},"te":{"short":"భగవానుడు చెప్పారు — దేహిగల జీవుల శ్రద్ధ మూడు రకాలు, వారి స్వభావం నుండి జనించిన — సాత్వికి, రాజసి, తామసి. వీటిని వినుము.","long":"\"త్రివిధా భవతి శ్రద్ధా దేహినాం సా స్వభావజా / సాత్వికీ రాజసీ చైవ తామసీ చేతి తాం శ్రృణు.\" కృష్ణుని సమాధానం: శ్రద్ధ మూడు రకాలు, స్వభావం (తన స్వంత స్వభావం) నుండి జనించిన. ముఖ్య జ్ఞానం: శ్రద్ధ వేరే శక్తి కాదు — ఒకరి సహజ గుణస్వభావం నుండి ఉద్భవిస్తుంది. సాత్వికి వ్యక్తికి సాత్వికి శ్రద్ధ ఉంటుంది; రాజసికి వ్యక్తికి రాజసికి శ్రద్ధ ఉంటుంది. శ్రద్ధ వ్యక్తిని ప్రతిబింబిస్తుంది."},"sa":{"short":"भगवानुवाच — देहिनां श्रद्धा त्रिविधा भवति — स्वभावजा — सात्विकी, राजसी, तामसी च। तां श्रृणु।","long":"\"त्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा / सात्विकी राजसी चैव तामसी चेति तां श्रृणु।\" कृष्णस्योत्तरम्: श्रद्धा त्रिविधा, स्वभावात् (स्वस्वभावात्) जाता। मुख्यज्ञानम्: श्रद्धा पृथक्शक्तिः नैव — जनस्य सहजगुणस्वभावात् उद्भवति। सात्विकस्य सात्विकी श्रद्धा; राजसिकस्य राजसी श्रद्धा। श्रद्धा जनं दर्शयति — स्वतंत्रतः प्रमाणिता नैव।"}}},{"c":17,"s":3,"speaker":"krishna","p1":{"ro":"sattvānurūpā sarvasya","te":"సత్త్వానురూపా సర్వస్య","dn":"सत्त्वानुरूपा सर्वस्य"},"p2":{"ro":"śraddhā bhavati bhārata","te":"శ్రద్ధా భవతి భారత","dn":"श्रद्धा भवति भारत"},"p3":{"ro":"śraddhāmayo'yaṃ puru","te":"శ్రద్ధామయోఽయం పురు","dn":"श्रद्धामयोऽयं पुरु"},"p4":{"ro":"ṣo yo yacchraddhaḥ sa eva saḥ","te":"షో యో యచ్ఛ్రద్ధః స ఏవ సః","dn":"षो यो यच्छ्रद्धः स एव सः"},"meaning":{"en":{"short":"The faith of each person corresponds to their inherent nature, O Bhārata. A person consists of faith — what one has faith in, that one is.","long":"\"Sattvānurūpā sarvasya śraddhā bhavati bhārata / śraddhāmayo'yaṃ puruṣo yo yac-chraddhaḥ sa eva saḥ.\" \"Sattvānurūpā sarvasya śraddhā bhavati\" — each person's faith corresponds to their sattva (here meaning their nature/constitution). \"Śraddhāmayo'yaṃ puruṣaḥ\" — this person is constituted of faith. \"Yo yac-chraddhaḥ sa eva saḥ\" — what one has faith in, that one is. This is one of the Gītā's most psychologically penetrating lines: identity is revealed by what we genuinely believe in and trust. The object of our deepest faith defines us.","wbw":[{"word":"sattvānurūpā sarvasya","grammar":"phrase","meaning":"corresponding to the nature of each"},{"word":"śraddhā bhavati bhārata","grammar":"phrase","meaning":"faith arises, O Bhārata"},{"word":"śraddhāmayo'yaṃ puruṣaḥ","grammar":"phrase","meaning":"this person is constituted of faith"},{"word":"yo yac-chraddhaḥ sa eva saḥ","grammar":"phrase","meaning":"what one has faith in, that one is"}]},"te":{"short":"ప్రతి వ్యక్తి శ్రద్ధ వారి సహజస్వభావానికి అనుగుణంగా ఉంటుంది, భారతా. వ్యక్తి శ్రద్ధతో నిర్మించబడ్డాడు — ఏ శ్రద్ధ ఉంటుందో, వారు అదే.","long":"\"సత్త్వానురూపా సర్వస్య శ్రద్ధా భవతి భారత / శ్రద్ధామయోఽయం పురుషో యో యచ్ఛ్రద్ధః స ఏవ సః.\" \"సత్త్వానురూపా సర్వస్య శ్రద్ధా భవతి\" — ప్రతి వ్యక్తి శ్రద్ధ వారి స్వభావానికి అనుగుణంగా ఉంటుంది. \"శ్రద్ధామయోఽయం పురుషః\" — ఈ వ్యక్తి శ్రద్ధతో నిర్మించబడ్డాడు. \"యో యచ్ఛ్రద్ధః స ఏవ సః\" — ఏ శ్రద్ధ ఉంటుందో, వారు అదే. గీతలోని అత్యంత మనోవిజ్ఞానపరమైన వాక్యాలలో ఒకటి: మనం నిజంగా నమ్మేది మరియు విశ్వసించేది మన ఐడెంటిటీని వెల్లడిస్తుంది."},"sa":{"short":"प्रत्येकस्य श्रद्धा तस्य स्वभावानुरूपा भवति, भारत। पुरुषः श्रद्धामयः — यो यच्छ्रद्धः, स एव सः।","long":"\"सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत / श्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः।\" \"सत्त्वानुरूपा सर्वस्य श्रद्धा भवति\" — प्रत्येकस्य श्रद्धा तस्य सत्त्वानुरूपा (स्वभावानुरूपा)। \"श्रद्धामयोऽयं पुरुषः\" — अयं पुरुषः श्रद्धामयः। \"यो यच्छ्रद्धः स एव सः\" — यो यद् श्रद्धते, सः तदेव। गीतायाः अत्यंत मनोवैज्ञानिकवाक्येषु एकम् — यस्मिन् वयं श्रद्धधीमहे, तत् अस्मान् प्रकाशयति। अस्माकं गाढश्रद्धाविषयः अस्मान् परिभाषयति।"}}},{"c":17,"s":4,"speaker":"krishna","p1":{"ro":"yajante sāttvikā devān","te":"యజన్తే సాత్త్వికా దేవాన్","dn":"यजन्ते सात्त्विका देवान्"},"p2":{"ro":"yakṣarakṣāṃsi rājasāḥ","te":"యక్షరక్షాంసి రాజసాః","dn":"यक्षरक्षांसि राजसाः"},"p3":{"ro":"pretānbhūtagaṇāṃścānye","te":"ప్రేతాన్భూతగణాంశ్చాన్యే","dn":"प्रेतान्भूतगणांश्चान्ये"},"p4":{"ro":"yajante tāmasā janāḥ","te":"యజన్తే తామసా జనాః","dn":"यजन्ते तामसा जनाः"},"meaning":{"en":{"short":"Sattvic people worship the gods; rajasic people worship yakṣas and rākṣasas; the others — tamasic people — worship ghosts and troops of spirits.","long":"\"Yajante sāttvikā devān yakṣa-rakṣāṃsi rājasāḥ / pretān bhūta-gaṇāṃś cānye yajante tāmasā janāḥ.\" Each type of faith finds its corresponding object of worship. Sāttvika → devāḥ (the higher divine forces, associated with light, order, truth). Rājasika → yakṣas and rākṣasas (beings associated with power, wealth, desire — transactional worship for worldly gain). Tāmasika → pretas (ghosts) and bhūta-gaṇas (troops of spirits). The object of worship reflects the worshipper's internal orientation and what they truly value.","wbw":[{"word":"yajante sāttvikā devān","grammar":"phrase","meaning":"sattvic people worship the gods"},{"word":"yakṣa-rakṣāṃsi rājasāḥ","grammar":"phrase","meaning":"rajasic people (worship) yakṣas and rākṣasas"},{"word":"pretān bhūta-gaṇāṃś cānye","grammar":"phrase","meaning":"ghosts and troops of spirits, and others"},{"word":"yajante tāmasā janāḥ","grammar":"phrase","meaning":"tamasic people worship"}]},"te":{"short":"సాత్వికులు దేవతలను పూజిస్తారు; రాజసులు యక్షులను రాక్షసులను పూజిస్తారు; మిగిలినవారు — తామసులు — ప్రేతలను భూతగణాలను పూజిస్తారు.","long":"\"యజంతే సాత్వికా దేవాన్ యక్షరక్షాంసి రాజసాః / ప్రేతాన్ భూతగణాంశ్చాన్యే యజంతే తామసా జనాః.\" ప్రతి రకమైన శ్రద్ధ తదనుగుణ పూజాపాత్రను కనుగొంటుంది. సాత్విక → దేవతలు (జ్యోతి, క్రమం, సత్యంతో సంబంధం). రాజసిక → యక్షులు, రాక్షసులు (శక్తి, సంపద, కోరికలతో సంబంధమైన జీవులు — ఐహికలాభాల కోసం లావాదేవీ పూజ). తామసిక → ప్రేతలు, భూతగణాలు. పూజాపాత్రం పూజారి యొక్క అంతర్గత విశ్వాసాలను ప్రతిబింబిస్తుంది."},"sa":{"short":"सात्विकाः देवान् यजंते; राजसाः यक्षरक्षांसि; अन्ये तामसाः प्रेतान् भूतगणांश्च यजंते।","long":"\"यजंते सात्विका देवान् यक्षरक्षांसि राजसाः / प्रेतान् भूतगणांश्चान्ये यजंते तामसा जनाः।\" प्रत्येकप्रकारस्य श्रद्धा तदनुरूपं पूजाविषयं विंदति। सात्विकाः → देवाः (ज्योतिः, व्यवस्था, सत्येन संबंधिताः)। राजसिकाः → यक्षाश्च रक्षांसि (शक्ति, धन, कामेन संबंधिताः — ऐहिकलाभार्थं सांव्यवहारिकपूजा)। तामसिकाः → प्रेताः, भूतगणाः। पूजाविषयः पूजकस्य आन्तरिकविन्यासं प्रतिबिंबयति।"}}},{"c":17,"s":5,"speaker":"krishna","p1":{"ro":"aśāstravihitaṃ ghoraṃ","te":"అశాస్త్రవిహితం ఘోరం","dn":"अशास्त्रविहितं घोरं"},"p2":{"ro":"tapyante ye tapo janāḥ","te":"తప్యన్తే యే తపో జనాః","dn":"तप्यन्ते ये तपो जनाः"},"p3":{"ro":"dambhāhaṃkārasaṃyuktāḥ","te":"దమ్భాహంకారసంయుక్తాః","dn":"दम्भाहंकारसंयुक्ताः"},"p4":{"ro":"kāmarāgabalānvitāḥ","te":"కామరాగబలాన్వితాః","dn":"कामरागबलान्विताः"},"meaning":{"en":{"short":"Those who practice terrible austerity not prescribed by scripture — possessed by ego and force, with attachment and passion for it, and also torturing the body's constituents and Me dwelling within —","long":"\"Aśāstra-vihitaṃ ghoraṃ tapyante ye tapo janāḥ / dambhāhaṃkāra-saṃyuktāḥ kāma-rāga-balānvitāḥ.\" (17.6 continues) \"Aśāstra-vihitaṃ ghoras\" — terrible (ghora) austerity not prescribed by scripture. \"Dambhāhaṃkāra-saṃyuktāḥ\" — possessed by dambha (hypocrisy) and ahaṃkāra (ego). \"Kāma-rāga-balānvitāḥ\" — with kāma (desire), rāga (passion/attachment), and bala (force/compulsion). These are the internal motivations driving the extreme asceticism — not genuine seeking but ego-display or desire for power.","wbw":[{"word":"aśāstra-vihitaṃ ghoram","grammar":"phrase","meaning":"terrible, not prescribed by scripture"},{"word":"tapyante ye tapo janāḥ","grammar":"phrase","meaning":"the austerity that some people practice"},{"word":"dambhāhaṃkāra-saṃyuktāḥ","grammar":"phrase","meaning":"possessed by hypocrisy and ego"},{"word":"kāma-rāga-balānvitāḥ","grammar":"phrase","meaning":"driven by desire, passion, and force"}]},"te":{"short":"శాస్త్రం నిర్దేశించని ఘోరమైన తపస్సు అనుష్ఠించే వారు — దంభ, అహంకారాలతో నిండి, కోరిక, రాగ, బలాలతో —","long":"\"అశాస్త్రవిహితం ఘోరం తప్యంతే యే తపో జనాః / దంభాహంకారసంయుక్తాః కామరాగబలాన్వితాః.\" (17.6 కొనసాగుతుంది) \"అశాస్త్రవిహితం ఘోరమ్\" — శాస్త్రం నిర్దేశించని ఘోరమైన తపస్సు. \"దంభాహంకారసంయుక్తాః\" — దంభం (మోసపూరిత ప్రదర్శన) మరియు అహంకారంతో నిండి. \"కామరాగబలాన్వితాః\" — కోరిక, రాగం (అనురాగం), బలం (బలప్రయోగం) తో. ఇవి తీవ్రమైన తపస్సు వెనక అంతర్గత ప్రేరణలు — నిజమైన అన్వేషణ కాదు, అహంకారప్రదర్శన లేదా శక్తి పొందాలన్న కోరిక."},"sa":{"short":"शास्त्रविहितमकृत्वा ये जनाः घोरं तपस्यंति — दम्भाहंकारसंयुक्ताः, कामरागबलान्वितः —","long":"\"अशास्त्रविहितं घोरं तप्यंते ये तपो जनाः / दम्भाहंकारसंयुक्ताः कामरागबलान्विताः।\" (१७.६ अनुसरति) \"अशास्त्रविहितं घोरम्\" — शास्त्रनिर्दिष्टं न, घोरं तपः। \"दम्भाहंकारसंयुक्ताः\" — दम्भेन (मायाप्रदर्शन) अहंकारेण च परिपूर्णाः। \"कामरागबलान्वितः\" — कामेन (कांक्षा), रागेण (आसक्ति), बलेन (बलप्रयोग) सह। एतानि अंतर्निहितप्रेरणाः — सच्चिद्वेषणं नैव, अहंकारप्रदर्शनं शक्त्यर्थकांक्षा वा।"}}},{"c":17,"s":6,"speaker":"krishna","p1":{"ro":"karśayantaḥ śarīrasthaṃ","te":"కర్షయన్తః శరీరస్థం","dn":"कर्शयन्तः शरीरस्थं"},"p2":{"ro":"bhūtagrāmamacetasaḥ","te":"భూతగ్రామమచేతసః","dn":"भूतग्राममचेतसः"},"p3":{"ro":"māṃ caivāntaḥśarīrasthaṃ","te":"మాం చైవాన్తఃశరీరస్థం","dn":"मां चैवान्तःशरीरस्थं"},"p4":{"ro":"tānviddhyāsuraniścayān","te":"తాన్విద్ధ్యాసురనిశ్చయాన్","dn":"तान्विद्ध्यासुरनिश्चयान्"},"meaning":{"en":{"short":"— torturing the assemblage of elements in the body, and Me dwelling within — know these to be of demonic resolve.","long":"\"Karśayantaḥ śarīra-sthaṃ bhūta-grāmam acetasaḥ / māṃ caivāntaḥ śarīra-sthaṃ tān viddhy āsura-niścayān.\" \"Karśayantaḥ śarīra-sthaṃ bhūta-grāmam\" — torturing the assemblage (grāma — community) of elements (bhūtas) within the body. \"Acetasaḥ\" — foolish/mindless (without proper wisdom). \"Māṃ caivāntaḥ śarīra-sthaṃ\" — and Me dwelling within the body. \"Tān viddhy āsura-niścayān\" — know these to be of demonic resolve. The extremism of harsh self-mortification is condemned — not because tapas is wrong, but because this variety harms the divine indweller along with the body.","wbw":[{"word":"karśayantaḥ śarīra-sthaṃ","grammar":"phrase","meaning":"torturing (what is) within the body"},{"word":"bhūta-grāmam acetasaḥ","grammar":"phrase","meaning":"the assemblage of elements, these mindless ones"},{"word":"māṃ caivāntaḥ śarīra-stham","grammar":"phrase","meaning":"and Me also, dwelling within the body"},{"word":"tān viddhy āsura-niścayān","grammar":"phrase","meaning":"know these to be of demonic resolve"}]},"te":{"short":"— శరీరంలో ఉన్న భూతసమూహాన్ని మరియు అంతరాత్ముడైన నన్ను హింసించే వారిని — ఆసురనిశ్చయులని తెలిసికో.","long":"\"కర్శయంతః శరీరస్థం భూతగ్రామమచేతసః / మాం చైవాంతః శరీరస్థం తాన్విద్ధ్యాసురనిశ్చయాన్.\" \"కర్శయంతః శరీరస్థం భూతగ్రామమ్\" — శరీరంలో ఉన్న భూతసమూహాన్ని హింసిస్తూ. \"అచేతసః\" — వివేకం లేనివారు. \"మాం చైవాంతః శరీరస్థమ్\" — మరియు శరీరంలో వసించే నన్ను కూడా. \"తాన్విద్ధ్యాసురనిశ్చయాన్\" — ఆసుర నిశ్చయులని తెలిసికో. తీవ్రమైన స్వయంహింసా తపస్సు నిందింపబడుతుంది — శరీరంతోపాటు అంతర్వాసియైన దైవాన్ని కూడా హింసిస్తుంది కాబట్టి."},"sa":{"short":"— शरीरस्थं भूतग्रामं, मामपि चांतः शरीरस्थं करशयंतः — तान् विद्धि आसुरनिश्चयान्।","long":"\"कर्शयंतः शरीरस्थं भूतग्राममचेतसः / मां चैवांतः शरीरस्थं तान् विद्ध्यासुरनिश्चयान्।\" \"कर्शयंतः शरीरस्थं भूतग्रामम्\" — शरीरस्थं भूतग्रामं (समूहम्) कष्टयंतः। \"अचेतसः\" — मूर्खाः/विवेकहीनाः। \"मां चैवांतः शरीरस्थम्\" — मामपि शरीरे वसंतम्। \"तान् विद्ध्यासुरनिश्चयान्\" — तान् आसुरनिश्चयान् जानीहि। तीव्रस्वयंहिंसातपसः निंदा — शरीरेण सह अंतर्वासिनं दैवम् अपि पीडयति।"}}},{"c":17,"s":7,"speaker":"krishna","p1":{"ro":"āhārastvapi sarvasya","te":"ఆహారస్త్వపి సర్వస్య","dn":"आहारस्त्वपि सर्वस्य"},"p2":{"ro":"trividho bhavati priyaḥ","te":"త్రివిధో భవతి ప్రియః","dn":"त्रिविधो भवति प्रियः"},"p3":{"ro":"yajñastapastathā dānaṃ","te":"యజ్ఞస్తపస్తథా దానం","dn":"यज्ञस्तपस्तथा दानं"},"p4":{"ro":"teṣāṃ bhedamimaṃ śṛṇu","te":"తేషాం భేదమిమం శృణు","dn":"तेषां भेदमिमं शृणु"},"meaning":{"en":{"short":"The food that is dear to each is also of three kinds — and so too sacrifice, austerity, and giving. Hear this distinction of theirs.","long":"\"Āhāras tv api sarvasya tri-vidho bhavati priyaḥ / yajñas tapas tathā dānaṃ teṣāṃ bhedam imaṃ śṛṇu.\" Food too is threefold. \"Āhāras tv api sarvasya tri-vidho bhavati priyaḥ\" — food that each person finds pleasing is of three kinds. Then the same analysis will apply to yajña (sacrifice), tapas (austerity), and dāna (giving). \"Teṣāṃ bhedam imaṃ śṛṇu\" — hear this distinction. The chapter now becomes a systematic analysis: the same three-way guṇa-distinction applies to every major area of human religious/ethical life.","wbw":[{"word":"āhāras tv api sarvasya","grammar":"phrase","meaning":"food also of each person"},{"word":"tri-vidho bhavati priyaḥ","grammar":"phrase","meaning":"is of three kinds — what is dear"},{"word":"yajñas tapas tathā dānam","grammar":"phrase","meaning":"sacrifice, austerity, and giving"},{"word":"teṣāṃ bhedam imaṃ śṛṇu","grammar":"phrase","meaning":"hear this distinction of theirs"}]},"te":{"short":"ప్రతి వ్యక్తికి ప్రియమైన ఆహారం కూడా మూడు రకాలు — అలాగే యజ్ఞం, తపస్సు, దానం కూడా. వాటి భేదం వినుము.","long":"\"ఆహారస్త్వపి సర్వస్య త్రివిధో భవతి ప్రియః / యజ్ఞస్తపస్తథా దానం తేషాం భేదమిమం శ్రృణు.\" ఆహారం కూడా మూడు రకాలు. \"ఆహారస్త్వపి సర్వస్య త్రివిధో భవతి ప్రియః\" — ప్రతి వ్యక్తికి ప్రియమైన ఆహారం మూడు రకాలు. అనంతరం అదే విశ్లేషణ యజ్ఞం (యజ్ఞం), తపస్సు, దానానికి వర్తిస్తుంది. \"తేషాం భేదమిమం శ్రృణు\" — ఈ భేదాన్ని వినుము. అధ్యాయం ఒక క్రమబద్ధ విశ్లేషణగా మారుతుంది: అదే త్రిమార్గ గుణభేదం మానవ మతపరమైన/నైతికమైన జీవితంలోని ప్రతి ముఖ్యమైన రంగంలో వర్తిస్తుంది."},"sa":{"short":"प्रत्येकस्य प्रियः आहारः अपि त्रिविधो भवति — यज्ञः तपस्तथा दानं च। तेषां भेदमिमं श्रृणु।","long":"\"आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः / यज्ञस्तपस्तथा दानं तेषां भेदमिमं श्रृणु।\" आहारोऽपि त्रिविधः। \"आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः\" — प्रत्येकस्य प्रियः आहारः त्रिविधः। अनंतरम् अदेव विश्लेषणं यजनाय, तपसे, दानाय च वर्तते। \"तेषां भेदमिमं श्रृणु\" — तेषां भेदं श्रृणु। अध्यायः क्रमबद्धविश्लेषणं भवति: अदेव त्रिमार्ग-गुण-भेदः मानवजीवनस्य सर्वेषु मुख्यक्षेत्रेषु वर्तते।"}}},{"c":17,"s":8,"speaker":"krishna","p1":{"ro":"āyuḥsattvabalārogya","te":"ఆయుఃసత్త్వబలారోగ్య","dn":"आयुःसत्त्वबलारोग्य"},"p2":{"ro":"sukhaprītivivardhanāḥ","te":"సుఖప్రీతివివర్ధనాః","dn":"सुखप्रीतिविवर्धनाः"},"p3":{"ro":"rasyāḥ snigdhāḥ sthirā hṛdyā","te":"రస్యాః స్నిగ్ధాః స్థిరా హృద్యా","dn":"रस्याः स्निग्धाः स्थिरा हृद्या"},"p4":{"ro":"āhārāḥ sāttvikapriyāḥ","te":"ఆహారాః సాత్త్వికప్రియాః","dn":"आहाराः सात्त्विकप्रियाः"},"meaning":{"en":{"short":"Foods that promote life, vitality, strength, health, joy, and delight — which are juicy, oleaginous, substantial, and pleasing — are dear to sattvic people.","long":"\"Āyuḥ-sattva-balārogya-sukha-prīti-vivardhanāḥ / rasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvika-priyāḥ.\" Sattvic food: \"āyuḥ-sattva-bala-ārogya-sukha-prīti-vivardhanāḥ\" — that which increases (vivardhanāḥ) life-span (āyus), being (sattva), strength (bala), health (ārogya), happiness (sukha), and love/delight (prīti). Qualities: rasyāḥ (juicy, flavorful), snigdhāḥ (oleaginous, unctuous, nourishing), sthirāḥ (substantial, solid, lasting), hṛdyāḥ (pleasing to the heart). Sattvic food nourishes on multiple levels simultaneously.","wbw":[{"word":"āyuḥ-sattva-balārogya","grammar":"compound","meaning":"life, being, strength, health"},{"word":"sukha-prīti-vivardhanāḥ","grammar":"phrase","meaning":"increasing happiness and delight"},{"word":"rasyāḥ snigdhāḥ sthirā hṛdyāḥ","grammar":"adjectives","meaning":"juicy, oleaginous, substantial, pleasing"},{"word":"āhārāḥ sāttvika-priyāḥ","grammar":"phrase","meaning":"foods dear to sattvic people"}]},"te":{"short":"ఆయువు, సత్త్వం, బలం, ఆరోగ్యం, సుఖం, ప్రీతిని పెంచే — రసవంతమైన, నిగ్గుగల, స్థిరమైన, హృదయానందకరమైన — ఆహారాలు సాత్వికులకు ప్రియమైనవి.","long":"\"ఆయుస్సత్వబలారోగ్యసుఖప్రీతివివర్ధనాః / రస్యాః స్నిగ్ధాః స్థిరా హృద్యా ఆహారాః సాత్వికప్రియాః.\" సాత్వికి ఆహారం: \"ఆయుస్సత్వబలారోగ్యసుఖప్రీతివివర్ధనాః\" — ఆయువు, ఉనికి, బలం, ఆరోగ్యం, సుఖం, ప్రేమ/ఆనందం పెంచేవి. గుణాలు: రస్యాః (రసవంతమైన), స్నిగ్ధాః (నిగ్గుగల, పోషకమైన), స్థిరాః (స్థిరమైన, నిలకడగల), హృద్యాః (హృదయానందకరమైన). సాత్వికి ఆహారం ఒకేసారి అనేక స్థాయిలలో పోషిస్తుంది."},"sa":{"short":"आयुस्सत्वबलारोग्यसुखप्रीतिवर्धनाः — रस्याः, स्निग्धाः, स्थिराः, हृद्याः — आहाराः सात्विकप्रियाः।","long":"\"आयुस्सत्वबलारोग्यसुखप्रीतिविवर्धनाः / रस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्विकप्रियाः।\" सात्विकाहारः: \"आयुस्सत्वबलारोग्यसुखप्रीतिविवर्धनाः\" — आयुः, सत्त्वं, बलं, आरोग्यं, सुखं, प्रीतिं वर्धयंतः। गुणाः: रस्याः (रसवंतः), स्निग्धाः (स्नेहपूर्णाः, पुष्टिदाः), स्थिराः (स्थिरजीर्णाः), हृद्याः (हृदयानंददाः)। सात्विकाहारः एकसमये अनेकस्तरेषु पोषयति।"}}},{"c":17,"s":9,"speaker":"krishna","p1":{"ro":"kaṭvamlalavaṇātyuṣṇa","te":"కట్వమ్లలవణాత్యుష్ణ","dn":"कट्वम्ललवणात्युष्ण"},"p2":{"ro":"tīkṣṇarūkṣavidāhinaḥ","te":"తీక్ష్ణరూక్షవిదాహినః","dn":"तीक्ष्णरूक्षविदाहिनः"},"p3":{"ro":"āhārā rājasasyeṣṭā","te":"ఆహారా రాజసస్యేష్టా","dn":"आहारा राजसस्येष्टा"},"p4":{"ro":"duḥkhaśokāmayapradāḥ","te":"దుఃఖశోకామయప్రదాః","dn":"दुःखशोकामयप्रदाः"},"meaning":{"en":{"short":"Foods that are bitter, sour, salty, very hot, pungent, dry, and burning — are desired by rajasic people, and produce pain, grief, and disease.","long":"\"Kaṭv-amla-lavaṇāty-uṣṇa-tīkṣṇa-rūkṣa-vidāhinaḥ / āhārā rājasasyeṣṭā duḥkha-śokāmaya-pradāḥ.\" Rajasic food — characterized by extremes of taste stimulation: kaṭu (bitter/pungent), amla (sour), lavaṇa (salty), aty-uṣṇa (very hot), tīkṣṇa (sharp/pungent), rūkṣa (dry/rough), vidāhin (burning). These are food that over-stimulate the senses. \"Duḥkha-śokāmaya-pradāḥ\" — producing (pradāḥ) pain (duḥkha), grief/agitation (śoka), and disease (āmaya). Excessive stimulation leads to imbalance and suffering.","wbw":[{"word":"kaṭv-amla-lavaṇāty-uṣṇa","grammar":"compound","meaning":"bitter, sour, salty, very hot"},{"word":"tīkṣṇa-rūkṣa-vidāhinaḥ","grammar":"compound","meaning":"pungent, dry, and burning"},{"word":"āhārā rājasasyeṣṭāḥ","grammar":"phrase","meaning":"foods desired by rajasic people"},{"word":"duḥkha-śokāmaya-pradāḥ","grammar":"phrase","meaning":"producing pain, grief, and disease"}]},"te":{"short":"చేదు, పులుపు, ఉప్పు, అతిమఖమైన, తీక్షణమైన, రూక్షమైన, కాల్చే — ఆహారాలు రాజసులు కోరుకుంటారు, మరియు దుఃఖం, శోకం, వ్యాధిని కలిగిస్తాయి.","long":"\"కట్వమ్ललవణాత్యుష్ణతీక్ష్ణరూక్షవిదాహినః / ఆహారా రాజసస్యేష్టా దుఃఖశోకామయప్రదాః.\" రాజసిక ఆహారం — రుచిస్ఫూర్తి యొక్క తీవ్రతలచే వర్ణించబడింది: కటువు (చేదు/ఘాటైన), అమ్లం (పులుపు), లవణం (ఉప్పు), అతి ఉష్ణం (చాలా వేడి), తీక్ష్ణం (తీక్షణంగా/ఘాటైన), రూక్షం (పొడిగా/గరుకుగా), విదాహి (కాల్చే). \"దుఃఖశోకామయప్రదాః\" — దుఃఖం, శోకం/ఆందోళన, వ్యాధి కలిగిస్తాయి. అతిగా ఉద్దీపనం అసమతుల్యతకు మరియు బాధకు దారితీస్తుంది."},"sa":{"short":"कटुअम्ललवणाति-उष्णतीक्ष्णरूक्षविदाहिनः — आहाराः राजसस्येष्टाः — दुःखशोकामयप्रदाः।","long":"\"कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः / आहारा राजसस्येष्टा दुःखशोकामयप्रदाः।\" राजसाहारः — रुच्युद्दीपनस्य तीव्रताभिः वर्णितः: कटु (तिक्त/तीक्ष्ण), अम्ल (आम्ल), लवण (लवण), अति-उष्ण (अत्यधिकोष्ण), तीक्ष्ण (तीव्र), रूक्ष (शुष्क/कठोर), विदाहि (दाहकारी)। \"दुःखशोकामयप्रदाः\" — दुःखं, शोकं, आमयं (रोगं) ददाति। अत्युद्दीपनं विषमतायै दुःखाय च नयति।"}}},{"c":17,"s":10,"speaker":"krishna","p1":{"ro":"yātayāmaṃ gatarasaṃ","te":"యాతయామం గతరసం","dn":"यातयामं गतरसं"},"p2":{"ro":"pūti paryuṣitaṃ ca yat","te":"పూతి పర్యుషితం చ యత్","dn":"पूति पर्युषितं च यत्"},"p3":{"ro":"ucchiṣṭamapi cāmedhyaṃ","te":"ఉచ్ఛిష్టమపి చామేధ్యం","dn":"उच्छिष्टमपि चामेध्यं"},"p4":{"ro":"bhojanaṃ tāmasapriyam","te":"భోజనం తామసప్రియమ్","dn":"भोजनं तामसप्रियम्"},"meaning":{"en":{"short":"Food that is stale, tasteless, putrid, left-over, and impure — is dear to tamasic people.","long":"\"Yāta-yāmaṃ gata-rasaṃ pūti paryuṣitaṃ ca yat / ucchiṣṭam api cāmedhyaṃ bhojanaṃ tāmasa-priyam.\" Tamasic food: \"yāta-yāmam\" — stale (literally \"what has passed through the yāma/hour,\" i.e., cooked too long ago). \"Gata-rasam\" — tasteless (rasa/essence has left). \"Pūti\" — putrid/foul-smelling. \"Paryuṣitam\" — kept overnight, spoiled. \"Ucchiṣṭam\" — leftover from others' meals. \"Amedhyam\" — impure/ritually unclean. Food that has degraded — lacking vitality, nourishment, or freshness — is the tamasic preference.","wbw":[{"word":"yāta-yāmaṃ gata-rasam","grammar":"phrase","meaning":"stale, tasteless (essence-departed)"},{"word":"pūti paryuṣitaṃ ca yat","grammar":"phrase","meaning":"putrid and left overnight"},{"word":"ucchiṣṭam api cāmedhyam","grammar":"phrase","meaning":"leftover and also impure"},{"word":"bhojanaṃ tāmasa-priyam","grammar":"phrase","meaning":"food dear to tamasic people"}]},"te":{"short":"పాచిన, రసంపోయిన, కుళ్ళిన, నిల్వఉన్న, అశుద్ధమైన ఆహారం తామసులకు ప్రియమైనది.","long":"\"యాతయామం గతరసం పూతి పర్యుషితం చ యత్ / ఉచ్ఛిష్టమపి చామేధ్యం భోజనం తామసప్రియమ్.\" తామసికి ఆహారం: \"యాతయామమ్\" — పాచిన (మరీ ముందే వండినది). \"గతరసమ్\" — రసం పోయినది (సారం/రుచి పోయింది). \"పూతి\" — కుళ్ళినది. \"పర్యుషితమ్\" — రాత్రి నిల్వఉన్నది, పాడైనది. \"ఉచ్ఛిష్టమ్\" — ఇతరుల భోజనం తర్వాత మిగిలినది. \"అమేధ్యమ్\" — అశుద్ధమైనది. క్షీణించిన ఆహారం — శక్తి, పోషకాలు, తాజాదనం లేకుండా — తామసులకు ఇష్టం."},"sa":{"short":"यातयामं, गतरसं, पूति, पर्युषितं, उच्छिष्टम्, अमेध्यं च — भोजनं तामसप्रियम्।","long":"\"यातयामं गतरसं पूति पर्युषितं च यत् / उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम्।\" तामसाहारः: \"यातयाममं\" — पाकात् बहुकालपूर्वं सिद्धं। \"गतरसम्\" — रसहीनं (रसः/सारः गतः)। \"पूति\" — दुर्गंधि। \"पर्युषितम्\" — रात्रिरक्षितं, विकृतम्। \"उच्छिष्टम्\" — पराणां भोजनावशेषः। \"अमेध्यम्\" — अशुद्धम्। क्षीणाहारः — शक्ति, पोषण, तात्क्षणिकता रहितः — तामसस्य प्रियः।"}}},{"c":17,"s":11,"speaker":"krishna","p1":{"ro":"aphalākāṅkṣibhiryajñaḥ","te":"అఫలాకాఙ్క్షిభిర్యజ్ఞః","dn":"अफलाकाङ्क्षिभिर्यज्ञः"},"p2":{"ro":"vidhidṛṣṭo ya ijyate","te":"విధిదృష్టో య ఇజ్యతే","dn":"विधिदृष्टो य इज्यते"},"p3":{"ro":"yaṣṭavyameveti manaḥ","te":"యష్టవ్యమేవేతి మనః","dn":"यष्टव्यमेवेति मनः"},"p4":{"ro":"samādhāya sa sāttvikaḥ","te":"సమాధాయ స సాత్త్వికః","dn":"समाधाय स सात्त्विकः"},"meaning":{"en":{"short":"The sacrifice offered according to prescription, by those who do not desire the fruit — with the mind fixed on \"this must be done\" — that is sattvic.","long":"\"Aphalākāṅkṣibhir yajño vidhi-dṛṣṭo ya ijyate / yaṣṭavyam eveti manaḥ samādhāya sa sāttvikāḥ.\" \"Aphalākāṅkṣibhiḥ\" — by those not desiring fruit (aphalā-kāṅkṣī — free from fruit-desire). \"Vidhi-dṛṣṭaḥ\" — prescribed by scripture (in accordance with the rules). \"Ya ijyate\" — that which is offered. \"Yaṣṭavyam eveti\" — \"this must be done\" (the sense of duty/obligation as the sole motivator). \"Manaḥ samādhāya\" — with mind fixed. \"Sa sāttvikāḥ\" — that is sattvic. Sattvic sacrifice: right method, no fruit-desire, duty as the driver.","wbw":[{"word":"aphalākāṅkṣibhir yajñaḥ","grammar":"phrase","meaning":"sacrifice by those not desiring fruit"},{"word":"vidhi-dṛṣṭo ya ijyate","grammar":"phrase","meaning":"that which is offered as prescribed"},{"word":"yaṣṭavyam eveti manaḥ","grammar":"phrase","meaning":"with mind fixed on \"this must be done\""},{"word":"samādhāya sa sāttvikāḥ","grammar":"phrase","meaning":"that is sattvic"}]},"te":{"short":"శాస్త్రానుసారంగా, ఫలేచ్ఛ లేకుండా — \"ఇది చేయవలసింది\" అని మనస్సు నిలిపి — అర్పించే యజ్ఞం సాత్వికమైనది.","long":"\"అఫలాకాంక్షిభిర్యజ్ఞో విధిదృష్టో య ఇజ్యతే / యష్టవ్యమేవేతి మనః సమాధాయ స సాత్వికః.\" \"అఫలాకాంక్షిభిః\" — ఫలం కోరుకోని వారిచే. \"విధిదృష్టః\" — శాస్త్రనిర్దేశించినది (నియమాలకు అనుగుణంగా). \"య ఇజ్యతే\" — అర్పించబడేది. \"యష్టవ్యమేవేతి\" — \"ఇది చేయవలసింది\" (కర్తవ్యం మాత్రమే ప్రేరణగా). \"మనః సమాధాయ\" — మనస్సు నిలిపి. \"స సాత్వికః\" — అది సాత్వికమైనది. సాత్వికి యజ్ఞం: సరైన పద్ధతి, ఫలేచ్ఛలేమి, కర్తవ్యమే చోదకం."},"sa":{"short":"विधिदृष्टः, अफलाकांक्षिभिः, \"यष्टव्यमेव\" इति मनः समाधाय जो यजन होता है — स सात्विकः।","long":"\"अफलाकांक्षिभिर्यज्ञो विधिदृष्टो य इज्यते / यष्टव्यमेवेति मनः समाधाय स सात्विकः।\" \"अफलाकांक्षिभिः\" — फलं अनाकांक्षयद्भिः। \"विधिदृष्टः\" — शास्त्रनिर्धारितः। \"य इज्यते\" — अर्प्यते यत्। \"यष्टव्यमेवेति\" — \"इदं कर्तव्यमेव\" (कर्तव्यमेव प्रेरकम्)। \"मनः समाधाय\" — मनः संस्थाप्य। \"स सात्विकः\" — सः सात्विकः। सात्विकयज्ञः: सम्यक्पद्धति, फलकांक्षाभावः, कर्तव्यमेव चोदकम्।"}}},{"c":17,"s":12,"speaker":"krishna","p1":{"ro":"abhisandhāya tu phalaṃ","te":"అభిసంధాయ తు ఫలం","dn":"अभिसन्धाय तु फलं"},"p2":{"ro":"dambhārthamapi caiva yat","te":"దమ్భార్థమపి చైవ యత్","dn":"दम्भार्थमपि चैव यत्"},"p3":{"ro":"ijyate bharataśreṣṭha","te":"ఇజ్యతే భరతశ్రేష్ఠ","dn":"इज्यते भरतश्रेष्ठ"},"p4":{"ro":"taṃ yajñaṃ viddhi rājasam","te":"తం యజ్ఞం విద్ధి రాజసమ్","dn":"तं यज्ञं विद्धि राजसम्"},"meaning":{"en":{"short":"Know, O best of Bhāratas, that sacrifice offered with a view to fruit, or for the purpose of display — that is rajasic.","long":"\"Abhisaṃdhāya tu phalaṃ dambhārtham api caiva yat / ijyate bharata-śreṣṭha taṃ yajñaṃ viddhi rājasam.\" \"Abhisaṃdhāya tu phalam\" — aiming at fruit (phala) — with the result/reward in view. \"Dambhārtham api caiva\" — and also for the purpose of display (dambha — hypocrisy, showing off one's religiosity). \"Yat ijyate\" — what is offered. \"Taṃ yajñaṃ viddhi rājasam\" — know that sacrifice to be rajasic. Two rajasic motivations for sacrifice: (1) getting a reward, (2) social display. Both involve self-centered motivation rather than offering for its own sake.","wbw":[{"word":"abhisaṃdhāya tu phalam","grammar":"phrase","meaning":"aiming at/with fruit in view"},{"word":"dambhārtham api caiva yat","grammar":"phrase","meaning":"and also for the purpose of display"},{"word":"ijyate bharata-śreṣṭha","grammar":"phrase","meaning":"is offered, O best of Bhāratas"},{"word":"taṃ yajñaṃ viddhi rājasam","grammar":"phrase","meaning":"know that sacrifice to be rajasic"}]},"te":{"short":"ఫలాపేక్షతో, లేదా ప్రదర్శన కోసం అర్పించే యజ్ఞం — భరతశ్రేష్ఠా, అది రాజసమని తెలిసికో.","long":"\"అభిసంధాయ తు ఫలం దంభార్థమపి చైవ యత్ / ఇజ్యతే భరతశ్రేష్ఠ తం యజ్ఞం విద్ధి రాజసమ్.\" \"అభిసంధాయ తు ఫలమ్\" — ఫలాన్ని లక్ష్యంగా పెట్టుకుని. \"దంభార్థమపి చైవ\" — మరియు ప్రదర్శన కోసం కూడా. \"యదిజ్యతే\" — అర్పించబడేది. \"తం యజ్ఞం విద్ధి రాజసమ్\" — ఆ యజ్ఞాన్ని రాజసమని తెలిసికో. రాజసికి ప్రేరణలు రెండు: (1) ప్రతిఫలం పొందడం, (2) సాంఘిక ప్రదర్శన. రెండూ స్వకేంద్రిత."},"sa":{"short":"फलाभिसंधाय, दम्भार्थं वा यत् इज्यते — भरतश्रेष्ठ, तं यज्ञं विद्धि राजसम्।","long":"\"अभिसंधाय तु फलं दम्भार्थमपि चैव यत् / इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम्।\" \"अभिसंधाय तु फलम्\" — फलम् उद्दिश्य। \"दम्भार्थमपि चैव\" — दम्भार्थमपि (प्रदर्शनार्थं)। \"यदिज्यते\" — यदर्प्यते। \"तं यज्ञं विद्धि राजसम्\" — तं यज्ञं राजसं जानीहि। राजसिकी प्रेरणाद्वयम्: (१) पुरस्कारप्राप्तिः, (२) सामाजिकप्रदर्शनम्। उभे स्वकेंद्रिते।"}}},{"c":17,"s":13,"speaker":"krishna","p1":{"ro":"vidhihīnamasṛṣṭānnaṃ","te":"విధిహీనమసృష్టాన్నం","dn":"विधिहीनमसृष्टान्नं"},"p2":{"ro":"mantrahīnamadakṣiṇam","te":"మన్త్రహీనమదక్షిణమ్","dn":"मन्त्रहीनमदक्षिणम्"},"p3":{"ro":"śraddhāvirahitaṃ yajñaṃ","te":"శ్రద్ధావిరహితం యజ్ఞం","dn":"श्रद्धाविरहितं यज्ञं"},"p4":{"ro":"tāmasaṃ paricakṣate","te":"తామసం పరిచక్షతే","dn":"तामसं परिचक्षते"},"meaning":{"en":{"short":"Sacrifice devoid of scripture, without distributing food, without mantras, without giving fees to priests, and without faith — is declared tamasic.","long":"\"Vidhi-hīnam asṛṣṭānnaṃ mantra-hīnam adakṣiṇam / śraddhā-virahitaṃ yajñaṃ tāmasaṃ paricakṣate.\" \"Vidhi-hīnam\" — devoid of prescribed rules (not following the method). \"Asṛṣṭānnam\" — without distributing food (anna-sṛṣṭi — the sharing of food that is part of proper sacrifice). \"Mantra-hīnam\" — without mantras. \"Adakṣiṇam\" — without giving dakṣiṇā (the fees/gifts to officiating priests). \"Śraddhā-virahitam\" — devoid of faith. \"Tāmasaṃ paricakṣate\" — is declared tamasic. Tamasic sacrifice is careless, faithless, procedurally empty.","wbw":[{"word":"vidhi-hīnam asṛṣṭānnam","grammar":"phrase","meaning":"devoid of rules, without distributing food"},{"word":"mantra-hīnam adakṣiṇam","grammar":"phrase","meaning":"without mantras, without priest-fees"},{"word":"śraddhā-virahitaṃ yajñam","grammar":"phrase","meaning":"sacrifice devoid of faith"},{"word":"tāmasaṃ paricakṣate","grammar":"phrase","meaning":"is declared tamasic"}]},"te":{"short":"శాస్త్రహీనంగా, అన్నం పంచకుండా, మంత్రాలు లేకుండా, దక్షిణ ఇవ్వకుండా, శ్రద్ధలేకుండా అర్పించే యజ్ఞం తామసమని చెప్పబడింది.","long":"\"విధిహీనమసృష్టాన్నం మంత్రహీనమదక్షిణమ్ / శ్రద్ధావిరహితం యజ్ఞం తామసం పరిచక్షతే.\" \"విధిహీనమ్\" — నిర్దేశించిన నియమాలు లేకుండా. \"అసృష్టాన్నమ్\" — అన్నం పంచకుండా (అన్నసృష్టి — సరైన యజ్ఞంలో ఆహారాన్ని పంచడం). \"మంత్రహీనమ్\" — మంత్రాలు లేకుండా. \"అదక్షిణమ్\" — పురోహితులకు దక్షిణ ఇవ్వకుండా. \"శ్రద్ధావిరహితమ్\" — శ్రద్ధలేకుండా. \"తామసం పరిచక్షతే\" — తామసమని చెప్పబడింది. తామసికి యజ్ఞం నిర్లక్ష్యంగా, శ్రద్ధలేకుండా, విధిహీనంగా ఉంటుంది."},"sa":{"short":"विधिहीनम्, असृष्टान्नम्, मंत्रहीनम्, अदक्षिणम्, श्रद्धाविरहितं यज्ञं तामसं परिचक्षते।","long":"\"विधिहीनमसृष्टान्नं मंत्रहीनमदक्षिणम् / श्रद्धाविरहितं यज्ञं तामसं परिचक्षते।\" \"विधिहीनम्\" — नियमविहीनम्। \"असृष्टान्नम्\" — अन्नवितरणरहितम्। \"मंत्रहीनम्\" — मंत्ररहितम्। \"अदक्षिणम्\" — दक्षिणाविहीनम्। \"श्रद्धाविरहितम्\" — श्रद्धारहितम्। \"तामसं परिचक्षते\" — तामसमुक्तम्। तामसयज्ञः प्रमादी, श्रद्धाहीनः, विधिरिक्तः।"}}},{"c":17,"s":14,"speaker":"krishna","p1":{"ro":"devadvijaguruprājña","te":"దేవద్విజగురుప్రాజ్ఞ","dn":"देवद्विजगुरुप्राज्ञ"},"p2":{"ro":"pūjanaṃ śaucamārjavam","te":"పూజనం శౌచమార్జవమ్","dn":"पूजनं शौचमार्जवम्"},"p3":{"ro":"brahmacaryamahiṃsā ca","te":"బ్రహ్మచర్యమహింసా చ","dn":"ब्रह्मचर्यमहिंसा च"},"p4":{"ro":"śārīraṃ tapa ucyate","te":"శారీరం తప ఉచ్యతే","dn":"शारीरं तप उच्यते"},"meaning":{"en":{"short":"Worship of the gods, twice-born, teachers, and the wise; purity, uprightness, celibacy, and non-harming — this is called bodily austerity.","long":"\"Deva-dvija-guru-prājña-pūjanaṃ śaucam ārjavam / brahmacaryam ahiṃsā ca śārīraṃ tapa ucyate.\" Physical/bodily (śārīra) tapas: \"deva-dvija-guru-prājña-pūjanam\" — worship of gods, twice-born (dvija — brāhmaṇas), teachers (guru), and the wise (prājña). \"Śaucam\" — purity (bodily cleanliness, dietary discipline). \"Ārjavam\" — uprightness (physical posture, honest bearing). \"Brahmacaryam\" — celibacy/control of sexual energy. \"Ahiṃsā\" — non-harming (in physical action). These constitute tapas of the body — the discipline of physical conduct.","wbw":[{"word":"deva-dvija-guru-prājña","grammar":"compound","meaning":"gods, twice-born, teachers, and the wise"},{"word":"pūjanaṃ śaucam ārjavam","grammar":"phrase","meaning":"worship, purity, and uprightness"},{"word":"brahmacaryam ahiṃsā ca","grammar":"phrase","meaning":"celibacy and non-harming"},{"word":"śārīraṃ tapa ucyate","grammar":"phrase","meaning":"is called bodily austerity"}]},"te":{"short":"దేవతలు, ద్విజులు, గురువులు, జ్ఞానులను పూజించడం; శుచిత్వం, ఆర్జవం, బ్రహ్మచర్యం, అహింస — ఇది శారీరక తపస్సు.","long":"\"దేవద్విజగురుప్రాజ్ఞపూజనం శౌచమార్జవమ్ / బ్రహ్మచర్యమహింసా చ శారీరం తప ఉచ్యతే.\" శారీరక (శారీర) తపస్సు: \"దేవద్విజగురుప్రాజ్ఞపూజనమ్\" — దేవతలు, ద్విజులు (బ్రాహ్మణులు), గురువులు, జ్ఞానులను పూజించడం. \"శౌచమ్\" — శుచిత్వం (శారీరక పరిశుభ్రత, ఆహారశిక్షణ). \"ఆర్జవమ్\" — నేరుగా ఉండటం (శారీరక భంగిమ, నిజాయితీ). \"బ్రహ్మచర్యమ్\" — బ్రహ్మచర్యం/లైంగికశక్తి నిగ్రహం. \"అహింసా\" — హింసచేయకపోవుట. ఇవి శరీరతపస్సును నిర్మిస్తాయి."},"sa":{"short":"देवद्विजगुरुप्राज्ञपूजनम्, शौचम्, आर्जवम्, ब्रह्मचर्यम्, अहिंसा च — शारीरं तप उच्यते।","long":"\"देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम् / ब्रह्मचर्यमहिंसा च शारीरं तप उच्यते।\" शारीरतपः: \"देवद्विजगुरुप्राज्ञपूजनम्\" — देवानाम्, द्विजानाम् (ब्राह्मणानाम्), गुरूणां, प्राज्ञानां पूजनम्। \"शौचम्\" — शुचिता। \"आर्जवम्\" — ऋजुता। \"ब्रह्मचर्यम्\" — ब्रह्मचर्यम्। \"अहिंसा\" — अहिंसा। एतानि शरीरस्य तपः — शारीरिकाचारस्य अनुशासनम्।"}}},{"c":17,"s":15,"speaker":"krishna","p1":{"ro":"anudvegakaraṃ vākyaṃ","te":"అనుద్వేగకరం వాక్యం","dn":"अनुद्वेगकरं वाक्यं"},"p2":{"ro":"satyaṃ priyahitaṃ ca yat","te":"సత్యం ప్రియహితం చ యత్","dn":"सत्यं प्रियहितं च यत्"},"p3":{"ro":"svādhyāyābhyasanaṃ caiva","te":"స్వాధ్యాయాభ్యసనం చైవ","dn":"स्वाध्यायाभ्यसनं चैव"},"p4":{"ro":"vāṅmayaṃ tapa ucyate","te":"వాఙ్మయం తప ఉచ్యతే","dn":"वाङ्मयं तप उच्यते"},"meaning":{"en":{"short":"Speech that causes no distress, truthful, pleasant, and beneficial — and the practice of Vedic recitation — is called austerity of speech.","long":"\"Anudvega-karaṃ vākyaṃ satyaṃ priya-hitaṃ ca yat / svādhyāyābhyasanaṃ caiva vāṅ-mayaṃ tapa ucyate.\" Vāṅmaya tapas (austerity of speech): \"anudvega-karam\" — not causing distress/anxiety to others. \"Satyam\" — truthful. \"Priya-hitam\" — pleasant (priya) and beneficial (hita). These three qualities together are essential: truth without harshness (beneficial and pleasant), pleasantness without falsehood (truthful), benefit without unpleasantness (pleasant). \"Svādhyāyābhyasanam\" — the regular practice of Vedic recitation/scripture study. Together these constitute tapas of speech.","wbw":[{"word":"anudvega-karaṃ vākyam","grammar":"phrase","meaning":"speech that causes no distress"},{"word":"satyaṃ priya-hitaṃ ca yat","grammar":"phrase","meaning":"which is truthful, pleasant, and beneficial"},{"word":"svādhyāyābhyasanaṃ caiva","grammar":"phrase","meaning":"and also the practice of scripture study"},{"word":"vāṅ-mayaṃ tapa ucyate","grammar":"phrase","meaning":"is called austerity of speech"}]},"te":{"short":"ఇతరులకు క్లేశం కలిగించని, సత్యమైన, ప్రియమైన, హితమైన వాక్యం — మరియు స్వాధ్యాయ అభ్యాసం — వాఙ్మయ తపస్సు.","long":"\"అనుద్వేగకరం వాక్యం సత్యం ప్రియహితం చ యత్ / స్వాధ్యాయాభ్యసనం చైవ వాఙ్మయం తప ఉచ్యతే.\" వాఙ్మయ తపస్సు (వాక్కు తపస్సు): \"అనుద్వేగకరమ్\" — ఇతరులకు క్లేశం/ఆందోళన కలిగించని. \"సత్యమ్\" — సత్యమైన. \"ప్రియహితమ్\" — ప్రియమైన మరియు హితమైన. ఈ మూడు కలిసి అవసరం: కఠినత్వం లేకుండా సత్యం (హితమైన మరియు ప్రియమైన), అసత్యం లేకుండా ప్రేమ, అప్రియత్వం లేకుండా హితం. \"స్వాధ్యాయాభ్యసనమ్\" — వేదపఠన/శాస్త్రాభ్యాసం. ఇవి వాక్కు తపస్సు."},"sa":{"short":"अनुद्वेगकरं वाक्यम्, सत्यं, प्रियहितं च — स्वाध्यायाभ्यसनं चैव — वाङ्मयं तप उच्यते।","long":"\"अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् / स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते।\" वाङ्मयतपः: \"अनुद्वेगकरम्\" — अन्येषाम् उद्वेगहीनम्। \"सत्यम्\" — सत्यम्। \"प्रियहितम्\" — प्रियं च हितं च। एतानि त्रयः मिलित्वा आवश्यकानि: कठोरताविना सत्यं (हितं प्रियं च), असत्यविना प्रेम, अप्रियताविना हितम्। \"स्वाध्यायाभ्यसनम्\" — नियमितवेदपाठ/शास्त्राभ्यासः। एतानि वाक्तपः।"}}},{"c":17,"s":16,"speaker":"krishna","p1":{"ro":"manaḥ prasādaḥ saumyatvaṃ","te":"మనఃప్రసాదః సౌమ్యత్వం","dn":"मनः प्रसादः सौम्यत्वं"},"p2":{"ro":"maunamātmavinigrahaḥ","te":"మౌనమాత్మవినిగ్రహః","dn":"मौनमात्मविनिग्रहः"},"p3":{"ro":"bhāvasaṃśuddhirityetat","te":"భావసంశుద్ధిరిత్యేతత్","dn":"भावसंशुद्धिरित्येतत्"},"p4":{"ro":"tapo mānasamucyate","te":"తపో మానసముచ్యతే","dn":"तपो मानसमुच्यते"},"meaning":{"en":{"short":"Serenity of mind, benevolence, silence, self-control, purity of inner being — this is called mental austerity.","long":"\"Manaḥ-prasādaḥ saumyatvaṃ maunam ātma-vinigrahaḥ / bhāva-saṃśuddhir ity etat tapo mānasam ucyate.\" Mānasa tapas (mental austerity): \"manaḥ-prasādaḥ\" — serenity/cheerfulness of mind (prasāda — clarity, unclouded state). \"Saumyatvaṃ\" — benevolence/gentleness (quality of being moon-like — cool, kind). \"Maunam\" — silence (not just of speech but inner quietude, not-commenting). \"Ātma-vinigrahaḥ\" — self-control (restraint of the inner faculty). \"Bhāva-saṃśuddhiḥ\" — purity of inner being/intention (bhāva — the feeling-tone, the motivation). Together these constitute the discipline of the inner life.","wbw":[{"word":"manaḥ-prasādaḥ saumyatvam","grammar":"phrase","meaning":"serenity of mind, benevolence"},{"word":"maunam ātma-vinigrahaḥ","grammar":"phrase","meaning":"silence and self-control"},{"word":"bhāva-saṃśuddhir ity etat","grammar":"phrase","meaning":"purity of inner being — this"},{"word":"tapo mānasam ucyate","grammar":"phrase","meaning":"is called mental austerity"}]},"te":{"short":"మనఃప్రసాదం, సౌమ్యత, మౌనం, ఆత్మనిగ్రహం, భావశుద్ధి — ఇది మానసిక తపస్సు.","long":"\"మనఃప్రసాదః సౌమ్యత్వం మౌనమాత్మవినిగ్రహః / భావసంశుద్ధిరిత్యేతత్ తపో మానసముచ్యతే.\" మానస తపస్సు (మనస్సు తపస్సు): \"మనఃప్రసాదః\" — మనస్సు ప్రసన్నత/స్వచ్ఛత. \"సౌమ్యత్వమ్\" — సౌమ్యత/దయ. \"మౌనమ్\" — మౌనం (కేవలం మాటలు కాదు, అంతర్గత నిశ్శబ్దత). \"ఆత్మవినిగ్రహః\" — ఆత్మనిగ్రహం. \"భావసంశుద్ధిః\" — భావశుద్ధి (మనోభావం — అభిప్రాయం, ప్రేరణ యొక్క స్వచ్ఛత). ఇవి అంతరంగిక జీవితం యొక్క శిక్షణ."},"sa":{"short":"मनःप्रसादः, सौम्यत्वम्, मौनम्, आत्मवनिग्रहः, भावसंशुद्धिः — तप मानसमुच्यते।","long":"\"मनःप्रसादः सौम्यत्वं मौनमात्मविनिग्रहः / भावसंशुद्धिरित्येतत् तपो मानसमुच्यते।\" मानसतपः: \"मनःप्रसादः\" — मनसः प्रसन्नता/स्वच्छता। \"सौम्यत्वम्\" — सौम्यता/दयालुता। \"मौनम्\" — मौनम् (न केवलं वाचि, आन्तरिकशांत्यपि)। \"आत्मविनिग्रहः\" — आत्मनिग्रहः। \"भावसंशुद्धिः\" — भावशुद्धि (भाव — अभिप्राय, प्रेरणायाः शुद्धि)। एतानि अंतर्जीवनस्य अनुशासनम्।"}}},{"c":17,"s":17,"speaker":"krishna","p1":{"ro":"śraddhayā parayā taptaṃ","te":"శ్రద్ధయా పరయా తప్తం","dn":"श्रद्धया परया तप्तं"},"p2":{"ro":"tapastattrividhaṃ naraiḥ","te":"తపస్తత్త్రివిధం నరైః","dn":"तपस्तत्त्रिविधं नरैः"},"p3":{"ro":"aphalākāṅkṣibhiryuktaiḥ","te":"అఫలాకాఙ్క్షిభిర్యుక్తైః","dn":"अफलाकाङ्क्षिभिर्युक्तैः"},"p4":{"ro":"sāttvikaṃ paricakṣate","te":"సాత్త్వికం పరిచక్షతే","dn":"सात्त्विकं परिचक्षते"},"meaning":{"en":{"short":"This threefold austerity, practiced with highest faith — by those not desiring fruit, the steadfast ones — is called sattvic.","long":"\"Śraddhayā parayā taptaṃ tapas tat tri-vidhaṃ naraiḥ / aphalākāṅkṣibhir yuktaiḥ sāttvikaṃ paricakṣate.\" \"Śraddhayā parayā taptam\" — practiced with highest (parā) faith. \"Tat tri-vidham\" — that threefold (tapas — bodily, vocal, mental). \"Naraiḥ aphalākāṅkṣibhiḥ\" — by people not desiring fruit. \"Yuktaiḥ\" — the steadfast/disciplined ones. \"Sāttvikaṃ paricakṣate\" — is called sattvic. The three forms of tapas (body/speech/mind) combined with fruit-less motivation and genuine faith = sattvic austerity.","wbw":[{"word":"śraddhayā parayā taptam","grammar":"phrase","meaning":"practiced with highest faith"},{"word":"tapas tat tri-vidhaṃ naraiḥ","grammar":"phrase","meaning":"that threefold austerity, by people"},{"word":"aphalākāṅkṣibhir yuktaiḥ","grammar":"phrase","meaning":"not desiring fruit, by the steadfast"},{"word":"sāttvikaṃ paricakṣate","grammar":"phrase","meaning":"is called sattvic"}]},"te":{"short":"అత్యున్నతమైన శ్రద్ధతో ఆచరించే ఈ మూడు రకాల తపస్సు — ఫలాపేక్ష లేనివారు, నిరాసక్తులచే — సాత్వికమని చెప్పబడుతుంది.","long":"\"శ్రద్ధయా పరయా తప్తం తపస్తత్ త్రివిధం నరైః / అఫలాకాంక్షిభిర్యుక్తైః సాత్వికం పరిచక్షతే.\" \"శ్రద్ధయా పరయా తప్తమ్\" — అత్యున్నతమైన (పరా) శ్రద్ధతో ఆచరించిన. \"తత్ త్రివిధమ్\" — ఆ మూడు రకాలు (శారీర/వాఙ్మయ/మానసిక తపస్సు). \"నరైరఫలాకాంక్షిభిః\" — ఫలం కోరుకోని వ్యక్తులచే. \"యుక్తైః\" — నిష్ఠగలవారిచే. \"సాత్వికం పరిచక్షతే\" — సాత్వికమని చెప్పబడుతుంది. మూడు రకాల తపస్సు + ఫలరాహిత్య ప్రేరణ + నిజమైన శ్రద్ధ = సాత్వికి తపస్సు."},"sa":{"short":"परया श्रद्धया अफलाकांक्षिभिः युक्तैः नरैः तप्तं तत्त्रिविधं तपः — सात्विकं परिचक्षते।","long":"\"श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरैः / अफलाकांक्षिभिर्युक्तैः सात्विकं परिचक्षते।\" \"श्रद्धया परया तप्तम्\" — परया (उत्कृष्टया) श्रद्धया अनुष्ठितम्। \"तत्त्रिविधम्\" — तत् त्रिविधं (शारीर-वाङ्मय-मानसतपः)। \"नरैरफलाकांक्षिभिः\" — फलमनाकांक्षयद्भिर्नरैः। \"युक्तैः\" — स्थिरनिष्ठैः। \"सात्विकं परिचक्षते\" — सात्विकमुक्तम्। त्रिप्रकारतपः + फलाकांक्षाभावः + सच्छ्रद्धा = सात्विकतपः।"}}},{"c":17,"s":18,"speaker":"krishna","p1":{"ro":"satkāramānapūjārthaṃ","te":"సత్కారమానపూజార్థం","dn":"सत्कारमानपूजार्थं"},"p2":{"ro":"tapo dambhena caiva yat","te":"తపో దమ్భేన చైవ యత్","dn":"तपो दम्भेन चैव यत्"},"p3":{"ro":"kriyate tadiha proktaṃ","te":"క్రియతే తదిహ ప్రోక్తం","dn":"क्रियते तदिह प्रोक्तं"},"p4":{"ro":"rājasaṃ calamadhruvam","te":"రాజసం చలమధ్రువమ్","dn":"राजसं चलमध्रुवम्"},"meaning":{"en":{"short":"Austerity that is practiced with hypocrisy, for the sake of honor, respect, and reverence — here in the world — that is said to be rajasic, unstable and impermanent.","long":"\"Satkāra-māna-pūjārthaṃ tapo dambhena caiva yat / kriyate tad iha proktaṃ rājasaṃ calam adhruvam.\" \"Satkāra-māna-pūjārtham\" — for the sake of (artham) honor (satkāra), respect (māna), and reverence/worship (pūjā). \"Dambhena\" — with hypocrisy/show. \"Kriyate\" — is practiced. \"Tad iha proktam\" — that is said here. \"Rājasaṃ calam adhruvam\" — rajasic, unstable (cala — moving/wavering), and impermanent (adhruvam). Rajasic tapas is socially motivated — done for prestige — and therefore cannot be stable, because social recognition is inherently variable.","wbw":[{"word":"satkāra-māna-pūjārtham","grammar":"phrase","meaning":"for the sake of honor, respect, and reverence"},{"word":"tapo dambhena caiva yat","grammar":"phrase","meaning":"austerity with hypocrisy also"},{"word":"kriyate tad iha proktam","grammar":"phrase","meaning":"practiced — that is said here"},{"word":"rājasaṃ calam adhruvam","grammar":"phrase","meaning":"to be rajasic, unstable, and impermanent"}]},"te":{"short":"సత్కారం, మానం, పూజ కోసం, దంభంతో ఆచరించే తపస్సు — ఇక్కడ రాజసమని, అస్థిరమైనది, అనిత్యమైనదని చెప్పబడుతుంది.","long":"\"సత్కారమానపూజార్థం తపో దంభేన చైవ యత్ / క్రియతే తదిహ ప్రోక్తం రాజసం చలమధ్రువమ్.\" \"సత్కారమానపూజార్థమ్\" — గౌరవం, మర్యాద, పూజ కోసం. \"దంభేన\" — దంభంతో/ప్రదర్శనతో. \"క్రియతే\" — ఆచరించబడే. \"తదిహ ప్రోక్తమ్\" — అది ఇక్కడ చెప్పబడింది. \"రాజసం చలమధ్రువమ్\" — రాజసమైనది, అస్థిరమైనది (చల — కదిలే/ఊగే), అనిత్యమైనది (అధ్రువమ్). రాజసికి తపస్సు సాంఘికంగా ప్రేరేపించబడింది — ప్రతిష్ఠ కోసం — అందువల్ల స్థిరంగా ఉండదు."},"sa":{"short":"सत्कारमानपूजार्थं, दंभेन च यत् तपः क्रियते — तदिह प्रोक्तं राजसं, चलमधुवम्।","long":"\"सत्कारमानपूजार्थं तपो दम्भेन चैव यत् / क्रियते तदिह प्रोक्तं राजसं चलमध्रुवम्।\" \"सत्कारमानपूजार्थम्\" — सत्कारस्य, मानस्य, पूजायाः अर्थम्। \"दम्भेन\" — दम्भेन/प्रदर्शनेन। \"क्रियते\" — अनुष्ठीयते। \"तदिह प्रोक्तम्\" — तदिह उक्तम्। \"राजसं चलमध्रुवम्\" — राजसम्, चलम् (चंचल), अध्रुवम् (अनिश्चितम्)। राजसितपः सामाजिकतः प्रेरितः — प्रतिष्ठार्थम् — अतः स्थिरो न शक्यते।"}}},{"c":17,"s":19,"speaker":"krishna","p1":{"ro":"mūḍhagrāheṇātmano yat","te":"మూఢగ్రాహేణాత్మనో యత్","dn":"मूढग्राहेणात्मनो यत्"},"p2":{"ro":"yatpīḍayā kriyate tapaḥ","te":"యత్పీడయా క్రియతే తపః","dn":"यत्पीडया क्रियते तपः"},"p3":{"ro":"parasyotsādanārthaṃ vā","te":"పరస్యోత్సాదనార్థం వా","dn":"परस्योत्सादनार्थं वा"},"p4":{"ro":"tattāmasamudāhṛtam","te":"తత్తామసముదాహృతమ్","dn":"तत्तामसमुदाहृतम्"},"meaning":{"en":{"short":"Austerity that is practiced with deluded conviction — by torturing oneself, or for the purpose of destroying another — that is declared tamasic.","long":"\"Mūḍha-grāheṇātmano yat pīḍayā kriyate tapaḥ / parasyotsādanārthaṃ vā tat tāmasam udāhṛtam.\" \"Mūḍha-grāheṇa\" — with deluded conviction/grip (the stubborn foolish persistence that won't question its own practice). \"Ātmanaḥ yat pīḍayā kriyate\" — practiced with torturing of oneself. \"Parasyotsādanārtham vā\" — or for the purpose of destroying (utsādana — uprooting/destruction) another. \"Tat tāmasam udāhṛtam\" — that is declared tamasic. Tamasic tapas destroys — either the self through harmful asceticism, or others through hostile intent.","wbw":[{"word":"mūḍha-grāheṇātmano yat","grammar":"phrase","meaning":"with deluded conviction, of oneself"},{"word":"pīḍayā kriyate tapaḥ","grammar":"phrase","meaning":"austerity that is practiced with torturing"},{"word":"parasyotsādanārthaṃ vā","grammar":"phrase","meaning":"or for the purpose of destroying another"},{"word":"tat tāmasam udāhṛtam","grammar":"phrase","meaning":"that is declared tamasic"}]},"te":{"short":"మూఢగ్రహణంతో, స్వయంహింసతో, లేదా ఇతరులను నాశనంచేయాలని ఆచరించే తపస్సు — తామసమని ప్రకటించబడింది.","long":"\"మూఢగ్రాహేణాత్మనో యత్ పీడయా క్రియతే తపః / పరస్యోత్సాదనార్థం వా తత్తామసముదాహృతమ్.\" \"మూఢగ్రాహేణ\" — మూఢ నిర్ణయంతో/పట్టుదలతో (తన పద్ధతిని ప్రశ్నించని మూఢ పట్టుదల). \"ఆత్మనో యత్ పీడయా క్రియతే\" — స్వయాన్ని హింసించి ఆచరించే. \"పరస్యోత్సాదనార్థం వా\" — లేదా ఇతరులను నాశనంచేయాలని (ఉత్సాదన — కూకటివేళ్ళతో పెళ్ళగించడం). \"తత్తామసముదాహృతమ్\" — తామసమని ప్రకటించబడింది. తామసికి తపస్సు నాశనం చేస్తుంది — స్వయాన్ని లేదా ఇతరులను."},"sa":{"short":"मूढग्राहेण, आत्मनः पीडया, परस्योत्सादनार्थं वा यत्तपः क्रियते — तत्तामसमुदाहृतम्।","long":"\"मूढग्राहेणात्मनो यत्पीडया क्रियते तपः / परस्योत्सादनार्थं वा तत्तामसमुदाहृतम्।\" \"मूढग्राहेण\" — मूढसंकल्पेन (स्वानुष्ठानं न प्रश्नयन् हठी मोहः)। \"आत्मनो यत् पीडया क्रियते\" — स्वपीडनेन अनुष्ठितम्। \"परस्योत्सादनार्थं वा\" — वा परस्य नाशार्थम् (उत्सादन — उन्मूलन/विनाश)। \"तत्तामसमुदाहृतम्\" — तामसमुक्तम्। तामसतपः नाशयति — स्वम् अन्यं वा।"}}},{"c":17,"s":20,"speaker":"krishna","p1":{"ro":"dātavyamiti yaddānaṃ","te":"దాతవ్యమితి యద్దానం","dn":"दातव्यमिति यद्दानं"},"p2":{"ro":"dīyate'nupakāriṇe","te":"దీయతేఽనుపకారిణే","dn":"दीयतेऽनुपकारिणे"},"p3":{"ro":"deśe kāle ca pātre ca","te":"దేశే కాలే చ పాత్రే చ","dn":"देशे काले च पात्रे च"},"p4":{"ro":"taddānaṃ sāttvikaṃ smṛtam","te":"తద్దానం సాత్త్వికం స్మృతమ్","dn":"तद्दानं सात्त्विकं स्मृतम्"},"meaning":{"en":{"short":"Giving that is given as a matter of duty — to one who will not return it, at the proper place, time, and to a worthy recipient — that is held to be sattvic.","long":"\"Dātavyam iti yad dānaṃ dīyate'nupakāriṇe / deśe kāle ca pātre ca tad dānaṃ sāttvikaṃ smṛtam.\" \"Dātavyam iti\" — \"this must be given\" (sense of duty — the same yaṣṭavyam pattern from 17.11's sattvic sacrifice). \"Yad dānaṃ dīyate'nupakāriṇe\" — giving that is given to one who will not (or cannot) return the favor (anupakārin — not returning benefit). \"Deśe kāle ca pātre ca\" — at the proper place (deśa), time (kāla), and to a worthy recipient (pātra — literally, a vessel worthy of receiving). \"Sāttvikaṃ smṛtam\" — remembered/held as sattvic.","wbw":[{"word":"dātavyam iti yad dānam","grammar":"phrase","meaning":"giving given as \"this must be given\""},{"word":"dīyate'nupakāriṇe","grammar":"phrase","meaning":"given to one who will not return it"},{"word":"deśe kāle ca pātre ca","grammar":"phrase","meaning":"at proper place, time, and to a worthy recipient"},{"word":"tad dānaṃ sāttvikaṃ smṛtam","grammar":"phrase","meaning":"that giving is held to be sattvic"}]},"te":{"short":"కర్తవ్యంగా — ప్రతిఫలం ఇవ్వలేనివారికి, సరైన స్థలంలో, సమయంలో, యోగ్యమైన వ్యక్తికి ఇచ్చే దానం — సాత్వికమని భావించబడుతుంది.","long":"\"దాతవ్యమితి యద్దానం దీయతేఽనుపకారిణే / దేశే కాలే చ పాత్రే చ తద్దానం సాత్వికం స్మృతమ్.\" \"దాతవ్యమితి\" — \"ఇవ్వవలసింది\" (కర్తవ్యం — 17.11 సాత్వికి యజ్ఞం యొక్క యష్టవ్యమ్ నమూనా). \"యద్దానం దీయతేఽనుపకారిణే\" — ప్రతిఫలం ఇవ్వలేనివారికి ఇచ్చే దానం. \"దేశే కాలే చ పాత్రే చ\" — సరైన స్థలంలో, సమయంలో, యోగ్యమైన వ్యక్తికి (పాత్ర — తగినట్లు స్వీకరించగలిగే పాత్ర). \"సాత్వికం స్మృతమ్\" — సాత్వికమని భావించబడుతుంది."},"sa":{"short":"\"दातव्यमिति\" — अनुपकारिणे, देशे, काले, पात्रे च यद्दानं दीयते — तद्दानं सात्विकं स्मृतम्।","long":"\"दातव्यमिति यद्दानं दीयतेऽनुपकारिणे / देशे काले च पात्रे च तद्दानं सात्विकं स्मृतम्।\" \"दातव्यमिति\" — \"इदं दातव्यम्\" (कर्तव्यभावः — १७.११ सात्विकयज्ञस्य यष्टव्यम्-रूपम्)। \"यद्दानं दीयतेऽनुपकारिणे\" — अनुपकारिणे (प्रत्युपकारदातुमसमर्थाय) दीयते। \"देशे काले च पात्रे च\" — सम्यक्देशे, काले, पात्रे (योग्यपात्रे — ग्रहीतुयोग्यपात्रे) च। \"सात्विकं स्मृतम्\" — सात्विकमुक्तम्।"}}},{"c":17,"s":21,"speaker":"krishna","p1":{"ro":"yattu pratyupakārārthaṃ","te":"యత్తు ప్రత్యుపకారార్థం","dn":"यत्तु प्रत्युपकारार्थं"},"p2":{"ro":"phalamuddiśya vā punaḥ","te":"ఫలముద్దిశ్య వా పునః","dn":"फलमुद्दिश्य वा पुनः"},"p3":{"ro":"dīyate ca parikliṣṭaṃ","te":"దీయతే చ పరిక్లిష్టం","dn":"दीयते च परिक्लिष्टं"},"p4":{"ro":"taddānaṃ rājasaṃ smṛtam","te":"తద్దానం రాజసం స్మృతమ్","dn":"तद्दानं राजसं स्मृतम्"},"meaning":{"en":{"short":"But giving that is given with expectation of return, or again with a view to fruit, or unwillingly — that is held to be rajasic.","long":"\"Yat tu pratyupakārārthaṃ phalam uddiśya vā punaḥ / dīyate ca parikliṣṭaṃ tad dānaṃ rājasaṃ smṛtam.\" \"Pratyupakārārtham\" — with the purpose of getting something back (counter-benefit). \"Phalam uddiśya vā punaḥ\" — or aiming at a result/reward. \"Dīyate ca parikliṣṭam\" — and given with reluctance/suffering (parikliṣṭa — troubled, distressed at giving). \"Tad dānaṃ rājasaṃ smṛtam\" — that giving is held to be rajasic. Three rajasic modes: giving for reciprocity, giving for results, and giving grudgingly. All are conditional.","wbw":[{"word":"yat tu pratyupakārārtham","grammar":"phrase","meaning":"but giving for the sake of reciprocity"},{"word":"phalam uddiśya vā punaḥ","grammar":"phrase","meaning":"or again aiming at a fruit/result"},{"word":"dīyate ca parikliṣṭam","grammar":"phrase","meaning":"and given grudgingly/with distress"},{"word":"tad dānaṃ rājasaṃ smṛtam","grammar":"phrase","meaning":"that giving is held to be rajasic"}]},"te":{"short":"ప్రతిఫలం కోసం, లేదా ఫలాపేక్షతో, లేదా అయిష్టంగా ఇచ్చే దానం — రాజసమని భావించబడుతుంది.","long":"\"యత్తు ప్రత్యుపకారార్థం ఫలముద్దిశ్య వా పునః / దీయతే చ పరిక్లిష్టం తద్దానం రాజసం స్మృతమ్.\" \"ప్రత్యుపకారార్థమ్\" — ప్రతిఫలం కోసం. \"ఫలముద్దిశ్య వా పునః\" — లేదా ఫలాన్ని లక్ష్యంగా పెట్టుకుని. \"దీయతే చ పరిక్లిష్టమ్\" — మరియు ఇవ్వడానికి బాధపడుతూ ఇవ్వడం. \"తద్దానం రాజసం స్మృతమ్\" — ఆ దానం రాజసమని భావించబడుతుంది. మూడు రాజసికి రీతులు: ప్రతిఫలానికి, ఫలాలకోసం, అయిష్టంగా ఇవ్వడం. అన్నీ షరతులతో కూడినవి."},"sa":{"short":"प्रत्युपकारार्थं, फलमुद्दिश्य वा, पुनः परिक्लिष्टं दीयते — तद्दानं राजसं स्मृतम्।","long":"\"यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः / दीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम्।\" \"प्रत्युपकारार्थम्\" — प्रतिलाभार्थम्। \"फलमुद्दिश्य वा पुनः\" — फलं लक्ष्यीकृत्य वा। \"दीयते च परिक्लिष्टम्\" — दीयते क्लेशेन। \"तद्दानं राजसं स्मृतम्\" — राजसमुक्तम्। राजसिकाः त्रयः रीतयः: प्रत्युपकाराय, फलाय, क्लेशेन। सर्वाणि सशर्तानि।"}}},{"c":17,"s":22,"speaker":"krishna","p1":{"ro":"adeśakāle yaddānam","te":"అదేశకాలే యద్దానo","dn":"अदेशकाले यद्दानम्"},"p2":{"ro":"mapātrebhyaśca dīyate","te":"మపాత్రేభ్యశ్చ దీయతే","dn":"मपात्रेभ्यश्च दीयते"},"p3":{"ro":"asatkṛtamavajñātaṃ","te":"అసత్కృతమవజ్ఞాతం","dn":"असत्कृतमवज्ञातं"},"p4":{"ro":"tattāmasamudāhṛtam","te":"తత్తామసముదాహృతమ్","dn":"तत्तामसमुदाहृतम्"},"meaning":{"en":{"short":"Giving that is given at the wrong place and time, to an unworthy recipient — without respect, or with contempt — is declared tamasic.","long":"\"Adeśe-kāle yad dānam apātrebhyaś ca dīyate / asatkṛtam avajñātaṃ tat tāmasam udāhṛtam.\" \"Adeśe kāle\" — at the wrong place and time (inverting the sattvic formula). \"Apātrebhyaḥ\" — to unworthy recipients (apātra — literally, vessels not worthy of receiving — those who will misuse what is given). \"Ca dīyate\" — is given. \"Asatkṛtam\" — without proper respect (not given with honor). \"Avajñātam\" — with contempt/disrespect. \"Tat tāmasam udāhṛtam\" — that is declared tamasic. Tamasic giving is careless, disrespectful, and directed inappropriately.","wbw":[{"word":"adeśe-kāle yad dānam","grammar":"phrase","meaning":"giving at wrong place and time"},{"word":"apātrebhyaś ca dīyate","grammar":"phrase","meaning":"and given to unworthy recipients"},{"word":"asatkṛtam avajñātam","grammar":"phrase","meaning":"without respect, with contempt"},{"word":"tat tāmasam udāhṛtam","grammar":"phrase","meaning":"that is declared tamasic"}]},"te":{"short":"అసమయంలో, అస్థలంలో, అయోగ్యులకు — గౌరవంలేకుండా, లేదా తిరస్కారంతో — ఇచ్చే దానం తామసమని ప్రకటించబడింది.","long":"\"అదేశకాలే యద్దానమపాత్రేభ్యశ్చ దీయతే / అసత్కృతమవజ్ఞాతం తత్తామసముదాహృతమ్.\" \"అదేశే కాలే\" — తప్పుడు స్థలంలో మరియు సమయంలో. \"అపాత్రేభ్యః\" — అయోగ్యులకు (అపాత్ర — ఇచ్చినది తగినట్లు స్వీకరించలేని పాత్రలు). \"చ దీయతే\" — ఇవ్వబడే. \"అసత్కృతమ్\" — గౌరవంలేకుండా. \"అవజ్ఞాతమ్\" — తిరస్కారంతో. \"తత్తామసముదాహృతమ్\" — తామసమని ప్రకటించబడింది. తామసికి దానం నిర్లక్ష్యంగా, అగౌరవంగా, తప్పుదారిలో ఇవ్వబడుతుంది."},"sa":{"short":"अदेशे, काले, अपात्रेभ्यः, असत्कृतम्, अवज्ञातं च दीयते — तत्तामसमुदाहृतम्।","long":"\"अदेशकाले यद्दानमपात्रेभ्यश्च दीयते / असत्कृतमवज्ञातं तत्तामसमुदाहृतम्।\" \"अदेशे काले\" — असम्यक्देशे काले च (सात्विकसूत्रस्य व्युत्क्रमः)। \"अपात्रेभ्यः\" — अयोग्यपात्रेभ्यः। \"च दीयते\" — दीयते। \"असत्कृतम्\" — सत्कारविना। \"अवज्ञातम्\" — अवज्ञया। \"तत्तामसमुदाहृतम्\" — तामसमुक्तम्। तामसदानं प्रमादि, अगौरवि, अनुचितदिशायां।"}}},{"c":17,"s":23,"speaker":"krishna","p1":{"ro":"oṃ tatsaditi nirdeśaḥ","te":"ఓం తత్సదితి నిర్దేశః","dn":"ओं तत्सदिति निर्देशः"},"p2":{"ro":"brahmaṇastrividhaḥ smṛtaḥ","te":"బ్రహ్మణస్త్రివిధః స్మృతః","dn":"ब्रह्मणस्त्रिविधः स्मृतः"},"p3":{"ro":"brāhmaṇāstena vedāśca","te":"బ్రాహ్మణాస్తేన వేదాశ్చ","dn":"ब्राह्मणास्तेन वेदाश्च"},"p4":{"ro":"yajñāśca vihitāḥ purā","te":"యజ్ఞాశ్చ విహితాః పురా","dn":"यज्ञाश्च विहिताः पुरा"},"meaning":{"en":{"short":"\"Oṃ Tat Sat\" — this has been declared the threefold designation of Brahman. By this were ordained of old the brahmins, the Vedas, and sacrifices.","long":"\"Oṃ tat sad iti nirdeśo brahmaṇas tri-vidhaḥ smṛtaḥ / brāhmaṇās tena vedāś ca yajñāś ca vihitāḥ purā.\" The chapter introduces \"Oṃ Tat Sat\" as the triple designation (tri-vidha nirdeśa) of Brahman. Oṃ (the primal sound, the affirmation of Being), Tat (That — the transcendent beyond name), Sat (Being/Truth/Existence — the real). \"By this were ordained of old\" — at the founding of the tradition, these three names were sanctified into the Vedas, brāhmaṇas, and sacrifices. They are used ritually to consecrate actions.","wbw":[{"word":"oṃ tat sad iti nirdeśaḥ","grammar":"phrase","meaning":"\"Oṃ Tat Sat\" is the designation"},{"word":"brahmaṇas tri-vidhaḥ smṛtaḥ","grammar":"phrase","meaning":"of Brahman, declared threefold"},{"word":"brāhmaṇās tena vedāś ca","grammar":"phrase","meaning":"by this were ordained the brahmins and Vedas"},{"word":"yajñāś ca vihitāḥ purā","grammar":"phrase","meaning":"and sacrifices, ordained of old"}]},"te":{"short":"\"ఓం తత్ సత్\" — ఇది బ్రహ్మం యొక్క మూడు రకాల నిర్దేశమని స్మరించబడింది. దీనిచే పురాకాలంలో బ్రాహ్మణులు, వేదాలు, యజ్ఞాలు నిర్దేశించబడ్డాయి.","long":"\"ఓం తత్ సదితి నిర్దేశో బ్రహ్మణస్త్రివిధః స్మృతః / బ్రాహ్మణాస్తేన వేదాశ్చ యజ్ఞాశ్చ విహితాః పురా.\" అధ్యాయం \"ఓం తత్ సత్\" ను బ్రహ్మం యొక్క మూడు రకాల నిర్దేశంగా (త్రివిధ నిర్దేశ) పరిచయం చేస్తుంది. ఓం (ఆదిమనాదం, ఉనికి యొక్క ధృవీకరణ), తత్ (అది — పేరుకు అతీతమైన పారమార్థికం), సత్ (ఉనికి/సత్యం/వాస్తవం). \"పురాకాలంలో నిర్దేశించబడ్డాయి\" — సంప్రదాయం యొక్క స్థాపన సమయంలో, ఈ మూడు నామాలు వేదాలలో, బ్రాహ్మణులలో, యజ్ఞాలలో పవిత్రం చేయబడ్డాయి."},"sa":{"short":"\"ओं तत्सत्\" — इति ब्रह्मणः त्रिविधनिर्देशः स्मृतः। तेन पुरा ब्राह्मणाः वेदाश्च यज्ञाश्च विहिताः।","long":"\"ओं तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः / ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा।\" अध्यायः \"ओं तत्सत्\" ब्रह्मणः त्रिविधनिर्देशं (त्रिविध-निर्देश) परिचयति। ओं (आदिनादः, सत्त्वस्य पुष्टि), तत् (तत् — नामाततीतं पारमार्थिकम्), सत् (सत्त्व/सत्य/सत्ता — वास्तवम्)। \"पुरा विहिताः\" — परम्परासंस्थापने, एतानि त्रीणि नामानि वेदेषु, ब्राह्मणेषु, यज्ञेषु पवित्रीकृतानि। क्रियाणां पवित्रीकरणाय आनुष्ठानिकतः उपयुज्यंते।"}}},{"c":17,"s":24,"speaker":"krishna","p1":{"ro":"tasmādomityudāhṛtya","te":"తస్మాదోమిత్యుదాహృత్య","dn":"तस्मादोमित्युदाहृत्य"},"p2":{"ro":"yajñadānatapaḥkriyāḥ","te":"యజ్ఞదానతపఃక్రియాః","dn":"यज्ञदानतपःक्रियाः"},"p3":{"ro":"pravartante vidhānoktāḥ","te":"ప్రవర్తన్తే విధానోక్తాః","dn":"प्रवर्तन्ते विधानोक्ताः"},"p4":{"ro":"satataṃ brahmavādinām","te":"సతతం బ్రహ్మవాదినామ్","dn":"सततं ब्रह्मवादिनाम्"},"meaning":{"en":{"short":"Therefore, with \"Oṃ,\" acts of sacrifice, giving, and austerity — as prescribed in the scriptures — are always begun by those who expound Brahman.","long":"\"Tasmād oṃ ity udāhṛtya yajña-dāna-tapaḥ-kriyāḥ / pravartante vidhānoktāḥ satataṃ brahma-vādinām.\" \"Tasmād oṃ ity udāhṛtya\" — therefore, with (the sound) \"Oṃ\" uttered/invoked. \"Yajña-dāna-tapaḥ-kriyāḥ\" — acts of sacrifice, giving, and austerity. \"Pravartante vidhānoktāḥ\" — as prescribed in the ordinances. \"Satataṃ brahma-vādinām\" — always, by those who expound/speak of Brahman (brahma-vādins — the followers/teachers of the Vedic tradition). The practical ritual use of \"Oṃ\": to begin all three major categories of religious action.","wbw":[{"word":"tasmād oṃ ity udāhṛtya","grammar":"phrase","meaning":"therefore, with \"Oṃ\" uttered"},{"word":"yajña-dāna-tapaḥ-kriyāḥ","grammar":"compound","meaning":"acts of sacrifice, giving, and austerity"},{"word":"pravartante vidhānoktāḥ","grammar":"phrase","meaning":"begin, as prescribed in the ordinances"},{"word":"satataṃ brahma-vādinām","grammar":"phrase","meaning":"always, by those who expound Brahman"}]},"te":{"short":"కాబట్టి, \"ఓం\" తో — శాస్త్రంలో నిర్దేశించినట్లు — యజ్ఞ, దాన, తపస్సు క్రియలు బ్రహ్మవాదులచే ఎల్లప్పుడూ ప్రారంభించబడతాయి.","long":"\"తస్మాదోమిత్యుదాహృత్య యజ్ఞదానతపఃక్రియాః / ప్రవర్తంతే విధానోక్తాః సతతం బ్రహ్మవాదినామ్.\" \"తస్మాదోమిత్యుదాహృత్య\" — కాబట్టి, \"ఓం\" ను ఉచ్చరించి. \"యజ్ఞదానతపఃక్రియాః\" — యజ్ఞ, దాన, తపస్సు క్రియలు. \"ప్రవర్తంతే విధానోక్తాః\" — నిర్దేశించినట్లు ప్రారంభించబడతాయి. \"సతతం బ్రహ్మవాదినామ్\" — ఎల్లప్పుడూ, బ్రహ్మవాదులచే (వేదసంప్రదాయాన్ని వివరించే వారిచే). \"ఓం\" యొక్క ఆచారపరమైన వాడుక: మూడు ముఖ్య మత కార్యకలాపాలను ప్రారంభించడానికి."},"sa":{"short":"तस्मात् \"ओं\" इत्युदाहृत्य — विधानोक्ताः यज्ञदानतपःक्रियाः — ब्रह्मवादिनां सततं प्रवर्तंते।","long":"\"तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः / प्रवर्तंते विधानोक्ताः सततं ब्रह्मवादिनाम्।\" \"तस्मादोमित्युदाहृत्य\" — तस्मात् \"ओं\" उचार्य। \"यज्ञदानतपःक्रियाः\" — यजन, दान, तपसः क्रियाः। \"प्रवर्तंते विधानोक्ताः\" — विधानोक्तवत् प्रारभ्यंते। \"सततं ब्रह्मवादिनाम्\" — सततं, ब्रह्मवादिभिः। \"ओं\" यः व्यावहारिकोपयोगः: तिसृषु मुख्यधर्मक्रियाषु आरंभाय।"}}},{"c":17,"s":25,"speaker":"krishna","p1":{"ro":"tadityanabhisandhāya","te":"తదిత్యనభిసన్ధాయ","dn":"तदित्यनभिसन्धाय"},"p2":{"ro":"phalaṃ yajñatapaḥkriyāḥ","te":"ఫలం యజ్ఞతపఃక్రియాః","dn":"फलं यज्ञतपःक्रियाः"},"p3":{"ro":"dānakriyāśca vividhāḥ","te":"దానక్రియాశ్చ వివిధాః","dn":"दानक्रियाश्च विविधाः"},"p4":{"ro":"kriyante mokṣakāṅkṣibhiḥ","te":"క్రియన్తే మోక్షకాఙ్క్షిభిః","dn":"क्रियन्ते मोक्षकाङ्क्षिभिः"},"meaning":{"en":{"short":"With \"Tat\" — without aiming at fruit — acts of sacrifice and austerity and various acts of giving are performed by those seeking liberation.","long":"\"Tad ity anabhisaṃdhāya phalaṃ yajña-tapaḥ-kriyāḥ / dāna-kriyāś ca vividhāḥ kriyante mokṣa-kāṅkṣibhiḥ.\" \"Tad iti\" — with (the word/intention) \"Tat\" (That — the transcendent). \"Anabhisaṃdhāya phalam\" — without aiming at fruit (the same as aphalākāṅkṣin). \"Yajña-tapaḥ-kriyāḥ\" — acts of sacrifice and austerity. \"Dāna-kriyāś ca vividhāḥ\" — and various acts of giving. \"Kriyante mokṣa-kāṅkṣibhiḥ\" — performed by those who desire liberation (mokṣa-kāṅkṣin). \"Tat\" is the word of offering-to-the-transcendent: when action is done in the name of \"That,\" it transcends personal motivation.","wbw":[{"word":"tad ity anabhisaṃdhāya","grammar":"phrase","meaning":"with \"Tat,\" without aiming at"},{"word":"phalaṃ yajña-tapaḥ-kriyāḥ","grammar":"phrase","meaning":"fruit, acts of sacrifice and austerity"},{"word":"dāna-kriyāś ca vividhāḥ","grammar":"phrase","meaning":"and various acts of giving"},{"word":"kriyante mokṣa-kāṅkṣibhiḥ","grammar":"phrase","meaning":"performed by those seeking liberation"}]},"te":{"short":"\"తత్\" తో — ఫలాన్ని లక్ష్యంగా పెట్టుకోకుండా — మోక్షాన్ని కోరే వారిచే యజ్ఞ, తపస్సు క్రియలు మరియు వివిధ దాన క్రియలు చేయబడతాయి.","long":"\"తదిత్యనభిసంధాయ ఫలం యజ్ఞతపఃక్రియాః / దానక్రియాశ్చ వివిధాః క్రియంతే మోక్షకాంక్షిభిః.\" \"తదితి\" — \"తత్\" (అది — పారమార్థికం) తో. \"అనభిసంధాయ ఫలమ్\" — ఫలాన్ని లక్ష్యంగా పెట్టుకోకుండా. \"యజ్ఞతపఃక్రియాః\" — యజ్ఞ, తపస్సు క్రియలు. \"దానక్రియాశ్చ వివిధాః\" — మరియు వివిధ దాన క్రియలు. \"క్రియంతే మోక్షకాంక్షిభిః\" — మోక్షం కోరేవారిచే చేయబడతాయి. \"తత్\" అనేది పారమార్థికానికి సమర్పణ పదం: \"అది\" అనే పేరిట చర్య చేయబడినప్పుడు, అది వ్యక్తిగత ప్రేరణను అధిగమిస్తుంది."},"sa":{"short":"\"तत्\" इत्यनभिसंधाय फलं — यज्ञतपःक्रियाः, वविधदानक्रियाश्च — मोक्षकांक्षिभिः क्रियंते।","long":"\"तदित्यनभिसंधाय फलं यज्ञतपःक्रियाः / दानक्रियाश्च विविधाः क्रियंते मोक्षकांक्षिभिः।\" \"तदिति\" — \"तत्\" (तत् — पारमार्थिकं) सह। \"अनभिसंधाय फलम्\" — फलमनुद्दिश्य। \"यज्ञतपःक्रियाः\" — यजन, तपसः क्रियाः। \"दानक्रियाश्च विविधाः\" — विविधदानक्रियाश्च। \"क्रियंते मोक्षकांक्षिभिः\" — मोक्षकांक्षिभिः क्रियंते। \"तत्\" पारमार्थिकसमर्पणशब्दः — यदा \"तत्\" नाम्ना क्रिया क्रियते, व्यक्तिगतप्रेरणा अतीता भवति।"}}},{"c":17,"s":26,"speaker":"krishna","p1":{"ro":"sadbhāve sādhubhāve ca","te":"సద్భావే సాధుభావే చ","dn":"सद्भावे साधुभावे च"},"p2":{"ro":"sadityetatprayujyate","te":"సదిత్యేతత్ప్రయుజ్యతే","dn":"सदित्येतत्प्रयुज्यते"},"p3":{"ro":"praśaste karmaṇi tathā","te":"ప్రశస్తే కర్మణి తథా","dn":"प्रशस्ते कर्मणि तथा"},"p4":{"ro":"sacchabdaḥ pārtha yujyate","te":"సచ్ఛబ్దః పార్థ యుజ్యతే","dn":"सच्छब्दः पार्थ युज्यते"},"meaning":{"en":{"short":"\"Sat\" is used in the sense of being/existence and in the sense of goodness. And \"Sat\" is also used, O Pārtha, for an auspicious act.","long":"\"Sad-bhāve sādhu-bhāve ca sad ity etat prayujyate / praśaste karmaṇi tathā sac-chabdaḥ pārtha yujyate.\" \"Sad-bhāve\" — in the sense of existence/being (sat-bhāva — the state of being, the existent). \"Sādhu-bhāve ca\" — and in the sense of goodness/excellence (sādhu — good, right, worthy). \"Sat ity etat prayujyate\" — \"Sat\" is used in these senses. \"Praśaste karmaṇi tathā\" — and also for an auspicious/worthy action (praśasta — praised, excellent). \"Sac-chabdaḥ pārtha yujyate\" — the word \"Sat\" is applied, O Pārtha. \"Sat\" has this triple reference: Being, Goodness, and Auspiciousness.","wbw":[{"word":"sad-bhāve sādhu-bhāve ca","grammar":"phrase","meaning":"in the sense of being and in the sense of goodness"},{"word":"sad ity etat prayujyate","grammar":"phrase","meaning":"\"Sat\" is used in this way"},{"word":"praśaste karmaṇi tathā","grammar":"phrase","meaning":"and also for an auspicious action"},{"word":"sac-chabdaḥ pārtha yujyate","grammar":"phrase","meaning":"the word \"Sat\" is applied, O Pārtha"}]},"te":{"short":"\"సత్\" అనేది ఉనికి మరియు శ్రేష్ఠత అర్థంలో వాడబడుతుంది. మరియు \"సత్\" అనేది, పార్థా, శుభమైన చర్య కోసం కూడా వాడబడుతుంది.","long":"\"సద్భావే సాధుభావే చ సదిత్యేతత్ ప్రయుజ్యతే / ప్రశస్తే కర్మణి తథా సచ్ఛబ్దః పార్థ యుజ్యతే.\" \"సద్భావే\" — ఉనికి అర్థంలో (సత్-భావ — ఉనికి యొక్క స్థితి). \"సాధుభావే చ\" — మరియు శ్రేష్ఠత అర్థంలో (సాధు — మంచి, సరైన). \"సదిత్యేతత్ ప్రయుజ్యతే\" — \"సత్\" ఈ అర్థాలలో వాడబడుతుంది. \"ప్రశస్తే కర్మణి తథా\" — మరియు శుభమైన/అర్హమైన చర్య కోసం కూడా. \"సచ్ఛబ్దః పార్థ యుజ్యతే\" — \"సత్\" అనే పదం వర్తిస్తుంది, పార్థా. \"సత్\" మూడు సంబంధాలు: ఉనికి, శ్రేష్ఠత, శుభం."},"sa":{"short":"\"सत्\" सद्भावे च साधुभावे च प्रयुज्यते। तथा \"सत्\" प्रशस्तकर्मणि, पार्थ, युज्यते।","long":"\"सद्भावे साधुभावे च सदित्येतत् प्रयुज्यते / प्रशस्ते कर्मणि तथा सच्छब्दः पार्थ युज्यते।\" \"सद्भावे\" — सत्तार्थे (सत्-भाव — अस्तित्वस्य स्थिति)। \"साधुभावे च\" — श्रेष्ठतार्थे च (साधु — उत्तम, सम्यक्)। \"सदित्येतत् प्रयुज्यते\" — \"सत्\" एतेषु अर्थेषु प्रयुक्तम्। \"प्रशस्ते कर्मणि तथा\" — शुभकर्मणि अपि। \"सच्छब्दः पार्थ युज्यते\" — \"सत्\" शब्दः वर्तते, पार्थ। \"सत्\" त्रीणि संदर्भाणि: सत्ता, श्रेष्ठता, शुभता।"}}},{"c":17,"s":27,"speaker":"krishna","p1":{"ro":"yajñe tapasi dāne ca","te":"యజ్ఞే తపసి దానే చ","dn":"यज्ञे तपसि दाने च"},"p2":{"ro":"sthitiḥ saditi cocyate","te":"స్థితిః సదితి చోచ్యతే","dn":"स्थितिः सदिति चोच्यते"},"p3":{"ro":"karma caiva tadarthīyaṃ","te":"కర్మ చైవ తదర్థీయం","dn":"कर्म चैव तदर्थीयं"},"p4":{"ro":"sadityevābhidhīyate","te":"సదిత్యేవాభిధీయతే","dn":"सदित्येवाभिधीयते"},"meaning":{"en":{"short":"And steadfastness in sacrifice, austerity, and giving is also called \"Sat.\" And action for the sake of That is also called \"Sat.\"","long":"\"Yajñe tapasi dāne ca sthitiḥ sad iti cocyate / karma caiva tad-arthīyaṃ sad ity evābhidhīyate.\" \"Yajñe tapasi dāne ca sthitiḥ\" — steadfastness (sthiti — standing firm, being established) in sacrifice, austerity, and giving. \"Sad iti cocyate\" — is also called \"Sat.\" \"Karma caiva tad-arthīyam\" — and action that is for the sake of That (tad-arthin — having That as its purpose/meaning). \"Sad ity evābhidhīyate\" — is indeed called \"Sat.\" The word \"Sat\" thus encompasses: the act's object (the divine), the act's quality (goodness), and the steadfastness of practice.","wbw":[{"word":"yajñe tapasi dāne ca","grammar":"phrase","meaning":"in sacrifice, austerity, and giving"},{"word":"sthitiḥ sad iti cocyate","grammar":"phrase","meaning":"steadfastness is also called \"Sat\""},{"word":"karma caiva tad-arthīyam","grammar":"phrase","meaning":"and action for the sake of That"},{"word":"sad ity evābhidhīyate","grammar":"phrase","meaning":"is indeed called \"Sat\""}]},"te":{"short":"యజ్ఞంలో, తపస్సులో, దానంలో స్థిరత్వం కూడా \"సత్\" అని చెప్పబడుతుంది. మరియు దానికి అనుగుణమైన చర్య కూడా \"సత్\" అని పిలవబడుతుంది.","long":"\"యజ్ఞే తపసి దానే చ స్థితిః సదితి చోచ్యతే / కర్మ చైవ తదర్థీయం సదిత్యేవాభిధీయతే.\" \"యజ్ఞే తపసి దానే చ స్థితిః\" — యజ్ఞం, తపస్సు, దానంలో స్థిరత్వం (స్థితి — నిరాటంకంగా నిలబడడం). \"సదితి చోచ్యతే\" — \"సత్\" అని కూడా చెప్పబడుతుంది. \"కర్మ చైవ తదర్థీయమ్\" — మరియు దానికోసం చేసే చర్య (తత్-అర్థి — \"అది\" అనే లక్ష్యంతో). \"సదిత్యేవాభిధీయతే\" — \"సత్\" అని నిజంగా పిలవబడుతుంది. \"సత్\" అనేది: చర్య యొక్క వస్తువు (దైవం), చర్య యొక్క గుణం (శ్రేష్ఠత), మరియు ఆచరణ స్థిరత్వాన్ని కలుపుతుంది."},"sa":{"short":"यज्ञे, तपसि, दाने च स्थितिः \"सत्\" इति चोच्यते। तदर्थीयं कर्म च \"सत्\" इत्येवाभिधीयते।","long":"\"यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते / कर्म चैव तदर्थीयं सदित्येवाभिधीयते।\" \"यज्ञे तपसि दाने च स्थितिः\" — यजन, तपस्, दाने स्थिरता (स्थिति — दृढनिरंतरता)। \"सदिति चोच्यते\" — \"सत्\" इत्यपि उच्यते। \"कर्म चैव तदर्थीयम्\" — तदर्थीयं (तत् लक्ष्यं यस्य) कर्म। \"सदित्येवाभिधीयते\" — \"सत्\" इत्येव कथ्यते। \"सत्\" क्रियायाः विषयं (दैवम्), गुणं (श्रेष्ठतां), स्थिरतां च समाहरति।"}}},{"c":17,"s":28,"speaker":"krishna","p1":{"ro":"aśraddhayā hutaṃ dattaṃ","te":"అశ్రద్ధయా హుతం దత్తం","dn":"अश्रद्धया हुतं दत्तं"},"p2":{"ro":"tapastaptaṃ kṛtaṃ ca yat","te":"తపస్తప్తం కృతం చ యత్","dn":"तपस्तप्तं कृतं च यत्"},"p3":{"ro":"asadityucyate pārtha","te":"అసదిత్యుచ్యతే పార్థ","dn":"असदित्युच्यते पार्थ"},"p4":{"ro":"na ca tatpretya no iha","te":"న చ తత్ప్రేత్య నో ఇహ","dn":"न च तत्प्रेत्य नो इह"},"meaning":{"en":{"short":"Whatever sacrifice, giving, and austerity is performed without faith, O Pārtha — it is called \"Asat\" — it is of no account here or hereafter.","long":"\"Aśraddhayā hutaṃ dattaṃ tapas taptaṃ kṛtaṃ ca yat / asad ity ucyate pārtha na ca tat pretya no iha.\" \"Aśraddhayā\" — without faith (śraddhā). \"Hutam\" — offered (in sacrifice). \"Dattam\" — given. \"Tapas taptam\" — austerity practiced. \"Kṛtaṃ ca yat\" — and whatever is done. \"Asad ity ucyate\" — it is called \"Asat\" (non-existent, unreal, bad). \"Na ca tat pretya no iha\" — and that is of no account (na) hereafter (pretya — after death) nor here (iha — in this life). The conclusion: śraddhā is not optional. Without faith, every religious action — sacrifice, giving, tapas — is Asat, without value.","wbw":[{"word":"aśraddhayā hutaṃ dattam","grammar":"phrase","meaning":"offered and given without faith"},{"word":"tapas taptaṃ kṛtaṃ ca yat","grammar":"phrase","meaning":"austerity practiced and whatever done"},{"word":"asad ity ucyate pārtha","grammar":"phrase","meaning":"is called \"Asat,\" O Pārtha"},{"word":"na ca tat pretya no iha","grammar":"phrase","meaning":"it is of no account hereafter or here"}]},"te":{"short":"శ్రద్ధలేకుండా అర్పించిన, ఇచ్చిన, ఆచరించిన తపస్సు — ఏదైనా — \"అసత్\" అని చెప్పబడుతుంది, పార్థా — అది ఇక్కడ కాదు, అనంతరమూ కాదు.","long":"\"అశ్రద్ధయా హుతం దత్తం తపస్తప్తం కృతం చ యత్ / అసదిత్యుచ్యతే పార్థ న చ తత్ ప్రేత్య నో ఇహ.\" \"అశ్రద్ధయా\" — శ్రద్ధలేకుండా. \"హుతమ్\" — అర్పించబడిన (యజ్ఞంలో). \"దత్తమ్\" — ఇవ్వబడిన. \"తపస్తప్తమ్\" — ఆచరించిన తపస్సు. \"కృతం చ యత్\" — మరియు ఏదైనా చేయబడినది. \"అసదిత్యుచ్యతే\" — \"అసత్\" అని చెప్పబడుతుంది (అనిత్యం, అవాస్తవం, చెడ్డది). \"న చ తత్ ప్రేత్య నో ఇహ\" — అది మరణం తర్వాత కాదు, ఇక్కడ కూడా కాదు. నిర్ణయం: శ్రద్ధ ఐచ్ఛికం కాదు. శ్రద్ధలేకుండా ప్రతి మతపరమైన చర్య — యజ్ఞం, దానం, తపస్సు — అసత్, విలువలేనిది."},"sa":{"short":"अश्रद्धया हुतं, दत्तं, तपस्तप्तं, कृतं च यत् — \"असत्\" इत्युच्यते, पार्थ — न च तत्प्रेत्य नो इह।","long":"\"अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् / असदित्युच्यते पार्थ न च तत् प्रेत्य नो इह।\" \"अश्रद्धया\" — श्रद्धाविना। \"हुतम्\" — होमार्पितम्। \"दत्तम्\" — दत्तम्। \"तपस्तप्तम्\" — अनुष्ठिततपः। \"कृतं च यत्\" — कृतं च यत्किंचित्। \"असदित्युच्यते\" — \"असत्\" इत्युच्यते (असत् — अनिश्चित, मिथ्या, अशुभ)। \"न च तत् प्रेत्य नो इह\" — न मृत्योः परं, न इह। निर्णयः: श्रद्धा अनैच्छिकी नैव। श्रद्धाविना सर्वाणि मतक्रियाणि — यज्ञः, दानं, तपः — असत्, अर्थरहितम्।"}}}],"conclusion":{"ro":"oṃ tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde śraddhātrayavibhāgayogo nāma saptadaśo'dhyāyaḥ","te":"ఓం తత్సదితి శ్రీమద్భగవద్గీతాసూపనిషత్సు బ్రహ్మవిద్యాయాం యోగశాస్త్రే శ్రీకృష్ణార్జునసంవాదే శ్రద్ధాత్రయవిభాగయోగోనామ సప్తదశోఽధ్యాయః","dn":"ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे श्रद्धात्रयविभागयोगो नाम सप्तदशोऽध्यायः","meaning":{"en":{"short":"Thus ends the seventeenth chapter entitled 'The Threefold Faith Yoga' in the Śrīmad Bhagavadgītā, the Upaniṣad, the science of the Absolute, the scripture of yoga, the dialogue between Śrī Kṛṣṇa and Arjuna."},"te":{"short":"ఇట్లు శ్రీమద్భగవద్గీతలో, ఉపనిషత్తులలో, బ్రహ్మవిద్యలో, యోగశాస్త్రంలో, శ్రీకృష్ణార్జున సంవాదంలో 'శ్రద్ధాత్రయవిభాగయోగ' అను సప్తదశధ్యాయం సమాప్తం."},"sa":{"short":"एवं श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे 'श्रद्धात्रयविभागयोग' नाम सप्तदशध्यायः समाप्तः।"}}}}
+{
+    "chapter": 17,
+    "title": {
+        "en": "Śraddhātraya Vibhāga Yoga",
+        "te": "శ్రద్ధాత్రయవిభాగయోగః",
+        "sa": "श्रद्धात्रयविभागयोगः",
+        "ro": "Śraddhātrayavibhāgayogaḥ"
+    },
+    "yoga": "Yoga of the Division of Threefold Faith",
+    "opening_speaker": "arjuna",
+    "first_verse": "ye śāstravidhimutsṛjya",
+    "last_verse": "aśraddhayā hutaṃ dattaṃ",
+    "uvacha": {
+        "dhritarashtra": 0,
+        "sanjaya": 0,
+        "arjuna": 1,
+        "krishna": 1
+    },
+    "audio": null,
+    "shlokas": [
+        {
+            "c": 17,
+            "s": 1,
+            "speaker": "arjuna",
+            "p1": {
+                "ro": "ye śāstravidhimutsṛjya",
+                "te": "యే శాస్త్రవిధిముత్సృజ్య",
+                "dn": "ये शास्त्रविधिमुत्सृज्य"
+            },
+            "p2": {
+                "ro": "yajante śraddhayānvitāḥ",
+                "te": "యజన్తే శ్రద్ధయాన్వితాః",
+                "dn": "यजन्ते श्रद्धयान्विताः"
+            },
+            "p3": {
+                "ro": "teṣāṃ niṣṭhā tu kā kṛṣṇa",
+                "te": "తేషాం నిష్ఠా తు కా కృష్ణ",
+                "dn": "तेषां निष्ठा तु का कृष्ण"
+            },
+            "p4": {
+                "ro": "sattvamāho rajastamaḥ",
+                "te": "సత్త్వమాహో రజస్తమః",
+                "dn": "सत्त्वमाहो रजस्तमः"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Arjuna said — Those who abandon the scriptural injunctions but sacrifice with faith — what is their position, O Krishna? Sattva, Rajas, or Tamas?",
+                    "long": "Arjuna picks up on 16.23-24's conclusion about scripture. A natural follow-up question: what about those who have genuine faith but don't follow specific scriptural rules? Is their faith still valid? Which of the three guṇas does it fall under? This launches chapter 17's exploration of the three types of faith, food, sacrifice, austerity, and giving — all analyzed through the sattva/rajas/tamas framework. \"Ye śāstra-vidhim utsṛjya yajante śraddhayānvitāḥ — teṣāṃ niṣṭhā tu kā kṛṣṇa sattvam āho rajas tamaḥ.\"",
+                    "wbw": [
+                        {
+                            "word": "ye śāstra-vidhim utsṛjya",
+                            "grammar": "phrase",
+                            "meaning": "those who, having abandoned scriptural injunction"
+                        },
+                        {
+                            "word": "yajante śraddhayānvitāḥ",
+                            "grammar": "phrase",
+                            "meaning": "sacrifice with faith"
+                        },
+                        {
+                            "word": "teṣāṃ niṣṭhā tu kā kṛṣṇa",
+                            "grammar": "question",
+                            "meaning": "what is their position, O Krishna"
+                        },
+                        {
+                            "word": "sattvam āho rajas tamaḥ",
+                            "grammar": "phrase",
+                            "meaning": "sattva, or rajas, or tamas"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "అర్జునుడు అన్నాడు — శాస్త్రవిధులను వదిలి కానీ శ్రద్ధతో యజ్ఞంచేసే వారి స్థితి ఏమిటి, కృష్ణా? సత్త్వమా, రజస్సా, తమస్సా?",
+                    "long": "అర్జునుడు 16.23-24 నిర్ణయం ఆధారంగా ప్రశ్నిస్తున్నాడు. సహజమైన అనుగ్రహప్రశ్న: నిజమైన శ్రద్ధ ఉన్నవారు కానీ నిర్దిష్ట శాస్త్రనియమాలు పాటించకుండా ఉంటే వారి శ్రద్ధ చెల్లుబాటవుతుందా? మూడు గుణాలలో ఏది? ఈ ప్రశ్న అధ్యాయం 17లో మూడు రకాల శ్రద్ధ, ఆహారం, యజ్ఞం, తపస్సు, దానం — అన్నీ సత్త్వ/రజస్/తమస్ చట్రంలో విశ్లేషణకు దారితీస్తుంది."
+                },
+                "sa": {
+                    "short": "अर्जुन उवाच — शास्त्रविधिमुत्सृज्य श्रद्धयान्विताः यजंते — तेषां निष्ठा का कृष्ण — सत्त्वमाहो रजस्तमः?",
+                    "long": "अर्जुनः १६.२३-२४ के उत्तरतः प्रश्नं करोति। स्वाभाविकोऽनुगामी प्रश्नः: शास्त्रनियमान् अनुसरन् न, किंतु सच्छ्रद्धया यजमानेषु कथम्? तेषां श्रद्धा मान्या वा? त्रिषु गुणेषु कः? एष प्रश्नः सप्तदशाध्यायस्य श्रद्धात्रय-विश्लेषणं (आहार, यजन, तपस्, दानं) प्रारभते — सर्वं सत्त्व-रजस्-तमसः चट्टाने।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 2,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "trividhā bhavati śraddhā",
+                "te": "త్రివిధా భవతి శ్రద్ధా",
+                "dn": "त्रिविधा भवति श्रद्धा"
+            },
+            "p2": {
+                "ro": "dehināṃ sā svabhāvajā",
+                "te": "దేహినాం సా స్వభావజా",
+                "dn": "देहिनां सा स्वभावजा"
+            },
+            "p3": {
+                "ro": "sāttvikī rājasī caiva",
+                "te": "సాత్త్వికీ రాజసీ చైవ",
+                "dn": "सात्त्विकी राजसी चैव"
+            },
+            "p4": {
+                "ro": "tāmasī ceti tāṃ śṛṇu",
+                "te": "తామసీ చేతి తాం శృణు",
+                "dn": "तामसी चेति तां शृणु"
+            },
+            "meaning": {
+                "en": {
+                    "short": "The Lord said — The faith of embodied beings is of three kinds, born of their own nature — sattvic, rajasic, and tamasic. Hear about these.",
+                    "long": "\"Tri-vidhā bhavati śraddhā dehināṃ sā svabhāva-jā / sāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu.\" Krishna's answer: śraddhā (faith) is threefold, born of svabhāva (one's own nature). The key insight is that śraddhā is not a separate faculty — it emerges from one's constitutive guṇa-nature. A sāttvika person has sāttvika faith; a rājasika person has rājasika faith. Faith reflects the person rather than being independently authenticated. This is why two people can have \"faith\" in very different things.",
+                    "wbw": [
+                        {
+                            "word": "tri-vidhā bhavati śraddhā",
+                            "grammar": "phrase",
+                            "meaning": "faith is of three kinds"
+                        },
+                        {
+                            "word": "dehināṃ sā svabhāva-jā",
+                            "grammar": "phrase",
+                            "meaning": "of embodied beings, born of their nature"
+                        },
+                        {
+                            "word": "sāttvikī rājasī caiva",
+                            "grammar": "phrase",
+                            "meaning": "sattvic and rajasic"
+                        },
+                        {
+                            "word": "tāmasī ceti tāṃ śṛṇu",
+                            "grammar": "phrase",
+                            "meaning": "and tamasic — hear about these"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "భగవానుడు చెప్పారు — దేహిగల జీవుల శ్రద్ధ మూడు రకాలు, వారి స్వభావం నుండి జనించిన — సాత్వికి, రాజసి, తామసి. వీటిని వినుము.",
+                    "long": "\"త్రివిధా భవతి శ్రద్ధా దేహినాం సా స్వభావజా / సాత్వికీ రాజసీ చైవ తామసీ చేతి తాం శ్రృణు.\" కృష్ణుని సమాధానం: శ్రద్ధ మూడు రకాలు, స్వభావం (తన స్వంత స్వభావం) నుండి జనించిన. ముఖ్య జ్ఞానం: శ్రద్ధ వేరే శక్తి కాదు — ఒకరి సహజ గుణస్వభావం నుండి ఉద్భవిస్తుంది. సాత్వికి వ్యక్తికి సాత్వికి శ్రద్ధ ఉంటుంది; రాజసికి వ్యక్తికి రాజసికి శ్రద్ధ ఉంటుంది. శ్రద్ధ వ్యక్తిని ప్రతిబింబిస్తుంది."
+                },
+                "sa": {
+                    "short": "भगवानुवाच — देहिनां श्रद्धा त्रिविधा भवति — स्वभावजा — सात्विकी, राजसी, तामसी च। तां श्रृणु।",
+                    "long": "\"त्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा / सात्विकी राजसी चैव तामसी चेति तां श्रृणु।\" कृष्णस्योत्तरम्: श्रद्धा त्रिविधा, स्वभावात् (स्वस्वभावात्) जाता। मुख्यज्ञानम्: श्रद्धा पृथक्शक्तिः नैव — जनस्य सहजगुणस्वभावात् उद्भवति। सात्विकस्य सात्विकी श्रद्धा; राजसिकस्य राजसी श्रद्धा। श्रद्धा जनं दर्शयति — स्वतंत्रतः प्रमाणिता नैव।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 3,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "sattvānurūpā sarvasya",
+                "te": "సత్త్వానురూపా సర్వస్య",
+                "dn": "सत्त्वानुरूपा सर्वस्य"
+            },
+            "p2": {
+                "ro": "śraddhā bhavati bhārata",
+                "te": "శ్రద్ధా భవతి భారత",
+                "dn": "श्रद्धा भवति भारत"
+            },
+            "p3": {
+                "ro": "śraddhāmayo'yaṁ puruṣaḥ",
+                "te": "శ్శ్రద్ధామయోఽయం పురుషః",
+                "dn": "श्रद्धामयोऽयं पुरुषः"
+            },
+            "p4": {
+                "ro": "yo yacchraddhaḥ sa eva saḥ",
+                "te": "యో యచ్ఛ్రద్ధః స ఏవ సః",
+                "dn": "यो यच्छ्रद्धः स एव सः"
+            },
+            "meaning": {
+                "en": {
+                    "short": "The faith of each person corresponds to their inherent nature, O Bhārata. A person consists of faith — what one has faith in, that one is.",
+                    "long": "\"Sattvānurūpā sarvasya śraddhā bhavati bhārata / śraddhāmayo'yaṃ puruṣo yo yac-chraddhaḥ sa eva saḥ.\" \"Sattvānurūpā sarvasya śraddhā bhavati\" — each person's faith corresponds to their sattva (here meaning their nature/constitution). \"Śraddhāmayo'yaṃ puruṣaḥ\" — this person is constituted of faith. \"Yo yac-chraddhaḥ sa eva saḥ\" — what one has faith in, that one is. This is one of the Gītā's most psychologically penetrating lines: identity is revealed by what we genuinely believe in and trust. The object of our deepest faith defines us.",
+                    "wbw": [
+                        {
+                            "word": "sattvānurūpā sarvasya",
+                            "grammar": "phrase",
+                            "meaning": "corresponding to the nature of each"
+                        },
+                        {
+                            "word": "śraddhā bhavati bhārata",
+                            "grammar": "phrase",
+                            "meaning": "faith arises, O Bhārata"
+                        },
+                        {
+                            "word": "śraddhāmayo'yaṃ puruṣaḥ",
+                            "grammar": "phrase",
+                            "meaning": "this person is constituted of faith"
+                        },
+                        {
+                            "word": "yo yac-chraddhaḥ sa eva saḥ",
+                            "grammar": "phrase",
+                            "meaning": "what one has faith in, that one is"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "ప్రతి వ్యక్తి శ్రద్ధ వారి సహజస్వభావానికి అనుగుణంగా ఉంటుంది, భారతా. వ్యక్తి శ్రద్ధతో నిర్మించబడ్డాడు — ఏ శ్రద్ధ ఉంటుందో, వారు అదే.",
+                    "long": "\"సత్త్వానురూపా సర్వస్య శ్రద్ధా భవతి భారత / శ్రద్ధామయోఽయం పురుషో యో యచ్ఛ్రద్ధః స ఏవ సః.\" \"సత్త్వానురూపా సర్వస్య శ్రద్ధా భవతి\" — ప్రతి వ్యక్తి శ్రద్ధ వారి స్వభావానికి అనుగుణంగా ఉంటుంది. \"శ్రద్ధామయోఽయం పురుషః\" — ఈ వ్యక్తి శ్రద్ధతో నిర్మించబడ్డాడు. \"యో యచ్ఛ్రద్ధః స ఏవ సః\" — ఏ శ్రద్ధ ఉంటుందో, వారు అదే. గీతలోని అత్యంత మనోవిజ్ఞానపరమైన వాక్యాలలో ఒకటి: మనం నిజంగా నమ్మేది మరియు విశ్వసించేది మన ఐడెంటిటీని వెల్లడిస్తుంది."
+                },
+                "sa": {
+                    "short": "प्रत्येकस्य श्रद्धा तस्य स्वभावानुरूपा भवति, भारत। पुरुषः श्रद्धामयः — यो यच्छ्रद्धः, स एव सः।",
+                    "long": "\"सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत / श्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः।\" \"सत्त्वानुरूपा सर्वस्य श्रद्धा भवति\" — प्रत्येकस्य श्रद्धा तस्य सत्त्वानुरूपा (स्वभावानुरूपा)। \"श्रद्धामयोऽयं पुरुषः\" — अयं पुरुषः श्रद्धामयः। \"यो यच्छ्रद्धः स एव सः\" — यो यद् श्रद्धते, सः तदेव। गीतायाः अत्यंत मनोवैज्ञानिकवाक्येषु एकम् — यस्मिन् वयं श्रद्धधीमहे, तत् अस्मान् प्रकाशयति। अस्माकं गाढश्रद्धाविषयः अस्मान् परिभाषयति।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 4,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "yajante sāttvikā devān",
+                "te": "యజన్తే సాత్త్వికా దేవాన్",
+                "dn": "यजन्ते सात्त्विका देवान्"
+            },
+            "p2": {
+                "ro": "yakṣarakṣāṃsi rājasāḥ",
+                "te": "యక్షరక్షాంసి రాజసాః",
+                "dn": "यक्षरक्षांसि राजसाः"
+            },
+            "p3": {
+                "ro": "pretānbhūtagaṇāṃścānye",
+                "te": "ప్రేతాన్భూతగణాంశ్చాన్యే",
+                "dn": "प्रेतान्भूतगणांश्चान्ये"
+            },
+            "p4": {
+                "ro": "yajante tāmasā janāḥ",
+                "te": "యజన్తే తామసా జనాః",
+                "dn": "यजन्ते तामसा जनाः"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Sattvic people worship the gods; rajasic people worship yakṣas and rākṣasas; the others — tamasic people — worship ghosts and troops of spirits.",
+                    "long": "\"Yajante sāttvikā devān yakṣa-rakṣāṃsi rājasāḥ / pretān bhūta-gaṇāṃś cānye yajante tāmasā janāḥ.\" Each type of faith finds its corresponding object of worship. Sāttvika → devāḥ (the higher divine forces, associated with light, order, truth). Rājasika → yakṣas and rākṣasas (beings associated with power, wealth, desire — transactional worship for worldly gain). Tāmasika → pretas (ghosts) and bhūta-gaṇas (troops of spirits). The object of worship reflects the worshipper's internal orientation and what they truly value.",
+                    "wbw": [
+                        {
+                            "word": "yajante sāttvikā devān",
+                            "grammar": "phrase",
+                            "meaning": "sattvic people worship the gods"
+                        },
+                        {
+                            "word": "yakṣa-rakṣāṃsi rājasāḥ",
+                            "grammar": "phrase",
+                            "meaning": "rajasic people (worship) yakṣas and rākṣasas"
+                        },
+                        {
+                            "word": "pretān bhūta-gaṇāṃś cānye",
+                            "grammar": "phrase",
+                            "meaning": "ghosts and troops of spirits, and others"
+                        },
+                        {
+                            "word": "yajante tāmasā janāḥ",
+                            "grammar": "phrase",
+                            "meaning": "tamasic people worship"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "సాత్వికులు దేవతలను పూజిస్తారు; రాజసులు యక్షులను రాక్షసులను పూజిస్తారు; మిగిలినవారు — తామసులు — ప్రేతలను భూతగణాలను పూజిస్తారు.",
+                    "long": "\"యజంతే సాత్వికా దేవాన్ యక్షరక్షాంసి రాజసాః / ప్రేతాన్ భూతగణాంశ్చాన్యే యజంతే తామసా జనాః.\" ప్రతి రకమైన శ్రద్ధ తదనుగుణ పూజాపాత్రను కనుగొంటుంది. సాత్విక → దేవతలు (జ్యోతి, క్రమం, సత్యంతో సంబంధం). రాజసిక → యక్షులు, రాక్షసులు (శక్తి, సంపద, కోరికలతో సంబంధమైన జీవులు — ఐహికలాభాల కోసం లావాదేవీ పూజ). తామసిక → ప్రేతలు, భూతగణాలు. పూజాపాత్రం పూజారి యొక్క అంతర్గత విశ్వాసాలను ప్రతిబింబిస్తుంది."
+                },
+                "sa": {
+                    "short": "सात्विकाः देवान् यजंते; राजसाः यक्षरक्षांसि; अन्ये तामसाः प्रेतान् भूतगणांश्च यजंते।",
+                    "long": "\"यजंते सात्विका देवान् यक्षरक्षांसि राजसाः / प्रेतान् भूतगणांश्चान्ये यजंते तामसा जनाः।\" प्रत्येकप्रकारस्य श्रद्धा तदनुरूपं पूजाविषयं विंदति। सात्विकाः → देवाः (ज्योतिः, व्यवस्था, सत्येन संबंधिताः)। राजसिकाः → यक्षाश्च रक्षांसि (शक्ति, धन, कामेन संबंधिताः — ऐहिकलाभार्थं सांव्यवहारिकपूजा)। तामसिकाः → प्रेताः, भूतगणाः। पूजाविषयः पूजकस्य आन्तरिकविन्यासं प्रतिबिंबयति।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 5,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "aśāstravihitaṃ ghoraṃ",
+                "te": "అశాస్త్రవిహితం ఘోరం",
+                "dn": "अशास्त्रविहितं घोरं"
+            },
+            "p2": {
+                "ro": "tapyante ye tapo janāḥ",
+                "te": "తప్యన్తే యే తపో జనాః",
+                "dn": "तप्यन्ते ये तपो जनाः"
+            },
+            "p3": {
+                "ro": "dambhāhaṃkārasaṃyuktāḥ",
+                "te": "దమ్భాహంకారసంయుక్తాః",
+                "dn": "दम्भाहंकारसंयुक्ताः"
+            },
+            "p4": {
+                "ro": "kāmarāgabalānvitāḥ",
+                "te": "కామరాగబలాన్వితాః",
+                "dn": "कामरागबलान्विताः"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Those who practice terrible austerity not prescribed by scripture — possessed by ego and force, with attachment and passion for it, and also torturing the body's constituents and Me dwelling within —",
+                    "long": "\"Aśāstra-vihitaṃ ghoraṃ tapyante ye tapo janāḥ / dambhāhaṃkāra-saṃyuktāḥ kāma-rāga-balānvitāḥ.\" (17.6 continues) \"Aśāstra-vihitaṃ ghoras\" — terrible (ghora) austerity not prescribed by scripture. \"Dambhāhaṃkāra-saṃyuktāḥ\" — possessed by dambha (hypocrisy) and ahaṃkāra (ego). \"Kāma-rāga-balānvitāḥ\" — with kāma (desire), rāga (passion/attachment), and bala (force/compulsion). These are the internal motivations driving the extreme asceticism — not genuine seeking but ego-display or desire for power.",
+                    "wbw": [
+                        {
+                            "word": "aśāstra-vihitaṃ ghoram",
+                            "grammar": "phrase",
+                            "meaning": "terrible, not prescribed by scripture"
+                        },
+                        {
+                            "word": "tapyante ye tapo janāḥ",
+                            "grammar": "phrase",
+                            "meaning": "the austerity that some people practice"
+                        },
+                        {
+                            "word": "dambhāhaṃkāra-saṃyuktāḥ",
+                            "grammar": "phrase",
+                            "meaning": "possessed by hypocrisy and ego"
+                        },
+                        {
+                            "word": "kāma-rāga-balānvitāḥ",
+                            "grammar": "phrase",
+                            "meaning": "driven by desire, passion, and force"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "శాస్త్రం నిర్దేశించని ఘోరమైన తపస్సు అనుష్ఠించే వారు — దంభ, అహంకారాలతో నిండి, కోరిక, రాగ, బలాలతో —",
+                    "long": "\"అశాస్త్రవిహితం ఘోరం తప్యంతే యే తపో జనాః / దంభాహంకారసంయుక్తాః కామరాగబలాన్వితాః.\" (17.6 కొనసాగుతుంది) \"అశాస్త్రవిహితం ఘోరమ్\" — శాస్త్రం నిర్దేశించని ఘోరమైన తపస్సు. \"దంభాహంకారసంయుక్తాః\" — దంభం (మోసపూరిత ప్రదర్శన) మరియు అహంకారంతో నిండి. \"కామరాగబలాన్వితాః\" — కోరిక, రాగం (అనురాగం), బలం (బలప్రయోగం) తో. ఇవి తీవ్రమైన తపస్సు వెనక అంతర్గత ప్రేరణలు — నిజమైన అన్వేషణ కాదు, అహంకారప్రదర్శన లేదా శక్తి పొందాలన్న కోరిక."
+                },
+                "sa": {
+                    "short": "शास्त्रविहितमकृत्वा ये जनाः घोरं तपस्यंति — दम्भाहंकारसंयुक्ताः, कामरागबलान्वितः —",
+                    "long": "\"अशास्त्रविहितं घोरं तप्यंते ये तपो जनाः / दम्भाहंकारसंयुक्ताः कामरागबलान्विताः।\" (१७.६ अनुसरति) \"अशास्त्रविहितं घोरम्\" — शास्त्रनिर्दिष्टं न, घोरं तपः। \"दम्भाहंकारसंयुक्ताः\" — दम्भेन (मायाप्रदर्शन) अहंकारेण च परिपूर्णाः। \"कामरागबलान्वितः\" — कामेन (कांक्षा), रागेण (आसक्ति), बलेन (बलप्रयोग) सह। एतानि अंतर्निहितप्रेरणाः — सच्चिद्वेषणं नैव, अहंकारप्रदर्शनं शक्त्यर्थकांक्षा वा।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 6,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "karśayantaḥ śarīrasthaṃ",
+                "te": "కర్షయన్తః శరీరస్థం",
+                "dn": "कर्शयन्तः शरीरस्थं"
+            },
+            "p2": {
+                "ro": "bhūtagrāmamacetasaḥ",
+                "te": "భూతగ్రామమచేతసః",
+                "dn": "भूतग्राममचेतसः"
+            },
+            "p3": {
+                "ro": "māṃ caivāntaḥśarīrasthaṃ",
+                "te": "మాం చైవాన్తఃశరీరస్థం",
+                "dn": "मां चैवान्तःशरीरस्थं"
+            },
+            "p4": {
+                "ro": "tānviddhyāsuraniścayān",
+                "te": "తాన్విద్ధ్యాసురనిశ్చయాన్",
+                "dn": "तान्विद्ध्यासुरनिश्चयान्"
+            },
+            "meaning": {
+                "en": {
+                    "short": "— torturing the assemblage of elements in the body, and Me dwelling within — know these to be of demonic resolve.",
+                    "long": "\"Karśayantaḥ śarīra-sthaṃ bhūta-grāmam acetasaḥ / māṃ caivāntaḥ śarīra-sthaṃ tān viddhy āsura-niścayān.\" \"Karśayantaḥ śarīra-sthaṃ bhūta-grāmam\" — torturing the assemblage (grāma — community) of elements (bhūtas) within the body. \"Acetasaḥ\" — foolish/mindless (without proper wisdom). \"Māṃ caivāntaḥ śarīra-sthaṃ\" — and Me dwelling within the body. \"Tān viddhy āsura-niścayān\" — know these to be of demonic resolve. The extremism of harsh self-mortification is condemned — not because tapas is wrong, but because this variety harms the divine indweller along with the body.",
+                    "wbw": [
+                        {
+                            "word": "karśayantaḥ śarīra-sthaṃ",
+                            "grammar": "phrase",
+                            "meaning": "torturing (what is) within the body"
+                        },
+                        {
+                            "word": "bhūta-grāmam acetasaḥ",
+                            "grammar": "phrase",
+                            "meaning": "the assemblage of elements, these mindless ones"
+                        },
+                        {
+                            "word": "māṃ caivāntaḥ śarīra-stham",
+                            "grammar": "phrase",
+                            "meaning": "and Me also, dwelling within the body"
+                        },
+                        {
+                            "word": "tān viddhy āsura-niścayān",
+                            "grammar": "phrase",
+                            "meaning": "know these to be of demonic resolve"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "— శరీరంలో ఉన్న భూతసమూహాన్ని మరియు అంతరాత్ముడైన నన్ను హింసించే వారిని — ఆసురనిశ్చయులని తెలిసికో.",
+                    "long": "\"కర్శయంతః శరీరస్థం భూతగ్రామమచేతసః / మాం చైవాంతః శరీరస్థం తాన్విద్ధ్యాసురనిశ్చయాన్.\" \"కర్శయంతః శరీరస్థం భూతగ్రామమ్\" — శరీరంలో ఉన్న భూతసమూహాన్ని హింసిస్తూ. \"అచేతసః\" — వివేకం లేనివారు. \"మాం చైవాంతః శరీరస్థమ్\" — మరియు శరీరంలో వసించే నన్ను కూడా. \"తాన్విద్ధ్యాసురనిశ్చయాన్\" — ఆసుర నిశ్చయులని తెలిసికో. తీవ్రమైన స్వయంహింసా తపస్సు నిందింపబడుతుంది — శరీరంతోపాటు అంతర్వాసియైన దైవాన్ని కూడా హింసిస్తుంది కాబట్టి."
+                },
+                "sa": {
+                    "short": "— शरीरस्थं भूतग्रामं, मामपि चांतः शरीरस्थं करशयंतः — तान् विद्धि आसुरनिश्चयान्।",
+                    "long": "\"कर्शयंतः शरीरस्थं भूतग्राममचेतसः / मां चैवांतः शरीरस्थं तान् विद्ध्यासुरनिश्चयान्।\" \"कर्शयंतः शरीरस्थं भूतग्रामम्\" — शरीरस्थं भूतग्रामं (समूहम्) कष्टयंतः। \"अचेतसः\" — मूर्खाः/विवेकहीनाः। \"मां चैवांतः शरीरस्थम्\" — मामपि शरीरे वसंतम्। \"तान् विद्ध्यासुरनिश्चयान्\" — तान् आसुरनिश्चयान् जानीहि। तीव्रस्वयंहिंसातपसः निंदा — शरीरेण सह अंतर्वासिनं दैवम् अपि पीडयति।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 7,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "āhārastvapi sarvasya",
+                "te": "ఆహారస్త్వపి సర్వస్య",
+                "dn": "आहारस्त्वपि सर्वस्य"
+            },
+            "p2": {
+                "ro": "trividho bhavati priyaḥ",
+                "te": "త్రివిధో భవతి ప్రియః",
+                "dn": "त्रिविधो भवति प्रियः"
+            },
+            "p3": {
+                "ro": "yajñastapastathā dānaṃ",
+                "te": "యజ్ఞస్తపస్తథా దానం",
+                "dn": "यज्ञस्तपस्तथा दानं"
+            },
+            "p4": {
+                "ro": "teṣāṃ bhedamimaṃ śṛṇu",
+                "te": "తేషాం భేదమిమం శృణు",
+                "dn": "तेषां भेदमिमं शृणु"
+            },
+            "meaning": {
+                "en": {
+                    "short": "The food that is dear to each is also of three kinds — and so too sacrifice, austerity, and giving. Hear this distinction of theirs.",
+                    "long": "\"Āhāras tv api sarvasya tri-vidho bhavati priyaḥ / yajñas tapas tathā dānaṃ teṣāṃ bhedam imaṃ śṛṇu.\" Food too is threefold. \"Āhāras tv api sarvasya tri-vidho bhavati priyaḥ\" — food that each person finds pleasing is of three kinds. Then the same analysis will apply to yajña (sacrifice), tapas (austerity), and dāna (giving). \"Teṣāṃ bhedam imaṃ śṛṇu\" — hear this distinction. The chapter now becomes a systematic analysis: the same three-way guṇa-distinction applies to every major area of human religious/ethical life.",
+                    "wbw": [
+                        {
+                            "word": "āhāras tv api sarvasya",
+                            "grammar": "phrase",
+                            "meaning": "food also of each person"
+                        },
+                        {
+                            "word": "tri-vidho bhavati priyaḥ",
+                            "grammar": "phrase",
+                            "meaning": "is of three kinds — what is dear"
+                        },
+                        {
+                            "word": "yajñas tapas tathā dānam",
+                            "grammar": "phrase",
+                            "meaning": "sacrifice, austerity, and giving"
+                        },
+                        {
+                            "word": "teṣāṃ bhedam imaṃ śṛṇu",
+                            "grammar": "phrase",
+                            "meaning": "hear this distinction of theirs"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "ప్రతి వ్యక్తికి ప్రియమైన ఆహారం కూడా మూడు రకాలు — అలాగే యజ్ఞం, తపస్సు, దానం కూడా. వాటి భేదం వినుము.",
+                    "long": "\"ఆహారస్త్వపి సర్వస్య త్రివిధో భవతి ప్రియః / యజ్ఞస్తపస్తథా దానం తేషాం భేదమిమం శ్రృణు.\" ఆహారం కూడా మూడు రకాలు. \"ఆహారస్త్వపి సర్వస్య త్రివిధో భవతి ప్రియః\" — ప్రతి వ్యక్తికి ప్రియమైన ఆహారం మూడు రకాలు. అనంతరం అదే విశ్లేషణ యజ్ఞం (యజ్ఞం), తపస్సు, దానానికి వర్తిస్తుంది. \"తేషాం భేదమిమం శ్రృణు\" — ఈ భేదాన్ని వినుము. అధ్యాయం ఒక క్రమబద్ధ విశ్లేషణగా మారుతుంది: అదే త్రిమార్గ గుణభేదం మానవ మతపరమైన/నైతికమైన జీవితంలోని ప్రతి ముఖ్యమైన రంగంలో వర్తిస్తుంది."
+                },
+                "sa": {
+                    "short": "प्रत्येकस्य प्रियः आहारः अपि त्रिविधो भवति — यज्ञः तपस्तथा दानं च। तेषां भेदमिमं श्रृणु।",
+                    "long": "\"आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः / यज्ञस्तपस्तथा दानं तेषां भेदमिमं श्रृणु।\" आहारोऽपि त्रिविधः। \"आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः\" — प्रत्येकस्य प्रियः आहारः त्रिविधः। अनंतरम् अदेव विश्लेषणं यजनाय, तपसे, दानाय च वर्तते। \"तेषां भेदमिमं श्रृणु\" — तेषां भेदं श्रृणु। अध्यायः क्रमबद्धविश्लेषणं भवति: अदेव त्रिमार्ग-गुण-भेदः मानवजीवनस्य सर्वेषु मुख्यक्षेत्रेषु वर्तते।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 8,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "āyuḥsattvabalārogya-",
+                "te": "ఆయుఃసత్త్వబలారోగ్య-",
+                "dn": "आयुःसत्त्वबलारोग्य-"
+            },
+            "p2": {
+                "ro": "sukhaprītivivardhanāḥ",
+                "te": "సుఖప్రీతివివర్ధనాః",
+                "dn": "सुखप्रीतिविवर्धनाः"
+            },
+            "p3": {
+                "ro": "rasyāḥ snigdhāḥ sthirā hṛdyāḥ",
+                "te": "రస్యాః స్నిగ్ధాః స్థిరా హృద్యాః",
+                "dn": "रस्याः स्निग्धाः स्थिरा हृद्याः"
+            },
+            "p4": {
+                "ro": "āhārāḥ sāttvikapriyāḥ",
+                "te": "ఆహారాః సాత్త్వికప్రియాః",
+                "dn": "आहाराः सात्त्विकप्रियाः"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Foods that promote life, vitality, strength, health, joy, and delight — which are juicy, oleaginous, substantial, and pleasing — are dear to sattvic people.",
+                    "long": "\"Āyuḥ-sattva-balārogya-sukha-prīti-vivardhanāḥ / rasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvika-priyāḥ.\" Sattvic food: \"āyuḥ-sattva-bala-ārogya-sukha-prīti-vivardhanāḥ\" — that which increases (vivardhanāḥ) life-span (āyus), being (sattva), strength (bala), health (ārogya), happiness (sukha), and love/delight (prīti). Qualities: rasyāḥ (juicy, flavorful), snigdhāḥ (oleaginous, unctuous, nourishing), sthirāḥ (substantial, solid, lasting), hṛdyāḥ (pleasing to the heart). Sattvic food nourishes on multiple levels simultaneously.",
+                    "wbw": [
+                        {
+                            "word": "āyuḥ-sattva-balārogya",
+                            "grammar": "compound",
+                            "meaning": "life, being, strength, health"
+                        },
+                        {
+                            "word": "sukha-prīti-vivardhanāḥ",
+                            "grammar": "phrase",
+                            "meaning": "increasing happiness and delight"
+                        },
+                        {
+                            "word": "rasyāḥ snigdhāḥ sthirā hṛdyāḥ",
+                            "grammar": "adjectives",
+                            "meaning": "juicy, oleaginous, substantial, pleasing"
+                        },
+                        {
+                            "word": "āhārāḥ sāttvika-priyāḥ",
+                            "grammar": "phrase",
+                            "meaning": "foods dear to sattvic people"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "ఆయువు, సత్త్వం, బలం, ఆరోగ్యం, సుఖం, ప్రీతిని పెంచే — రసవంతమైన, నిగ్గుగల, స్థిరమైన, హృదయానందకరమైన — ఆహారాలు సాత్వికులకు ప్రియమైనవి.",
+                    "long": "\"ఆయుస్సత్వబలారోగ్యసుఖప్రీతివివర్ధనాః / రస్యాః స్నిగ్ధాః స్థిరా హృద్యా ఆహారాః సాత్వికప్రియాః.\" సాత్వికి ఆహారం: \"ఆయుస్సత్వబలారోగ్యసుఖప్రీతివివర్ధనాః\" — ఆయువు, ఉనికి, బలం, ఆరోగ్యం, సుఖం, ప్రేమ/ఆనందం పెంచేవి. గుణాలు: రస్యాః (రసవంతమైన), స్నిగ్ధాః (నిగ్గుగల, పోషకమైన), స్థిరాః (స్థిరమైన, నిలకడగల), హృద్యాః (హృదయానందకరమైన). సాత్వికి ఆహారం ఒకేసారి అనేక స్థాయిలలో పోషిస్తుంది."
+                },
+                "sa": {
+                    "short": "आयुस्सत्वबलारोग्यसुखप्रीतिवर्धनाः — रस्याः, स्निग्धाः, स्थिराः, हृद्याः — आहाराः सात्विकप्रियाः।",
+                    "long": "\"आयुस्सत्वबलारोग्यसुखप्रीतिविवर्धनाः / रस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्विकप्रियाः।\" सात्विकाहारः: \"आयुस्सत्वबलारोग्यसुखप्रीतिविवर्धनाः\" — आयुः, सत्त्वं, बलं, आरोग्यं, सुखं, प्रीतिं वर्धयंतः। गुणाः: रस्याः (रसवंतः), स्निग्धाः (स्नेहपूर्णाः, पुष्टिदाः), स्थिराः (स्थिरजीर्णाः), हृद्याः (हृदयानंददाः)। सात्विकाहारः एकसमये अनेकस्तरेषु पोषयति।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 9,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "kaṭvamlalavaṇātyuṣṇa-",
+                "te": "కట్వమ్లలవణాత్యుష్ణ-",
+                "dn": "कट्वम्ललवणात्युष्ण-"
+            },
+            "p2": {
+                "ro": "tīkṣṇarūkṣavidāhinaḥ",
+                "te": "తీక్ష్ణరూక్షవిదాహినః",
+                "dn": "तीक्ष्णरूक्षविदाहिनः"
+            },
+            "p3": {
+                "ro": "āhārā rājasasyeṣṭāḥ",
+                "te": "ఆహారా రాజసస్యేష్టాః",
+                "dn": "आहारा राजसस्येष्टाः"
+            },
+            "p4": {
+                "ro": "duḥkhaśokāmayapradāḥ",
+                "te": "దుఃఖశోకామయప్రదాః",
+                "dn": "दुःखशोकामयप्रदाः"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Foods that are bitter, sour, salty, very hot, pungent, dry, and burning — are desired by rajasic people, and produce pain, grief, and disease.",
+                    "long": "\"Kaṭv-amla-lavaṇāty-uṣṇa-tīkṣṇa-rūkṣa-vidāhinaḥ / āhārā rājasasyeṣṭā duḥkha-śokāmaya-pradāḥ.\" Rajasic food — characterized by extremes of taste stimulation: kaṭu (bitter/pungent), amla (sour), lavaṇa (salty), aty-uṣṇa (very hot), tīkṣṇa (sharp/pungent), rūkṣa (dry/rough), vidāhin (burning). These are food that over-stimulate the senses. \"Duḥkha-śokāmaya-pradāḥ\" — producing (pradāḥ) pain (duḥkha), grief/agitation (śoka), and disease (āmaya). Excessive stimulation leads to imbalance and suffering.",
+                    "wbw": [
+                        {
+                            "word": "kaṭv-amla-lavaṇāty-uṣṇa",
+                            "grammar": "compound",
+                            "meaning": "bitter, sour, salty, very hot"
+                        },
+                        {
+                            "word": "tīkṣṇa-rūkṣa-vidāhinaḥ",
+                            "grammar": "compound",
+                            "meaning": "pungent, dry, and burning"
+                        },
+                        {
+                            "word": "āhārā rājasasyeṣṭāḥ",
+                            "grammar": "phrase",
+                            "meaning": "foods desired by rajasic people"
+                        },
+                        {
+                            "word": "duḥkha-śokāmaya-pradāḥ",
+                            "grammar": "phrase",
+                            "meaning": "producing pain, grief, and disease"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "చేదు, పులుపు, ఉప్పు, అతిమఖమైన, తీక్షణమైన, రూక్షమైన, కాల్చే — ఆహారాలు రాజసులు కోరుకుంటారు, మరియు దుఃఖం, శోకం, వ్యాధిని కలిగిస్తాయి.",
+                    "long": "\"కట్వమ్ललవణాత్యుష్ణతీక్ష్ణరూక్షవిదాహినః / ఆహారా రాజసస్యేష్టా దుఃఖశోకామయప్రదాః.\" రాజసిక ఆహారం — రుచిస్ఫూర్తి యొక్క తీవ్రతలచే వర్ణించబడింది: కటువు (చేదు/ఘాటైన), అమ్లం (పులుపు), లవణం (ఉప్పు), అతి ఉష్ణం (చాలా వేడి), తీక్ష్ణం (తీక్షణంగా/ఘాటైన), రూక్షం (పొడిగా/గరుకుగా), విదాహి (కాల్చే). \"దుఃఖశోకామయప్రదాః\" — దుఃఖం, శోకం/ఆందోళన, వ్యాధి కలిగిస్తాయి. అతిగా ఉద్దీపనం అసమతుల్యతకు మరియు బాధకు దారితీస్తుంది."
+                },
+                "sa": {
+                    "short": "कटुअम्ललवणाति-उष्णतीक्ष्णरूक्षविदाहिनः — आहाराः राजसस्येष्टाः — दुःखशोकामयप्रदाः।",
+                    "long": "\"कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः / आहारा राजसस्येष्टा दुःखशोकामयप्रदाः।\" राजसाहारः — रुच्युद्दीपनस्य तीव्रताभिः वर्णितः: कटु (तिक्त/तीक्ष्ण), अम्ल (आम्ल), लवण (लवण), अति-उष्ण (अत्यधिकोष्ण), तीक्ष्ण (तीव्र), रूक्ष (शुष्क/कठोर), विदाहि (दाहकारी)। \"दुःखशोकामयप्रदाः\" — दुःखं, शोकं, आमयं (रोगं) ददाति। अत्युद्दीपनं विषमतायै दुःखाय च नयति।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 10,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "yātayāmaṃ gatarasaṃ",
+                "te": "యాతయామం గతరసం",
+                "dn": "यातयामं गतरसं"
+            },
+            "p2": {
+                "ro": "pūti paryuṣitaṃ ca yat",
+                "te": "పూతి పర్యుషితం చ యత్",
+                "dn": "पूति पर्युषितं च यत्"
+            },
+            "p3": {
+                "ro": "ucchiṣṭamapi cāmedhyaṃ",
+                "te": "ఉచ్ఛిష్టమపి చామేధ్యం",
+                "dn": "उच्छिष्टमपि चामेध्यं"
+            },
+            "p4": {
+                "ro": "bhojanaṃ tāmasapriyam",
+                "te": "భోజనం తామసప్రియమ్",
+                "dn": "भोजनं तामसप्रियम्"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Food that is stale, tasteless, putrid, left-over, and impure — is dear to tamasic people.",
+                    "long": "\"Yāta-yāmaṃ gata-rasaṃ pūti paryuṣitaṃ ca yat / ucchiṣṭam api cāmedhyaṃ bhojanaṃ tāmasa-priyam.\" Tamasic food: \"yāta-yāmam\" — stale (literally \"what has passed through the yāma/hour,\" i.e., cooked too long ago). \"Gata-rasam\" — tasteless (rasa/essence has left). \"Pūti\" — putrid/foul-smelling. \"Paryuṣitam\" — kept overnight, spoiled. \"Ucchiṣṭam\" — leftover from others' meals. \"Amedhyam\" — impure/ritually unclean. Food that has degraded — lacking vitality, nourishment, or freshness — is the tamasic preference.",
+                    "wbw": [
+                        {
+                            "word": "yāta-yāmaṃ gata-rasam",
+                            "grammar": "phrase",
+                            "meaning": "stale, tasteless (essence-departed)"
+                        },
+                        {
+                            "word": "pūti paryuṣitaṃ ca yat",
+                            "grammar": "phrase",
+                            "meaning": "putrid and left overnight"
+                        },
+                        {
+                            "word": "ucchiṣṭam api cāmedhyam",
+                            "grammar": "phrase",
+                            "meaning": "leftover and also impure"
+                        },
+                        {
+                            "word": "bhojanaṃ tāmasa-priyam",
+                            "grammar": "phrase",
+                            "meaning": "food dear to tamasic people"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "పాచిన, రసంపోయిన, కుళ్ళిన, నిల్వఉన్న, అశుద్ధమైన ఆహారం తామసులకు ప్రియమైనది.",
+                    "long": "\"యాతయామం గతరసం పూతి పర్యుషితం చ యత్ / ఉచ్ఛిష్టమపి చామేధ్యం భోజనం తామసప్రియమ్.\" తామసికి ఆహారం: \"యాతయామమ్\" — పాచిన (మరీ ముందే వండినది). \"గతరసమ్\" — రసం పోయినది (సారం/రుచి పోయింది). \"పూతి\" — కుళ్ళినది. \"పర్యుషితమ్\" — రాత్రి నిల్వఉన్నది, పాడైనది. \"ఉచ్ఛిష్టమ్\" — ఇతరుల భోజనం తర్వాత మిగిలినది. \"అమేధ్యమ్\" — అశుద్ధమైనది. క్షీణించిన ఆహారం — శక్తి, పోషకాలు, తాజాదనం లేకుండా — తామసులకు ఇష్టం."
+                },
+                "sa": {
+                    "short": "यातयामं, गतरसं, पूति, पर्युषितं, उच्छिष्टम्, अमेध्यं च — भोजनं तामसप्रियम्।",
+                    "long": "\"यातयामं गतरसं पूति पर्युषितं च यत् / उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम्।\" तामसाहारः: \"यातयाममं\" — पाकात् बहुकालपूर्वं सिद्धं। \"गतरसम्\" — रसहीनं (रसः/सारः गतः)। \"पूति\" — दुर्गंधि। \"पर्युषितम्\" — रात्रिरक्षितं, विकृतम्। \"उच्छिष्टम्\" — पराणां भोजनावशेषः। \"अमेध्यम्\" — अशुद्धम्। क्षीणाहारः — शक्ति, पोषण, तात्क्षणिकता रहितः — तामसस्य प्रियः।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 11,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "aphalākāṅkṣibhiryajñaḥ",
+                "te": "అఫలాకాఙ్క్షిభిర్యజ్ఞః",
+                "dn": "अफलाकाङ्क्षिभिर्यज्ञः"
+            },
+            "p2": {
+                "ro": "vidhidṛṣṭo ya ijyate",
+                "te": "విధిదృష్టో య ఇజ్యతే",
+                "dn": "विधिदृष्टो य इज्यते"
+            },
+            "p3": {
+                "ro": "yaṣṭavyameveti manaḥ",
+                "te": "యష్టవ్యమేవేతి మనః",
+                "dn": "यष्टव्यमेवेति मनः"
+            },
+            "p4": {
+                "ro": "samādhāya sa sāttvikaḥ",
+                "te": "సమాధాయ స సాత్త్వికః",
+                "dn": "समाधाय स सात्त्विकः"
+            },
+            "meaning": {
+                "en": {
+                    "short": "The sacrifice offered according to prescription, by those who do not desire the fruit — with the mind fixed on \"this must be done\" — that is sattvic.",
+                    "long": "\"Aphalākāṅkṣibhir yajño vidhi-dṛṣṭo ya ijyate / yaṣṭavyam eveti manaḥ samādhāya sa sāttvikāḥ.\" \"Aphalākāṅkṣibhiḥ\" — by those not desiring fruit (aphalā-kāṅkṣī — free from fruit-desire). \"Vidhi-dṛṣṭaḥ\" — prescribed by scripture (in accordance with the rules). \"Ya ijyate\" — that which is offered. \"Yaṣṭavyam eveti\" — \"this must be done\" (the sense of duty/obligation as the sole motivator). \"Manaḥ samādhāya\" — with mind fixed. \"Sa sāttvikāḥ\" — that is sattvic. Sattvic sacrifice: right method, no fruit-desire, duty as the driver.",
+                    "wbw": [
+                        {
+                            "word": "aphalākāṅkṣibhir yajñaḥ",
+                            "grammar": "phrase",
+                            "meaning": "sacrifice by those not desiring fruit"
+                        },
+                        {
+                            "word": "vidhi-dṛṣṭo ya ijyate",
+                            "grammar": "phrase",
+                            "meaning": "that which is offered as prescribed"
+                        },
+                        {
+                            "word": "yaṣṭavyam eveti manaḥ",
+                            "grammar": "phrase",
+                            "meaning": "with mind fixed on \"this must be done\""
+                        },
+                        {
+                            "word": "samādhāya sa sāttvikāḥ",
+                            "grammar": "phrase",
+                            "meaning": "that is sattvic"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "శాస్త్రానుసారంగా, ఫలేచ్ఛ లేకుండా — \"ఇది చేయవలసింది\" అని మనస్సు నిలిపి — అర్పించే యజ్ఞం సాత్వికమైనది.",
+                    "long": "\"అఫలాకాంక్షిభిర్యజ్ఞో విధిదృష్టో య ఇజ్యతే / యష్టవ్యమేవేతి మనః సమాధాయ స సాత్వికః.\" \"అఫలాకాంక్షిభిః\" — ఫలం కోరుకోని వారిచే. \"విధిదృష్టః\" — శాస్త్రనిర్దేశించినది (నియమాలకు అనుగుణంగా). \"య ఇజ్యతే\" — అర్పించబడేది. \"యష్టవ్యమేవేతి\" — \"ఇది చేయవలసింది\" (కర్తవ్యం మాత్రమే ప్రేరణగా). \"మనః సమాధాయ\" — మనస్సు నిలిపి. \"స సాత్వికః\" — అది సాత్వికమైనది. సాత్వికి యజ్ఞం: సరైన పద్ధతి, ఫలేచ్ఛలేమి, కర్తవ్యమే చోదకం."
+                },
+                "sa": {
+                    "short": "विधिदृष्टः, अफलाकांक्षिभिः, \"यष्टव्यमेव\" इति मनः समाधाय जो यजन होता है — स सात्विकः।",
+                    "long": "\"अफलाकांक्षिभिर्यज्ञो विधिदृष्टो य इज्यते / यष्टव्यमेवेति मनः समाधाय स सात्विकः।\" \"अफलाकांक्षिभिः\" — फलं अनाकांक्षयद्भिः। \"विधिदृष्टः\" — शास्त्रनिर्धारितः। \"य इज्यते\" — अर्प्यते यत्। \"यष्टव्यमेवेति\" — \"इदं कर्तव्यमेव\" (कर्तव्यमेव प्रेरकम्)। \"मनः समाधाय\" — मनः संस्थाप्य। \"स सात्विकः\" — सः सात्विकः। सात्विकयज्ञः: सम्यक्पद्धति, फलकांक्षाभावः, कर्तव्यमेव चोदकम्।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 12,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "abhisandhāya tu phalaṃ",
+                "te": "అభిసన్ధాయ తు ఫలం",
+                "dn": "अभिसन्धाय तु फलं"
+            },
+            "p2": {
+                "ro": "dambhārthamapi caiva yat",
+                "te": "దమ్భార్థమపి చైవ యత్",
+                "dn": "दम्भार्थमपि चैव यत्"
+            },
+            "p3": {
+                "ro": "ijyate bharataśreṣṭha",
+                "te": "ఇజ్యతే భరతశ్రేష్ఠ",
+                "dn": "इज्यते भरतश्रेष्ठ"
+            },
+            "p4": {
+                "ro": "taṃ yajñaṃ viddhi rājasam",
+                "te": "తం యజ్ఞం విద్ధి రాజసమ్",
+                "dn": "तं यज्ञं विद्धि राजसम्"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Know, O best of Bhāratas, that sacrifice offered with a view to fruit, or for the purpose of display — that is rajasic.",
+                    "long": "\"Abhisaṃdhāya tu phalaṃ dambhārtham api caiva yat / ijyate bharata-śreṣṭha taṃ yajñaṃ viddhi rājasam.\" \"Abhisaṃdhāya tu phalam\" — aiming at fruit (phala) — with the result/reward in view. \"Dambhārtham api caiva\" — and also for the purpose of display (dambha — hypocrisy, showing off one's religiosity). \"Yat ijyate\" — what is offered. \"Taṃ yajñaṃ viddhi rājasam\" — know that sacrifice to be rajasic. Two rajasic motivations for sacrifice: (1) getting a reward, (2) social display. Both involve self-centered motivation rather than offering for its own sake.",
+                    "wbw": [
+                        {
+                            "word": "abhisaṃdhāya tu phalam",
+                            "grammar": "phrase",
+                            "meaning": "aiming at/with fruit in view"
+                        },
+                        {
+                            "word": "dambhārtham api caiva yat",
+                            "grammar": "phrase",
+                            "meaning": "and also for the purpose of display"
+                        },
+                        {
+                            "word": "ijyate bharata-śreṣṭha",
+                            "grammar": "phrase",
+                            "meaning": "is offered, O best of Bhāratas"
+                        },
+                        {
+                            "word": "taṃ yajñaṃ viddhi rājasam",
+                            "grammar": "phrase",
+                            "meaning": "know that sacrifice to be rajasic"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "ఫలాపేక్షతో, లేదా ప్రదర్శన కోసం అర్పించే యజ్ఞం — భరతశ్రేష్ఠా, అది రాజసమని తెలిసికో.",
+                    "long": "\"అభిసంధాయ తు ఫలం దంభార్థమపి చైవ యత్ / ఇజ్యతే భరతశ్రేష్ఠ తం యజ్ఞం విద్ధి రాజసమ్.\" \"అభిసంధాయ తు ఫలమ్\" — ఫలాన్ని లక్ష్యంగా పెట్టుకుని. \"దంభార్థమపి చైవ\" — మరియు ప్రదర్శన కోసం కూడా. \"యదిజ్యతే\" — అర్పించబడేది. \"తం యజ్ఞం విద్ధి రాజసమ్\" — ఆ యజ్ఞాన్ని రాజసమని తెలిసికో. రాజసికి ప్రేరణలు రెండు: (1) ప్రతిఫలం పొందడం, (2) సాంఘిక ప్రదర్శన. రెండూ స్వకేంద్రిత."
+                },
+                "sa": {
+                    "short": "फलाभिसंधाय, दम्भार्थं वा यत् इज्यते — भरतश्रेष्ठ, तं यज्ञं विद्धि राजसम्।",
+                    "long": "\"अभिसंधाय तु फलं दम्भार्थमपि चैव यत् / इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम्।\" \"अभिसंधाय तु फलम्\" — फलम् उद्दिश्य। \"दम्भार्थमपि चैव\" — दम्भार्थमपि (प्रदर्शनार्थं)। \"यदिज्यते\" — यदर्प्यते। \"तं यज्ञं विद्धि राजसम्\" — तं यज्ञं राजसं जानीहि। राजसिकी प्रेरणाद्वयम्: (१) पुरस्कारप्राप्तिः, (२) सामाजिकप्रदर्शनम्। उभे स्वकेंद्रिते।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 13,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "vidhihīnamasṛṣṭānnaṃ",
+                "te": "విధిహీనమసృష్టాన్నం",
+                "dn": "विधिहीनमसृष्टान्नं"
+            },
+            "p2": {
+                "ro": "mantrahīnamadakṣiṇam",
+                "te": "మన్త్రహీనమదక్షిణమ్",
+                "dn": "मन्त्रहीनमदक्षिणम्"
+            },
+            "p3": {
+                "ro": "śraddhāvirahitaṃ yajñaṃ",
+                "te": "శ్రద్ధావిరహితం యజ్ఞం",
+                "dn": "श्रद्धाविरहितं यज्ञं"
+            },
+            "p4": {
+                "ro": "tāmasaṃ paricakṣate",
+                "te": "తామసం పరిచక్షతే",
+                "dn": "तामसं परिचक्षते"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Sacrifice devoid of scripture, without distributing food, without mantras, without giving fees to priests, and without faith — is declared tamasic.",
+                    "long": "\"Vidhi-hīnam asṛṣṭānnaṃ mantra-hīnam adakṣiṇam / śraddhā-virahitaṃ yajñaṃ tāmasaṃ paricakṣate.\" \"Vidhi-hīnam\" — devoid of prescribed rules (not following the method). \"Asṛṣṭānnam\" — without distributing food (anna-sṛṣṭi — the sharing of food that is part of proper sacrifice). \"Mantra-hīnam\" — without mantras. \"Adakṣiṇam\" — without giving dakṣiṇā (the fees/gifts to officiating priests). \"Śraddhā-virahitam\" — devoid of faith. \"Tāmasaṃ paricakṣate\" — is declared tamasic. Tamasic sacrifice is careless, faithless, procedurally empty.",
+                    "wbw": [
+                        {
+                            "word": "vidhi-hīnam asṛṣṭānnam",
+                            "grammar": "phrase",
+                            "meaning": "devoid of rules, without distributing food"
+                        },
+                        {
+                            "word": "mantra-hīnam adakṣiṇam",
+                            "grammar": "phrase",
+                            "meaning": "without mantras, without priest-fees"
+                        },
+                        {
+                            "word": "śraddhā-virahitaṃ yajñam",
+                            "grammar": "phrase",
+                            "meaning": "sacrifice devoid of faith"
+                        },
+                        {
+                            "word": "tāmasaṃ paricakṣate",
+                            "grammar": "phrase",
+                            "meaning": "is declared tamasic"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "శాస్త్రహీనంగా, అన్నం పంచకుండా, మంత్రాలు లేకుండా, దక్షిణ ఇవ్వకుండా, శ్రద్ధలేకుండా అర్పించే యజ్ఞం తామసమని చెప్పబడింది.",
+                    "long": "\"విధిహీనమసృష్టాన్నం మంత్రహీనమదక్షిణమ్ / శ్రద్ధావిరహితం యజ్ఞం తామసం పరిచక్షతే.\" \"విధిహీనమ్\" — నిర్దేశించిన నియమాలు లేకుండా. \"అసృష్టాన్నమ్\" — అన్నం పంచకుండా (అన్నసృష్టి — సరైన యజ్ఞంలో ఆహారాన్ని పంచడం). \"మంత్రహీనమ్\" — మంత్రాలు లేకుండా. \"అదక్షిణమ్\" — పురోహితులకు దక్షిణ ఇవ్వకుండా. \"శ్రద్ధావిరహితమ్\" — శ్రద్ధలేకుండా. \"తామసం పరిచక్షతే\" — తామసమని చెప్పబడింది. తామసికి యజ్ఞం నిర్లక్ష్యంగా, శ్రద్ధలేకుండా, విధిహీనంగా ఉంటుంది."
+                },
+                "sa": {
+                    "short": "विधिहीनम्, असृष्टान्नम्, मंत्रहीनम्, अदक्षिणम्, श्रद्धाविरहितं यज्ञं तामसं परिचक्षते।",
+                    "long": "\"विधिहीनमसृष्टान्नं मंत्रहीनमदक्षिणम् / श्रद्धाविरहितं यज्ञं तामसं परिचक्षते।\" \"विधिहीनम्\" — नियमविहीनम्। \"असृष्टान्नम्\" — अन्नवितरणरहितम्। \"मंत्रहीनम्\" — मंत्ररहितम्। \"अदक्षिणम्\" — दक्षिणाविहीनम्। \"श्रद्धाविरहितम्\" — श्रद्धारहितम्। \"तामसं परिचक्षते\" — तामसमुक्तम्। तामसयज्ञः प्रमादी, श्रद्धाहीनः, विधिरिक्तः।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 14,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "devadvijaguruprājña-",
+                "te": "దేవద్విజగురుప్రాజ్ఞ-",
+                "dn": "देवद्विजगुरुप्राज्ञ-"
+            },
+            "p2": {
+                "ro": "pūjanaṃ śaucamārjavam",
+                "te": "పూజనం శౌచమార్జవమ్",
+                "dn": "पूजनं शौचमार्जवम्"
+            },
+            "p3": {
+                "ro": "brahmacaryamahiṃsā ca",
+                "te": "బ్రహ్మచర్యమహింసా చ",
+                "dn": "ब्रह्मचर्यमहिंसा च"
+            },
+            "p4": {
+                "ro": "śārīraṃ tapa ucyate",
+                "te": "శారీరం తప ఉచ్యతే",
+                "dn": "शारीरं तप उच्यते"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Worship of the gods, twice-born, teachers, and the wise; purity, uprightness, celibacy, and non-harming — this is called bodily austerity.",
+                    "long": "\"Deva-dvija-guru-prājña-pūjanaṃ śaucam ārjavam / brahmacaryam ahiṃsā ca śārīraṃ tapa ucyate.\" Physical/bodily (śārīra) tapas: \"deva-dvija-guru-prājña-pūjanam\" — worship of gods, twice-born (dvija — brāhmaṇas), teachers (guru), and the wise (prājña). \"Śaucam\" — purity (bodily cleanliness, dietary discipline). \"Ārjavam\" — uprightness (physical posture, honest bearing). \"Brahmacaryam\" — celibacy/control of sexual energy. \"Ahiṃsā\" — non-harming (in physical action). These constitute tapas of the body — the discipline of physical conduct.",
+                    "wbw": [
+                        {
+                            "word": "deva-dvija-guru-prājña",
+                            "grammar": "compound",
+                            "meaning": "gods, twice-born, teachers, and the wise"
+                        },
+                        {
+                            "word": "pūjanaṃ śaucam ārjavam",
+                            "grammar": "phrase",
+                            "meaning": "worship, purity, and uprightness"
+                        },
+                        {
+                            "word": "brahmacaryam ahiṃsā ca",
+                            "grammar": "phrase",
+                            "meaning": "celibacy and non-harming"
+                        },
+                        {
+                            "word": "śārīraṃ tapa ucyate",
+                            "grammar": "phrase",
+                            "meaning": "is called bodily austerity"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "దేవతలు, ద్విజులు, గురువులు, జ్ఞానులను పూజించడం; శుచిత్వం, ఆర్జవం, బ్రహ్మచర్యం, అహింస — ఇది శారీరక తపస్సు.",
+                    "long": "\"దేవద్విజగురుప్రాజ్ఞపూజనం శౌచమార్జవమ్ / బ్రహ్మచర్యమహింసా చ శారీరం తప ఉచ్యతే.\" శారీరక (శారీర) తపస్సు: \"దేవద్విజగురుప్రాజ్ఞపూజనమ్\" — దేవతలు, ద్విజులు (బ్రాహ్మణులు), గురువులు, జ్ఞానులను పూజించడం. \"శౌచమ్\" — శుచిత్వం (శారీరక పరిశుభ్రత, ఆహారశిక్షణ). \"ఆర్జవమ్\" — నేరుగా ఉండటం (శారీరక భంగిమ, నిజాయితీ). \"బ్రహ్మచర్యమ్\" — బ్రహ్మచర్యం/లైంగికశక్తి నిగ్రహం. \"అహింసా\" — హింసచేయకపోవుట. ఇవి శరీరతపస్సును నిర్మిస్తాయి."
+                },
+                "sa": {
+                    "short": "देवद्विजगुरुप्राज्ञपूजनम्, शौचम्, आर्जवम्, ब्रह्मचर्यम्, अहिंसा च — शारीरं तप उच्यते।",
+                    "long": "\"देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम् / ब्रह्मचर्यमहिंसा च शारीरं तप उच्यते।\" शारीरतपः: \"देवद्विजगुरुप्राज्ञपूजनम्\" — देवानाम्, द्विजानाम् (ब्राह्मणानाम्), गुरूणां, प्राज्ञानां पूजनम्। \"शौचम्\" — शुचिता। \"आर्जवम्\" — ऋजुता। \"ब्रह्मचर्यम्\" — ब्रह्मचर्यम्। \"अहिंसा\" — अहिंसा। एतानि शरीरस्य तपः — शारीरिकाचारस्य अनुशासनम्।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 15,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "anudvegakaraṃ vākyaṃ",
+                "te": "అనుద్వేగకరం వాక్యం",
+                "dn": "अनुद्वेगकरं वाक्यं"
+            },
+            "p2": {
+                "ro": "satyaṃ priyahitaṃ ca yat",
+                "te": "సత్యం ప్రియహితం చ యత్",
+                "dn": "सत्यं प्रियहितं च यत्"
+            },
+            "p3": {
+                "ro": "svādhyāyābhyasanaṃ caiva",
+                "te": "స్వాధ్యాయాభ్యసనం చైవ",
+                "dn": "स्वाध्यायाभ्यसनं चैव"
+            },
+            "p4": {
+                "ro": "vāṅmayaṃ tapa ucyate",
+                "te": "వాఙ్మయం తప ఉచ్యతే",
+                "dn": "वाङ्मयं तप उच्यते"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Speech that causes no distress, truthful, pleasant, and beneficial — and the practice of Vedic recitation — is called austerity of speech.",
+                    "long": "\"Anudvega-karaṃ vākyaṃ satyaṃ priya-hitaṃ ca yat / svādhyāyābhyasanaṃ caiva vāṅ-mayaṃ tapa ucyate.\" Vāṅmaya tapas (austerity of speech): \"anudvega-karam\" — not causing distress/anxiety to others. \"Satyam\" — truthful. \"Priya-hitam\" — pleasant (priya) and beneficial (hita). These three qualities together are essential: truth without harshness (beneficial and pleasant), pleasantness without falsehood (truthful), benefit without unpleasantness (pleasant). \"Svādhyāyābhyasanam\" — the regular practice of Vedic recitation/scripture study. Together these constitute tapas of speech.",
+                    "wbw": [
+                        {
+                            "word": "anudvega-karaṃ vākyam",
+                            "grammar": "phrase",
+                            "meaning": "speech that causes no distress"
+                        },
+                        {
+                            "word": "satyaṃ priya-hitaṃ ca yat",
+                            "grammar": "phrase",
+                            "meaning": "which is truthful, pleasant, and beneficial"
+                        },
+                        {
+                            "word": "svādhyāyābhyasanaṃ caiva",
+                            "grammar": "phrase",
+                            "meaning": "and also the practice of scripture study"
+                        },
+                        {
+                            "word": "vāṅ-mayaṃ tapa ucyate",
+                            "grammar": "phrase",
+                            "meaning": "is called austerity of speech"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "ఇతరులకు క్లేశం కలిగించని, సత్యమైన, ప్రియమైన, హితమైన వాక్యం — మరియు స్వాధ్యాయ అభ్యాసం — వాఙ్మయ తపస్సు.",
+                    "long": "\"అనుద్వేగకరం వాక్యం సత్యం ప్రియహితం చ యత్ / స్వాధ్యాయాభ్యసనం చైవ వాఙ్మయం తప ఉచ్యతే.\" వాఙ్మయ తపస్సు (వాక్కు తపస్సు): \"అనుద్వేగకరమ్\" — ఇతరులకు క్లేశం/ఆందోళన కలిగించని. \"సత్యమ్\" — సత్యమైన. \"ప్రియహితమ్\" — ప్రియమైన మరియు హితమైన. ఈ మూడు కలిసి అవసరం: కఠినత్వం లేకుండా సత్యం (హితమైన మరియు ప్రియమైన), అసత్యం లేకుండా ప్రేమ, అప్రియత్వం లేకుండా హితం. \"స్వాధ్యాయాభ్యసనమ్\" — వేదపఠన/శాస్త్రాభ్యాసం. ఇవి వాక్కు తపస్సు."
+                },
+                "sa": {
+                    "short": "अनुद्वेगकरं वाक्यम्, सत्यं, प्रियहितं च — स्वाध्यायाभ्यसनं चैव — वाङ्मयं तप उच्यते।",
+                    "long": "\"अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् / स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते।\" वाङ्मयतपः: \"अनुद्वेगकरम्\" — अन्येषाम् उद्वेगहीनम्। \"सत्यम्\" — सत्यम्। \"प्रियहितम्\" — प्रियं च हितं च। एतानि त्रयः मिलित्वा आवश्यकानि: कठोरताविना सत्यं (हितं प्रियं च), असत्यविना प्रेम, अप्रियताविना हितम्। \"स्वाध्यायाभ्यसनम्\" — नियमितवेदपाठ/शास्त्राभ्यासः। एतानि वाक्तपः।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 16,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "manaḥ prasādaḥ saumyatvaṃ",
+                "te": "మనఃప్రసాదః సౌమ్యత్వం",
+                "dn": "मनः प्रसादः सौम्यत्वं"
+            },
+            "p2": {
+                "ro": "maunamātmavinigrahaḥ",
+                "te": "మౌనమాత్మవినిగ్రహః",
+                "dn": "मौनमात्मविनिग्रहः"
+            },
+            "p3": {
+                "ro": "bhāvasaṃśuddhirityetat",
+                "te": "భావసంశుద్ధిరిత్యేతత్",
+                "dn": "भावसंशुद्धिरित्येतत्"
+            },
+            "p4": {
+                "ro": "tapo mānasamucyate",
+                "te": "తపో మానసముచ్యతే",
+                "dn": "तपो मानसमुच्यते"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Serenity of mind, benevolence, silence, self-control, purity of inner being — this is called mental austerity.",
+                    "long": "\"Manaḥ-prasādaḥ saumyatvaṃ maunam ātma-vinigrahaḥ / bhāva-saṃśuddhir ity etat tapo mānasam ucyate.\" Mānasa tapas (mental austerity): \"manaḥ-prasādaḥ\" — serenity/cheerfulness of mind (prasāda — clarity, unclouded state). \"Saumyatvaṃ\" — benevolence/gentleness (quality of being moon-like — cool, kind). \"Maunam\" — silence (not just of speech but inner quietude, not-commenting). \"Ātma-vinigrahaḥ\" — self-control (restraint of the inner faculty). \"Bhāva-saṃśuddhiḥ\" — purity of inner being/intention (bhāva — the feeling-tone, the motivation). Together these constitute the discipline of the inner life.",
+                    "wbw": [
+                        {
+                            "word": "manaḥ-prasādaḥ saumyatvam",
+                            "grammar": "phrase",
+                            "meaning": "serenity of mind, benevolence"
+                        },
+                        {
+                            "word": "maunam ātma-vinigrahaḥ",
+                            "grammar": "phrase",
+                            "meaning": "silence and self-control"
+                        },
+                        {
+                            "word": "bhāva-saṃśuddhir ity etat",
+                            "grammar": "phrase",
+                            "meaning": "purity of inner being — this"
+                        },
+                        {
+                            "word": "tapo mānasam ucyate",
+                            "grammar": "phrase",
+                            "meaning": "is called mental austerity"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "మనఃప్రసాదం, సౌమ్యత, మౌనం, ఆత్మనిగ్రహం, భావశుద్ధి — ఇది మానసిక తపస్సు.",
+                    "long": "\"మనఃప్రసాదః సౌమ్యత్వం మౌనమాత్మవినిగ్రహః / భావసంశుద్ధిరిత్యేతత్ తపో మానసముచ్యతే.\" మానస తపస్సు (మనస్సు తపస్సు): \"మనఃప్రసాదః\" — మనస్సు ప్రసన్నత/స్వచ్ఛత. \"సౌమ్యత్వమ్\" — సౌమ్యత/దయ. \"మౌనమ్\" — మౌనం (కేవలం మాటలు కాదు, అంతర్గత నిశ్శబ్దత). \"ఆత్మవినిగ్రహః\" — ఆత్మనిగ్రహం. \"భావసంశుద్ధిః\" — భావశుద్ధి (మనోభావం — అభిప్రాయం, ప్రేరణ యొక్క స్వచ్ఛత). ఇవి అంతరంగిక జీవితం యొక్క శిక్షణ."
+                },
+                "sa": {
+                    "short": "मनःप्रसादः, सौम्यत्वम्, मौनम्, आत्मवनिग्रहः, भावसंशुद्धिः — तप मानसमुच्यते।",
+                    "long": "\"मनःप्रसादः सौम्यत्वं मौनमात्मविनिग्रहः / भावसंशुद्धिरित्येतत् तपो मानसमुच्यते।\" मानसतपः: \"मनःप्रसादः\" — मनसः प्रसन्नता/स्वच्छता। \"सौम्यत्वम्\" — सौम्यता/दयालुता। \"मौनम्\" — मौनम् (न केवलं वाचि, आन्तरिकशांत्यपि)। \"आत्मविनिग्रहः\" — आत्मनिग्रहः। \"भावसंशुद्धिः\" — भावशुद्धि (भाव — अभिप्राय, प्रेरणायाः शुद्धि)। एतानि अंतर्जीवनस्य अनुशासनम्।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 17,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "śraddhayā parayā taptaṃ",
+                "te": "శ్రద్ధయా పరయా తప్తం",
+                "dn": "श्रद्धया परया तप्तं"
+            },
+            "p2": {
+                "ro": "tapastattrividhaṃ naraiḥ",
+                "te": "తపస్తత్త్రివిధం నరైః",
+                "dn": "तपस्तत्त्रिविधं नरैः"
+            },
+            "p3": {
+                "ro": "aphalākāṅkṣibhiryuktaiḥ",
+                "te": "అఫలాకాఙ్క్షిభిర్యుక్తైః",
+                "dn": "अफलाकाङ्क्षिभिर्युक्तैः"
+            },
+            "p4": {
+                "ro": "sāttvikaṃ paricakṣate",
+                "te": "సాత్త్వికం పరిచక్షతే",
+                "dn": "सात्त्विकं परिचक्षते"
+            },
+            "meaning": {
+                "en": {
+                    "short": "This threefold austerity, practiced with highest faith — by those not desiring fruit, the steadfast ones — is called sattvic.",
+                    "long": "\"Śraddhayā parayā taptaṃ tapas tat tri-vidhaṃ naraiḥ / aphalākāṅkṣibhir yuktaiḥ sāttvikaṃ paricakṣate.\" \"Śraddhayā parayā taptam\" — practiced with highest (parā) faith. \"Tat tri-vidham\" — that threefold (tapas — bodily, vocal, mental). \"Naraiḥ aphalākāṅkṣibhiḥ\" — by people not desiring fruit. \"Yuktaiḥ\" — the steadfast/disciplined ones. \"Sāttvikaṃ paricakṣate\" — is called sattvic. The three forms of tapas (body/speech/mind) combined with fruit-less motivation and genuine faith = sattvic austerity.",
+                    "wbw": [
+                        {
+                            "word": "śraddhayā parayā taptam",
+                            "grammar": "phrase",
+                            "meaning": "practiced with highest faith"
+                        },
+                        {
+                            "word": "tapas tat tri-vidhaṃ naraiḥ",
+                            "grammar": "phrase",
+                            "meaning": "that threefold austerity, by people"
+                        },
+                        {
+                            "word": "aphalākāṅkṣibhir yuktaiḥ",
+                            "grammar": "phrase",
+                            "meaning": "not desiring fruit, by the steadfast"
+                        },
+                        {
+                            "word": "sāttvikaṃ paricakṣate",
+                            "grammar": "phrase",
+                            "meaning": "is called sattvic"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "అత్యున్నతమైన శ్రద్ధతో ఆచరించే ఈ మూడు రకాల తపస్సు — ఫలాపేక్ష లేనివారు, నిరాసక్తులచే — సాత్వికమని చెప్పబడుతుంది.",
+                    "long": "\"శ్రద్ధయా పరయా తప్తం తపస్తత్ త్రివిధం నరైః / అఫలాకాంక్షిభిర్యుక్తైః సాత్వికం పరిచక్షతే.\" \"శ్రద్ధయా పరయా తప్తమ్\" — అత్యున్నతమైన (పరా) శ్రద్ధతో ఆచరించిన. \"తత్ త్రివిధమ్\" — ఆ మూడు రకాలు (శారీర/వాఙ్మయ/మానసిక తపస్సు). \"నరైరఫలాకాంక్షిభిః\" — ఫలం కోరుకోని వ్యక్తులచే. \"యుక్తైః\" — నిష్ఠగలవారిచే. \"సాత్వికం పరిచక్షతే\" — సాత్వికమని చెప్పబడుతుంది. మూడు రకాల తపస్సు + ఫలరాహిత్య ప్రేరణ + నిజమైన శ్రద్ధ = సాత్వికి తపస్సు."
+                },
+                "sa": {
+                    "short": "परया श्रद्धया अफलाकांक्षिभिः युक्तैः नरैः तप्तं तत्त्रिविधं तपः — सात्विकं परिचक्षते।",
+                    "long": "\"श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरैः / अफलाकांक्षिभिर्युक्तैः सात्विकं परिचक्षते।\" \"श्रद्धया परया तप्तम्\" — परया (उत्कृष्टया) श्रद्धया अनुष्ठितम्। \"तत्त्रिविधम्\" — तत् त्रिविधं (शारीर-वाङ्मय-मानसतपः)। \"नरैरफलाकांक्षिभिः\" — फलमनाकांक्षयद्भिर्नरैः। \"युक्तैः\" — स्थिरनिष्ठैः। \"सात्विकं परिचक्षते\" — सात्विकमुक्तम्। त्रिप्रकारतपः + फलाकांक्षाभावः + सच्छ्रद्धा = सात्विकतपः।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 18,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "satkāramānapūjārthaṃ",
+                "te": "సత్కారమానపూజార్థం",
+                "dn": "सत्कारमानपूजार्थं"
+            },
+            "p2": {
+                "ro": "tapo dambhena caiva yat",
+                "te": "తపో దమ్భేన చైవ యత్",
+                "dn": "तपो दम्भेन चैव यत्"
+            },
+            "p3": {
+                "ro": "kriyate tadiha proktaṃ",
+                "te": "క్రియతే తదిహ ప్రోక్తం",
+                "dn": "क्रियते तदिह प्रोक्तं"
+            },
+            "p4": {
+                "ro": "rājasaṃ calamadhruvam",
+                "te": "రాజసం చలమధ్రువమ్",
+                "dn": "राजसं चलमध्रुवम्"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Austerity that is practiced with hypocrisy, for the sake of honor, respect, and reverence — here in the world — that is said to be rajasic, unstable and impermanent.",
+                    "long": "\"Satkāra-māna-pūjārthaṃ tapo dambhena caiva yat / kriyate tad iha proktaṃ rājasaṃ calam adhruvam.\" \"Satkāra-māna-pūjārtham\" — for the sake of (artham) honor (satkāra), respect (māna), and reverence/worship (pūjā). \"Dambhena\" — with hypocrisy/show. \"Kriyate\" — is practiced. \"Tad iha proktam\" — that is said here. \"Rājasaṃ calam adhruvam\" — rajasic, unstable (cala — moving/wavering), and impermanent (adhruvam). Rajasic tapas is socially motivated — done for prestige — and therefore cannot be stable, because social recognition is inherently variable.",
+                    "wbw": [
+                        {
+                            "word": "satkāra-māna-pūjārtham",
+                            "grammar": "phrase",
+                            "meaning": "for the sake of honor, respect, and reverence"
+                        },
+                        {
+                            "word": "tapo dambhena caiva yat",
+                            "grammar": "phrase",
+                            "meaning": "austerity with hypocrisy also"
+                        },
+                        {
+                            "word": "kriyate tad iha proktam",
+                            "grammar": "phrase",
+                            "meaning": "practiced — that is said here"
+                        },
+                        {
+                            "word": "rājasaṃ calam adhruvam",
+                            "grammar": "phrase",
+                            "meaning": "to be rajasic, unstable, and impermanent"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "సత్కారం, మానం, పూజ కోసం, దంభంతో ఆచరించే తపస్సు — ఇక్కడ రాజసమని, అస్థిరమైనది, అనిత్యమైనదని చెప్పబడుతుంది.",
+                    "long": "\"సత్కారమానపూజార్థం తపో దంభేన చైవ యత్ / క్రియతే తదిహ ప్రోక్తం రాజసం చలమధ్రువమ్.\" \"సత్కారమానపూజార్థమ్\" — గౌరవం, మర్యాద, పూజ కోసం. \"దంభేన\" — దంభంతో/ప్రదర్శనతో. \"క్రియతే\" — ఆచరించబడే. \"తదిహ ప్రోక్తమ్\" — అది ఇక్కడ చెప్పబడింది. \"రాజసం చలమధ్రువమ్\" — రాజసమైనది, అస్థిరమైనది (చల — కదిలే/ఊగే), అనిత్యమైనది (అధ్రువమ్). రాజసికి తపస్సు సాంఘికంగా ప్రేరేపించబడింది — ప్రతిష్ఠ కోసం — అందువల్ల స్థిరంగా ఉండదు."
+                },
+                "sa": {
+                    "short": "सत्कारमानपूजार्थं, दंभेन च यत् तपः क्रियते — तदिह प्रोक्तं राजसं, चलमधुवम्।",
+                    "long": "\"सत्कारमानपूजार्थं तपो दम्भेन चैव यत् / क्रियते तदिह प्रोक्तं राजसं चलमध्रुवम्।\" \"सत्कारमानपूजार्थम्\" — सत्कारस्य, मानस्य, पूजायाः अर्थम्। \"दम्भेन\" — दम्भेन/प्रदर्शनेन। \"क्रियते\" — अनुष्ठीयते। \"तदिह प्रोक्तम्\" — तदिह उक्तम्। \"राजसं चलमध्रुवम्\" — राजसम्, चलम् (चंचल), अध्रुवम् (अनिश्चितम्)। राजसितपः सामाजिकतः प्रेरितः — प्रतिष्ठार्थम् — अतः स्थिरो न शक्यते।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 19,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "mūḍhagrāheṇātmano yat",
+                "te": "మూఢగ్రాహేణాత్మనో యత్",
+                "dn": "मूढग्राहेणात्मनो यत्"
+            },
+            "p2": {
+                "ro": "yatpīḍayā kriyate tapaḥ",
+                "te": "యత్పీడయా క్రియతే తపః",
+                "dn": "यत्पीडया क्रियते तपः"
+            },
+            "p3": {
+                "ro": "parasyotsādanārthaṃ vā",
+                "te": "పరస్యోత్సాదనార్థం వా",
+                "dn": "परस्योत्सादनार्थं वा"
+            },
+            "p4": {
+                "ro": "tattāmasamudāhṛtam",
+                "te": "తత్తామసముదాహృతమ్",
+                "dn": "तत्तामसमुदाहृतम्"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Austerity that is practiced with deluded conviction — by torturing oneself, or for the purpose of destroying another — that is declared tamasic.",
+                    "long": "\"Mūḍha-grāheṇātmano yat pīḍayā kriyate tapaḥ / parasyotsādanārthaṃ vā tat tāmasam udāhṛtam.\" \"Mūḍha-grāheṇa\" — with deluded conviction/grip (the stubborn foolish persistence that won't question its own practice). \"Ātmanaḥ yat pīḍayā kriyate\" — practiced with torturing of oneself. \"Parasyotsādanārtham vā\" — or for the purpose of destroying (utsādana — uprooting/destruction) another. \"Tat tāmasam udāhṛtam\" — that is declared tamasic. Tamasic tapas destroys — either the self through harmful asceticism, or others through hostile intent.",
+                    "wbw": [
+                        {
+                            "word": "mūḍha-grāheṇātmano yat",
+                            "grammar": "phrase",
+                            "meaning": "with deluded conviction, of oneself"
+                        },
+                        {
+                            "word": "pīḍayā kriyate tapaḥ",
+                            "grammar": "phrase",
+                            "meaning": "austerity that is practiced with torturing"
+                        },
+                        {
+                            "word": "parasyotsādanārthaṃ vā",
+                            "grammar": "phrase",
+                            "meaning": "or for the purpose of destroying another"
+                        },
+                        {
+                            "word": "tat tāmasam udāhṛtam",
+                            "grammar": "phrase",
+                            "meaning": "that is declared tamasic"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "మూఢగ్రహణంతో, స్వయంహింసతో, లేదా ఇతరులను నాశనంచేయాలని ఆచరించే తపస్సు — తామసమని ప్రకటించబడింది.",
+                    "long": "\"మూఢగ్రాహేణాత్మనో యత్ పీడయా క్రియతే తపః / పరస్యోత్సాదనార్థం వా తత్తామసముదాహృతమ్.\" \"మూఢగ్రాహేణ\" — మూఢ నిర్ణయంతో/పట్టుదలతో (తన పద్ధతిని ప్రశ్నించని మూఢ పట్టుదల). \"ఆత్మనో యత్ పీడయా క్రియతే\" — స్వయాన్ని హింసించి ఆచరించే. \"పరస్యోత్సాదనార్థం వా\" — లేదా ఇతరులను నాశనంచేయాలని (ఉత్సాదన — కూకటివేళ్ళతో పెళ్ళగించడం). \"తత్తామసముదాహృతమ్\" — తామసమని ప్రకటించబడింది. తామసికి తపస్సు నాశనం చేస్తుంది — స్వయాన్ని లేదా ఇతరులను."
+                },
+                "sa": {
+                    "short": "मूढग्राहेण, आत्मनः पीडया, परस्योत्सादनार्थं वा यत्तपः क्रियते — तत्तामसमुदाहृतम्।",
+                    "long": "\"मूढग्राहेणात्मनो यत्पीडया क्रियते तपः / परस्योत्सादनार्थं वा तत्तामसमुदाहृतम्।\" \"मूढग्राहेण\" — मूढसंकल्पेन (स्वानुष्ठानं न प्रश्नयन् हठी मोहः)। \"आत्मनो यत् पीडया क्रियते\" — स्वपीडनेन अनुष्ठितम्। \"परस्योत्सादनार्थं वा\" — वा परस्य नाशार्थम् (उत्सादन — उन्मूलन/विनाश)। \"तत्तामसमुदाहृतम्\" — तामसमुक्तम्। तामसतपः नाशयति — स्वम् अन्यं वा।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 20,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "dātavyamiti yaddānaṃ",
+                "te": "దాతవ్యమితి యద్దానం",
+                "dn": "दातव्यमिति यद्दानं"
+            },
+            "p2": {
+                "ro": "dīyate'nupakāriṇe",
+                "te": "దీయతేఽనుపకారిణే",
+                "dn": "दीयतेऽनुपकारिणे"
+            },
+            "p3": {
+                "ro": "deśe kāle ca pātre ca",
+                "te": "దేశే కాలే చ పాత్రే చ",
+                "dn": "देशे काले च पात्रे च"
+            },
+            "p4": {
+                "ro": "taddānaṃ sāttvikaṃ smṛtam",
+                "te": "తద్దానం సాత్త్వికం స్మృతమ్",
+                "dn": "तद्दानं सात्त्विकं स्मृतम्"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Giving that is given as a matter of duty — to one who will not return it, at the proper place, time, and to a worthy recipient — that is held to be sattvic.",
+                    "long": "\"Dātavyam iti yad dānaṃ dīyate'nupakāriṇe / deśe kāle ca pātre ca tad dānaṃ sāttvikaṃ smṛtam.\" \"Dātavyam iti\" — \"this must be given\" (sense of duty — the same yaṣṭavyam pattern from 17.11's sattvic sacrifice). \"Yad dānaṃ dīyate'nupakāriṇe\" — giving that is given to one who will not (or cannot) return the favor (anupakārin — not returning benefit). \"Deśe kāle ca pātre ca\" — at the proper place (deśa), time (kāla), and to a worthy recipient (pātra — literally, a vessel worthy of receiving). \"Sāttvikaṃ smṛtam\" — remembered/held as sattvic.",
+                    "wbw": [
+                        {
+                            "word": "dātavyam iti yad dānam",
+                            "grammar": "phrase",
+                            "meaning": "giving given as \"this must be given\""
+                        },
+                        {
+                            "word": "dīyate'nupakāriṇe",
+                            "grammar": "phrase",
+                            "meaning": "given to one who will not return it"
+                        },
+                        {
+                            "word": "deśe kāle ca pātre ca",
+                            "grammar": "phrase",
+                            "meaning": "at proper place, time, and to a worthy recipient"
+                        },
+                        {
+                            "word": "tad dānaṃ sāttvikaṃ smṛtam",
+                            "grammar": "phrase",
+                            "meaning": "that giving is held to be sattvic"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "కర్తవ్యంగా — ప్రతిఫలం ఇవ్వలేనివారికి, సరైన స్థలంలో, సమయంలో, యోగ్యమైన వ్యక్తికి ఇచ్చే దానం — సాత్వికమని భావించబడుతుంది.",
+                    "long": "\"దాతవ్యమితి యద్దానం దీయతేఽనుపకారిణే / దేశే కాలే చ పాత్రే చ తద్దానం సాత్వికం స్మృతమ్.\" \"దాతవ్యమితి\" — \"ఇవ్వవలసింది\" (కర్తవ్యం — 17.11 సాత్వికి యజ్ఞం యొక్క యష్టవ్యమ్ నమూనా). \"యద్దానం దీయతేఽనుపకారిణే\" — ప్రతిఫలం ఇవ్వలేనివారికి ఇచ్చే దానం. \"దేశే కాలే చ పాత్రే చ\" — సరైన స్థలంలో, సమయంలో, యోగ్యమైన వ్యక్తికి (పాత్ర — తగినట్లు స్వీకరించగలిగే పాత్ర). \"సాత్వికం స్మృతమ్\" — సాత్వికమని భావించబడుతుంది."
+                },
+                "sa": {
+                    "short": "\"दातव्यमिति\" — अनुपकारिणे, देशे, काले, पात्रे च यद्दानं दीयते — तद्दानं सात्विकं स्मृतम्।",
+                    "long": "\"दातव्यमिति यद्दानं दीयतेऽनुपकारिणे / देशे काले च पात्रे च तद्दानं सात्विकं स्मृतम्।\" \"दातव्यमिति\" — \"इदं दातव्यम्\" (कर्तव्यभावः — १७.११ सात्विकयज्ञस्य यष्टव्यम्-रूपम्)। \"यद्दानं दीयतेऽनुपकारिणे\" — अनुपकारिणे (प्रत्युपकारदातुमसमर्थाय) दीयते। \"देशे काले च पात्रे च\" — सम्यक्देशे, काले, पात्रे (योग्यपात्रे — ग्रहीतुयोग्यपात्रे) च। \"सात्विकं स्मृतम्\" — सात्विकमुक्तम्।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 21,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "yattu pratyupakārārthaṃ",
+                "te": "యత్తు ప్రత్యుపకారార్థం",
+                "dn": "यत्तु प्रत्युपकारार्थं"
+            },
+            "p2": {
+                "ro": "phalamuddiśya vā punaḥ",
+                "te": "ఫలముద్దిశ్య వా పునః",
+                "dn": "फलमुद्दिश्य वा पुनः"
+            },
+            "p3": {
+                "ro": "dīyate ca parikliṣṭaṃ",
+                "te": "దీయతే చ పరిక్లిష్టం",
+                "dn": "दीयते च परिक्लिष्टं"
+            },
+            "p4": {
+                "ro": "taddānaṃ rājasaṃ smṛtam",
+                "te": "తద్దానం రాజసం స్మృతమ్",
+                "dn": "तद्दानं राजसं स्मृतम्"
+            },
+            "meaning": {
+                "en": {
+                    "short": "But giving that is given with expectation of return, or again with a view to fruit, or unwillingly — that is held to be rajasic.",
+                    "long": "\"Yat tu pratyupakārārthaṃ phalam uddiśya vā punaḥ / dīyate ca parikliṣṭaṃ tad dānaṃ rājasaṃ smṛtam.\" \"Pratyupakārārtham\" — with the purpose of getting something back (counter-benefit). \"Phalam uddiśya vā punaḥ\" — or aiming at a result/reward. \"Dīyate ca parikliṣṭam\" — and given with reluctance/suffering (parikliṣṭa — troubled, distressed at giving). \"Tad dānaṃ rājasaṃ smṛtam\" — that giving is held to be rajasic. Three rajasic modes: giving for reciprocity, giving for results, and giving grudgingly. All are conditional.",
+                    "wbw": [
+                        {
+                            "word": "yat tu pratyupakārārtham",
+                            "grammar": "phrase",
+                            "meaning": "but giving for the sake of reciprocity"
+                        },
+                        {
+                            "word": "phalam uddiśya vā punaḥ",
+                            "grammar": "phrase",
+                            "meaning": "or again aiming at a fruit/result"
+                        },
+                        {
+                            "word": "dīyate ca parikliṣṭam",
+                            "grammar": "phrase",
+                            "meaning": "and given grudgingly/with distress"
+                        },
+                        {
+                            "word": "tad dānaṃ rājasaṃ smṛtam",
+                            "grammar": "phrase",
+                            "meaning": "that giving is held to be rajasic"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "ప్రతిఫలం కోసం, లేదా ఫలాపేక్షతో, లేదా అయిష్టంగా ఇచ్చే దానం — రాజసమని భావించబడుతుంది.",
+                    "long": "\"యత్తు ప్రత్యుపకారార్థం ఫలముద్దిశ్య వా పునః / దీయతే చ పరిక్లిష్టం తద్దానం రాజసం స్మృతమ్.\" \"ప్రత్యుపకారార్థమ్\" — ప్రతిఫలం కోసం. \"ఫలముద్దిశ్య వా పునః\" — లేదా ఫలాన్ని లక్ష్యంగా పెట్టుకుని. \"దీయతే చ పరిక్లిష్టమ్\" — మరియు ఇవ్వడానికి బాధపడుతూ ఇవ్వడం. \"తద్దానం రాజసం స్మృతమ్\" — ఆ దానం రాజసమని భావించబడుతుంది. మూడు రాజసికి రీతులు: ప్రతిఫలానికి, ఫలాలకోసం, అయిష్టంగా ఇవ్వడం. అన్నీ షరతులతో కూడినవి."
+                },
+                "sa": {
+                    "short": "प्रत्युपकारार्थं, फलमुद्दिश्य वा, पुनः परिक्लिष्टं दीयते — तद्दानं राजसं स्मृतम्।",
+                    "long": "\"यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः / दीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम्।\" \"प्रत्युपकारार्थम्\" — प्रतिलाभार्थम्। \"फलमुद्दिश्य वा पुनः\" — फलं लक्ष्यीकृत्य वा। \"दीयते च परिक्लिष्टम्\" — दीयते क्लेशेन। \"तद्दानं राजसं स्मृतम्\" — राजसमुक्तम्। राजसिकाः त्रयः रीतयः: प्रत्युपकाराय, फलाय, क्लेशेन। सर्वाणि सशर्तानि।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 22,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "adeśakāle yaddānam",
+                "te": "అదేశకాలే యద్దానమ్",
+                "dn": "अदेशकाले यद्दानम्"
+            },
+            "p2": {
+                "ro": "apātrebhyaśca dīyate",
+                "te": "అపాత్రేభ్యశ్చ దీయతే",
+                "dn": "अपात्रेभ्यश्च दीयते"
+            },
+            "p3": {
+                "ro": "asatkṛtamavajñātaṃ",
+                "te": "అసత్కృతమవజ్ఞాతం",
+                "dn": "असत्कृतमवज्ञातं"
+            },
+            "p4": {
+                "ro": "tattāmasamudāhṛtam",
+                "te": "తత్తామసముదాహృతమ్",
+                "dn": "तत्तामसमुदाहृतम्"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Giving that is given at the wrong place and time, to an unworthy recipient — without respect, or with contempt — is declared tamasic.",
+                    "long": "\"Adeśe-kāle yad dānam apātrebhyaś ca dīyate / asatkṛtam avajñātaṃ tat tāmasam udāhṛtam.\" \"Adeśe kāle\" — at the wrong place and time (inverting the sattvic formula). \"Apātrebhyaḥ\" — to unworthy recipients (apātra — literally, vessels not worthy of receiving — those who will misuse what is given). \"Ca dīyate\" — is given. \"Asatkṛtam\" — without proper respect (not given with honor). \"Avajñātam\" — with contempt/disrespect. \"Tat tāmasam udāhṛtam\" — that is declared tamasic. Tamasic giving is careless, disrespectful, and directed inappropriately.",
+                    "wbw": [
+                        {
+                            "word": "adeśe-kāle yad dānam",
+                            "grammar": "phrase",
+                            "meaning": "giving at wrong place and time"
+                        },
+                        {
+                            "word": "apātrebhyaś ca dīyate",
+                            "grammar": "phrase",
+                            "meaning": "and given to unworthy recipients"
+                        },
+                        {
+                            "word": "asatkṛtam avajñātam",
+                            "grammar": "phrase",
+                            "meaning": "without respect, with contempt"
+                        },
+                        {
+                            "word": "tat tāmasam udāhṛtam",
+                            "grammar": "phrase",
+                            "meaning": "that is declared tamasic"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "అసమయంలో, అస్థలంలో, అయోగ్యులకు — గౌరవంలేకుండా, లేదా తిరస్కారంతో — ఇచ్చే దానం తామసమని ప్రకటించబడింది.",
+                    "long": "\"అదేశకాలే యద్దానమపాత్రేభ్యశ్చ దీయతే / అసత్కృతమవజ్ఞాతం తత్తామసముదాహృతమ్.\" \"అదేశే కాలే\" — తప్పుడు స్థలంలో మరియు సమయంలో. \"అపాత్రేభ్యః\" — అయోగ్యులకు (అపాత్ర — ఇచ్చినది తగినట్లు స్వీకరించలేని పాత్రలు). \"చ దీయతే\" — ఇవ్వబడే. \"అసత్కృతమ్\" — గౌరవంలేకుండా. \"అవజ్ఞాతమ్\" — తిరస్కారంతో. \"తత్తామసముదాహృతమ్\" — తామసమని ప్రకటించబడింది. తామసికి దానం నిర్లక్ష్యంగా, అగౌరవంగా, తప్పుదారిలో ఇవ్వబడుతుంది."
+                },
+                "sa": {
+                    "short": "अदेशे, काले, अपात्रेभ्यः, असत्कृतम्, अवज्ञातं च दीयते — तत्तामसमुदाहृतम्।",
+                    "long": "\"अदेशकाले यद्दानमपात्रेभ्यश्च दीयते / असत्कृतमवज्ञातं तत्तामसमुदाहृतम्।\" \"अदेशे काले\" — असम्यक्देशे काले च (सात्विकसूत्रस्य व्युत्क्रमः)। \"अपात्रेभ्यः\" — अयोग्यपात्रेभ्यः। \"च दीयते\" — दीयते। \"असत्कृतम्\" — सत्कारविना। \"अवज्ञातम्\" — अवज्ञया। \"तत्तामसमुदाहृतम्\" — तामसमुक्तम्। तामसदानं प्रमादि, अगौरवि, अनुचितदिशायां।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 23,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "oṃ tatsaditi nirdeśaḥ",
+                "te": "ఓం తత్సదితి నిర్దేశః",
+                "dn": "ओं तत्सदिति निर्देशः"
+            },
+            "p2": {
+                "ro": "brahmaṇastrividhaḥ smṛtaḥ",
+                "te": "బ్రహ్మణస్త్రివిధః స్మృతః",
+                "dn": "ब्रह्मणस्त्रिविधः स्मृतः"
+            },
+            "p3": {
+                "ro": "brāhmaṇāstena vedāśca",
+                "te": "బ్రాహ్మణాస్తేన వేదాశ్చ",
+                "dn": "ब्राह्मणास्तेन वेदाश्च"
+            },
+            "p4": {
+                "ro": "yajñāśca vihitāḥ purā",
+                "te": "యజ్ఞాశ్చ విహితాః పురా",
+                "dn": "यज्ञाश्च विहिताः पुरा"
+            },
+            "meaning": {
+                "en": {
+                    "short": "\"Oṃ Tat Sat\" — this has been declared the threefold designation of Brahman. By this were ordained of old the brahmins, the Vedas, and sacrifices.",
+                    "long": "\"Oṃ tat sad iti nirdeśo brahmaṇas tri-vidhaḥ smṛtaḥ / brāhmaṇās tena vedāś ca yajñāś ca vihitāḥ purā.\" The chapter introduces \"Oṃ Tat Sat\" as the triple designation (tri-vidha nirdeśa) of Brahman. Oṃ (the primal sound, the affirmation of Being), Tat (That — the transcendent beyond name), Sat (Being/Truth/Existence — the real). \"By this were ordained of old\" — at the founding of the tradition, these three names were sanctified into the Vedas, brāhmaṇas, and sacrifices. They are used ritually to consecrate actions.",
+                    "wbw": [
+                        {
+                            "word": "oṃ tat sad iti nirdeśaḥ",
+                            "grammar": "phrase",
+                            "meaning": "\"Oṃ Tat Sat\" is the designation"
+                        },
+                        {
+                            "word": "brahmaṇas tri-vidhaḥ smṛtaḥ",
+                            "grammar": "phrase",
+                            "meaning": "of Brahman, declared threefold"
+                        },
+                        {
+                            "word": "brāhmaṇās tena vedāś ca",
+                            "grammar": "phrase",
+                            "meaning": "by this were ordained the brahmins and Vedas"
+                        },
+                        {
+                            "word": "yajñāś ca vihitāḥ purā",
+                            "grammar": "phrase",
+                            "meaning": "and sacrifices, ordained of old"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "\"ఓం తత్ సత్\" — ఇది బ్రహ్మం యొక్క మూడు రకాల నిర్దేశమని స్మరించబడింది. దీనిచే పురాకాలంలో బ్రాహ్మణులు, వేదాలు, యజ్ఞాలు నిర్దేశించబడ్డాయి.",
+                    "long": "\"ఓం తత్ సదితి నిర్దేశో బ్రహ్మణస్త్రివిధః స్మృతః / బ్రాహ్మణాస్తేన వేదాశ్చ యజ్ఞాశ్చ విహితాః పురా.\" అధ్యాయం \"ఓం తత్ సత్\" ను బ్రహ్మం యొక్క మూడు రకాల నిర్దేశంగా (త్రివిధ నిర్దేశ) పరిచయం చేస్తుంది. ఓం (ఆదిమనాదం, ఉనికి యొక్క ధృవీకరణ), తత్ (అది — పేరుకు అతీతమైన పారమార్థికం), సత్ (ఉనికి/సత్యం/వాస్తవం). \"పురాకాలంలో నిర్దేశించబడ్డాయి\" — సంప్రదాయం యొక్క స్థాపన సమయంలో, ఈ మూడు నామాలు వేదాలలో, బ్రాహ్మణులలో, యజ్ఞాలలో పవిత్రం చేయబడ్డాయి."
+                },
+                "sa": {
+                    "short": "\"ओं तत्सत्\" — इति ब्रह्मणः त्रिविधनिर्देशः स्मृतः। तेन पुरा ब्राह्मणाः वेदाश्च यज्ञाश्च विहिताः।",
+                    "long": "\"ओं तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः / ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा।\" अध्यायः \"ओं तत्सत्\" ब्रह्मणः त्रिविधनिर्देशं (त्रिविध-निर्देश) परिचयति। ओं (आदिनादः, सत्त्वस्य पुष्टि), तत् (तत् — नामाततीतं पारमार्थिकम्), सत् (सत्त्व/सत्य/सत्ता — वास्तवम्)। \"पुरा विहिताः\" — परम्परासंस्थापने, एतानि त्रीणि नामानि वेदेषु, ब्राह्मणेषु, यज्ञेषु पवित्रीकृतानि। क्रियाणां पवित्रीकरणाय आनुष्ठानिकतः उपयुज्यंते।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 24,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "tasmādomityudāhṛtya",
+                "te": "తస్మాదోమిత్యుదాహృత్య",
+                "dn": "तस्मादोमित्युदाहृत्य"
+            },
+            "p2": {
+                "ro": "yajñadānatapaḥkriyāḥ",
+                "te": "యజ్ఞదానతపఃక్రియాః",
+                "dn": "यज्ञदानतपःक्रियाः"
+            },
+            "p3": {
+                "ro": "pravartante vidhānoktāḥ",
+                "te": "ప్రవర్తన్తే విధానోక్తాః",
+                "dn": "प्रवर्तन्ते विधानोक्ताः"
+            },
+            "p4": {
+                "ro": "satataṃ brahmavādinām",
+                "te": "సతతం బ్రహ్మవాదినామ్",
+                "dn": "सततं ब्रह्मवादिनाम्"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Therefore, with \"Oṃ,\" acts of sacrifice, giving, and austerity — as prescribed in the scriptures — are always begun by those who expound Brahman.",
+                    "long": "\"Tasmād oṃ ity udāhṛtya yajña-dāna-tapaḥ-kriyāḥ / pravartante vidhānoktāḥ satataṃ brahma-vādinām.\" \"Tasmād oṃ ity udāhṛtya\" — therefore, with (the sound) \"Oṃ\" uttered/invoked. \"Yajña-dāna-tapaḥ-kriyāḥ\" — acts of sacrifice, giving, and austerity. \"Pravartante vidhānoktāḥ\" — as prescribed in the ordinances. \"Satataṃ brahma-vādinām\" — always, by those who expound/speak of Brahman (brahma-vādins — the followers/teachers of the Vedic tradition). The practical ritual use of \"Oṃ\": to begin all three major categories of religious action.",
+                    "wbw": [
+                        {
+                            "word": "tasmād oṃ ity udāhṛtya",
+                            "grammar": "phrase",
+                            "meaning": "therefore, with \"Oṃ\" uttered"
+                        },
+                        {
+                            "word": "yajña-dāna-tapaḥ-kriyāḥ",
+                            "grammar": "compound",
+                            "meaning": "acts of sacrifice, giving, and austerity"
+                        },
+                        {
+                            "word": "pravartante vidhānoktāḥ",
+                            "grammar": "phrase",
+                            "meaning": "begin, as prescribed in the ordinances"
+                        },
+                        {
+                            "word": "satataṃ brahma-vādinām",
+                            "grammar": "phrase",
+                            "meaning": "always, by those who expound Brahman"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "కాబట్టి, \"ఓం\" తో — శాస్త్రంలో నిర్దేశించినట్లు — యజ్ఞ, దాన, తపస్సు క్రియలు బ్రహ్మవాదులచే ఎల్లప్పుడూ ప్రారంభించబడతాయి.",
+                    "long": "\"తస్మాదోమిత్యుదాహృత్య యజ్ఞదానతపఃక్రియాః / ప్రవర్తంతే విధానోక్తాః సతతం బ్రహ్మవాదినామ్.\" \"తస్మాదోమిత్యుదాహృత్య\" — కాబట్టి, \"ఓం\" ను ఉచ్చరించి. \"యజ్ఞదానతపఃక్రియాః\" — యజ్ఞ, దాన, తపస్సు క్రియలు. \"ప్రవర్తంతే విధానోక్తాః\" — నిర్దేశించినట్లు ప్రారంభించబడతాయి. \"సతతం బ్రహ్మవాదినామ్\" — ఎల్లప్పుడూ, బ్రహ్మవాదులచే (వేదసంప్రదాయాన్ని వివరించే వారిచే). \"ఓం\" యొక్క ఆచారపరమైన వాడుక: మూడు ముఖ్య మత కార్యకలాపాలను ప్రారంభించడానికి."
+                },
+                "sa": {
+                    "short": "तस्मात् \"ओं\" इत्युदाहृत्य — विधानोक्ताः यज्ञदानतपःक्रियाः — ब्रह्मवादिनां सततं प्रवर्तंते।",
+                    "long": "\"तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः / प्रवर्तंते विधानोक्ताः सततं ब्रह्मवादिनाम्।\" \"तस्मादोमित्युदाहृत्य\" — तस्मात् \"ओं\" उचार्य। \"यज्ञदानतपःक्रियाः\" — यजन, दान, तपसः क्रियाः। \"प्रवर्तंते विधानोक्ताः\" — विधानोक्तवत् प्रारभ्यंते। \"सततं ब्रह्मवादिनाम्\" — सततं, ब्रह्मवादिभिः। \"ओं\" यः व्यावहारिकोपयोगः: तिसृषु मुख्यधर्मक्रियाषु आरंभाय।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 25,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "tadityanabhisandhāya",
+                "te": "తదిత్యనభిసన్ధాయ",
+                "dn": "तदित्यनभिसन्धाय"
+            },
+            "p2": {
+                "ro": "phalaṃ yajñatapaḥkriyāḥ",
+                "te": "ఫలం యజ్ఞతపఃక్రియాః",
+                "dn": "फलं यज्ञतपःक्रियाः"
+            },
+            "p3": {
+                "ro": "dānakriyāśca vividhāḥ",
+                "te": "దానక్రియాశ్చ వివిధాః",
+                "dn": "दानक्रियाश्च विविधाः"
+            },
+            "p4": {
+                "ro": "kriyante mokṣakāṅkṣibhiḥ",
+                "te": "క్రియన్తే మోక్షకాఙ్క్షిభిః",
+                "dn": "क्रियन्ते मोक्षकाङ्क्षिभिः"
+            },
+            "meaning": {
+                "en": {
+                    "short": "With \"Tat\" — without aiming at fruit — acts of sacrifice and austerity and various acts of giving are performed by those seeking liberation.",
+                    "long": "\"Tad ity anabhisaṃdhāya phalaṃ yajña-tapaḥ-kriyāḥ / dāna-kriyāś ca vividhāḥ kriyante mokṣa-kāṅkṣibhiḥ.\" \"Tad iti\" — with (the word/intention) \"Tat\" (That — the transcendent). \"Anabhisaṃdhāya phalam\" — without aiming at fruit (the same as aphalākāṅkṣin). \"Yajña-tapaḥ-kriyāḥ\" — acts of sacrifice and austerity. \"Dāna-kriyāś ca vividhāḥ\" — and various acts of giving. \"Kriyante mokṣa-kāṅkṣibhiḥ\" — performed by those who desire liberation (mokṣa-kāṅkṣin). \"Tat\" is the word of offering-to-the-transcendent: when action is done in the name of \"That,\" it transcends personal motivation.",
+                    "wbw": [
+                        {
+                            "word": "tad ity anabhisaṃdhāya",
+                            "grammar": "phrase",
+                            "meaning": "with \"Tat,\" without aiming at"
+                        },
+                        {
+                            "word": "phalaṃ yajña-tapaḥ-kriyāḥ",
+                            "grammar": "phrase",
+                            "meaning": "fruit, acts of sacrifice and austerity"
+                        },
+                        {
+                            "word": "dāna-kriyāś ca vividhāḥ",
+                            "grammar": "phrase",
+                            "meaning": "and various acts of giving"
+                        },
+                        {
+                            "word": "kriyante mokṣa-kāṅkṣibhiḥ",
+                            "grammar": "phrase",
+                            "meaning": "performed by those seeking liberation"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "\"తత్\" తో — ఫలాన్ని లక్ష్యంగా పెట్టుకోకుండా — మోక్షాన్ని కోరే వారిచే యజ్ఞ, తపస్సు క్రియలు మరియు వివిధ దాన క్రియలు చేయబడతాయి.",
+                    "long": "\"తదిత్యనభిసంధాయ ఫలం యజ్ఞతపఃక్రియాః / దానక్రియాశ్చ వివిధాః క్రియంతే మోక్షకాంక్షిభిః.\" \"తదితి\" — \"తత్\" (అది — పారమార్థికం) తో. \"అనభిసంధాయ ఫలమ్\" — ఫలాన్ని లక్ష్యంగా పెట్టుకోకుండా. \"యజ్ఞతపఃక్రియాః\" — యజ్ఞ, తపస్సు క్రియలు. \"దానక్రియాశ్చ వివిధాః\" — మరియు వివిధ దాన క్రియలు. \"క్రియంతే మోక్షకాంక్షిభిః\" — మోక్షం కోరేవారిచే చేయబడతాయి. \"తత్\" అనేది పారమార్థికానికి సమర్పణ పదం: \"అది\" అనే పేరిట చర్య చేయబడినప్పుడు, అది వ్యక్తిగత ప్రేరణను అధిగమిస్తుంది."
+                },
+                "sa": {
+                    "short": "\"तत्\" इत्यनभिसंधाय फलं — यज्ञतपःक्रियाः, वविधदानक्रियाश्च — मोक्षकांक्षिभिः क्रियंते।",
+                    "long": "\"तदित्यनभिसंधाय फलं यज्ञतपःक्रियाः / दानक्रियाश्च विविधाः क्रियंते मोक्षकांक्षिभिः।\" \"तदिति\" — \"तत्\" (तत् — पारमार्थिकं) सह। \"अनभिसंधाय फलम्\" — फलमनुद्दिश्य। \"यज्ञतपःक्रियाः\" — यजन, तपसः क्रियाः। \"दानक्रियाश्च विविधाः\" — विविधदानक्रियाश्च। \"क्रियंते मोक्षकांक्षिभिः\" — मोक्षकांक्षिभिः क्रियंते। \"तत्\" पारमार्थिकसमर्पणशब्दः — यदा \"तत्\" नाम्ना क्रिया क्रियते, व्यक्तिगतप्रेरणा अतीता भवति।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 26,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "sadbhāve sādhubhāve ca",
+                "te": "సద్భావే సాధుభావే చ",
+                "dn": "सद्भावे साधुभावे च"
+            },
+            "p2": {
+                "ro": "sadityetatprayujyate",
+                "te": "సదిత్యేతత్ప్రయుజ్యతే",
+                "dn": "सदित्येतत्प्रयुज्यते"
+            },
+            "p3": {
+                "ro": "praśaste karmaṇi tathā",
+                "te": "ప్రశస్తే కర్మణి తథా",
+                "dn": "प्रशस्ते कर्मणि तथा"
+            },
+            "p4": {
+                "ro": "sacchabdaḥ pārtha yujyate",
+                "te": "సచ్ఛబ్దః పార్థ యుజ్యతే",
+                "dn": "सच्छब्दः पार्थ युज्यते"
+            },
+            "meaning": {
+                "en": {
+                    "short": "\"Sat\" is used in the sense of being/existence and in the sense of goodness. And \"Sat\" is also used, O Pārtha, for an auspicious act.",
+                    "long": "\"Sad-bhāve sādhu-bhāve ca sad ity etat prayujyate / praśaste karmaṇi tathā sac-chabdaḥ pārtha yujyate.\" \"Sad-bhāve\" — in the sense of existence/being (sat-bhāva — the state of being, the existent). \"Sādhu-bhāve ca\" — and in the sense of goodness/excellence (sādhu — good, right, worthy). \"Sat ity etat prayujyate\" — \"Sat\" is used in these senses. \"Praśaste karmaṇi tathā\" — and also for an auspicious/worthy action (praśasta — praised, excellent). \"Sac-chabdaḥ pārtha yujyate\" — the word \"Sat\" is applied, O Pārtha. \"Sat\" has this triple reference: Being, Goodness, and Auspiciousness.",
+                    "wbw": [
+                        {
+                            "word": "sad-bhāve sādhu-bhāve ca",
+                            "grammar": "phrase",
+                            "meaning": "in the sense of being and in the sense of goodness"
+                        },
+                        {
+                            "word": "sad ity etat prayujyate",
+                            "grammar": "phrase",
+                            "meaning": "\"Sat\" is used in this way"
+                        },
+                        {
+                            "word": "praśaste karmaṇi tathā",
+                            "grammar": "phrase",
+                            "meaning": "and also for an auspicious action"
+                        },
+                        {
+                            "word": "sac-chabdaḥ pārtha yujyate",
+                            "grammar": "phrase",
+                            "meaning": "the word \"Sat\" is applied, O Pārtha"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "\"సత్\" అనేది ఉనికి మరియు శ్రేష్ఠత అర్థంలో వాడబడుతుంది. మరియు \"సత్\" అనేది, పార్థా, శుభమైన చర్య కోసం కూడా వాడబడుతుంది.",
+                    "long": "\"సద్భావే సాధుభావే చ సదిత్యేతత్ ప్రయుజ్యతే / ప్రశస్తే కర్మణి తథా సచ్ఛబ్దః పార్థ యుజ్యతే.\" \"సద్భావే\" — ఉనికి అర్థంలో (సత్-భావ — ఉనికి యొక్క స్థితి). \"సాధుభావే చ\" — మరియు శ్రేష్ఠత అర్థంలో (సాధు — మంచి, సరైన). \"సదిత్యేతత్ ప్రయుజ్యతే\" — \"సత్\" ఈ అర్థాలలో వాడబడుతుంది. \"ప్రశస్తే కర్మణి తథా\" — మరియు శుభమైన/అర్హమైన చర్య కోసం కూడా. \"సచ్ఛబ్దః పార్థ యుజ్యతే\" — \"సత్\" అనే పదం వర్తిస్తుంది, పార్థా. \"సత్\" మూడు సంబంధాలు: ఉనికి, శ్రేష్ఠత, శుభం."
+                },
+                "sa": {
+                    "short": "\"सत्\" सद्भावे च साधुभावे च प्रयुज्यते। तथा \"सत्\" प्रशस्तकर्मणि, पार्थ, युज्यते।",
+                    "long": "\"सद्भावे साधुभावे च सदित्येतत् प्रयुज्यते / प्रशस्ते कर्मणि तथा सच्छब्दः पार्थ युज्यते।\" \"सद्भावे\" — सत्तार्थे (सत्-भाव — अस्तित्वस्य स्थिति)। \"साधुभावे च\" — श्रेष्ठतार्थे च (साधु — उत्तम, सम्यक्)। \"सदित्येतत् प्रयुज्यते\" — \"सत्\" एतेषु अर्थेषु प्रयुक्तम्। \"प्रशस्ते कर्मणि तथा\" — शुभकर्मणि अपि। \"सच्छब्दः पार्थ युज्यते\" — \"सत्\" शब्दः वर्तते, पार्थ। \"सत्\" त्रीणि संदर्भाणि: सत्ता, श्रेष्ठता, शुभता।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 27,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "yajñe tapasi dāne ca",
+                "te": "యజ్ఞే తపసి దానే చ",
+                "dn": "यज्ञे तपसि दाने च"
+            },
+            "p2": {
+                "ro": "sthitiḥ saditi cocyate",
+                "te": "స్థితిః సదితి చోచ్యతే",
+                "dn": "स्थितिः सदिति चोच्यते"
+            },
+            "p3": {
+                "ro": "karma caiva tadarthīyaṃ",
+                "te": "కర్మ చైవ తదర్థీయం",
+                "dn": "कर्म चैव तदर्थीयं"
+            },
+            "p4": {
+                "ro": "sadityevābhidhīyate",
+                "te": "సదిత్యేవాభిధీయతే",
+                "dn": "सदित्येवाभिधीयते"
+            },
+            "meaning": {
+                "en": {
+                    "short": "And steadfastness in sacrifice, austerity, and giving is also called \"Sat.\" And action for the sake of That is also called \"Sat.\"",
+                    "long": "\"Yajñe tapasi dāne ca sthitiḥ sad iti cocyate / karma caiva tad-arthīyaṃ sad ity evābhidhīyate.\" \"Yajñe tapasi dāne ca sthitiḥ\" — steadfastness (sthiti — standing firm, being established) in sacrifice, austerity, and giving. \"Sad iti cocyate\" — is also called \"Sat.\" \"Karma caiva tad-arthīyam\" — and action that is for the sake of That (tad-arthin — having That as its purpose/meaning). \"Sad ity evābhidhīyate\" — is indeed called \"Sat.\" The word \"Sat\" thus encompasses: the act's object (the divine), the act's quality (goodness), and the steadfastness of practice.",
+                    "wbw": [
+                        {
+                            "word": "yajñe tapasi dāne ca",
+                            "grammar": "phrase",
+                            "meaning": "in sacrifice, austerity, and giving"
+                        },
+                        {
+                            "word": "sthitiḥ sad iti cocyate",
+                            "grammar": "phrase",
+                            "meaning": "steadfastness is also called \"Sat\""
+                        },
+                        {
+                            "word": "karma caiva tad-arthīyam",
+                            "grammar": "phrase",
+                            "meaning": "and action for the sake of That"
+                        },
+                        {
+                            "word": "sad ity evābhidhīyate",
+                            "grammar": "phrase",
+                            "meaning": "is indeed called \"Sat\""
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "యజ్ఞంలో, తపస్సులో, దానంలో స్థిరత్వం కూడా \"సత్\" అని చెప్పబడుతుంది. మరియు దానికి అనుగుణమైన చర్య కూడా \"సత్\" అని పిలవబడుతుంది.",
+                    "long": "\"యజ్ఞే తపసి దానే చ స్థితిః సదితి చోచ్యతే / కర్మ చైవ తదర్థీయం సదిత్యేవాభిధీయతే.\" \"యజ్ఞే తపసి దానే చ స్థితిః\" — యజ్ఞం, తపస్సు, దానంలో స్థిరత్వం (స్థితి — నిరాటంకంగా నిలబడడం). \"సదితి చోచ్యతే\" — \"సత్\" అని కూడా చెప్పబడుతుంది. \"కర్మ చైవ తదర్థీయమ్\" — మరియు దానికోసం చేసే చర్య (తత్-అర్థి — \"అది\" అనే లక్ష్యంతో). \"సదిత్యేవాభిధీయతే\" — \"సత్\" అని నిజంగా పిలవబడుతుంది. \"సత్\" అనేది: చర్య యొక్క వస్తువు (దైవం), చర్య యొక్క గుణం (శ్రేష్ఠత), మరియు ఆచరణ స్థిరత్వాన్ని కలుపుతుంది."
+                },
+                "sa": {
+                    "short": "यज्ञे, तपसि, दाने च स्थितिः \"सत्\" इति चोच्यते। तदर्थीयं कर्म च \"सत्\" इत्येवाभिधीयते।",
+                    "long": "\"यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते / कर्म चैव तदर्थीयं सदित्येवाभिधीयते।\" \"यज्ञे तपसि दाने च स्थितिः\" — यजन, तपस्, दाने स्थिरता (स्थिति — दृढनिरंतरता)। \"सदिति चोच्यते\" — \"सत्\" इत्यपि उच्यते। \"कर्म चैव तदर्थीयम्\" — तदर्थीयं (तत् लक्ष्यं यस्य) कर्म। \"सदित्येवाभिधीयते\" — \"सत्\" इत्येव कथ्यते। \"सत्\" क्रियायाः विषयं (दैवम्), गुणं (श्रेष्ठतां), स्थिरतां च समाहरति।"
+                }
+            }
+        },
+        {
+            "c": 17,
+            "s": 28,
+            "speaker": "krishna",
+            "p1": {
+                "ro": "aśraddhayā hutaṃ dattaṃ",
+                "te": "అశ్రద్ధయా హుతం దత్తం",
+                "dn": "अश्रद्धया हुतं दत्तं"
+            },
+            "p2": {
+                "ro": "tapastaptaṃ kṛtaṃ ca yat",
+                "te": "తపస్తప్తం కృతం చ యత్",
+                "dn": "तपस्तप्तं कृतं च यत्"
+            },
+            "p3": {
+                "ro": "asadityucyate pārtha",
+                "te": "అసదిత్యుచ్యతే పార్థ",
+                "dn": "असदित्युच्यते पार्थ"
+            },
+            "p4": {
+                "ro": "na ca tatpretya no iha",
+                "te": "న చ తత్ప్రేత్య నో ఇహ",
+                "dn": "न च तत्प्रेत्य नो इह"
+            },
+            "meaning": {
+                "en": {
+                    "short": "Whatever sacrifice, giving, and austerity is performed without faith, O Pārtha — it is called \"Asat\" — it is of no account here or hereafter.",
+                    "long": "\"Aśraddhayā hutaṃ dattaṃ tapas taptaṃ kṛtaṃ ca yat / asad ity ucyate pārtha na ca tat pretya no iha.\" \"Aśraddhayā\" — without faith (śraddhā). \"Hutam\" — offered (in sacrifice). \"Dattam\" — given. \"Tapas taptam\" — austerity practiced. \"Kṛtaṃ ca yat\" — and whatever is done. \"Asad ity ucyate\" — it is called \"Asat\" (non-existent, unreal, bad). \"Na ca tat pretya no iha\" — and that is of no account (na) hereafter (pretya — after death) nor here (iha — in this life). The conclusion: śraddhā is not optional. Without faith, every religious action — sacrifice, giving, tapas — is Asat, without value.",
+                    "wbw": [
+                        {
+                            "word": "aśraddhayā hutaṃ dattam",
+                            "grammar": "phrase",
+                            "meaning": "offered and given without faith"
+                        },
+                        {
+                            "word": "tapas taptaṃ kṛtaṃ ca yat",
+                            "grammar": "phrase",
+                            "meaning": "austerity practiced and whatever done"
+                        },
+                        {
+                            "word": "asad ity ucyate pārtha",
+                            "grammar": "phrase",
+                            "meaning": "is called \"Asat,\" O Pārtha"
+                        },
+                        {
+                            "word": "na ca tat pretya no iha",
+                            "grammar": "phrase",
+                            "meaning": "it is of no account hereafter or here"
+                        }
+                    ]
+                },
+                "te": {
+                    "short": "శ్రద్ధలేకుండా అర్పించిన, ఇచ్చిన, ఆచరించిన తపస్సు — ఏదైనా — \"అసత్\" అని చెప్పబడుతుంది, పార్థా — అది ఇక్కడ కాదు, అనంతరమూ కాదు.",
+                    "long": "\"అశ్రద్ధయా హుతం దత్తం తపస్తప్తం కృతం చ యత్ / అసదిత్యుచ్యతే పార్థ న చ తత్ ప్రేత్య నో ఇహ.\" \"అశ్రద్ధయా\" — శ్రద్ధలేకుండా. \"హుతమ్\" — అర్పించబడిన (యజ్ఞంలో). \"దత్తమ్\" — ఇవ్వబడిన. \"తపస్తప్తమ్\" — ఆచరించిన తపస్సు. \"కృతం చ యత్\" — మరియు ఏదైనా చేయబడినది. \"అసదిత్యుచ్యతే\" — \"అసత్\" అని చెప్పబడుతుంది (అనిత్యం, అవాస్తవం, చెడ్డది). \"న చ తత్ ప్రేత్య నో ఇహ\" — అది మరణం తర్వాత కాదు, ఇక్కడ కూడా కాదు. నిర్ణయం: శ్రద్ధ ఐచ్ఛికం కాదు. శ్రద్ధలేకుండా ప్రతి మతపరమైన చర్య — యజ్ఞం, దానం, తపస్సు — అసత్, విలువలేనిది."
+                },
+                "sa": {
+                    "short": "अश्रद्धया हुतं, दत्तं, तपस्तप्तं, कृतं च यत् — \"असत्\" इत्युच्यते, पार्थ — न च तत्प्रेत्य नो इह।",
+                    "long": "\"अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् / असदित्युच्यते पार्थ न च तत् प्रेत्य नो इह।\" \"अश्रद्धया\" — श्रद्धाविना। \"हुतम्\" — होमार्पितम्। \"दत्तम्\" — दत्तम्। \"तपस्तप्तम्\" — अनुष्ठिततपः। \"कृतं च यत्\" — कृतं च यत्किंचित्। \"असदित्युच्यते\" — \"असत्\" इत्युच्यते (असत् — अनिश्चित, मिथ्या, अशुभ)। \"न च तत् प्रेत्य नो इह\" — न मृत्योः परं, न इह। निर्णयः: श्रद्धा अनैच्छिकी नैव। श्रद्धाविना सर्वाणि मतक्रियाणि — यज्ञः, दानं, तपः — असत्, अर्थरहितम्।"
+                }
+            }
+        }
+    ],
+    "conclusion": {
+        "ro": "oṃ tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde śraddhātrayavibhāgayogo nāma saptadaśo'dhyāyaḥ",
+        "te": "ఓం తత్సదితి శ్రీమద్భగవద్గీతాసూపనిషత్సు బ్రహ్మవిద్యాయాం యోగశాస్త్రే శ్రీకృష్ణార్జునసంవాదే శ్రద్ధాత్రయవిభాగయోగోనామ సప్తదశోఽధ్యాయః",
+        "dn": "ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे श्रद्धात्रयविभागयोगो नाम सप्तदशोऽध्यायः",
+        "meaning": {
+            "en": {
+                "short": "Thus ends the seventeenth chapter entitled 'The Threefold Faith Yoga' in the Śrīmad Bhagavadgītā, the Upaniṣad, the science of the Absolute, the scripture of yoga, the dialogue between Śrī Kṛṣṇa and Arjuna."
+            },
+            "te": {
+                "short": "ఇట్లు శ్రీమద్భగవద్గీతలో, ఉపనిషత్తులలో, బ్రహ్మవిద్యలో, యోగశాస్త్రంలో, శ్రీకృష్ణార్జున సంవాదంలో 'శ్రద్ధాత్రయవిభాగయోగ' అను సప్తదశధ్యాయం సమాప్తం."
+            },
+            "sa": {
+                "short": "एवं श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे 'श्रद्धात्रयविभागयोग' नाम सप्तदशध्यायः समाप्तः।"
+            }
+        }
+    }
+}
