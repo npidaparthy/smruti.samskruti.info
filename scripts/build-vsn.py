@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 """
-build-vsn.py — Parse vsn-4-padas.txt (Devanagari) and generate:
+build-vsn.py — Parse data/vsn/source/ files and generate:
   data/vsn-shlokas.json  — 108 shlokas with sa/te/ro for p1..p4
   data/vsn-names.json    — 1008 names with sa/te/ro and dative form
+
+Source files (all in data/vsn/source/):
+  vsn-4-padas.txt       — Devanagari  (2 half-verses per shloka)
+  vsn-4-padas_iast.txt  — IAST
+  vsn-4-padas_te.txt    — Telugu
 
 Usage: python3 scripts/build-vsn.py
 """
@@ -11,15 +16,22 @@ import re, json, pathlib, sys
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from transliterate import dev_to_te, dev_to_iast
 
-ROOT = pathlib.Path(__file__).parent.parent
-SRC  = pathlib.Path('/Users/Nagendra/Projects/claude/vsn-4-padas.txt')
+ROOT    = pathlib.Path(__file__).parent.parent
+SRC_DIR = ROOT / 'data' / 'vsn' / 'source'
+SRC_DN  = SRC_DIR / 'vsn-4-padas.txt'
+SRC_RO  = SRC_DIR / 'vsn-4-padas_iast.txt'
+SRC_TE  = SRC_DIR / 'vsn-4-padas_te.txt'
 OUT_SHLOKAS = ROOT / 'data' / 'vsn-shlokas.json'
 OUT_NAMES   = ROOT / 'data' / 'vsn-names.json'
 
 DN_DIGITS = str.maketrans('०१२३४५६७८९', '0123456789')
 
-def parse_shlokas(path):
-    """Parse vsn-4-padas.txt into list of {n, h1, h2} with Devanagari text."""
+def _parse_half_verses(path, strip_prefix=r'^ॐ\s*', num_marker=r'॥(\d+|[०-९]+)॥'):
+    """
+    Parse a vsn-4-padas*.txt file into list of {n, h1, h2}.
+    Format: 2 content lines per shloka separated by blank lines.
+    The second line carries the shloka number marker ॥N॥ (or ||N|| in IAST).
+    """
     shlokas = []
     with open(path, encoding='utf-8') as f:
         lines = [l.rstrip() for l in f]
@@ -27,28 +39,49 @@ def parse_shlokas(path):
     i = 0
     while i < len(lines):
         line = lines[i].strip()
-        # Skip non-shloka lines (OM, concluding verses, etc.)
         if not line:
             i += 1
             continue
-        # Look for shloka number in ॥N॥ on this line or next
-        m = re.search(r'॥(\d+|[०-९]+)॥', line)
+        # Detect shloka number — works for both Devanagari ॥N॥ and IAST ||N||
+        m = re.search(r'[\|॥](\d+|[०-९]+)[\|॥]', line)
         if m:
             num_str = m.group(1).translate(DN_DIGITS)
             num = int(num_str)
-            h2_raw = re.sub(r'॥[०-९\d]+॥.*', '', line).strip().rstrip('।').strip()
-            # H1 is the previous non-empty line
+            h2_raw = re.sub(r'[\|॥][०-९\d]+[\|॥].*', '', line).strip().rstrip('|।').strip()
             h1_raw = ''
             for j in range(i-1, -1, -1):
                 prev = lines[j].strip()
                 if prev:
-                    h1_raw = re.sub(r'^ॐ\s*', '', prev).rstrip('।').strip()
+                    h1_raw = re.sub(strip_prefix, '', prev).rstrip('|।').strip()
                     break
             shlokas.append({'n': num, 'h1': h1_raw, 'h2': h2_raw})
             i += 1
         else:
             i += 1
     return sorted(shlokas, key=lambda x: x['n'])
+
+
+def parse_shlokas(path):
+    """Parse vsn-4-padas.txt (Devanagari) into list of {n, h1, h2}."""
+    return _parse_half_verses(path, strip_prefix=r'^ॐ\s*')
+
+
+def parse_all_scripts():
+    """
+    Parse all 3 script files and return list of {n, h1_dn, h2_dn, h1_ro, h2_ro, h1_te, h2_te}.
+    """
+    dn = {s['n']: s for s in _parse_half_verses(SRC_DN, strip_prefix=r'^ॐ\s*')}
+    ro = {s['n']: s for s in _parse_half_verses(SRC_RO, strip_prefix=r'^O[mṃ]\s*')}
+    te = {s['n']: s for s in _parse_half_verses(SRC_TE, strip_prefix=r'^ఓం\s*')}
+
+    result = []
+    for n in sorted(dn):
+        entry = {'n': n,
+                 'h1_dn': dn[n]['h1'], 'h2_dn': dn[n]['h2'],
+                 'h1_ro': ro.get(n, {}).get('h1', ''), 'h2_ro': ro.get(n, {}).get('h2', ''),
+                 'h1_te': te.get(n, {}).get('h1', ''), 'h2_te': te.get(n, {}).get('h2', '')}
+        result.append(entry)
+    return result
 
 
 def to_scripts(text):
@@ -98,6 +131,29 @@ def _split_half(half_text):
     # fallback: split at midpoint
     mid = max(1, len(words) // 2)
     return ' '.join(words[:mid]), ' '.join(words[mid:])
+
+
+def _split_half_parallel(dn_text, ro_text, te_text):
+    """
+    Split all 3 scripts using the DN syllable-count split point.
+    Returns three (first, second) tuples.
+    """
+    dn_words = dn_text.split()
+    ro_words = ro_text.split() if ro_text else []
+    te_words = te_text.split() if te_text else []
+
+    running = 0
+    split_i = max(1, len(dn_words) // 2)  # fallback
+    for i, w in enumerate(dn_words):
+        running += _count_syllables(w)
+        if running >= 8:
+            split_i = i + 1
+            break
+
+    def _cut(words, idx):
+        return ' '.join(words[:idx]), ' '.join(words[idx:])
+
+    return _cut(dn_words, split_i), _cut(ro_words, split_i), _cut(te_words, split_i)
 
 
 # ── Name extraction ──────────────────────────────────────────────────────────
@@ -345,24 +401,27 @@ def make_chant(name_sa, num, shloka_num):
 # ── Main ─────────────────────────────────────────────────────────────────────
 
 def build_shlokas():
-    shlokas_raw = parse_shlokas(SRC)
+    all_scripts = parse_all_scripts()
     out = []
-    for s in shlokas_raw:
-        p1_sa, p2_sa = _split_half(s['h1'])
-        p3_sa, p4_sa = _split_half(s['h2'])
+    for s in all_scripts:
+        (p1_dn, p2_dn), (p1_ro, p2_ro), (p1_te, p2_te) = _split_half_parallel(
+            s['h1_dn'], s['h1_ro'], s['h1_te'])
+        (p3_dn, p4_dn), (p3_ro, p4_ro), (p3_te, p4_te) = _split_half_parallel(
+            s['h2_dn'], s['h2_ro'], s['h2_te'])
         out.append({
             's': s['n'],
-            'p1': to_scripts(p1_sa),
-            'p2': to_scripts(p2_sa),
-            'p3': to_scripts(p3_sa),
-            'p4': to_scripts(p4_sa),
+            'p1': {'sa': p1_dn, 'ro': p1_ro, 'te': p1_te},
+            'p2': {'sa': p2_dn, 'ro': p2_ro, 'te': p2_te},
+            'p3': {'sa': p3_dn, 'ro': p3_ro, 'te': p3_te},
+            'p4': {'sa': p4_dn, 'ro': p4_ro, 'te': p4_te},
         })
 
     result = {'text': 'vsn', 'total': len(out), 'shlokas': out}
     with open(OUT_SHLOKAS, 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, separators=(',', ':'))
     print(f'  wrote {OUT_SHLOKAS}  ({len(out)} shlokas)')
-    return shlokas_raw
+    # Return raw DN shlokas for name extraction
+    return [{'n': s['n'], 'h1': s['h1_dn'], 'h2': s['h2_dn']} for s in all_scripts]
 
 
 def build_names(shlokas_raw):

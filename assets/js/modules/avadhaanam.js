@@ -28,7 +28,8 @@ const Avadhaanam = (() => {
   function padaText(pada, script) {
     if (!pada) return '';
     const s = script || window._script || 'te';
-    return pada[s] || pada.ro || '';
+    // VSN uses 'sa' for Devanagari; Gita uses 'dn' — try both
+    return pada[s] || (s === 'dn' ? pada.sa : s === 'sa' ? pada.dn : undefined) || pada.ro || '';
   }
 
   function speakerBadgeClass(spk) {
