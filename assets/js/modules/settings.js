@@ -4,7 +4,10 @@ const Settings = (() => {
   const LS = C.LS;
 
   function get(key, def) {
-    return localStorage.getItem(key) || def;
+    const val = localStorage.getItem(key);
+    // migrate: 'dn' was renamed to 'sa' for consistency
+    if (key === LS.SCRIPT && val === 'dn') { localStorage.setItem(key, 'sa'); return 'sa'; }
+    return val || def;
   }
   function set(key, val) {
     localStorage.setItem(key, val);

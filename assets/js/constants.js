@@ -7,8 +7,8 @@ const C = {
   SEARCH_INDEX:  '/data/search-index.json',
 
   // Scripts / Lipi
-  SCRIPTS: ['te', 'ro', 'dn'],
-  SCRIPT_LABELS: { te: 'తె', ro: 'En', dn: 'सं' },
+  SCRIPTS: ['te', 'ro', 'sa'],
+  SCRIPT_LABELS: { te: 'తె', ro: 'En', sa: 'सं' },
   SCRIPT_DEFAULT: 'te',
 
   // UI languages
@@ -72,16 +72,16 @@ const C = {
   // Speakers — keys: te (Telugu), dn (Devanagari), ro (IAST), en (English)
   SPEAKERS: ['krishna', 'arjuna', 'sanjaya', 'dhritarashtra'],
   SPEAKER_LABEL: {
-    krishna:       { te: 'శ్రీ భగవానువాచ',    dn: 'श्रीभगवानुवाच',    ro: 'Śrī Bhagavān uvāca',    en: 'Śrī Bhagavān'   },
-    arjuna:        { te: 'అర్జున ఉవాచ',       dn: 'अर्जुन उवाच',      ro: 'Arjuna uvāca',           en: 'Arjuna'         },
-    sanjaya:       { te: 'సంజయ ఉవాచ',        dn: 'सञ्जय उवाच',       ro: 'Sañjaya uvāca',          en: 'Sañjaya'        },
-    dhritarashtra: { te: 'ధృతరాష్ట్ర ఉవాచ',  dn: 'धृतराष्ट्र उवाच', ro: 'Dhṛtarāṣṭra uvāca',     en: 'Dhṛtarāṣṭra'   }
+    krishna:       { te: 'శ్రీ భగవానువాచ',    sa: 'श्रीभगवानुवाच',    ro: 'Śrī Bhagavān uvāca',    en: 'Śrī Bhagavān'   },
+    arjuna:        { te: 'అర్జున ఉవాచ',       sa: 'अर्जुन उवाच',      ro: 'Arjuna uvāca',           en: 'Arjuna'         },
+    sanjaya:       { te: 'సంజయ ఉవాచ',        sa: 'सञ्जय उवाच',       ro: 'Sañjaya uvāca',          en: 'Sañjaya'        },
+    dhritarashtra: { te: 'ధృతరాష్ట్ర ఉవాచ',  sa: 'धृतराष्ट्र उवाच', ro: 'Dhṛtarāṣṭra uvāca',     en: 'Dhṛtarāṣṭra'   }
   },
 
   // Text labels per script (for dropdowns)
   TEXT_LABELS: {
-    gita: { te: 'శ్రీమద్భగవద్గీతా', dn: 'श्रीमद्भगवद्गीता', ro: 'Śrīmad Bhagavadgītā', en: 'Śrīmad Bhagavadgītā' },
-    vsn:  { te: 'శ్రీవిష్ణుసహస్రనామమ్', dn: 'श्रीविष्णुसहस्रनामम्', ro: 'Śrīviṣṇusahasranāmam', en: 'Śrī Viṣṇu Sahasranāmam' }
+    gita: { te: 'శ్రీమద్భగవద్గీతా', sa: 'श्रीमद्भगवद्गीता', ro: 'Śrīmad Bhagavadgītā', en: 'Śrīmad Bhagavadgītā' },
+    vsn:  { te: 'శ్రీవిష్ణుసహస్రనామమ్', sa: 'श्रीविष्णुसहस्रनामम्', ro: 'Śrīviṣṇusahasranāmam', en: 'Śrī Viṣṇu Sahasranāmam' }
   },
 
   // Avadhānam test modes

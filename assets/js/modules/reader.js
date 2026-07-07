@@ -48,8 +48,7 @@ const Reader = (() => {
   function padaText(pada, script) {
     if (!pada) return '';
     const s = script || window._script || 'te';
-    // VSN uses 'sa' for Devanagari; Gita uses 'dn' — try both
-    return pada[s] || (s === 'dn' ? pada.sa : s === 'sa' ? pada.dn : undefined) || pada.ro || '';
+    return pada[s] || pada.ro || '';
   }
 
   function speakerBadgeClass(speaker) {
@@ -60,7 +59,7 @@ const Reader = (() => {
   // Issue #10: speaker label follows lipi, not UI lang
   function speakerLabel(speaker) {
     const script = window._script || 'te';
-    const key = script === 'dn' ? 'dn' : script === 'ro' ? 'ro' : 'te';
+    const key = script === 'sa' ? 'sa' : script === 'ro' ? 'ro' : 'te';
     return (C.SPEAKER_LABEL[speaker] && C.SPEAKER_LABEL[speaker][key]) || speaker;
   }
 
@@ -69,7 +68,7 @@ const Reader = (() => {
     const chData = chapterCache[sh.c];
     if (!chData) return `Ch ${sh.c}`;
     const script = window._script || 'te';
-    const key = script === 'dn' ? 'sa' : script === 'ro' ? 'ro' : 'te';
+    const key = script === 'sa' ? 'sa' : script === 'ro' ? 'ro' : 'te';
     return chData.title?.[key] || chData.title?.en || `Ch ${sh.c}`;
   }
 
@@ -106,7 +105,7 @@ const Reader = (() => {
     if (!panel) return;
     panel.style.display = '';
 
-    const isRo = script === 'ro', isDn = script === 'dn';
+    const isRo = script === 'ro', isDn = script === 'sa';
     const _p  = o => (o && (isRo ? (o.iast || o.english) : (isDn ? (o.devanagari || o.iast) : (o.telugu || o.iast || o.english)))) || '';
     const _set = (id, val) => { const el = $(id); if (el) el.textContent = val; };
     const _html = (id, val) => { const el = $(id); if (el) el.innerHTML = val; };
@@ -237,12 +236,12 @@ const Reader = (() => {
     if (!panel) return;
     panel.style.display = '';
 
-    const isRo = script === 'ro', isDn = script === 'dn';
+    const isRo = script === 'ro', isDn = script === 'sa';
     const L    = (en, te) => (isRo || window._uiLang === 'en') ? en : te;
     const _p   = o => (o && (isRo ? (o.iast || o.en) : (isDn ? (o.sa || o.iast) : (o.te || o.iast || o.en)))) || '';
     const _set = (id, val) => { const el = $(id); if (el) el.textContent = val; };
     const _html= (id, val) => { const el = $(id); if (el) el.innerHTML = val; };
-    const _gn  = C.TEXT_LABELS.gita[isRo ? 'ro' : isDn ? 'dn' : 'te']; // canonical title
+    const _gn  = C.TEXT_LABELS.gita[isRo ? 'ro' : isDn ? 'sa' : 'te']; // canonical title
 
     // Header title
     _set('bg-meta-title', _p(meta.identity && meta.identity.name));
@@ -720,7 +719,7 @@ const Reader = (() => {
     const sel = $('r-text-select');
     if (!sel) return;
     const script = window._script || 'te';
-    const key = script === 'dn' ? 'dn' : script === 'ro' ? 'ro' : 'te';
+    const key = script === 'sa' ? 'sa' : script === 'ro' ? 'ro' : 'te';
     sel.querySelector('option[value="gita"]').textContent = C.TEXT_LABELS.gita[key] || 'Bhagavad Gita';
     sel.querySelector('option[value="vsn"]').textContent  = C.TEXT_LABELS.vsn[key]  || 'Vishnu Sahasranama';
   }
@@ -877,7 +876,7 @@ const Reader = (() => {
     const chData = await loadChapter(chNum);
     if (!ch) { card.hidden = true; return; }
 
-    const nameKey = script === 'ro' ? 'iast' : script === 'dn' ? 'sa' : 'te';
+    const nameKey = script === 'ro' ? 'iast' : script === 'sa' ? 'sa' : 'te';
     const yogaName = ch.name?.[nameKey] || ch.name?.iast || '';
     const phalashruti = ch.phalashruti?.[lang] || ch.phalashruti?.en || '';
 
@@ -1044,7 +1043,7 @@ const Reader = (() => {
     const script  = window._script || 'te';
     const lang    = window._meaningLang || 'en';
     const c       = chData.conclusion;
-    const text    = script === 'ro' ? c.ro : script === 'dn' ? c.dn : c.te;
+    const text    = script === 'ro' ? c.ro : script === 'sa' ? c.sa : c.te;
     const meaning = c.meaning?.[lang]?.short || c.meaning?.en?.short || '';
 
     $('r-conclusion-text').textContent    = text;
@@ -1532,7 +1531,7 @@ const Reader = (() => {
       if (!current || activeText !== 'gita') return;
       const chData  = chapterCache[current.c];
       const script  = window._script || 'te';
-      const titleKey = script === 'dn' ? 'sa' : script === 'ro' ? 'ro' : 'te';
+      const titleKey = script === 'sa' ? 'sa' : script === 'ro' ? 'ro' : 'te';
       const chTitle = chData?.title?.[titleKey] || chData?.title?.en || '';
       const lang    = window._meaningLang || 'en';
       const meaning = current.meaning?.[lang]?.short || current.meaning?.en?.short || '';

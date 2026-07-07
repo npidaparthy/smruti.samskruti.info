@@ -28,8 +28,7 @@ const Avadhaanam = (() => {
   function padaText(pada, script) {
     if (!pada) return '';
     const s = script || window._script || 'te';
-    // VSN uses 'sa' for Devanagari; Gita uses 'dn' — try both
-    return pada[s] || (s === 'dn' ? pada.sa : s === 'sa' ? pada.dn : undefined) || pada.ro || '';
+    return pada[s] || pada.ro || '';
   }
 
   function speakerBadgeClass(spk) {
@@ -40,7 +39,7 @@ const Avadhaanam = (() => {
   // Issue #10: speaker label follows lipi, not UI lang
   function speakerLabel(spk) {
     const script = window._script || 'te';
-    const key = script === 'dn' ? 'dn' : script === 'ro' ? 'ro' : 'te';
+    const key = script === 'sa' ? 'sa' : script === 'ro' ? 'ro' : 'te';
     return (C.SPEAKER_LABEL[spk] && C.SPEAKER_LABEL[spk][key]) || spk;
   }
 
@@ -49,7 +48,7 @@ const Avadhaanam = (() => {
     const chData = chapterCache[sh.c];
     if (!chData) return `Ch ${sh.c}`;
     const script = window._script || 'te';
-    const key = script === 'dn' ? 'sa' : script === 'ro' ? 'ro' : 'te';
+    const key = script === 'sa' ? 'sa' : script === 'ro' ? 'ro' : 'te';
     return chData.title?.[key] || chData.title?.en || `Ch ${sh.c}`;
   }
 
@@ -164,7 +163,7 @@ const Avadhaanam = (() => {
     const sel = $('a-text-select');
     if (!sel) return;
     const script = window._script || 'te';
-    const key = script === 'dn' ? 'dn' : script === 'ro' ? 'ro' : 'te';
+    const key = script === 'sa' ? 'sa' : script === 'ro' ? 'ro' : 'te';
     const gitaOpt = sel.querySelector('option[value="gita"]');
     const vsnOpt  = sel.querySelector('option[value="vsn"]');
     if (gitaOpt) gitaOpt.textContent = C.TEXT_LABELS.gita[key] || 'Bhagavad Gita';
@@ -807,7 +806,7 @@ const Avadhaanam = (() => {
     if (!nk) return;
     const script = window._script || 'te';
     const isRo = script === 'ro';
-    const isDn = script === 'dn';
+    const isDn = script === 'sa';
 
     // name: IAST for ro, Devanagari for dn, Telugu otherwise
     const primaryName = isRo ? nk.name.iast : (isDn ? (nk.name.sa || nk.name.iast) : (nk.name.te || nk.name.iast));
