@@ -691,12 +691,7 @@ const Avadhaanam = (() => {
       out.innerHTML = '';
       loadVsnNames().then(names => {
         const verseNames = names.filter(n => n.sh === shNum);
-        if (!verseNames.length) return;
-        const hasMeaning = verseNames.some(n => n.meaning);
-        if (!hasMeaning) {
-          out.innerHTML = `<span class="meaning-empty">${t('no_meaning')}</span>`;
-          return;
-        }
+        if (!verseNames.length) { out.innerHTML = `<span class="meaning-empty">${t('no_meaning')}</span>`; return; }
         const script = window._script || 'te';
         const frag = document.createDocumentFragment();
         verseNames.forEach(n => {

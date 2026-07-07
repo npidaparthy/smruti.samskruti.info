@@ -1148,12 +1148,11 @@ const Reader = (() => {
     const mtype = document.querySelector('#r-mtype-group .pill.active')?.dataset.mtype || 'short';
     const out   = $('r-meaning-short');
 
-    // VSN shloka: show names + meanings
+    // VSN shloka: show names + meanings (show names even if meanings not yet added)
     if (activeText === 'vsn' && sh) {
       loadVsnNameCountMap().then(() => {
         const verseNames = vsnNames.filter(n => n.sh === sh.s);
-        const hasMeaning = verseNames.some(n => n.meaning);
-        if (!hasMeaning) { out.style.display = 'none'; return; }
+        if (!verseNames.length) { out.style.display = 'none'; return; }
         const script = window._script || 'te';
         const frag = document.createDocumentFragment();
         verseNames.forEach(n => {
