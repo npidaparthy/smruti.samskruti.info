@@ -199,8 +199,10 @@ body {
   border-color: var(--border);
 }
 
-/* Issue #2: settings tab icon bigger */
-.tab-btn[data-tab="settings"] { font-size: 18px; padding: 7px 4px; }
+/* Icon-only tabs: don't stretch, fixed compact width */
+.tab-btn[data-tab="search"],
+.tab-btn[data-tab="calendar"],
+.tab-btn[data-tab="settings"] { flex: none; width: 38px; font-size: 18px; padding: 7px 2px; }
 
 /* Tab panels */
 .panel { display: none; flex: 1; padding: 12px; max-width: 680px; margin: 0 auto; width: 100%; }
