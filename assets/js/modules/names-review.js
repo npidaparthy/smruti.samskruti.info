@@ -46,8 +46,8 @@ const NamesReview = (() => {
   // ── Data loading ────────────────────────────────────────────────────────────
   async function loadAll() {
     const [metaRes, idxRes] = await Promise.all([
-      fetch('/data/bg-meta.json'),
-      fetch('/data/gita-index.json'),
+      fetch(C.BG_META),
+      fetch(C.GITA_INDEX),
     ]);
     const meta = await metaRes.json();
     const idx  = await idxRes.json();
@@ -55,7 +55,7 @@ const NamesReview = (() => {
     // Load all chapters in parallel
     const chNums = idx.chapters.map(c => c.chapter);
     const chData = await Promise.all(
-      chNums.map(n => fetch(`/data/chapters/ch${String(n).padStart(2,'0')}.json`).then(r => r.json()))
+      chNums.map(n => fetch(C.CHAPTER_PATH(n)).then(r => r.json()))
     );
 
     // Build ref→shloka map

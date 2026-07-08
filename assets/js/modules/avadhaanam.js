@@ -87,7 +87,7 @@ const Avadhaanam = (() => {
   async function loadVsn() {
     if (vsnShlokas.length) return vsnShlokas;
     try {
-      const r = await fetch('/data/vsn-shlokas.json');
+      const r = await fetch(C.VSN_SHLOKAS);
       const data = await r.json();
       vsnShlokas = data.shlokas || [];
     } catch (e) {
@@ -100,7 +100,7 @@ const Avadhaanam = (() => {
   async function loadVsnNames() {
     if (vsnNames.length) return vsnNames;
     try {
-      const r = await fetch('/data/vsn-names.json');
+      const r = await fetch(C.VSN_NAMES);
       const data = await r.json();
       vsnNames = data.names || [];
     } catch (e) {

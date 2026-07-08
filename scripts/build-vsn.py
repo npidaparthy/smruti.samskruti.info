@@ -17,12 +17,12 @@ sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from transliterate import dev_to_te, dev_to_iast
 
 ROOT    = pathlib.Path(__file__).parent.parent
-SRC_DIR = ROOT / 'data' / 'vsn' / 'source'
+SRC_DIR = ROOT / 'data' / 'vsn' / 'source' / 'verses'
 SRC_DN  = SRC_DIR / 'vsn-4-padas.txt'
 SRC_RO  = SRC_DIR / 'vsn-4-padas_iast.txt'
 SRC_TE  = SRC_DIR / 'vsn-4-padas_te.txt'
-OUT_SHLOKAS = ROOT / 'data' / 'vsn-shlokas.json'
-OUT_NAMES   = ROOT / 'data' / 'vsn-names.json'
+OUT_SHLOKAS = ROOT / 'data' / 'vsn' / 'content' / 'vsn-shlokas.json'
+OUT_NAMES   = ROOT / 'data' / 'vsn' / 'content' / 'vsn-names.json'
 
 DN_DIGITS = str.maketrans('०१२३४५६७८९', '0123456789')
 

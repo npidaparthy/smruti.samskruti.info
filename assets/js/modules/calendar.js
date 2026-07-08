@@ -6,7 +6,7 @@ const Calendar = (function () {
   // ── Data loading ───────────────────────────────────────────────
   async function loadData() {
     if (data) return data;
-    const r = await fetch('/data/ekadashi.json', { cache: 'no-store' });
+    const r = await fetch(C.EKADASHI, { cache: 'no-store' });
     data = await r.json();
     return data;
   }

@@ -1,4 +1,4 @@
-const CACHE = 'smriti-v18';
+const CACHE = 'smriti-v19';
 
 // Set to true during local testing to skip all caching (network-only).
 // Set back to false before committing/deploying.
@@ -16,8 +16,8 @@ const PRECACHE = [
   '/assets/js/modules/meanings.js',
   '/assets/js/modules/audio.js',
   '/assets/js/modules/settings.js',
-  '/data/gita-index.json',
-  '/data/texts/vsn/nakshatras.json'
+  '/data/bg/content/gita-index.json',
+  '/data/vsn/content/nakshatras.json'
 ];
 
 self.addEventListener('install', e => {
@@ -43,7 +43,7 @@ self.addEventListener('fetch', e => {
   const url = new URL(e.request.url);
 
   // Network-first for chapter JSON and ekadashi calendar (fresh data, fall back offline)
-  if (url.pathname.startsWith('/data/chapters/') || url.pathname === '/data/ekadashi.json') {
+  if (url.pathname.startsWith('/data/bg/content/chapters/') || url.pathname === '/data/calendar/content/ekadashi.json') {
     e.respondWith(
       fetch(e.request)
         .then(r => { caches.open(CACHE).then(c => c.put(e.request, r.clone())); return r; })

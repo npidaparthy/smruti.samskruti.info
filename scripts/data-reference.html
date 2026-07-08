@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>smruti.samskruti.info — Data File Reference</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: system-ui, sans-serif; background: #f5f3ee; color: #1c1a14; padding: 24px; max-width: 1040px; margin: 0 auto; }
+h1  { font-size: 24px; font-weight: 700; margin-bottom: 4px; }
+.subtitle { font-size: 14px; color: #666; margin-bottom: 32px; }
+h2  { font-size: 20px; font-weight: 700; margin: 40px 0 14px; padding: 10px 16px; border-radius: 8px; }
+h2.gita { background: #2a4a1a; color: #fff; }
+h2.vsn  { background: #1a2e5a; color: #fff; }
+h2.scripts { background: #3a2000; color: #fff; }
+h3  { font-size: 15px; font-weight: 700; margin: 18px 0 8px; color: #2a2010; }
+p   { font-size: 14px; line-height: 1.75; margin-bottom: 10px; color: #2a2010; }
+ul  { font-size: 14px; line-height: 1.9; padding-left: 20px; margin-bottom: 12px; color: #2a2010; }
+li  { margin-bottom: 2px; }
+ol  { font-size: 14px; line-height: 2.0; padding-left: 22px; margin-bottom: 12px; color: #2a2010; }
+code { font-family: 'Menlo', 'Courier New', monospace; font-size: 12.5px; background: #ede8dc; border-radius: 3px; padding: 1px 5px; color: #5a3a00; }
+pre  { background: #1e1c14; color: #e8dfc0; font-family: 'Menlo', 'Courier New', monospace; font-size: 12px; line-height: 1.7; border-radius: 8px; padding: 14px 16px; overflow-x: auto; margin: 12px 0 16px; }
+
+/* File cards */
+.file-card { background: #fff; border-radius: 10px; border: 1px solid #ddd6c0; padding: 18px 20px; margin-bottom: 16px; }
+.file-path  { font-family: 'Menlo', 'Courier New', monospace; font-size: 13px; font-weight: 700; border-radius: 4px; padding: 3px 8px; display: inline-block; margin-bottom: 6px; }
+.file-path.editable  { color: #0d5c2a; background: #e4f4eb; }
+.file-path.generated { color: #8b1a1a; background: #fdeaea; }
+.file-path.src-file  { color: #1a3a7a; background: #e8eef8; }
+
+/* Pill badges */
+.pill { display: inline-block; font-size: 11px; font-weight: 800; border-radius: 12px; padding: 2px 10px; margin-left: 6px; vertical-align: middle; text-transform: uppercase; letter-spacing: 0.4px; }
+.pill-green  { background: #28a745; color: #fff; }
+.pill-red    { background: #dc3545; color: #fff; }
+.pill-blue   { background: #1a4080; color: #fff; }
+.pill-amber  { background: #d07000; color: #fff; }
+.pill-gray   { background: #666; color: #fff; }
+
+/* Filter bar */
+.filter-bar { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; align-items: center; }
+.filter-bar span { font-size: 13px; font-weight: 600; color: #555; }
+.filter-toggle { font-size: 12px; font-weight: 700; border: 2px solid; border-radius: 20px; padding: 3px 12px; cursor: pointer; background: transparent; }
+.filter-toggle.data-toggle { border-color: #28a745; color: #28a745; }
+.filter-toggle.data-toggle.active { background: #28a745; color: #fff; }
+.filter-toggle.src-toggle  { border-color: #1a4080; color: #1a4080; }
+.filter-toggle.src-toggle.active  { background: #1a4080; color: #fff; }
+.filter-toggle:hover { opacity: 0.8; }
+
+/* Section group labels */
+.group-label { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; color: #888; margin: 20px 0 8px; }
+
+/* Do/Don't */
+.do-dont { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 14px 0; }
+.do-box, .dont-box { border-radius: 8px; padding: 14px 16px; }
+.do-box   { background: #eaf4ee; border-left: 4px solid #28a745; }
+.dont-box { background: #fdf0f0; border-left: 4px solid #dc3545; }
+.do-box h4   { color: #1a7a30; font-size: 13px; font-weight: 700; margin-bottom: 8px; }
+.dont-box h4 { color: #a02020; font-size: 13px; font-weight: 700; margin-bottom: 8px; }
+.do-box ul, .dont-box ul { font-size: 13px; line-height: 1.9; color: inherit; }
+
+/* Warn / Info */
+.warn  { background: #fff8e6; border: 1px solid #f0d080; border-radius: 8px; padding: 12px 16px; margin: 12px 0; font-size: 13px; color: #7a4e00; }
+.warn strong { color: #5a3000; }
+.info  { background: #e8eef8; border: 1px solid #b0c0e0; border-radius: 8px; padding: 12px 16px; margin: 12px 0; font-size: 13px; color: #1a3060; }
+.info strong { color: #0a1840; }
+.danger { background: #fdeaea; border: 1px solid #f0b0b0; border-radius: 8px; padding: 12px 16px; margin: 12px 0; font-size: 13px; color: #8b1a1a; }
+.danger strong { color: #600000; }
+
+/* External repo alert */
+.ext-repo { background: #fff0e0; border: 2px solid #d07000; border-radius: 10px; padding: 16px 18px; margin: 14px 0; }
+.ext-repo h4 { color: #7a3e00; font-size: 13px; font-weight: 700; margin-bottom: 8px; }
+.ext-repo p  { font-size: 13px; color: #5a3000; margin-bottom: 6px; }
+.ext-repo code { background: #ffe8c0; }
+
+/* Flow steps */
+.flow { background: #f8f4ec; border-radius: 8px; padding: 16px 18px; margin: 12px 0; }
+.flow .step { display: flex; gap: 12px; margin-bottom: 10px; font-size: 13px; color: #2a2010; align-items: flex-start; }
+.flow .step:last-child { margin-bottom: 0; }
+.step-num { background: #5a3e0a; color: #fff; border-radius: 50%; width: 22px; height: 22px; display: flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 800; flex-shrink: 0; margin-top: 1px; }
+.step-num.green { background: #28a745; }
+.step-num.blue  { background: #1a4080; }
+.step-num.red   { background: #dc3545; }
+
+/* Table */
+.tbl { width: 100%; border-collapse: collapse; font-size: 13px; margin: 10px 0 14px; }
+.tbl th { text-align: left; background: #ede8dc; padding: 7px 10px; font-weight: 700; color: #3a2a00; }
+.tbl td { padding: 7px 10px; border-bottom: 1px solid #e8e0cc; vertical-align: top; color: #2a2010; }
+.tbl tr:last-child td { border-bottom: none; }
+.tbl tr.editable-row td:first-child { color: #0d5c2a; font-weight: 700; }
+.tbl tr.generated-row td:first-child { color: #8b1a1a; font-weight: 700; }
+
+/* Nav */
+.nav { position: sticky; top: 0; background: #fff; border-bottom: 1px solid #ddd6c0; padding: 8px 0; margin-bottom: 28px; font-size: 13px; display: flex; gap: 6px; flex-wrap: wrap; align-items: center; z-index: 100; }
+.nav strong { margin-right: 4px; }
+.nav a { color: #1a4080; text-decoration: none; padding: 2px 8px; border-radius: 10px; }
+.nav a:hover { background: #e8eef8; }
+.nav .sep { color: #ccc; }
+</style>
+</head>
+<body>
+
+<div class="nav">
+  <strong>Jump:</strong>
+  <a href="#gita">📖 Gita</a>
+  <span class="sep">|</span>
+  <a href="#gita-chapters">ch*.json</a>
+  <a href="#gita-index">gita-index</a>
+  <a href="#bg-meta">bg-meta ★</a>
+  <a href="#gita-source">source/</a>
+  <span class="sep">|</span>
+  <a href="#vsn">🕉 VSN</a>
+  <span class="sep">|</span>
+  <a href="#vsn-data">vsn data</a>
+  <a href="#vsn-source">vsn source</a>
+  <span class="sep">|</span>
+  <a href="#scripts">Scripts</a>
+  <span class="sep">|</span>
+  <a href="#external">External repos</a>
+</div>
+
+<h1>smruti.samskruti.info — Data File Reference</h1>
+<p class="subtitle">Complete guide to every data file, source file, and script. Who owns what, what can be edited, and how updates flow through to the app.</p>
+
+<!-- LEGEND -->
+<div style="background:#fff;border:1px solid #ddd6c0;border-radius:10px;padding:16px 20px;margin-bottom:28px;">
+  <strong style="font-size:13px;">Legend</strong>
+  <div style="display:flex;gap:20px;flex-wrap:wrap;margin-top:10px;">
+    <div><span class="pill pill-green">✓ EDIT</span> <span style="font-size:13px;color:#444;">Safe to edit directly</span></div>
+    <div><span class="pill pill-red">⛔ DO NOT EDIT</span> <span style="font-size:13px;color:#444;">Generated — edits will be overwritten</span></div>
+    <div><span class="pill pill-blue">src</span> <span style="font-size:13px;color:#444;">Source file (not served to browser)</span></div>
+    <div><span class="pill pill-amber">data</span> <span style="font-size:13px;color:#444;">Data file (served to browser at runtime)</span></div>
+    <div><span class="pill pill-gray">script</span> <span style="font-size:13px;color:#444;">Python / shell utility</span></div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<h2 class="gita" id="gita">📖 Section 1 — Bhagavad Gita</h2>
+
+<!-- Quick file map -->
+<table class="tbl" style="margin-bottom:24px;">
+  <tr><th>File / Folder</th><th>Type</th><th>Editable?</th><th>Purpose</th></tr>
+  <tr class="editable-row">
+    <td><code>data/chapters/ch01.json … ch18.json</code></td>
+    <td><span class="pill pill-amber">data</span></td>
+    <td><span class="pill pill-green">✓ EDIT</span></td>
+    <td>Verse text (3 scripts) + meanings + conclusion colophon</td>
+  </tr>
+  <tr class="editable-row">
+    <td><code>data/bg-meta.json</code></td>
+    <td><span class="pill pill-amber">data</span></td>
+    <td><span class="pill pill-green">✓ EDIT</span></td>
+    <td>Krishna/Arjuna name occurrences, chapter themes</td>
+  </tr>
+  <tr class="generated-row">
+    <td><code>data/gita-index.json</code></td>
+    <td><span class="pill pill-amber">data</span></td>
+    <td><span class="pill pill-red">⛔ DO NOT EDIT</span></td>
+    <td>Chapter list — generated by build.py from source/chapter-titles.txt</td>
+  </tr>
+  <tr class="editable-row">
+    <td><code>source/chapter-titles.txt</code></td>
+    <td><span class="pill pill-blue">src</span></td>
+    <td><span class="pill pill-green">✓ EDIT</span></td>
+    <td>Source of truth for chapter names in all languages</td>
+  </tr>
+  <tr class="editable-row">
+    <td><code>source/meanings/en/ch*.txt</code></td>
+    <td><span class="pill pill-blue">src</span></td>
+    <td><span class="pill pill-green">✓ EDIT</span></td>
+    <td>English meanings source (18 files). build.py imports these into ch*.json</td>
+  </tr>
+  <tr class="editable-row">
+    <td><code>source/meanings/te/ch*.txt</code></td>
+    <td><span class="pill pill-blue">src</span></td>
+    <td><span class="pill pill-green">✓ EDIT</span></td>
+    <td>Telugu meanings source (18 files)</td>
+  </tr>
+  <tr class="editable-row">
+    <td><code>source/meanings/sa/ch*.txt</code></td>
+    <td><span class="pill pill-blue">src</span></td>
+    <td><span class="pill pill-green">✓ EDIT</span></td>
+    <td>Sanskrit meanings source (18 files)</td>
+  </tr>
+  <tr class="editable-row">
+    <td><code>source/audio.txt</code></td>
+    <td><span class="pill pill-blue">src</span></td>
+    <td><span class="pill pill-green">✓ EDIT</span></td>
+    <td>YouTube URLs per chapter; shloka timestamps</td>
+  </tr>
+</table>
+
+<!-- ─────────── ch*.json ─────────── -->
+<div class="file-card" id="gita-chapters">
+  <span class="file-path editable">data/chapters/ch01.json … ch18.json</span>
+  <span class="pill pill-green">✓ EDIT</span>
+  <span class="pill pill-amber">data</span>
+
+  <p style="margin-top:12px;">One file per chapter. Loaded by the app at runtime. Contains <strong>verse text in all 3 scripts</strong>, meanings in 3 languages × 3 depths, and the chapter conclusion colophon. This is the primary file to edit for verse corrections.</p>
+
+  <h3>Top-level structure</h3>
+  <pre>{
+  "chapter": 1,
+  "title": { "en": "...", "te": "...", "sa": "...", "ro": "..." },
+  "shlokas": [ ... ],         // array of shloka objects
+  "conclusion": { ... }       // chapter-end colophon — added manually
+}</pre>
+
+  <h3>Shloka object</h3>
+  <pre>{
+  "c": 1,              // chapter number (integer)
+  "s": 1,              // shloka number (integer)
+  "speaker": "dhritarashtra",
+  "p1": { "ro": "dharma-kṣetre kuru-kṣetre...", "te": "ధర్మక్షేత్రే...", "dn": "धर्मक्षेत्रे..." },
+  "p2": { "ro": "...", "te": "...", "dn": "..." },
+  "p3": { "ro": "...", "te": "...", "dn": "..." },
+  "p4": { "ro": "...", "te": "...", "dn": "..." },
+  "meaning": {
+    "en": { "short": "...", "long": "...", "wbw": [ { "word": "dharma", "grammar": "nom.", "meaning": "righteousness" }, ... ] },
+    "te": { "short": "...", "long": "..." },
+    "sa": { "short": "...", "long": "..." }
+  }
+}</pre>
+
+  <h3>The 3 script fields</h3>
+  <table class="tbl">
+    <tr><th>Field</th><th>Script</th><th>Used for</th></tr>
+    <tr><td><code>ro</code></td><td>IAST Roman (e.g. dharma-kṣetre)</td><td>Search index, name-matching, audit script — <strong>names matched here only</strong></td></tr>
+    <tr><td><code>te</code></td><td>Telugu (ధర్మక్షేత్రే)</td><td>Reader display in Telugu mode</td></tr>
+    <tr><td><code>dn</code></td><td>Devanāgarī (धर्मक्षेत्रे)</td><td>Reader display in Sanskrit mode</td></tr>
+  </table>
+
+  <div class="warn">
+    <strong>All 3 scripts must be updated together</strong> when correcting verse text. The app switches between ro/te/dn based on the user's Lipi setting. A fix in only <code>te</code> will still show the wrong text in IAST and Devanāgarī modes.
+  </div>
+
+  <h3>What <em>is</em> p1/p2/p3/p4?</h3>
+  <p>Each shloka is split into <strong>padas</strong> (quarter-verses). Standard anuṣṭubh metre = 4 padas × 8 syllables = 32 syllables. The Reader renders each pada on its own line. Some shlokas in ch11 use triṣṭubh metre (11 syllables/pada); these may have unusual pada splits but still use p1–p4. A 5-pada shloka (like BG 13.0, the Arjuna question) adds a <code>p5</code> field.</p>
+  <p>If a compound spans two padas (sandhi boundary), the earlier pada ends with <code>"cont": true</code> — the Reader appends a hyphen.</p>
+
+  <h3>Conclusion colophon (chapter-level)</h3>
+  <pre>{
+  "conclusion": {
+    "ro": "oṃ tatsaditi śrīmadbhagavadgītāsūpaniṣatsu ... sāṃkhyayogo nāma dvitīyo'dhyāyaḥ",
+    "te": "ఓం తత్సదితి ...",
+    "dn": "ॐ तत्सदिति ...",
+    "meaning": {
+      "en": { "short": "Thus ends the second chapter..." },
+      "te": { "short": "ఇట్లు శ్రీమద్భగవద్గీతలో..." },
+      "sa": { "short": "एवं श्रीमद्भगवद्गीतासूपनिषत्सु..." }
+    }
+  }
+}</pre>
+  <p>Ch18 uses a longer form including the Mahābhārata lineage (śrīmanmahābhārate, śatasāhasrikāyāṃ …) and ends with śrīkṛṣṇārpaṇamastu. The Reader shows this below the last verse of each chapter.</p>
+
+  <h3>How to fix a verse text error</h3>
+  <div class="flow">
+    <div class="step"><span class="step-num green">1</span><div>Open <code>data/chapters/chXX.json</code> in your editor. Search for <code>"s": 37</code> to jump to shloka 37.</div></div>
+    <div class="step"><span class="step-num green">2</span><div>Locate the pada with the error (p1/p2/p3/p4). Fix the text in <strong>all 3 script fields</strong>: <code>ro</code>, <code>te</code>, <code>dn</code>.</div></div>
+    <div class="step"><span class="step-num green">3</span><div>Save. Hard-refresh the browser (⌘⇧R) to bypass the service worker cache.</div></div>
+    <div class="step"><span class="step-num green">4</span><div>If this verse is referenced in <code>data/bg-meta.json</code> occurrence lists, check if that also needs updating.</div></div>
+  </div>
+
+  <div class="danger">
+    <strong>⛔ Do NOT run build.py after directly editing ch*.json files.</strong><br>
+    <code>build.py</code> regenerates all chapter files from an external source. Running it <em>after</em> manual edits will overwrite everything you changed. Only run <code>build.py</code> if you are rebuilding from the original source data (rarely needed).
+  </div>
+
+  <div class="do-dont">
+    <div class="do-box">
+      <h4>✓ DO</h4>
+      <ul>
+        <li>Edit verse text directly in ch*.json</li>
+        <li>Update all 3 scripts (ro/te/dn) together</li>
+        <li>Hard-refresh (⌘⇧R) to test changes</li>
+        <li>Keep <code>"c"</code> and <code>"s"</code> values as integers, not strings</li>
+        <li>Keep padas in order: p1 → p2 → p3 → p4</li>
+        <li>Commit chapter files separately from meaning files</li>
+      </ul>
+    </div>
+    <div class="dont-box">
+      <h4>✗ DO NOT</h4>
+      <ul>
+        <li>Run <code>build.py</code> after manual edits</li>
+        <li>Change shloka numbers (<code>"s"</code>) — they must match bg-meta.json refs</li>
+        <li>Add or remove shlokas without updating bg-meta.json occurrences</li>
+        <li>Edit gita-index.json directly (it is generated)</li>
+        <li>Leave a meaning field empty — use <code>""</code> rather than deleting the key</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ─────────── gita-index.json ─────────── -->
+<div class="file-card" id="gita-index">
+  <span class="file-path generated">data/gita-index.json</span>
+  <span class="pill pill-red">⛔ DO NOT EDIT</span>
+  <span class="pill pill-amber">data</span>
+  <span class="pill pill-gray">generated by build.py</span>
+
+  <p style="margin-top:12px;">Chapter list used by the Reader to populate the chapter filter buttons and the chapter summary cards. Any manual edit here will be overwritten the next time <code>build.py</code> runs.</p>
+
+  <h3>Structure</h3>
+  <pre>{
+  "chapters": [
+    {
+      "chapter": 1,
+      "name_sa":   "अर्जुनविषादयोगः",
+      "name_iast": "arjuna-viṣāda-yoga",
+      "name_te":   "అర్జున విషాద యోగం",
+      "name_en":   "The Yoga of Arjuna's Grief",
+      "shlokas_count": 47,
+      "summary_te": "...",
+      "summary_en": "..."
+    }, ...
+  ]
+}</pre>
+
+  <h3>To update chapter names — edit the source, not this file</h3>
+  <div class="flow">
+    <div class="step"><span class="step-num blue">1</span><div>Edit <code>source/chapter-titles.txt</code> — this is the single source of truth for chapter names in all 4 forms (IAST, Telugu, English, Sanskrit).</div></div>
+    <div class="step"><span class="step-num blue">2</span><div>Run <code>python3 scripts/build.py</code> — this regenerates <code>data/gita-index.json</code>. <strong>Only run this when no manual edits to ch*.json are pending.</strong></div></div>
+    <div class="step"><span class="step-num blue">3</span><div>Verify: open the app and check the chapter label in the Reader.</div></div>
+  </div>
+</div>
+
+<!-- ─────────── bg-meta.json ─────────── -->
+<div class="file-card" id="bg-meta">
+  <span class="file-path editable">data/bg-meta.json</span>
+  <span class="pill pill-green">✓ EDIT</span>
+  <span class="pill pill-amber">data</span>
+
+  <p style="margin-top:12px;">Stores metadata about the Gita: <strong>Krishna and Arjuna name occurrences</strong> used by the Names Review overlay, plus chapter themes, chapters metadata. The name section is the part that needs ongoing curation.</p>
+
+  <h3>Structure</h3>
+  <pre>{
+  "names": {
+    "krishna": [ ... ],   // 14 names of Krishna
+    "arjuna":  [ ... ]    // 16 names of Arjuna
+  },
+  "chapters": [ ... ],    // chapter theme info — do not touch
+  ...
+}</pre>
+
+  <h3>Each name entry</h3>
+  <pre>{
+  "name":       "Kṛṣṇa",       // display name
+  "iast":       "Kṛṣṇa",       // REQUIRED — used for name matching in audit
+  "te":         "కృష్ణ",         // Telugu display
+  "sa":         "कृष्ण",         // Devanāgarī display
+  "meaning_en": "The dark one",
+  "meaning_te": "...",
+  "count":      16,             // MUST equal occurrences.length
+  "occurrences": [ "1.14", "1.32", "2.4", ... ]   // "ch.shloka" strings, sorted
+}</pre>
+
+  <h3>Rules for <code>occurrences[]</code></h3>
+  <table class="tbl">
+    <tr><th>Rule</th><th>Detail</th></tr>
+    <tr><td>String format</td><td><code>"ch.shloka"</code> — e.g. <code>"1.4"</code>, <code>"18.78"</code>. Never zero-padded (<code>"01.04"</code>) or numeric (<code>18.78</code>).</td></tr>
+    <tr><td>Sorted numerically</td><td>Ascending by chapter then shloka: 1.1 → 1.47 → 2.1 → … → 18.78</td></tr>
+    <tr><td>count must match</td><td><code>"count"</code> must always equal <code>occurrences.length</code>. Update both together or the Names Review UI will show wrong counts.</td></tr>
+    <tr><td>No duplicates</td><td>Each ref appears at most once per name.</td></tr>
+    <tr><td>Verify before adding</td><td>Open the chapter JSON, find the shloka, confirm the name (or a sandhi form) actually appears in the <code>ro</code> text.</td></tr>
+  </table>
+
+  <div class="warn">
+    <strong>Name matching uses <code>ro</code> text only.</strong> The audit script normalises both the name's <code>iast</code> field and the verse's <code>ro</code> padas. Names that appear only in <code>te</code> or <code>dn</code> text are invisible to the matcher. This is why some names (Arjuna, Anagha) show many false negatives — the <code>ro</code> field may use a different sandhi form.
+  </div>
+
+  <div class="do-dont">
+    <div class="do-box">
+      <h4>✓ DO</h4>
+      <ul>
+        <li>Always keep <code>count</code> == <code>occurrences.length</code></li>
+        <li>Use no-zero-padding: <code>"1.4"</code> not <code>"01.04"</code></li>
+        <li>Keep <code>occurrences[]</code> numerically sorted</li>
+        <li>Verify in ch*.json before adding/removing a ref</li>
+        <li>Run <code>python3 scripts/audit-names.py</code> after editing to check</li>
+      </ul>
+    </div>
+    <div class="dont-box">
+      <h4>✗ DO NOT</h4>
+      <ul>
+        <li>Use numbers instead of strings in occurrences</li>
+        <li>Edit <code>iast</code> or <code>sa</code> — they drive matching logic</li>
+        <li>Leave count out of sync with the array length</li>
+        <li>Edit the <code>chapters</code> or <code>themes</code> sections without good reason</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ─────────── source/  (Gita) ─────────── -->
+<div class="file-card" id="gita-source">
+  <span class="file-path src-file">source/chapter-titles.txt</span>
+  <span class="pill pill-green">✓ EDIT</span>
+  <span class="pill pill-blue">src</span>
+  &nbsp;&nbsp;
+  <span class="file-path src-file">source/audio.txt</span>
+  <span class="pill pill-green">✓ EDIT</span>
+  <span class="pill pill-blue">src</span>
+  &nbsp;&nbsp;
+  <span class="file-path src-file">source/meanings/{en,te,sa}/ch*.txt</span>
+  <span class="pill pill-green">✓ EDIT</span>
+  <span class="pill pill-blue">src</span>
+
+  <p style="margin-top:14px;">These files are <strong>not served to the browser</strong>. They are input to the Python build/generate scripts that produce the <code>data/</code> files. Keep them in sync with <code>data/chapters/ch*.json</code> if you run build scripts.</p>
+
+  <div class="info">
+    <strong>Current state:</strong> All 18 chapters have complete meanings (EN + TE + SA, short + long + wbw) already baked into <code>data/chapters/ch*.json</code>. You <em>do not need</em> to re-run build scripts for meanings unless you are adding new chapters or regenerating from scratch.
+  </div>
+
+  <h3>source/chapter-titles.txt — format</h3>
+  <pre>ch01: en=Arjuna's Despondency | te=అర్జున విషాద యోగము | sa=अर्जुनविषादयोगः | yoga_en=Yoga of Despondency
+      opening_speaker=dhritarashtra | first_verse=dharmakṣetre kurukṣetre
+      uvacha_dhritarashtra=1 | uvacha_sanjaya=3 | uvacha_arjuna=2 | uvacha_krishna=0</pre>
+  <p>Used by: <code>build.py</code> → <code>data/gita-index.json</code></p>
+
+  <h3>source/audio.txt — format</h3>
+  <pre>ch10: https://youtu.be/h5PWkc-U5eY
+ch15: https://youtu.be/fVUG1eAvbf4?si=DHhHgPARgoV7ge9c
+# shloka timestamps (seconds from video start):
+# ch10:1: 45</pre>
+  <p>Used by: <code>build.py</code> → audio field in ch*.json and gita-index.json</p>
+
+  <h3>source/meanings/en/chNN.txt — format</h3>
+  <pre># 1.1
+short: Dhṛtarāṣṭra asks Sañjaya: what did my people and the Pāṇḍavas do at Kurukṣetra?
+long:  The Gītā opens not with Kṛṣṇa, but with the blind king...
+wbw:
+  dharma-kṣetre | in the field of righteousness | loc. sg.
+  kuru-kṣetre   | in the field of the Kurus     | loc. sg.
+---
+# 1.2
+short: ...</pre>
+  <p>Used by: <code>build.py</code> to import meanings into ch*.json. Generate with <code>scripts/generate-meanings.py</code> (uses Claude API, ~$1.40 for all 700 shlokas).</p>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<h2 class="vsn" id="vsn">🕉 Section 2 — Vishnu Sahasranama</h2>
+
+<table class="tbl" style="margin-bottom:24px;">
+  <tr><th>File / Folder</th><th>Type</th><th>Editable?</th><th>Purpose</th></tr>
+  <tr class="generated-row">
+    <td><code>data/vsn-shlokas.json</code></td>
+    <td><span class="pill pill-amber">data</span></td>
+    <td><span class="pill pill-red">⛔ DO NOT EDIT</span></td>
+    <td>108 shlokas in ro/te/dn × p1..p4. Generated by build-vsn.py</td>
+  </tr>
+  <tr class="generated-row">
+    <td><code>data/vsn-names.json</code></td>
+    <td><span class="pill pill-amber">data</span></td>
+    <td><span class="pill pill-red">⛔ DO NOT EDIT</span></td>
+    <td>1008 names with IAST, Telugu, meaning, dative form. Generated by build-vsn.py</td>
+  </tr>
+  <tr class="editable-row">
+    <td><code>data/vsn-meta.json</code></td>
+    <td><span class="pill pill-amber">data</span></td>
+    <td><span class="pill pill-green">✓ EDIT</span></td>
+    <td>Version info, nakshatra group ranges. Safe to edit manually.</td>
+  </tr>
+  <tr class="generated-row">
+    <td><code>data/texts/vsn/nakshatras.json</code></td>
+    <td><span class="pill pill-amber">data</span></td>
+    <td><span class="pill pill-red">⛔ DO NOT EDIT</span></td>
+    <td>27 nakshatra groups with name ranges. Generated by build-nakshatras.py</td>
+  </tr>
+  <tr class="editable-row">
+    <td><code>source/meanings/vsn/names.json</code></td>
+    <td><span class="pill pill-blue">src</span></td>
+    <td><span class="pill pill-green">✓ EDIT</span></td>
+    <td>VSN name meanings (currently empty — pending). Edit to add meanings.</td>
+  </tr>
+  <tr class="editable-row">
+    <td><code>data/vsn/source/vsn-4-padas.txt</code></td>
+    <td><span class="pill pill-blue">src</span></td>
+    <td><span class="pill pill-green">✓ EDIT</span></td>
+    <td>Devanāgarī shloka text — 2 half-verses per shloka, 108 shlokas. Primary source for build-vsn.py.</td>
+  </tr>
+  <tr class="editable-row">
+    <td><code>data/vsn/source/vsn-4-padas_iast.txt</code></td>
+    <td><span class="pill pill-blue">src</span></td>
+    <td><span class="pill pill-green">✓ EDIT</span></td>
+    <td>IAST transliteration of the same shlokas. Read directly — no programmatic transliteration needed.</td>
+  </tr>
+  <tr class="editable-row">
+    <td><code>data/vsn/source/vsn-4-padas_te.txt</code></td>
+    <td><span class="pill pill-blue">src</span></td>
+    <td><span class="pill pill-green">✓ EDIT</span></td>
+    <td>Telugu script version. Read directly by build-vsn.py.</td>
+  </tr>
+  <tr class="editable-row">
+    <td><code>data/vsn/source/vsn-2-padas.txt</code> / <code>_iast.txt</code> / <code>_te.txt</code></td>
+    <td><span class="pill pill-blue">src</span></td>
+    <td><span class="pill pill-green">✓ EDIT</span></td>
+    <td>Sandhi-applied (chanted) form — 1 full shloka per pair of lines. All 3 scripts. Not currently used by any build script; kept as reference for display use.</td>
+  </tr>
+  <tr class="editable-row">
+    <td><code>source/texts/vsn/vsn-shlokas.txt</code></td>
+    <td><span class="pill pill-blue">src</span></td>
+    <td><span class="pill pill-gray">⚠️ STUB — NOT USED</span></td>
+    <td>Abandoned early draft (IAST, ~10 shlokas only). Not read by any script. Can be deleted.</td>
+  </tr>
+  <tr class="editable-row">
+    <td><code>source/texts/vsn/nakshatras.txt</code></td>
+    <td><span class="pill pill-blue">src</span></td>
+    <td><span class="pill pill-green">✓ EDIT</span></td>
+    <td>Nakshatra name-group mappings. Edit then re-run build-nakshatras.py.</td>
+  </tr>
+</table>
+
+<!-- ─────────── vsn-shlokas.json ─────────── -->
+<div class="file-card" id="vsn-data">
+  <span class="file-path generated">data/vsn-shlokas.json</span>
+  <span class="pill pill-red">⛔ DO NOT EDIT</span>
+  <span class="pill pill-amber">data</span>
+  <span class="pill pill-gray">generated by build-vsn.py</span>
+
+  <p style="margin-top:12px;">108 shlokas of the Vishnu Sahasranama in all 3 scripts. The Avadhānam (nakshatra mode) and Reader load this file. Currently has <strong>no meanings</strong> — adding meanings is the next content task.</p>
+
+  <h3>Structure</h3>
+  <pre>[
+  {
+    "s":  1,           // shloka number 1–108
+    "p1": { "ro": "viśvaṃ viṣṇur-vaṣaṭkāro...", "te": "విశ్వం విష్ణుర్వషట్కారో...", "dn": "विश्वं विष्णुर्वषट्कारो..." },
+    "p2": { ... },
+    "p3": { ... },
+    "p4": { ... },
+    "meaning": {}      // empty — to be filled
+  }, ...
+]</pre>
+
+  <h3>How to update VSN shloka text</h3>
+  <div class="flow">
+    <div class="step"><span class="step-num blue">1</span><div>Edit <code>data/vsn/source/vsn-4-padas.txt</code> (Devanāgarī), <code>vsn-4-padas_iast.txt</code>, and/or <code>vsn-4-padas_te.txt</code>. Keep all 3 in sync — the build reads each directly, no programmatic transliteration is done for shlokas.</div></div>
+    <div class="step"><span class="step-num blue">2</span><div>Run <code>python3 scripts/build-vsn.py</code>.</div></div>
+    <div class="step"><span class="step-num blue">3</span><div>Verify output in <code>data/vsn-shlokas.json</code> — check p1–p4 split across all 3 scripts.</div></div>
+  </div>
+
+  <div class="info">
+    <strong>Current gap:</strong> 108 shlokas have verse text but no meanings. To add meanings, either: (a) run <code>scripts/build-vsn-meanings.py</code> via Claude API, or (b) manually add <code>"meaning": { "en": { "short": "..." }, "te": {}, "sa": {} }</code> to each shloka object. Option (b) is safer — no risk of overwriting.
+  </div>
+</div>
+
+<!-- ─────────── vsn-names.json ─────────── -->
+<div class="file-card">
+  <span class="file-path generated">data/vsn-names.json</span>
+  <span class="pill pill-red">⛔ DO NOT EDIT</span>
+  <span class="pill pill-amber">data</span>
+  <span class="pill pill-gray">generated by build-vsn.py</span>
+
+  <p style="margin-top:12px;">1008 names of Viṣṇu with IAST, Telugu, Devanāgarī, and dative forms. Used by the Avadhānam for name display and the Reader's name search.</p>
+
+  <h3>Structure</h3>
+  <pre>[
+  {
+    "n":    1,
+    "name": "Viśvaṃ",
+    "te":   "విశ్వం",
+    "dn":   "विश्वं",
+    "dat":  "Viśvāya",        // dative form for "Oṃ X namaḥ"
+    "meaning_en": ""          // empty — to be filled via generate-vsn-name-meanings.py
+  }, ...
+]</pre>
+  <p>To update: edit <code>source/meanings/vsn/names.json</code> and re-run <code>scripts/generate-vsn-name-meanings.py</code>, or add <code>meaning_en</code>/<code>meaning_te</code> directly to this file (carefully — it is large).</p>
+</div>
+
+<!-- ─────────── nakshatras.json ─────────── -->
+<div class="file-card">
+  <span class="file-path generated">data/texts/vsn/nakshatras.json</span>
+  <span class="pill pill-red">⛔ DO NOT EDIT</span>
+  <span class="pill pill-amber">data</span>
+  <span class="pill pill-gray">generated by build-nakshatras.py</span>
+
+  <p style="margin-top:12px;">27 nakshatra groups, each covering a range of VSN names. Used by the Avadhānam nakshatra filter.</p>
+  <h3>How to update</h3>
+  <div class="flow">
+    <div class="step"><span class="step-num blue">1</span><div>Edit <code>source/texts/vsn/nakshatras.txt</code>.</div></div>
+    <div class="step"><span class="step-num blue">2</span><div>Run <code>python3 scripts/build-nakshatras.py</code>.</div></div>
+  </div>
+</div>
+
+<!-- ─────────── vsn source ─────────── -->
+<div class="file-card" id="vsn-source">
+  <span class="file-path src-file">source/meanings/vsn/names.json</span>
+  <span class="pill pill-green">✓ EDIT</span>
+  <span class="pill pill-blue">src</span>
+
+  <p style="margin-top:12px;">Source file for VSN name meanings. Currently empty (all <code>meaning_en: ""</code>). When filled, <code>build-vsn.py</code> / <code>generate-vsn-name-meanings.py</code> pick it up and merge into <code>data/vsn-names.json</code>.</p>
+
+  <h3>Format</h3>
+  <pre>[
+  { "n": 1, "name": "Viśvaṃ", "meaning_en": "The universe; one who is the universe", "meaning_te": "..." },
+  ...
+]</pre>
+
+  <div class="info">
+    <strong>Pending content task:</strong> All 1008 names need <code>meaning_en</code> and <code>meaning_te</code> filled. Can be done via Claude API batch using <code>scripts/generate-vsn-name-meanings.py</code>.
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<h2 class="scripts" id="scripts">🛠 Scripts</h2>
+
+<table class="tbl" style="margin-bottom:24px;">
+  <tr><th>Script</th><th>What it does</th><th>Input</th><th>Output</th><th>Run when</th></tr>
+  <tr>
+    <td><code>scripts/build.py</code></td>
+    <td>Main Gita build — merges all source into data/</td>
+    <td><code>source/gita-data-all-padas.json</code> ⚠️ external<br><code>source/chapter-titles.txt</code><br><code>source/meanings/*</code><br><code>source/audio.txt</code></td>
+    <td><code>data/chapters/ch*.json</code><br><code>data/gita-index.json</code></td>
+    <td>Only when rebuilding from scratch. <strong>Not after manual edits to ch*.json.</strong></td>
+  </tr>
+  <tr>
+    <td><code>scripts/build-vsn.py</code></td>
+    <td>Build VSN shlokas + names JSON</td>
+    <td><code>data/vsn/source/vsn-4-padas.txt</code><br><code>data/vsn/source/vsn-4-padas_iast.txt</code><br><code>data/vsn/source/vsn-4-padas_te.txt</code></td>
+    <td><code>data/vsn-shlokas.json</code><br><code>data/vsn-names.json</code></td>
+    <td>When VSN source text changes</td>
+  </tr>
+  <tr>
+    <td><code>scripts/build-nakshatras.py</code></td>
+    <td>Build nakshatra group data</td>
+    <td><code>source/texts/vsn/nakshatras.txt</code></td>
+    <td><code>data/texts/vsn/nakshatras.json</code></td>
+    <td>When nakshatra groupings change</td>
+  </tr>
+  <tr>
+    <td><code>scripts/generate-meanings.py</code></td>
+    <td>Generate Gita meanings via Claude API</td>
+    <td>Existing ch*.json verse text</td>
+    <td><code>source/meanings/{en,te,sa}/ch*.txt</code></td>
+    <td>Adding meanings for new chapters (all 700 already done)</td>
+  </tr>
+  <tr>
+    <td><code>scripts/generate-vsn-name-meanings.py</code></td>
+    <td>Generate VSN name meanings via Claude API</td>
+    <td><code>data/vsn-names.json</code></td>
+    <td><code>data/vsn-names.json</code> (updated)</td>
+    <td>Adding meanings for 1008 VSN names (pending)</td>
+  </tr>
+  <tr>
+    <td><code>scripts/build-vsn-meanings.py</code></td>
+    <td>Generate VSN shloka meanings via Claude API</td>
+    <td><code>data/vsn-shlokas.json</code></td>
+    <td><code>data/vsn-shlokas.json</code> (updated)</td>
+    <td>Adding meanings for 108 VSN shlokas (pending)</td>
+  </tr>
+  <tr>
+    <td><code>scripts/audit-names.py</code></td>
+    <td>Audit bg-meta.json name occurrences vs actual verse text</td>
+    <td><code>data/bg-meta.json</code><br><code>data/chapters/ch*.json</code></td>
+    <td>Console report</td>
+    <td>After editing bg-meta.json name occurrences</td>
+  </tr>
+  <tr>
+    <td><code>scripts/add-conclusions.py</code></td>
+    <td>Add colophon conclusion block to all 18 ch*.json</td>
+    <td>Hardcoded colophon strings</td>
+    <td><code>data/chapters/ch*.json</code> (updated)</td>
+    <td>Already run — do not re-run unless rebuilding</td>
+  </tr>
+  <tr>
+    <td><code>scripts/transliterate.py</code></td>
+    <td>Devanāgarī ↔ Telugu ↔ IAST conversion library</td>
+    <td>—</td>
+    <td>—</td>
+    <td>Imported by other scripts, not run directly</td>
+  </tr>
+  <tr>
+    <td><code>scripts/deploy.sh</code></td>
+    <td>Generate version.json and git push to deploy</td>
+    <td>—</td>
+    <td>Live site updated</td>
+    <td>When ready to publish</td>
+  </tr>
+  <tr>
+    <td><code>scripts/vsn-diff.py</code></td>
+    <td>Compare 2-pada vs 4-pada splits for VSN sandhi checking</td>
+    <td>—</td>
+    <td>Console diff</td>
+    <td>When verifying VSN pada splits</td>
+  </tr>
+  <tr>
+    <td><code>scripts/fix-chapter-data.py</code></td>
+    <td>One-time fix: shift ch01 meanings, insert ch13.s0</td>
+    <td><code>data/chapters/</code></td>
+    <td><code>data/chapters/ch01.json</code>, <code>ch13.json</code></td>
+    <td>Already run — do not re-run</td>
+  </tr>
+  <tr>
+    <td><code>scripts/add-missing-meanings.py</code></td>
+    <td>One-time fix: add meanings for 1.33 and 13.34</td>
+    <td>—</td>
+    <td><code>data/chapters/ch01.json</code>, <code>ch13.json</code></td>
+    <td>Already run — do not re-run</td>
+  </tr>
+  <tr>
+    <td><code>scripts/appScript.gs</code></td>
+    <td>Google Apps Script for contact form → Sheets</td>
+    <td>—</td>
+    <td>Google Sheets</td>
+    <td>Deployed to Apps Script, not run locally</td>
+  </tr>
+</table>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<h2 style="font-size:18px;font-weight:700;margin:36px 0 14px;color:#8b1a1a;" id="external">⚠️ External Repository Dependencies</h2>
+
+<p>One build script still depends on a file in another repo on your machine.</p>
+
+<div class="ext-repo">
+  <h4>Gita verse source — used by <code>build.py</code></h4>
+  <p><strong>External file:</strong> <code>~/Projects/claude/karthikeya/assets/gita-data-all-padas.json</code></p>
+  <p>Contains the original 4-pada verse data for all 700 Gita shlokas. <code>build.py</code> checks <code>source/gita-data-all-padas.json</code> first; if not found, falls back to the karthikeya path.</p>
+  <p><strong>To remove this dependency:</strong> copy the file once into this repo:</p>
+  <pre>cp ~/Projects/claude/karthikeya/assets/gita-data-all-padas.json \
+   ~/Projects/claude/smruti.samskruti.info/source/gita-data-all-padas.json</pre>
+  <p>After that, <code>build.py</code> will use the local copy and no longer needs karthikeya. Add it to <code>.gitignore</code> if you don't want it committed.</p>
+</div>
+
+<div class="info" style="margin-top:12px;">
+  <strong>VSN dependency resolved ✓</strong> — <code>build-vsn.py</code> previously read an external <code>vsn-4-padas.txt</code>. The source files are now inside the repo at <code>data/vsn/source/</code> (DN + IAST + Telugu, all 3 scripts). No external dependency remains for VSN.
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<h2 style="font-size:18px;font-weight:700;margin:36px 0 14px;color:#2a2010;">Update flow summary</h2>
+
+<table class="tbl">
+  <tr><th>What you want to change</th><th>Edit this</th><th>Run script?</th></tr>
+  <tr><td>Fix verse text (ro/te/dn)</td><td><code>data/chapters/chXX.json</code></td><td>No — edit directly. Hard-refresh browser.</td></tr>
+  <tr><td>Fix a meaning (short/long/wbw)</td><td><code>data/chapters/chXX.json</code></td><td>No — edit directly.</td></tr>
+  <tr><td>Fix name occurrence data</td><td><code>data/bg-meta.json</code></td><td>No — edit directly. Run audit-names.py to verify.</td></tr>
+  <tr><td>Fix chapter name/title</td><td><code>source/chapter-titles.txt</code></td><td>Yes — run build.py (only when no pending manual ch*.json edits).</td></tr>
+  <tr><td>Add/update audio link</td><td><code>source/audio.txt</code></td><td>Yes — run build.py, or edit ch*.json audio field directly.</td></tr>
+  <tr><td>Fix VSN shloka text</td><td><code>data/vsn/source/vsn-4-padas.txt</code> + <code>_iast.txt</code> + <code>_te.txt</code></td><td>Yes — run build-vsn.py after editing all 3 files.</td></tr>
+  <tr><td>Add VSN meanings</td><td><code>data/vsn-shlokas.json</code> or run build-vsn-meanings.py</td><td>Optional — can edit directly or use API script.</td></tr>
+  <tr><td>Fix nakshatra groupings</td><td><code>source/texts/vsn/nakshatras.txt</code></td><td>Yes — run build-nakshatras.py.</td></tr>
+  <tr><td>Deploy to production</td><td>—</td><td>Yes — run <code>scripts/deploy.sh</code></td></tr>
+</table>
+
+<p class="subtitle" style="margin-top:36px; text-align:center;">smritu.samskruti.info — data reference · updated 2026-07-05</p>
+
+</body>
+</html>

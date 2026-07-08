@@ -75,7 +75,7 @@ const Reader = (() => {
   // ── Data loading ──────────────────────────────────────────────
   async function loadVsn() {
     if (vsnShlokas.length) return vsnShlokas;
-    const r = await fetch(C.VSN_SHLOKAS || '/data/vsn-shlokas.json');
+    const r = await fetch(C.VSN_SHLOKAS);
     const data = await r.json();
     vsnShlokas = data.shlokas || [];
     return vsnShlokas;
@@ -84,7 +84,7 @@ const Reader = (() => {
   async function loadVsnNameCountMap() {
     if (vsnNameCountMap) return vsnNameCountMap;
     try {
-      const r = await fetch('/data/vsn-names.json');
+      const r = await fetch(C.VSN_NAMES);
       const data = await r.json();
       vsnNames = data.names || [];
     } catch (e) { vsnNames = []; }
@@ -95,7 +95,7 @@ const Reader = (() => {
 
   async function loadVsnMeta() {
     if (vsnMeta) return vsnMeta;
-    const r = await fetch('/data/vsn-meta.json');
+    const r = await fetch(C.VSN_META);
     vsnMeta = await r.json();
     return vsnMeta;
   }
@@ -226,7 +226,7 @@ const Reader = (() => {
 
   async function loadBgMeta() {
     if (bgMeta) return bgMeta;
-    const r = await fetch('/data/bg-meta.json');
+    const r = await fetch(C.BG_META);
     bgMeta = await r.json();
     return bgMeta;
   }
@@ -1406,7 +1406,7 @@ const Reader = (() => {
 
   async function checkGitaJayanti() {
     try {
-      const r = await fetch('/data/ekadashi.json', { cache: 'no-store' });
+      const r = await fetch(C.EKADASHI, { cache: 'no-store' });
       const data = await r.json();
       const today = new Date().toISOString().slice(0, 10);
       let jayanti = null;

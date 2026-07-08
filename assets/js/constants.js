@@ -1,10 +1,15 @@
 const C = {
   // Data paths
-  GITA_INDEX:    '/data/gita-index.json',
-  VSN_INDEX:     '/data/vsn-index.json',
-  CHAPTER_PATH:  ch => `/data/chapters/ch${String(ch).padStart(2,'0')}.json`,
-  NAKSHATRAS:    '/data/texts/vsn/nakshatras.json',
+  GITA_INDEX:    '/data/bg/content/gita-index.json',
+  VSN_INDEX:     '/data/vsn/content/vsn-index.json',
+  CHAPTER_PATH:  ch => `/data/bg/content/chapters/ch${String(ch).padStart(2,'0')}.json`,
+  NAKSHATRAS:    '/data/vsn/content/nakshatras.json',
   SEARCH_INDEX:  '/data/search-index.json',
+  VSN_SHLOKAS:   '/data/vsn/content/vsn-shlokas.json',
+  VSN_NAMES:     '/data/vsn/content/vsn-names.json',
+  VSN_META:      '/data/vsn/content/vsn-meta.json',
+  BG_META:       '/data/bg/content/bg-meta.json',
+  EKADASHI:      '/data/calendar/content/ekadashi.json',
 
   // Scripts / Lipi
   SCRIPTS: ['te', 'ro', 'sa'],

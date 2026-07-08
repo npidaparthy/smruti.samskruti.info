@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>BG Data Files — Reference Guide</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: system-ui, sans-serif; background: #f5f3ee; color: #1c1a14; padding: 24px; max-width: 960px; margin: 0 auto; }
+h1 { font-size: 24px; font-weight: 700; margin-bottom: 4px; }
+.subtitle { font-size: 14px; color: #666; margin-bottom: 32px; }
+h2 { font-size: 18px; font-weight: 700; margin: 32px 0 12px; border-bottom: 2px solid #c8b87a; padding-bottom: 6px; color: #5a3e0a; }
+h3 { font-size: 15px; font-weight: 700; margin: 20px 0 8px; color: #2a2010; }
+p  { font-size: 14px; line-height: 1.7; margin-bottom: 10px; color: #2a2010; }
+ul { font-size: 14px; line-height: 1.9; padding-left: 20px; margin-bottom: 12px; color: #2a2010; }
+li { margin-bottom: 2px; }
+code { font-family: 'Menlo', 'Courier New', monospace; font-size: 12.5px; background: #ede8dc; border-radius: 3px; padding: 1px 5px; color: #5a3a00; }
+pre { background: #1e1c14; color: #e8dfc0; font-family: 'Menlo', 'Courier New', monospace; font-size: 12px; line-height: 1.7; border-radius: 8px; padding: 14px 16px; overflow-x: auto; margin: 12px 0 16px; }
+.file-card { background: #fff; border-radius: 10px; border: 1px solid #ddd6c0; padding: 18px 20px; margin-bottom: 18px; }
+.file-path { font-family: 'Menlo', 'Courier New', monospace; font-size: 13px; font-weight: 700; color: #1a6030; background: #eaf4ee; border-radius: 4px; padding: 3px 8px; display: inline-block; margin-bottom: 10px; }
+.tag { display: inline-block; font-size: 11px; font-weight: 700; border-radius: 12px; padding: 2px 9px; margin-left: 8px; vertical-align: middle; text-transform: uppercase; }
+.tag-primary { background: #1a6030; color: #fff; }
+.tag-ref    { background: #1a4080; color: #fff; }
+.tag-meta   { background: #8b5000; color: #fff; }
+.tag-script { background: #555; color: #fff; }
+.do-dont { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 14px 0; }
+.do-box, .dont-box { border-radius: 8px; padding: 14px 16px; }
+.do-box   { background: #eaf4ee; border-left: 4px solid #28a745; }
+.dont-box { background: #fdf0f0; border-left: 4px solid #dc3545; }
+.do-box h4   { color: #1a7a30; font-size: 13px; font-weight: 700; margin-bottom: 8px; }
+.dont-box h4 { color: #a02020; font-size: 13px; font-weight: 700; margin-bottom: 8px; }
+.do-box ul, .dont-box ul { font-size: 13px; line-height: 1.8; color: inherit; }
+.warn { background: #fff8e6; border: 1px solid #f0d080; border-radius: 8px; padding: 12px 16px; margin: 14px 0; font-size: 13px; color: #7a4e00; }
+.warn strong { color: #5a3000; }
+.tbl { width: 100%; border-collapse: collapse; font-size: 13px; margin: 10px 0 14px; }
+.tbl th { text-align: left; background: #ede8dc; padding: 7px 10px; font-weight: 700; color: #3a2a00; }
+.tbl td { padding: 6px 10px; border-bottom: 1px solid #e8e0cc; vertical-align: top; color: #2a2010; }
+.tbl tr:last-child td { border-bottom: none; }
+.req  { color: #a02020; font-weight: 700; font-size: 11px; }
+.opt  { color: #555; font-size: 11px; }
+.nav  { position: sticky; top: 0; background: #fff; border-bottom: 1px solid #ddd6c0; padding: 10px 0; margin-bottom: 24px; font-size: 13px; display: flex; gap: 16px; flex-wrap: wrap; }
+.nav a { color: #1a4080; text-decoration: none; }
+.nav a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+
+<div class="nav">
+  <strong>Jump to:</strong>
+  <a href="#chapter-files">Chapter files</a>
+  <a href="#gita-index">gita-index.json</a>
+  <a href="#bg-meta">bg-meta.json ★</a>
+  <a href="#vsn">VSN files</a>
+  <a href="#ekadashi">ekadashi.json</a>
+  <a href="#source">source/ folder</a>
+  <a href="#dos-donts">Do's &amp; Don'ts</a>
+  <a href="#names-manual">Fixing names manually</a>
+</div>
+
+<h1>BG Data Files — Reference Guide</h1>
+<p class="subtitle">Use this page while manually editing <code>data/bg-meta.json</code>. Covers every data file, its purpose, structure, and editing rules.</p>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 id="chapter-files">1. Chapter files — <code>data/chapters/ch01.json … ch18.json</code></h2>
+
+<div class="file-card">
+  <span class="file-path">data/chapters/ch01.json</span>
+  <span class="tag" style="background:#28a745;color:#fff;">✓ EDIT for verse fixes</span>
+  <span class="tag" style="background:#dc3545;color:#fff;margin-left:6px;">⛔ NOT for name data</span>
+
+  <p style="margin-top:12px;">One file per chapter. The app loads these at runtime to render the Reader, search, and names-review. <strong>Verse text corrections go here.</strong> Name occurrence data lives only in <code>bg-meta.json</code>.</p>
+
+  <h3>Top-level structure</h3>
+  <pre>{
+  "chapter": 1,
+  "shlokas": [
+    {
+      "c": 1,    // chapter number (int)
+      "s": 1,    // shloka number (int)
+      "p1": { "ro": "dharma-kshetre kuru-kshetre ...", "te": "ధర్మ క్షేత్రే కురు క్షేత్రే..." },
+      "p2": { "ro": "mama putras tava caiva ...",      "te": "మామ పుత్రాః తవ చైవ..." },
+      "p3": { "ro": "...", "te": "..." },   // anushtup shlokas have all 4 padas
+      "p4": { "ro": "...", "te": "..." }    // tristubh/other metres may also have 4
+    },
+    ...
+  ]
+}</pre>
+
+  <h3>What are p1 / p2 / p3 / p4?</h3>
+  <p>Each shloka is split into <strong>padas</strong> (quarter-verses). Most BG shlokas use the <em>anushtubh</em> metre — 4 padas of 8 syllables each, giving 32 syllables total. Each pada object has two fields:</p>
+  <table class="tbl">
+    <tr><th>Field</th><th>Meaning</th><th>Used by</th></tr>
+    <tr><td><code>p1</code>–<code>p4</code></td><td>Pada 1–4 (quarter-verse)</td><td>Reader renders each on its own line</td></tr>
+    <tr><td><code>ro</code></td><td>Romanised IAST text</td><td>Search index, name-matching, names-review audit</td></tr>
+    <tr><td><code>te</code></td><td>Telugu script text</td><td>Reader display (Telugu mode), search also scans this</td></tr>
+  </table>
+  <div class="warn">
+    <strong>Name matching searches <code>ro</code> text only.</strong> If a name appears only in <code>te</code> (Telugu script) the audit script will not find it. This is why Arjuna / Anagha show as "wrong" for several verses — the <code>ro</code> field may be missing or use a different transliteration. Check both <code>ro</code> and <code>te</code> when verifying.
+  </div>
+
+  <h3>To fix a verse text error</h3>
+  <table class="tbl">
+    <tr><th>Step</th><th>What</th><th>Detail</th></tr>
+    <tr><td>1. Find</td><td><code>data/chapters/chXX.json</code></td><td>Open the right chapter file. In VS Code search for <code>"s": 37</code> to jump to shloka 37.</td></tr>
+    <tr><td>2. Edit</td><td><code>ro</code> or <code>te</code> field of the right pada</td><td>Fix the text directly. Keep IAST diacritics correct in <code>ro</code>; keep Telugu Unicode correct in <code>te</code>.</td></tr>
+    <tr><td>3. Save</td><td>—</td><td>App picks it up on next page reload (service worker may cache — hard-refresh if needed).</td></tr>
+  </table>
+  <div class="warn">
+    <strong>Do not run <code>build.py</code> after editing chapter files directly.</strong> The build script regenerates all ch*.json from an external source file (<code>karthikeya/assets/gita-data-all-padas.json</code>) and will overwrite your manual fixes. Only run build.py if you are rebuilding from source.
+  </div>
+
+  <h3>How the app uses chapter files</h3>
+  <ul>
+    <li>Reader fetches <code>ch{N}.json</code> on demand when user navigates to a chapter</li>
+    <li>Search fetches all 18 on first search to build an in-memory index</li>
+    <li>Names-review overlay loads all 18 to run the occurrence audit</li>
+    <li>Verse reference format: <code>"ch.shloka"</code> string — e.g. <code>"18.78"</code>, <code>"1.4"</code></li>
+  </ul>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 id="gita-index">2. <code>data/gita-index.json</code></h2>
+
+<div class="file-card">
+  <span class="file-path">data/gita-index.json</span>
+  <span class="tag" style="background:#dc3545;color:#fff;">⛔ DO NOT EDIT</span>
+  <span class="tag tag-ref" style="margin-left:6px;">GENERATED</span>
+
+  <div class="warn" style="margin-top:12px;">
+    <strong>This file is auto-generated.</strong> Any change you make here will be overwritten the next time <code>build.py</code> runs. Edit the source file instead (see flow below).
+  </div>
+
+  <h3>Key fields</h3>
+  <pre>{
+  "chapters": [
+    {
+      "chapter": 1,
+      "name_sa": "...",
+      "name_iast": "arjuna-viṣāda-yoga",
+      "name_te": "అర్జున విషాద యోగం",
+      "name_en": "The Yoga of Arjuna's Grief",
+      "shlokas_count": 47,
+      "summary_te": "...",
+      "summary_en": "..."
+    },
+    ...
+  ]
+}</pre>
+
+  <h3>Update flow — how to fix chapter names</h3>
+  <table class="tbl">
+    <tr><th>Step</th><th>What</th><th>Detail</th></tr>
+    <tr><td>1. Edit</td><td><code>source/chapter-titles.txt</code></td><td>This is the source of truth for chapter names (IAST, Telugu, English, Sanskrit). Fix the name here.</td></tr>
+    <tr><td>2. Run</td><td><code>python3 scripts/build.py</code></td><td>Reads <code>source/</code> files and regenerates <code>data/gita-index.json</code> and all <code>data/chapters/ch*.json</code>.</td></tr>
+    <tr><td>3. Result</td><td><code>data/gita-index.json</code> updated</td><td>The app now picks up the corrected chapter names.</td></tr>
+  </table>
+
+  <p>Also used by the names-review overlay to know which chapters to fetch.</p>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 id="bg-meta">3. <code>data/bg-meta.json</code> ★ — The file you are fixing</h2>
+
+<div class="file-card">
+  <span class="file-path">data/bg-meta.json</span> <span class="tag tag-meta">META</span>
+  <p>Stores metadata about the Gita: name lists for Krishna and Arjuna, chapter themes, and other cross-chapter info. The names section is what needs fixing.</p>
+
+  <h3>Top-level structure</h3>
+  <pre>{
+  "names": {
+    "krishna": [ ... ],   // 14 names
+    "arjuna":  [ ... ]    // 16 names
+  },
+  "themes": { ... },      // chapter themes — do not touch
+  ...
+}</pre>
+
+  <h3>Each name entry</h3>
+  <pre>{
+  "name":        "Kṛṣṇa",          // display name (may differ from iast)
+  "iast":        "Kṛṣṇa",          // REQUIRED for matching — use this for search
+  "te":          "కృష్ణ",           // Telugu script
+  "sa":          "कृष्ण",           // Sanskrit (Devanagari) — do not edit
+  "meaning_en":  "The dark one",
+  "meaning_te":  "...",
+  "count":       16,               // MUST equal occurrences.length
+  "occurrences": [                 // list of "ch.shloka" strings
+    "1.14", "1.32", "2.4", ...
+  ]
+}</pre>
+
+  <h3>Rules for <code>occurrences[]</code></h3>
+  <table class="tbl">
+    <tr><th>Rule</th><th>Detail</th></tr>
+    <tr><td>Format</td><td>Always <code>"ch.shloka"</code> as a string — e.g. <code>"18.78"</code>, <code>"1.4"</code>. Never <code>"01.04"</code> or <code>18.78</code> (number).</td></tr>
+    <tr><td>Sorted</td><td>Numerically ascending by chapter then shloka. 1.1 → 1.47 → 2.1 → … → 18.78.</td></tr>
+    <tr><td>No duplicates</td><td>Each ref appears at most once per name.</td></tr>
+    <tr><td>count must match</td><td><code>"count"</code> field must always equal the length of <code>"occurrences"</code>. Update both together.</td></tr>
+  </table>
+
+  <h3>Current audit results (from audit-names.py)</h3>
+  <p>Summary: <strong>71 wrong entries</strong> (listed but name absent in verse) and <strong>47 missing entries</strong> (found in verse but not listed). Key issues:</p>
+
+  <table class="tbl">
+    <tr><th>Name</th><th>Issue</th><th>Notes</th></tr>
+    <tr><td>Kṛṣṇa</td><td>5 wrong: 1.31, 1.40, 1.41, 8.26, 18.75</td><td>Remove these</td></tr>
+    <tr><td>Mādhava</td><td>2 wrong: 11.7, 18.76</td><td>Remove; 18.76 is actually Keśava</td></tr>
+    <tr><td>Keśava</td><td>3 wrong, 1 missing (18.76)</td><td>Remove 1.30, 8.1, 13.1 · Add 18.76</td></tr>
+    <tr><td>Janārdana</td><td>4 wrong: 1.36, 3.1, 15.20, 18.65</td><td>Remove these</td></tr>
+    <tr><td>Acyuta</td><td>3 wrong: 1.21, 11.42, 18.73</td><td>Sandhi detection issue — verify manually</td></tr>
+    <tr><td>Hṛṣīkeśa</td><td>2 missing: 2.9, 11.36</td><td>Add these</td></tr>
+    <tr><td>Vāsudeva</td><td>10.37 wrong · 11.50 missing</td><td>Verify 10.37 in verse; user said it exists</td></tr>
+    <tr><td>Pārtha</td><td>5 wrong, 5 missing</td><td>Large list — check each carefully</td></tr>
+    <tr><td>Kaunteya</td><td>5 wrong, 12 missing</td><td>Most missing likely real — script normalisation issue</td></tr>
+    <tr><td>Mahābāho</td><td>6 wrong: 1.18, 2.26, 3.43, 5.3, 6.38, 14.5</td><td>Sambodhana vibhakti (vocative) — script may say మహాబాహో in verse</td></tr>
+    <tr><td>Arjuna</td><td>27 wrong — almost all</td><td>Name normalisation issue — "arjuna" in verse text may not match</td></tr>
+    <tr><td>Anagha</td><td>3 wrong — all listed</td><td>Likely script encoding issue; check verse text directly</td></tr>
+    <tr><td>Bharata</td><td>20 missing (auto-blocked)</td><td>Requires manual judgement — is it vocative address or generic use?</td></tr>
+  </table>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 id="vsn">4. Vishnu Sahasranama files</h2>
+
+<div class="file-card">
+  <span class="file-path">data/vsn-names.json</span>
+  <span class="file-path" style="margin-left:8px">data/vsn-shlokas.json</span>
+  <span class="file-path" style="margin-left:8px">data/vsn-meta.json</span>
+  <span class="tag tag-ref">VSN</span>
+  <p>Separate dataset for Vishnu Sahasranama — 1000 names. Not related to BG name fixing. Do not touch during this task.</p>
+  <ul>
+    <li><code>vsn-names.json</code> — list of 1000 names with IAST, Telugu, meaning</li>
+    <li><code>vsn-shlokas.json</code> — the 108 shlokas in 2-pada and 4-pada form</li>
+    <li><code>vsn-meta.json</code> — version info and chapter groupings</li>
+  </ul>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 id="ekadashi">5. <code>data/ekadashi.json</code></h2>
+
+<div class="file-card">
+  <span class="file-path">data/ekadashi.json</span>
+  <p>Calendar data for Ekadashi dates. Loaded by the calendar module. Completely unrelated to BG name fixing — do not touch.</p>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 id="source">6. <code>source/</code> folder</h2>
+
+<div class="file-card">
+  <span class="file-path">source/</span> <span class="tag tag-script">INPUT ONLY</span>
+  <p>This folder contains the <strong>raw input files</strong> used to generate the <code>data/</code> files. It is NOT loaded by the web app at runtime — it is only used by build/import scripts.</p>
+  <ul>
+    <li>Contains original verse text in various formats (CSV, TSV, plain text)</li>
+    <li>Build scripts read from <code>source/</code> and write to <code>data/</code></li>
+    <li>If you update <code>data/bg-meta.json</code> directly, the <code>source/</code> files remain stale — that is fine, they are not served to users</li>
+    <li><strong>You do not need to edit <code>source/</code></strong> when fixing names manually</li>
+  </ul>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 id="dos-donts">7. Do's and Don'ts for manual editing</h2>
+
+<div class="do-dont">
+  <div class="do-box">
+    <h4>✓ DO</h4>
+    <ul>
+      <li>Always keep <code>count</code> == <code>occurrences.length</code></li>
+      <li>Use format <code>"ch.shloka"</code> (no zero-padding) e.g. <code>"1.4"</code>, <code>"18.78"</code></li>
+      <li>Keep <code>occurrences[]</code> numerically sorted</li>
+      <li>Verify in the chapter JSON before adding or removing a ref</li>
+      <li>Use the audit script after editing to confirm the fix worked</li>
+      <li>Save with UTF-8 encoding (Telugu characters must be preserved)</li>
+      <li>Run <code>python3 scripts/audit-names.py</code> when done</li>
+    </ul>
+  </div>
+  <div class="dont-box">
+    <h4>✗ DO NOT</h4>
+    <ul>
+      <li>Add zero-padding: never <code>"01.04"</code> — always <code>"1.4"</code></li>
+      <li>Use numbers instead of strings: never <code>18.78</code> — always <code>"18.78"</code></li>
+      <li>Edit <code>iast</code> or <code>sa</code> fields — they affect matching logic</li>
+      <li>Edit <code>name</code>, <code>te</code>, <code>meaning_en/te</code> without good reason</li>
+      <li>Edit chapter files (<code>data/chapters/ch*.json</code>)</li>
+      <li>Edit the <code>themes</code> or other sections of <code>bg-meta.json</code></li>
+      <li>Leave <code>count</code> out of sync with <code>occurrences.length</code></li>
+    </ul>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 id="names-manual">8. How to fix names manually — step by step</h2>
+
+<div class="file-card">
+  <h3>Workflow</h3>
+  <ol style="font-size:14px; line-height:2; padding-left:20px;">
+    <li>Open <code>data/bg-meta.json</code> in your editor</li>
+    <li>For each suspicious entry, open the relevant <code>data/chapters/chXX.json</code></li>
+    <li>Find the shloka by <code>"s": N</code> and look at the <code>ro</code> text of all padas</li>
+    <li>Check visually if the name (or a close form) appears in the romanised text</li>
+    <li>Update <code>occurrences[]</code> and then update <code>count</code> to match</li>
+  </ol>
+
+  <h3>Finding a verse quickly</h3>
+  <p>In VS Code: open the chapter file and search for <code>"s": 78</code> to jump to shloka 78. Or search by partial text.</p>
+
+  <h3>Name form reference</h3>
+  <table class="tbl">
+    <tr><th>Name (IAST)</th><th>Common forms in verse text</th><th>Notes</th></tr>
+    <tr><td>Kṛṣṇa</td><td>kṛṣṇa, kṛṣṇam, kṛṣṇa-</td><td>Also appears mid-compound: <em>dharma-kṣetre</em> → no</td></tr>
+    <tr><td>Mahābāho</td><td>mahābāho (vocative), mahābāhaḥ, mahābāhum</td><td>Telugu verse says మహాబాహో — script uses sambodhana form</td></tr>
+    <tr><td>Acyuta</td><td>acyuta, acyutam, me'cyuta → mecyuta</td><td>Sandhi: <em>me + acyuta</em> elides the 'a' — look for <code>mecyuta</code></td></tr>
+    <tr><td>Janārdana</td><td>janārdana, janārdanaḥ, janārdanam</td><td>If audit says wrong, search <code>janardana</code> (norm) in ro text</td></tr>
+    <tr><td>Arjuna</td><td>arjuna, arjunaḥ, arjunam, arjunasya</td><td>Audit shows 27 wrong — likely the Telugu-script <code>te</code> field is causing false negatives in the matching; check <code>ro</code> directly</td></tr>
+    <tr><td>Anagha</td><td>anagha, anagham</td><td>If all 3 declared refs show wrong — the name may appear in Telugu script only (<code>te</code> field) which the norm() strips to Latin chars</td></tr>
+    <tr><td>Bharata</td><td>bharata, bhārata, bharataḥ, bharata-</td><td>20 missing — most are generic "O descendant of Bharata" — judge if it addresses Arjuna directly</td></tr>
+    <tr><td>Vāsudeva</td><td>vāsudeva, vāsudevaḥ, vāsudeva-</td><td>10.37 user confirmed it exists — verify in ch10.json shloka 37</td></tr>
+    <tr><td>Pārtha</td><td>pārtha, pārthaḥ, pārtham, pārtha-</td><td>18.78 user confirmed it exists — verify in ch18.json shloka 78</td></tr>
+  </table>
+
+  <h3>Checking a verse in VS Code (example for 10.37)</h3>
+  <pre>// Open data/chapters/ch10.json
+// Search for:  "s": 37
+// Look at p1.ro, p2.ro etc. — does "vasudeva" appear after stripping diacritics?</pre>
+
+  <h3>After editing — verify</h3>
+  <pre>cd ~/Projects/claude/smruti.samskruti.info
+python3 scripts/audit-names.py 2>&1 | tee /tmp/audit-after.txt</pre>
+  <p>Compare with the before results above. Ideally all names show <code>✓ OK</code> or at least the count of issues is reduced.</p>
+
+  <h3>Important: Bharata judgement calls</h3>
+  <p>When you see "Bharata" in a verse, decide: is it a vocative address to Arjuna (like "O Bharata") or is it a generic reference to the Bharata lineage? Only the former should be in Arjuna's occurrences list.</p>
+  <ul>
+    <li>Vocative address → ADD to Arjuna's occurrences</li>
+    <li>Generic / third-person → leave out</li>
+    <li>The audit found 20 potential missing entries — all need manual judgement</li>
+  </ul>
+</div>
+
+<p class="subtitle" style="margin-top:32px; text-align:center;">smruti.samskruti.info — generated 2026-07-04</p>
+
+</body>
+</html>

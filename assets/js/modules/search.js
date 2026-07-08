@@ -14,7 +14,7 @@ const Search = (() => {
   // ── Data loaders ─────────────────────────────────────────────
   async function loadVsn() {
     if (vsnNames) return vsnNames;
-    const r = await fetch('/data/vsn-names.json');
+    const r = await fetch(C.VSN_NAMES);
     const d = await r.json();
     vsnNames = d.names || [];
     return vsnNames;
@@ -22,14 +22,14 @@ const Search = (() => {
 
   async function loadGitaIndex() {
     if (gitaIndex) return gitaIndex;
-    const r = await fetch('/data/gita-index.json');
+    const r = await fetch(C.GITA_INDEX);
     gitaIndex = await r.json();
     return gitaIndex;
   }
 
   async function loadGitaCh(ch) {
     if (gitaCache[ch]) return gitaCache[ch];
-    const r = await fetch(`/data/chapters/ch${String(ch).padStart(2,'0')}.json`);
+    const r = await fetch(C.CHAPTER_PATH(ch));
     const d = await r.json();
     gitaCache[ch] = d.shlokas || [];
     return gitaCache[ch];
