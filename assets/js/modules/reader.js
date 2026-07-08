@@ -1581,7 +1581,11 @@ const Reader = (() => {
         selectedChs.clear();
         vsnSelectedGroups.clear();
         buildChapterGrid();
-        pickRandom();
+        if (activeText === 'vsn') {
+          loadVsn().then(shlokas => { if (shlokas.length) { pool = shlokas; renderVerse(shlokas[0]); } });
+        } else {
+          pickRandom();
+        }
         const isVsn = activeText === 'vsn';
         const pb = $('r-progress-badge'); if (pb) pb.hidden = isVsn;
         // Switch VOTD to match text mode
