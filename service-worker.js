@@ -1,4 +1,4 @@
-const CACHE = 'smriti-v20';
+const CACHE = 'smriti-v21';
 
 // Set to true during local testing to skip all caching (network-only).
 // Set back to false before committing/deploying.

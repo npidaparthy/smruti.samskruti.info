@@ -11,8 +11,6 @@ const I18N = {
     wbw:                 'పద×పదం',
     select_prompt:       'పైన అధ్యాయాన్ని ఎంచుకుని Random నొక్కండి.',
     pick_verse:          'ముందుగా ఒక శ్లోకాన్ని ఎంచుకోండి.',
-    meanings_wip:        'అర్థాలు త్వరలో వస్తాయి. (Phase 2)',
-    search_wip:          'శబ్ద వెతుకుడు త్వరలో వస్తుంది. (Phase 2)',
     display:             'ప్రదర్శన',
     script_setting:      'లిపి (Lipi)',
     script_sub:          'శ్లోక పాఠ లిపి',
@@ -36,8 +34,6 @@ const I18N = {
     // Reader tab label
     tab_reader:          'పాఠం',
     tab_avadhanam:       'అవధానం',
-    tab_meanings:        'అర్థం',
-    tab_search:          'వెతుకు',
     // Avadhānam hint
     hint_reveal:         '👁 Reveal నొక్కితే మిగిలిన పాదాలు కనిపిస్తాయి',
     hint_revealed:       '👁 మళ్ళీ నొక్కితే దాచుతాయి',
@@ -115,8 +111,6 @@ const I18N = {
     wbw:                 'Word×word',
     select_prompt:       'Select a chapter above then press Random.',
     pick_verse:          'Select a verse first.',
-    meanings_wip:        'Full meanings coming soon. (Phase 2)',
-    search_wip:          'Full-text search coming soon. (Phase 2)',
     display:             'Display',
     script_setting:      'Script (Lipi)',
     script_sub:          'Verse text script',
@@ -139,8 +133,6 @@ const I18N = {
     ch:                  'Ch',
     tab_reader:          'Reader',
     tab_avadhanam:       'Avadhānam',
-    tab_meanings:        'Meanings',
-    tab_search:          'Search',
     hint_reveal:         '👁 Tap Reveal to see hidden padas',
     hint_revealed:       '👁 Tap again to hide',
     showing:             'Showing',
@@ -219,8 +211,7 @@ function applyI18n() {
   });
   // Tab labels
   const tabMap = {
-    reader: 'tab_reader', avadhanam: 'tab_avadhanam',
-    meanings: 'tab_meanings', search: 'tab_search'
+    reader: 'tab_reader', avadhanam: 'tab_avadhanam'
   };
   document.querySelectorAll('.tab-btn[data-tab]').forEach(btn => {
     const k = tabMap[btn.dataset.tab];
