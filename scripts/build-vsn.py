@@ -428,9 +428,22 @@ def build_names(shlokas_raw):
     name_tokens = extract_names_from_shlokas(shlokas_raw)
     print(f'  extracted {len(name_tokens)} name tokens')
 
+    # Preserve existing meanings so a rebuild never wipes manually added data
+    existing_meanings = {}
+    if OUT_NAMES.exists():
+        try:
+            existing = json.loads(OUT_NAMES.read_text(encoding='utf-8'))
+            existing_meanings = {n['n']: n['meaning'] for n in existing.get('names', []) if n.get('meaning')}
+            print(f'  preserving meanings for {len(existing_meanings)} names')
+        except Exception:
+            pass
+
     names_out = []
     for i, (name_sa, shloka_num) in enumerate(name_tokens, 1):
-        names_out.append(make_chant(name_sa, i, shloka_num))
+        entry = make_chant(name_sa, i, shloka_num)
+        if i in existing_meanings:
+            entry['meaning'] = existing_meanings[i]
+        names_out.append(entry)
 
     result = {'text': 'vsn', 'total': len(names_out), 'names': names_out}
     with open(OUT_NAMES, 'w', encoding='utf-8') as f:
