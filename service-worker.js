@@ -1,4 +1,4 @@
-const CACHE = 'smriti-v19';
+const CACHE = 'smriti-v20';
 
 // Set to true during local testing to skip all caching (network-only).
 // Set back to false before committing/deploying.
@@ -13,8 +13,6 @@ const PRECACHE = [
   '/assets/js/modules/i18n.js',
   '/assets/js/modules/reader.js',
   '/assets/js/modules/avadhaanam.js',
-  '/assets/js/modules/meanings.js',
-  '/assets/js/modules/audio.js',
   '/assets/js/modules/settings.js',
   '/data/bg/content/gita-index.json',
   '/data/vsn/content/nakshatras.json'
