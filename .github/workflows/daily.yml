@@ -23,6 +23,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # required: the reusable workflow declares actions:write (used only when deploy_workflow is set)
 
 jobs:
   daily:
