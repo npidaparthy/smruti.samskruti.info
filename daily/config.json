@@ -1,0 +1,39 @@
+{
+  "site": "smruti",
+  "link": "https://smruti.samskruti.info",
+
+  "card": {
+    "header": { "heading": "{source}", "align": "center" },
+    "footer": {
+      "left":   "స్మృతిః । स्मृतिः",
+      "middle": "samskruti.info@gmail.com",
+      "right":  "https://smruti.samskruti.info"
+    },
+    "theme":  { "template": "palm-leaf", "accent": "#c8a84b", "grain": 8 },
+    "format":  "jpeg",
+    "quality": 85
+  },
+
+  "selection": { "mode": "rotation", "epoch": "2026-07-23" },
+  "archive":   { "repo": "npidaparthy/samskruti-archives" },
+  "timezone":  { "name": "Australia/Sydney", "hour": 4 },
+
+  "feeds": [
+    {
+      "id": "bg",
+      "label": "భగవద్గీత",
+      "script": "te",
+      "source":   { "glob": "data/bg/content/chapters/*.json", "records": "array:shlokas", "idField": ["c", "s"] },
+      "fieldMap": {
+        "verse":      ["p1.te", "p2.te", "p3.te", "p4.te"],
+        "meaning":    "meaning.en.short",
+        "commentary": "meaning.en.long"
+      },
+      "sections": ["verse", "meaning", "commentary"],
+      "card": { "header": { "heading": "భగవద్గీత" } },
+      "caption":  "{verse}\n\n{meaning}\n\n— భగవద్గీత\n{link}",
+      "output": "daily/bg/", "archivePath": "smruti/bg",
+      "telegram": { "enabled": false, "chatIds": [] }
+    }
+  ]
+}
