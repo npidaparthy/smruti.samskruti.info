@@ -67,8 +67,11 @@
       "output": "daily/bg/",
       "archivePath": "smruti/bg",
       "telegram": {
-        "enabled": false,
-        "chatIds": []
+        "enabled": true,
+        "chatIds": [
+          "527872637"
+        ],
+        "lang": "te"
       },
       "variants": [
         {
