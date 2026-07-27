@@ -37,7 +37,7 @@ jobs:
       force: ${{ github.event_name == 'workflow_dispatch' }}
       feeds: ${{ inputs.feeds }}
       script: ${{ inputs.script }}
-      no_telegram: ${{ inputs.no_telegram == 'true' }}
+      no_telegram: ${{ inputs.no_telegram }}
     secrets:
       ARCHIVE_TOKEN:  ${{ secrets.ARCHIVE_TOKEN }}
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
