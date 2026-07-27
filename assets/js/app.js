@@ -128,6 +128,20 @@
     navigator.serviceWorker.register('/service-worker.js')
       .then(() => console.log('SW registered'))
       .catch(err => console.warn('SW registration failed', err));
+
+    // New SW activated → show reload banner
+    navigator.serviceWorker.addEventListener('message', e => {
+      if (e.data?.type !== 'SW_UPDATED') return;
+      const banner = document.createElement('div');
+      banner.id = 'sw-update-banner';
+      banner.innerHTML = `
+        <span>${window._uiLang === 'en' ? 'Update available' : 'కొత్త వెర్షన్ వచ్చింది'}</span>
+        <button onclick="location.reload()">
+          ${window._uiLang === 'en' ? 'Reload' : 'రిలోడ్'}
+        </button>
+        <button onclick="this.parentElement.remove()">✕</button>`;
+      document.body.appendChild(banner);
+    });
   }
 
   // ── Bootstrap ─────────────────────────────────────────────────
