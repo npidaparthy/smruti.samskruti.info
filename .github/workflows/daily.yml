@@ -19,6 +19,11 @@ on:
         description: "Verse script: te | sa | iast (blank = each feed's default)."
         required: false
         default: ""
+      no_telegram:
+        description: "Skip Telegram publishing (for testing)."
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -32,6 +37,7 @@ jobs:
       force: ${{ github.event_name == 'workflow_dispatch' }}
       feeds: ${{ inputs.feeds }}
       script: ${{ inputs.script }}
+      no_telegram: ${{ inputs.no_telegram == 'true' }}
     secrets:
       ARCHIVE_TOKEN:  ${{ secrets.ARCHIVE_TOKEN }}
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}

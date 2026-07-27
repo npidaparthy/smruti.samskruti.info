@@ -33,7 +33,7 @@
   "feeds": [
     {
       "id": "bg",
-      "label": "భగవద్గీత",
+      "label": "శ్రీమద్భగవద్గీతా",
       "script": "te",
       "source": {
         "glob": "data/bg/content/chapters/*.json",
@@ -51,7 +51,9 @@
           "p4.te"
         ],
         "meaning": "meaning.te.short",
-        "commentary": "meaning.te.long"
+        "commentary": "meaning.te.long",
+        "c": "c",
+        "s": "s"
       },
       "sections": [
         "verse",
@@ -60,10 +62,10 @@
       ],
       "card": {
         "header": {
-          "heading": "భగవద్గీత"
+          "heading": "శ్రీమద్భగవద్గీతా {c}.{s}"
         }
       },
-      "caption": "{verse}\n\n{meaning}\n\n— భగవద్గీత\n{link}",
+      "caption": "{verse}\n\n{meaning}\n\n— శ్రీమద్భగవద్గీతా {c}.{s}\n{link}",
       "output": "daily/bg/",
       "archivePath": "smruti/bg",
       "telegram": {
