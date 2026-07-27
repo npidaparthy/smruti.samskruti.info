@@ -71,6 +71,7 @@
       "telegram": {
         "enabled": true,
         "chatIds": ["-1001666111648"],
+        "testChatIds": ["-5353301493"],
         "lang": "te"
       },
       "variants": [
