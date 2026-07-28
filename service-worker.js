@@ -1,7 +1,5 @@
-const CACHE = 'smriti-v22';
+const CACHE = 'smriti-v23';
 
-// Set to true during local testing to skip all caching (network-only).
-// Set back to false before committing/deploying.
 const DEV = false;
 
 const PRECACHE = [
@@ -18,6 +16,15 @@ const PRECACHE = [
   '/data/vsn/content/nakshatras.json'
 ];
 
+// JS, CSS, HTML — stale-while-revalidate
+// Serve cached immediately, fetch fresh in background, update cache silently.
+const SWR_EXTS = ['.js', '.css', '.html', ''];
+
+function isSwr(url) {
+  const p = url.pathname;
+  return SWR_EXTS.some(ext => p.endsWith(ext)) || p === '/';
+}
+
 self.addEventListener('install', e => {
   if (DEV) { self.skipWaiting(); return; }
   e.waitUntil(
@@ -28,20 +35,26 @@ self.addEventListener('install', e => {
 self.addEventListener('activate', e => {
   if (DEV) { e.waitUntil(self.clients.claim()); return; }
   e.waitUntil(
-    caches.keys().then(keys =>
-      Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k)))
-    ).then(() => self.clients.claim())
+    caches.keys()
+      .then(keys => Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k))))
+      .then(() => self.clients.claim())
+      .then(() => {
+        // Tell all open tabs a new version is now active
+        self.clients.matchAll({ type: 'window' }).then(clients =>
+          clients.forEach(c => c.postMessage({ type: 'SW_UPDATED' }))
+        );
+      })
   );
 });
 
 self.addEventListener('fetch', e => {
-  // DEV mode: always go to network, no caching
   if (DEV) { e.respondWith(fetch(e.request)); return; }
 
   const url = new URL(e.request.url);
 
-  // Network-first for chapter JSON and ekadashi calendar (fresh data, fall back offline)
-  if (url.pathname.startsWith('/data/bg/content/chapters/') || url.pathname === '/data/calendar/content/ekadashi.json') {
+  // Network-first for chapter JSON and calendar (always want fresh data)
+  if (url.pathname.startsWith('/data/bg/content/chapters/') ||
+      url.pathname === '/data/calendar/content/ekadashi.json') {
     e.respondWith(
       fetch(e.request)
         .then(r => { caches.open(CACHE).then(c => c.put(e.request, r.clone())); return r; })
@@ -50,7 +63,20 @@ self.addEventListener('fetch', e => {
     return;
   }
 
-  // Cache-first for everything else
+  // Stale-while-revalidate for JS / CSS / HTML
+  if (isSwr(url)) {
+    e.respondWith(
+      caches.open(CACHE).then(cache =>
+        cache.match(e.request).then(cached => {
+          const fresh = fetch(e.request).then(r => { cache.put(e.request, r.clone()); return r; });
+          return cached || fresh;   // serve cached instantly; fresh updates cache for next load
+        })
+      )
+    );
+    return;
+  }
+
+  // Cache-first for everything else (JSON data, images, fonts)
   e.respondWith(
     caches.match(e.request).then(r => r || fetch(e.request).then(nr => {
       caches.open(CACHE).then(c => c.put(e.request, nr.clone()));
