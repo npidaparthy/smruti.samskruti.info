@@ -96,5 +96,62 @@
         }
       ]
     }
+    ,
+    {
+      "id": "vsn",
+      "label": "శ్రీవిష్ణుసహస్రనామమ్",
+      "script": "te",
+      "source": {
+        "glob": "data/vsn/vsn-daily-cards.json",
+        "records": "array:shlokas",
+        "idField": "sh"
+      },
+      "fieldMap": {
+        "verse": ["h1_te", "h2_te"],
+        "names": "names_te",
+        "sh": "sh"
+      },
+      "sections": ["verse", "names"],
+      "card": {
+        "header": {
+          "heading": "శ్రీవిష్ణుసహస్రనామస్తోత్రమ్"
+        }
+      },
+      "caption": "{verse}\n\n{meaning}\n\n— శ్రీవిష్ణుసహస్రనామమ్ · శ్లో. {sh}\n{link}",
+      "output": "daily/vsn/",
+      "archivePath": "smruti/vsn",
+      "telegram": {
+        "enabled": true,
+        "chatIds": ["-1001666111648"],
+        "testChatIds": ["-5353301493"],
+        "lang": "te"
+      },
+      "variants": [
+        {
+          "id": "te",
+          "label": "తెలుగు"
+        },
+        {
+          "id": "sa",
+          "label": "संस्कृतम्",
+          "card": { "header": { "heading": "श्रीविष्णुसहस्रनामस्तोत्रम्" } },
+          "fieldMap": {
+            "verse": ["h1_sa", "h2_sa"],
+            "names": "names_sa"
+          },
+          "script": "sa"
+        },
+        {
+          "id": "en",
+          "label": "IAST",
+          "card": { "header": { "heading": "Śrī Viṣṇu Sahasranāma Stotram" } },
+          "fieldMap": {
+            "verse": ["h1_ro", "h2_ro"],
+            "names": "names_en"
+          },
+          "script": "iast"
+        }
+      ]
+    }
   ]
 }
