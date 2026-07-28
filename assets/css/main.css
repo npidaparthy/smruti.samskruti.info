@@ -2111,4 +2111,290 @@ body.focus-mode #r-focus-btn { color: var(--bg-amber); }
 .nr-chip:hover { opacity: .8; }
 .nr-ok      { background: #28a745; color: #fff; }
 .nr-wrong   { background: #dc3545; color: #fff; }
+
+/* ── VSN Names tab ────────────────────────────────────────────── */
+#vsn-names { padding: 0; overflow: hidden; display: none; flex-direction: column; }
+#vsn-names.active { display: flex; }
+
+.vsn-loading, .vsn-error {
+  padding: 32px 16px; text-align: center; color: var(--fg3);
+  font-size: calc(14px * var(--ui-scale));
+}
+
+/* Header */
+.vsn-hdr {
+  background: var(--bg2); border-bottom: 1px solid var(--border);
+  padding: 10px 12px 0; flex-shrink: 0;
+}
+.vsn-hdr-r1 { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+.vsn-title  {
+  font-size: calc(15px * var(--ui-scale)); font-weight: 500; flex: 1;
+  font-family: var(--font-verse); color: var(--fg);
+}
+.vsn-hdr-r2 { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+.vsn-stat   { font-size: calc(10px * var(--ui-scale)); color: var(--fg3); margin-left: auto; }
+
+/* Script / pada toggles */
+.vsn-script-tog, .vsn-pada-tog {
+  display: flex; border: 1px solid var(--border); border-radius: 6px; overflow: hidden;
+}
+.vsn-script-tog button, .vsn-pada-tog button {
+  background: none; border: none; padding: 3px 9px;
+  font-size: calc(11px * var(--ui-scale));
+  color: var(--fg2); cursor: pointer; font-family: var(--font-verse);
+}
+.vsn-script-tog button.act, .vsn-pada-tog button.act {
+  background: var(--accent-bg); color: var(--accent); font-weight: 600;
+}
+
+/* Search row */
+.vsn-search-row { margin-bottom: 8px; }
+.vsn-search {
+  width: 100%; padding: 6px 10px; border: 1px solid var(--border);
+  border-radius: 8px; background: var(--bg); color: var(--fg);
+  font-size: calc(12px * var(--ui-scale)); font-family: var(--font-ui);
+  outline: none;
+}
+.vsn-search:focus { border-color: var(--accent); }
+
+/* Sandhi filter strip */
+.vsn-sd-strip {
+  display: flex; gap: 5px; overflow-x: auto; padding: 6px 12px;
+  border-bottom: 1px solid var(--border); scrollbar-width: none; flex-shrink: 0;
+}
+.vsn-sd-strip::-webkit-scrollbar { display: none; }
+.vsn-sf {
+  border: 1px solid var(--border); border-radius: 10px; padding: 2px 9px;
+  font-size: calc(11px * var(--ui-scale)); color: var(--fg2); white-space: nowrap;
+  background: none; cursor: pointer; flex-shrink: 0;
+}
+.vsn-sf.act {
+  border-color: var(--accent); background: var(--accent-bg); color: var(--accent);
+}
+
+/* Scroll area */
+.vsn-scroll {
+  flex: 1; overflow-y: auto; padding: 10px 12px; display: flex;
+  flex-direction: column; gap: 8px;
+}
+
+/* Nakshatra header */
+.vsn-nak-hdr {
+  display: flex; align-items: center; gap: 8px; padding: 6px 10px;
+  background: var(--naksh-bg); border: 1px solid color-mix(in srgb, var(--naksh-fg) 25%, transparent);
+  border-radius: 8px; margin-top: 4px;
+}
+.vsn-nak-num  { font-size: calc(10px * var(--ui-scale)); color: var(--fg3); min-width: 16px; }
+.vsn-nak-name {
+  font-family: var(--font-verse); font-size: calc(13px * var(--ui-scale));
+  font-weight: 600; color: var(--naksh-fg);
+}
+.vsn-nak-right { margin-left: auto; text-align: right; }
+.vsn-nak-deity { font-size: calc(10px * var(--ui-scale)); color: var(--fg2); margin-bottom: 3px; }
+.vsn-nak-tags  { display: flex; gap: 5px; justify-content: flex-end; flex-wrap: wrap; }
+.vsn-nak-tags span {
+  font-size: calc(10px * var(--ui-scale)); border: 1px solid var(--border);
+  border-radius: 8px; padding: 0 5px; color: var(--fg3);
+}
+
+/* Verse card */
+.vsn-vcard {
+  background: var(--bg2); border: 1px solid var(--border); border-radius: 10px; overflow: hidden;
+}
+.vsn-vcard-top { display: flex; align-items: center; padding: 4px 10px 0; gap: 6px; }
+.vsn-pada-lbl  { font-size: calc(10px * var(--ui-scale)); color: var(--fg3); }
+.vsn-count-pill {
+  margin-left: auto; font-size: calc(10px * var(--ui-scale));
+  background: var(--accent-bg); color: var(--accent);
+  border-radius: 8px; padding: 1px 8px; font-weight: 600;
+}
+
+/* Verse text — uses CSS var for theme-aware colors */
+.vsn-vtext {
+  padding: 5px 10px 6px; font-family: var(--font-verse);
+  font-size: calc(13px * var(--ui-scale)); line-height: 1.9;
+  color: var(--vsn-verse-fg, #2a1060);
+  background: var(--vsn-verse-bg, color-mix(in srgb, #9978c4 12%, var(--bg)));
+}
+.vsn-vline { display: block; }
+.vsn-snum  { font-size: calc(10px * var(--ui-scale)); color: var(--fg3); margin-left: 6px; }
+
+/* Name chips */
+.vsn-chips { padding: 7px 10px; display: flex; flex-wrap: wrap; gap: 4px 8px; }
+.vsn-chip {
+  font-family: var(--font-verse); font-size: calc(13px * var(--ui-scale)); font-weight: 600;
+  cursor: pointer; padding: 1px 2px; border-radius: 3px; transition: opacity .12s;
+}
+.vsn-chip:hover { opacity: .75; }
+.vsn-chip.vsn-sd {
+  text-decoration: underline; text-decoration-style: dotted; text-underline-offset: 3px;
+}
+.vsn-chip.vsn-av {
+  color: var(--fg3); font-style: italic;
+  font-size: calc(11px * var(--ui-scale)); cursor: default;
+}
+.vsn-chip.vsn-dim { opacity: .18; }
+
+/* Top button — floats bottom-right over the scroll area */
+.vsn-top-btn {
+  position: fixed; bottom: 70px; right: 14px; z-index: 200;
+  background: var(--bg2); border: 1px solid var(--border);
+  border-radius: 20px; padding: 6px 14px; font-size: calc(12px * var(--ui-scale));
+  color: var(--fg2); cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,.15);
+  transition: opacity .2s;
+}
+
+/* Popup overlay */
+.vsn-pop-overlay {
+  position: fixed; inset: 0; background: rgba(0,0,0,.25); z-index: 400;
+}
+.vsn-popup {
+  position: fixed;
+  background: var(--bg); border-radius: 12px;
+  width: min(360px, 92vw); overflow: hidden;
+  max-height: 75vh; display: flex; flex-direction: column;
+  box-shadow: 0 8px 32px rgba(0,0,0,.35);
+}
+.vsn-pop-hd { padding: 11px 38px 11px 14px; flex-shrink: 0; position: relative; }
+.vsn-pop-meta { display: flex; align-items: baseline; gap: 8px; margin-bottom: 4px; }
+.vsn-pop-num  { font-size: calc(10px * var(--ui-scale)); opacity: .85; color: #fff; }
+.vsn-pop-gram { display: flex; gap: 4px; flex-wrap: wrap; }
+.vsn-pop-gram span {
+  font-size: calc(11px * var(--ui-scale)); background: rgba(255,255,255,.22);
+  border-radius: 8px; padding: 1px 8px; color: #fff; font-family: var(--font-verse);
+}
+.vsn-pop-name {
+  font-family: var(--font-verse); font-size: calc(20px * var(--ui-scale));
+  font-weight: 600; color: #fff;
+}
+.vsn-pop-close {
+  position: absolute; top: 9px; right: 11px; background: none; border: none;
+  color: #fff; font-size: 16px; opacity: .8; cursor: pointer; padding: 3px 6px;
+}
+.vsn-pop-tabs {
+  display: flex; border-bottom: 1px solid var(--border);
+  background: var(--bg2); flex-shrink: 0;
+}
+.vsn-pop-tab {
+  flex: 1; padding: 8px 0; font-size: calc(12px * var(--ui-scale));
+  color: var(--fg2); background: none; border: none; cursor: pointer;
+  border-bottom: 2px solid transparent;
+}
+.vsn-pop-tab.act { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+.vsn-pop-body {
+  overflow-y: auto; padding: 12px 14px; display: flex; flex-direction: column; gap: 10px;
+}
+.vsn-mantra {
+  font-family: var(--font-verse); font-size: calc(13px * var(--ui-scale));
+  color: var(--accent2); background: var(--accent-bg);
+  border-left: 3px solid var(--accent); padding: 7px 10px; border-radius: 0 4px 4px 0;
+}
+.vsn-sd-card { border-radius: 8px; padding: 9px 12px; color: #fff; }
+.vsn-sd-type   {
+  font-family: var(--font-verse); font-size: calc(13px * var(--ui-scale));
+  font-weight: 600; margin-bottom: 3px;
+}
+.vsn-sd-detail { font-size: calc(12px * var(--ui-scale)); opacity: .9; font-family: monospace; }
+.vsn-sd-sutra  { font-size: calc(11px * var(--ui-scale)); opacity: .75; margin-top: 2px; }
+.vsn-no-sd     { font-size: calc(12px * var(--ui-scale)); color: var(--fg3); font-style: italic; }
+.vsn-mean-block { display: flex; flex-direction: column; gap: 4px; }
+.vsn-mean-block + .vsn-mean-block { border-top: 1px solid var(--border); padding-top: 10px; }
+.vsn-mean-lang  {
+  font-size: calc(10px * var(--ui-scale)); color: var(--fg3);
+  text-transform: uppercase; letter-spacing: .5px;
+}
+.vsn-mean-text  { font-size: calc(14px * var(--ui-scale)); color: var(--fg); line-height: 1.6; }
+.vsn-mean-empty { color: var(--fg3); font-style: italic; }
+
+/* Dark mode overrides for verse text */
+[data-theme="dark"] {
+  --vsn-verse-fg: #d0c4f0;
+  --vsn-verse-bg: color-mix(in srgb, #6050a0 20%, var(--bg));
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --vsn-verse-fg: #d0c4f0;
+    --vsn-verse-bg: color-mix(in srgb, #6050a0 20%, var(--bg));
+  }
+}
+
+@media (max-width: 500px) {
+  .vsn-nak-right { max-width: 55%; }
+}
 .nr-missing { background: #fd7e14; color: #fff; }
+
+/* ── Nakshatra panel ── */
+.vsn-nak-popup  { max-width: 420px; }
+.vsn-nak-hd     { display: flex; flex-direction: column; align-items: flex-start; gap: 2px; position: relative; }
+.vsn-nak-hero-num  { font-size: calc(11px * var(--ui-scale)); opacity: .7; font-weight: 600; letter-spacing: 1px; color: #fff; }
+.vsn-nak-hero-name { font-size: calc(22px * var(--ui-scale)); font-weight: 700; color: #fff; }
+.vsn-nak-hero-sub  { font-size: calc(13px * var(--ui-scale)); color: rgba(255,255,255,.8); }
+.vsn-nak-body   { display: flex; flex-direction: column; gap: 12px; }
+.vsn-nak-pills  { display: flex; flex-wrap: wrap; gap: 6px; }
+.vsn-nak-pill   {
+  background: var(--accent-bg); color: var(--accent);
+  border-radius: 20px; padding: 3px 10px;
+  font-size: calc(12px * var(--ui-scale)); font-weight: 600;
+}
+.vsn-nak-rows   { display: flex; flex-direction: column; gap: 0; }
+.vsn-nak-row    {
+  display: flex; justify-content: space-between; align-items: baseline;
+  padding: 6px 0; border-bottom: 1px solid var(--border);
+  font-size: calc(13px * var(--ui-scale));
+}
+.vsn-nak-lbl    { color: var(--fg3); flex-shrink: 0; margin-right: 12px; }
+.vsn-nak-val    { color: var(--fg); text-align: right; }
+.vsn-nak-mantra { margin-top: 4px; }
+/* Nakshatra header clickable cue */
+.vsn-nak-hdr    { cursor: pointer; }
+.vsn-nak-hdr:hover { filter: brightness(1.08); }
+
+/* ── Names inset inside Reader ── */
+#r-content { display: flex; flex-direction: column; flex: 1 1 auto; min-height: 0; }
+#vsn-names.r-names-inset { flex: 1 1 auto; min-height: 0; padding: 0; }
+
+/* Attractive నామాలు toggle button */
+.r-vsn-names-btn {
+  background: linear-gradient(135deg, #c03060 0%, #7c28b0 60%, #2878c8 100%);
+  color: #fff !important;
+  border: none;
+  border-radius: 20px;
+  padding: 4px 14px;
+  font-size: calc(12px * var(--ui-scale));
+  font-weight: 700;
+  letter-spacing: .3px;
+  box-shadow: 0 2px 8px rgba(120,40,176,.35);
+  cursor: pointer;
+  transition: filter .15s, transform .1s;
+}
+.r-vsn-names-btn:hover  { filter: brightness(1.12); transform: scale(1.04); }
+.r-vsn-names-btn:active { transform: scale(.97); }
+
+/* Back button — floats bottom-left over the names view */
+.r-names-back-btn {
+  position: fixed; bottom: 70px; left: 14px; z-index: 200;
+  background: var(--accent-bg); color: var(--accent);
+  border: 1px solid var(--accent); border-radius: 20px;
+  padding: 6px 14px; font-size: calc(12px * var(--ui-scale));
+  font-weight: 600; cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,.15);
+  transition: opacity .2s;
+}
+.r-names-back-btn:hover { filter: brightness(1.1); }
+
+/* SW update banner */
+#sw-update-banner {
+  position: fixed; bottom: 70px; left: 50%; transform: translateX(-50%);
+  z-index: 900; display: flex; align-items: center; gap: 10px;
+  background: var(--accent); color: #fff;
+  padding: 10px 16px; border-radius: 24px;
+  box-shadow: 0 4px 16px rgba(0,0,0,.3);
+  font-size: calc(13px * var(--ui-scale)); font-weight: 600;
+  white-space: nowrap;
+}
+#sw-update-banner button {
+  background: rgba(255,255,255,.25); color: #fff; border: none;
+  border-radius: 12px; padding: 3px 10px; cursor: pointer; font-weight: 600;
+}
+#sw-update-banner button:hover { background: rgba(255,255,255,.4); }

@@ -83,13 +83,15 @@ const Reader = (() => {
 
   async function loadVsnNameCountMap() {
     if (vsnNameCountMap) return vsnNameCountMap;
-    try {
-      const r = await fetch(C.VSN_NAMES);
-      const data = await r.json();
-      vsnNames = data.names || [];
-    } catch (e) { vsnNames = []; }
     vsnNameCountMap = new Map();
-    vsnNames.forEach(n => vsnNameCountMap.set(n.sh, (vsnNameCountMap.get(n.sh) || 0) + 1));
+    try {
+      const r = await fetch(C.VSN_TOKENS);
+      const data = await r.json();
+      (data.verses || []).forEach(v => {
+        const cnt = v.tokens.filter(t => t.type === 'name').length;
+        if (cnt) vsnNameCountMap.set(v.s, cnt);
+      });
+    } catch (e) {}
     return vsnNameCountMap;
   }
 
@@ -754,16 +756,17 @@ const Reader = (() => {
       });
       // Show VSN about panel
       hideBgAbout();
-      loadVsnMeta().then(meta => renderVsnAbout(meta, window._script || 'te'));
+      loadVsnMeta().then(meta => { if (activeText === 'vsn') renderVsnAbout(meta, window._script || 'te'); });
       return;
     }
 
     hideVsnAbout();
     // Show BG about panel
-    loadBgMeta().then(meta => renderBgAbout(meta, window._script || 'te'));
+    loadBgMeta().then(meta => { if (activeText === 'gita') renderBgAbout(meta, window._script || 'te'); });
 
     // Gita chapter grid
     const idx = await loadIndex();
+    if (activeText !== 'gita') return;  // guard: user may have switched while loading
     const isNoneActive = selectedChs.size === 0 && !keyVersesMode && !bookmarksMode;
 
     const allBtn = document.createElement('button');
@@ -961,9 +964,9 @@ const Reader = (() => {
       refEl.appendChild(nkBadge);
       fetch(C.NAKSHATRAS).then(r => r.json()).then(nks => {
         const nk = nks.find(n => n.num === nkNum);
-        const nkName = nk ? (script === 'ro' ? nk.name.iast : (nk.name.te || nk.name.iast)) : `Nakshatra ${nkNum}`;
+        const nkName = nk ? (nk.name.sa ? Transliterate.convert(nk.name.sa, 'sa', script) : nk.name.te) : `Nakshatra ${nkNum}`;
         const syllObj = nk && nk.sound_syllables ? nk.sound_syllables[`p${padNum}`] : null;
-        const syllable = syllObj ? (script === 'ro' ? syllObj.iast : (syllObj.te || syllObj.iast)) : '';
+        const syllable = syllObj ? (syllObj.sa ? Transliterate.convert(syllObj.sa, 'sa', script) : syllObj.te || '') : '';
         nkBadge.textContent = `★ ${nkName} · ${t('pada')} ${padNum}${syllable ? ` · ${syllable}` : ''}`;
         nkBadge.style.display = '';
         nkBadge.onclick = () => Avadhaanam.showNakshatraModal(nkNum, padNum);
@@ -1587,6 +1590,7 @@ const Reader = (() => {
           pickRandom();
         }
         const isVsn = activeText === 'vsn';
+        const namesBtn = $('r-vsn-names-btn'); if (namesBtn) namesBtn.style.display = isVsn ? '' : 'none';
         const pb = $('r-progress-badge'); if (pb) pb.hidden = isVsn;
         // Switch VOTD to match text mode
         const vc = $('r-votd-card');
@@ -1594,6 +1598,34 @@ const Reader = (() => {
         else { if (vc) vc.hidden = true; if (_votdSh) showVotdCard(_votdSh); else loadAndShowVotd(); }
       });
     }
+
+    // Names toggle button (visible only when VSN is selected)
+    const namesBtn = $('r-vsn-names-btn');
+    if (namesBtn) {
+      if (activeText === 'vsn') namesBtn.style.display = '';
+      namesBtn.addEventListener('click', () => {
+        VsnModule?.init();
+        $('r-content').style.display = 'none';
+        const nv = $('vsn-names');
+        if (nv) { nv.style.display = 'flex'; nv.style.flexDirection = 'column'; }
+      });
+    }
+
+    // Back button inside names view (injected after VsnModule renders)
+    document.addEventListener('vsn-rendered', () => {
+      const nv = $('vsn-names');
+      if (!nv || nv.querySelector('#r-names-back')) return;
+      const back = document.createElement('button');
+      back.id = 'r-names-back';
+      back.className = 'r-names-back-btn';
+      back.textContent = '← ' + t('help_back').replace('← ','');
+      back.addEventListener('click', () => {
+        nv.style.display = 'none';
+        $('r-content').style.display = '';
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+      nv.insertBefore(back, nv.firstChild);
+    }, { once: false });
 
     // Autoplay video when meta panel opens; pause when closed
     const metaDetails = $('vsn-meta-details');
