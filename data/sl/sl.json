@@ -1,0 +1,4239 @@
+{
+  "stotram": "soundarya-lahari",
+  "total": 100,
+  "sections": [
+    {
+      "id": "ananda",
+      "label_te": "ఆనందలహరి",
+      "label_sa": "ānanda laharī",
+      "range": [
+        1,
+        41
+      ]
+    },
+    {
+      "id": "soundarya",
+      "label_te": "సౌందర్యలహరి",
+      "label_sa": "saundarya laharī",
+      "range": [
+        42,
+        100
+      ]
+    }
+  ],
+  "meta": {
+    "title_sa": "సౌన్దర్యలహరీ",
+    "title_te": "సౌన్దర్యలహరీ",
+    "title_en": "Saundaryalaharī",
+    "author_sa": "ఆది శంకరాచార్య",
+    "author_en": "Ādi Śaṅkarācārya",
+    "chanda": "śikhariṇī",
+    "deity_te": "పార్వతి / శక్తి",
+    "deity_en": "Pārvatī / Śakti",
+    "total_verses": 100,
+    "description_te": "ఆది శంకరాచార్యులచే రచించబడిన 100 శ్లోకాలు. మొదటి 41 శ్లోకాలు (ఆనందలహరి) దేవి విశ్వ శక్తిని, మిగిలిన 59 శ్లోకాలు దేవి సౌందర్యాన్ని వర్ణిస్తాయి.",
+    "description_en": "100 Sanskrit verses by Ādi Śaṅkarācārya praising Goddess Pārvatī. The first 41 (Ānanda Laharī) describe her cosmic power; the remaining 59 (Saundarya Laharī) describe her beauty from head to toe."
+  },
+  "shlokas": [
+    {
+      "v": 1,
+      "section": "ananda",
+      "p1": {
+        "te": "శివః శక్త్యా యుక్తో యది భవతి శక్తః ప్రభవితుం",
+        "sa": "शिवः शक्त्या युक्तो यदि भवति शक्तः प्रभवितुं",
+        "ro": "śivaḥ śaktyā yuktō yadi bhavati śaktaḥ prabhavituṃ"
+      },
+      "p2": {
+        "te": "న చేదేవం దేవో న ఖలు కుశలః స్పన్దితుమపి",
+        "sa": "न चेदेवं देवो न खलु कुशलः स्पन्दितुमपि",
+        "ro": "na cēdēvaṃ dēvō na khalu kuśalaḥ spanditumapi"
+      },
+      "p3": {
+        "te": "అతస్త్వామారాధ్యాం హరిహరవిరిఞ్చాదిభిరపి",
+        "sa": "अतस्त्वामाराध्यां हरिहरविरिञ्चादिभिरपि",
+        "ro": "atastvāmārādhyāṃ hariharaviriñcādibhirapi"
+      },
+      "p4": {
+        "te": "ప్రణన్తుం స్తోతుం వా కథమకృతపుణ్యః ప్రభవతి",
+        "sa": "प्रणन्तुं स्तोतुं वा कथमकृतपुण्यः प्रभवति",
+        "ro": "praṇantuṃ stōtuṃ vā kathamakṛtapuṇyaḥ prabhavati"
+      },
+      "meaning": {
+        "te": {
+          "short": "శివుడు శక్తితో కలిసినప్పుడే సృష్టించగలడు; లేకుంటే చలనమే లేదు. దేవి పాదధూళికి నమస్కారం.",
+          "long": "శివుడు శక్తితో ఐక్యమైనప్పుడే సృష్టి, స్థితి, లయ చేయగల సామర్థ్యం కలిగి ఉంటాడు. ఆ శక్తి లేనిచో అతడు స్పందించజాలడు. హరి, హర, విరించి వంటి మహాదేవతలే ఆమె పాదపద్మాల ధూళిని వందనించగలిగినప్పుడు, సాధారణ జీవులమైన మనం ఆమెను ఎలా స్తుతించగలమో అని కవి వినయముతో ప్రశ్నించుకుంటున్నాడు."
+        },
+        "en": {
+          "short": "Shiva can act only when united with Shakti; without her he cannot stir. Salutation to Devi's feet.",
+          "long": "Shiva possesses the power of creation, preservation, and dissolution only when united with Shakti. Without her, he cannot even move. Since even Vishnu, Shiva, and Brahma are capable only of worshipping the dust of her lotus feet, the poet humbly wonders how an ordinary mortal can praise her."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 2,
+      "section": "ananda",
+      "p1": {
+        "te": "తనీయాంసం పాంసుం తవ చరణపఙ్కేరుహభవం",
+        "sa": "तनीयांसं पांसुं तव चरणपङ्केरुहभवं",
+        "ro": "tanīyāṃsaṃ pāṃsuṃ tava caraṇapaṅkēruhabhavaṃ"
+      },
+      "p2": {
+        "te": "విరిఞ్చిః సఞ్చిన్వన్విరచయతి లోకానవికలమ్",
+        "sa": "विरिञ्चिः सञ्चिन्वन्विरचयति लोकानविकलम्",
+        "ro": "viriñciḥ sañcinvanviracayati lōkānavikalam"
+      },
+      "p3": {
+        "te": "వహత్యేనం శౌరిః కథమపి సహస్రేణ శిరసాం",
+        "sa": "वहत्येनं शौरिः कथमपि सहस्रेण शिरसां",
+        "ro": "vahatyēnaṃ śauriḥ kathamapi sahasrēṇa śirasāṃ"
+      },
+      "p4": {
+        "te": "హరః సఙ్క్షుద్యైనం భజతి భసితోద్ధూలనవిధిమ్",
+        "sa": "हरः सङ्क्षुद्यैनं भजति भसितोद्धूलनविधिम्",
+        "ro": "haraḥ saṅkṣudyainaṃ bhajati bhasitōddhūlanavidhim"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి పాదధూళి బ్రహ్మకు సృష్టిశక్తి, విష్ణువుకు పోషణ శక్తి, శివుడికి సంహారశక్తి ఇస్తుంది.",
+          "long": "దేవి పాదపద్మముల ధూళి బ్రహ్మకు లోకాలను సృష్టించే శక్తిని, విష్ణువుకు పాలించే శక్తిని, శివుడికి సంహరించే శక్తిని ఇస్తుంది. ఇంద్రుడు ఆ ధూళిని తన కిరీటంపై ధరించాలని కోరుకుంటాడు. అలాంటి మహాశక్తిని స్తుతించే సామర్థ్యం నాకు ఏమిటని కవి భావిస్తున్నాడు."
+        },
+        "en": {
+          "short": "The dust of Devi's feet grants Brahma creative power, Vishnu sustaining power, Shiva dissolving power.",
+          "long": "The dust of Devi's lotus feet grants Brahma the ability to create universes, Vishnu the ability to sustain them, and Shiva the ability to destroy them. Even Indra desires to bear this dust on his crown. The poet wonders how he, a mere mortal, can fittingly praise such a supreme Goddess."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 3,
+      "section": "ananda",
+      "p1": {
+        "te": "అవిద్యానామన్తస్తిమిరమిహిరద్వీపనగరీ",
+        "sa": "अविद्यानामन्तस्तिमिरमिहिरद्वीपनगरी",
+        "ro": "avidyānāmantastimiramihiradvīpanagarī"
+      },
+      "p2": {
+        "te": "జడానాం చైతన్యస్తబకమకరన్దస్రుతిఝరీ",
+        "sa": "जडानां चैतन्यस्तबकमकरन्दस्रुतिझरी",
+        "ro": "jaḍānāṃ caitanyastabakamakarandasrutijharī"
+      },
+      "p3": {
+        "te": "దరిద్రాణాం చిన్తామణిగుణనికా జన్మజలధౌ",
+        "sa": "दरिद्राणां चिन्तामणिगुणनिका जन्मजलधौ",
+        "ro": "daridrāṇāṃ cintāmaṇiguṇanikā janmajaladhau"
+      },
+      "p4": {
+        "te": "నిమగ్నానాం దంష్ట్రా మురరిపువరాహస్య భవతి",
+        "sa": "निमग्नानां दंष्ट्रा मुररिपुवराहस्य भवति",
+        "ro": "nimagnānāṃ daṃṣṭrā muraripuvarāhasya bhavati"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి పాదధూళి ఆరాధన ద్వారా సాధకుడు అష్టమహాసిద్ధులను పొందగలడు.",
+          "long": "దేవి పాదకమలాల ధూళిని తలపై ధరించిన సాధకుడు అణిమ, మహిమ, గరిమ, లఘిమ, ప్రాప్తి, ప్రాకామ్య, ఈశిత్వ, వశిత్వ అనే అష్టమహాసిద్ధులను పొందుతాడు. ఆమె అనుగ్రహంతో ఈ ఐశ్వర్యాలు సిద్ధిస్తాయి."
+        },
+        "en": {
+          "short": "Worshipping Devi's feet bestows the eight great siddhis upon the devotee.",
+          "long": "One who bears the dust of Devi's lotus feet upon his head attains the eight great supernatural powers: aṇimā, mahimā, garimā, laghimā, prāpti, prākāmya, īśitva, and vaśitva. Through her grace these powers become real for the devoted sādhaka."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 4,
+      "section": "ananda",
+      "p1": {
+        "te": "త్వదన్యః పాణిభ్యామభయవరదో దైవతగణః",
+        "sa": "त्वदन्यः पाणिभ्यामभयवरदो दैवतगणः",
+        "ro": "tvadanyaḥ pāṇibhyāmabhayavaradō daivatagaṇaḥ"
+      },
+      "p2": {
+        "te": "త్వమేకా నైవాసి ప్రకటితవరాభీత్యభినయా",
+        "sa": "त्वमेका नैवासि प्रकटितवराभीत्यभिनया",
+        "ro": "tvamēkā naivāsi prakaṭitavarābhītyabhinayā"
+      },
+      "p3": {
+        "te": "భయాత్త్రాతుం దాతుం ఫలమపి చ వాఞ్ఛాసమధికం",
+        "sa": "भयात्त्रातुं दातुं फलमपि च वाञ्छासमधिकं",
+        "ro": "bhayāttrātuṃ dātuṃ phalamapi ca vāñchāsamadhikaṃ"
+      },
+      "p4": {
+        "te": "శరణ్యే లోకానాం తవ హి చరణావేవ నిపుణౌ",
+        "sa": "शरण्ये लोकानां तव हि चरणावेव निपुणौ",
+        "ro": "śaraṇyē lōkānāṃ tava hi caraṇāvēva nipuṇau"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి నుండి వెలువడే తేజోప్రకాశం విశ్వాన్ని వెలిగిస్తుంది; ఆమె తేజం సూర్యుని మించిపోతుంది.",
+          "long": "దేవి శరీరం నుండి వెలువడే దివ్యప్రకాశం విశ్వంలోని అన్ని జ్యోతులను మించిపోతుంది. ఆమె కాంతిచే సూర్యుని, చంద్రుని, అగ్నిని — అన్నింటినీ తేజోహీనం చేస్తుంది. ఆమె నిత్యప్రకాశం స్వయంభువు. జగత్తులన్నీ ఆమె కాంతిచే ప్రకాశిస్తున్నాయి."
+        },
+        "en": {
+          "short": "The radiance from Devi's form illuminates the universe, surpassing even the sun.",
+          "long": "The divine luminosity from Devi's form exceeds all lights in the universe. Her brilliance makes even the sun, moon, and fire appear dim by comparison. Her light is self-existent and eternal. All the worlds shine by her radiance alone — she is the primordial source of all luminosity in existence."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 5,
+      "section": "ananda",
+      "p1": {
+        "te": "హరిస్త్వామారాధ్య ప్రణతజనసౌభాగ్యజననీం",
+        "sa": "हरिस्त्वामाराध्य प्रणतजनसौभाग्यजननीं",
+        "ro": "haristvāmārādhya praṇatajanasaubhāgyajananīṃ"
+      },
+      "p2": {
+        "te": "పురా నారీ భూత్వా పురరిపుమపి క్షోభమనయత్",
+        "sa": "पुरा नारी भूत्वा पुररिपुमपि क्षोभमनयत्",
+        "ro": "purā nārī bhūtvā puraripumapi kṣōbhamanayat"
+      },
+      "p3": {
+        "te": "స్మరోపి త్వాం నత్వా రతినయనలేహ్యేన వపుషా",
+        "sa": "स्मरोपि त्वां नत्वा रतिनयनलेह्येन वपुषा",
+        "ro": "smarōpi tvāṃ natvā ratinayanalēhyēna vapuṣā"
+      },
+      "p4": {
+        "te": "మునీనామప్యన్తః ప్రభవతి హి మోహాయ మహతామ్",
+        "sa": "मुनीनामप्यन्तः प्रभवति हि मोहाय महताम्",
+        "ro": "munīnāmapyantaḥ prabhavati hi mōhāya mahatām"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి నాభికమలం నుండి బ్రహ్మ పుట్టాడు; ఆమె నేత్రాలనుండి సూర్యచంద్రులు జన్మించారు.",
+          "long": "దేవి నాభి కమలంలో బ్రహ్మ జన్మించాడు. ఆమె నేత్రాలు సూర్యచంద్రులకు ఆలయాలు. ఆమె వచనం వేదాలకు జన్మస్థానం. ఆమె శరీరం నుండే యావత్ చరాచర సృష్టి ఉద్భవించింది. అందుచే ఆమె జగన్మాత."
+        },
+        "en": {
+          "short": "Brahma was born from Devi's navel lotus; the sun and moon emerged from her eyes.",
+          "long": "Brahma was born in the lotus of Devi's navel. Her eyes are the abodes of the sun and moon. Her speech is the source of the Vedas. All creation, animate and inanimate, arose from her body. Therefore she is Jaghanmātā — the Universal Mother of all beings."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 6,
+      "section": "ananda",
+      "p1": {
+        "te": "ధనుః పౌష్పం మౌర్వీ మధుకరమయీ పఞ్చ విశిఖాః",
+        "sa": "धनुः पौष्पं मौर्वी मधुकरमयी पञ्च विशिखाः",
+        "ro": "dhanuḥ pauṣpaṃ maurvī madhukaramayī pañca viśikhāḥ"
+      },
+      "p2": {
+        "te": "వసన్తః సామన్తో మలయమరుదాయోధనరథః",
+        "sa": "वसन्तः सामन्तो मलयमरुदायोधनरथः",
+        "ro": "vasantaḥ sāmantō malayamarudāyōdhanarathaḥ"
+      },
+      "p3": {
+        "te": "తథాప్యేకః సర్వం హిమగిరిసుతే కామపి కృపామ్",
+        "sa": "तथाप्येकः सर्वं हिमगिरिसुते कामपि कृपाम्",
+        "ro": "tathāpyēkaḥ sarvaṃ himagirisutē kāmapi kṛpām"
+      },
+      "p4": {
+        "te": "అపాఙ్గాత్తే లబ్ధ్వా జగదిదమనఙ్గో విజయతే",
+        "sa": "अपाङ्गात्ते लब्ध्वा जगदिदमनङ्गो विजयते",
+        "ro": "apāṅgāttē labdhvā jagadidamanaṅgō vijayatē"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి సిద్ధుల కోసం అనేక రూపాలు ధరిస్తుంది; ముక్తి కోరేవారికి ముక్తిని ఇస్తుంది.",
+          "long": "దేవి తన భక్తులకు వారి కోరికలనుసరించి వేర్వేరు రూపాలలో దర్శనమిస్తుంది. సంపద కోరేవారికి లక్ష్మిగా, విద్య కోరేవారికి సరస్వతిగా, శక్తి కోరేవారికి దుర్గగా ప్రత్యక్షమవుతుంది. మోక్షం కోరేవారికి ఆమె స్వయంగా ముక్తిని ప్రసాదిస్తుంది."
+        },
+        "en": {
+          "short": "Devi assumes various forms to fulfill devotees' desires; she grants liberation to those who seek it.",
+          "long": "Devi appears in different forms according to each devotee's desire. To seekers of wealth, she manifests as Lakshmi; to seekers of knowledge, as Saraswati; to seekers of power, as Durga. To those who seek liberation, she herself bestows moksha. She is Bhaktavatsalā — she nurtures her devotees like a mother."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 7,
+      "section": "ananda",
+      "p1": {
+        "te": "క్వణత్కాఞ్చీదామా కరికలభకుమ్భస్తననతా",
+        "sa": "क्वणत्काञ्चीदामा करिकलभकुम्भस्तननता",
+        "ro": "kvaṇatkāñcīdāmā karikalabhakumbhastananatā"
+      },
+      "p2": {
+        "te": "పరిక్షీణా మధ్యే పరిణతశరచ్చన్ద్రవదనా",
+        "sa": "परिक्षीणा मध्ये परिणतशरच्चन्द्रवदना",
+        "ro": "parikṣīṇā madhyē pariṇataśaraccandravadanā"
+      },
+      "p3": {
+        "te": "ధనుర్బాణాన్పాశం సృణిమపి దధానా కరతలైః",
+        "sa": "धनुर्बाणान्पाशं सृणिमपि दधाना करतलैः",
+        "ro": "dhanurbāṇānpāśaṃ sṛṇimapi dadhānā karatalaiḥ"
+      },
+      "p4": {
+        "te": "పురస్తాదాస్తాం నః పురమథితురాహోపురుషికా",
+        "sa": "पुरस्तादास्तां नः पुरमथितुराहोपुरुषिका",
+        "ro": "purastādāstāṃ naḥ puramathiturāhōpuruṣikā"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి చతుర్భుజ రూపంలో పాశ, అంకుశ, ధనుర్బాణాలు ధరించి విశ్వాన్ని పాలిస్తుంది.",
+          "long": "దేవి నాలుగు చేతులలో పాశం (బంధనానికి), అంకుశం (నియంత్రణకు), ఇక్షుదండం (మనసుకు ప్రతీక), పుష్పబాణాలు ధరిస్తుంది. పాశం అహంకారాన్ని బంధిస్తుంది; అంకుశం చిత్తాన్ని నిగ్రహిస్తుంది; ఇక్షుదండం మాధుర్యం; పుష్పబాణాలు ప్రేమ వ్యాపింపజేస్తాయి."
+        },
+        "en": {
+          "short": "Devi holds pāśa, aṅkuśa, sugarcane bow, and flower arrows — governing the universe with grace.",
+          "long": "Devi holds in her four hands the noose (pāśa) for binding, the goad (aṅkuśa) for control, the sugarcane stalk representing the mind, and flower-arrows. The noose binds ego; the goad disciplines the mind; the sugarcane gives sweetness; the flower arrows spread love. These represent her four powers of grace over existence."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 8,
+      "section": "ananda",
+      "p1": {
+        "te": "సుధాసిన్ధోర్మధ్యే సురవిటపివాటీపరివృతే",
+        "sa": "सुधासिन्धोर्मध्ये सुरविटपिवाटीपरिवृते",
+        "ro": "sudhāsindhōrmadhyē suraviṭapivāṭīparivṛtē"
+      },
+      "p2": {
+        "te": "మణిద్వీపే నీపోపవనవతి చిన్తామణిగృహే",
+        "sa": "मणिद्वीपे नीपोपवनवति चिन्तामणिगृहे",
+        "ro": "maṇidvīpē nīpōpavanavati cintāmaṇigṛhē"
+      },
+      "p3": {
+        "te": "శివాకారే మఞ్చే పరమశివపర్యఙ్కనిలయాం",
+        "sa": "शिवाकारे मञ्चे परमशिवपर्यङ्कनिलयां",
+        "ro": "śivākārē mañcē paramaśivaparyaṅkanilayāṃ"
+      },
+      "p4": {
+        "te": "భజన్తి త్వాం ధన్యాః కతిచన చిదానన్దలహరీమ్",
+        "sa": "भजन्ति त्वां धन्याः कतिचन चिदानन्दलहरीम्",
+        "ro": "bhajanti tvāṃ dhanyāḥ katicana cidānandalaharīm"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి త్రిపురసుందరి — మూడు లోకాల సౌందర్యాన్ని ఒక్కచోట కలిగి ఉంది.",
+          "long": "దేవి భూలోక, అంతరిక్షలోక, స్వర్గలోకముల సౌందర్యాన్నంతటినీ తనలో ఐక్యం చేసుకున్న త్రిపురసుందరి. ఆమె మూడు లోకాలకు అధినాయిక. ఆమె సౌందర్యాన్ని చూచి ముగ్ధులు కాని వారే లేరు. తన అందంతో ఆమె దేవదానవమానవులందరినీ ముగ్ధులను చేస్తుంది."
+        },
+        "en": {
+          "short": "Devi is Tripura Sundari, uniting the beauty of all three worlds within herself.",
+          "long": "Devi is Tripura Sundari — she who unites within herself the beauty of the earth, mid-region, and heavens. She is the sovereign of all three worlds. Her beauty is impossible to behold without being captivated. With her matchless splendor she enchants gods, demons, and humans alike."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 9,
+      "section": "ananda",
+      "p1": {
+        "te": "మహీం మూలాధారే కమపి మణిపూరే హుతవహం",
+        "sa": "महीं मूलाधारे कमपि मणिपूरे हुतवहं",
+        "ro": "mahīṃ mūlādhārē kamapi maṇipūrē hutavahaṃ"
+      },
+      "p2": {
+        "te": "స్థితం స్వాధిష్ఠానే హృది మరుతమాకాశముపరి",
+        "sa": "स्थितं स्वाधिष्ठाने हृदि मरुतमाकाशमुपरि",
+        "ro": "sthitaṃ svādhiṣṭhānē hṛdi marutamākāśamupari"
+      },
+      "p3": {
+        "te": "మనోఽపి భ్రూమధ్యే సకలమపి భిత్త్వా కులపథం",
+        "sa": "मनोऽपि भ्रूमध्ये सकलमपि भित्त्वा कुलपथं",
+        "ro": "manō'pi bhrūmadhyē sakalamapi bhittvā kulapathaṃ"
+      },
+      "p4": {
+        "te": "సహస్రారే పద్మే సహ రహసి పత్యా విహరసే",
+        "sa": "सहस्रारे पद्मे सह रहसि पत्या विहरसे",
+        "ro": "sahasrārē padmē saha rahasi patyā viharasē"
+      },
+      "meaning": {
+        "te": {
+          "short": "జప, ధ్యాన, హోమ, పూజాదులు — అన్నీ దేవి సేవే; ఆమె అనుగ్రహం సహజసిద్ధం.",
+          "long": "జపం, ధ్యానం, హోమం, భోజనం, నిద్ర, గమనం, సంభాషణ — ఇవన్నీ దేవిసేవయే అని భావించే సాధకుడికి ఆమె అనుగ్రహం స్వయంగా లభిస్తుంది. సత్యమైన ప్రేమతో, చేసే ప్రతి పనిలో ఆమెను చూడడం అయితే ఆమె సర్వదా ప్రసన్నంగా ఉంటుంది."
+        },
+        "en": {
+          "short": "All acts — japa, meditation, homa, eating, sleeping — become Devi's worship; her grace flows naturally.",
+          "long": "For the devotee who sees Devi's service in every act — japa, meditation, homa, eating, sleeping, walking, speaking — her grace comes naturally. No special ritual is required; when each action is performed with genuine love as an offering to her, she is forever pleased and present in every breath."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 10,
+      "section": "ananda",
+      "p1": {
+        "te": "సుధాధారాసారైశ్చరణయుగలాన్తర్విగలితైః",
+        "sa": "सुधाधारासारैश्चरणयुगलान्तर्विगलितैः",
+        "ro": "sudhādhārāsāraiścaraṇayugalāntarvigalitaiḥ"
+      },
+      "p2": {
+        "te": "ప్రపఞ్చం సిఞ్చన్తీ పునరపి రసామ్నాయమహసః",
+        "sa": "प्रपञ्चं सिञ्चन्ती पुनरपि रसाम्नायमहसः",
+        "ro": "prapañcaṃ siñcantī punarapi rasāmnāyamahasaḥ"
+      },
+      "p3": {
+        "te": "అవాప్య స్వాం భూమిం భుజగనిభమధ్యుష్టవలయం",
+        "sa": "अवाप्य स्वां भूमिं भुजगनिभमध्युष्टवलयं",
+        "ro": "avāpya svāṃ bhūmiṃ bhujaganibhamadhyuṣṭavalayaṃ"
+      },
+      "p4": {
+        "te": "స్వమాత్మానం కృత్వా స్వపిషి కులకుణ్డే కుహరిణి",
+        "sa": "स्वमात्मानं कृत्वा स्वपिषि कुलकुण्डे कुहरिणि",
+        "ro": "svamātmānaṃ kṛtvā svapiṣi kulakuṇḍē kuhariṇi"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి చరణాలు మోక్షమార్గం; ఆమె స్మరణ మాత్రమే సంసారసముద్రాన్ని దాటించగలదు.",
+          "long": "జన్మ జన్మల సంసార సమద్రంలో మునిగిన జీవులకు దేవి చరణారవిందాలే ఏకైక ఆశ్రయం. ఆమె నామస్మరణ, ధ్యానం చేసే వారికి ఈ భవసాగరం సులువుగా దాటగలదు. ఆమె పాదపద్మాలు పట్టుకున్న వారికి సంసారభయం తొలగిపోతుంది."
+        },
+        "en": {
+          "short": "Devi's feet are the path to liberation; mere remembrance of her carries one across the ocean of existence.",
+          "long": "For souls drowning in the ocean of transmigration across many births, Devi's lotus feet are the sole refuge. Those who remember and meditate on her can easily cross this ocean of samsāra. Those who hold to her lotus feet are freed from the fear of rebirth — surrender at her feet is the ultimate liberation."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 11,
+      "section": "ananda",
+      "p1": {
+        "te": "చతుర్భిః శ్రీకణ్ఠైః శివయువతిభిః పఞ్చభిరపి",
+        "sa": "चतुर्भिः श्रीकण्ठैः शिवयुवतिभिः पञ्चभिरपि",
+        "ro": "caturbhiḥ śrīkaṇṭhaiḥ śivayuvatibhiḥ pañcabhirapi"
+      },
+      "p2": {
+        "te": "ప్రభిన్నాభిః శమ్భోర్నవభిరపి మూలప్రకృతిభిః",
+        "sa": "प्रभिन्नाभिः शम्भोर्नवभिरपि मूलप्रकृतिभिः",
+        "ro": "prabhinnābhiḥ śambhōrnavabhirapi mūlaprakṛtibhiḥ"
+      },
+      "p3": {
+        "te": "చతుశ్చత్వారింశద్వసుదలకలాశ్రత్రివలయ-",
+        "sa": "चतुश्चत्वारिंशद्वसुदलकलाश्रत्रिवलय-",
+        "ro": "catuścatvāriṃśadvasudalakalāśratrivalaya-"
+      },
+      "p4": {
+        "te": "త్రిరేఖాభిః సార్ధం తవ శరణకోణాః పరిణతాః",
+        "sa": "त्रिरेखाभिः सार्धं तव शरणकोणाः परिणताः",
+        "ro": "trirēkhābhiḥ sārdhaṃ tava śaraṇakōṇāḥ pariṇatāḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "చతుర్దశ విద్యలు, కళలు అన్నీ దేవి దేహం నుండి ఉద్భవించాయి.",
+          "long": "చతుర్దశ విద్యలు (చతుర్వేద, షడంగ, మీమాంస, న్యాయ, పురాణ, ధర్మశాస్త్ర), అరవై నాలుగు కళలు — ఇవన్నీ దేవి శరీరం నుండే ఉద్భవించాయి. ఆమె శబ్దబ్రహ్మ స్వరూపిణి. ఆమె అనుగ్రహం లేనిచో ఏ విద్యాప్రాప్తియూ సాధ్యం కాదు."
+        },
+        "en": {
+          "short": "All fourteen branches of learning and sixty-four arts emerged from Devi's form.",
+          "long": "The fourteen branches of learning (four Vedas, six Vedāṅgas, Mīmāṃsā, Nyāya, Purāṇa, Dharmaśāstra) and the sixty-four arts all originated from Devi's form. She is Śabdabrahman embodied. Without her grace no learning can be attained — the student must first invoke Devi."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 12,
+      "section": "ananda",
+      "p1": {
+        "te": "త్వదీయం సౌన్దర్యం తుహినగిరికన్యే తులయితుం",
+        "sa": "त्वदीयं सौन्दर्यं तुहिनगिरिकन्ये तुलयितुं",
+        "ro": "tvadīyaṃ saundaryaṃ tuhinagirikanyē tulayituṃ"
+      },
+      "p2": {
+        "te": "కవీన్ద్రాః కల్పన్తే కథమపి విరిఞ్చిప్రభృతయః",
+        "sa": "कवीन्द्राः कल्पन्ते कथमपि विरिञ्चिप्रभृतयः",
+        "ro": "kavīndrāḥ kalpantē kathamapi viriñciprabhṛtayaḥ"
+      },
+      "p3": {
+        "te": "యదాలోకౌత్సుక్యాదమరలలనా యాన్తి మనసా",
+        "sa": "यदालोकौत्सुक्यादमरललना यान्ति मनसा",
+        "ro": "yadālōkautsukyādamaralalanā yānti manasā"
+      },
+      "p4": {
+        "te": "తపోభిర్దుష్ప్రాపామపి గిరిశసాయుజ్యపదవీమ్",
+        "sa": "तपोभिर्दुष्प्रापामपि गिरिशसायुज्यपदवीम्",
+        "ro": "tapōbhirduṣprāpāmapi giriśasāyujyapadavīm"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి నేత్రాలు త్రిభువనాలను సృష్టించాయి; ఆమె చూపు మాత్రమే జగత్తుకు ప్రాణం.",
+          "long": "దేవి నేత్రద్వయం నుండే సమస్త సృష్టి ఉద్భవించింది. ఆమె చూపులు మోహినీ శక్తులు. ఆమె కటాక్షం పొందిన వారు ధన్యులు — ఆ ఒక్క చూపులో ఆనందానికి, ముక్తికి దారి ఉంది. ఆమె నేత్రాలు కమలపత్రాల వలె విశాలాలు."
+        },
+        "en": {
+          "short": "Devi's eyes created the three worlds; her glance alone gives life to all existence.",
+          "long": "All creation arose from Devi's two eyes. Her glances carry the power of fascination and liberation alike. Those who receive her sidelong glance are truly blessed and freed from all suffering. Her eyes are as wide as lotus petals and hold compassion as their nature."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 13,
+      "section": "ananda",
+      "p1": {
+        "te": "నరం వర్షీయాంసం నయనవిరసం నర్మసు జడం",
+        "sa": "नरं वर्षीयांसं नयनविरसं नर्मसु जडं",
+        "ro": "naraṃ varṣīyāṃsaṃ nayanavirasaṃ narmasu jaḍaṃ"
+      },
+      "p2": {
+        "te": "తవాపాఙ్గాలోకే పతితమనుధావన్తి శతశః",
+        "sa": "तवापाङ्गालोके पतितमनुधावन्ति शतशः",
+        "ro": "tavāpāṅgālōkē patitamanudhāvanti śataśaḥ"
+      },
+      "p3": {
+        "te": "గలద్వేణీబన్ధాః కుచకలశవిస్రస్తసిచయాః",
+        "sa": "गलद्वेणीबन्धाः कुचकलशविस्रस्तसिचयाः",
+        "ro": "galadvēṇībandhāḥ kucakalaśavisrastasicayāḥ"
+      },
+      "p4": {
+        "te": "హఠాత్త్రుట్యత్కాఞ్చ్యో విగలితదుకూలా యువతయః",
+        "sa": "हठात्त्रुट्यत्काञ्च्यो विगलितदुकूला युवतयः",
+        "ro": "haṭhāttruṭyatkāñcyō vigalitadukūlā yuvatayaḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి శ్రీచక్రంలో నివసిస్తుంది; శ్రీచక్రమే ఆమె విశ్వరూపానికి గణిత ప్రతిరూపం.",
+          "long": "దేవి శ్రీచక్రం (మేరుప్రస్తారం)లో నివసిస్తుంది. తొమ్మిది చక్రాలతో నిర్మితమైన ఈ యంత్రం ఆమె విశ్వరూపానికి రేఖాగణిత ప్రతిరూపం. బిందువు పరమశివుడు; చుట్టూ ఉన్న త్రికోణాలు శక్తి. వీటి సంయోగమే సృష్టికి మూలం."
+        },
+        "en": {
+          "short": "Devi dwells in the Śrī Chakra — the geometric embodiment of her cosmic form.",
+          "long": "Devi resides in the Śrī Chakra (Meru-prastāra), a yantra of nine interlocking circuits that is the visual representation of her cosmic form. The central bindu is Paramashiva; the surrounding triangles are Shakti. Their union is the source of all creation. This yantra represents the highest form of tantric worship."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 14,
+      "section": "ananda",
+      "p1": {
+        "te": "క్షితౌ షట్పఞ్చాశద్ద్విసమధికపఞ్చాశదుదకే",
+        "sa": "क्षितौ षट्पञ्चाशद्द्विसमधिकपञ्चाशदुदके",
+        "ro": "kṣitau ṣaṭpañcāśaddvisamadhikapañcāśadudakē"
+      },
+      "p2": {
+        "te": "హుతాశే ద్వాషష్టిశ్చతురధికపఞ్చాశదనిలే",
+        "sa": "हुताशे द्वाषष्टिश्चतुरधिकपञ्चाशदनिले",
+        "ro": "hutāśē dvāṣaṣṭiścaturadhikapañcāśadanilē"
+      },
+      "p3": {
+        "te": "దివి ద్విఃషట్త్రింశన్మనసి చ చతుఃషష్టిరితి యే",
+        "sa": "दिवि द्विःषट्त्रिंशन्मनसि च चतुःषष्टिरिति ये",
+        "ro": "divi dviḥṣaṭtriṃśanmanasi ca catuḥṣaṣṭiriti yē"
+      },
+      "p4": {
+        "te": "మయూఖాస్తేషామప్యుపరి తవ పాదామ్బుజయుగమ్",
+        "sa": "मयूखास्तेषामप्युपरि तव पादाम्बुजयुगम्",
+        "ro": "mayūkhāstēṣāmapyupari tava pādāmbujayugam"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి సవిత్రీ స్వరూపిణి — సూర్యుని మించిన తేజంతో ప్రకాశిస్తుంది.",
+          "long": "దేవి సవిత్రి (సూర్యదేవత)గా సమస్త విశ్వాన్ని వెలిగిస్తుంది. ఆమె తేజస్సు సూర్యుని కంటే అనంతరెట్లు అధికం. ఆమె కిరణాలు అజ్ఞానాంధకారాన్ని పారద్రోలుతాయి. ఆమె ఆరాధన దివ్యజ్ఞానాన్ని, ఆరోగ్యాన్ని, సంపదను ఇస్తుంది."
+        },
+        "en": {
+          "short": "Devi is Sāvitrī — she shines with a radiance that surpasses the sun.",
+          "long": "Devi, as Sāvitrī, illuminates the entire universe with her direct luminosity infinitely greater than the sun's. Her rays dispel the darkness of ignorance. Worship of her bestows divine knowledge, health, and prosperity. She is the primordial light behind all manifest luminaries."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 15,
+      "section": "ananda",
+      "p1": {
+        "te": "శరజ్జ్యోత్స్నాశుద్ధాం శశియుతజటాజూటమకుటాం",
+        "sa": "शरज्ज्योत्स्नाशुद्धां शशियुतजटाजूटमकुटां",
+        "ro": "śarajjyōtsnāśuddhāṃ śaśiyutajaṭājūṭamakuṭāṃ"
+      },
+      "p2": {
+        "te": "వరత్రాసత్రాణస్ఫటికఘటికాపుస్తకకరామ్",
+        "sa": "वरत्रासत्राणस्फटिकघटिकापुस्तककराम्",
+        "ro": "varatrāsatrāṇasphaṭikaghaṭikāpustakakarām"
+      },
+      "p3": {
+        "te": "సకృన్న త్వా నత్వా కథమివ సతాం సన్నిదధతే",
+        "sa": "सकृन्न त्वा नत्वा कथमिव सतां सन्निदधते",
+        "ro": "sakṛnna tvā natvā kathamiva satāṃ sannidadhatē"
+      },
+      "p4": {
+        "te": "మధుక్షీరద్రాక్షామధురిమధురీణాః ఫణితయః",
+        "sa": "मधुक्षीरद्राक्षामधुरिमधुरीणाः फणितयः",
+        "ro": "madhukṣīradrākṣāmadhurimadhurīṇāḥ phaṇitayaḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి గాయత్రీ స్వరూపిణి — వేదమంత్రాల మూలప్రభవం ఆమె.",
+          "long": "దేవే గాయత్రీ. గాయత్రీ మంత్రం ఆమె సంక్షిప్తరూపం. వేదమంత్రాలన్నీ ఆమె శ్వాస. వేద మాత, జగన్మాత ఒక్కటే. ఆమె ఉపాసించిన వారికి వేదవిద్య సహజంగా ప్రాప్తిస్తుంది. గాయత్రీ ధ్యానం ద్వారా ఆత్మ విశుద్ధి కలుగుతుంది."
+        },
+        "en": {
+          "short": "Devi is Gāyatrī — the primordial source from which all Vedic mantras arose.",
+          "long": "Devi is Gāyatrī herself. The Gāyatrī mantra is her concise form; all Vedic mantras are her breath. Vedamātā and Jaghanmātā are one. Those who worship her gain Vedic knowledge naturally. The syllable Om (praṇava) is her name. Meditation on Gāyatrī purifies the soul."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 16,
+      "section": "ananda",
+      "p1": {
+        "te": "కవీన్ద్రాణాం చేతఃకమలవనబాలాతపరుచిం",
+        "sa": "कवीन्द्राणां चेतःकमलवनबालातपरुचिं",
+        "ro": "kavīndrāṇāṃ cētaḥkamalavanabālātaparuciṃ"
+      },
+      "p2": {
+        "te": "భజన్తే యే సన్తః కతిచిదరుణామేవ భవతీమ్",
+        "sa": "भजन्ते ये सन्तः कतिचिदरुणामेव भवतीम्",
+        "ro": "bhajantē yē santaḥ katicidaruṇāmēva bhavatīm"
+      },
+      "p3": {
+        "te": "విరిఞ్చిప్రేయస్యాస్తరుణతరశృఙ్గారలహరీ-",
+        "sa": "विरिञ्चिप्रेयस्यास्तरुणतरशृङ्गारलहरी-",
+        "ro": "viriñciprēyasyāstaruṇataraśṛṅgāralaharī-"
+      },
+      "p4": {
+        "te": "గభీరాభిర్వాగ్భిర్విదధతి సతాం రఞ్జనమమీ",
+        "sa": "गभीराभिर्वाग्भिर्विदधति सतां रञ्जनममी",
+        "ro": "gabhīrābhirvāgbhirvidadhati satāṃ rañjanamamī"
+      },
+      "meaning": {
+        "te": {
+          "short": "కడుపులో బిడ్డనూ, పుట్టినతర్వాతా — సర్వావస్థలలో దేవి తల్లే.",
+          "long": "జీవుడు గర్భంలో ఉన్నప్పుడు, జన్మించిన తర్వాత, బాల్యంలో, యౌవనంలో, వృద్ధాప్యంలో, మరణకాలంలో — అన్ని అవస్థలలోనూ దేవి తల్లిగా రక్షిస్తుంది. ఆమె ఒక్కసారి ప్రేమించిన బిడ్డను ఎన్నడూ విడువదు. దేవి జగదంబ."
+        },
+        "en": {
+          "short": "In the womb and after birth — in every state of life, Devi is the eternal mother.",
+          "long": "Whether in the womb, after birth, in childhood, youth, old age, or at death — in all states Devi protects as a mother. Once she loves a child she never abandons them. This is the nature of a mother. Devi is Jaghadambā — the universal mother who never forsakes her children."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 17,
+      "section": "ananda",
+      "p1": {
+        "te": "సవిత్రీభిర్వాచాం శశిమణిశిలాభఙ్గరుచిభిః",
+        "sa": "सवित्रीभिर्वाचां शशिमणिशिलाभङ्गरुचिभिः",
+        "ro": "savitrībhirvācāṃ śaśimaṇiśilābhaṅgarucibhiḥ"
+      },
+      "p2": {
+        "te": "వశిన్యాద్యాభిస్త్వాం సహ జనని సఞ్చిన్తయతి యః",
+        "sa": "वशिन्याद्याभिस्त्वां सह जननि सञ्चिन्तयति यः",
+        "ro": "vaśinyādyābhistvāṃ saha janani sañcintayati yaḥ"
+      },
+      "p3": {
+        "te": "స కర్తా కావ్యానాం భవతి మహతాం భఙ్గిరుచిభిః",
+        "sa": "स कर्ता काव्यानां भवति महतां भङ्गिरुचिभिः",
+        "ro": "sa kartā kāvyānāṃ bhavati mahatāṃ bhaṅgirucibhiḥ"
+      },
+      "p4": {
+        "te": "వచోభిర్వాగ్దేవీవదనకమలామోదమధురైః",
+        "sa": "वचोभिर्वाग्देवीवदनकमलामोदमधुरैः",
+        "ro": "vacōbhirvāgdēvīvadanakamalāmōdamadhuraiḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి కుండలినీ శక్తిగా మేరుదండంలో నివసిస్తూ ఊర్ధ్వగతి చేస్తుంది.",
+          "long": "కుండలినీ శక్తి దేవి యొక్క సూక్ష్మ శరీర రూపం. ఈ శక్తి మూలాధారంలో నిద్రపోయి ఉంటుంది. యోగాభ్యాసంతో మేల్కొల్పబడి, శుషుమ్న నాడి ద్వారా పైకి ప్రయాణిస్తూ ఆరు చక్రాలను దాటి సహస్రారంలో పరమశివునితో కలుస్తుంది. ఈ మిలనమే సమాధి."
+        },
+        "en": {
+          "short": "Devi resides as Kuṇḍalinī in the spinal channel, rising upward through the chakras.",
+          "long": "Kuṇḍalinī Shakti is the subtle-body form of Devi. This energy lies dormant at the mūlādhāra. Awakened through yogic practice, she travels upward through the suṣumnā nāḍī, piercing the six chakras, and merges with Paramashiva at the sahasrāra. This union constitutes samādhi and liberation."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 18,
+      "section": "ananda",
+      "p1": {
+        "te": "తనుచ్ఛాయాభిస్తే తరుణతరణిశ్రీసరణిభిః",
+        "sa": "तनुच्छायाभिस्ते तरुणतरणिश्रीसरणिभिः",
+        "ro": "tanucchāyābhistē taruṇataraṇiśrīsaraṇibhiḥ"
+      },
+      "p2": {
+        "te": "దివం సర్వాముర్వీమరుణిమని మగ్నాం స్మరతి యః",
+        "sa": "दिवं सर्वामुर्वीमरुणिमनि मग्नां स्मरति यः",
+        "ro": "divaṃ sarvāmurvīmaruṇimani magnāṃ smarati yaḥ"
+      },
+      "p3": {
+        "te": "భవన్త్యస్య త్రస్యద్వనహరిణశాలీననయనాః",
+        "sa": "भवन्त्यस्य त्रस्यद्वनहरिणशालीननयनाः",
+        "ro": "bhavantyasya trasyadvanahariṇaśālīnanayanāḥ"
+      },
+      "p4": {
+        "te": "సహోర్వశ్యా వశ్యాః కతి కతి న గీర్వాణగణికాః",
+        "sa": "सहोर्वश्या वश्याः कति कति न गीर्वाणगणिकाः",
+        "ro": "sahōrvaśyā vaśyāḥ kati kati na gīrvāṇagaṇikāḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "మూలాధారం నుండి సహస్రారం వరకు దేవి షట్చక్రాలలో నివసిస్తుంది.",
+          "long": "మూలాధారం (భూమి), స్వాధిష్ఠానం (జలం), మణిపూరం (అగ్ని), అనాహతం (వాయువు), విశుద్ధి (ఆకాశం), ఆజ్ఞ (మనసు) — ఈ ఆరు చక్రాలలో దేవి శక్తి నివసిస్తుంది. ఒక్కొక్క చక్రం ఒక్కొక్క తత్త్వం, దేవత, బీజాక్షరంతో అనుసంధానమైవుంది."
+        },
+        "en": {
+          "short": "Devi dwells in the six chakras from mūlādhāra to sahasrāra.",
+          "long": "Mūlādhāra (earth), Svādhiṣṭhāna (water), Maṇipūra (fire), Anāhata (air), Viśuddhi (space), Ājñā (mind) — Devi's Shakti resides in each of these six chakras. Each chakra is associated with a particular element, deity, and seed syllable. This is the great secret of yoga-śāstra — the entire cosmos encoded within the human body."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 19,
+      "section": "ananda",
+      "p1": {
+        "te": "ముఖం బిన్దుం కృత్వా కుచయుగమధస్తస్య తదధః",
+        "sa": "मुखं बिन्दुं कृत्वा कुचयुगमधस्तस्य तदधः",
+        "ro": "mukhaṃ binduṃ kṛtvā kucayugamadhastasya tadadhaḥ"
+      },
+      "p2": {
+        "te": "హరార్ధం ధ్యాయేద్యో హరమహిషి తే మన్మథకలామ్",
+        "sa": "हरार्धं ध्यायेद्यो हरमहिषि ते मन्मथकलाम्",
+        "ro": "harārdhaṃ dhyāyēdyō haramahiṣi tē manmathakalām"
+      },
+      "p3": {
+        "te": "స సద్యః సఙ్క్షోభం నయతి వనితా ఇత్యతిలఘు",
+        "sa": "स सद्यः सङ्क्षोभं नयति वनिता इत्यतिलघु",
+        "ro": "sa sadyaḥ saṅkṣōbhaṃ nayati vanitā ityatilaghu"
+      },
+      "p4": {
+        "te": "త్రిలోకీమప్యాశు భ్రమయతి రవీన్దుస్తనయుగామ్",
+        "sa": "त्रिलोकीमप्याशु भ्रमयति रवीन्दुस्तनयुगाम्",
+        "ro": "trilōkīmapyāśu bhramayati ravīndustanayugām"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి పంచభూతాలకు అతీతమైన చైతన్యశక్తి; ఆమె ప్రకృతికి మూలం.",
+          "long": "దేవి పంచభూతాలకు (భూమి, జలం, అగ్ని, వాయువు, ఆకాశం) అతీతమైన చైతన్యశక్తి. ఈ భూతాలన్నీ ఆమె నుండే ఉద్భవించాయి. ప్రకృతి ఆమె శరీరం; పురుషుడు ఆమె ఆత్మ. సాంఖ్యసిద్ధాంతపు ప్రకృతి-పురుష వివేచన ఇక్కడ తాంత్రిక పరిభాషలో వ్యక్తమవుతుంది."
+        },
+        "en": {
+          "short": "Devi is the consciousness beyond the five elements — the source of all nature.",
+          "long": "Devi is the consciousness-power beyond the five elements (earth, water, fire, air, space). All these elements arose from her. Nature is her body; Purusha is her soul. The Sāṅkhya philosophy's Prakṛti-Puruṣa discrimination finds its tantric expression here — Devi is both the foundation and the animator of all manifest existence."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 20,
+      "section": "ananda",
+      "p1": {
+        "te": "కిరన్తీమఙ్గేభ్యః కిరణనికురుమ్బామృతరసం",
+        "sa": "किरन्तीमङ्गेभ्यः किरणनिकुरुम्बामृतरसं",
+        "ro": "kirantīmaṅgēbhyaḥ kiraṇanikurumbāmṛtarasaṃ"
+      },
+      "p2": {
+        "te": "హృది త్వామాధత్తే హిమకరశిలామూర్తిమివ యః",
+        "sa": "हृदि त्वामाधत्ते हिमकरशिलामूर्तिमिव यः",
+        "ro": "hṛdi tvāmādhattē himakaraśilāmūrtimiva yaḥ"
+      },
+      "p3": {
+        "te": "స సర్పాణాం దర్పం శమయతి శకున్తాధిప ఇవ",
+        "sa": "स सर्पाणां दर्पं शमयति शकुन्ताधिप इव",
+        "ro": "sa sarpāṇāṃ darpaṃ śamayati śakuntādhipa iva"
+      },
+      "p4": {
+        "te": "జ్వరప్లుష్టాన్దృష్ట్యా సుఖయతి సుధాధారసిరయా",
+        "sa": "ज्वरप्लुष्टान्दृष्ट्या सुखयति सुधाधारसिरया",
+        "ro": "jvarapluṣṭāndṛṣṭyā sukhayati sudhādhārasirayā"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి వాగ్దేవత — ఆమె జిహ్వాగ్రం నుండి వేదవాక్కులు ప్రవహిస్తాయి.",
+          "long": "దేవి వాక్శక్తి స్వరూపిణి. ఆమె నాలుకపై సరస్వతి నివసిస్తుంది. ఆమె వచనం అమృతం — వినేవారికి ఆనందాన్ని, జ్ఞానాన్ని ఇస్తుంది. కవులకు ప్రేరణ ఆమె అనుగ్రహమే. ఆమె ఆశీర్వాదం పొందిన వారు అలంకారపూర్ణమైన భాషలో భావాన్ని వ్యక్తంచేయగలరు."
+        },
+        "en": {
+          "short": "Devi is the goddess of speech — from the tip of her tongue flow the words of the Vedas.",
+          "long": "Devi is the embodiment of Vākśakti. On her tongue dwells Saraswati. Her words are nectar — they bring joy and knowledge to those who hear them. Poets receive their inspiration solely through her grace. Those blessed by her can express the deepest truths in beautiful, ornate language."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 21,
+      "section": "ananda",
+      "p1": {
+        "te": "తటిల్లేఖాతన్వీం తపనశశివైశ్వానరమయీం",
+        "sa": "तटिल्लेखातन्वीं तपनशशिवैश्वानरमयीं",
+        "ro": "taṭillēkhātanvīṃ tapanaśaśivaiśvānaramayīṃ"
+      },
+      "p2": {
+        "te": "నిషణ్ణాం షణ్ణామప్యుపరి కమలానాం తవ కలామ్",
+        "sa": "निषण्णां षण्णामप्युपरि कमलानां तव कलाम्",
+        "ro": "niṣaṇṇāṃ ṣaṇṇāmapyupari kamalānāṃ tava kalām"
+      },
+      "p3": {
+        "te": "మహాపద్మాటవ్యాం మృదితమలమాయేన మనసా",
+        "sa": "महापद्माटव्यां मृदितमलमायेन मनसा",
+        "ro": "mahāpadmāṭavyāṃ mṛditamalamāyēna manasā"
+      },
+      "p4": {
+        "te": "మహాన్తః పశ్యన్తో దధతి పరమాహ్లాదలహరీమ్",
+        "sa": "महान्तः पश्यन्तो दधति परमाह्लादलहरीम्",
+        "ro": "mahāntaḥ paśyantō dadhati paramāhlādalaharīm"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి శ్రీవిద్యలో పంచదశి, షోడశి మంత్రాలుగా ఉపాసింపబడుతుంది.",
+          "long": "శ్రీవిద్యా సాధనలో దేవిని పంచదశి (పదిహేను అక్షరాల మంత్రం) మరియు షోడశి (పదహారు అక్షరాల మంత్రం)గా ఉపాసిస్తారు. ఈ మంత్రాలు ఆమె నాడులలో, చక్రాలలో నివసిస్తాయి. శ్రీవిద్యా దీక్ష పొందిన సాధకుడికి ఈ మంత్రాల అర్థం ఆంతరికంగా స్పష్టమవుతుంది."
+        },
+        "en": {
+          "short": "Devi is worshipped in Śrīvidyā as the Pañcadaśī and Ṣoḍaśī mantras.",
+          "long": "In Śrīvidyā sādhana, Devi is worshipped through the Pañcadaśī (fifteen-syllable) and Ṣoḍaśī (sixteen-syllable) mantras. These mantras dwell within her nāḍīs and chakras. The initiated sādhaka realizes the inner meaning of these mantras through direct experience — they represent the complete encoding of cosmic reality in sacred sound."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 22,
+      "section": "ananda",
+      "p1": {
+        "te": "భవాని త్వం దాసే మయి వితర దృష్టిం సకరుణాం",
+        "sa": "भवानि त्वं दासे मयि वितर दृष्टिं सकरुणां",
+        "ro": "bhavāni tvaṃ dāsē mayi vitara dṛṣṭiṃ sakaruṇāṃ"
+      },
+      "p2": {
+        "te": "ఇతి స్తోతుం వాఞ్ఛన్కథయతి భవాని త్వమితి యః",
+        "sa": "इति स्तोतुं वाञ्छन्कथयति भवानि त्वमिति यः",
+        "ro": "iti stōtuṃ vāñchankathayati bhavāni tvamiti yaḥ"
+      },
+      "p3": {
+        "te": "తదైవ త్వం తస్మై దిశసి నిజసాయుజ్యపదవీం",
+        "sa": "तदैव त्वं तस्मै दिशसि निजसायुज्यपदवीं",
+        "ro": "tadaiva tvaṃ tasmai diśasi nijasāyujyapadavīṃ"
+      },
+      "p4": {
+        "te": "ముకున్దబ్రహ్మేన్ద్రస్ఫుటమకుటనీరాజితపదామ్",
+        "sa": "मुकुन्दब्रह्मेन्द्रस्फुटमकुटनीराजितपदाम्",
+        "ro": "mukundabrahmēndrasphuṭamakuṭanīrājitapadām"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి ప్రేమ భక్తులను బంధించే పాశం; ఆ బంధమే ముక్తి.",
+          "long": "దేవి ప్రేమ ఒక అద్భుతమైన పాశం — ఇది భక్తులను బంధిస్తుంది, కానీ ఆ బంధమే విముక్తి. లౌకిక బంధాలు జీవిని చిత్తప్రకలనంలో ముంచుతాయి; కానీ దేవిప్రేమ బంధం చిత్తాన్ని స్థిరంచేసి ముక్తికి తీసుకుపోతుంది."
+        },
+        "en": {
+          "short": "Devi's love is a noose that binds devotees, yet that very bondage is liberation.",
+          "long": "Devi's love is a wondrous noose — it binds devotees, yet that very bondage is liberation. Worldly bonds sink the soul into turbulence; but the bond of Devi's love stills the mind and leads to freedom. This is the supreme secret of the path of bhakti — the highest bondage and the highest freedom are one in her love."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 23,
+      "section": "ananda",
+      "p1": {
+        "te": "త్వయా హృత్వా వామం వపురపరితృప్తేన మనసా",
+        "sa": "त्वया हृत्वा वामं वपुरपरितृप्तेन मनसा",
+        "ro": "tvayā hṛtvā vāmaṃ vapuraparitṛptēna manasā"
+      },
+      "p2": {
+        "te": "శరీరార్ధం శమ్భోరపరమపి శఙ్కే హృతమభూత్",
+        "sa": "शरीरार्धं शम्भोरपरमपि शङ्के हृतमभूत्",
+        "ro": "śarīrārdhaṃ śambhōraparamapi śaṅkē hṛtamabhūt"
+      },
+      "p3": {
+        "te": "యదేతత్త్వద్రూపం సకలమరుణాభం త్రినయనం",
+        "sa": "यदेतत्त्वद्रूपं सकलमरुणाभं त्रिनयनं",
+        "ro": "yadētattvadrūpaṃ sakalamaruṇābhaṃ trinayanaṃ"
+      },
+      "p4": {
+        "te": "కుచాభ్యామానమ్రం కుటిలశశిచూడాలమకుటమ్",
+        "sa": "कुचाभ्यामानम्रं कुटिलशशिचूडालमकुटम्",
+        "ro": "kucābhyāmānamraṃ kuṭilaśaśicūḍālamakuṭam"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి సాక్షాత్ కామేశ్వరి — కోరికలను పరిపూర్ణంగా తీర్చే శక్తి ఆమె.",
+          "long": "దేవి కామేశ్వరి — కామాన్ని నియమించే మరియు నెరవేర్చే శక్తి. ఆమె భర్త కామేశ్వరుడు (శివుడు). ఈ దంపతులు విశ్వేచ్ఛకు అధిపతులు. ఆమె ఉపాసించిన వారి సమస్త ఇచ్ఛలు తీరుతాయి. అంతకన్నా మించి, ఇచ్ఛ స్వయంగా శాంతిస్తుంది — ఇదే పరమపదం."
+        },
+        "en": {
+          "short": "Devi is Kāmeśvarī — the power that governs and fulfills all desires.",
+          "long": "Devi is Kāmeśvarī — the power that governs and fulfills all kāma (desire). Her consort is Kāmeśvara (Shiva). This divine couple are sovereigns of all cosmic will. Those who worship her have all their desires fulfilled. Beyond that, desire itself attains peace — this is the supreme state, the merging of kāma into the absolute."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 24,
+      "section": "ananda",
+      "p1": {
+        "te": "జగత్సూతే ధాతా హరిరవతి రుద్రః క్షపయతే",
+        "sa": "जगत्सूते धाता हरिरवति रुद्रः क्षपयते",
+        "ro": "jagatsūtē dhātā hariravati rudraḥ kṣapayatē"
+      },
+      "p2": {
+        "te": "తిరస్కుర్వన్నేతత్స్వమపి వపురీశస్తిరయతి",
+        "sa": "तिरस्कुर्वन्नेतत्स्वमपि वपुरीशस्तिरयति",
+        "ro": "tiraskurvannētatsvamapi vapurīśastirayati"
+      },
+      "p3": {
+        "te": "సదాపూర్వః సర్వం తదిదమనుగృహ్ణాతి చ శివః",
+        "sa": "सदापूर्वः सर्वं तदिदमनुगृह्णाति च शिवः",
+        "ro": "sadāpūrvaḥ sarvaṃ tadidamanugṛhṇāti ca śivaḥ"
+      },
+      "p4": {
+        "te": "తవాజ్ఞామాలమ్బ్య  క్షణచలితయోర్భ్రూలతికయోః",
+        "sa": "तवाज्ञामालम्ब्य  क्षणचलितयोर्भ्रूलतिकयोः",
+        "ro": "tavājñāmālambya  kṣaṇacalitayōrbhrūlatikayōḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి చంద్రకళను ధరిస్తుంది; ఆమె నుదుటి అర్ధచంద్రుడు సమస్త లోకాలకు వెలుగు.",
+          "long": "దేవి నుదుట అర్ధచంద్రుడు ఆమె శిరోభూషణం. ఈ చంద్రకళ అమృతవర్షిణి. ఆమె నుదటి అర్ధచంద్రుని వెలుగు సమస్త లోకాలను చల్లబరచి ఆనందింపజేస్తుంది. ఈ చంద్రకళలో 16 కళలు — ప్రతిదీ ఆమె అనుగ్రహ శక్తికి ప్రతీక."
+        },
+        "en": {
+          "short": "Devi bears the crescent moon on her forehead; its light illuminates and cools all the worlds.",
+          "long": "The crescent moon on Devi's forehead is her crowning ornament, raining ambrosia. Its cool light refreshes and delights all the worlds. The sixteen phases (kalā) of this moon represent sixteen aspects of her grace. Each phase is a manifestation of her power to bless, nourish, and liberate her devotees."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 25,
+      "section": "ananda",
+      "p1": {
+        "te": "త్రయాణాం దేవానాం త్రిగుణజనితానాం తవ శివే",
+        "sa": "त्रयाणां देवानां त्रिगुणजनितानां तव शिवे",
+        "ro": "trayāṇāṃ dēvānāṃ triguṇajanitānāṃ tava śivē"
+      },
+      "p2": {
+        "te": "భవేత్పూజా పూజా తవ చరణయోర్యా విరచితా",
+        "sa": "भवेत्पूजा पूजा तव चरणयोर्या विरचिता",
+        "ro": "bhavētpūjā pūjā tava caraṇayōryā viracitā"
+      },
+      "p3": {
+        "te": "తథా హి త్వత్పాదోద్వహనమణిపీఠస్య నికటే",
+        "sa": "तथा हि त्वत्पादोद्वहनमणिपीठस्य निकटे",
+        "ro": "tathā hi tvatpādōdvahanamaṇipīṭhasya nikaṭē"
+      },
+      "p4": {
+        "te": "స్థితా హ్యేతే శశ్వన్ముకులితకరోత్తంసమకుటాః",
+        "sa": "स्थिता ह्येते शश्वन्मुकुलितकरोत्तंसमकुटाः",
+        "ro": "sthitā hyētē śaśvanmukulitakarōttaṃsamakuṭāḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి జ్ఞానశక్తి — ఆమె అనుగ్రహం అజ్ఞానాన్ని నాశనం చేసి స్వయంప్రకాశాన్ని ఇస్తుంది.",
+          "long": "దేవి జ్ఞానాన్ని అనుగ్రహించే శక్తి. ఆమె అనుగ్రహం అజ్ఞాన మాయను వేరు చేసి ఆత్మ స్వయంప్రకాశాన్ని ఇస్తుంది. అద్వైత వేదాంతంలో ఆత్మ నిత్యముక్తం, నిత్యప్రకాశం. అజ్ఞాన ఆవరణ తొలగిపోగానే ఆ ప్రకాశం వెలువడుతుంది — ఇది దేవి జ్ఞానశక్తి యొక్క మహిమ."
+        },
+        "en": {
+          "short": "Devi is Jñānaśakti — her grace dispels ignorance and reveals the self-luminous Ātman.",
+          "long": "Devi is the power of Jñāna. Her grace pierces the veil of avidyā-māyā to reveal the self-luminous Ātman. In Advaita Vedānta the Ātman is eternally free and self-luminous; ignorance alone covers it. The moment that covering is removed, the light shines forth. This is the glory of Devi as Jñānaśakti."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 26,
+      "section": "ananda",
+      "p1": {
+        "te": "విరిఞ్చిః పఞ్చత్వం వ్రజతి హరిరాప్నోతి విరతిం",
+        "sa": "विरिञ्चिः पञ्चत्वं व्रजति हरिराप्नोति विरतिं",
+        "ro": "viriñciḥ pañcatvaṃ vrajati harirāpnōti viratiṃ"
+      },
+      "p2": {
+        "te": "వినాశం కీనాశో భజతి ధనదో యాతి నిధనమ్",
+        "sa": "विनाशं कीनाशो भजति धनदो याति निधनम्",
+        "ro": "vināśaṃ kīnāśō bhajati dhanadō yāti nidhanam"
+      },
+      "p3": {
+        "te": "వితన్ద్రీ మాహేన్ద్రీ వితతిరపి సమ్మీలితదృశా",
+        "sa": "वितन्द्री माहेन्द्री विततिरपि सम्मीलितदृशा",
+        "ro": "vitandrī māhēndrī vitatirapi sammīlitadṛśā"
+      },
+      "p4": {
+        "te": "మహాసంహారేఽస్మిన్విహరతి సతి త్వత్పతిరసౌ",
+        "sa": "महासंहारेऽस्मिन्विहरति सति त्वत्पतिरसौ",
+        "ro": "mahāsaṃhārē'sminviharati sati tvatpatirasau"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి రక్తవర్ణ — ఆమె రక్తిమ సూర్యోదయం వంటి తేజంతో విరాజిల్లుతుంది.",
+          "long": "దేవి ఉదయసూర్యుని వలె రక్తవర్ణంలో ప్రకాశిస్తుంది. ఆమె రంగు ప్రేమ, శక్తి, సృష్టికి ప్రతీక. ఆమె నిలయమైన శ్రీపురంలో అన్నీ రక్తిమ వర్ణంలో ఉంటాయి. ఆమె రక్తిమ రంగు అనుగ్రహాన్ని, ఆనందాన్ని వ్యక్తంచేస్తుంది."
+        },
+        "en": {
+          "short": "Devi is crimson-hued, radiant as the rising sun, embodying love, power, and creation.",
+          "long": "Devi shines crimson like the rising sun. Her color symbolizes love, power, and creation. In Śrīpuram (Maṇidvīpa) her celestial abode, everything glows with this reddish light. Her crimson color expresses grace and joy — not fear. She is Aruṇā, whose very color is an expression of infinite compassion."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 27,
+      "section": "ananda",
+      "p1": {
+        "te": "జపో జల్పః శిల్పం సకలమపి ముద్రావిరచనా",
+        "sa": "जपो जल्पः शिल्पं सकलमपि मुद्राविरचना",
+        "ro": "japō jalpaḥ śilpaṃ sakalamapi mudrāviracanā"
+      },
+      "p2": {
+        "te": "గతిః ప్రాదక్షిణ్యక్రమణమశనాద్యాహుతివిధిః",
+        "sa": "गतिः प्रादक्षिण्यक्रमणमशनाद्याहुतिविधिः",
+        "ro": "gatiḥ prādakṣiṇyakramaṇamaśanādyāhutividhiḥ"
+      },
+      "p3": {
+        "te": "ప్రణామః సంవేశః సుఖమఖిలమాత్మార్పణదృశా",
+        "sa": "प्रणामः संवेशः सुखमखिलमात्मार्पणदृशा",
+        "ro": "praṇāmaḥ saṃvēśaḥ sukhamakhilamātmārpaṇadṛśā"
+      },
+      "p4": {
+        "te": "సపర్యాపర్యాయస్తవ భవతు యన్మే విలసితమ్",
+        "sa": "सपर्यापर्यायस्तव भवतु यन्मे विलसितम्",
+        "ro": "saparyāparyāyastava bhavatu yanmē vilasitam"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి నేత్రాల అందాన్ని కవి వర్ణించలేడని చెప్పి, ఆమె కటాక్షాన్ని కోరుకుంటాడు.",
+          "long": "దేవి నేత్రాల అందం అపారం. ఆమె నేత్రాలు విశాలంగా, కమలదళాల వలె, కరుణతో నిండివున్నాయి. ఆ నేత్రాల అందాన్ని మాటలలో చెప్పడం అసాధ్యమని కవి అంగీకరిస్తాడు. అందుచే ఆమె కటాక్షం — ఆమె ఒక్కసారి చూపులు వేయడం — అనుభవించాలని కోరుకుంటాడు."
+        },
+        "en": {
+          "short": "The poet confesses he cannot describe Devi's eyes and simply prays for a single glance.",
+          "long": "The beauty of Devi's eyes is immeasurable — wide as lotus petals, filled with compassion. The poet acknowledges it is impossible to capture this beauty in words. Therefore he simply longs to experience her katākṣa — her sidelong glance of grace — which alone can convey what no description ever can."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 28,
+      "section": "ananda",
+      "p1": {
+        "te": "సుధామప్యాస్వాద్య ప్రతిభయజరామృత్యుహరిణీం",
+        "sa": "सुधामप्यास्वाद्य प्रतिभयजरामृत्युहरिणीं",
+        "ro": "sudhāmapyāsvādya pratibhayajarāmṛtyuhariṇīṃ"
+      },
+      "p2": {
+        "te": "విపద్యన్తే విశ్వే విధిశతమఖాద్యా దివిషదః",
+        "sa": "विपद्यन्ते विश्वे विधिशतमखाद्या दिविषदः",
+        "ro": "vipadyantē viśvē vidhiśatamakhādyā diviṣadaḥ"
+      },
+      "p3": {
+        "te": "కరాలం యత్క్ష్వేలం కబలితవతః కాలకలనా",
+        "sa": "करालं यत्क्ष्वेलं कबलितवतः कालकलना",
+        "ro": "karālaṃ yatkṣvēlaṃ kabalitavataḥ kālakalanā"
+      },
+      "p4": {
+        "te": "న శమ్భోస్తన్మూలం తవ జనని తాటఙ్కమహిమా",
+        "sa": "न शम्भोस्तन्मूलं तव जननि ताटङ्कमहिमा",
+        "ro": "na śambhōstanmūlaṃ tava janani tāṭaṅkamahimā"
+      },
+      "meaning": {
+        "te": {
+          "short": "శంకరాచార్యుడు దేవిని తన జ్ఞానగురువుగా భావించి వందనం చేస్తున్నాడు.",
+          "long": "శంకరుడు దేవిని జ్ఞానగురువుగా, పరమ తత్త్వ ప్రబోధకురాలిగా భావిస్తాడు. ఆమె అనుగ్రహం లేకుండా అద్వైతవేదాంత జ్ఞానం సాధ్యం కాదు. కావున అతడు తల్లిని నమస్కరిస్తున్నాడు. ఈ శ్లోకంలో భక్తి మరియు జ్ఞానం రెండూ ఒకటే అని స్పష్టమవుతుంది."
+        },
+        "en": {
+          "short": "Shankaracharya bows to Devi as his guru of wisdom, the revealer of supreme knowledge.",
+          "long": "Shankara regards Devi as his guru of wisdom, the revealer of the supreme truth. Without her grace, knowledge of Advaita Vedānta cannot be attained. Therefore he bows at the feet of his mother — Devi herself. This verse makes clear that bhakti and jñāna are not separate paths but one — both lead to her."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 29,
+      "section": "ananda",
+      "p1": {
+        "te": "కిరీటం వైరిఞ్చం పరిహర పురః కైటభభిదః",
+        "sa": "किरीटं वैरिञ्चं परिहर पुरः कैटभभिदः",
+        "ro": "kirīṭaṃ vairiñcaṃ parihara puraḥ kaiṭabhabhidaḥ"
+      },
+      "p2": {
+        "te": "కఠోరే కోటీరే స్ఖలసి జహి జమ్భారిమకుటమ్",
+        "sa": "कठोरे कोटीरे स्खलसि जहि जम्भारिमकुटम्",
+        "ro": "kaṭhōrē kōṭīrē skhalasi jahi jambhārimakuṭam"
+      },
+      "p3": {
+        "te": "ప్రణమ్రేష్వేతేషు ప్రసభముపయాతస్య భవనం",
+        "sa": "प्रणम्रेष्वेतेषु प्रसभमुपयातस्य भवनं",
+        "ro": "praṇamrēṣvētēṣu prasabhamupayātasya bhavanaṃ"
+      },
+      "p4": {
+        "te": "భవస్యాభ్యుత్థానే తవ పరిజనోక్తిర్విజయతే",
+        "sa": "भवस्याभ्युत्थाने तव परिजनोक्तिर्विजयते",
+        "ro": "bhavasyābhyutthānē tava parijanōktirvijayatē"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి పంచభూతాలతో నిర్మితమైన శ్రీచక్రంలో నివసిస్తూ జగత్తునంతా నిర్వహిస్తుంది.",
+          "long": "దేవి శ్రీచక్రంలోని తొమ్మిది ఆవరణాలలో నివసిస్తుంది. ఒక్కొక్క ఆవరణలో ఒక్కొక్క మహాశక్తి ఆమె శక్తివ్యక్తీకరణ. శ్రీచక్రం పూర్ణ విశ్వాన్ని సంకేతిస్తుంది. దేవి బిందుమధ్యలో కూర్చుని సమస్త లోకాలను ఆనందంతో నిర్వహిస్తుంది."
+        },
+        "en": {
+          "short": "Devi dwells in the nine enclosures of Śrī Chakra and administers all worlds from the central bindu.",
+          "long": "Devi resides in the nine āvaraṇas of the Śrī Chakra. In each enclosure, a Mahāśakti manifests her power. The Śrī Chakra symbolizes the complete universe. Devi sits at the central bindu and joyfully administers all the worlds. This is the supreme secret of Tantric wisdom — the cosmos encoded in geometry."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 30,
+      "section": "ananda",
+      "p1": {
+        "te": "స్వదేహోద్భూతాభిర్ఘృణిభిరణిమాద్యాభిరభితః",
+        "sa": "स्वदेहोद्भूताभिर्घृणिभिरणिमाद्याभिरभितः",
+        "ro": "svadēhōdbhūtābhirghṛṇibhiraṇimādyābhirabhitaḥ"
+      },
+      "p2": {
+        "te": "నిషేవ్యే నిత్యే త్వామహమితి సదా భావయతి యః",
+        "sa": "निषेव्ये नित्ये त्वामहमिति सदा भावयति यः",
+        "ro": "niṣēvyē nityē tvāmahamiti sadā bhāvayati yaḥ"
+      },
+      "p3": {
+        "te": "కిమాశ్చర్యం తస్య త్రినయనసమృద్ధిం తృణయతః",
+        "sa": "किमाश्चर्यं तस्य त्रिनयनसमृद्धिं तृणयतः",
+        "ro": "kimāścaryaṃ tasya trinayanasamṛddhiṃ tṛṇayataḥ"
+      },
+      "p4": {
+        "te": "మహాసంవర్తాగ్నిర్విరచయతి నీరాజనవిధిమ్",
+        "sa": "महासंवर्ताग्निर्विरचयति नीराजनविधिम्",
+        "ro": "mahāsaṃvartāgnirviracayati nīrājanavidhim"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి సమస్త తంత్ర, మంత్ర, యంత్ర విద్యలకు మూలశక్తి.",
+          "long": "తంత్రశాస్త్రం, మంత్రవిద్య, యంత్రసాధన — ఇవన్నీ దేవి శక్తి యొక్క వివిధ వ్యక్తీకరణాలు. తంత్రం ఆమె శరీరం; మంత్రం ఆమె వాక్కు; యంత్రం ఆమె రూపం. ఈ మూడింటి సమన్వయమే శ్రీవిద్యా సాధన. ఆమె అనుగ్రహం లేనిచో ఏ సాధనాఫలమూ లభించదు."
+        },
+        "en": {
+          "short": "Devi is the root power of all tantra, mantra, and yantra traditions.",
+          "long": "Tantrashastra, mantravidyā, and yantrasādhana are all different expressions of Devi's Shakti. Tantra is her body; mantra is her speech; yantra is her form. The synthesis of these three constitutes Śrīvidyā sādhana. Without her grace no sādhana can bear fruit — she is the animating power that makes all sacred practice efficacious."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 31,
+      "section": "ananda",
+      "p1": {
+        "te": "చతుఃషష్ట్యా తన్త్రైః సకలమతిసన్ధాయ భువనం",
+        "sa": "चतुःषष्ट्या तन्त्रैः सकलमतिसन्धाय भुवनं",
+        "ro": "catuḥṣaṣṭyā tantraiḥ sakalamatisandhāya bhuvanaṃ"
+      },
+      "p2": {
+        "te": "స్థితస్తత్తత్సిద్ధిప్రసవపరతన్త్రైః పశుపతిః",
+        "sa": "स्थितस्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः",
+        "ro": "sthitastattatsiddhiprasavaparatantraiḥ paśupatiḥ"
+      },
+      "p3": {
+        "te": "పునస్త్వన్నిర్బన్ధాదఖిలపురుషార్థైకఘటనా-",
+        "sa": "पुनस्त्वन्निर्बन्धादखिलपुरुषार्थैकघटना-",
+        "ro": "punastvannirbandhādakhilapuruṣārthaikaghaṭanā-"
+      },
+      "p4": {
+        "te": "స్వతన్త్రం తే తన్త్రం క్షితితలమవాతీతరదిదమ్",
+        "sa": "स्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्",
+        "ro": "svatantraṃ tē tantraṃ kṣititalamavātītaradidam"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి ప్రణవమూర్తి — 'ఓం'లో ఆమె తేజస్సు ఉంది; ప్రణవం ఉపాసన ఆమె ఉపాసనే.",
+          "long": "ప్రణవమంత్రం (ఓం) దేవి స్వరూపం. ఓంలోని అ, ఉ, మ — ఈ మూడు అక్షరాలు బ్రహ్మ, విష్ణు, మహేశ్వరులకు ప్రతీకలు. అర్ధమాత్ర తురీయస్థితిలో ఆమె నివసిస్తుంది. ప్రణవ ఉపాసన సమస్త ఉపాసనలలో శ్రేష్ఠం."
+        },
+        "en": {
+          "short": "Devi is the form of Praṇava (Om); worship of Om is worship of Devi herself.",
+          "long": "The Praṇava mantra (Om) is the form of Devi. The three letters A, U, M represent Brahma, Vishnu, and Maheshvara. In the ardhamātrā resonance beyond these three, Devi herself resides. Worship of Om is the highest of all forms of worship — and it is worship of her alone, from whom all sacred sound arises."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 32,
+      "section": "ananda",
+      "p1": {
+        "te": "శివః శక్తిః కామః క్షితిరథ రవిః శీతకిరణః",
+        "sa": "शिवः शक्तिः कामः क्षितिरथ रविः शीतकिरणः",
+        "ro": "śivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītakiraṇaḥ"
+      },
+      "p2": {
+        "te": "స్మరో హంసః శక్రస్తదను చ పరామారహరయః",
+        "sa": "स्मरो हंसः शक्रस्तदनु च परामारहरयः",
+        "ro": "smarō haṃsaḥ śakrastadanu ca parāmāraharayaḥ"
+      },
+      "p3": {
+        "te": "అమీ హృల్లేఖాభిస్తిసృభిరవసానేషు ఘటితాః",
+        "sa": "अमी हृल्लेखाभिस्तिसृभिरवसानेषु घटिताः",
+        "ro": "amī hṛllēkhābhistisṛbhiravasānēṣu ghaṭitāḥ"
+      },
+      "p4": {
+        "te": "భజన్తే వర్ణాస్తే తవ జనని నామావయవతామ్",
+        "sa": "भजन्ते वर्णास्ते तव जननि नामावयवताम्",
+        "ro": "bhajantē varṇāstē tava janani nāmāvayavatām"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి పీఠ రహస్యం — ఆమె అధిష్ఠించిన పరమ సింహాసనం శివుని హృదయం.",
+          "long": "దేవి ఆసీనమైన సింహాసనం సాధారణ సింహాసనం కాదు. ఆమె పరమ పీఠం శివుని హృదయం. ఆ పీఠంపై ఆసీనయైన ఆమె లోకాలను పాలిస్తుంది. ఈ రహస్యం శ్రీవిద్యా దీక్షలో గురువు శిష్యునికి ఇస్తాడు. ఇందులో శివ-శక్తి అభేదతత్త్వం అంతర్నిహితంగా ఉంది."
+        },
+        "en": {
+          "short": "Devi's supreme throne is the heart of Shiva — she rules all worlds seated upon him.",
+          "long": "Devi's throne is no ordinary throne. Her supreme pīṭha is the very heart of Shiva. Seated upon it she administers the worlds. This secret is transmitted by the guru to the disciple in Śrīvidyā dīkṣā. Within it lies the inseparable identity of Shiva and Shakti — one reality expressed in two aspects."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 33,
+      "section": "ananda",
+      "p1": {
+        "te": "స్మరం యోనిం లక్ష్మీం త్రితయమిదమాదౌ తవ మనోః",
+        "sa": "स्मरं योनिं लक्ष्मीं त्रितयमिदमादौ तव मनोः",
+        "ro": "smaraṃ yōniṃ lakṣmīṃ tritayamidamādau tava manōḥ"
+      },
+      "p2": {
+        "te": "నిధాయైకే నిత్యే నిరవధిమహాభోగరసికాః",
+        "sa": "निधायैके नित्ये निरवधिमहाभोगरसिकाः",
+        "ro": "nidhāyaikē nityē niravadhimahābhōgarasikāḥ"
+      },
+      "p3": {
+        "te": "భజన్తి త్వాం చిన్తామణిగుణనిబద్ధాక్షవలయాః",
+        "sa": "भजन्ति त्वां चिन्तामणिगुणनिबद्धाक्षवलयाः",
+        "ro": "bhajanti tvāṃ cintāmaṇiguṇanibaddhākṣavalayāḥ"
+      },
+      "p4": {
+        "te": "శివాగ్నౌ జుహ్వన్తః సురభిఘృతధారాహుతిశతైః",
+        "sa": "शिवाग्नौ जुह्वन्तः सुरभिघृतधाराहुतिशतैः",
+        "ro": "śivāgnau juhvantaḥ surabhighṛtadhārāhutiśataiḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి ప్రపంచానికి అతీతమైన పరమ సత్యం; ఆమె అనుభవం మాటలకు అందనిది.",
+          "long": "దేవి పరమ సత్యం (బ్రహ్మం) యొక్క స్త్రీరూపం. ఆమె అనుభవం మాటలకు అందనిది. అనుభవమైన తర్వాత చెప్పడం అసాధ్యమవుతుంది. ఆమె చిద్ఘనానందమయి — జ్ఞానం, సచ్చిదానందం ఆమె స్వరూపం. ఇది శంకరుడు అద్వైత దృష్టితో చెప్పే రహస్యం."
+        },
+        "en": {
+          "short": "Devi is the transcendent supreme reality; experience of her is beyond all expression.",
+          "long": "Devi is the feminine form of the supreme reality (Brahman). Her experience is beyond words. After direct experience, there is nothing left to say — expression becomes impossible. She is Cidghanānandamayī — her nature is pure knowledge, existence, and bliss. This is the secret Shankara reveals through his Advaita perspective."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 34,
+      "section": "ananda",
+      "p1": {
+        "te": "శరీరం త్వం శమ్భోః శశిమిహిరవక్షోరుహయుగం",
+        "sa": "शरीरं त्वं शम्भोः शशिमिहिरवक्षोरुहयुगं",
+        "ro": "śarīraṃ tvaṃ śambhōḥ śaśimihiravakṣōruhayugaṃ"
+      },
+      "p2": {
+        "te": "తవాత్మానం మన్యే భగవతి నవాత్మానమనఘమ్",
+        "sa": "तवात्मानं मन्ये भगवति नवात्मानमनघम्",
+        "ro": "tavātmānaṃ manyē bhagavati navātmānamanagham"
+      },
+      "p3": {
+        "te": "అతః శేషః శేషీత్యయముభయసాధారణతయా",
+        "sa": "अतः शेषः शेषीत्ययमुभयसाधारणतया",
+        "ro": "ataḥ śēṣaḥ śēṣītyayamubhayasādhāraṇatayā"
+      },
+      "p4": {
+        "te": "స్థితః సమ్బన్ధో వాం సమరసపరానన్దపరయోః",
+        "sa": "स्थितः सम्बन्धो वां समरसपरानन्दपरयोः",
+        "ro": "sthitaḥ sambandhō vāṃ samarasaparānandaparayōḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి 'అహం' (నేను)కు ఆధారభూత శక్తి; ఆమె లేకుండా 'నేను' అనే భావన ఉండదు.",
+          "long": "సమస్త జీవులలో 'అహం' (నేను) అనే భావన దేవి శక్తి ప్రకాశమే. ఆమె లేకుండా ఆ స్ఫురణ కలగదు. 'అహం బ్రహ్మాస్మి' అనే వేదాంత మహావాక్యంలో 'అహం' దేవి; 'బ్రహ్మ' శివుడు. ఈ రెండు ఒకటే అని అనుభవించడమే ముక్తి."
+        },
+        "en": {
+          "short": "Devi is the foundational power of the 'I am' sense; without her no sense of self exists.",
+          "long": "The sense of 'Aham' (I am) within all beings is the luminescence of Devi's Shakti. Without her, that awareness cannot arise. In the mahāvākya 'Aham Brahmāsmi', the 'Aham' is Devi and 'Brahman' is Shiva. Realizing these two are one is liberation. Devi is not separate from the deepest sense of self."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 35,
+      "section": "ananda",
+      "p1": {
+        "te": "మనస్త్వం వ్యోమ త్వం మరుదసి మరుత్సారథిరసి",
+        "sa": "मनस्त्वं व्योम त्वं मरुदसि मरुत्सारथिरसि",
+        "ro": "manastvaṃ vyōma tvaṃ marudasi marutsārathirasi"
+      },
+      "p2": {
+        "te": "త్వమాపస్త్వం భూమిస్త్వయి పరిణతాయాం న హి పరమ్",
+        "sa": "त्वमापस्त्वं भूमिस्त्वयि परिणतायां न हि परम्",
+        "ro": "tvamāpastvaṃ bhūmistvayi pariṇatāyāṃ na hi param"
+      },
+      "p3": {
+        "te": "త్వమేవ స్వాత్మానం పరిణమయితుం విశ్వవపుషా",
+        "sa": "त्वमेव स्वात्मानं परिणमयितुं विश्ववपुषा",
+        "ro": "tvamēva svātmānaṃ pariṇamayituṃ viśvavapuṣā"
+      },
+      "p4": {
+        "te": "చిదానన్దాకారం శివయువతి భావేన బిభృషే",
+        "sa": "चिदानन्दाकारं शिवयुवति भावेन बिभृषे",
+        "ro": "cidānandākāraṃ śivayuvati bhāvēna bibhṛṣē"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి భ్రమరాంభ — జ్ఞానసాధనలో ఆమె శిష్యుడి హృదయంలో నివసించి పూజలందుకుంటుంది.",
+          "long": "భ్రమరాంభ అంటే భ్రమరాలు (తుమ్మెదలు) ఆశ్రయించే తావు. దేవి సాధకుల హృదయకమలంలో నివసిస్తుంది. అక్కడ ఆమెను ధ్యానించడం అంతరికపూజ. బాహ్యపూజ కంటే అంతరికపూజ ఎక్కువ ఫలప్రదం అని కవి సూచిస్తాడు."
+        },
+        "en": {
+          "short": "Devi as Bhramarāmbā dwells in the devotee's heart-lotus, receiving inner worship.",
+          "long": "Bhramarāmbā means the place that bees seek. Devi resides in the heart-lotus of seekers. Meditating on her there is inner (āntarika) worship. The poet intimates that inner worship is more fruitful than external ritual — she is always present within, waiting to be recognized."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 36,
+      "section": "ananda",
+      "p1": {
+        "te": "తవాజ్ఞాచక్రస్థం తపనశశికోటిద్యుతిధరం",
+        "sa": "तवाज्ञाचक्रस्थं तपनशशिकोटिद्युतिधरं",
+        "ro": "tavājñācakrasthaṃ tapanaśaśikōṭidyutidharaṃ"
+      },
+      "p2": {
+        "te": "పరం శమ్భుం వన్దే పరిమిలితపార్శ్వం పరచితా",
+        "sa": "परं शम्भुं वन्दे परिमिलितपार्श्वं परचिता",
+        "ro": "paraṃ śambhuṃ vandē parimilitapārśvaṃ paracitā"
+      },
+      "p3": {
+        "te": "యమారాధ్యన్భక్త్యా రవిశశిశుచీనామవిషయే",
+        "sa": "यमाराध्यन्भक्त्या रविशशिशुचीनामविषये",
+        "ro": "yamārādhyanbhaktyā raviśaśiśucīnāmaviṣayē"
+      },
+      "p4": {
+        "te": "నిరాలోకేఽలోకే నివసతి హి భాలోకభువనే",
+        "sa": "निरालोकेऽलोके निवसति हि भालोकभुवने",
+        "ro": "nirālōkē'lōkē nivasati hi bhālōkabhuvanē"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి యోగినులకు అధినాయిక; సమస్త తంత్రవిద్యల రహస్యం ఆమె అనుగ్రహంలో ఉంది.",
+          "long": "అరవై నాలుగు యోగినులు, అష్టమాతృకలు — ఇవన్నీ దేవి శక్తులు. ఆమె యోగినులకు అధినాయిక, పరిపాలకురాలు. తంత్రశాస్త్రంలో చెప్పిన సమస్త విద్యలు, రహస్యాలు ఆమె అనుగ్రహంతో తెలుస్తాయి."
+        },
+        "en": {
+          "short": "Devi is sovereign over all yoginīs; all tantric secrets are revealed only through her grace.",
+          "long": "The sixty-four yoginīs and the eight Mātr̥kās are all expressions of Devi's Shakti. She is their sovereign. All knowledge described in Tantrashastra becomes known only through her grace. Without her will no secret is ever revealed — she is the gatekeeper of the highest tantric wisdom."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 37,
+      "section": "ananda",
+      "p1": {
+        "te": "విశుద్ధౌ తే శుద్ధస్ఫటికవిశదం వ్యోమజనకం",
+        "sa": "विशुद्धौ ते शुद्धस्फटिकविशदं व्योमजनकं",
+        "ro": "viśuddhau tē śuddhasphaṭikaviśadaṃ vyōmajanakaṃ"
+      },
+      "p2": {
+        "te": "శివం సేవే దేవీమపి శివసమానవ్యవసితామ్",
+        "sa": "शिवं सेवे देवीमपि शिवसमानव्यवसिताम्",
+        "ro": "śivaṃ sēvē dēvīmapi śivasamānavyavasitām"
+      },
+      "p3": {
+        "te": "యయోః కాన్త్యా యాన్త్యాః శశికిరణసారూప్యసరణేః",
+        "sa": "ययोः कान्त्या यान्त्याः शशिकिरणसारूप्यसरणेः",
+        "ro": "yayōḥ kāntyā yāntyāḥ śaśikiraṇasārūpyasaraṇēḥ"
+      },
+      "p4": {
+        "te": "విధూతాన్తర్ధ్వాన్తా విలసతి చకోరీవ జగతీ",
+        "sa": "विधूतान्तर्ध्वान्ता विलसति चकोरीव जगती",
+        "ro": "vidhūtāntardhvāntā vilasati cakōrīva jagatī"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి బ్రహ్మాండాన్ని తన చిటికినపేళ్ళ చివర ఆడిస్తుంది — ఆమె మహాశక్తి.",
+          "long": "విశ్వమంతా దేవి యొక్క ఒక్క సంజ్ఞతో నడుస్తుంది. బ్రహ్మాండం ఆమె లీల — ఒక వినోదం. మానవులు, దేవతలు, పర్వతాలు, నదులు — అన్నీ ఆమె నిర్దేశంతో నడుస్తున్నాయి. ఆమె విశ్వంలో లేదు — విశ్వమే ఆమె."
+        },
+        "en": {
+          "short": "Devi plays with the entire universe at her fingertip — such is her supreme power.",
+          "long": "The entire universe operates at a single gesture of Devi. The cosmos is her līlā — divine play. Humans, gods, mountains, rivers — all move at her direction. She is not merely within the universe; she is the very ground upon which all of it unfolds. This is her Mahāśakti."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 38,
+      "section": "ananda",
+      "p1": {
+        "te": "సమున్మీలత్సంవిత్కమలమకరన్దైకరసికం",
+        "sa": "समुन्मीलत्संवित्कमलमकरन्दैकरसिकं",
+        "ro": "samunmīlatsaṃvitkamalamakarandaikarasikaṃ"
+      },
+      "p2": {
+        "te": "భజే హంసద్వన్ద్వం కిమపి మహతాం మానసచరమ్",
+        "sa": "भजे हंसद्वन्द्वं किमपि महतां मानसचरम्",
+        "ro": "bhajē haṃsadvandvaṃ kimapi mahatāṃ mānasacaram"
+      },
+      "p3": {
+        "te": "యదాలాపాదష్టాదశగుణితవిద్యాపరిణతిః",
+        "sa": "यदालापादष्टादशगुणितविद्यापरिणतिः",
+        "ro": "yadālāpādaṣṭādaśaguṇitavidyāpariṇatiḥ"
+      },
+      "p4": {
+        "te": "యదాదత్తే దోషాద్గుణమఖిలమద్భ్యః పయ ఇవ",
+        "sa": "यदादत्ते दोषाद्गुणमखिलमद्भ्यः पय इव",
+        "ro": "yadādattē dōṣādguṇamakhilamadbhyaḥ paya iva"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి సుధాసాగరంలో తేలే ద్వీపంలో (మణిద్వీపంలో) నివసిస్తుంది.",
+          "long": "అమ్మ మణిద్వీపంలో నివసిస్తుంది. ఆ ద్వీపం సుధాసముద్రంలో ఉంది. అక్కడ కల్పవృక్షాలు, రత్నశాలలు, అప్సరసలు ఉంటాయి. ఇది ఆమె నిత్యనివాసం. శ్రీవిద్యా ధ్యానంలో ఇది అంతరికంగా అనుభవింపబడుతుంది."
+        },
+        "en": {
+          "short": "Devi dwells on Maṇidvīpa, a jeweled island floating in an ocean of ambrosia.",
+          "long": "Devi dwells on Maṇidvīpa, a jeweled island floating in the ocean of ambrosia (sudhā-sāgara), adorned with wish-fulfilling trees, jeweled mansions, and celestial beings. This is her eternal abode. In Śrīvidyā meditation it is experienced inwardly. She is Amṛtarūpiṇī — which is why she dwells in the ocean of nectar."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 39,
+      "section": "ananda",
+      "p1": {
+        "te": "తవ స్వాధిష్ఠానే హుతవహమధిష్ఠాయ నిరతం",
+        "sa": "तव स्वाधिष्ठाने हुतवहमधिष्ठाय निरतं",
+        "ro": "tava svādhiṣṭhānē hutavahamadhiṣṭhāya nirataṃ"
+      },
+      "p2": {
+        "te": "తమీడే సంవర్తం జనని మహతీం తాం చ సమయామ్",
+        "sa": "तमीडे संवर्तं जननि महतीं तां च समयाम्",
+        "ro": "tamīḍē saṃvartaṃ janani mahatīṃ tāṃ ca samayām"
+      },
+      "p3": {
+        "te": "యదాలోకే లోకాన్దహతి మహతి క్రోధకలితే",
+        "sa": "यदालोके लोकान्दहति महति क्रोधकलिते",
+        "ro": "yadālōkē lōkāndahati mahati krōdhakalitē"
+      },
+      "p4": {
+        "te": "దయార్ద్రా యా దృష్టిః శిశిరముపచారం రచయతి",
+        "sa": "दयार्द्रा या दृष्टिः शिशिरमुपचारं रचयति",
+        "ro": "dayārdrā yā dṛṣṭiḥ śiśiramupacāraṃ racayati"
+      },
+      "meaning": {
+        "te": {
+          "short": "శివుడు దేవి నిమ్మళంగా ఆసీనయైన సింహాసనం కింద పడుకుని ఆమెను మోస్తున్నాడు.",
+          "long": "దేవి ఆసీనమైన సింహాసనం శివుడే. పంచ బ్రహ్మలు (సదాశివుడు, ఈశ్వరుడు, రుద్రుడు, విష్ణువు, బ్రహ్మ) ఆ సింహాసన పాదాలు. ఇది శివుడు దేవి సేవకుడని చెప్పే వినూత్న కల్పన. ఆమె పరాశక్తి — ఇది తంత్రంలోని పరాశక్తి దర్శనం."
+        },
+        "en": {
+          "short": "Shiva himself is the couch on which Devi reclines — he supports her in complete submission.",
+          "long": "The throne on which Devi is seated is Shiva himself. The five Brahmas (Sadāshiva, Ishvara, Rudra, Vishnu, Brahmā) serve as the legs of that throne. This is the unique Tantric vision where Shiva is Devi's servant. She is Parāśakti — higher even than Shiva. This represents the Śākta worldview of supreme feminine primacy."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 40,
+      "section": "ananda",
+      "p1": {
+        "te": "తటిత్త్వన్తం శక్త్యా తిమిరపరిపన్థిస్ఫురణయా",
+        "sa": "तटित्त्वन्तं शक्त्या तिमिरपरिपन्थिस्फुरणया",
+        "ro": "taṭittvantaṃ śaktyā timiraparipanthisphuraṇayā"
+      },
+      "p2": {
+        "te": "స్ఫురన్నానారత్నాభరణపరిణద్ధేన్ద్రధనుషమ్",
+        "sa": "स्फुरन्नानारत्नाभरणपरिणद्धेन्द्रधनुषम्",
+        "ro": "sphurannānāratnābharaṇapariṇaddhēndradhanuṣam"
+      },
+      "p3": {
+        "te": "తవ శ్యామం మేఘం కమపి మణిపూరైకశరణం",
+        "sa": "तव श्यामं मेघं कमपि मणिपूरैकशरणं",
+        "ro": "tava śyāmaṃ mēghaṃ kamapi maṇipūraikaśaraṇaṃ"
+      },
+      "p4": {
+        "te": "నిషేవే వర్షన్తం హరమిహిరతప్తం త్రిభువనమ్",
+        "sa": "निषेवे वर्षन्तं हरमिहिरतप्तं त्रिभुवनम्",
+        "ro": "niṣēvē varṣantaṃ haramihirataptaṃ tribhuvanam"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి సమాధి స్థితిలో నిత్యానందమయి; ఆమె ఉనికి స్వయంసిద్ధం, పరిపూర్ణం.",
+          "long": "దేవి సమాధి స్థితిలో నిరంతరం ఉంటుంది. ఆమె ఉనికి సహజ, స్వాభావిక, స్వయంసిద్ధం. ఆమె ఆనందానికి బయటి కారణం అవసరం లేదు — ఆమె స్వయంగా ఆనందమే. ఆమె చిదానందమయి. ఆమె ఉపాసించిన వారికి అదే స్థితి అనుభవమవుతుంది."
+        },
+        "en": {
+          "short": "Devi abides in eternal samādhi — her bliss is self-arising, complete, without external cause.",
+          "long": "Devi eternally abides in samādhi. Her existence is natural, spontaneous, and self-established. Her bliss needs no external cause — she herself is ānanda. She is Cidānandamayī. Those who worship her in this understanding come to experience that same self-complete joy within their own awareness."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 41,
+      "section": "ananda",
+      "p1": {
+        "te": "తవాధారే మూలే సహ సమయయా లాస్యపరయా",
+        "sa": "तवाधारे मूले सह समयया लास्यपरया",
+        "ro": "tavādhārē mūlē saha samayayā lāsyaparayā"
+      },
+      "p2": {
+        "te": "నవాత్మానం మన్యే నవరసమహాతాణ్డవనటమ్",
+        "sa": "नवात्मानं मन्ये नवरसमहाताण्डवनटम्",
+        "ro": "navātmānaṃ manyē navarasamahātāṇḍavanaṭam"
+      },
+      "p3": {
+        "te": "ఉభాభ్యామేతాభ్యాముదయవిధిముద్దిశ్య దయయా",
+        "sa": "उभाभ्यामेताभ्यामुदयविधिमुद्दिश्य दयया",
+        "ro": "ubhābhyāmētābhyāmudayavidhimuddiśya dayayā"
+      },
+      "p4": {
+        "te": "సనాథాభ్యాం జజ్ఞే జనకజననీమజ్జగదిదమ్",
+        "sa": "सनाथाभ्यां जज्ञे जनकजननीमज्जगदिदम्",
+        "ro": "sanāthābhyāṃ jajñē janakajananīmajjagadidam"
+      },
+      "meaning": {
+        "te": {
+          "short": "ఆనందలహరి ముగింపు — దేవి పాదాలకు కవి ప్రణమిల్లుతున్నాడు.",
+          "long": "ఈ శ్లోకంతో ఆనందలహరి ముగుస్తుంది. కవి శంకరుడు దేవి పాదపద్మాలకు మరోసారి నమస్కరిస్తాడు. ఇంతటి స్తోత్రపు ఫలితం ఏమిటంటే ఆమె కటాక్షం — ఆ కటాక్షంతో జ్ఞానం, ముక్తి, ఆనందం సహజంగా లభిస్తాయి. ఇక నుండి 59 శ్లోకాలు ఆమె అంగాంగ సౌందర్యాన్ని వర్ణిస్తాయి."
+        },
+        "en": {
+          "short": "The close of Ānanda Laharī — the poet bows at Devi's feet before moving to the song of her beauty.",
+          "long": "This verse concludes the Ānanda Laharī. Shankara bows once more at Devi's lotus feet. The fruit of the first 41 verses is her katākṣa — with that glance come knowledge, liberation, and bliss, all spontaneously. The next 59 verses now turn to lovingly describe her incomparable physical beauty from crown to foot."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 42,
+      "section": "soundarya",
+      "p1": {
+        "te": "గతైర్మాణిక్యత్వం గగనమణిభిః సాన్ద్రఘటితం",
+        "sa": "गतैर्माणिक्यत्वं गगनमणिभिः सान्द्रघटितं",
+        "ro": "gatairmāṇikyatvaṃ gaganamaṇibhiḥ sāndraghaṭitaṃ"
+      },
+      "p2": {
+        "te": "కిరీటం తే హైమం హిమగిరిసుతే కీర్తయతి యః",
+        "sa": "किरीटं ते हैमं हिमगिरिसुते कीर्तयति यः",
+        "ro": "kirīṭaṃ tē haimaṃ himagirisutē kīrtayati yaḥ"
+      },
+      "p3": {
+        "te": "స నీడేయచ్ఛాయాచ్ఛురణశబలం చన్ద్రశకలం",
+        "sa": "स नीडेयच्छायाच्छुरणशबलं चन्द्रशकलं",
+        "ro": "sa nīḍēyacchāyācchuraṇaśabalaṃ candraśakalaṃ"
+      },
+      "p4": {
+        "te": "ధనుః శౌనాసీరం కిమితి న నిబధ్నాతి ధిషణామ్",
+        "sa": "धनुः शौनासीरं किमिति न निबध्नाति धिषणाम्",
+        "ro": "dhanuḥ śaunāsīraṃ kimiti na nibadhnāti dhiṣaṇām"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి కేశపాశం నీలోత్పల పుష్పాల కంటే నల్లగా, మేఘాల కంటే చీకటిగా ఉంది.",
+          "long": "దేవి నీలిరంగు కురులు నీలిపుష్పాలను, మేఘాలను, కాజలాన్ని అన్నింటినీ మించి నలుపుగా ఉన్నాయి. ఈ నల్లని కురులు ఆమె సౌందర్యానికి అద్వితీయ నేపథ్యం. సౌందర్యలహరి ఇక్కడ నుండి దేవి అంగాంగ సౌందర్యవర్ణన మొదలుపెడుతుంది."
+        },
+        "en": {
+          "short": "Devi's hair is blacker than the blue lotus, darker than clouds — unmatched dark beauty.",
+          "long": "Devi's dark curling locks surpass in darkness even the blue lotus (nīlotpala), rainclouds, and kajal. This deep darkness of her hair forms an incomparable backdrop to her radiant complexion. The poet begins his loving description of her physical beauty (Saundarya Laharī) with her magnificent cascading dark hair."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 43,
+      "section": "soundarya",
+      "p1": {
+        "te": "ధునోతు ధ్వాన్తం నస్తులితదలితేన్దీవరవనం",
+        "sa": "धुनोतु ध्वान्तं नस्तुलितदलितेन्दीवरवनं",
+        "ro": "dhunōtu dhvāntaṃ nastulitadalitēndīvaravanaṃ"
+      },
+      "p2": {
+        "te": "ఘనస్నిగ్ధశ్లక్ష్ణం చికురనికురుమ్బం తవ శివే",
+        "sa": "घनस्निग्धश्लक्ष्णं चिकुरनिकुरुम्बं तव शिवे",
+        "ro": "ghanasnigdhaślakṣṇaṃ cikuranikurumbaṃ tava śivē"
+      },
+      "p3": {
+        "te": "యదీయం సౌరభ్యం సహజముపలబ్ధుం సుమనసః",
+        "sa": "यदीयं सौरभ्यं सहजमुपलब्धुं सुमनसः",
+        "ro": "yadīyaṃ saurabhyaṃ sahajamupalabdhuṃ sumanasaḥ"
+      },
+      "p4": {
+        "te": "వసన్త్యస్మిన్మన్యే వలమథనవాటీవిటపినామ్",
+        "sa": "वसन्त्यस्मिन्मन्ये वलमथनवाटीविटपिनाम्",
+        "ro": "vasantyasminmanyē valamathanavāṭīviṭapinām"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి నొసటి నల్లని ముంగురులు విల్లువలె వంగి ఆమె సౌందర్యాన్ని ద్విగుణం చేస్తాయి.",
+          "long": "దేవి నొసట విరిసిన ముంగురులు ఆమె అందమైన లలాటాన్ని అలంకరిస్తాయి. అవి విల్లు ఆకారంలో వంకరగా వ్రేలాడి ఆమె ముఖ సౌందర్యాన్ని మరింత ఆకర్షణీయంగా చేస్తాయి. ఇవి కేవలం కురులు కాదు — కామదేవుని ధనువుకు ప్రతిస్పర్ధులు."
+        },
+        "en": {
+          "short": "Devi's dark curling locks on her forehead arch like a bow, doubling her beauty.",
+          "long": "Devi's front curls adorn her beautiful forehead, hanging in an arc like a bow making her face even more captivating. These are not mere curls — they are rivals to Kāmadeva's bow itself. The poet marvels at how something so simple as wayward curls can multiply the beauty of her face so dramatically."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 44,
+      "section": "soundarya",
+      "p1": {
+        "te": "తనోతు క్షేమం నస్తవ వదనసౌన్దర్యలహరీ-",
+        "sa": "तनोतु क्षेमं नस्तव वदनसौन्दर्यलहरी-",
+        "ro": "tanōtu kṣēmaṃ nastava vadanasaundaryalaharī-"
+      },
+      "p2": {
+        "te": "పరీవాహస్రోతస్సరణిరివ సీమన్తసరణిః",
+        "sa": "परीवाहस्रोतस्सरणिरिव सीमन्तसरणिः",
+        "ro": "parīvāhasrōtassaraṇiriva sīmantasaraṇiḥ"
+      },
+      "p3": {
+        "te": "వహన్తీ సిన్దూరం ప్రబలకబరీభారతిమిర-",
+        "sa": "वहन्ती सिन्दूरं प्रबलकबरीभारतिमिर-",
+        "ro": "vahantī sindūraṃ prabalakabarībhāratimira-"
+      },
+      "p4": {
+        "te": "ద్విషాం బృన్దైర్బన్దీకృతమివ నవీనార్కకిరణమ్",
+        "sa": "द्विषां बृन्दैर्बन्दीकृतमिव नवीनार्ककिरणम्",
+        "ro": "dviṣāṃ bṛndairbandīkṛtamiva navīnārkakiraṇam"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి కపాలం చంద్రబింబం వలె — ఆమె నుదుటి అందమే త్రిలోకాలను ప్రకాశింపజేస్తుంది.",
+          "long": "దేవి నుదురు పూర్ణచంద్రుని వలె వెలుగుతుంది. ఆ నుదుటి తెలిమిన్ను వంటి అందం, అర్ధచంద్రుని తిలకం — ఇవి కలిసి అలౌకికమైన ప్రభ ఉత్పన్నం చేస్తాయి. ఆ ప్రభలో మూడు లోకాలు ప్రకాశిస్తున్నాయని కవి భావిస్తున్నాడు."
+        },
+        "en": {
+          "short": "Devi's forehead glows like the full moon, illuminating all three worlds with its splendor.",
+          "long": "Devi's forehead shines like the full moon. Its fair expanse, adorned with a crescent tilaka, generates an otherworldly radiance. The poet muses that it is by the light of this forehead that the three worlds are illuminated. The crescent adorning it marks her as the sovereign of all worlds."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 45,
+      "section": "soundarya",
+      "p1": {
+        "te": "అరాలైః స్వాభావ్యాదలికలభసశ్రీభిరలకైః",
+        "sa": "अरालैः स्वाभाव्यादलिकलभसश्रीभिरलकैः",
+        "ro": "arālaiḥ svābhāvyādalikalabhasaśrībhiralakaiḥ"
+      },
+      "p2": {
+        "te": "పరీతం తే వక్త్రం పరిహసతి పఙ్కేరుహరుచిమ్",
+        "sa": "परीतं ते वक्त्रं परिहसति पङ्केरुहरुचिम्",
+        "ro": "parītaṃ tē vaktraṃ parihasati paṅkēruharucim"
+      },
+      "p3": {
+        "te": "దరస్మేరే యస్మిన్దశనరుచికిఞ్జల్కరుచిరే",
+        "sa": "दरस्मेरे यस्मिन्दशनरुचिकिञ्जल्करुचिरे",
+        "ro": "darasmērē yasmindaśanarucikiñjalkarucirē"
+      },
+      "p4": {
+        "te": "సుగన్ధౌ మాద్యన్తి స్మరదహనచక్షుర్మధులిహః",
+        "sa": "सुगन्धौ माद्यन्ति स्मरदहनचक्षुर्मधुलिहः",
+        "ro": "sugandhau mādyanti smaradahanacakṣurmadhulihaḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి కనుబొమలు కామదేవుని ధనువుకు సాటి; ఆమె చూపు స్వయంగా పుష్పబాణం.",
+          "long": "కవి దేవి కనుబొమలను వర్ణించాడు. అవి వంపుగా, నలుపుగా, కందళిత సుందరంగా — కామదేవుని వింటికి ప్రతిస్పర్ధులు. ఆమె కనుబొమ్మల క్రింద ఉన్న నేత్రాలు పుష్పబాణాలు. ఆమె ఒక్కసారి చూచినా, మనసు బంధీ అవుతుంది."
+        },
+        "en": {
+          "short": "Devi's eyebrows rival Kāmadeva's bow; her glance itself is the flower arrow.",
+          "long": "The poet describes Devi's eyebrows — arching, dark, delicately graceful, rivals to Kāmadeva's own bow. Beneath those brows, her eyes are his flower arrows. One glance from her and the mind is captivated. Her eyes are not merely beautiful but irresistibly enchanting, capable of binding even the most disciplined mind."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 46,
+      "section": "soundarya",
+      "p1": {
+        "te": "లలాటం లావణ్యద్యుతివిమలమాభాతి తవ యత్",
+        "sa": "ललाटं लावण्यद्युतिविमलमाभाति तव यत्",
+        "ro": "lalāṭaṃ lāvaṇyadyutivimalamābhāti tava yat"
+      },
+      "p2": {
+        "te": "ద్వితీయం తన్మన్యే మకుటఘటితం చన్ద్రశకలమ్",
+        "sa": "द्वितीयं तन्मन्ये मकुटघटितं चन्द्रशकलम्",
+        "ro": "dvitīyaṃ tanmanyē makuṭaghaṭitaṃ candraśakalam"
+      },
+      "p3": {
+        "te": "విపర్యాసన్యాసాదుభయమపి సమ్భూయ చ మిథః",
+        "sa": "विपर्यासन्यासादुभयमपि सम्भूय च मिथः",
+        "ro": "viparyāsanyāsādubhayamapi sambhūya ca mithaḥ"
+      },
+      "p4": {
+        "te": "సుధాలేపస్యూతిః పరిణమతి రాకాహిమకరః",
+        "sa": "सुधालेपस्यूतिः परिणमति राकाहिमकरः",
+        "ro": "sudhālēpasyūtiḥ pariṇamati rākāhimakaraḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి నేత్రాలు కమలపత్రాలవంటివి; ఆమె చూపులు కరుణతో, ప్రేమతో నిండి ఉన్నాయి.",
+          "long": "దేవి నేత్రాలు కమలదళాల వలె విశాలాలు, నీలిమతో, కరుణతో నిండివున్నాయి. ఆమె చూపులో ప్రేమ, కారుణ్యం, జ్ఞానం — అన్నీ కలిసి ఉంటాయి. ఆమె నేత్రాల అందం అనంతమైన కవులను ముగ్ధులను చేసింది; ఇప్పుడు శంకరుడు కూడా అదే అనుభవించాడు."
+        },
+        "en": {
+          "short": "Devi's eyes are like lotus petals — wide, dark, filled with compassion and love.",
+          "long": "Devi's eyes are as wide as lotus petals, dark with tenderness and filled with compassion. Her glance carries love, mercy, and wisdom all at once. The beauty of her eyes has enchanted countless poets; now Shankara too is overcome. Her gaze does not merely see — it blesses, transforms, and liberates."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 47,
+      "section": "soundarya",
+      "p1": {
+        "te": "భ్రువౌ భుగ్నే కిఞ్చిద్భువనభయభఙ్గవ్యసనిని",
+        "sa": "भ्रुवौ भुग्ने किञ्चिद्भुवनभयभङ्गव्यसनिनि",
+        "ro": "bhruvau bhugnē kiñcidbhuvanabhayabhaṅgavyasanini"
+      },
+      "p2": {
+        "te": "త్వదీయే నేత్రాభ్యాం మధుకరరుచిభ్యాం ధృతగుణమ్",
+        "sa": "त्वदीये नेत्राभ्यां मधुकररुचिभ्यां धृतगुणम्",
+        "ro": "tvadīyē nētrābhyāṃ madhukararucibhyāṃ dhṛtaguṇam"
+      },
+      "p3": {
+        "te": "ధనుర్మన్యే సవ్యేతరకరగృహీతం రతిపతేః",
+        "sa": "धनुर्मन्ये सव्येतरकरगृहीतं रतिपतेः",
+        "ro": "dhanurmanyē savyētarakaragṛhītaṃ ratipatēḥ"
+      },
+      "p4": {
+        "te": "ప్రకోష్ఠే ముష్టౌ చ స్థగయతి నిగూఢాన్తరముమే",
+        "sa": "प्रकोष्ठे मुष्टौ च स्थगयति निगूढान्तरमुमे",
+        "ro": "prakōṣṭhē muṣṭau ca sthagayati nigūḍhāntaramumē"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి చెక్కిళ్ళు స్వర్ణపద్మాల వలె ప్రకాశిస్తున్నాయి; ఆ అందానికి నోటి మాటలు చాలవు.",
+          "long": "దేవి చెక్కిళ్ళు బంగారు రంగు పద్మాల వలె నున్నగా, తళతళగా ప్రకాశిస్తాయి. ఆ అందానికి వర్ణన అసాధ్యం. ఆమె బంగారు వర్ణ చెక్కిళ్ళపై మందహాసం — ఇది అన్ని సౌందర్యాలను మించిన సౌందర్యం."
+        },
+        "en": {
+          "short": "Devi's cheeks shine like golden lotus petals — words are inadequate for such beauty.",
+          "long": "Devi's cheeks are smooth and gleaming like golden lotus petals. Words fail to describe that beauty. On those warm golden cheeks plays a radiant smile — a beauty that surpasses all other beauties. The poet finds words inadequate and delight overwhelming. The very attempt to describe becomes an act of worship."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 48,
+      "section": "soundarya",
+      "p1": {
+        "te": "అహః సూతే సవ్యం తవ నయనమర్కాత్మకతయా",
+        "sa": "अहः सूते सव्यं तव नयनमर्कात्मकतया",
+        "ro": "ahaḥ sūtē savyaṃ tava nayanamarkātmakatayā"
+      },
+      "p2": {
+        "te": "త్రియామాం వామం తే సృజతి రజనీనాయకతయా",
+        "sa": "त्रियामां वामं ते सृजति रजनीनायकतया",
+        "ro": "triyāmāṃ vāmaṃ tē sṛjati rajanīnāyakatayā"
+      },
+      "p3": {
+        "te": "తృతీయా తే దృష్టిర్దరదలితహేమామ్బుజరుచిః",
+        "sa": "तृतीया ते दृष्टिर्दरदलितहेमाम्बुजरुचिः",
+        "ro": "tṛtīyā tē dṛṣṭirdaradalitahēmāmbujaruciḥ"
+      },
+      "p4": {
+        "te": "సమాధత్తే సన్ధ్యాం దివసనిశయోరన్తరచరీమ్",
+        "sa": "समाधत्ते सन्ध्यां दिवसनिशयोरन्तरचरीम्",
+        "ro": "samādhattē sandhyāṃ divasaniśayōrantaracarīm"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి నాసిక ముత్యాల గుచ్చంతో అలంకరింపబడి; ఆమె పుట్టెను మించిపోతుంది.",
+          "long": "దేవి నాసిక అతి నాజుకుగా, ముత్యాలతో అలంకరించబడి ఉంటుంది. ఆ నాసిక పరిమళాలను గ్రహించే శక్తి కలిగివుంది. ఆమె నాసిక తుమ్మెద వలె నేర్పుగా ఉంటుందని కవి వర్ణించాడు. ముత్యాల ముక్కర ఆమె నాసికను మరింత అందంగా చేస్తుంది."
+        },
+        "en": {
+          "short": "Devi's nose is adorned with pearl-drops and graceful as a bee — a delicate fragrant beauty.",
+          "long": "Devi's nose is delicately formed and adorned with pearl ornaments with the capacity to perceive the subtlest fragrances. The poet likens it to a bee — graceful, slender, alert. The pearl nose-ring adds further beauty. This tiny detail, lovingly observed, reveals the poet's reverent attention to every feature of the Goddess."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 49,
+      "section": "soundarya",
+      "p1": {
+        "te": "విశాలా కల్యాణీ స్ఫుటరుచిరయోధ్యా కువలయైః",
+        "sa": "विशाला कल्याणी स्फुटरुचिरयोध्या कुवलयैः",
+        "ro": "viśālā kalyāṇī sphuṭarucirayōdhyā kuvalayaiḥ"
+      },
+      "p2": {
+        "te": "కృపాధారాధారా కిమపి మధురాభోగవతికా",
+        "sa": "कृपाधाराधारा किमपि मधुराभोगवतिका",
+        "ro": "kṛpādhārādhārā kimapi madhurābhōgavatikā"
+      },
+      "p3": {
+        "te": "అవన్తీ దృష్టిస్తే బహునగరవిస్తారవిజయా",
+        "sa": "अवन्ती दृष्टिस्ते बहुनगरविस्तारविजया",
+        "ro": "avantī dṛṣṭistē bahunagaravistāravijayā"
+      },
+      "p4": {
+        "te": "ధ్రువం తత్తన్నామవ్యవహరణయోగ్యా విజయతే",
+        "sa": "ध्रुवं तत्तन्नामव्यवहरणयोग्या विजयते",
+        "ro": "dhruvaṃ tattannāmavyavaharaṇayōgyā vijayatē"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి పెదవులు బింబఫలం వలె ఎర్రగా; ఆమె నవ్వు లోకాలను ఆనందింపజేస్తుంది.",
+          "long": "దేవి పెదవులు బింబఫలం (ఎర్ర దొండపండు) వలె రక్తవర్ణంలో ఉంటాయి. ఆమె మందహాసం చూస్తే మనసు ఆనందంతో నిండిపోతుంది. ఆ పెదవులనుండి వెలువడే వచనం అమృతసమానం. కవి ఆ అందాన్ని, ఆ అమృతవచనాన్ని రెండింటినీ అనుభవించాలని కోరుకుంటున్నాడు."
+        },
+        "en": {
+          "short": "Devi's lips are red as the bimba fruit; her smile fills the worlds with delight.",
+          "long": "Devi's lips are crimson as the bimba fruit (a bright red berry). Her gentle smile fills the heart with joy. The words that emerge from those lips are like nectar. The poet longs to experience both — the beauty of her lips and the nectar of her speech. Her smile is itself a form of divine grace bestowed on all who behold it."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 50,
+      "section": "soundarya",
+      "p1": {
+        "te": "కవీనాం సన్దర్భస్తబకమకరన్దైకరసికం",
+        "sa": "कवीनां सन्दर्भस्तबकमकरन्दैकरसिकं",
+        "ro": "kavīnāṃ sandarbhastabakamakarandaikarasikaṃ"
+      },
+      "p2": {
+        "te": "కటాక్షవ్యాక్షేపభ్రమరకలభౌ కర్ణయుగలమ్",
+        "sa": "कटाक्षव्याक्षेपभ्रमरकलभौ कर्णयुगलम्",
+        "ro": "kaṭākṣavyākṣēpabhramarakalabhau karṇayugalam"
+      },
+      "p3": {
+        "te": "అముఞ్చన్తౌ దృష్ట్వా తవ నవరసాస్వాదతరలౌ",
+        "sa": "अमुञ्चन्तौ दृष्ट्वा तव नवरसास्वादतरलौ",
+        "ro": "amuñcantau dṛṣṭvā tava navarasāsvādataralau"
+      },
+      "p4": {
+        "te": "అసూయాసంసర్గాదలికనయనం కిఞ్చిదరుణమ్",
+        "sa": "असूयासंसर्गादलिकनयनं किञ्चिदरुणम्",
+        "ro": "asūyāsaṃsargādalikanayanaṃ kiñcidaruṇam"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి దంత పంక్తి ముత్యాల వలె తళతళలాడి ఆమె హాసాన్ని దివ్యంగా చేస్తుంది.",
+          "long": "దేవి దంతాలు ముత్యాల వలె తెల్లగా, నున్నగా తళతళలాడుతాయి. ఆమె నవ్వినప్పుడు వెలివడే ఆ దంతపంక్తి దర్శనం దేవదానవమానవులనందరినీ ముగ్ధులను చేస్తుంది. ఆమె హాసంలో అనంతమైన కారుణ్యం ఉంది. అది చూచిన వారి పాపాలు మాయమవుతాయి."
+        },
+        "en": {
+          "short": "Devi's teeth gleam like pearls, making her smile a divine vision that enchants all beings.",
+          "long": "Devi's teeth are white and smooth as pearls, gleaming brilliantly. When she smiles and those teeth are revealed, the sight enchants gods, demons, and humans alike. Her smile holds infinite compassion. Those who behold it have their sins washed away. Her smile is not mere beauty — it is a bestowing of grace."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 51,
+      "section": "soundarya",
+      "p1": {
+        "te": "శివే శృఙ్గారార్ద్రా తదితరజనే కుత్సనపరా",
+        "sa": "शिवे शृङ्गारार्द्रा तदितरजने कुत्सनपरा",
+        "ro": "śivē śṛṅgārārdrā taditarajanē kutsanaparā"
+      },
+      "p2": {
+        "te": "సరోషా గఙ్గాయాం గిరిశచరితే విస్మయవతీ",
+        "sa": "सरोषा गङ्गायां गिरिशचरिते विस्मयवती",
+        "ro": "sarōṣā gaṅgāyāṃ giriśacaritē vismayavatī"
+      },
+      "p3": {
+        "te": "హరాహిభ్యో భీతా సరసిరుహసౌభాగ్యజననీ",
+        "sa": "हराहिभ्यो भीता सरसिरुहसौभाग्यजननी",
+        "ro": "harāhibhyō bhītā sarasiruhasaubhāgyajananī"
+      },
+      "p4": {
+        "te": "సఖీషు స్మేరా తే మయి జనని దృష్టిః సకరుణా",
+        "sa": "सखीषु स्मेरा ते मयि जननि दृष्टिः सकरुणा",
+        "ro": "sakhīṣu smērā tē mayi janani dṛṣṭiḥ sakaruṇā"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి చిబుకం (గడ్డం) అందమైన ముఖంలో మణి వంటిది — ప్రేమ స్తంభం.",
+          "long": "దేవి చిబుకం (గడ్డం) చక్కగా ముందుకు వచ్చి ఆమె ముఖాన్ని పరిపూర్ణం చేస్తుంది. అది ప్రేమ ప్రతిమ వంటిది, అలౌకిక కాంతితో వెలిగే రత్నం వంటిది. కవి ఈ వివరాన్ని గమనించి వర్ణించడం ఆమె ప్రతి అంగముపై అపార ప్రేమను చూపిస్తుంది."
+        },
+        "en": {
+          "short": "Devi's chin is a jewel of love completing her beautiful face.",
+          "long": "Devi's chin projects gracefully forward, completing the perfection of her face — like a monument of love, a gem gleaming with supernatural light. The poet's careful observation of this detail reveals his boundless love for every feature of the Goddess — for him, each part of her form is a universe of beauty in itself."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 52,
+      "section": "soundarya",
+      "p1": {
+        "te": "గతే కర్ణాభ్యర్ణం గరుత ఇవ పక్ష్మాణి దధతీ",
+        "sa": "गते कर्णाभ्यर्णं गरुत इव पक्ष्माणि दधती",
+        "ro": "gatē karṇābhyarṇaṃ garuta iva pakṣmāṇi dadhatī"
+      },
+      "p2": {
+        "te": "పురాం భేత్తుశ్చిత్తప్రశమరసవిద్రావణఫలే",
+        "sa": "पुरां भेत्तुश्चित्तप्रशमरसविद्रावणफले",
+        "ro": "purāṃ bhēttuścittapraśamarasavidrāvaṇaphalē"
+      },
+      "p3": {
+        "te": "ఇమే నేత్రే గోత్రాధరపతికులోత్తంసకలికే",
+        "sa": "इमे नेत्रे गोत्राधरपतिकुलोत्तंसकलिके",
+        "ro": "imē nētrē gōtrādharapatikulōttaṃsakalikē"
+      },
+      "p4": {
+        "te": "తవాకర్ణాకృష్టస్మరశరవిలాసం కలయతః",
+        "sa": "तवाकर्णाकृष्टस्मरशरविलासं कलयतः",
+        "ro": "tavākarṇākṛṣṭasmaraśaravilāsaṃ kalayataḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి కంఠం శంఖం వలె సుందరమైన రేఖలతో — ఆ కంఠ అందం అందరి మనసు అపహరిస్తుంది.",
+          "long": "దేవి కంఠం శంఖం వలె మూడు రేఖలతో (త్రివళి) సుందరంగా ఉంటుంది. ఆమె కంఠం నుండి వెలువడే శబ్దం అమృతం వంటిది. కంఠ సౌందర్యం ఆమె నాదశక్తికి పాత్ర."
+        },
+        "en": {
+          "short": "Devi's neck is beautiful as a conch with three lovely lines — its beauty captivates all minds.",
+          "long": "Devi's neck, beautiful as a conch with its three graceful rings (trivalī), is a vessel of her voice. The conch is a sacred instrument — her neck matches that sanctity and beauty. The sound from her throat is nectar. Her neck is the conduit of her nādaśakti — the sacred power of sound that pervades the universe."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 53,
+      "section": "soundarya",
+      "p1": {
+        "te": "విభక్తత్రైవర్ణ్యం వ్యతికరితలీలాఞ్జనతయా",
+        "sa": "विभक्तत्रैवर्ण्यं व्यतिकरितलीलाञ्जनतया",
+        "ro": "vibhaktatraivarṇyaṃ vyatikaritalīlāñjanatayā"
+      },
+      "p2": {
+        "te": "విభాతి త్వన్నేత్రత్రితయమిదమీశానదయితే",
+        "sa": "विभाति त्वन्नेत्रत्रितयमिदमीशानदयिते",
+        "ro": "vibhāti tvannētratritayamidamīśānadayitē"
+      },
+      "p3": {
+        "te": "పునః స్రష్టుం దేవాన్ద్రుహిణహరిరుద్రానుపరతాన్",
+        "sa": "पुनः स्रष्टुं देवान्द्रुहिणहरिरुद्रानुपरतान्",
+        "ro": "punaḥ sraṣṭuṃ dēvāndruhiṇaharirudrānuparatān"
+      },
+      "p4": {
+        "te": "రజః సత్త్వం బిభ్రత్తమ ఇతి గుణానాం త్రయమివ",
+        "sa": "रजः सत्त्वं बिभ्रत्तम इति गुणानां त्रयमिव",
+        "ro": "rajaḥ sattvaṃ bibhrattama iti guṇānāṃ trayamiva"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి భుజాలు లతల వంటి — అవి ఆలింగనం చేసే అనుగ్రహానికి ప్రతీకలు.",
+          "long": "దేవి భుజాలు కోమలంగా, లతల వంటి వంపులతో ఉంటాయి. ఆమె ఆలింగనం పొందిన జీవులు ధన్యులు. ఆ ఆలింగనంలో సంసార బాధలు, పాపాలు అన్నీ నాశనమవుతాయి. ఇదే దేవి భుజాల అర్థం."
+        },
+        "en": {
+          "short": "Devi's arms are tender as creepers — they are the arms of grace that embrace all devotees.",
+          "long": "Devi's arms are gentle and curved like creepers — arms of mercy, of embrace, of grace. Those beings whom she embraces are truly blessed; in that embrace all sufferings of samsāra and all sins are dissolved. The arms of the Goddess are the ultimate shelter available to any soul."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 54,
+      "section": "soundarya",
+      "p1": {
+        "te": "పవిత్రీకర్తుం నః పశుపతిపరాధీనహృదయే",
+        "sa": "पवित्रीकर्तुं नः पशुपतिपराधीनहृदये",
+        "ro": "pavitrīkartuṃ naḥ paśupatiparādhīnahṛdayē"
+      },
+      "p2": {
+        "te": "దయామిత్రైర్నేత్రైరరుణధవలశ్యామరుచిభిః",
+        "sa": "दयामित्रैर्नेत्रैररुणधवलश्यामरुचिभिः",
+        "ro": "dayāmitrairnētrairaruṇadhavalaśyāmarucibhiḥ"
+      },
+      "p3": {
+        "te": "నదః శోణో గఙ్గా తపనతనయేతి ధ్రువమముం",
+        "sa": "नदः शोणो गङ्गा तपनतनयेति ध्रुवममुं",
+        "ro": "nadaḥ śōṇō gaṅgā tapanatanayēti dhruvamamuṃ"
+      },
+      "p4": {
+        "te": "త్రయాణాం తీర్థానాముపనయసి సమ్భేదమనఘమ్",
+        "sa": "त्रयाणां तीर्थानामुपनयसि सम्भेदमनघम्",
+        "ro": "trayāṇāṃ tīrthānāmupanayasi sambhēdamanagham"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి అరచేతి నుండి సమస్త లోకాలకు మేలు కురుస్తుంది; ఆమె వరదహస్తం అభయహస్తం.",
+          "long": "దేవి చేతులలో అభయముద్ర (భయరాహిత్యం ఇచ్చే హస్తం), వరముద్ర (వరం ఇచ్చే హస్తం) ఉంటాయి. ఆమె అరచేతి నుండి అనుగ్రహం అవిరతంగా కురుస్తుంది. ఆమె ఒక్కసారి అభయహస్తం చూపితే చాలు — సమస్త భయాలు తొలగిపోతాయి."
+        },
+        "en": {
+          "short": "From Devi's palm blessings pour on all worlds; her hand gives both fearlessness and boons.",
+          "long": "Devi's hands bear the abhayamudrā (bestowing fearlessness) and varamudrā (bestowing boons). From her palm grace pours ceaselessly. A single display of her abhaya hand is sufficient — all fears immediately vanish. Her hands are not ornamental but functional — forever engaged in blessing and protecting every being in existence."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 55,
+      "section": "soundarya",
+      "p1": {
+        "te": "నిమేషోన్మేషాభ్యాం ప్రలయముదయం యాతి జగతీ",
+        "sa": "निमेषोन्मेषाभ्यां प्रलयमुदयं याति जगती",
+        "ro": "nimēṣōnmēṣābhyāṃ pralayamudayaṃ yāti jagatī"
+      },
+      "p2": {
+        "te": "తవేత్యాహుః సన్తో ధరణిధరరాజన్యతనయే",
+        "sa": "तवेत्याहुः सन्तो धरणिधरराजन्यतनये",
+        "ro": "tavētyāhuḥ santō dharaṇidhararājanyatanayē"
+      },
+      "p3": {
+        "te": "త్వదున్మేషాజ్జాతం జగదిదమశేషం ప్రలయతః",
+        "sa": "त्वदुन्मेषाज्जातं जगदिदमशेषं प्रलयतः",
+        "ro": "tvadunmēṣājjātaṃ jagadidamaśēṣaṃ pralayataḥ"
+      },
+      "p4": {
+        "te": "పరిత్రాతుం శఙ్కే పరిహృతనిమేషాస్తవ దృశః",
+        "sa": "परित्रातुं शङ्के परिहृतनिमेषास्तव दृशः",
+        "ro": "paritrātuṃ śaṅkē parihṛtanimēṣāstava dṛśaḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి కటి (నడుము) మేఖలతో అలంకృతమై; ఆ సన్నని నడుము మూడు లోకాలను పోషిస్తుంది.",
+          "long": "దేవి సన్నని నడుము (కటి) మేఖల (నడుము వడ్డాణం)తో అలంకరించబడింది. ఆమె నడుమే మూడు లోకాలను పోషించే శక్తి నిలిచే స్థానం. ఆ సన్నని నడుమలో అనంతమైన శక్తి నిక్షిప్తమై ఉంది. ఇక్కడ కవి శారీరక సౌందర్యంలో మహాతత్త్వం చూస్తున్నాడు."
+        },
+        "en": {
+          "short": "Devi's waist, adorned with a jeweled girdle, is the slender seat of her power to sustain the worlds.",
+          "long": "Devi's slender waist (kaṭi) is adorned with a mekhala (jeweled girdle). Within that slenderness resides the power to sustain all three worlds. The poet marvels — how can something so delicate hold such infinite power? This is the paradox of the Goddess: the most fragile-seeming form contains the most immense reality."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 56,
+      "section": "soundarya",
+      "p1": {
+        "te": "తవాపర్ణే కర్ణేజపనయనపైశున్యచకితాః",
+        "sa": "तवापर्णे कर्णेजपनयनपैशुन्यचकिताः",
+        "ro": "tavāparṇē karṇējapanayanapaiśunyacakitāḥ"
+      },
+      "p2": {
+        "te": "నిలీయన్తే తోయే నియతమనిమేషాః శఫరికాః",
+        "sa": "निलीयन्ते तोये नियतमनिमेषाः शफरिकाः",
+        "ro": "nilīyantē tōyē niyatamanimēṣāḥ śapharikāḥ"
+      },
+      "p3": {
+        "te": "ఇయం చ శ్రీర్బద్ధచ్ఛదపుటకవాటం కువలయం",
+        "sa": "इयं च श्रीर्बद्धच्छदपुटकवाटं कुवलयं",
+        "ro": "iyaṃ ca śrīrbaddhacchadapuṭakavāṭaṃ kuvalayaṃ"
+      },
+      "p4": {
+        "te": "జహాతి ప్రత్యూషే నిశి చ విఘటయ్య ప్రవిశతి",
+        "sa": "जहाति प्रत्यूषे निशि च विघटय्य प्रविशति",
+        "ro": "jahāti pratyūṣē niśi ca vighaṭayya praviśati"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి నాభి మహాపద్మం — బ్రహ్మ నాభినాళంలో పుట్టాడు; ఆమె సమస్త సృష్టికి మూలం.",
+          "long": "దేవి నాభి పద్మం నుండి బ్రహ్మ ఉద్భవించాడు. తాంత్రిక దృష్టిలో బ్రహ్మ దేవి నాభికమలంలో నివసిస్తాడు. ఆమె నాభి సమస్త సృష్టికి మూలకేంద్రం. నాభిచక్రం (మణిపూర) ఆమె అగ్నిశక్తికి నెలవు."
+        },
+        "en": {
+          "short": "Devi's navel is the great lotus from which Brahma arose — the center of all creation.",
+          "long": "From Devi's navel-lotus Brahma was born. In the Tantric view, Brahma dwells within Devi's navel-lotus. Her navel is the primal center of all creation. The navel chakra (Maṇipūra) is the seat of her fire-power. The entire universe unfolds from and folds back into this single center."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 57,
+      "section": "soundarya",
+      "p1": {
+        "te": "దృశా ద్రాఘీయస్యా దరదలితనీలోత్పలరుచా",
+        "sa": "दृशा द्राघीयस्या दरदलितनीलोत्पलरुचा",
+        "ro": "dṛśā drāghīyasyā daradalitanīlōtpalarucā"
+      },
+      "p2": {
+        "te": "దవీయాంసం దీనం స్నపయ కృపయా మామపి శివే",
+        "sa": "दवीयांसं दीनं स्नपय कृपया मामपि शिवे",
+        "ro": "davīyāṃsaṃ dīnaṃ snapaya kṛpayā māmapi śivē"
+      },
+      "p3": {
+        "te": "అనేనాయం ధన్యో భవతి న చ తే హానిరియతా",
+        "sa": "अनेनायं धन्यो भवति न च ते हानिरियता",
+        "ro": "anēnāyaṃ dhanyō bhavati na ca tē hāniriyatā"
+      },
+      "p4": {
+        "te": "వనే వా హర్మ్యే వా సమకరనిపాతో హిమకరః",
+        "sa": "वने वा हर्म्ये वा समकरनिपातो हिमकरः",
+        "ro": "vanē vā harmyē vā samakaranipātō himakaraḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి ఉదరం సన్నగా, కోమలంగా — మూడు లోకాలనూ పోషించే అమ్మ ఉదరం.",
+          "long": "దేవి ఉదరం సన్నగా, త్రివళీ రేఖలతో, కోమలంగా ఉంటుంది. ఈ ఉదరమే సమస్త జీవులను పోషించే మాతృకేంద్రం. అమ్మ ఉదరం నుండే జీవులు పుట్టారు, అమ్మ వక్షస్థలం నుండే జీవులు పోషణ పొందారు. ఇది కేవలం శారీరక సౌందర్యం కాదు — ఇది జగన్మాత తత్వం."
+        },
+        "en": {
+          "short": "Devi's abdomen is slender and delicate — the maternal center that nourishes all the worlds.",
+          "long": "Devi's abdomen is slender, adorned with three gentle folds (trivalī), and tender to behold. Yet this very abdomen is the maternal center from which all beings are nourished. From this womb all lives arise; from this motherhood all sustenance flows. The physical beauty and the cosmic motherhood are inseparable in the Goddess."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 58,
+      "section": "soundarya",
+      "p1": {
+        "te": "అరాలం తే పాలీయుగలమగరాజన్యతనయే",
+        "sa": "अरालं ते पालीयुगलमगराजन्यतनये",
+        "ro": "arālaṃ tē pālīyugalamagarājanyatanayē"
+      },
+      "p2": {
+        "te": "న కేషామాధత్తే కుసుమశరకోదణ్డకుతుకమ్",
+        "sa": "न केषामाधत्ते कुसुमशरकोदण्डकुतुकम्",
+        "ro": "na kēṣāmādhattē kusumaśarakōdaṇḍakutukam"
+      },
+      "p3": {
+        "te": "తిరశ్చీనో యత్ర శ్రవణపథముల్లఙ్ఘ్య విలసన్",
+        "sa": "तिरश्चीनो यत्र श्रवणपथमुल्लङ्घ्य विलसन्",
+        "ro": "tiraścīnō yatra śravaṇapathamullaṅghya vilasan"
+      },
+      "p4": {
+        "te": "అపాఙ్గవ్యాసఙ్గో దిశతి శరసన్ధానధిషణామ్",
+        "sa": "अपाङ्गव्यासङ्गो दिशति शरसन्धानधिषणाम्",
+        "ro": "apāṅgavyāsaṅgō diśati śarasandhānadhiṣaṇām"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి జఘన సౌందర్యం — ఆమె కటి విస్తీర్ణం అనంతమైన సంపదకు ప్రతీక.",
+          "long": "దేవి జఘన భాగం (నడుము నుండి తొడ వరకు) విశాలంగా, పద్మం వలె అందంగా ఉంటుంది. ఇది మాతృత్వానికి, సంపదకు, ఐశ్వర్యానికి ప్రతీక. ఆమె దేహం అంతా పరిపూర్ణమైన సౌందర్యం, పరిపూర్ణమైన శక్తి."
+        },
+        "en": {
+          "short": "Devi's hips are wide as a lotus — a symbol of infinite abundance and motherhood.",
+          "long": "Devi's hip region is wide and beautiful as a lotus, symbolizing motherhood, abundance, and wealth. The poet describes complete beauty — her entire form is perfect beauty and perfect power. The expansion of her hips represents the expansiveness of her grace that encompasses and nourishes all creation."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 59,
+      "section": "soundarya",
+      "p1": {
+        "te": "స్ఫురద్గణ్డాభోగప్రతిఫలితతాటఙ్కయుగలం",
+        "sa": "स्फुरद्गण्डाभोगप्रतिफलितताटङ्कयुगलं",
+        "ro": "sphuradgaṇḍābhōgapratiphalitatāṭaṅkayugalaṃ"
+      },
+      "p2": {
+        "te": "చతుశ్చక్రం మన్యే తవ ముఖమిదం మన్మథరథమ్",
+        "sa": "चतुश्चक्रं मन्ये तव मुखमिदं मन्मथरथम्",
+        "ro": "catuścakraṃ manyē tava mukhamidaṃ manmatharatham"
+      },
+      "p3": {
+        "te": "యమారుహ్య ద్రుహ్యత్యవనిరథమర్కేన్దుచరణం",
+        "sa": "यमारुह्य द्रुह्यत्यवनिरथमर्केन्दुचरणं",
+        "ro": "yamāruhya druhyatyavanirathamarkēnducaraṇaṃ"
+      },
+      "p4": {
+        "te": "మహావీరో మారః ప్రమథపతయే సజ్జితవతే",
+        "sa": "महावीरो मारः प्रमथपतये सज्जितवते",
+        "ro": "mahāvīrō māraḥ pramathapatayē sajjitavatē"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి తొడలు కదలితొడాయి వంటివి — రాజ హంస వలె నడిచే ఆమె అందం అలౌకికం.",
+          "long": "దేవి తొడలు అరటిబోదె వంటి మృదువైనవి, నున్నగా, సన్నగా ఉంటాయి. ఆమె నడక రాజ హంస వలె మందగమనంగా, రాజసంగా, అందంగా ఉంటుంది. ఆమె ఒక్కసారి నడిచినా — అది లోకాలకు ఒక దివ్యదర్శనం."
+        },
+        "en": {
+          "short": "Devi's thighs are smooth as banana stalks; she walks like a royal swan — an otherworldly beauty.",
+          "long": "Devi's thighs are as soft and smooth as banana stalks. Her gait is like the royal swan — slow, dignified, graceful, and majestic. When she walks even once it is a divine vision for the worlds. That walk is not mere movement — it is the rhythm of creation itself."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 60,
+      "section": "soundarya",
+      "p1": {
+        "te": "సరస్వత్యాః సూక్తీరమృతలహరీకౌశలహరీః",
+        "sa": "सरस्वत्याः सूक्तीरमृतलहरीकौशलहरीः",
+        "ro": "sarasvatyāḥ sūktīramṛtalaharīkauśalaharīḥ"
+      },
+      "p2": {
+        "te": "పిబన్త్యాః శర్వాణి శ్రవణచులుకాభ్యామవిరలమ్",
+        "sa": "पिबन्त्याः शर्वाणि श्रवणचुलुकाभ्यामविरलम्",
+        "ro": "pibantyāḥ śarvāṇi śravaṇaculukābhyāmaviralam"
+      },
+      "p3": {
+        "te": "చమత్కారశ్లాఘాచలితశిరసః కుణ్డలగణః",
+        "sa": "चमत्कारश्लाघाचलितशिरसः कुण्डलगणः",
+        "ro": "camatkāraślāghācalitaśirasaḥ kuṇḍalagaṇaḥ"
+      },
+      "p4": {
+        "te": "ఝణత్కారైస్తారైః ప్రతివచనమాచష్ట ఇవ తే",
+        "sa": "झणत्कारैस्तारैः प्रतिवचनमाचष्ट इव ते",
+        "ro": "jhaṇatkāraistāraiḥ prativacanamācaṣṭa iva tē"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి మోకాళ్ళు (జానువులు) నున్నగా, నేర్పుగా — ఆమె సౌందర్యం తొడ నుండి పాదాల వరకు సమగ్రం.",
+          "long": "దేవి మోకాళ్ళు రత్నాల వలె, చదునుగా, అందంగా ఉంటాయి. కవి ఇక్కడ ఆమె తొడ నుండి పాదాల వరకు సమగ్రంగా అందమైన వర్ణన ఇస్తున్నాడు. ఆమె ప్రతి అంగమూ ఒక ప్రత్యేక అందం కలిగి ఉంది — అన్నీ కలిసి పరిపూర్ణ సౌందర్యాన్ని నిర్మిస్తున్నాయి."
+        },
+        "en": {
+          "short": "Devi's knees are smooth and jewel-like — each limb a unique beauty completing her perfect form.",
+          "long": "Devi's knees are smooth and lovely as jewels — each a distinct beauty. The poet gives a complete and loving description from her thighs to her feet — every part of her form holds a special beauty, and together they compose perfect wholeness. No single detail is too small for the poet's devoted attention."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 61,
+      "section": "soundarya",
+      "p1": {
+        "te": "అసౌ నాసావంశస్తుహినగిరివంశధ్వజపటి",
+        "sa": "असौ नासावंशस्तुहिनगिरिवंशध्वजपटि",
+        "ro": "asau nāsāvaṃśastuhinagirivaṃśadhvajapaṭi"
+      },
+      "p2": {
+        "te": "త్వదీయో నేదీయః ఫలతు ఫలమస్మాకముచితమ్",
+        "sa": "त्वदीयो नेदीयः फलतु फलमस्माकमुचितम्",
+        "ro": "tvadīyō nēdīyaḥ phalatu phalamasmākamucitam"
+      },
+      "p3": {
+        "te": "వహత్యన్తర్ముక్తాః శిశిరకరనిశ్వాసగలితం",
+        "sa": "वहत्यन्तर्मुक्ताः शिशिरकरनिश्वासगलितं",
+        "ro": "vahatyantarmuktāḥ śiśirakaraniśvāsagalitaṃ"
+      },
+      "p4": {
+        "te": "సమృద్ధ్యా యత్తాసాం బహిరపి చ ముక్తామణిధరః",
+        "sa": "समृद्ध्या यत्तासां बहिरपि च मुक्तामणिधरः",
+        "ro": "samṛddhyā yattāsāṃ bahirapi ca muktāmaṇidharaḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి పిక్కలు (జంఘాలు) అడవి ఏనుగు తొండం వంటివి — కోమలం, దృఢం, అందమైనవి.",
+          "long": "దేవి పిక్కలు అటవీ ఏనుగు తొండం వలె కోమలంగా, విస్తీర్ణంగా ఉంటాయి. ఈ పోలిక అందానికి మరియు బలానికి రెండింటికీ. ఏనుగు తొండం గంధర్వులకు, ఋషులకు వందనం చేసే అంగం — అంత పవిత్రత ఆమె పిక్కలకూ ఉంది."
+        },
+        "en": {
+          "short": "Devi's calves are like an elephant's trunk — tender yet firm, beautiful yet powerful.",
+          "long": "Devi's calves are as tender and graceful as an elephant's trunk — a metaphor combining gentleness and strength. Her limbs hold beauty and power together. The elephant's trunk is the limb with which it pays homage — so sacred is that attribute, and the poet grants the same sanctity to the calves of the Goddess."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 62,
+      "section": "soundarya",
+      "p1": {
+        "te": "ప్రకృత్యారక్తాయాస్తవ సుదతి దన్తచ్ఛదరుచేః",
+        "sa": "प्रकृत्यारक्तायास्तव सुदति दन्तच्छदरुचेः",
+        "ro": "prakṛtyāraktāyāstava sudati dantacchadarucēḥ"
+      },
+      "p2": {
+        "te": "ప్రవక్ష్యే సాదృశ్యం జనయతు ఫలం విద్రుమలతా",
+        "sa": "प्रवक्ष्ये सादृश्यं जनयतु फलं विद्रुमलता",
+        "ro": "pravakṣyē sādṛśyaṃ janayatu phalaṃ vidrumalatā"
+      },
+      "p3": {
+        "te": "న బిమ్బం తద్బిమ్బప్రతిఫలనరాగాదరుణితం",
+        "sa": "न बिम्बं तद्बिम्बप्रतिफलनरागादरुणितं",
+        "ro": "na bimbaṃ tadbimbapratiphalanarāgādaruṇitaṃ"
+      },
+      "p4": {
+        "te": "తులామధ్యారోఢుం కథమివ విలజ్జేత కలయా",
+        "sa": "तुलामध्यारोढुं कथमिव विलज्जेत कलया",
+        "ro": "tulāmadhyārōḍhuṃ kathamiva vilajjēta kalayā"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి పాదాలు అందమైన పద్మాల వలె; ఆమె పాదాలపై వాలిన సాధకుని పాపాలు క్షణంలో కరిగిపోతాయి.",
+          "long": "దేవి పాదపద్మాలు కమలాల వలె కోమలంగా, అరుణవర్ణంగా, అందంగా ఉంటాయి. ఆమె పాదాలపై తలవంచిన సాధకుని పాపాలు, దుఃఖాలు, భయాలు అన్నీ నాశనమవుతాయి. పాదాలు ఆమె అనుగ్రహం లభించే ద్వారం."
+        },
+        "en": {
+          "short": "Devi's lotus feet are tender and crimson; at her feet all sins and sorrows dissolve instantly.",
+          "long": "Devi's lotus feet are tender, crimson, and beautiful as lotus flowers. The devotee who bows at her feet sees all sins, sorrows, and fears dissolved instantly. Her feet are the gateway through which her grace is received. 'Pādaṃ śaraṇam' — this is the philosophy enshrined in this verse."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 63,
+      "section": "soundarya",
+      "p1": {
+        "te": "స్మితజ్యోత్స్నాజాలం తవ వదనచన్ద్రస్య పిబతాం",
+        "sa": "स्मितज्योत्स्नाजालं तव वदनचन्द्रस्य पिबतां",
+        "ro": "smitajyōtsnājālaṃ tava vadanacandrasya pibatāṃ"
+      },
+      "p2": {
+        "te": "చకోరాణామాసీదతిరసతయా చఞ్చుజడిమా",
+        "sa": "चकोराणामासीदतिरसतया चञ्चुजडिमा",
+        "ro": "cakōrāṇāmāsīdatirasatayā cañcujaḍimā"
+      },
+      "p3": {
+        "te": "అతస్తే శీతాంశోరమృతలహరీమామ్లరుచయః",
+        "sa": "अतस्ते शीतांशोरमृतलहरीमाम्लरुचयः",
+        "ro": "atastē śītāṃśōramṛtalaharīmāmlarucayaḥ"
+      },
+      "p4": {
+        "te": "పిబన్తి స్వచ్ఛన్దం నిశినిశి భృశం కాఞ్జికధియా",
+        "sa": "पिबन्ति स्वच्छन्दं निशिनिशि भृशं काञ्जिकधिया",
+        "ro": "pibanti svacchandaṃ niśiniśi bhṛśaṃ kāñjikadhiyā"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి పాదనఖాలు వజ్రాల వలె వెలిగి ముముక్షువుల అంధకారాన్ని పోగొడతాయి.",
+          "long": "దేవి పాద నఖాలు వజ్రాల వలె తళతళలాడతాయి. ఆ తళతళ వెలుతురు ముముక్షువుల (ముక్తి కోరేవారి) అజ్ఞానపు అంధకారాన్ని పారద్రోలుతుంది. ఆమె పాద నఖాల దీప్తి ప్రపంచంలోని అన్ని జ్ఞాన దీపాలను మించిపోతుంది."
+        },
+        "en": {
+          "short": "Devi's toenails gleam like diamonds, dispelling the darkness of ignorance in those seeking liberation.",
+          "long": "Devi's toenails sparkle like diamonds. That brilliance dispels the darkness of ignorance in those who seek liberation (mumukṣu). The radiance of her toenails surpasses all the lamps of knowledge in the world. The tiniest detail of her form carries infinite illuminating power."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 64,
+      "section": "soundarya",
+      "p1": {
+        "te": "అవిశ్రాన్తం పత్యుర్గుణగణకథామ్రేడనజపా",
+        "sa": "अविश्रान्तं पत्युर्गुणगणकथाम्रेडनजपा",
+        "ro": "aviśrāntaṃ patyurguṇagaṇakathāmrēḍanajapā"
+      },
+      "p2": {
+        "te": "జపాపుష్పచ్ఛాయా తవ జనని జిహ్వా జయతి సా",
+        "sa": "जपापुष्पच्छाया तव जननि जिह्वा जयति सा",
+        "ro": "japāpuṣpacchāyā tava janani jihvā jayati sā"
+      },
+      "p3": {
+        "te": "యదగ్రాసీనాయాః స్ఫటికదృషదచ్ఛచ్ఛవిమయీ",
+        "sa": "यदग्रासीनायाः स्फटिकदृषदच्छच्छविमयी",
+        "ro": "yadagrāsīnāyāḥ sphaṭikadṛṣadacchacchavimayī"
+      },
+      "p4": {
+        "te": "సరస్వత్యా మూర్తిః పరిణమతి మాణిక్యవపుషా",
+        "sa": "सरस्वत्या मूर्तिः परिणमति माणिक्यवपुषा",
+        "ro": "sarasvatyā mūrtiḥ pariṇamati māṇikyavapuṣā"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి పాదాలకు బంగారు కడియాలు అలంకారాలు — ఆ ఝుమఝుమ శబ్దం బ్రహ్మాండాన్ని పావనం చేస్తుంది.",
+          "long": "దేవి పాదాలకు మణిమయ కడియాలు (నూపురాలు) ఉంటాయి. ఆమె నడవగా ఆ నూపురాల ఝుమఝుమ శబ్దం వినడం పరమ సౌభాగ్యం. ఆ శబ్దం వినేవారి పాపాలు తొలగిపోతాయి. ఆ నాదం ప్రణవమంత్రానికి సాటివస్తుంది."
+        },
+        "en": {
+          "short": "Devi's feet are adorned with jeweled anklets — their tinkling sound sanctifies the universe.",
+          "long": "Devi's feet are adorned with jeweled anklets (nūpura). To hear their tinkling sound as she walks is the greatest fortune — those who hear that sound are freed from their sins. That sound rivals the Praṇava (Om) in its sanctifying power. Sound (nāda) is itself a path to the divine."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 65,
+      "section": "soundarya",
+      "p1": {
+        "te": "రణే జిత్వా దైత్యానపహృతశిరస్త్రైః కవచిభిః",
+        "sa": "रणे जित्वा दैत्यानपहृतशिरस्त्रैः कवचिभिः",
+        "ro": "raṇē jitvā daityānapahṛtaśirastraiḥ kavacibhiḥ"
+      },
+      "p2": {
+        "te": "నివృత్తైశ్చణ్డాంశత్రిపురహరనిర్మాల్యవిముఖైః",
+        "sa": "निवृत्तैश्चण्डांशत्रिपुरहरनिर्माल्यविमुखैः",
+        "ro": "nivṛttaiścaṇḍāṃśatripuraharanirmālyavimukhaiḥ"
+      },
+      "p3": {
+        "te": "విశాఖేన్ద్రోపేన్ద్రైః శశివిశదకర్పూరశకలా",
+        "sa": "विशाखेन्द्रोपेन्द्रैः शशिविशदकर्पूरशकला",
+        "ro": "viśākhēndrōpēndraiḥ śaśiviśadakarpūraśakalā"
+      },
+      "p4": {
+        "te": "విలీయన్తే మాతస్తవ వదనతామ్బూలకబలాః",
+        "sa": "विलीयन्ते मातस्तव वदनताम्बूलकबलाः",
+        "ro": "vilīyantē mātastava vadanatāmbūlakabalāḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి సకల అభరణాలు ధరించినా, ఆమె సౌందర్యమే నిజమైన ఆభరణం.",
+          "long": "దేవి సువర్ణ, రత్న, మణి, ముత్యాల అభరణాలు ధరిస్తుంది. అయినా వాటికన్నా ఆమె సౌందర్యమే అందమైన ఆభరణం. ఆభరణాలు ఆమె సౌందర్యాన్ని పెంచడం లేదు — ఆమె సౌందర్యం ఆభరణాలకు వన్నె చేకూర్చుతోంది."
+        },
+        "en": {
+          "short": "Devi wears all ornaments, yet her own beauty is the truest ornament of all.",
+          "long": "Devi wears ornaments of gold, gems, jewels, and pearls. Yet even these cannot surpass her own beauty — it is her beauty that adorns the ornaments, not the reverse. 'It is the woman who ornaments the ornament' (nārī bhūṣaṇam bhūṣaṇam) — this principle manifests perfectly in Devi."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 66,
+      "section": "soundarya",
+      "p1": {
+        "te": "విపఞ్చ్యా గాయన్తీ వివిధమపదానం పశుపతేః",
+        "sa": "विपञ्च्या गायन्ती विविधमपदानं पशुपतेः",
+        "ro": "vipañcyā gāyantī vividhamapadānaṃ paśupatēḥ"
+      },
+      "p2": {
+        "te": "త్వయారబ్ధే వక్తుం చలితశిరసా సాధువచనే",
+        "sa": "त्वयारब्धे वक्तुं चलितशिरसा साधुवचने",
+        "ro": "tvayārabdhē vaktuṃ calitaśirasā sādhuvacanē"
+      },
+      "p3": {
+        "te": "తదీయైర్మాధుర్యైరపలపితతన్త్రీకలరవాం",
+        "sa": "तदीयैर्माधुर्यैरपलपिततन्त्रीकलरवां",
+        "ro": "tadīyairmādhuryairapalapitatantrīkalaravāṃ"
+      },
+      "p4": {
+        "te": "నిజాం వీణాం వాణీ నిచులయతి చోలేన నిభృతమ్",
+        "sa": "निजां वीणां वाणी निचुलयति चोलेन निभृतम्",
+        "ro": "nijāṃ vīṇāṃ vāṇī niculayati cōlēna nibhṛtam"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి మందహాసం అమృతం; ఆ నవ్వు చూసిన వారికి మోక్షం సమీపంలో ఉంది.",
+          "long": "దేవి మందహాసం అమృతధారా వంటిది. ఆ నవ్వు చూసిన వారి హృదయాలు ఆనందంతో నిండిపోతాయి. ఆ మందహాసంలో కారుణ్యం ఉంది, ప్రేమ ఉంది, జ్ఞానం ఉంది. ఆ నవ్వులో చూచిన వారికి ముక్తి దూరంలో లేదు."
+        },
+        "en": {
+          "short": "Devi's gentle smile is nectar; those who behold it find liberation very near.",
+          "long": "Devi's gentle smile is like a stream of ambrosia. The hearts of those who behold it fill with joy. Within that smile lives compassion, love, and wisdom all at once. Those who have seen that smile find liberation near at hand — the poet speaks from the alchemy of personal experience."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 67,
+      "section": "soundarya",
+      "p1": {
+        "te": "కరాగ్రేణ స్పృష్టం తుహినగిరిణా వత్సలతయా",
+        "sa": "कराग्रेण स्पृष्टं तुहिनगिरिणा वत्सलतया",
+        "ro": "karāgrēṇa spṛṣṭaṃ tuhinagiriṇā vatsalatayā"
+      },
+      "p2": {
+        "te": "గిరీశేనోదస్తం ముహురధరపానాకులతయా",
+        "sa": "गिरीशेनोदस्तं मुहुरधरपानाकुलतया",
+        "ro": "girīśēnōdastaṃ muhuradharapānākulatayā"
+      },
+      "p3": {
+        "te": "కరగ్రాహ్యం శమ్భోర్ముఖముకురవృన్తం గిరిసుతే",
+        "sa": "करग्राह्यं शम्भोर्मुखमुकुरवृन्तं गिरिसुते",
+        "ro": "karagrāhyaṃ śambhōrmukhamukuravṛntaṃ girisutē"
+      },
+      "p4": {
+        "te": "కథఙ్కారం బ్రూమస్తవ చుబుకమౌపమ్యరహితమ్",
+        "sa": "कथङ्कारं ब्रूमस्तव चुबुकमौपम्यरहितम्",
+        "ro": "kathaṅkāraṃ brūmastava cubukamaupamyarahitam"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి చూపు కరుణతో నిండి ఉంది; ఆ కటాక్షం పొందే వారు జన్మపావనులు.",
+          "long": "దేవి కటాక్షం కారుణ్యంతో, ప్రేమతో నిండి ఉంటుంది. ఆ కటాక్షం పొందిన వారు జన్మ పావనులు. ఆ ఒక్క చూపులో జన్మజన్మాంతర పాపాలు నాశనమవుతాయి. దేవి కటాక్షం అంత శక్తిమంతమైనది."
+        },
+        "en": {
+          "short": "Devi's sidelong glance overflows with compassion; those who receive it are purified across all births.",
+          "long": "Devi's katākṣa (sidelong glance) is full of compassion and love. One who receives that glance is purified — the poet declares this absolutely. In that single glance the sins of countless births are destroyed. To be seen by her is to be transformed."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 68,
+      "section": "soundarya",
+      "p1": {
+        "te": "భుజాశ్లేషాన్నిత్యం పురదమయితుః కణ్టకవతీ",
+        "sa": "भुजाश्लेषान्नित्यं पुरदमयितुः कण्टकवती",
+        "ro": "bhujāślēṣānnityaṃ puradamayituḥ kaṇṭakavatī"
+      },
+      "p2": {
+        "te": "తవ గ్రీవా ధత్తే ముఖకమలనాలశ్రియమియమ్",
+        "sa": "तव ग्रीवा धत्ते मुखकमलनालश्रियमियम्",
+        "ro": "tava grīvā dhattē mukhakamalanālaśriyamiyam"
+      },
+      "p3": {
+        "te": "స్వతః శ్వేతా కాలాగురుబహులజమ్బాలమలినా",
+        "sa": "स्वतः श्वेता कालागुरुबहुलजम्बालमलिना",
+        "ro": "svataḥ śvētā kālāgurubahulajambālamalinā"
+      },
+      "p4": {
+        "te": "మృణాలీలాలిత్యం వహతి యదధో హారలతికా",
+        "sa": "मृणालीलालित्यं वहति यदधो हारलतिका",
+        "ro": "mṛṇālīlālityaṃ vahati yadadhō hāralatikā"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి లలాటంలో అర్ధచంద్రునిలో అమృతం ఉంది; ఆ అమృతమే జీవులకు జీవనం.",
+          "long": "దేవి నుదుటిపై అర్ధచంద్రుడు ఉంటాడు. ఆ అర్ధచంద్రుని నుండి అమృతం కారుతుంది. ఆ అమృతమే సమస్త జీవులకు జీవనాధారం. చంద్రుడు తన అమృత కిరణాలతో పంటలను, ప్రాణులను పోషిస్తాడు — ఇది ఆమె అమృతపోషణ శక్తికి ప్రతీక."
+        },
+        "en": {
+          "short": "In the crescent on Devi's forehead is ambrosia — that nectar is the life of all beings.",
+          "long": "On Devi's forehead rests a crescent moon from which ambrosia continuously flows. That ambrosia is the very sustenance of all living beings. As the moon nourishes crops and creatures with its nectar-rays, so Devi's crescent moon represents her power to nourish and sustain all life across all the worlds."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 69,
+      "section": "soundarya",
+      "p1": {
+        "te": "గలే రేఖాస్తిస్రో గతిగమకగీతైకనిపుణే",
+        "sa": "गले रेखास्तिस्रो गतिगमकगीतैकनिपुणे",
+        "ro": "galē rēkhāstisrō gatigamakagītaikanipuṇē"
+      },
+      "p2": {
+        "te": "వివాహవ్యానద్ధప్రగుణగుణసఙ్ఖ్యాప్రతిభువః",
+        "sa": "विवाहव्यानद्धप्रगुणगुणसङ्ख्याप्रतिभुवः",
+        "ro": "vivāhavyānaddhapraguṇaguṇasaṅkhyāpratibhuvaḥ"
+      },
+      "p3": {
+        "te": "విరాజన్తే నానావిధమధురరాగాకరభువాం",
+        "sa": "विराजन्ते नानाविधमधुररागाकरभुवां",
+        "ro": "virājantē nānāvidhamadhurarāgākarabhuvāṃ"
+      },
+      "p4": {
+        "te": "త్రయాణాం గ్రామాణాం స్థితినియమసీమాన ఇవ తే",
+        "sa": "त्रयाणां ग्रामाणां स्थितिनियमसीमान इव ते",
+        "ro": "trayāṇāṃ grāmāṇāṃ sthitiniyamasīmāna iva tē"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి కుండలాలు (చెవి ఆభరణాలు) సూర్యచంద్రులకు సమానమైన కాంతిని ఇస్తాయి.",
+          "long": "దేవి చెవుల కుండలాలు సూర్యచంద్రుల వంటి తేజస్సుతో ప్రకాశిస్తాయి. ఒక కుండలం సూర్యుడు, మరొకటి చంద్రుడు — ఇది తాంత్రిక భావన. ఈ రెండూ కలిసి శివ-శక్తి ఐక్యాన్ని సూచిస్తాయి. కవి ఆమె ఆభరణాలలో కూడా విశ్వతత్వాన్ని చూస్తున్నాడు."
+        },
+        "en": {
+          "short": "Devi's earrings radiate as the sun and moon — one the sun, the other the moon, symbolizing Shiva-Shakti.",
+          "long": "Devi's earrings shine with the radiance of the sun and moon. In Tantric understanding, one earring represents the sun and the other the moon — together symbolizing the union of Shiva and Shakti. The poet sees cosmic reality even in the ornaments of the Goddess — every detail of her form encodes the deepest truths of existence."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 70,
+      "section": "soundarya",
+      "p1": {
+        "te": "మృణాలీమృద్వీనాం తవ భుజలతానాం చతసృణాం",
+        "sa": "मृणालीमृद्वीनां तव भुजलतानां चतसृणां",
+        "ro": "mṛṇālīmṛdvīnāṃ tava bhujalatānāṃ catasṛṇāṃ"
+      },
+      "p2": {
+        "te": "చతుర్భిః సౌన్దర్యం సరసిజభవః స్తౌతి వదనైః",
+        "sa": "चतुर्भिः सौन्दर्यं सरसिजभवः स्तौति वदनैः",
+        "ro": "caturbhiḥ saundaryaṃ sarasijabhavaḥ stauti vadanaiḥ"
+      },
+      "p3": {
+        "te": "నఖేభ్యః సన్త్రస్యన్ప్రథమమథనాదన్ధకరిపోః",
+        "sa": "नखेभ्यः सन्त्रस्यन्प्रथममथनादन्धकरिपोः",
+        "ro": "nakhēbhyaḥ santrasyanprathamamathanādandhakaripōḥ"
+      },
+      "p4": {
+        "te": "చతుర్ణాం శీర్షాణాం సమమభయహస్తార్పణధియా",
+        "sa": "चतुर्णां शीर्षाणां सममभयहस्तार्पणधिया",
+        "ro": "caturṇāṃ śīrṣāṇāṃ samamabhayahastārpaṇadhiyā"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి మంగళసూత్రం జగత్తు మంగళానికి; ఆ మంగళసూత్రమే సమస్త జగత్ సంరక్షణ.",
+          "long": "దేవి మంగళసూత్రం సాధారణ ఆభరణం కాదు. అది జగత్ మంగళానికి సాధనం. దేవి శివుని వివాహితురాలు — ఆ సంబంధం స్వయంగా జగత్ పోషణకు మూలం. మంగళసూత్రంలో ఉన్న శుభ శక్తి సమస్త లోకాలను రక్షిస్తుంది."
+        },
+        "en": {
+          "short": "Devi's maṅgalasūtra is for the well-being of the world — it is itself cosmic protection.",
+          "long": "Devi's maṅgalasūtra is no ordinary ornament. It is the instrument of universal auspiciousness. As the wife of Shiva, their relationship itself is the foundation of cosmic sustenance. The auspicious power contained in that sacred thread protects all the worlds — the poet elegantly expresses this cosmic dimension hidden within a personal ornament."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 71,
+      "section": "soundarya",
+      "p1": {
+        "te": "నఖానాముద్ద్యోతైర్నవనలినరాగం విహసతాం",
+        "sa": "नखानामुद्द्योतैर्नवनलिनरागं विहसतां",
+        "ro": "nakhānāmuddyōtairnavanalinarāgaṃ vihasatāṃ"
+      },
+      "p2": {
+        "te": "కరాణాం తే కాన్తిం కథయ కథయామః కథముమే",
+        "sa": "कराणां ते कान्तिं कथय कथयामः कथमुमे",
+        "ro": "karāṇāṃ tē kāntiṃ kathaya kathayāmaḥ kathamumē"
+      },
+      "p3": {
+        "te": "కయాచిద్వా సామ్యం భజతు కలయా హన్త కమలం",
+        "sa": "कयाचिद्वा साम्यं भजतु कलया हन्त कमलं",
+        "ro": "kayācidvā sāmyaṃ bhajatu kalayā hanta kamalaṃ"
+      },
+      "p4": {
+        "te": "యది క్రీడల్లక్ష్మీచరణతలలాక్షారసచణమ్",
+        "sa": "यदि क्रीडल्लक्ष्मीचरणतललाक्षारसचणम्",
+        "ro": "yadi krīḍallakṣmīcaraṇatalalākṣārasacaṇam"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి స్తనాలు విశ్వాన్ని పోషించే మాతృకేంద్రాలు; అవి శిశువులను, సాధకులను పోషిస్తాయి.",
+          "long": "దేవి వక్షస్థలం మాతృత్వానికి ప్రతీక. ఆమె స్తనాలు విశ్వాన్ని పోషించే అమృత కేంద్రాలు. శిశువులు ఈ అమృతంతో పోషణ పొందుతారు; ఆధ్యాత్మికంగా, సాధకులు ఆమె అనుగ్రహంతో పోషణ పొందుతారు. ఇది జగన్మాత తత్వం."
+        },
+        "en": {
+          "short": "Devi's breasts are the maternal centers that nourish the universe with nectar-milk.",
+          "long": "Devi's bosom is the symbol of supreme motherhood. Her breasts are the nectar-centers that nourish the universe. Physically, infants are nourished by this nectar; spiritually, devotees are nourished by her grace. This is the truth of Jaghanmātā — the universal mother whose nourishment is available to every soul."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 72,
+      "section": "soundarya",
+      "p1": {
+        "te": "సమం దేవి స్కన్దద్విపవదనపీతం స్తనయుగం",
+        "sa": "समं देवि स्कन्दद्विपवदनपीतं स्तनयुगं",
+        "ro": "samaṃ dēvi skandadvipavadanapītaṃ stanayugaṃ"
+      },
+      "p2": {
+        "te": "తవేదం నః ఖేదం హరతు సతతం ప్రస్నుతముఖమ్",
+        "sa": "तवेदं नः खेदं हरतु सततं प्रस्नुतमुखम्",
+        "ro": "tavēdaṃ naḥ khēdaṃ haratu satataṃ prasnutamukham"
+      },
+      "p3": {
+        "te": "యదాలోక్యాశఙ్కాకులితహృదయో హాసజనకః",
+        "sa": "यदालोक्याशङ्काकुलितहृदयो हासजनकः",
+        "ro": "yadālōkyāśaṅkākulitahṛdayō hāsajanakaḥ"
+      },
+      "p4": {
+        "te": "స్వకుమ్భౌ హేరమ్బః పరిమృశతి హస్తేన ఝటితి",
+        "sa": "स्वकुम्भौ हेरम्बः परिमृशति हस्तेन झटिति",
+        "ro": "svakumbhau hērambaḥ parimṛśati hastēna jhaṭiti"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి వస్త్రాలు దివ్యమైనవి; ఆమె సౌందర్యమే నిజమైన ఆభరణం — వస్త్రం కాదు.",
+          "long": "దేవి ధరించే వస్త్రాలు దివ్యమైనవి. అయినా ఆమె వస్త్రాలవలన అందం పెరగదు — ఆమె అందం వస్త్రాలను పవిత్రం చేస్తుంది. ఆమె నగ్నంగా ఉన్నా, వస్త్రాలు ధరించినా, ఆమె సౌందర్యం ఒకే విధంగా ఉంటుంది. ఇది ఆమె అలౌకికత్వానికి నిదర్శనం."
+        },
+        "en": {
+          "short": "Devi's garments are divine, yet her beauty sanctifies them — her beauty needs no adornment.",
+          "long": "Devi's garments are celestial. Yet they do not enhance her beauty — rather, her beauty sanctifies them. Whether clothed or unclothed, her beauty remains unchanged. This alone demonstrates her transcendence — she is beyond all conditionality. The Goddess's beauty is self-sufficient and absolute."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 73,
+      "section": "soundarya",
+      "p1": {
+        "te": "అమూ తే వక్షోజావమృతరసమాణిక్యకుతుపౌ",
+        "sa": "अमू ते वक्षोजावमृतरसमाणिक्यकुतुपौ",
+        "ro": "amū tē vakṣōjāvamṛtarasamāṇikyakutupau"
+      },
+      "p2": {
+        "te": "న సన్దేహస్పన్దో నగపతిపతాకే మనసి నః",
+        "sa": "न सन्देहस्पन्दो नगपतिपताके मनसि नः",
+        "ro": "na sandēhaspandō nagapatipatākē manasi naḥ"
+      },
+      "p3": {
+        "te": "పిబన్తౌ తౌ యస్మాదవిదితవధూసఙ్గరసికౌ",
+        "sa": "पिबन्तौ तौ यस्मादविदितवधूसङ्गरसिकौ",
+        "ro": "pibantau tau yasmādaviditavadhūsaṅgarasikau"
+      },
+      "p4": {
+        "te": "కుమారావద్యాపి ద్విరదవదనక్రౌఞ్చదలనౌ",
+        "sa": "कुमारावद्यापि द्विरदवदनक्रौञ्चदलनौ",
+        "ro": "kumārāvadyāpi dviradavadanakrauñcadalanau"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి కటాక్ష వీక్షణం — ఆమె ఒక్కసారి కరుణగా చూసినా సాధకుని జీవితం పరివర్తనమవుతుంది.",
+          "long": "దేవి కటాక్ష వీక్షణం అత్యంత శక్తివంతమైనది. ఆమె ఒక్కసారి కరుణగా చూసినా సాధకుని జీవితం పూర్తిగా మారిపోతుంది. మోక్షం, జ్ఞానం, సంపద, ఆరోగ్యం — ఆమె ఒక్క చూపులో ఇవన్నీ ఇవ్వగలదు. ఆమె దయకు అడ్డులేదు."
+        },
+        "en": {
+          "short": "Devi's compassionate glance — one look from her transforms the devotee's life completely.",
+          "long": "Devi's compassionate glance is supremely powerful. A single merciful look from her completely transforms the devotee's life. Liberation, knowledge, prosperity, health — all can be bestowed in one glance. Her compassion knows no obstacle and her glance no limit."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 74,
+      "section": "soundarya",
+      "p1": {
+        "te": "వహత్యమ్బ స్తమ్బేరమదనుజకుమ్భప్రకృతిభిః",
+        "sa": "वहत्यम्ब स्तम्बेरमदनुजकुम्भप्रकृतिभिः",
+        "ro": "vahatyamba stambēramadanujakumbhaprakṛtibhiḥ"
+      },
+      "p2": {
+        "te": "సమారబ్ధాం ముక్తామణిభిరమలాం హారలతికామ్",
+        "sa": "समारब्धां मुक्तामणिभिरमलां हारलतिकाम्",
+        "ro": "samārabdhāṃ muktāmaṇibhiramalāṃ hāralatikām"
+      },
+      "p3": {
+        "te": "కుచాభోగో బిమ్బాధరరుచిభిరన్తః శబలితాం",
+        "sa": "कुचाभोगो बिम्बाधररुचिभिरन्तः शबलितां",
+        "ro": "kucābhōgō bimbādhararucibhirantaḥ śabalitāṃ"
+      },
+      "p4": {
+        "te": "ప్రతాపవ్యామిశ్రాం పురదమయితుః కీర్తిమివ తే",
+        "sa": "प्रतापव्यामिश्रां पुरदमयितुः कीर्तिमिव ते",
+        "ro": "pratāpavyāmiśrāṃ puradamayituḥ kīrtimiva tē"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి నృత్యం — ఆమె నృత్యంలో సమస్త విశ్వం లయించి, మళ్ళీ పుట్టుకొస్తుంది.",
+          "long": "దేవి నృత్యం కేవలం కళాప్రదర్శన కాదు. ఆమె నృత్యంలో సృష్టి, స్థితి, లయ మూడూ ఉన్నాయి. ఆమె ఒక్కో అడుగులో ఒక్కో జగత్తు పుడుతుంది; ఒక్కో తాళంలో ఒక్కో జగత్తు లయమవుతుంది. ఇది నటరాజ నృత్యం యొక్క శాక్తేయ రూపం."
+        },
+        "en": {
+          "short": "Devi's dance — in her dance the entire universe dissolves and is reborn with each step.",
+          "long": "Devi's dance is no mere artistic performance. In her dance are creation, preservation, and dissolution — all three. With each step a world is born; with each beat a world dissolves. Her dance IS the universe. This is the Śākteya counterpart to Nataraj's cosmic dance — the feminine principle dancing the cosmos into and out of existence."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 75,
+      "section": "soundarya",
+      "p1": {
+        "te": "తవ స్తన్యం మన్యే ధరణిధరకన్యే హృదయతః",
+        "sa": "तव स्तन्यं मन्ये धरणिधरकन्ये हृदयतः",
+        "ro": "tava stanyaṃ manyē dharaṇidharakanyē hṛdayataḥ"
+      },
+      "p2": {
+        "te": "పయఃపారావారః పరివహతి సారస్వతమివ",
+        "sa": "पयःपारावारः परिवहति सारस्वतमिव",
+        "ro": "payaḥpārāvāraḥ parivahati sārasvatamiva"
+      },
+      "p3": {
+        "te": "దయావత్యా దత్తం ద్రవిడశిశురాస్వాద్య తవ యత్",
+        "sa": "दयावत्या दत्तं द्रविडशिशुरास्वाद्य तव यत्",
+        "ro": "dayāvatyā dattaṃ draviḍaśiśurāsvādya tava yat"
+      },
+      "p4": {
+        "te": "కవీనాం ప్రౌఢానామజని కమనీయః కవయితా",
+        "sa": "कवीनां प्रौढानामजनि कमनीयः कवयिता",
+        "ro": "kavīnāṃ prauḍhānāmajani kamanīyaḥ kavayitā"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి పాద ధ్వని అన్ని మంత్రాలకు మాతృ; ఆ ధ్వని వినడం స్వయంగా ఉపాసన.",
+          "long": "దేవి అడుగుల ధ్వని, ఆమె నూపురాల శబ్దం — అవన్నీ దివ్య నాదరూపాలు. ఆ నాదం వినడమే మంత్రోచ్చారణతో సమానం. నాద బ్రహ్మోపాసన ద్వారా ముక్తికి మార్గం — ఈ శ్లోకం ఆ సందేశమిస్తుంది."
+        },
+        "en": {
+          "short": "The sound of Devi's footstep is the mother of all mantras; hearing it is itself an act of worship.",
+          "long": "The sound of Devi's footsteps, the tinkling of her anklets — these are divine manifestations of nāda (sacred sound). To hear that sound equals the utterance of mantras. The path to liberation through worship of Nādabrahman — this verse conveys that message. The sound of her feet is the Oṃkāra itself."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 76,
+      "section": "soundarya",
+      "p1": {
+        "te": "హరక్రోధజ్వాలావలిభిరవలీఢేన వపుషా",
+        "sa": "हरक्रोधज्वालावलिभिरवलीढेन वपुषा",
+        "ro": "harakrōdhajvālāvalibhiravalīḍhēna vapuṣā"
+      },
+      "p2": {
+        "te": "గభీరే తే నాభీసరసి కృతసఙ్గో మనసిజః",
+        "sa": "गभीरे ते नाभीसरसि कृतसङ्गो मनसिजः",
+        "ro": "gabhīrē tē nābhīsarasi kṛtasaṅgō manasijaḥ"
+      },
+      "p3": {
+        "te": "సముత్తస్థౌ తస్మాదచలతనయే ధూమలతికా",
+        "sa": "समुत्तस्थौ तस्मादचलतनये धूमलतिका",
+        "ro": "samuttasthau tasmādacalatanayē dhūmalatikā"
+      },
+      "p4": {
+        "te": "జనస్తాం జానీతే తవ జనని రోమావలిరితి",
+        "sa": "जनस्तां जानीते तव जननि रोमावलिरिति",
+        "ro": "janastāṃ jānītē tava janani rōmāvaliriti"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి లాస్యం (మృదుల నృత్యం) సమస్త సౌందర్యానికి మూలం; ఆమె నృత్యం లోకానికి ఆనందం.",
+          "long": "దేవి లాస్యం — మృదులమైన, అందమైన నృత్యశైలి — సమస్త సౌందర్య కళలకు ప్రేరణ. ఆమె నృత్యం చూసి కళాకారులు, కవులు, సంగీతకారులు ప్రేరణ పొందుతారు. ఆమె లాస్యం లోకానికి ఆనందాన్ని ఇస్తుంది — ఇది ఆమె అనుగ్రహం యొక్క కళారూపం."
+        },
+        "en": {
+          "short": "Devi's lāsya (gentle dance) is the source of all beauty; her dance brings joy to the worlds.",
+          "long": "Devi's lāsya — the gentle, delicate, beautiful style of dance — is the inspiration for all the beautiful arts. Artists, poets, and musicians receive their inspiration from having glimpsed her dance. Her lāsya brings joy to the worlds — through beauty itself, she draws souls toward the divine."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 77,
+      "section": "soundarya",
+      "p1": {
+        "te": "యదేతత్కాలిన్దీతనుతరతరఙ్గాకృతి శివే",
+        "sa": "यदेतत्कालिन्दीतनुतरतरङ्गाकृति शिवे",
+        "ro": "yadētatkālindītanutarataraṅgākṛti śivē"
+      },
+      "p2": {
+        "te": "కృశే మధ్యే కిఞ్చిజ్జనని తవ యద్భాతి సుధియామ్",
+        "sa": "कृशे मध्ये किञ्चिज्जननि तव यद्भाति सुधियाम्",
+        "ro": "kṛśē madhyē kiñcijjanani tava yadbhāti sudhiyām"
+      },
+      "p3": {
+        "te": "విమర్దాదన్యోన్యం కుచకలశయోరన్తరగతం",
+        "sa": "विमर्दादन्योन्यं कुचकलशयोरन्तरगतं",
+        "ro": "vimardādanyōnyaṃ kucakalaśayōrantaragataṃ"
+      },
+      "p4": {
+        "te": "తనూభూతం వ్యోమ ప్రవిశదివ నాభిం కుహరిణీమ్",
+        "sa": "तनूभूतं व्योम प्रविशदिव नाभिं कुहरिणीम्",
+        "ro": "tanūbhūtaṃ vyōma praviśadiva nābhiṃ kuhariṇīm"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి హస్తముద్రలు సమస్త విజ్ఞానానికి రహస్యభాష; ఆమె ఒక్కో ముద్రలో ఒక్కో జ్ఞానం.",
+          "long": "దేవి చేతుల హస్తముద్రలు కేవలం అలంకారాలు కాదు. ఒక్కో ముద్ర ఒక్కో జ్ఞానరాశికి సంకేతం. అభయముద్ర భయనివారణ; వరముద్ర కోరికలు తీర్చడం; జ్ఞానముద్ర జ్ఞానానుగ్రహం. ఈ ముద్రల భాష అర్థమైతే దేవి రహస్యమే అర్థమవుతుంది."
+        },
+        "en": {
+          "short": "Devi's hand-gestures are the secret language of all knowledge; each mudrā holds a universe of meaning.",
+          "long": "Devi's hand-gestures (hasthamudrā) are not mere ornaments. Each mudrā is a symbol for a body of knowledge and a particular power. Abhayamudrā removes fear; Varamudrā fulfills desires; Jñānamudrā bestows wisdom. One who understands the language of these mudrās has understood the deepest secret of the Goddess herself."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 78,
+      "section": "soundarya",
+      "p1": {
+        "te": "స్థిరో గఙ్గావర్తః స్తనముకులరోమావలిలతా-",
+        "sa": "स्थिरो गङ्गावर्तः स्तनमुकुलरोमावलिलता-",
+        "ro": "sthirō gaṅgāvartaḥ stanamukularōmāvalilatā-"
+      },
+      "p2": {
+        "te": "కలావాలం కుణ్డం కుసుమశరతేజోహుతభుజః",
+        "sa": "कलावालं कुण्डं कुसुमशरतेजोहुतभुजः",
+        "ro": "kalāvālaṃ kuṇḍaṃ kusumaśaratējōhutabhujaḥ"
+      },
+      "p3": {
+        "te": "రతేర్లీలాగారం కిమపి తవ నాభిర్గిరిసుతే",
+        "sa": "रतेर्लीलागारं किमपि तव नाभिर्गिरिसुते",
+        "ro": "ratērlīlāgāraṃ kimapi tava nābhirgirisutē"
+      },
+      "p4": {
+        "te": "బిలద్వారం సిద్ధేర్గిరిశనయనానాం విజయతే",
+        "sa": "बिलद्वारं सिद्धेर्गिरिशनयनानां विजयते",
+        "ro": "biladvāraṃ siddhērgiriśanayanānāṃ vijayatē"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి సింహాసనం రత్నమయం; ఆ సింహాసనంలో ఆసీనురాలైన ఆమె సమస్త లోకాలను పాలిస్తుంది.",
+          "long": "దేవి ఆసీనమైన రత్నమయ సింహాసనం శ్రీపురంలో ఉంది. ఆ సింహాసనంపై ఆసీనురాలై ఆమె సమస్త లోకాలను ఆనందంగా పాలిస్తుంది. ఈ దర్శనమే శ్రీవిద్యా ధ్యానం."
+        },
+        "en": {
+          "short": "Devi's throne is studded with jewels; seated on it, she joyfully rules all the worlds.",
+          "long": "Devi's jeweled throne stands in Śrīpuram. Seated on it she rules all the worlds with joy. The vision of her seated thus — her posture, her beauty, her sovereign grace — forms an incomparable darśana. Meditating on this vision is itself Śrīvidyā dhyāna. The throne is the concentrated power of cosmic authority."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 79,
+      "section": "soundarya",
+      "p1": {
+        "te": "నిసర్గక్షీణస్య స్తనతటభరేణ క్లమజుషః",
+        "sa": "निसर्गक्षीणस्य स्तनतटभरेण क्लमजुषः",
+        "ro": "nisargakṣīṇasya stanataṭabharēṇa klamajuṣaḥ"
+      },
+      "p2": {
+        "te": "నమన్మూర్తేర్నారీతిలక శనకైస్త్రుట్యత ఇవ",
+        "sa": "नमन्मूर्तेर्नारीतिलक शनकैस्त्रुट्यत इव",
+        "ro": "namanmūrtērnārītilaka śanakaistruṭyata iva"
+      },
+      "p3": {
+        "te": "చిరం తే మధ్యస్య త్రుటితతటినీతీరతరుణా",
+        "sa": "चिरं ते मध्यस्य त्रुटिततटिनीतीरतरुणा",
+        "ro": "ciraṃ tē madhyasya truṭitataṭinītīrataruṇā"
+      },
+      "p4": {
+        "te": "సమావస్థాస్థేమ్నో భవతు కుశలం శైలతనయే",
+        "sa": "समावस्थास्थेम्नो भवतु कुशलं शैलतनये",
+        "ro": "samāvasthāsthēmnō bhavatu kuśalaṃ śailatanayē"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి చతుర్దశ విద్యా సరస్వతి; జ్ఞాన కలశంలో అమృతాన్ని తీసుకువెళ్ళే తల్లి.",
+          "long": "దేవి సరస్వతి రూపంలో జ్ఞాన ప్రవాహాన్ని సమస్త మానవులకు అందిస్తుంది. ఆమె అనుగ్రహం వల్ల కవులు కవిత్వం చెప్తారు, పండితులు పాండిత్యం సాధిస్తారు, జ్ఞానులు ముక్తిని పొందుతారు. ఆమె సరస్వతీ-లక్ష్మీ-దుర్గల ఐక్యరూపమైన త్రిపురసుందరి."
+        },
+        "en": {
+          "short": "Devi is the Saraswati of all learning — the mother who carries the nectar of wisdom.",
+          "long": "Devi, as Saraswati, channels the flow of knowledge to all humanity. By her grace, poets compose, scholars attain learning, and sages reach liberation. She is the vessel of wisdom-nectar. This is the truth of Tripurasundari — the unified form of Saraswati, Lakshmi, and Durga — encompassing all aspects of divine feminine power."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 80,
+      "section": "soundarya",
+      "p1": {
+        "te": "కుచౌ సద్యః స్విద్యత్తటఘటితకూర్పాసభిదురౌ",
+        "sa": "कुचौ सद्यः स्विद्यत्तटघटितकूर्पासभिदुरौ",
+        "ro": "kucau sadyaḥ svidyattaṭaghaṭitakūrpāsabhidurau"
+      },
+      "p2": {
+        "te": "కషన్తౌ దోర్మూలే కనకకలశాభౌ కలయతా",
+        "sa": "कषन्तौ दोर्मूले कनककलशाभौ कलयता",
+        "ro": "kaṣantau dōrmūlē kanakakalaśābhau kalayatā"
+      },
+      "p3": {
+        "te": "తవ త్రాతుం భఙ్గాదలమితి వలగ్నం తనుభువా",
+        "sa": "तव त्रातुं भङ्गादलमिति वलग्नं तनुभुवा",
+        "ro": "tava trātuṃ bhaṅgādalamiti valagnaṃ tanubhuvā"
+      },
+      "p4": {
+        "te": "త్రిధా నద్ధం దేవి త్రివలి లవలీవల్లిభిరివ",
+        "sa": "त्रिधा नद्धं देवि त्रिवलि लवलीवल्लिभिरिव",
+        "ro": "tridhā naddhaṃ dēvi trivali lavalīvallibhiriva"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి విద్యాశక్తి; ఆమె అనుగ్రహం పొందిన కవి అలంకారపూర్ణంగా మాట్లాడగలడు.",
+          "long": "దేవి విద్యాశక్తి స్వరూపిణి. ఆమె అనుగ్రహం పొందిన కవి అనర్గళంగా, అలంకారపూర్ణంగా వ్యక్తీకరించగలడు. శంకరుడు ఈ స్తోత్రం రాయగలిగాడంటే అది దేవి అనుగ్రహమే. తాను స్వతంత్రంగా రాయలేదని, దేవి రాయించిందని కవి చెప్తున్నాడు."
+        },
+        "en": {
+          "short": "Devi is the power of learning; the poet blessed by her speaks with eloquence and grace.",
+          "long": "Devi is the embodiment of Vidyāśakti. The poet who receives her grace can express himself fluently and with complete eloquence. That Shankara was able to compose this stotra is itself Devi's grace. He claims he himself did not write it — Devi wrote it through him. This is the humility of true bhakti."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 81,
+      "section": "soundarya",
+      "p1": {
+        "te": "గురుత్వం విస్తారం క్షితిధరపతిః పార్వతి నిజాత్",
+        "sa": "गुरुत्वं विस्तारं क्षितिधरपतिः पार्वति निजात्",
+        "ro": "gurutvaṃ vistāraṃ kṣitidharapatiḥ pārvati nijāt"
+      },
+      "p2": {
+        "te": "నితమ్బాదాచ్ఛిద్య త్వయి హరణరూపేణ నిదధే",
+        "sa": "नितम्बादाच्छिद्य त्वयि हरणरूपेण निदधे",
+        "ro": "nitambādācchidya tvayi haraṇarūpēṇa nidadhē"
+      },
+      "p3": {
+        "te": "అతస్తే విస్తీర్ణో గురురయమశేషాం వసుమతీం",
+        "sa": "अतस्ते विस्तीर्णो गुरुरयमशेषां वसुमतीं",
+        "ro": "atastē vistīrṇō gururayamaśēṣāṃ vasumatīṃ"
+      },
+      "p4": {
+        "te": "నితమ్బప్రాగ్భారః స్థగయతి లఘుత్వం నయతి చ",
+        "sa": "नितम्बप्राग्भारः स्थगयति लघुत्वं नयति च",
+        "ro": "nitambaprāgbhāraḥ sthagayati laghutvaṃ nayati ca"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి కవులకు ప్రేరణ ఇస్తుంది; ఆమె అనుగ్రహం లేనిచో కవిత్వమే పుట్టదు.",
+          "long": "శంకరుడు ఈ శ్లోకంలో తాను రచించిన స్తోత్రం వాస్తవంగా దేవి రచనేనని చెప్తున్నాడు. కవికి ప్రేరణ దేవే. ఆమె లేకుండా కవిత్వం పుట్టదు; అలంకారాలు రాకూడవు; భావం ఉద్భవించదు. ఈ రచనలో ఉన్న అందం అన్నీ ఆమె అనుగ్రహ ఫలం."
+        },
+        "en": {
+          "short": "Devi gives poets their inspiration; without her grace no poetry can arise.",
+          "long": "Shankara declares that this stotra is in truth Devi's own composition — he is merely the instrument. The poet's inspiration is Devi herself. Without her no poetry can arise; no figures of speech can come; no deep thought can emerge. All the beauty and depth in this composition is the fruit of her grace."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 82,
+      "section": "soundarya",
+      "p1": {
+        "te": "కరీన్ద్రాణాం శుణ్డాన్కనకకదలీకాణ్డపటలీం",
+        "sa": "करीन्द्राणां शुण्डान्कनककदलीकाण्डपटलीं",
+        "ro": "karīndrāṇāṃ śuṇḍānkanakakadalīkāṇḍapaṭalīṃ"
+      },
+      "p2": {
+        "te": "ఉభాభ్యామూరుభ్యాముభయమపి నిర్జిత్య భవతి",
+        "sa": "उभाभ्यामूरुभ्यामुभयमपि निर्जित्य भवति",
+        "ro": "ubhābhyāmūrubhyāmubhayamapi nirjitya bhavati"
+      },
+      "p3": {
+        "te": "సువృత్తాభ్యాం పత్యుః ప్రణతికఠినాభ్యాం గిరిసుతే",
+        "sa": "सुवृत्ताभ्यां पत्युः प्रणतिकठिनाभ्यां गिरिसुते",
+        "ro": "suvṛttābhyāṃ patyuḥ praṇatikaṭhinābhyāṃ girisutē"
+      },
+      "p4": {
+        "te": "విధిజ్ఞే జానుభ్యాం విబుధకరికుమ్భద్వయమసి",
+        "sa": "विधिज्ञे जानुभ्यां विबुधकरिकुम्भद्वयमसि",
+        "ro": "vidhijñē jānubhyāṃ vibudhakarikumbhadvayamasi"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి ఆనందరూపిణి — ఆమె ఉనికి స్వయంగా ఆనందం; ఆ ఆనందం తన్మయత్వం.",
+          "long": "దేవి ఆనందస్వరూపిణి. ఆమె ఉనికి అనగా స్వాభావికమైన ఆనందం — బాహ్యకారణాలు అక్కర్లేదు. ఆమె ధ్యానం చేసే సాధకుడు ఆ ఆనందాన్ని స్వయంగా అనుభవిస్తాడు. ఆ ఆనందం జ్ఞానానందం, ముక్తి ఆనందం."
+        },
+        "en": {
+          "short": "Devi is Ānanda-rūpiṇī — her very existence is bliss; her bliss is pure rapture.",
+          "long": "Devi is the embodiment of ānanda (bliss). Her very existence is natural, self-arising bliss — no external cause needed. The sādhaka who meditates on her personally experiences that bliss. It is the bliss of knowledge (jñānānanda), the bliss of liberation (muktyānanda) — an elevated experience beyond the pleasures of this world."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 83,
+      "section": "soundarya",
+      "p1": {
+        "te": "పరాజేతుం రుద్రం ద్విగుణశరగర్భౌ గిరిసుతే",
+        "sa": "पराजेतुं रुद्रं द्विगुणशरगर्भौ गिरिसुते",
+        "ro": "parājētuṃ rudraṃ dviguṇaśaragarbhau girisutē"
+      },
+      "p2": {
+        "te": "నిషఙ్గౌ జఙ్ఘే తే విషమవిశిఖో బాఢమకృత",
+        "sa": "निषङ्गौ जङ्घे ते विषमविशिखो बाढमकृत",
+        "ro": "niṣaṅgau jaṅghē tē viṣamaviśikhō bāḍhamakṛta"
+      },
+      "p3": {
+        "te": "యదగ్రే దృశ్యన్తే దశశరఫలాః పాదయుగలీ-",
+        "sa": "यदग्रे दृश्यन्ते दशशरफलाः पादयुगली-",
+        "ro": "yadagrē dṛśyantē daśaśaraphalāḥ pādayugalī-"
+      },
+      "p4": {
+        "te": "నఖాగ్రచ్ఛద్మానః సురమకుటశాణైకనిశితాః",
+        "sa": "नखाग्रच्छद्मानः सुरमकुटशाणैकनिशिताः",
+        "ro": "nakhāgracchadmānaḥ suramakuṭaśāṇaikaniśitāḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి మహామాయ — ఆమె మాయ సమస్త ప్రపంచాన్ని నిర్మిస్తుంది, ఆమె జ్ఞానం దాన్ని అవగతం చేస్తుంది.",
+          "long": "దేవి మహామాయ స్వరూపిణి. ఆమె మాయ శక్తితో ఈ ప్రపంచాన్ని నిర్మిస్తుంది. ఆమె జ్ఞానశక్తి ఆ మాయని అవగతం చేసి ముక్తి నిస్తుంది. ఆమె ఒకే వేళ బంధకురాలు మరియు విముక్తిదాత్రి."
+        },
+        "en": {
+          "short": "Devi is Mahāmāyā — her māyā constructs the world; her knowledge dissolves it into liberation.",
+          "long": "Devi is the embodiment of Mahāmāyā. Through her power of māyā she constructs this world — the five elements, the universe, all living beings arise from her māyā. Her power of knowledge (jñānaśakti) enables understanding of that māyā and grants liberation. She is simultaneously the binder and the liberator."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 84,
+      "section": "soundarya",
+      "p1": {
+        "te": "శ్రుతీనాం మూర్ధానో దధతి తవ యౌ శేఖరతయా",
+        "sa": "श्रुतीनां मूर्धानो दधति तव यौ शेखरतया",
+        "ro": "śrutīnāṃ mūrdhānō dadhati tava yau śēkharatayā"
+      },
+      "p2": {
+        "te": "మమాప్యేతౌ మాతః శిరసి దయయా ధేహి చరణౌ",
+        "sa": "ममाप्येतौ मातः शिरसि दयया धेहि चरणौ",
+        "ro": "mamāpyētau mātaḥ śirasi dayayā dhēhi caraṇau"
+      },
+      "p3": {
+        "te": "యయోః పాద్యం పాథః పశుపతిజటాజూటతటినీ",
+        "sa": "ययोः पाद्यं पाथः पशुपतिजटाजूटतटिनी",
+        "ro": "yayōḥ pādyaṃ pāthaḥ paśupatijaṭājūṭataṭinī"
+      },
+      "p4": {
+        "te": "యయోర్లాక్షాలక్ష్మీరరుణహరిచూడామణిరుచిః",
+        "sa": "ययोर्लाक्षालक्ष्मीररुणहरिचूडामणिरुचिः",
+        "ro": "yayōrlākṣālakṣmīraruṇaharicūḍāmaṇiruciḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి అష్టభుజ రూపంలో అష్ట సిద్ధులను ఇస్తుంది; ఆమె ఎనిమిది చేతులు అష్టైశ్వర్యాలు.",
+          "long": "దేవి అష్టభుజ రూపంలో ఎనిమిది చేతులలో అష్టసిద్ధులను (అణిమ, మహిమ, గరిమ, లఘిమ, ప్రాప్తి, ప్రాకామ్య, ఈశిత్వ, వశిత్వ) ధరిస్తుంది. ఆమె ప్రతి చేయి ఒక విశేష అనుగ్రహానికి ప్రతీక."
+        },
+        "en": {
+          "short": "Devi in her eight-armed form bestows the eight siddhis; her eight hands are eight sovereignties.",
+          "long": "In her eight-armed form, Devi's eight hands hold the eight great powers (aṣṭasiddhis): aṇimā, mahimā, garimā, laghimā, prāpti, prākāmya, īśitva, and vaśitva. Each hand represents a specific grace. Through devotion and sādhana the practitioner can access each of these powers as an expression of Devi's will."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 85,
+      "section": "soundarya",
+      "p1": {
+        "te": "నమోవాకం బ్రూమో నయనరమణీయాయ పదయోః",
+        "sa": "नमोवाकं ब्रूमो नयनरमणीयाय पदयोः",
+        "ro": "namōvākaṃ brūmō nayanaramaṇīyāya padayōḥ"
+      },
+      "p2": {
+        "te": "తవాస్మై ద్వన్ద్వాయ స్ఫుటరుచిరసాలక్తకవతే",
+        "sa": "तवास्मै द्वन्द्वाय स्फुटरुचिरसालक्तकवते",
+        "ro": "tavāsmai dvandvāya sphuṭarucirasālaktakavatē"
+      },
+      "p3": {
+        "te": "అసూయత్యత్యన్తం యదభిహననాయ స్పృహయతే",
+        "sa": "असूयत्यत्यन्तं यदभिहननाय स्पृहयते",
+        "ro": "asūyatyatyantaṃ yadabhihananāya spṛhayatē"
+      },
+      "p4": {
+        "te": "పశూనామీశానః ప్రమదవనకఙ్కేలితరవే",
+        "sa": "पशूनामीशानः प्रमदवनकङ्केलितरवे",
+        "ro": "paśūnāmīśānaḥ pramadavanakaṅkēlitaravē"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి నవావరణ పూజలో పూజింపబడే శక్తి; ప్రతి ఆవరణ ఒక్కో మహాశక్తి నిలయం.",
+          "long": "శ్రీచక్రంలో తొమ్మిది ఆవరణ పూజ ద్వారా దేవిని ఉపాసిస్తారు. ప్రతి ఆవరణలో ఒక్కో మహాశక్తి నివసిస్తుంది. బాహ్యం నుండి అంతరానికి వెళ్ళే ప్రతి ఆవరణ ఒక్కో తత్వాన్ని, ఒక్కో జ్ఞానాన్ని ప్రసాదిస్తుంది."
+        },
+        "en": {
+          "short": "Devi is worshipped through the nine-enclosure (navāvaraṇa) pūjā; each enclosure houses a Mahāśakti.",
+          "long": "Devi is worshipped through the navāvaraṇa pūjā within the Śrī Chakra. In each enclosure dwells a distinct Mahāśakti. Moving inward from the outer to the inner, each enclosure imparts a different principle and knowledge. Completing this pūjā is the fullness of Śrīvidyā — the progressive unveiling of the Goddess's deepest nature."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 86,
+      "section": "soundarya",
+      "p1": {
+        "te": "మృషా కృత్వా గోత్రస్ఖలనమథ వైలక్ష్యనమితం",
+        "sa": "मृषा कृत्वा गोत्रस्खलनमथ वैलक्ष्यनमितं",
+        "ro": "mṛṣā kṛtvā gōtraskhalanamatha vailakṣyanamitaṃ"
+      },
+      "p2": {
+        "te": "లలాటే భర్తారం చరణకమలే తాడయతి తే",
+        "sa": "ललाटे भर्तारं चरणकमले ताडयति ते",
+        "ro": "lalāṭē bhartāraṃ caraṇakamalē tāḍayati tē"
+      },
+      "p3": {
+        "te": "చిరాదన్తఃశల్యం దహనకృతమున్మూలితవతా",
+        "sa": "चिरादन्तःशल्यं दहनकृतमुन्मूलितवता",
+        "ro": "cirādantaḥśalyaṃ dahanakṛtamunmūlitavatā"
+      },
+      "p4": {
+        "te": "తులాకోటిక్వాణైః కిలికిలితమీశానరిపుణా",
+        "sa": "तुलाकोटिक्वाणैः किलिकिलितमीशानरिपुणा",
+        "ro": "tulākōṭikvāṇaiḥ kilikilitamīśānaripuṇā"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి పరా, పశ్యంతీ, మధ్యమా, వైఖరీ — నాలుగు వాక్ శక్తులు ఆమె నాల్గు రూపాలు.",
+          "long": "వాక్ శక్తి నాలుగు స్థాయిలలో ఉంటుంది: పరా (అతిసూక్ష్మ, అనుభవ స్థాయి), పశ్యంతీ (దర్శన స్థాయి), మధ్యమా (మానసిక భాష స్థాయి), వైఖరీ (వ్యక్తమైన మాటల స్థాయి). ఇవి దేవి నాలుగు ముఖాలు. ఆమె వాక్ శక్తి సర్వత్రా, సర్వావస్థలలో పనిచేస్తుంది."
+        },
+        "en": {
+          "short": "Devi is the four levels of speech — Parā, Paśyantī, Madhyamā, Vaikharī — speech in all its forms.",
+          "long": "The Śakti of speech operates at four levels: Parā (subtlest, pure experience), Paśyantī (vision/intuition), Madhyamā (mental language), and Vaikharī (articulated audible speech). These are the four faces of Devi. Her speech-power operates everywhere and in all conditions — she IS speech in its cosmic dimension."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 87,
+      "section": "soundarya",
+      "p1": {
+        "te": "హిమానీహన్తవ్యం హిమగిరినివాసైకచతురౌ",
+        "sa": "हिमानीहन्तव्यं हिमगिरिनिवासैकचतुरौ",
+        "ro": "himānīhantavyaṃ himagirinivāsaikacaturau"
+      },
+      "p2": {
+        "te": "నిశాయాం నిద్రాణం నిశి చరమభాగే చ విశదౌ",
+        "sa": "निशायां निद्राणं निशि चरमभागे च विशदौ",
+        "ro": "niśāyāṃ nidrāṇaṃ niśi caramabhāgē ca viśadau"
+      },
+      "p3": {
+        "te": "వరం లక్ష్మీపాత్రం శ్రియమతిసృజన్తౌ సమయినాం",
+        "sa": "वरं लक्ष्मीपात्रं श्रियमतिसृजन्तौ समयिनां",
+        "ro": "varaṃ lakṣmīpātraṃ śriyamatisṛjantau samayināṃ"
+      },
+      "p4": {
+        "te": "సరోజం త్వత్పాదౌ జనని జయతశ్చిత్రమిహ కిమ్",
+        "sa": "सरोजं त्वत्पादौ जननि जयतश्चित्रमिह किम्",
+        "ro": "sarōjaṃ tvatpādau janani jayataścitramiha kim"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి సుందరాచలేశ్వరి; మీనాక్షి రూపంలో మదురైలో నివసిస్తుంది.",
+          "long": "దేవి తమిళనాట్లో మీనాక్షిగా మదురైలో ఆరాధింపబడుతుంది. ఆమె అక్కడ సుందరేశ్వరుని (శివుని) ఇల్లాలు. మీనాక్షి (చేప కళ్ళ అమ్మ) అనే పేరు ఆమె నేత్రాల ఆకారానికి. ఈ శ్లోకం స్థానిక దేవి వైభవాన్ని శ్రీవిద్యా దర్శనంతో అనుసంధానిస్తుంది."
+        },
+        "en": {
+          "short": "Devi as Mīnākṣī dwells at Madurai — this verse connects local temple tradition to Śrīvidyā vision.",
+          "long": "Devi is worshipped in Tamil Nadu as Mīnākṣī (fish-eyed goddess) at Madurai, consort of Sundareshvara (Shiva). The name Mīnākṣī refers to the shape of her eyes. This verse connects the local temple tradition to the universal Śrīvidyā vision, showing the Goddess to be one reality wearing many names."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 88,
+      "section": "soundarya",
+      "p1": {
+        "te": "పదం తే కీర్తీనాం ప్రపదమపదం దేవి విపదాం",
+        "sa": "पदं ते कीर्तीनां प्रपदमपदं देवि विपदां",
+        "ro": "padaṃ tē kīrtīnāṃ prapadamapadaṃ dēvi vipadāṃ"
+      },
+      "p2": {
+        "te": "కథం నీతం సద్భిః కఠినకమఠీకర్పరతులామ్",
+        "sa": "कथं नीतं सद्भिः कठिनकमठीकर्परतुलाम्",
+        "ro": "kathaṃ nītaṃ sadbhiḥ kaṭhinakamaṭhīkarparatulām"
+      },
+      "p3": {
+        "te": "కథం వా బాహుభ్యాముపయమనకాలే పురభిదా",
+        "sa": "कथं वा बाहुभ्यामुपयमनकाले पुरभिदा",
+        "ro": "kathaṃ vā bāhubhyāmupayamanakālē purabhidā"
+      },
+      "p4": {
+        "te": "యదాదాయ న్యస్తం దృషది దయమానేన మనసా",
+        "sa": "यदादाय न्यस्तं दृषदि दयमानेन मनसा",
+        "ro": "yadādāya nyastaṃ dṛṣadi dayamānēna manasā"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి చిత్ (చైతన్యం) స్వరూపిణి; ఆమె అనుభవమే నిత్యానందం.",
+          "long": "దేవి చిత్ స్వరూపిణి — అంటే ఆమె స్వయంగా చైతన్యం. ఆమె అనుభవమే నిత్యానందం. ఆమె దర్శనంలో జ్ఞానానందం కలుగుతుంది. ఇది అద్వైత ప్రకారం పరమ ఆనందస్థితి — ఆత్మ పరమాత్మతో ఐక్యమై ఆనందించే స్థితి."
+        },
+        "en": {
+          "short": "Devi is Cit (consciousness) herself; experience of her is eternal bliss.",
+          "long": "Devi is the embodiment of Cit — she herself IS consciousness. Her experience is eternal bliss. Her darśana brings the bliss of knowledge. This is, in Advaita terms, the state of supreme ānanda — the state in which the Ātman merges with Paramātman and rests in bliss. Devi and that bliss are one."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 89,
+      "section": "soundarya",
+      "p1": {
+        "te": "నఖైర్నాకస్త్రీణాం కరకమలసఙ్కోచశశిభిః",
+        "sa": "नखैर्नाकस्त्रीणां करकमलसङ्कोचशशिभिः",
+        "ro": "nakhairnākastrīṇāṃ karakamalasaṅkōcaśaśibhiḥ"
+      },
+      "p2": {
+        "te": "తరూణాం దివ్యానాం హసత ఇవ తే చణ్డి చరణౌ",
+        "sa": "तरूणां दिव्यानां हसत इव ते चण्डि चरणौ",
+        "ro": "tarūṇāṃ divyānāṃ hasata iva tē caṇḍi caraṇau"
+      },
+      "p3": {
+        "te": "ఫలాని స్వఃస్థేభ్యః కిసలయకరాగ్రేణ దదతాం",
+        "sa": "फलानि स्वःस्थेभ्यः किसलयकराग्रेण ददतां",
+        "ro": "phalāni svaḥsthēbhyaḥ kisalayakarāgrēṇa dadatāṃ"
+      },
+      "p4": {
+        "te": "దరిద్రేభ్యో భద్రాం శ్రియమనిశమహ్నాయ దదతౌ",
+        "sa": "दरिद्रेभ्यो भद्रां श्रियमनिशमह्नाय ददतौ",
+        "ro": "daridrēbhyō bhadrāṃ śriyamaniśamahnāya dadatau"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి శివశక్తి ఐక్యస్వరూపిణి — శివుడు మరియు ఆమె వేరు వేరు కాదు, ఒకటే.",
+          "long": "శివుడు మరియు శక్తి వేరు వేరు అని అనిపించినా, వాస్తవంలో వారొకటే. శివుడు చేతన, శక్తి చైతన్యశక్తి — రెండూ వేర్పడవు. నీరు మరియు చలిమిది వేరు కాదు; అగ్ని మరియు వేడి వేరు కాదు. అదే విధంగా శివ-శక్తులు ఒకటే. ఇది అద్వైత శాక్తేయ దర్శనం."
+        },
+        "en": {
+          "short": "Devi is the embodiment of Shiva-Shakti unity — they are not two but one inseparable reality.",
+          "long": "Though Shiva and Shakti appear separate, in reality they are one. Shiva is pure consciousness; Shakti is the power of that consciousness — they cannot be separated. Water and coolness cannot be separated; fire and heat cannot be separated. Similarly Shiva-Shakti are one — the Advaita-Śākteya darśana."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 90,
+      "section": "soundarya",
+      "p1": {
+        "te": "దదానే దీనేభ్యః శ్రియమనిశమాశానుసదృశీం",
+        "sa": "ददाने दीनेभ्यः श्रियमनिशमाशानुसदृशीं",
+        "ro": "dadānē dīnēbhyaḥ śriyamaniśamāśānusadṛśīṃ"
+      },
+      "p2": {
+        "te": "అమన్దం సౌన్దర్యప్రకరమకరన్దం వికిరతి",
+        "sa": "अमन्दं सौन्दर्यप्रकरमकरन्दं विकिरति",
+        "ro": "amandaṃ saundaryaprakaramakarandaṃ vikirati"
+      },
+      "p3": {
+        "te": "తవాస్మిన్మన్దారస్తబకసుభగే యాతు చరణే",
+        "sa": "तवास्मिन्मन्दारस्तबकसुभगे यातु चरणे",
+        "ro": "tavāsminmandārastabakasubhagē yātu caraṇē"
+      },
+      "p4": {
+        "te": "నిమజ్జన్మజ్జీవః కరణచరణః షట్చరణతామ్",
+        "sa": "निमज्जन्मज्जीवः करणचरणः षट्चरणताम्",
+        "ro": "nimajjanmajjīvaḥ karaṇacaraṇaḥ ṣaṭcaraṇatām"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి ప్రకృతి స్వరూపిణి; ప్రకృతి మరియు పురుషుల ఐక్యమే విశ్వసృష్టి.",
+          "long": "సాంఖ్య సిద్ధాంతంలో ప్రకృతి (జడ పదార్థం) మరియు పురుషుడు (చేతన) రెండు మూలతత్త్వాలు. తాంత్రిక దృష్టిలో ప్రకృతి శక్తి, పురుషుడు శివుడు. రెండూ వేరు కాదు; ఐక్యమైనప్పుడే సృష్టి. దేవి ఈ రెండింటి ఐక్యతను తనలో ధరించిన పరతత్త్వం."
+        },
+        "en": {
+          "short": "Devi is Prakṛti herself; the union of Prakṛti and Puruṣa is all of cosmic creation.",
+          "long": "In Sāṅkhya philosophy, Prakṛti (inert matter) and Puruṣa (consciousness) are two root principles. In the Tantric view, Prakṛti is Shakti and Puruṣa is Shiva. They are not truly separate; creation arises only when united. Devi is the supreme reality that holds both within herself — whose very nature is their inseparable union."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 91,
+      "section": "soundarya",
+      "p1": {
+        "te": "పదన్యాసక్రీడాపరిచయమివారబ్ధుమనసః",
+        "sa": "पदन्यासक्रीडापरिचयमिवारब्धुमनसः",
+        "ro": "padanyāsakrīḍāparicayamivārabdhumanasaḥ"
+      },
+      "p2": {
+        "te": "స్ఖలన్తస్తే ఖేలం భవనకలహంసా న జహతి",
+        "sa": "स्खलन्तस्ते खेलं भवनकलहंसा न जहति",
+        "ro": "skhalantastē khēlaṃ bhavanakalahaṃsā na jahati"
+      },
+      "p3": {
+        "te": "అతస్తేషాం శిక్షాం సుభగమణిమఞ్జీరరణిత-",
+        "sa": "अतस्तेषां शिक्षां सुभगमणिमञ्जीररणित-",
+        "ro": "atastēṣāṃ śikṣāṃ subhagamaṇimañjīraraṇita-"
+      },
+      "p4": {
+        "te": "చ్ఛలాదాచక్షాణం చరణకమలం చారుచరితే",
+        "sa": "च्छलादाचक्षाणं चरणकमलं चारुचरिते",
+        "ro": "cchalādācakṣāṇaṃ caraṇakamalaṃ cārucaritē"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి కారుణ్యమూర్తి — ఆమె కరుణ ఎల్లవేళలా, అన్ని జీవులపై ఒకేవిధంగా ఉంటుంది.",
+          "long": "దేవి కరుణాసాగరి. ఆమె కరుణ పక్షపాతం లేనిది — పాపియైనా, పుణ్యాత్ముడైనా, సమస్త జీవులపై ఆమె కరుణ సమంగా ప్రవహిస్తుంది. ఆమె తల్లి — తల్లి పాపిష్ఠి బిడ్డపై కూడా ప్రేమ ఉంచుతుంది."
+        },
+        "en": {
+          "short": "Devi is the embodiment of compassion — her mercy flows equally on all beings without partiality.",
+          "long": "Devi is the ocean of compassion (karuṇāsāgari). Her compassion is impartial — whether a sinner or a saint, her compassion flows equally on all beings. She is a mother — a mother loves even the most wayward child. Her love is unconditional and universally available to every soul."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 92,
+      "section": "soundarya",
+      "p1": {
+        "te": "గతాస్తే మఞ్చత్వం ద్రుహిణహరిరుద్రేశ్వరభృతః",
+        "sa": "गतास्ते मञ्चत्वं द्रुहिणहरिरुद्रेश्वरभृतः",
+        "ro": "gatāstē mañcatvaṃ druhiṇaharirudrēśvarabhṛtaḥ"
+      },
+      "p2": {
+        "te": "శివః స్వచ్ఛచ్ఛాయాఘటితకపటప్రచ్ఛదపటః",
+        "sa": "शिवः स्वच्छच्छायाघटितकपटप्रच्छदपटः",
+        "ro": "śivaḥ svacchacchāyāghaṭitakapaṭapracchadapaṭaḥ"
+      },
+      "p3": {
+        "te": "త్వదీయానాం భాసాం ప్రతిఫలనరాగారుణతయా",
+        "sa": "त्वदीयानां भासां प्रतिफलनरागारुणतया",
+        "ro": "tvadīyānāṃ bhāsāṃ pratiphalanarāgāruṇatayā"
+      },
+      "p4": {
+        "te": "శరీరీ శృఙ్గారో రస ఇవ దృశాం దోగ్ధి కుతుకమ్",
+        "sa": "शरीरी शृङ्गारो रस इव दृशां दोग्धि कुतुकम्",
+        "ro": "śarīrī śṛṅgārō rasa iva dṛśāṃ dōgdhi kutukam"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి రాజేశ్వరి — ఆమె మూడు లోకాలకు రాణి; ఆమె అనుజ్ఞ లేకుండా ఏ రాజ్యమూ నిలువదు.",
+          "long": "దేవి రాజేశ్వరి — రాజులకు, రాజ్యాలకు అధినాయిక. ఆమె అనుజ్ఞతో మాత్రమే రాజ్యాలు నిలుస్తాయి. ఆమె కోపంతో రాజ్యాలు నాశనమవుతాయి. ఆమె రాజ్య ధర్మానికి అధిష్ఠాన దేవత."
+        },
+        "en": {
+          "short": "Devi is Rājeśvarī — queen of all three worlds; no kingdom stands without her permission.",
+          "long": "Devi is Rājeśvarī — the sovereign over kings and kingdoms. Kingdoms stand only by her permission; they fall when she withdraws favor. She is the presiding deity of righteous governance (rājadharma). Rulers are merely her instruments."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 93,
+      "section": "soundarya",
+      "p1": {
+        "te": "అరాలా కేశేషు ప్రకృతిసరలా మన్దహసితే",
+        "sa": "अराला केशेषु प्रकृतिसरला मन्दहसिते",
+        "ro": "arālā kēśēṣu prakṛtisaralā mandahasitē"
+      },
+      "p2": {
+        "te": "శిరీషాభా చిత్తే దృషదుపలశోభా కుచతటే",
+        "sa": "शिरीषाभा चित्ते दृषदुपलशोभा कुचतटे",
+        "ro": "śirīṣābhā cittē dṛṣadupalaśōbhā kucataṭē"
+      },
+      "p3": {
+        "te": "భృశం తన్వీ మధ్యే పృథురురసిజారోహవిషయే",
+        "sa": "भृशं तन्वी मध्ये पृथुरुरसिजारोहविषये",
+        "ro": "bhṛśaṃ tanvī madhyē pṛthururasijārōhaviṣayē"
+      },
+      "p4": {
+        "te": "జగత్త్రాతుం శమ్భోర్జయతి కరుణా కాచిదరుణా",
+        "sa": "जगत्त्रातुं शम्भोर्जयति करुणा काचिदरुणा",
+        "ro": "jagattrātuṃ śambhōrjayati karuṇā kācidaruṇā"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి ప్రసాదం (నైవేద్యం) తిన్న వారికి జ్ఞానం, ముక్తి లభిస్తాయి.",
+          "long": "దేవికి అర్పించిన నైవేద్యం తిరిగి ప్రసాదంగా తిన్న వారికి ఆమె అనుగ్రహం లభిస్తుంది. ఇది కేవలం ఆహారం కాదు — ఆమె అనుగ్రహ స్వరూపం. ప్రసాదం స్వీకరించడం మానసికంగా ఆమెతో అనుసంధానం అవడం."
+        },
+        "en": {
+          "short": "Eating Devi's prasāda brings the devotee knowledge and liberation.",
+          "long": "The prasāda (consecrated food offering) of Devi carries her grace. It is not mere food — it is a form of her blessing. Receiving prasāda is an act of inner connection with her. Therefore those who eat her prasāda naturally receive knowledge and liberation — the act of receiving is itself an opening to her grace."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 94,
+      "section": "soundarya",
+      "p1": {
+        "te": "కలఙ్కః కస్తూరీ రజనికరబిమ్బం జలమయం",
+        "sa": "कलङ्कः कस्तूरी रजनिकरबिम्बं जलमयं",
+        "ro": "kalaṅkaḥ kastūrī rajanikarabimbaṃ jalamayaṃ"
+      },
+      "p2": {
+        "te": "కలాభిః కర్పూరైర్మరకతకరణ్డం నిబిడితమ్",
+        "sa": "कलाभिः कर्पूरैर्मरकतकरण्डं निबिडितम्",
+        "ro": "kalābhiḥ karpūrairmarakatakaraṇḍaṃ nibiḍitam"
+      },
+      "p3": {
+        "te": "అతస్త్వద్భోగేన ప్రతిదినమిదం రిక్తకుహరం",
+        "sa": "अतस्त्वद्भोगेन प्रतिदिनमिदं रिक्तकुहरं",
+        "ro": "atastvadbhōgēna pratidinamidaṃ riktakuharaṃ"
+      },
+      "p4": {
+        "te": "విధిర్భూయో భూయో నిబిడయతి నూనం తవ కృతే",
+        "sa": "विधिर्भूयो भूयो निबिडयति नूनं तव कृते",
+        "ro": "vidhirbhūyō bhūyō nibiḍayati nūnaṃ tava kṛtē"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి తన భక్తులకు చతుర్విధ పురుషార్థాలు (ధర్మ, అర్థ, కామ, మోక్ష) అందిస్తుంది.",
+          "long": "దేవి తన భక్తులకు ధర్మం (నీతి), అర్థం (సంపద), కామం (కోరికల నెరవేర్పు), మోక్షం (ముక్తి) — నాలుగు పురుషార్థాలు అందిస్తుంది. ఇవి నాలుగూ అందించగలిగిన దేవత ఒక్క దేవే. అందుచే ఆమె ఉపాసన అన్ని ఉపాసనలలో శ్రేష్ఠం."
+        },
+        "en": {
+          "short": "Devi grants all four puruṣārthas — dharma, artha, kāma, and mokṣa — to her devotees.",
+          "long": "Devi bestows on her devotees all four puruṣārthas: dharma (righteousness), artha (prosperity), kāma (fulfillment of desires), and mokṣa (liberation). She alone among deities can grant all four. Therefore her worship is supreme among all forms of worship — there is nothing she cannot bestow on a devoted heart."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 95,
+      "section": "soundarya",
+      "p1": {
+        "te": "పురారాతేరన్తఃపురమసి తతస్త్వచ్చరణయోః",
+        "sa": "पुरारातेरन्तःपुरमसि ततस्त्वच्चरणयोः",
+        "ro": "purārātērantaḥpuramasi tatastvaccaraṇayōḥ"
+      },
+      "p2": {
+        "te": "సపర్యామర్యాదా తరలకరణానామసులభా",
+        "sa": "सपर्यामर्यादा तरलकरणानामसुलभा",
+        "ro": "saparyāmaryādā taralakaraṇānāmasulabhā"
+      },
+      "p3": {
+        "te": "తథా హ్యేతే నీతాః శతమఖముఖాః సిద్ధిమతులాం",
+        "sa": "तथा ह्येते नीताः शतमखमुखाः सिद्धिमतुलां",
+        "ro": "tathā hyētē nītāḥ śatamakhamukhāḥ siddhimatulāṃ"
+      },
+      "p4": {
+        "te": "తవ ద్వారోపాన్తస్థితిభిరణిమాద్యాభిరమరాః",
+        "sa": "तव द्वारोपान्तस्थितिभिरणिमाद्याभिरमराः",
+        "ro": "tava dvārōpāntasthitibhiraṇimādyābhiramarāḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి శ్రీవిద్యా రహస్యాన్ని శివుడే తొలిగా ఉపాసించాడు; ఆమె తత్వం అత్యంత రహస్యం.",
+          "long": "శ్రీవిద్యా రహస్యాన్ని మొదటగా శివుడే దేవి నుండి నేర్చుకున్నాడు. ఈ విద్య అత్యంత గోప్యమైనది — అర్హులైన శిష్యులకు మాత్రమే ఇవ్వాల్సినది. ఇందులో ఉన్న తత్త్వం, మంత్రం, యంత్రం, పూజావిధానం సమగ్రంగా అర్థమైతేనే ఆమె అనుగ్రహం."
+        },
+        "en": {
+          "short": "Shiva himself was the first devotee of Śrīvidyā; its mystery is the most profound secret.",
+          "long": "The secret of Śrīvidyā was first learned by Shiva himself from Devi. This knowledge is most secret — it must be given only to qualified disciples. Only when the philosophy, mantra, yantra, and ritual of this tradition are understood completely does her grace fully manifest."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 96,
+      "section": "soundarya",
+      "p1": {
+        "te": "కలత్రం వైధాత్రం కతికతి భజన్తే న కవయః",
+        "sa": "कलत्रं वैधात्रं कतिकति भजन्ते न कवयः",
+        "ro": "kalatraṃ vaidhātraṃ katikati bhajantē na kavayaḥ"
+      },
+      "p2": {
+        "te": "శ్రియో దేవ్యాః కో వా న భవతి పతిః కైరపి ధనైః",
+        "sa": "श्रियो देव्याः को वा न भवति पतिः कैरपि धनैः",
+        "ro": "śriyō dēvyāḥ kō vā na bhavati patiḥ kairapi dhanaiḥ"
+      },
+      "p3": {
+        "te": "మహాదేవం హిత్వా తవ సతి సతీనామచరమే",
+        "sa": "महादेवं हित्वा तव सति सतीनामचरमे",
+        "ro": "mahādēvaṃ hitvā tava sati satīnāmacaramē"
+      },
+      "p4": {
+        "te": "కుచాభ్యామాసఙ్గః కురవకతరోరప్యసులభః",
+        "sa": "कुचाभ्यामासङ्गः कुरवकतरोरप्यसुलभः",
+        "ro": "kucābhyāmāsaṅgaḥ kuravakatarōrapyasulabhaḥ"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి పాదాలు శరణు పొందిన వారు ఈ స్తోత్రం మూడుసార్లు చదివితే సర్వాభీష్టాలు నెరవేరుతాయి.",
+          "long": "ఈ సౌందర్యలహరి స్తోత్రాన్ని భక్తితో మూడుసార్లు పఠించిన వారికి సమస్త కోరికలు నెరవేరుతాయని ఫలశ్రుతి. దేవి పాదాలపై పూర్ణ శరణాగతి పొందిన వారికి ఇది తప్పక ఫలప్రదమవుతుంది."
+        },
+        "en": {
+          "short": "Those who take refuge at Devi's feet and recite this stotra three times have all desires fulfilled.",
+          "long": "Those who recite the Saundarya Laharī with devotion three times have all their desires fulfilled — so declares the phalaśruti. For those who offer complete surrender at Devi's feet, this is guaranteed to bear fruit. This stotra is not mere poetry — it is a mahāsādhana, a complete spiritual practice in itself."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 97,
+      "section": "soundarya",
+      "p1": {
+        "te": "గిరామాహుర్దేవీం ద్రుహిణగృహిణీమాగమవిదః",
+        "sa": "गिरामाहुर्देवीं द्रुहिणगृहिणीमागमविदः",
+        "ro": "girāmāhurdēvīṃ druhiṇagṛhiṇīmāgamavidaḥ"
+      },
+      "p2": {
+        "te": "హరేః పత్నీం పద్మాం హరసహచరీమద్రితనయామ్",
+        "sa": "हरेः पत्नीं पद्मां हरसहचरीमद्रितनयाम्",
+        "ro": "harēḥ patnīṃ padmāṃ harasahacarīmadritanayām"
+      },
+      "p3": {
+        "te": "తురీయా కాపి త్వం దురధిగమనిస్సీమమహిమా",
+        "sa": "तुरीया कापि त्वं दुरधिगमनिस्सीममहिमा",
+        "ro": "turīyā kāpi tvaṃ duradhigamanissīmamahimā"
+      },
+      "p4": {
+        "te": "మహామాయా విశ్వం భ్రమయసి పరబ్రహ్మమహిషి",
+        "sa": "महामाया विश्वं भ्रमयसि परब्रह्ममहिषि",
+        "ro": "mahāmāyā viśvaṃ bhramayasi parabrahmamahiṣi"
+      },
+      "meaning": {
+        "te": {
+          "short": "శంకరుడు ఆమె పాదాలకు నమస్కరిస్తున్నాడు; స్తోత్రంలో పొరపాటులు ఉంటే క్షమించమని కోరుతున్నాడు.",
+          "long": "శంకరుడు ఈ స్తోత్రానికి ముగింపుగా దేవికి వినయంగా శరణు పొందుతున్నాడు. స్తోత్రంలో ఎక్కడైనా పొరపాటు ఉంటే అది తన జ్ఞానలేమి వల్ల కాని ఆమె మహిమలో లోపం వల్ల కాదు. ఆమె క్షమాశీలి — అందుచే క్షమిస్తుందని వేడుకుంటున్నాడు."
+        },
+        "en": {
+          "short": "Shankara bows at her feet and begs forgiveness for any errors in this stotra, born of his limitations.",
+          "long": "As a conclusion Shankara humbly takes refuge in Devi. He says that if any error exists in the words of this stotra, it stems from the limits of his own knowledge — not from any deficiency in her glory. She is forgiving by nature, and therefore he begs her pardon. This is the humility and surrender of a realized sage."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 98,
+      "section": "soundarya",
+      "p1": {
+        "te": "కదా కాలే మాతః కథయ కలితాలక్తకరసం",
+        "sa": "कदा काले मातः कथय कलितालक्तकरसं",
+        "ro": "kadā kālē mātaḥ kathaya kalitālaktakarasaṃ"
+      },
+      "p2": {
+        "te": "పిబేయం విద్యార్థీ తవ చరణనిర్ణేజనజలమ్",
+        "sa": "पिबेयं विद्यार्थी तव चरणनिर्णेजनजलम्",
+        "ro": "pibēyaṃ vidyārthī tava caraṇanirṇējanajalam"
+      },
+      "p3": {
+        "te": "ప్రకృత్యా మూకానామపి చ కవితాకారణతయా",
+        "sa": "प्रकृत्या मूकानामपि च कविताकारणतया",
+        "ro": "prakṛtyā mūkānāmapi ca kavitākāraṇatayā"
+      },
+      "p4": {
+        "te": "కదా ధత్తే వాణీముఖకమలతామ్బూలరసతామ్",
+        "sa": "कदा धत्ते वाणीमुखकमलताम्बूलरसताम्",
+        "ro": "kadā dhattē vāṇīmukhakamalatāmbūlarasatām"
+      },
+      "meaning": {
+        "te": {
+          "short": "దేవి స్తుతి ఎవరైనా చేయగలరా అని కవి ప్రశ్నించుకుంటాడు; అయినా ఈ ప్రయత్నం ఆమె ఆనందానికే.",
+          "long": "శంకరుడు మళ్ళీ వినయంగా అంటున్నాడు: పరమేశ్వరిని స్తుతించే శక్తి ఎవరికైనా ఉంటుందా? బ్రహ్మ, విష్ణు, శివులే సాధ్యపడని పని మనకు ఎలా సాధ్యం? అయినా ఆమె ప్రేమతో చేసే ఈ ప్రయత్నం ఆమె ఆనందానికే. తల్లి బిడ్డ చేసే అనాడిపాటనూ ఆనందంగా వింటుంది."
+        },
+        "en": {
+          "short": "The poet again wonders whether anyone can truly praise Devi — yet this loving attempt is itself her joy.",
+          "long": "Shankara again asks humbly: can anyone truly praise the supreme Goddess? If even Brahma, Vishnu, and Shiva cannot accomplish this, how can we? Yet this attempt made out of love brings her joy. A mother listens with delight even to her child's babbling. So too Devi delights in the sincere, loving praise of her devotees."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 99,
+      "section": "soundarya",
+      "p1": {
+        "te": "సరస్వత్యా లక్ష్మ్యా విధిహరిసపత్నో విహరతే",
+        "sa": "सरस्वत्या लक्ष्म्या विधिहरिसपत्नो विहरते",
+        "ro": "sarasvatyā lakṣmyā vidhiharisapatnō viharatē"
+      },
+      "p2": {
+        "te": "రతేః పాతివ్రత్యం శిథిలయతి రమ్యేణ వపుషా",
+        "sa": "रतेः पातिव्रत्यं शिथिलयति रम्येण वपुषा",
+        "ro": "ratēḥ pātivratyaṃ śithilayati ramyēṇa vapuṣā"
+      },
+      "p3": {
+        "te": "చిరం జీవన్నేవ క్షపితపశుపాశవ్యతికరః",
+        "sa": "चिरं जीवन्नेव क्षपितपशुपाशव्यतिकरः",
+        "ro": "ciraṃ jīvannēva kṣapitapaśupāśavyatikaraḥ"
+      },
+      "p4": {
+        "te": "పరానన్దాభిఖ్యం రసయతి రసం త్వద్భజనవాన్",
+        "sa": "परानन्दाभिख्यं रसयति रसं त्वद्भजनवान्",
+        "ro": "parānandābhikhyaṃ rasayati rasaṃ tvadbhajanavān"
+      },
+      "meaning": {
+        "te": {
+          "short": "ఈ స్తోత్రం విన్న వారికి, పఠించిన వారికి అష్టైశ్వర్యాలు, మోక్షం లభిస్తాయి.",
+          "long": "సౌందర్యలహరి స్తోత్రం విన్న వారికి, పఠించిన వారికి, ఇతరులకు వినిపించిన వారికి అష్టైశ్వర్యాలు, ముక్తి, సంపద, ఆరోగ్యం, విద్య సమస్తమూ లభిస్తాయి. దీనిని శ్రద్ధతో ఆచరించడమే సాధనగా మలచుకోవాలి."
+        },
+        "en": {
+          "short": "Those who hear, recite, or teach this stotra receive the eight sovereignties and liberation.",
+          "long": "Those who hear, recite, or teach the Saundarya Laharī receive all eight great prosperities, liberation, wealth, health, and knowledge — everything. One should take this stotra as one's sādhana — reciting it with devotion, understanding its meaning, and opening the heart to Devi's grace that it carries."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    },
+    {
+      "v": 100,
+      "section": "soundarya",
+      "p1": {
+        "te": "ప్రదీపజ్వాలాభిర్దివసకరనీరాజనవిధిః",
+        "sa": "प्रदीपज्वालाभिर्दिवसकरनीराजनविधिः",
+        "ro": "pradīpajvālābhirdivasakaranīrājanavidhiḥ"
+      },
+      "p2": {
+        "te": "సుధాసూతేశ్చన్ద్రోపలజలలవైరర్ఘ్యరచనా",
+        "sa": "सुधासूतेश्चन्द्रोपलजललवैरर्घ्यरचना",
+        "ro": "sudhāsūtēścandrōpalajalalavairarghyaracanā"
+      },
+      "p3": {
+        "te": "స్వకీయైరమ్భోభిః సలిలనిధిసౌహిత్యకరణం",
+        "sa": "स्वकीयैरम्भोभिः सलिलनिधिसौहित्यकरणं",
+        "ro": "svakīyairambhōbhiḥ salilanidhisauhityakaraṇaṃ"
+      },
+      "p4": {
+        "te": "త్వదీయాభిర్వాగ్భిస్తవ జనని వాచాం స్తుతిరియమ్",
+        "sa": "त्वदीयाभिर्वाग्भिस्तव जननि वाचां स्तुतिरियम्",
+        "ro": "tvadīyābhirvāgbhistava janani vācāṃ stutiriyam"
+      },
+      "meaning": {
+        "te": {
+          "short": "సమాప్తి శ్లోకం — కవి శంకరుడు దేవి పాదాలకు అంతిమంగా నమస్కరిస్తున్నాడు; ఈ స్తోత్రం ఆమె అనుగ్రహ ఫలం.",
+          "long": "సౌందర్యలహరి ముగింపు శ్లోకంలో శంకరుడు దేవి పాద కమలాలకు అంతిమంగా నమస్కరిస్తున్నాడు. ఈ స్తోత్రం తాను రాశాడని కాదు — ఆమె అనుగ్రహం ఈ మాటలను అతడి నోట పలికించింది. ఈ నూరు శ్లోకాలూ దేవి తత్వానికి, ఆమె సౌందర్యానికి, ఆమె కటాక్షానికి నివాళి. జయతు శ్రీమాతా."
+        },
+        "en": {
+          "short": "The final verse — Shankara bows at Devi's feet one last time; this stotra is the fruit of her own grace.",
+          "long": "In the closing verse, Shankara bows finally at Devi's lotus feet. He did not write this stotra — it was her grace that made these words flow through him. These hundred verses are an offering to the truth of Devi, to her beauty, and to the grace of her glance. All glory to her lotus feet. Jayatu Śrī Mātā."
+        }
+      },
+      "wordxword": {
+        "te": "",
+        "en": ""
+      },
+      "phala": {
+        "te": "",
+        "en": ""
+      }
+    }
+  ]
+}
