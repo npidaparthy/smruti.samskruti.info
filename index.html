@@ -20,6 +20,7 @@
     <button class="tab-btn"        data-tab="avadhanam" role="tab">అవధానం</button>
     <a      class="tab-btn"        href="/daily/" style="text-decoration:none;text-align:center;">నేటి</a>
     <button class="tab-btn"        data-tab="search"    role="tab">🔍</button>
+    <button class="tab-btn"        data-tab="quiz"      role="tab">❓</button>
     <button class="tab-btn"        data-tab="calendar"  role="tab">📅</button>
     <button class="tab-btn"        data-tab="settings"  role="tab">⚙️</button>
   </nav>
@@ -503,6 +504,17 @@
     <!-- Results -->
     <div id="srch-results" class="srch-results"></div>
 
+  </section>
+
+  <!-- ══════════════════════════════════════════════════════════
+       QUIZ TAB
+  ══════════════════════════════════════════════════════════ -->
+  <section id="quiz" class="panel" role="tabpanel">
+    <div class="quiz-intro" id="quiz-intro">
+      <p>భగవద్గీత శ్లోకాల అర్థంపై ప్రశ్నలు · Test your understanding of Gita verses</p>
+      <button class="btn-submit" id="quiz-start-btn">ప్రారంభించండి · Start Quiz</button>
+    </div>
+    <div id="quiz-content"></div>
   </section>
 
   <!-- ══════════════════════════════════════════════════════════
@@ -1298,10 +1310,11 @@
 <script src="/assets/js/modules/avadhaanam.js?v=13"></script>
 <script src="/assets/js/modules/calendar.js?v=12"></script>
 <script src="/assets/js/modules/search.js?v=7"></script>
+<script src="/assets/js/modules/quiz.js?v=1"></script>
 <script src="/assets/js/modules/contact.js?v=1"></script>
 <script src="/assets/js/modules/names-review.js?v=1"></script>
 <script src="/assets/js/modules/transliterate.js?v=1"></script>
 <script src="/assets/js/modules/vsn.js?v=16"></script>
-<script src="/assets/js/app.js?v=22"></script>
+<script src="/assets/js/app.js?v=23"></script>
 </body>
 </html>

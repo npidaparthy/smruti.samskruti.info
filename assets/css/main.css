@@ -1349,6 +1349,64 @@ mark.search-hl {
 .srch-card-sub     { font-size: calc(12px * var(--ui-scale)); color: var(--fg2); line-height: 1.5; }
 
 /* ══════════════════════════════════════════
+   QUIZ TAB
+   ══════════════════════════════════════════ */
+.quiz-intro {
+  text-align: center;
+  padding: 32px 16px;
+  color: var(--fg2);
+}
+.quiz-intro p { margin-bottom: 16px; font-size: calc(14px * var(--ui-scale)); }
+
+.quiz-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 16px;
+}
+.quiz-progress { font-size: 11px; color: var(--fg3); margin-bottom: 8px; }
+.quiz-question {
+  font-size: calc(16px * var(--ui-scale));
+  color: var(--fg);
+  font-weight: 500;
+  margin-bottom: 14px;
+  line-height: 1.5;
+}
+.quiz-choices { display: flex; flex-direction: column; gap: 8px; }
+.quiz-choice {
+  text-align: left;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 13px;
+  font-size: calc(13px * var(--ui-scale));
+  color: var(--fg);
+  cursor: pointer;
+  transition: border-color .15s, background .15s;
+}
+.quiz-choice:hover:not(:disabled) { border-color: var(--vsn-blue-lt); }
+.quiz-choice:disabled { cursor: default; }
+.quiz-choice.quiz-correct { border-color: #2e8b57; background: color-mix(in srgb, #2e8b57 12%, var(--bg)); }
+.quiz-choice.quiz-wrong   { border-color: #c0392b; background: color-mix(in srgb, #c0392b 12%, var(--bg)); }
+
+.quiz-explanation {
+  margin-top: 14px;
+  padding: 11px 13px;
+  background: var(--bg);
+  border-radius: 8px;
+  font-size: calc(12px * var(--ui-scale));
+  color: var(--fg2);
+  line-height: 1.6;
+}
+.quiz-actions { margin-top: 14px; text-align: center; }
+
+.quiz-summary { text-align: center; padding: 32px 16px; }
+.quiz-summary-score { font-size: 36px; font-weight: 700; color: var(--accent); }
+.quiz-summary-pct   { font-size: 14px; color: var(--fg2); margin: 4px 0 20px; }
+
+.quiz-empty { text-align: center; color: var(--fg3); padding: 24px; font-size: 13px; }
+
+/* ══════════════════════════════════════════
    BG META PANEL — Saffron / Amber theme
    ══════════════════════════════════════════ */
 :root {

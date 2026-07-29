@@ -11,6 +11,7 @@ const C = {
   VSN_META:      '/data/vsn/content/vsn-meta.json',
   BG_META:       '/data/bg/content/bg-meta.json',
   EKADASHI:      '/data/calendar/content/ekadashi.json',
+  BG_QUIZ:       '/data/quiz/bg-quiz.json',
 
   // Scripts / Lipi
   SCRIPTS: ['te', 'ro', 'sa'],
