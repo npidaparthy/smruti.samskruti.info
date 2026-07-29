@@ -153,5 +153,63 @@
         }
       ]
     }
+    ,
+    {
+      "id": "sl",
+      "label": "సౌన్దర్యలహరీ",
+      "script": "te",
+      "source": {
+        "glob": "data/sl/sl.json",
+        "records": "array:shlokas",
+        "idField": "v"
+      },
+      "fieldMap": {
+        "verse": ["p1.te", "p2.te", "p3.te", "p4.te"],
+        "meaning": "meaning.te.short",
+        "commentary": "meaning.te.long",
+        "v": "v"
+      },
+      "sections": ["verse", "meaning", "commentary"],
+      "card": {
+        "header": {
+          "heading": "సౌన్దర్యలహరీ · {v}"
+        }
+      },
+      "caption": "{verse}\n\n{meaning}\n\n— సౌన్దర్యలహరీ · శ్లో. {v}\n{link}",
+      "output": "daily/sl/",
+      "archivePath": "smruti/sl",
+      "telegram": {
+        "enabled": true,
+        "chatIds": ["-1001666111648"],
+        "testChatIds": ["-5353301493"],
+        "lang": "te"
+      },
+      "variants": [
+        {
+          "id": "te",
+          "label": "తెలుగు"
+        },
+        {
+          "id": "sa",
+          "label": "संस्कृतम्",
+          "card": { "header": { "heading": "सौन्दर्यलहरी · {v}" } },
+          "fieldMap": {
+            "verse": ["p1.sa", "p2.sa", "p3.sa", "p4.sa"]
+          },
+          "script": "sa"
+        },
+        {
+          "id": "en",
+          "label": "IAST",
+          "card": { "header": { "heading": "Saundarya Laharī · {v}" } },
+          "fieldMap": {
+            "verse": ["p1.ro", "p2.ro", "p3.ro", "p4.ro"],
+            "meaning": "meaning.en.short",
+            "commentary": "meaning.en.long"
+          },
+          "script": "iast"
+        }
+      ]
+    }
   ]
 }
