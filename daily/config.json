@@ -163,6 +163,7 @@
         "records": "array:shlokas",
         "idField": "v"
       },
+      "syllables": 17,
       "fieldMap": {
         "verse": ["p1.te", "p2.te", "p3.te", "p4.te"],
         "meaning": "meaning.te.short",
@@ -172,7 +173,7 @@
       "sections": ["verse", "meaning", "commentary"],
       "card": {
         "header": {
-          "heading": "సౌన్దర్యలహరీ · {v}"
+          "heading": "సౌన్దర్యలహరీ"
         }
       },
       "caption": "{verse}\n\n{meaning}\n\n— సౌన్దర్యలహరీ · శ్లో. {v}\n{link}",
@@ -192,7 +193,7 @@
         {
           "id": "sa",
           "label": "संस्कृतम्",
-          "card": { "header": { "heading": "सौन्दर्यलहरी · {v}" } },
+          "card": { "header": { "heading": "सौन्दर्यलहरी" } },
           "fieldMap": {
             "verse": ["p1.sa", "p2.sa", "p3.sa", "p4.sa"]
           },
@@ -201,7 +202,7 @@
         {
           "id": "en",
           "label": "IAST",
-          "card": { "header": { "heading": "Saundarya Laharī · {v}" } },
+          "card": { "header": { "heading": "Saundarya Laharī" } },
           "fieldMap": {
             "verse": ["p1.ro", "p2.ro", "p3.ro", "p4.ro"],
             "meaning": "meaning.en.short",
