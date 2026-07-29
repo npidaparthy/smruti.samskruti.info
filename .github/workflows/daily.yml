@@ -7,8 +7,8 @@ name: Daily verse card
 
 on:
   schedule:
-    # 3 AM IST = 21:30 UTC previous day (IST is UTC+5:30, no DST)
-    - cron: "30 21 * * *"
+    # 9:38 AM IST = 04:08 UTC previous day (IST is UTC+5:30, no DST)
+    - cron: "08 04 * * *"
   workflow_dispatch:       # manual "run now" — bypasses the hour gate
     inputs:
       feeds:
