@@ -57,12 +57,18 @@ def load_all_verses():
 
 
 def pick_distractors(all_verses, idx, n=3):
-    """Pick n other verses, preferring different chapters, avoiding near-duplicate short text."""
+    """Pick n other verses as distractors, preferring the SAME chapter (same
+    yoga/theme) so the wrong choices are topically close to the correct one
+    — a distractor from an unrelated chapter is too easy to spot by content
+    alone, which defeats the point of testing verse-level understanding."""
     me = all_verses[idx]
-    pool = [v for j, v in enumerate(all_verses) if j != idx and v['c'] != me['c']]
-    if len(pool) < n:
-        pool = [v for j, v in enumerate(all_verses) if j != idx]
-    return random.sample(pool, n)
+    same_chapter = [v for j, v in enumerate(all_verses) if j != idx and v['c'] == me['c']]
+    if len(same_chapter) >= n:
+        return random.sample(same_chapter, n)
+    # Chapter too short (e.g. ch1 narration-only stretches) — top up from
+    # everywhere else rather than reusing same-chapter verses twice.
+    rest = [v for j, v in enumerate(all_verses) if j != idx and v['c'] != me['c']]
+    return same_chapter + random.sample(rest, n - len(same_chapter))
 
 
 def build_choices(verse, distractors):
