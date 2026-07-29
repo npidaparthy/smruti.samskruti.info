@@ -180,7 +180,7 @@
       "archivePath": "smruti/sl",
       "telegram": {
         "enabled": true,
-        "chatIds": ["-1001666111648"],
+        "chatIds": ["-5353301493"],
         "testChatIds": ["-5353301493"],
         "lang": "te"
       },
