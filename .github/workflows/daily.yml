@@ -12,13 +12,25 @@ on:
   workflow_dispatch:       # manual "run now" — bypasses the hour gate
     inputs:
       feeds:
-        description: "Comma-separated feed ids to run (blank = all)."
+        description: "Feed to run (all = every feed)."
         required: false
-        default: ""
+        type: choice
+        default: "all"
+        options:
+          - all
+          - bg
+          - vsn
+          - sl
       script:
-        description: "Verse script: te | sa | iast (blank = each feed's default)."
+        description: "Verse script override."
         required: false
+        type: choice
         default: ""
+        options:
+          - ""
+          - te
+          - sa
+          - iast
       telegram:
         description: "Telegram mode"
         required: false
@@ -39,7 +51,7 @@ jobs:
     with:
       config: daily/config.json
       force: ${{ github.event_name == 'workflow_dispatch' }}
-      feeds: ${{ inputs.feeds }}
+      feeds: ${{ inputs.feeds == 'all' && '' || inputs.feeds }}
       script: ${{ inputs.script }}
       telegram_mode: ${{ inputs.telegram || 'live' }}
     secrets:
