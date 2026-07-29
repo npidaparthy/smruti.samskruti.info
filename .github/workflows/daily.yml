@@ -22,7 +22,7 @@ on:
           - vsn
           - sl
       script:
-        description: "Verse script override."
+        description: "Verse script override (te=Telugu, sa=Devanagari, iast=Roman). Blank = each feed's default."
         required: false
         type: choice
         default: ""
