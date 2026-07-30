@@ -135,6 +135,16 @@ const I18N = {
     hide:                     'దాచు',
     off:                      'ఆపు',
     on:                       'చేయి',
+    // Quiz tab
+    tab_quiz:            'ప్రశ్నలు',
+    quiz_intro:          'భగవద్గీత శ్లోకాల అర్థంపై ప్రశ్నలు',
+    quiz_pick_chapters:  'అధ్యాయాలు ఎంచుకోండి (ఏమీ ఎంచుకోకపోతే — అన్నీ)',
+    quiz_how_many:       'ఎన్ని ప్రశ్నలు?',
+    quiz_start:          'ప్రారంభించండి',
+    quiz_next:           'తదుపరి →',
+    quiz_restart:        'మళ్ళీ ప్రారంభించండి',
+    quiz_empty:          'ఎంచుకున్న అధ్యాయాల్లో ప్రశ్నలు దొరకలేదు.',
+    quiz_score:          'స్కోరు',
   },
 
   en: {
@@ -267,6 +277,16 @@ const I18N = {
     hide:                     'Hide',
     off:                      'Off',
     on:                       'On',
+    // Quiz tab
+    tab_quiz:            'Quiz',
+    quiz_intro:          'Test your understanding of Bhagavad Gita verses',
+    quiz_pick_chapters:  'Pick chapters (none selected — all chapters)',
+    quiz_how_many:       'How many questions?',
+    quiz_start:          'Start Quiz',
+    quiz_next:           'Next →',
+    quiz_restart:        'Restart',
+    quiz_empty:          'No questions found for the selected chapters.',
+    quiz_score:          'Score',
   }
 };
 

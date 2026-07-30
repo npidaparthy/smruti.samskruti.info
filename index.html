@@ -511,8 +511,19 @@
   ══════════════════════════════════════════════════════════ -->
   <section id="quiz" class="panel" role="tabpanel">
     <div class="quiz-intro" id="quiz-intro">
-      <p>భగవద్గీత శ్లోకాల అర్థంపై ప్రశ్నలు · Test your understanding of Gita verses</p>
-      <button class="btn-submit" id="quiz-start-btn">ప్రారంభించండి · Start Quiz</button>
+      <p data-i18n="quiz_intro">భగవద్గీత శ్లోకాల అర్థంపై ప్రశ్నలు</p>
+
+      <div class="quiz-setup-label" data-i18n="quiz_pick_chapters">అధ్యాయాలు ఎంచుకోండి (ఏమీ ఎంచుకోకపోతే — అన్నీ)</div>
+      <div id="quiz-ch-wrap" class="ch-grid"></div>
+
+      <div class="quiz-setup-label" data-i18n="quiz_how_many">ఎన్ని ప్రశ్నలు?</div>
+      <div class="pill-group" id="quiz-count-group">
+        <button class="pill" data-count="5">5</button>
+        <button class="pill active" data-count="10">10</button>
+        <button class="pill" data-count="20">20</button>
+      </div>
+
+      <button class="btn-submit" id="quiz-start-btn" data-i18n="quiz_start">ప్రారంభించండి</button>
     </div>
     <div id="quiz-content"></div>
   </section>
