@@ -27,8 +27,8 @@
     "repo": "npidaparthy/samskruti-archives"
   },
   "timezone": {
-    "name": "Australia/Sydney",
-    "hour": 4
+    "name": "Asia/Kolkata",
+    "hour": 9
   },
   "feeds": [
     {
