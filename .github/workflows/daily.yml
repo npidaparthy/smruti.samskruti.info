@@ -7,8 +7,15 @@ name: Daily verse card
 
 on:
   schedule:
-    # 9:38 AM IST = 04:08 UTC previous day (IST is UTC+5:30, no DST)
-    - cron: "08 04 * * *"
+    # Primary + staggered backups, all targeting 9:00 AM IST or later.
+    # GitHub Actions delays scheduled runs under load (sometimes hours) and
+    # drops them rather than queuing if too late, so one exact-time cron
+    # isn't reliable. The hour gate in daily-tool now accepts any run at or
+    # after the target hour, and skips per-feed if already generated today —
+    # so these backups are safe: whichever lands first wins, the rest no-op.
+    - cron: "08 04 * * *"   # primary: ~9:38 AM IST
+    - cron: "08 06 * * *"   # backup 1: ~11:38 AM IST
+    - cron: "08 09 * * *"   # backup 2: ~2:38 PM IST
   workflow_dispatch:       # manual "run now" — bypasses the hour gate
     inputs:
       feeds:
