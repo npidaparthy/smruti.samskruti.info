@@ -499,9 +499,10 @@ ${_buildNakPanel()}
 
     const enEl = document.getElementById('vsn-mean-en');
     const teEl = document.getElementById('vsn-mean-te');
-    if (nm.en || nm.te) {
-      enEl.textContent = nm.en||'';
-      teEl.textContent = nm.te||'';
+    const mean = nm.meaning || {};
+    if (mean.en || mean.te) {
+      enEl.textContent = [mean.en, mean.en_d].filter(Boolean).join(' — ');
+      teEl.textContent = [mean.te, mean.te_d].filter(Boolean).join(' — ');
     } else {
       enEl.innerHTML  = `<em class="vsn-mean-empty">${t('vsn_meaning_soon')}</em>`;
       teEl.textContent = '';

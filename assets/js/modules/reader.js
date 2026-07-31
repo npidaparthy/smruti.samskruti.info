@@ -18,6 +18,7 @@ const Reader = (() => {
   // VSN state
   let vsnShlokas        = [];
   let vsnNames          = [];
+  let vsnNamesLoaded    = false;
   let vsnNameCountMap   = null;
   let vsnSelectedGroups = new Set(); // empty = All; keyed by grp.from
   let vsnMeta           = null;
@@ -79,6 +80,17 @@ const Reader = (() => {
     const data = await r.json();
     vsnShlokas = data.shlokas || [];
     return vsnShlokas;
+  }
+
+  async function loadVsnNames() {
+    if (vsnNamesLoaded) return vsnNames;
+    try {
+      const r = await fetch(C.VSN_NAMES);
+      const data = await r.json();
+      vsnNames = data.names || [];
+    } catch (e) {}
+    vsnNamesLoaded = true;
+    return vsnNames;
   }
 
   async function loadVsnNameCountMap() {
@@ -1153,7 +1165,7 @@ const Reader = (() => {
 
     // VSN shloka: show names + meanings (show names even if meanings not yet added)
     if (activeText === 'vsn' && sh) {
-      loadVsnNameCountMap().then(() => {
+      loadVsnNames().then(() => {
         const verseNames = vsnNames.filter(n => n.sh === sh.s);
         if (!verseNames.length) { out.style.display = 'none'; return; }
         const script = window._script || 'te';
