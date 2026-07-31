@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-21-q1",
+    "verse": { "c": 1, "s": 21 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.21?\n\n“arjuna uvāca | senayorubhayormadhye rathaṃ sthāpaya me'cyuta”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అర్జున ఉవాచ | సేనయోరుభయోర్మధ్యే రథం స్థాపయ మేఽచ్యుత”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — O Acyuta (Infallible One), please place my chariot in the middle between both armies.",
+        "te": "అర్జునుడు పలికెను — ఓ అచ్యుతా! నా రథాన్ని రెండు సైన్యాల మధ్య భాగంలో నిలపండి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — Drive my chariot straight into the center of the Kaurava infantry ranks.",
+        "te": "అర్జునుడు పలికెను — నా రథాన్ని నేరుగా కౌరవ కాల్బలం మధ్యలోకి నడపండి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — Turn the chariot back toward the Pandava military camp immediately.",
+        "te": "అర్జునుడు పలికెను — రథాన్ని వెంటనే వెనక్కి తిప్పి పాండవ గుడారాల వైపు తీసుకువెళ్ళండి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — O Krishna, blow your conch shell Panchajanya to announce our challenge.",
+        "te": "అర్జునుడు పలికెను — ఓ కృష్ణా! మన సవాలును ప్రకటించడానికి నీ పాంచజన్య శంఖాన్ని పూరించు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Arjuna uvāca — senayor ubhayor madhye rathaṃ sthāpaya me 'cyuta.\" Arjuna orders his divine charioteer Lord Krishna to station his war chariot in the neutral zone situated between the two opposing forces. — Bhagavad Gita (1.21)",
+      "te": "\"అర్జున ఉవాచ — సేనయోరుభయోర్మధ్యే రథం స్థాపయ మేఽచ్యుత.\" ఇరుపక్షాల సైన్యాల మధ్యలో ఉన్న ఖాళీ ప్రదేశంలో రథాన్ని నిలపమని అర్జునుడు తన సారథియైన శ్రీకృష్ణుడిని కోరుతున్నాడు. — భగవద్గీత (1.21)"
+    }
+  },
+  {
+    "id": "bg-1-21-q2",
+    "verse": { "c": 1, "s": 21 },
+    "concept": ["Name Analysis - Acyuta"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Why does Arjuna specifically address Lord Krishna as 'Acyuta' in verse 1.21, and what is its profound literal meaning?",
+      "te": "1.21 శ్లోకంలో అర్జునుడు శ్రీకృష్ణుడిని 'అచ్యుతా' అని ఎందుకు సంబోధించాడు? దానికి నిజమైన ఆధ్యాత్మికార్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Acyuta = Infallible / One who never swerves from His divine nature or His affection for His devotees (Bhakta-vatsala).",
+        "te": "అచ్యుత = ఎన్నటికీ పతనం లేనివాడు / తన భక్తుల పట్ల అనుగ్రహం నుండి ఎన్నడూ వెనక్కి తగ్గని సర్వేశ్వరుడు (భక్తవత్సలుడు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Acyuta = One who possesses speed greater than the wind.",
+        "te": "అచ్యుత = గాలి కంటే వేగంగా రథాన్ని నడపగలవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Acyuta = One who has never held a bow in battle.",
+        "te": "అచ్యుత = యుద్ధంలో ఎన్నడూ విల్లు పట్టనివాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Acyuta = One who is the younger brother of Balarama.",
+        "te": "అచ్యుత = బలరాముని తమ్ముడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'a' (not) + 'cyuta' (fallen/swerved). Krishna is the Supreme Lord who never swerves from His supreme nature, yet out of unconditional love for His devotee Arjuna, He lovingly submits to taking orders as a humble driver. — Bhagavad Gita (1.21)",
+      "te": "'అచ్యుత' అనగా ఏనాటికీ తన స్థానం నుండి జారనివాడు లేదా పతనం లేనివాడు అని అర్థం. సర్వేశ్వరుడైనప్పటికీ భక్తవాత్సల్యంతో అర్జునునికి రథసారథిగా సేవ చేయడానికి, అతడి ఆజ్ఞను స్వీకరించడానికి సిద్ధపడ్డాడు. — భగవద్గీత (1.21)"
+    }
+  },
+  {
+    "id": "bg-1-21-q3",
+    "verse": { "c": 1, "s": 21 },
+    "concept": ["Strategic & Psychological Positioning"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What is the strategic purpose behind Arjuna's command 'senayor ubhayor madhye' (between both armies)?",
+      "te": "'సేనయోరుభయోర్మధ్యే' (రెండు సైన్యాల మధ్య) రథాన్ని నిలపమని చెప్పడంలో అర్జునుడి ప్రధాన ఉద్దేశం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "To obtain an unobstructed 360-degree vantage point to inspect the enemy lineup before releasing his arrows.",
+        "te": "బాణాలు వేయడానికి ముందు శత్రు వ్యూహాలను, యుద్ధరంగంలో ఉన్న వీరులను ప్రశాంతంగా, నిష్పాక్షికంగా పరిశీలించడానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "To retreat from the frontline and avoid Bhishma's line of sight.",
+        "te": "యుద్ధరంగం ముందువరుస నుండి తప్పించుకుని భీష్ముని కంటికి కనబడకుండా ఉండటానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "To display his divine chariot to King Duryodhana as a intimidation tactic.",
+        "te": "తన దివ్య రథాన్ని దుర్యోధనుడికి చూపించి భయపెట్టడానికి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "To surrender his Gandiva bow in front of all commanders.",
+        "te": "ఇరుపక్షాల సేనాపతుల ఎదుట తన గాండీవాన్ని త్యజించడానికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "By moving into 'the middle between both armies', Arjuna sought an objective view of the enemy forces, ensuring he knew exactly who had assembled eager to fight. — Bhagavad Gita (1.21)",
+      "te": "రెండు సైన్యాల మధ్యలో రథాన్ని నిలపడం వల్ల ఇరువైపులా ఉన్న వీరులను, శత్రు వ్యూహాలను స్పష్టంగా పరిశీలించే నిష్పాక్షికమైన అవకాశం అర్జునునికి లభిస్తుంది. — భగవద్గీత (1.21)"
+    }
+  },
+  {
+    "id": "bg-1-21-q4",
+    "verse": { "c": 1, "s": 21 },
+    "concept": ["Sanskrit Vocabulary - Imperative Verb"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which Sanskrit verb form in verse 1.21 is used by Arjuna to instruct Krishna to 'place / station' the chariot?",
+      "te": "1.21 శ్లోకంలో రథాన్ని 'నిలుపుము / స్థాపించుము' అని కృష్ణుడిని ఆజ్ఞాపించడానికి అర్జునుడు ఏ సంస్కృత క్రియాపదాన్ని వాడాడు?"
+    },
+    "choices": [
+      {
+        "en": "Sthāpaya",
+        "te": "స్థాపయ",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nirīkṣe",
+        "te": "నిరీక్షే",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avasthitān",
+        "te": "అవస్థితాన్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yoddhukāmān",
+        "te": "యోద్ధుకామాన్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sthāpaya' is the imperative (Loṭ-lakāra) 2nd person singular of the causal root 'sthā' (to cause to stand / station / place). — Bhagavad Gita (1.21)",
+      "te": "'స్థాపయ' అనేది 'స్థా' (నిలుపుట) అనే ధాతువు యొక్క ప్రేరణార్థక ఆజ్ఞార్థక (లోట్-లకార) ఏకవచన రూపం. 'నిలుపుము/స్థాపించుము' అని దీనికి అర్థం. — భగవద్గీత (1.21)"
+    }
+  },
+  {
+    "id": "bg-1-21-q5",
+    "verse": { "c": 1, "s": 21 },
+    "concept": ["Sanskrit Vocabulary - Dual Genitive Form"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What is the grammatical breakdown of the compound 'senayorubhayormadhye' in verse 1.21?",
+      "te": "1.21 శ్లోకంలోని 'సేనయోరుభయోర్మధ్యే' అనే పదబంధం యొక్క సంస్కృత వ్యాకరణ విభజన ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Senayoḥ (of the two armies - Genitive Dual) + ubhayoḥ (of both - Genitive Dual) + madhye (in the middle - Locative Singular)",
+        "te": "సేనయోః (రెండు సైన్యముల యొక్క - షష్ఠీ ద్వివచనం) + ఉభయోః (రెండింటి యొక్క - షష్ఠీ ద్వివచనం) + మధ్యే (మధ్య నందు - సప్తమీ ఏకవచనం)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sena (army) + ubha (both) + madhya (middle) in Nominative Plural",
+        "te": "సేనా + ఉభ + మధ్య (ప్రథమా బహువచన రూపం)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Senābhiḥ + ubhābhyām + madhyāt in Instrumental Dual",
+        "te": "సేనాభిః + ఉభాభ్యామ్ + మధ్యాత్ (తృతీయా ద్వివచన రూపం)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Senāyām + ubhayāyām + madhyam in Accusative Singular",
+        "te": "సేనాయామ్ + ఉభయాయామ్ + మధ్యమ్ (ద్వితీయా ఏకవచన రూపం)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Senayoḥ' (of the two armies) and 'ubhayoḥ' (of both) are in the Genitive Dual, modifying 'madhye' (in the middle - Locative Singular). Visarga changes to 'r' before vowels by Rutva-sandhi: 'senayoḥ' + 'ubhayoḥ' = 'senayor ubhayoḥ'. — Bhagavad Gita (1.21)",
+      "te": "'సేనయోః' మరియు 'ఉభయోః' అనేవి షష్ఠీ విభక్తి ద్వివచనంలో ఉన్నాయి. విసర్గ సంధి ప్రకారం 'సేనయోః' + 'ఉభయోః' = 'సేనయోరుభయోః' గా మారాయి. — భగవద్గీత (1.21)"
+    }
+  },
+  {
+    "id": "bg-1-21-q6",
+    "verse": { "c": 1, "s": 21 },
+    "concept": ["Philosophical Paradox - Lord as Servant"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What spiritual paradox is depicted in verse 1.21 through Arjuna issuing a command ('sthāpaya') to Lord Krishna ('Acyuta')?",
+      "te": "1.21 శ్లోకంలో అర్జునుడు శ్రీకృష్ణుడికి ('అచ్యుతునికి') ఆజ్ఞ ('స్థాపయ') ఇవ్వడం ద్వారా ఏ ఆధ్యాత్మిక విచిత్రం/తత్త్వం బయటపడుతుంది?"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Sovereign of the universe voluntarily accepting subordination to become the personal driver (Sārathi) of His sincere devotee.",
+        "te": "సమస్త జగత్తుకు అధిపతియైన పరమాత్మ, తన నిజమైన భక్తునికి సేవకుడిగా, సారథిగా మారి అతడి ఆజ్ఞను శిరసావహించే భక్తపరాధీనత.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna asserting his political superiority over the Yadava Kingdom.",
+        "te": "యాదవ రాజ్యం కంటే తన పొలిటికల్ ఆధిపత్యాన్ని అర్జునుడు చాటుకోవడం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Krishna agreeing to serve only because He was hired as a paid warrior.",
+        "te": "జీతం తీసుకునే రథికుడిగా చేరడం వల్ల మాత్రమే శ్రీకృష్ణుడు ఆజ్ఞను పాటించడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "A formal military protocol where warriors always command their drivers regardless of spiritual status.",
+        "te": "ఆధ్యాత్మిక హోదాతో సంబంధం లేకుండా యోధుడు తన సారథిని ఆదేశించే సాధారణ సైనిక నియమం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verse 1.21 illustrates the sweet reality of 'Bhagavān-bhakta-vatsalya' (God's affection for His devotee). Though Krishna is the Unconquerable Lord of the Universe (Acyuta), He willingly surrenders to the love of His pure devotee Arjuna and drives his chariot. — Bhagavad Gita (1.21)",
+      "te": "అచ్యుతుడైన శ్రీకృష్ణుడు అపరిమితమైన భగవంతుడైనప్పటికీ, తన భక్తుడైన అర్జునుని ప్రేమకు లోబడి అతడికి సారథిగా మారి ఆజ్ఞను నెరవేర్చడం భగవంతుని 'భక్తపరాధీనతకు' పరమోత్కృష్ట నిదర్శనం. — భగవద్గీత (1.21)"
+    }
+  }
+]

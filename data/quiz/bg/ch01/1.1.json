@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-1-q1",
+    "verse": { "c": 1, "s": 1 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "dhritarashtra",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.1?\n\n“dhṛtarāṣṭra uvāca | dharmakṣetre kurukṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāścaiva kimakurvata sañjaya”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“ధృతరాష్ట్ర ఉవాచ | ధర్మక్షేత్రే కురుక్షేత్రే సమవేతా యుయుత్సవః | మామకాః పాండవాశ్చైవ కిమకుర్వత సంజయ”"
+    },
+    "choices": [
+      {
+        "en": "Dhritarashtra said — O Sanjaya, assembled on the holy plain of Kurukshetra, eager for battle, what did my sons and the sons of Pandu do?",
+        "te": "ధృతరాష్ట్రుడు పలికెను — ఓ సంజయా! ధర్మక్షేత్రమైన కురుక్షేత్రంలో యుద్ధం చేయాలనే కోరికతో సమకూడిన నా కుమారులు, పాండుపుత్రులు ఏమి చేశారు?",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — Having seen the army of the Pandavas drawn up in military array, King Duryodhana approached his teacher Dronacharya.",
+        "te": "సంజయుడు పలికెను — పాండవుల సైన్యాన్ని వ్యూహాకారంలో చూసి, దుర్యోధన రాజు తన గురువైన ద్రోణాచార్యుని సమీపించాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — Drive my chariot, O Infallible One, between the two armies so that I may behold those who stand here eager to fight.",
+        "te": "అర్జునుడు పలికెను — ఓ అచ్యుతా! యుద్ధం చేయాలనే కోరికతో ఇక్కడ నిలబడినవారిని చూసేలా నా రథాన్ని రెండు సైన్యాల మధ్య నిలుపుము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dhritarashtra said — Tell me about the vast strength of the Pandava heroes standing on the field.",
+        "te": "ధృతరాష్ట్రుడు పలికెను — యుద్ధరంగంలో నిలిచిన పాండవ వీరుల గొప్ప బలాన్ని గురించి నాకు వివరించు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Dhṛtarāṣṭra uvāca — dharmakṣetre kurukṣetre samavetā yuyutsavaḥ / māmakāḥ pāṇḍavāścaiva kimakurvata sañjaya.\" Dhritarashtra opens the Gita by asking Sanjaya what transpired when both opposing forces gathered at the sacred plain of Kurukshetra eager to fight. — Bhagavad Gita (1.1)",
+      "te": "\"ధృతరాష్ట్ర ఉవాచ — ధర్మక్షేత్రే కురుక్షేత్రే సమవేతా యుయుత్సవః / మామకాః పాండవాశ్చైవ కిమకుర్వత సంజయ.\" ధర్మక్షేత్రమైన కురుక్షేత్రంలో యుద్ధసన్నద్ధులై సమకూడిన తన కుమారులు, పాండుపుత్రులు ఏమి చేశారో తెలపమని ధృతరాష్ట్రుడు సంజయుడిని కోరడం ద్వారా భగవద్గీత ప్రారంభమవుతుంది. — భగవద్గీత (1.1)"
+    }
+  },
+  {
+    "id": "bg-1-1-q2",
+    "verse": { "c": 1, "s": 1 },
+    "concept": ["Sanskrit Vocabulary - Sacred Geography"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "dhritarashtra",
+    "q": {
+      "en": "In verse 1.1, which specific compound term is used by Dhritarashtra to signify Kurukshetra as a sacred field of virtue and action?",
+      "te": "1.1 శ్లోకంలో, కురుక్షేత్రాన్ని పవిత్రమైన ధర్మభూమిగా సూచించడానికి ధృతరాష్ట్రుడు ఏ పదాన్ని ఉపయోగించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Dharmakṣetre",
+        "te": "ధర్మక్షేత్రే",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Yuyutsavaḥ",
+        "te": "యుయుత్సవః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Samavetāḥ",
+        "te": "సమవేతాః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Māmakāḥ",
+        "te": "మామకాః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Dhritarashtra uses 'Dharmakṣetre' (in the field of Dharma/righteousness) alongside 'Kurukṣetre' (in Kurukshetra). This highlights the traditional status of Kurukshetra as a place of sacred pilgrimage and Vedic sacrifices. — Bhagavad Gita (1.1)",
+      "te": "ధృతరాష్ట్రుడు 'కురుక్షేత్రే' అనే పదంతో పాటు 'ధర్మక్షేత్రే' (ధర్మం నిలచే పుణ్యక్షేత్రంలో) అనే పదాన్ని ప్రయోగించాడు. కురుక్షేత్రం వేదకాలం నుండి పవిత్ర యజ్ఞభూమిగా పేరుగాంచింది. — భగవద్గీత (1.1)"
+    }
+  },
+  {
+    "id": "bg-1-1-q3",
+    "verse": { "c": 1, "s": 1 },
+    "concept": ["Psychological & Mindset Analysis"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "dhritarashtra",
+    "q": {
+      "en": "What underlying mental bias and possessiveness does Dhritarashtra reveal through the phrase 'māmakāḥ pāṇḍavāścaiva'?",
+      "te": "1.1 శ్లోకంలోని 'మామకాః పాండవాశ్చైవ' అనే పదబంధం ద్వారా ధృతరాష్ట్రుని ఏ మానసిక పక్షపాతం, మమకారం వ్యక్తమవుతాయి?"
+    },
+    "choices": [
+      {
+        "en": "He draws a discriminatory line between his own sons ('māmakāḥ') and the sons of Pandu ('pāṇḍavāḥ'), revealing partiality instead of treating both as family.",
+        "te": "తన కుమారులను ('మామకాః') మరియు పాండురాజు కుమారులను ('పాండవాః') వేరు చేసి చూడడం ద్వారా, అందరినీ సమానంగా చూడాల్సిన రాజు తన పక్షపాతాన్ని, మమకారాన్ని బయటపెట్టుకున్నాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "He demonstrates equal affection and paternal guidance toward both sets of princes.",
+        "te": "ఇరుపక్షాల రాజకుమారుల పట్ల సమానమైన తండ్రి ప్రేమను, మార్గదర్శకత్వాన్ని చూపించాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "He expresses detachment from the worldly throne and accepts the divine outcome of war.",
+        "te": "రాజ్యసంబంధిత విషయాలపట్ల వైరాగ్యాన్ని ప్రదర్శిస్తూ యుద్ధ పరిణామాన్ని దైవేచ్ఛగా స్వీకరించాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "He signals total indifference to whether any prince survives or dies.",
+        "te": "రాజకుమారులు బ్రతికినా చనిపోయినా తనకు అనవసరమనే నిష్పాక్షిక వైఖరిని ప్రకటించాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Although Dhritarashtra was the guardian king of both his sons and his deceased brother's sons (the Pandavas), by explicitly saying 'māmakāḥ' (my people) versus 'pāṇḍavāḥ' (Pandu's sons), he displays his deep-seated partiality, attachment, and divisive mentality. — Bhagavad Gita (1.1)",
+      "te": "ధృతరాష్ట్రుడు తన పిల్లలకు మరియు తన సోదరుడైన పాండురాజు పిల్లలకు (పాండవులకు) సంరక్షకుడైనప్పటికీ, 'మామకాః' (నావారు) మరియు 'పాండవాః' (పాండురాజు కుమారులు) అని వేరుచేసి చెప్పడం ద్వారా అతడిలోని పక్షపాతం మరియు భేదభావం స్పష్టమవుతాయి. — భగవద్గీత (1.1)"
+    }
+  },
+  {
+    "id": "bg-1-1-q4",
+    "verse": { "c": 1, "s": 1 },
+    "concept": ["Sanskrit Vocabulary - Motives"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "dhritarashtra",
+    "q": {
+      "en": "What does the Sanskrit term 'yuyutsavaḥ' mean in verse 1.1?",
+      "te": "1.1 శ్లోకంలో ఉన్న 'యుయుత్సవః' అనే సంస్కృత పదానికి అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Desirous of fighting / eager for battle",
+        "te": "యుద్ధం చేయాలనే కోరిక కలిగినవారు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Desirous of peace and reconciliation",
+        "te": "శాంతిని, సంధిని కోరుకునేవారు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Having retreated from the battlefield",
+        "te": "యుద్ధరంగం నుండి వెనక్కి తగ్గినవారు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Victorious in all directions",
+        "te": "అన్ని దిక్కులలో విజయం సాధించినవారు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yuyutsu' comes from the verb root 'yudh' (to fight) in its desiderative form. 'Yuyutsavaḥ' means 'those who have assembled with a burning desire/intent to engage in combat'. — Bhagavad Gita (1.1)",
+      "te": "'యుయుత్సవః' అనగా యుద్ధం చేయడానికి మిక్కిలి కోరిక లేదా సన్నాహం కలిగి సమకూడినవారు అని అర్థం. — భగవద్గీత (1.1)"
+    }
+  },
+  {
+    "id": "bg-1-1-q5",
+    "verse": { "c": 1, "s": 1 },
+    "concept": ["Narrative Structure & Characters"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "dhritarashtra",
+    "q": {
+      "en": "Who is Dhritarashtra directly addressing in verse 1.1 to receive real-time reports of the war?",
+      "te": "1.1 శ్లోకంలో యుద్ధ విశేషాలను ప్రత్యక్షంగా తెలుసుకోవడానికి ధృతరాష్ట్రుడు ఎవరిని సంబోధించి ప్రశ్న అడుగుతున్నాడు?"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya (his charioteer and secretary equipped with divine vision)",
+        "te": "సంజయుడు (దివ్యదృష్టి పొందిన తన రథసారథి మరియు కార్యదర్శి)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Vidura (his wise advisor and brother)",
+        "te": "విదురుడు (తన సోదరుడు మరియు జ్ఞానియైన సలహాదారు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bhishma (the grand sire and commander)",
+        "te": "భీష్ముడు (పితామహుడు మరియు సైన్యాధ్యక్షుడు)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vyasa (the sage who granted divine vision)",
+        "te": "వ్యాసమహర్షి (దివ్యదృష్టిని ప్రసాదించిన ముని)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Dhritarashtra addresses Sanjaya ('sañjaya'), who was granted 'divya-dṛṣṭi' (divine sight) by Sage Vyasa to see, hear, and narrate everything taking place at Kurukshetra to the blind king. — Bhagavad Gita (1.1)",
+      "te": "వ్యాస మహర్షి ప్రసాదించిన దివ్యదృష్టితో కురుక్షేత్రంలో జరిగే ప్రతి ఘట్టాన్ని చూడగల సంజయుడిని ('సంజయ') ధృతరాష్ట్రుడు ప్రశ్నిస్తున్నాడు. — భగవద్గీత (1.1)"
+    }
+  },
+  {
+    "id": "bg-1-1-q6",
+    "verse": { "c": 1, "s": 1 },
+    "concept": ["Allegorical & Philosophical Interpretation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "dhritarashtra",
+    "q": {
+      "en": "Philosophically and allegorically, what do 'Dharmakṣetra' (the field of Dharma) and 'Kurukṣetra' (the field of action) represent in spiritual commentary on verse 1.1?",
+      "te": "ఆధ్యాత్మిక వ్యాఖ్యానాల్లో, 1.1 శ్లోకంలోని 'ధర్మక్షేత్రం' మరియు 'కురుక్షేత్రం' అనే పదాలు దేనికి ప్రతీకలుగా వర్ణించబడ్డాయి?"
+    },
+    "choices": [
+      {
+        "en": "The human body/mind as the inner battlefield where divine qualities (Pandavas) fight lower egoistic tendencies (Kauravas)",
+        "te": "మానవ శరీరం/మనస్సు అనే ఆంతరంగిక యుద్ధభూమి; అక్కడ దైవీ గుణాలు (పాండవులు) మరియు ఆసురీ/అహంకార ప్రవృత్తులు (కౌరవులు) పోరాడుతుంటాయి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "A literal prediction of political power shifts in ancient kingdom boundaries",
+        "te": "ప్రాచీన భారతదేశంలో రాజకీయ రాజ్యాల సరిహద్దుల్లో వచ్చే మార్పుల భవిష్యవాణి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "A symbolic rulebook detailing formal rules of Vedic archery and chariot design",
+        "te": "వేదకాలం నాటి విలువిద్య మరియు రథాల తయారీ నిబంధనల పట్టిక",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The physical boundary separating material nature from the celestial planets",
+        "te": "భౌతిక ప్రపంచాన్ని మరియు దేవలోకాలను వేరుచేసే భౌగోళిక సరిహద్దు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Commentators (such as Paramahansa Yogananda and Shankaracharya) explain that the body is 'Kshetra' (the field). 'Dharmakshetra Kurukshetra' symbolizes the human conscience where good qualities (Pandavas) battle negative egoic impulses (Kauravas), with the blind King Dhritarashtra representing the ignorant mind attached to ego. — Bhagavad Gita (1.1)",
+      "te": "అనేకమంది వేదాంత వ్యాఖ్యాతల ప్రకారం, మన శరీరమే ఒక 'క్షేత్రం'. మంచి గుణాలు (పాండవులు) మరియు చెడు ఆలోచనలు (కౌరవులు) మనస్సులో చేసుకునే నిరంతర పోరాటానికి, అజ్ఞానానికి గురైన ధృతరాష్ట్రుని మనస్తత్వానికి ఈ శ్లోకం ఆంతరంగిక ప్రతీక. — భగవద్గీత (1.1)"
+    }
+  }
+]

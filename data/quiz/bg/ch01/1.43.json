@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-43-q1",
+    "verse": { "c": 1, "s": 43 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.43?\n\n“doṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ | utsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“దోషైరేతైః కులఘ్నానాం వర్ణసంకరకారకైః | ఉత్సాద్యంతే జాతిధర్మాః కులధర్మాశ్చ శాశ్వతాః”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — By these evil deeds of the family-destroyers, which cause social confusion (varṇa-saṅkara), the eternal community duties (jāti-dharma) and age-old family traditions (kula-dharma) are completely devastated.",
+        "te": "అర్జునుడు పలికెను — వర్ణసంకరానికి కారణమయ్యే ఈ వంశఘాతకుల (కులఘ్నుల) పాపకార్యాల వల్ల, సనాతనమైన జాతిధర్మాలు మరియు తరతరాల కులధర్మాలు సంపూర్ణంగా నాశనమవుతాయి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — By performing righteous war duties, warriors protect both community laws and eternal family traditions from decline.",
+        "te": "అర్జునుడు పలికెను — ధర్మబద్ధమైన యుద్ధ విధులను నిర్వర్తించడం ద్వారా యోధులు జాతి చట్టాలను, సనాతన కులధర్మాలను క్షీణించకుండా కాపాడతారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — Social confusion is automatically purified when new kings establish fresh laws after victory in battle.",
+        "te": "అర్జునుడు పలికెను — యుద్ధ విజయానంతరం కొత్త రాజులు నూతన చట్టాలను రూపొందించినప్పుడు సామాజిక సంకరాలు స్వయంచాలకంగా పవిత్రమవుతాయి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — Ancestral traditions are temporary rules created by men, whereas community duties are eternal commands from the gods.",
+        "te": "అర్జునుడు పలికెను — పితృదేవతల ఆచారాలు మనుష్యులు తయారుచేసిన తాత్కాలిక నియమాలు, కానీ జాతిధర్మాలు దేవతల శాశ్వత ఆదేశాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Doṣair etaiḥ kula-ghnānāṃ varṇa-saṅkara-kārakaiḥ / utsādyante jāti-dharmāḥ kula-dharmāś ca śāśvatāḥ.\" Arjuna emphasizes that the sins of family-destroyers cause 'varṇa-saṅkara', which ultimately destroys both 'jāti-dharma' (societal/community duties) and 'kula-dharma' (hereditary family traditions). — Bhagavad Gita (1.43)",
+      "te": "వర్ణసంకరానికి దారితీసే కులఘ్నుల ఈ దోషాల వల్ల సనాతనమైన 'జాతిధర్మాలు' (సమాజ ధర్మాలు) మరియు 'కులధర్మాలు' (వంశ ఆచారాలు) రెండూ తుడిచిపెట్టుకుపోతాయని అర్జునుడు వివరిస్తున్నాడు. — భగవద్గీత (1.43)"
+    }
+  },
+  {
+    "id": "bg-1-43-q2",
+    "verse": { "c": 1, "s": 43 },
+    "concept": ["Sociological Dual Framework - Jātidharma & Kuladharma"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What is the distinction between 'Jātidharma' and 'Kuladharma' as mentioned by Arjuna in verse 1.43?",
+      "te": "1.43 శ్లోకంలో అర్జునుడు పేర్కొన్న 'జాతిధర్మము' మరియు 'కులధర్మము' ల మధ్య ఉన్న తేడా ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Jātidharma = Duties/rules belonging to one's broader community or social order (varṇa); Kuladharma = Specific lineage traditions and moral practices of an individual family.",
+        "te": "జాతిధర్మము = సమాజంలోని వర్ణము లేదా సమూహానికి చెందిన ధర్మాలు; కులధర్మము = ఒక ప్రత్యేక వంశంలో లేదా కుటుంబంలో పారంపర్యంగా వచ్చే ఆచార ధర్మాలు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Jātidharma = Military codes of conduct; Kuladharma = Dietary habits of sages.",
+        "te": "జాతిధర్మము = సైనిక యుద్ధ నియమాలు; కులధర్మము = రుషుల ఆహార నియమాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Jātidharma = Temporary laws during peace; Kuladharma = Emergency rules during war.",
+        "te": "జాతిధర్మము = శాంతి సమయంలో ఉండే తాత్కాలిక చట్టాలు; కులధర్మము = యుద్ధ సమయంలో పాటించే అత్యవసర నియమాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Jātidharma = Obligations to foreign kingdoms; Kuladharma = Tax payments to the ruling king.",
+        "te": "జాతిధర్మము = విదేశీ రాజ్యాల పట్ల ఉండే బాధ్యతలు; కులధర్మము = రాజుకు చెల్లించే పన్నులు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Jāti-dharma' refers to broader caste/community ethics that preserve social structure, while 'Kula-dharma' refers to lineage-specific spiritual and ethical traditions handed down by ancestors. Arjuna fears the destruction of both macro (community) and micro (family) ethics. — Bhagavad Gita (1.43)",
+      "te": "'జాతిధర్మం' సమగ్ర సమాజానికీ వర్ణానికైనా ధర్మాలను సూచిస్తుంది. 'కులధర్మం' అనునది ఒక నిర్దిష్ట కుటుంబానికి సంబంధించిన సాంప్రదాయ ఆచారాలను సూచిస్తుంది. యుద్ధం వల్ల ఈ రెండూ నాశనమవుతాయని అర్జునుని భయం. — భగవద్గీత (1.43)"
+    }
+  },
+  {
+    "id": "bg-1-43-q3",
+    "verse": { "c": 1, "s": 43 },
+    "concept": ["Sanskrit Vocabulary - Destruction & Perpetuity"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit words 'utsādyante' and 'śāśvatāḥ' mean in verse 1.43?",
+      "te": "1.43 శ్లోకంలోని 'ఉత్సాద్యంతే' మరియు 'శాశ్వతాః' అనే పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Utsādyante = They are completely ruined / eradicated / destroyed; Śāśvatāḥ = Eternal / age-old / everlasting.",
+        "te": "ఉత్సాద్యంతే = సంపూర్ణంగా నశింపజేయబడుతాయి / ఉత్సన్నమవుతాయి; శాశ్వతాః = సనాతనమైన / శశ్వత్ కాలంగా వచ్చే / నిరంతరమైన.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Utsādyante = They are celebrated; Śāśvatāḥ = Temporary.",
+        "te": "ఉత్సాద్యంతే = వేడుక చేయబడుతాయి; శాశ్వతాః = తాత్కాలికమైన.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Utsādyante = They are taught by gurus; Śāśvatāḥ = Secret.",
+        "te": "ఉత్సాద్యంతే = గురువులచే బోధించబడుతాయి; శాశ్వతాః = రహస్యమైన.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Utsādyante = They are created anew; Śāśvatāḥ = Forgettable.",
+        "te": "ఉత్సాద్యంతే = కొత్తగా సృష్టించబడుతాయి; శాశ్వతాః = మర్చిపోదగిన.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Utsādyante' is 3rd person plural present passive of root 'sad' with prefix 'ud' (are uprooted/ruined). 'Śāśvatāḥ' means perpetual or timeless ('śāśvata'). It conveys the tragedy that timeless traditions ('śāśvatāḥ') are abruptly uprooted ('utsādyante'). — Bhagavad Gita (1.43)",
+      "te": "'ఉత్సాద్యంతే' అనగా కర్మణి ప్రయోగం — 'ఉత్సన్నం చేయబడుతున్నాయి/నాశనం చేయబడుతున్నాయి'. 'శాశ్వతాః' అనగా తరతరాల నుండి నిరంతరంగా వస్తున్న సనాతన ధర్మాలు. — భగవద్గీత (1.43)"
+    }
+  },
+  {
+    "id": "bg-1-43-q4",
+    "verse": { "c": 1, "s": 43 },
+    "concept": ["Sanskrit Vocabulary - Causes of Disorder"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which Sanskrit compound in verse 1.43 describes the evil deeds as 'those that produce social disorder/confusion'?",
+      "te": "1.43 శ్లోకంలో దుశ్చర్యలను 'వర్ణసంకరానికి కారణమయ్యేవి' అని వర్ణించే సంస్కృత సమాస పదం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Varṇasaṅkarakārakaiḥ",
+        "te": "వర్ణసంకరకారకైః",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Doṣair etaiḥ",
+        "te": "దోషైరేతైః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kulaghnānāṃ",
+        "te": "కులఘ్నానాం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Jātidharmāḥ",
+        "te": "జాతిధర్మాః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Varṇa' (social order) + 'saṅkara' (mixture/confusion) + 'kārakaiḥ' (by those causing/producing - Instrumental plural). It modifies 'doṣaiḥ etaiḥ' ('by these sins that produce social disorder'). — Bhagavad Gita (1.43)",
+      "te": "'వర్ణ' (సామాజిక శ్రేణి) + 'సంకర' (కలయిక/గందరగోళం) + 'కారకైః' (కలిగించేవాటి చేత). 'దోషైః' అనే పదానికి ఇది విశేషణంగా ఉండి 'వర్ణసంకరాన్ని పుట్టించే దోషాల చేత' అనే అర్థాన్ని ఇస్తుంది. — భగవద్గీత (1.43)"
+    }
+  },
+  {
+    "id": "bg-1-43-q5",
+    "verse": { "c": 1, "s": 43 },
+    "concept": ["Sanskrit Grammar - Passive Verb 'Utsādyante'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical form of 'utsādyante' in verse 1.43:",
+      "te": "1.43 శ్లోకంలోని 'ఉత్సాద్యంతే' అనే క్రియాపదం యొక్క వ్యాకరణ రూపం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person plural present tense Passive (Karmani Laṭ-lakāra) from causal root 'sad' with prefix 'ut', agreeing with subjects 'jātidharmāḥ' and 'kuladharmāḥ'.",
+        "te": "'సద్' (నివసించు/కూర్చొను) ధాతువు యొక్క ణిజంత రూపాపికీ 'ఉత్' అనే ఉపసర్గ చేరిన ప్రథమ పురుష బహువచన వర్తమానకాల కర్మణి (లట్ లకార) రూపం — 'జాతిధర్మాః', 'కులధర్మాః' అనే కర్తలకు క్రియగా నిలుస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person singular present active verb.",
+        "te": "ప్రథమ పురుష ఏకవచన వర్తమానకాల కర్తరి క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Past tense passive verb meaning 'they were destroyed long ago'.",
+        "te": "భూతకాల కర్మణి రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative mood verb meaning 'let them be destroyed'.",
+        "te": "ఆజ్ఞార్థకంలో 'అవి నాశనం చేయబడుగాక' అనే రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Utsādyante' comes from 'ut' + 'sādaya' (causal of 'sad') + 'te' (passive ending, 3rd plural). It means 'they are uprooted / ruined'. Its plural agreement matches 'jātidharmāḥ' and 'kuladharmāḥ' (nominative plural masculine). — Bhagavad Gita (1.43)",
+      "te": "'ఉత్సాద్యంతే' అనేది కర్మణి ప్రయోగంలో ఉన్న ప్రథమ పురుష బహువచన వర్తమానకాల రూపం. 'జాతిధర్మాలు, కులధర్మాలు ఉత్సన్నం చేయబడుతున్నాయి (నాశనమవుతున్నాయి)' అని కర్త-క్రియా పొందికను చూపుతుంది. — భగవద్గీత (1.43)"
+    }
+  },
+  {
+    "id": "bg-1-43-q6",
+    "verse": { "c": 1, "s": 43 },
+    "concept": ["Sanskrit Grammar - Instrumental Case Agreement"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What is the grammatical function and agreement of 'doṣair etaiḥ' in verse 1.43?",
+      "te": "1.43 శ్లోకంలోని 'దోషైరేతైః' అనే పదబంధం యొక్క వ్యాకరణ విభక్తి మరియు ప్రయోజనం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Instrumental Plural Neuter ('doṣaiḥ' + 'etaiḥ') functioning as the cause/instrumental agent of the passive verb 'utsādyante' ('by these sins...').",
+        "te": "తృతీయా విభక్తి బహువచన రూపం ('దోషైః' + 'ఏతైః') — 'ఉత్సాద్యంతే' అనే కర్మణి క్రియకు హేతువుగా/కరణంగా పనిచేస్తోంది ('ఈ దోషాల చేత...').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nominative Plural Masculine acting as direct subjects.",
+        "te": "ప్రథమా విభక్తి బహువచన రూపాలు (కర్తపదాలు).",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Genitive Plural Neuter showing possession.",
+        "te": "షష్ఠీ విభక్తి బహువచన రూపాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Locative Singular Neuter denoting time.",
+        "te": "సప్తమీ విభక్తి ఏకవచన రూపాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Doṣaiḥ' (by sins - Instrumental plural) + 'etaiḥ' (by these - Instrumental plural of demonstrative pronoun 'etad'). They specify the means or agent by which the eternal traditions ('jāti-dharmāḥ kula-dharmāḥ') are destroyed in the passive sentence construction. — Bhagavad Gita (1.43)",
+      "te": "'దోషైః' (పాపాల చేత) + 'ఏతైః' (ఈ). ఈ రెండూ తృతీయా విభక్తి బహువచనంలో ఉండి, కర్మణి క్రియ 'ఉత్సాద్యంతే' కు కారణమైన హేతువును ('ఈ దోషాల వల్ల') తెలియజేస్తున్నాయి. — భగవద్గీత (1.43)"
+    }
+  }
+]

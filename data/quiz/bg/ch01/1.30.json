@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-30-q1",
+    "verse": { "c": 1, "s": 30 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.30?\n\n“na ca śaknomyavasthātuṃ bhramatīva ca me manaḥ | nimittāni ca paśyāmi viparītāni keśava”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“న చ శక్నోమ్యవస్థాతుం భ్రమతీవ చ మే మనః | నిమిత్తాని చ పశ్యామి విపరీతాని కేశవ”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — I am unable to stand upright, my mind seems to be whirling in confusion, and I foresee only inauspicious omens, O Keshava.",
+        "te": "అర్జునుడు పలికెను — ఓ కేశవా! నేను నిలబడలేకపోతున్నాను, నా మనస్సు భ్రమించి తిరుగుతున్నట్లుగా ఉన్నది మరియు నాకు విపరీతమైన (అశుభకరమైన) శకునాలే కనిపిస్తున్నాయి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — I am ready to charge forward with full determination, O Keshava, as all auspicious omens favor our victory.",
+        "te": "అర్జునుడు పలికెను — ఓ కేశవా! మన విజయానికి అన్ని శుభ శకునాలే కనిపిస్తున్నాయి, నేను పూర్తి పట్టుదలతో ముందుకు సాగడానికి సిద్ధంగా ఉన్నాను.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — My mind is perfectly calm and focused on Lord Krishna, though the sky is filled with dark clouds.",
+        "te": "అర్జునుడు పలికెను — ఆకాశమంతా నల్లటి మేఘాలతో నిండి ఉన్నప్పటికీ, నా మనస్సు ప్రశాంతంగా శ్రీకృష్ణునిపై లగ్నమై ఉన్నది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — Drive my chariot straight toward King Duryodhana so I can challenge him directly.",
+        "te": "అర్జునుడు పలికెను — దుర్యోధనుడిని నేరుగా సవాలు చేయడానికి నా రథాన్ని అతడి ముందే నిలుపు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Na ca śaknomy avasthātuṃ bhramatīva ca me manaḥ / nimittāni ca paśyāmi viparītāni keśava.\" Arjuna expresses his total mental breakdown, inability to maintain posture, and anticipation of tragic consequences signaled by bad omens. — Bhagavad Gita (1.30)",
+      "te": "మానసిక సంక్షోభం పరాకాష్ఠకు చేరడంతో అర్జునుడు నిలబడలేకపోయాడు, అతడి మనస్సు తిరుగుతున్నట్లు అనిపించింది. అశుభ శకునాలను చూస్తూ తీవ్రమైన నిరాశను కృష్ణుని వద్ద వ్యక్తం చేశాడు. — భగవద్గీత (1.30)"
+    }
+  },
+  {
+    "id": "bg-1-30-q2",
+    "verse": { "c": 1, "s": 30 },
+    "concept": ["Name Analysis - Keshava"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Why does Arjuna specifically address Lord Krishna as 'Keśava' in verse 1.30, and what does this epithet signify?",
+      "te": "1.30 శ్లోకంలో అర్జునుడు శ్రీకృష్ణుడిని 'కేశవా' అని ఎందుకు సంబోధించాడు? ఈ నామం యొక్క ప్రాముఖ్యత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Keśava = Slayer of the demon Kesi / Lord of Brahma and Shiva (Ka+Isha+Va) / One with beautiful hair; invoked as the protector who destroys all distress and demonic confusion.",
+        "te": "కేశవ = కేశి అనే రాక్షసుడిని సంహరించినవాడు / బ్రహ్మ, విష్ణు, శివ రూపుడు / సుందరమైన కేశములు గలవాడు; దుఃఖాలను, అజ్ఞానాన్ని హరించే రక్షకుడిగా ఈ నామంతో పిలిచాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Keśava = One who drives a golden war chariot.",
+        "te": "కేశవ = బంగారు యుద్ధ రథాన్ని నడిపేవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Keśava = The younger brother of King Yudhishthira.",
+        "te": "కేశవ = యుధిష్ఠిర మహారాజు తమ్ముడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Keśava = Wielder of the bow named Gandiva.",
+        "te": "కేశవ = గాండీవ ధనుస్సును ధరించినవాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Keśava' refers to Krishna as the slayer of the demon Keśi (representing doubt/illusion). It also breaks down into Ka (Brahma) + Īśa (Shiva) + Va (Vishnu) = the Supreme Being. Arjuna appeals to Keśava to dispel the inner demon of confusion clouding his mind. — Bhagavad Gita (1.30)",
+      "te": "'కేశవ' అనగా కేశి అనే రాక్షసుడిని (సంశయాలకు ప్రతీక) వధించినవాడు అని అర్థం. అలాగే క (బ్రహ్మ), ఈశ (శివుడు), వ (విష్ణువు) లతో కూడిన పరమాత్మ అని అర్థం. తన మనస్సును కమ్మేసిన సంశయ రాక్షసుడిని సంహరించమని అర్జునుడు కృష్ణుడిని అర్థిస్తున్నాడు. — భగవద్గీత (1.30)"
+    }
+  },
+  {
+    "id": "bg-1-30-q3",
+    "verse": { "c": 1, "s": 30 },
+    "concept": ["Psychological State - Vertigo & Inability to Stand"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which two Sanskrit phrases in verse 1.30 capture Arjuna's inner vertigo and severe physical weakness?",
+      "te": "1.30 శ్లోకంలో అర్జునుని తీవ్రమైన మానసిక ఆందోళనను, శారీరక బలహీనతను (తల తిరగడం, నిలబడలేకపోవడం) తెలిపే రెండు సంస్కృత పదబంధాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Na ca śaknomy avasthātum (I am unable to stand) and Bhramatīva ca me manaḥ (My mind seems to be whirling)",
+        "te": "న చ శక్నోమ్యవస్థాతుమ్ (నేను నిలబడలేకపోతున్నాను) మరియు భ్రమతీవ చ మే మనః (నా మనస్సు తిరుగుతున్నట్లుగా ఉన్నది)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nimittāni ca paśyāmi and Viparītāni keśava",
+        "te": "నిమిత్తాని చ పశ్యామి మరియు విపరీతాని కేశవ",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sīdanti mama gātrāṇi and Mukhaṃ ca pariśuṣyati",
+        "te": "సీదన్తి మమ గాత్రాణి మరియు ముఖం చ పరిశుష్యతి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vepathuśca śarīre and Romaharṣaśca jāyate",
+        "te": "వేపథుశ్చ శరీరే మరియు రోమహర్షశ్చ జాయతే",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna declares 'na ca śaknomy avasthātum' (I cannot even hold myself upright) and 'bhramatīva ca me manaḥ' (my mind is spinning / revolving in delusion). This marks the complete paralysis of his warrior composure. — Bhagavad Gita (1.30)",
+      "te": "అర్జునుడు 'న చ శక్నోమ్యవస్థాతుమ్' (నేను స్థిరంగా నిలబడలేకపోతున్నాను) మరియు 'భ్రమతీవ చ మే మనః' (నా మనస్సు భ్రమించి తిరుగుతున్నది) అని అంటాడు. ఇది అతడి మానసిక నిరోధం పూర్తిగా దెబ్బతిన్నదని తెలుపుతుంది. — భగవద్గీత (1.30)"
+    }
+  },
+  {
+    "id": "bg-1-30-q4",
+    "verse": { "c": 1, "s": 30 },
+    "concept": ["Sanskrit Vocabulary - Bad Omens"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the phrase 'nimittāni viparītāni' mean in verse 1.30?",
+      "te": "1.30 శ్లోకంలోని 'నిమిత్తాని విపరీతాని' అనే పదబంధానికి అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Inauspicious / ill-boding omens and portents",
+        "te": "విపరీతమైన / అశుభకరమైన శకునాలు, సూచనలు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Favorable omens signaling imminent victory",
+        "te": "తక్షణ విజయాన్ని సూచించే శుభ శకునాలు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Heavenly music playing in the sky",
+        "te": "ఆకాశంలో వినబడే దివ్య సంగీతం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Clear weather conditions across the field",
+        "te": "రణరంగం అంతటా ఉన్న ప్రశాంతమైన వాతావరణం",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Nimittāni' (signs/omens) + 'viparītāni' (adverse/contrary/inauspicious). Arjuna interprets outer natural phenomena and inner feelings as dark omens predicting catastrophic bloodshed without true benefit. — Bhagavad Gita (1.30)",
+      "te": "'నిమిత్తాని' (శకునాలు/సూచనలు) + 'విపరీతాని' (అశుభకరమైనవి/వ్యతిరేకమైనవి). జరగబోయే యుద్ధం వల్ల కేవలం వినాశనమే జరుగుతుందని చెప్పే అశుభ శకునాలు కనిపిస్తున్నాయని అర్జునుడు భావిస్తున్నాడు. — భగవద్గీత (1.30)"
+    }
+  },
+  {
+    "id": "bg-1-29-30-q5",
+    "verse": { "c": 1, "s": 30 },
+    "concept": ["Comprehensive Symptoms - Verses 1.28 to 1.30"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Across verses 1.28 through 1.30, how many cumulative physical and psychological distress symptoms does Arjuna describe to Lord Krishna?",
+      "te": "1.28 నుండి 1.30 శ్లోకాల పరిధిలో అర్జునుడు శ్రీకృష్ణునికి తనలో కలిగిన మొత్తం ఎన్ని భౌతిక, మానసిక దుఃఖ లక్షణాలను వివరించాడు?"
+    },
+    "choices": [
+      {
+        "en": "8 symptoms: 1. Limbs failing, 2. Parched mouth, 3. Trembling body, 4. Goosebumps, 5. Bow slipping, 6. Burning skin, 7. Inability to stand, 8. Whirling mind.",
+        "te": "8 లక్షణాలు: 1. అంగాలు సడలిపోవడం, 2. నోరు ఎండిపోవడం, 3. శరీరం వణకడం, 4. వెంట్రుకలు గగుర్పొడవడం, 5. విల్లు జారడం, 6. చర్మం మండడం, 7. నిలబడలేకపోవడం, 8. మనస్సు తిరగడం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3 symptoms: 1. Fear, 2. Anger, 3. Hunger.",
+        "te": "3 లక్షణాలు: 1. భయం, 2. కోపం, 3. ఆకలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "5 symptoms: 1. Headaches, 2. Cold feet, 3. Blindness, 4. Loss of memory, 5. Fever.",
+        "te": "5 లక్షణాలు: 1. తలనొప్పి, 2. చల్లబడిన కాళ్ళు, 3. అంధత్వం, 4. జ్ఞాపకశక్తి కోల్పోవడం, 5. జ్వరం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "10 symptoms: Including tears, fainting, and chest pain.",
+        "te": "10 లక్షణాలు: కన్నీరు కార్చడం, స్పృహ తప్పడం మొదలైనవి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "A classic analysis shows 8 symptoms across 1.28–1.30: 1. Sīdanti gātrāṇi, 2. Mukhaṃ pariśuṣyati, 3. Vepathuḥ, 4. Romaharṣaḥ, 5. Gāṇḍīvaṃ sraṃsate, 6. Tvak paridahyate, 7. Na śaknomy avasthātum, 8. Bhramatīva manaḥ. — Bhagavad Gita (1.28-1.30)",
+      "te": "1.28-1.30 శ్లోకాలలో వరుసగా 8 శారీరక-మానసిక లక్షణాలు చెప్పబడ్డాయి: అంగాలు సడలడం, నోరు ఎండడం, వణుకు, గగుర్పాటు, విల్లు జారడం, చర్మం మండడం, నిలబడలేకపోవడం, మనస్సు తిరగడం. — భగవద్గీత (1.28-1.30)"
+    }
+  },
+  {
+    "id": "bg-1-30-q6",
+    "verse": { "c": 1, "s": 30 },
+    "concept": ["Sanskrit Grammar - Simile & Verbs"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Break down the Sanskrit phrase 'bhramatīva' in verse 1.30:",
+      "te": "1.30 శ్లోకంలోని 'భ్రమతీవ' అనే పదాన్ని విడదీసి దాని వ్యాకరణ అర్థాన్ని చెప్పండి:"
+    },
+    "choices": [
+      {
+        "en": "Bhramati (3rd person singular present tense 'whirls / spins') + iva (as if / like)",
+        "te": "భ్రమతి (తిరుగుచున్నది - వర్తమానకాల ఏకవచనం) + ఇవ (అటుల/వలె) = తిరుగుతున్నట్లుగా ఉన్నది",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Bhramat (participle) + eva (only)",
+        "te": "భ్రమత్ + ఏవ",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bhramāmi (I spin) + iva (like)",
+        "te": "భ్రమామి + ఇవ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Bhramate (passive) + iva (as if)",
+        "te": "భ్రమతే + ఇవ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Bhramati' (spins / revolves) + 'iva' (as if / like). Savarna-dirgha sandhi combines 'i' + 'i' to form 'ī' ('bhramatīva'). It functions as a poetic simile describing his disorientation. — Bhagavad Gita (1.30)",
+      "te": "'భ్రమతి' (తిరుగుచున్నది) + 'ఇవ' (వలె/అట్లు). సవర్ణదీర్ఘ సంధి వలన 'భ్రమతీవ' గా మారినది. మనస్సు స్థిరత్వం కోల్పోయి భ్రమలో తిరుగుతున్నట్లుగా ఉందని అర్జునుడు వివరిస్తున్నాడు. — భగవద్గీత (1.30)"
+    }
+  }
+]

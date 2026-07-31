@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-18-q1",
+    "verse": { "c": 1, "s": 18 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.18?\n\n“drupado draupadeyāśca sarvaśaḥ pṛthivīpate | saubhadraśca mahābāhuḥ śaṅkhān dadhmuḥ pṛthak pṛthak”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“ద్రుపదో ద్రౌపదేయాశ్చ సర్వశః పృథివీపతే | సౌభద్రశ్చ మహాబాహుః శఙ్ఖాన్స్ దధ్ముః పృథక్ పృథక్”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — Drupada, the sons of Draupadi, and the mighty-armed son of Subhadra (Abhimanyu), O Lord of Earth (Dhritarashtra), blew their respective conch shells from all sides.",
+        "te": "సంజయుడు పలికెను — ఓ ధృతరాష్ట్ర మహారాజా! (పృథివీపతే), ద్రుపద మహారాజు, ద్రౌపది కుమారులు, మహాబాహుడైన సుభద్ర కుమారుడు (అభిమన్యుడు) అందరూ అన్ని వైపులా వేర్వేరుగా తమ శంఖాలను పూరించారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — Drupada and Abhimanyu called upon the sons of Draupadi to form a protective wall around King Yudhishthira.",
+        "te": "సంజయుడు పలికెను — యుధిష్ఠిర మహారాజు చుట్టూ రక్షణ వలయం ఏర్పాటు చేయమని ద్రుపదుడు, అభిమన్యుడు ద్రౌపది కుమారులను కోరారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — Seeing the young princes step forward, King Dhritarashtra wept for the future of his dynasty.",
+        "te": "సంజయుడు పలికెను — ఈ యువ రాజకుమారులు ముందుకు రావడం చూసి తన వంశ భవిష్యత్తును తలచుకుని ధృతరాష్ట్ర మహారాజు ఏడ్చాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — The five sons of Draupadi launched their chariots simultaneously into the enemy frontlines.",
+        "te": "సంజయుడు పలికెను — ద్రౌపది ఐదుగురు కుమారులు ఒక్కసారిగా తమ రథాలను శత్రువుల ముందువరుసలోకి నడిపించారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Drupado draupadeyāśca sarvaśaḥ pṛthivī-pate / saubhadraśca mahā-bāhuḥ śaṅkhān dadhmuḥ pṛthak pṛthak.\" Sanjaya summarizes how King Drupada, the five Upapandavas, and Abhimanyu individually sounded their conches from all directions. — Bhagavad Gita (1.18)",
+      "te": "సంజయుడు ధృతరాష్ట్రుడితో చెబుతున్నాడు: ద్రుపదుడు, ద్రౌపది ఐదుగురు కుమారులు, మహాబాహుడైన అభిమన్యుడు అందరూ రణరంగంలోని అన్ని వైపులా నుండి వేర్వేరుగా తమ శంఖాలను పూరించారు. — భగవద్గీత (1.18)"
+    }
+  },
+  {
+    "id": "bg-1-18-q2",
+    "verse": { "c": 1, "s": 18 },
+    "concept": ["Character Identification - Draupadeyāḥ"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Who are the five 'Draupadeyāḥ' referred to in verse 1.18?",
+      "te": "1.18 శ్లోకంలో పేర్కొనబడిన ఐదుగురు 'ద్రౌపదేయాః' (ఉపపాండవులు) ఎవరు?"
+    },
+    "choices": [
+      {
+        "en": "Prativindhya, Sutasoma, Srutakirti, Satanika, and Srutasena (sons born to Draupadi from the five Pandavas)",
+        "te": "ప్రతివింధ్యుడు, సుతసోముడు, శ్రుతకీర్తి, శతానీకుడు, శ్రుతసేనుడు (ఐదుగురు పాండవుల వలన ద్రౌపదికి జన్మించిన ఐదుగురు కుమారులు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Abhimanyu, Ghatotkacha, Iravan, Babruvahana, and Samba",
+        "te": "అభిమన్యుడు, ఘటోత్కచుడు, ఇరావాన్, బభ్రువాహనుడు, సాంబుడు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Dhrishtadyumna, Shikhandi, Satyajit, Uttamauja, and Yudhamanyu",
+        "te": "ధృష్టద్యుమ్నుడు, శిఖండి, సత్యజిత్తు, ఉత్తమౌజుడు, యుధామన్యుడు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The five sons of King Drupada who ruled the Panchala regions",
+        "te": "పాంచాల ప్రాంతాలను పాలించిన ద్రుపద మహారాజు ఐదుగురు కుమారులు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Draupadeyāḥ' refers to the five Upapandavas: Prativindhya (son of Yudhishthira), Sutasoma (son of Bhima), Srutakirti (son of Arjuna), Satanika (son of Nakula), and Srutasena (son of Sahadeva). — Bhagavad Gita (1.18)",
+      "te": "'ద్రౌపదేయాః' అనగా ద్రౌపది ఐదుగురు కుమారులు (ఉపపాండవులు): ప్రతివింధ్యుడు, సుతసోముడు, శ్రుతకీర్తి, శతానీకుడు, శ్రుతసేనుడు. — భగవద్గీత (1.18)"
+    }
+  },
+  {
+    "id": "bg-1-18-q3",
+    "verse": { "c": 1, "s": 18 },
+    "concept": ["Character Epithet & Identification - Saubhadra"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which hero is designated as 'Saubhadraḥ' and 'Mahābāhuḥ' in verse 1.18?",
+      "te": "1.18 శ్లోకంలో 'సౌభద్రః' మరియు 'మహాబాహుః' అని ఏ వీరుడిని సంబోధించారు?"
+    },
+    "choices": [
+      {
+        "en": "Abhimanyu (the mighty-armed son of Subhadra and Arjuna)",
+        "te": "అభిమన్యుడు (సుభద్రా దేవి మరియు అర్జునుల అపార బాహుబలం గల కుమారుడు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Ghatotkacha (the son of Hidimbi and Bhima)",
+        "te": "ఘటోత్కచుడు (హిడింబి మరియు భీముల కుమారుడు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Prativindhya (the eldest son of Draupadi)",
+        "te": "ప్రతివింధ్యుడు (ద్రౌపది పెద్ద కుమారుడు)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Satyaki (the Yadava warrior)",
+        "te": "సాత్యకి (యాదవ వీరుడు)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Saubhadraḥ' means 'son of Subhadra' (Abhimanyu). He is qualified with the epithet 'Mahābāhuḥ' (mighty-armed), extolling his great physical prowess and mastery in archery despite his youth. — Bhagavad Gita (1.18)",
+      "te": "'సౌభద్రః' అనగా సుభద్ర కుమారుడైన అభిమన్యుడు. చిన్న వయస్సులోనే అపారమైన విలువిద్య, బాహుబలం ('మహాబాహుః') కలిగిన వీరుడిగా ఇతడిని కీర్తించారు. — భగవద్గీత (1.18)"
+    }
+  },
+  {
+    "id": "bg-1-18-q4",
+    "verse": { "c": 1, "s": 18 },
+    "concept": ["Narrative Direct Address - Pṛthivīpate"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Whom does Sanjaya address as 'Pṛthivīpate' in verse 1.18?",
+      "te": "1.18 శ్లోకంలో సంజయుడు 'పృథివీపతే' అని ఎవరిని సంబోధించాడు?"
+    },
+    "choices": [
+      {
+        "en": "King Dhritarashtra (O Lord/Ruler of the Earth)",
+        "te": "ధృతరాష్ట్ర మహారాజును (ఓ భూపాలా / మహారాజా)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "King Yudhishthira",
+        "te": "యుధిష్ఠిర మహారాజును",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "King Drupada",
+        "te": "ద్రుపద మహారాజును",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Lord Krishna",
+        "te": "శ్రీకృష్ణుడిని",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Sanjaya addresses his blind sovereign Dhritarashtra as 'Pṛthivīpate' ('pṛthivī' = earth + 'pate' = lord), maintaining formal royal deference while narrating the intimidating preparations of the Pandava alliance. — Bhagavad Gita (1.18)",
+      "te": "సంజయుడు ధృతరాష్ట్రుడికి కురుక్షేత్ర విశేషాలను వివరిస్తూ 'పృథివీపతే' (ఓ భూమండల సార్వభౌమా) అని గౌరవపూర్వకంగా సంబోధించాడు. — భగవద్గీత (1.18)"
+    }
+  },
+  {
+    "id": "bg-1-18-q5",
+    "verse": { "c": 1, "s": 18 },
+    "concept": ["Sanskrit Vocabulary - Acoustic & Spatial Distribution"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What do the Sanskrit expressions 'sarvaśaḥ' and 'pṛthak pṛthak' mean in verse 1.18?",
+      "te": "1.18 శ్లోకంలో ఉన్న 'సర్వశః' మరియు 'పృథక్ పృథక్' అనే పదాలకు అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Sarvaśaḥ = From all directions / everywhere; Pṛthak pṛthak = Individually / distinctly / each separately.",
+        "te": "సర్వశః = అన్ని వైపులా నుండి; పృథక్ పృథక్ = వేర్వేరుగా / ప్రత్యేక ప్రత్యేకంగా.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sarvaśaḥ = Together in unison; Pṛthak pṛthak = Softly and quietly.",
+        "te": "సర్వశః = అందరూ కలిసి ఏకధాటిగా; పృథక్ పృథక్ = మెల్లగా, నిశ్శబ్దంగా.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sarvaśaḥ = Only in the center; Pṛthak pṛthak = Three times in succession.",
+        "te": "సర్వశః = కేవలం మధ్య భాగంలో మాత్రమే; పృథక్ పృథక్ = వరుసగా మూడు సార్లు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sarvaśaḥ = With great fear; Pṛthak pṛthak = Without making any sound.",
+        "te": "సర్వశః = మిక్కిలి భయంతో; పృథక్ పṛథక్ = ఎటువంటి శబ్దం లేకుండా.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sarvaśaḥ' means universally/from all sides across the field. 'Pṛthak pṛthak' means each warrior blew his own distinct conch shell separately, creating a multi-layered, terrifying symphony. — Bhagavad Gita (1.18)",
+      "te": "'సర్వశః' అనగా నలువైపులా నుండి అని అర్థం. 'పృథక్ పృథక్' అనగా ప్రతి వీరుడు తన ప్రత్యేక శంఖాన్ని వేర్వేరుగా పూరించాడని అర్థం. — భగవద్గీత (1.18)"
+    }
+  },
+  {
+    "id": "bg-1-18-q6",
+    "verse": { "c": 1, "s": 18 },
+    "concept": ["Sanskrit Grammar - Plural Past Tense Verb"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What is the grammatical form of the verb 'dadhmuḥ' in verse 1.18?",
+      "te": "1.18 శ్లోకంలో వాడబడిన 'దధ్ముః' అనే క్రియాపదం యొక్క వ్యాకరణ రూపం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person plural, perfect tense (Liṭ-lakāra) of the root 'dhmā' (meaning 'they blew / sounded')",
+        "te": "'ధ్మా' (పూరించుట) అనే ధాతువు యొక్క భూతకాల బహువచన రూపం ('వారు పూరించారు')",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person singular, present tense (Laṭ-lakāra) of root 'dhā'",
+        "te": "'ధా' ధాతువు యొక్క వర్తమానకాల ఏకవచనం",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "2nd person plural, imperative mood (Loṭ-lakāra) of root 'dhan'",
+        "te": "'ధన్' ధాతువు యొక్క ఆజ్ఞార్థక బహువచనం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1st person plural, future tense (Lṛṭ-lakāra) of root 'dhṛ'",
+        "te": "'ధృ' ధాతువు యొక్క భవిష్యత్కాల బహువచనం",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Dadhmuḥ' is the 3rd person plural Liṭ-lakāra (perfect past) of root 'dhmā' (to blow). In verse 1.15, singular 'dadhmau' was used for Bhima; in verse 1.14, dual 'pradadhmatuḥ' was used for Krishna and Arjuna; here, plural 'dadhmuḥ' is used for the entire group of heroes. — Bhagavad Gita (1.18)",
+      "te": "'దధ్ముః' అనేది 'ధ్మా' ధాతువు యొక్క బహువచన భూతకాల రూపం (వారు పూరించారు). 1.15 లో ఏకవచనం 'దధ్మౌ', 1.14 లో ద్వివచనం 'ప్రదధ్మతుః', ఇక్కడ అనేకమంది వీరులకు బహువచనం 'దధ్ముః' ప్రయోగించబడింది. — భగవద్గీత (1.18)"
+    }
+  }
+]

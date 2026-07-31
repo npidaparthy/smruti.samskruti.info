@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-20-q1",
+    "verse": { "c": 1, "s": 20 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.20?\n\n“atha vyavasthitān dṛṣṭvā dhārtarāṣṭrāṇāṃ kapidhvajaḥ | pravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ | hṛṣīkeśaṃ tadā vākyamidamāha mahīpate”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అథ వ్యవస్థితాన్ దృష్ట్వా ధార్తరాష్ట్రాన్ కపిధ్వజః | ప్రవృత్తే శస్త్రసమ్పాతే ధనురుద్యమ్య పాణ్డవః | హృషీకేశం తదా వాక్యమిదమాహ మహీపతే”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — O King (Dhritarashtra), at that time, seeing the sons of Dhritarashtra arrayed for battle and the discharge of weapons about to begin, Arjuna (Kapidhvaja) lifted his bow and spoke these words to Hrishikesha (Krishna).",
+        "te": "సంజయుడు పలికెను — ఓ ధృతరాష్ట్ర మహారాజా! (మహీపతే), ఆ సమయంలో ధార్తరాష్ట్రులు (కౌరవులు) యుద్ధానికి సిద్ధపడి నిలవడం చూసి, బాణాల ప్రయోగం ప్రారంభం కాబోతుండగా, కపిధ్వజుడైన అర్జునుడు తన ధనుస్సును పైకెత్తి హృషీకేశుడైన శ్రీకృష్ణునితో ఈ మాటలు పలికెను.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — Seeing the Kauravas charge forward, Krishna immediately blew his Panchajanya conch shell.",
+        "te": "సంజయుడు పలికెను — కౌరవులు ముందుకు రావడం చూసి శ్రీకృష్ణుడు వెంటనే తన పాంచజన్య శంఖాన్ని పూరించాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — Arjuna laid down his bow and arrows upon witnessing the vast army of Dhritarashtra.",
+        "te": "సంజయుడు పలికెను — ధృతరాష్ట్రుని విస్తారమైన సైన్యాన్ని చూసి అర్జునుడు తన ధనుర్బాణాలను కింద పడేసాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — Bhishma launched the first volley of arrows directly at Arjuna's chariot.",
+        "te": "సంజయుడు పలికెను — భీష్ముడు మొదటి బాణ ప్రయోగాన్ని అర్జునుని రథంపైకి చేశాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Atha vyavasthitān dṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ / pravṛtte śastrasampāte dhanur udyamya pāṇḍavaḥ / hṛṣīkeśaṃ tadā vākyam idam āha mahīpate.\" As missile fire was about to clash, Arjuna raised his bow Gandiva and addressed Krishna. — Bhagavad Gita (1.20)",
+      "te": "ఆయుధాల దాడి ప్రారంభం కాబోతున్న తరుణంలో, అర్జునుడు తన విల్లును ఎత్తి శ్రీకృష్ణునితో మాట్లాడటం ప్రారంభించాడని సంజయుడు ధృతరాష్ట్రునికి వివరిస్తున్నాడు. — భగవద్గీత (1.20)"
+    }
+  },
+  {
+    "id": "bg-1-20-q2",
+    "verse": { "c": 1, "s": 20 },
+    "concept": ["Symbolism & Epithets - Kapidhvaja"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What is the meaning and spiritual significance of the epithet 'Kapidhvajaḥ' used for Arjuna in verse 1.20?",
+      "te": "1.20 శ్లోకంలో అర్జునునికి వాడబడిన 'కపిధ్వజః' అనే పదానికి అర్థం మరియు ఆధ్యాత్మిక ప్రాముఖ్యత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "One whose chariot banner carries the emblem of Lord Hanuman (Kapidhvaja), imparting divine strength, protection, and victory.",
+        "te": "తన రథం జెండా (ధ్వజం) పై హనుమంతుని బొమ్మ కలిగినవాడు (కపి = హనుమంతుడు); ఇది దివ్య శక్తికి, రక్షణకు మరియు విజయానికి సంకేతం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "One who moves across the field with the agility of a monkey.",
+        "te": "యుద్ధరంగంలో కోతి లాంటి వేగం మరియు చురుకుదనంతో కదిలేవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "A title granted to Arjuna after conquering the southern forests during the Rajasuya campaign.",
+        "te": "రాజసూయ యాత్రలో దక్షిణ అడవులను జయించిన తర్వాత అర్జునునికి లభించిన బిరుదు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Referring to special arrows crafted with monkey-shaped golden tips.",
+        "te": "కోతి ముఖపు ఆకారంలో బంగారంతో తయారుచేసిన ప్రత్యేక బాణాలను సూచించే పదం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kapidhvajaḥ' combines 'kapi' (monkey/Hanuman) + 'dhvaja' (flag/banner). Lord Hanuman personally resided on Arjuna's chariot flag during the Kurukshetra war, imparting invincible spiritual vigor and striking terror into enemy hearts with his roars. — Bhagavad Gita (1.20)",
+      "te": "'కపిధ్వజః' అనగా తన ధ్వజంపై హనుమంతుడు ఆసీనుడై ఉన్న అర్జునుడు అని అర్థం. రామాయణంలో శ్రీరామునికి సేవ చేసిన హనుమంతుడు అర్జునుని రథంపై నెలకొని భయాన్ని పోగొట్టి విజయాన్ని ప్రసాదించాడు. — భగవద్గీత (1.20)"
+    }
+  },
+  {
+    "id": "bg-1-20-q3",
+    "verse": { "c": 1, "s": 20 },
+    "concept": ["Sanskrit Vocabulary - Action & Imminent Clashing"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What does the Sanskrit compound 'pravṛtte śastrasampāte' literally denote in verse 1.20?",
+      "te": "1.20 శ్లోకంలో ఉన్న 'ప్రవృత్తే శస్త్రసమ్పాతే' అనే సంస్కృత పదబంధం దేనిని సూచిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "The tense knife-edge moment when weapon fire and flight of arrows was just about to commence",
+        "te": "ఆయుధాల ప్రయోగం, బాణాల వర్షం లేదా పరస్పర దాడి ప్రారంభం కాబోతున్న అత్యంత ఉత్కంఠభరితమైన తరుణం",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The end of the day's combat when weapons were put away into armorers' tents",
+        "te": "ఆనాటి యుద్ధం ముగిసి ఆయుధాలను గుడారాల్లో పక్కన పడేసే సమయం",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The peaceful ceremony where weapons were consecrated with holy water",
+        "te": "ఆయుధాలకు పవిత్ర జలాలతో పూజ చేసే ప్రశాంత సమయం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The total destruction of weapons caused by a cosmic lightning bolt",
+        "te": "పిడుగుపాటు వల్ల ఆయుధాలన్నీ ధ్వంసమైన ఘట్టం",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Pravṛtte' (commenced / imminent) + 'śastra' (weapons) + 'sampāte' (discharge / flight). It pinpoints the dramatic climax when both armies stood on the brink of immediate bloodshed. — Bhagavad Gita (1.20)",
+      "te": "'ప్రవృత్తే శస్త్రసమ్పాతే' అనగా బాణ ప్రయోగం లేదా ఆయుధాల దాడి మొదలవుతున్న ఘట్టం అని అర్థం. — భగవద్గీత (1.20)"
+    }
+  },
+  {
+    "id": "bg-1-20-q4",
+    "verse": { "c": 1, "s": 20 },
+    "concept": ["Sanskrit Vocabulary - Gesture of Readiness"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which Sanskrit phrase in verse 1.20 describes Arjuna's physical action of taking up and raising his bow?",
+      "te": "1.20 శ్లోకంలో అర్జునుడు తన ధనుస్సును చేతిలోకి తీసుకుని పైకెత్తిన శారీరక క్రియను ఏ సంస్కృత పదం తెలుపుతుంది?"
+    },
+    "choices": [
+      {
+        "en": "Dhanur udyamya",
+        "te": "ధనురుద్యమ్య",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Śastrasampāte",
+        "te": "శస్త్రసమ్పాతే",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Atha vyavasthitān",
+        "te": "అథ వ్యవస్థితాన్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vākyam idam āha",
+        "te": "వాక్యమిదమాహ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Dhanur' (bow) + 'udyamya' (having raised / lifted). Arjuna raised his famous bow Gandiva ready to strike, just before pausing to request a closer look at the enemy. — Bhagavad Gita (1.20)",
+      "te": "'ధనుః' (విల్లు) + 'ఉద్యమ్య' (పైకెత్తి). అర్జునుడు పోరాడటానికి సిద్ధంగా తన గాండీవాన్ని చేతిలోకి తీసుకున్న ఘట్టాన్ని ఇది సూచిస్తుంది. — భగవద్గీత (1.20)"
+    }
+  },
+  {
+    "id": "bg-1-20-q5",
+    "verse": { "c": 1, "s": 20 },
+    "concept": ["Direct Address - Mahīpate"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which term does Sanjaya use at the end of verse 1.20 to directly address King Dhritarashtra?",
+      "te": "1.20 శ్లోకం ముగింపులో ధృతరాష్ట్ర మహారాజును సంబోధించడానికి సంజయుడు ఏ పదాన్ని వాడాడు?"
+    },
+    "choices": [
+      {
+        "en": "Mahīpate (O Lord/Ruler of the Earth)",
+        "te": "మహీపతే (ఓ భూపాలా / మహారాజా)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Pṛthivīpate (O Ruler of the World)",
+        "te": "పృథివీపతే",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kurukula-śreṣṭha (O Best of Kurus)",
+        "te": "కురుకుల శ్రేష్ఠ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Rājan (O King)",
+        "te": "రాజన్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Sanjaya addresses Dhritarashtra as 'Mahīpate' ('mahī' = earth + 'pate' = lord/ruler), formally addressing the blind sovereign as he prepares to recount Arjuna's dialogue with Krishna. — Bhagavad Gita (1.20)",
+      "te": "సంజయుడు ధృతరాష్ట్రుడిని 'మహీపతే' (భూమికి అధిపతియైన ఓ మహారాజా) అని సంబోధించాడు. — భగవద్గీత (1.20)"
+    }
+  },
+  {
+    "id": "bg-1-20-q6",
+    "verse": { "c": 1, "s": 20 },
+    "concept": ["Name Analysis - Hṛṣīkeśa"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Whom does Arjuna address in verse 1.20, and what is the profound meaning of the epithet 'Hṛṣīkeśam' used here?",
+      "te": "1.20 శ్లోకంలో అర్జునుడు ఎవరితో మాట్లాడాడు? ఇక్కడ ఉపయోగించిన 'హృషీకేశమ్' అనే పదానికి ఉన్న విశిష్టార్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Lord Krishna — Hṛṣīkeśa means the Master/Controller of all senses (Hṛṣīka + Īśa), who directs the minds of all living beings.",
+        "te": "శ్రీకృష్ణుడు — హృషీకేశ అనగా సర్వేంద్రియాలకు ప్రభువు/నియామకుడు (హృషీక + ఈశ); సమస్త జీవుల ఇంద్రియాలను, మనస్సును నడిపించే భగవంతుడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "King Yudhishthira — Hṛṣīkeśa means the master of righteous deeds.",
+        "te": "యుధిష్ఠిరుడు — హృషీకేశ అనగా ధర్మకార్యాలకు అధిపతి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Dronacharya — Hṛṣīkeśa means the supreme teacher of archery.",
+        "te": "ద్రోణాచార్యుడు — హృషీకేశ అనగా విలువిద్యకు గురువు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Bhishma — Hṛṣīkeśa means the senior-most protector of the Kuru line.",
+        "te": "భీష్ముడు — హృషీకేశ అనగా కురు వంశ జ్యేష్ఠ రక్షకుడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna speaks to Lord Krishna, referred to as 'Hṛṣīkeśam' ('hṛṣīka' = senses + 'īśa' = lord). It signifies that Lord Krishna is the supreme internal driver who controls not only Arjuna's chariot but the senses and minds of all beings. — Bhagavad Gita (1.20)",
+      "te": "అర్జునుడు శ్రీకృష్ణుడిని ఉద్దేశించి మాట్లాడాడు. 'హృషీకేశ' అనగా ఇంద్రియాలకు ప్రభువు అని అర్థం. కేవలం అర్జునుని రథాన్నే కాక సమస్త జీవుల ఇంద్రియాలను నడిపించే పరమాత్మ శ్రీకృష్ణుడే అని ఇది నిరూపిస్తుంది. — భగవద్గీత (1.20)"
+    }
+  }
+]

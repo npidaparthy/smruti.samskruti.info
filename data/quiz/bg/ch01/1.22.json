@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-22-q1",
+    "verse": { "c": 1, "s": 22 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.22?\n\n“yāvadetānnirīkṣe'haṃ yoddhukāmānavasthitān | kairmayā saha yoddhavyamasmin raṇasamudyame”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యావదేతాన్నిరీక్షేఽహం యోద్ధుకామానవస్థితాన్ | కైర్మయా సహ యోద్ధవ్యమస్మిన్ రణసముద్యమే”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — So that I may observe these warriors standing here eager to fight, and know with whom I must contend in this great war effort.",
+        "te": "అర్జునుడు పలికెను — ఈ యుద్ధంలో పాల్గొనాలనే కోరికతో ఇక్కడ నిలబడిన వీరిని నేను బాగా చూసేవరకు, మరియు ఈ యుద్ధోద్యమంలో నేను ఎవరితో పోరాడవలసి ఉందో తెలుసుకునేవరకు (రథాన్ని మధ్యలో నిలుపుము).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — So that I may challenge Duryodhana to single combat before the full war begins.",
+        "te": "అర్జునుడు పలికెను — పూర్తి యుద్ధం ప్రారంభం కాకముందే దుర్యోధనుడిని ద్వంద్వ యుద్ధానికి పిలవడానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — So that I may offer my final respects to Bhishma and Drona before taking up my bow.",
+        "te": "అర్జునుడు పలికెను — విల్లు ఎక్కుపెట్టడానికి ముందు భీష్మ ద్రోణులకు నమస్కరించడానికి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — So that Krishna can count how many enemy divisions remain on the field.",
+        "te": "అర్జునుడు పలికెను — ఇంకా ఎన్ని శత్రు విభాగాలు ఉన్నాయో కృష్ణుడు లెక్కించడానికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Yāvad etān nirīkṣe 'haṃ yoddhukāmān avasthitān / kair mayā saha yoddhavyam asmin raṇa-samudyame.\" Arjuna clarifies his request to Krishna, stating that he needs to examine the belligerent warriors assembled opposite him before opening fire. — Bhagavad Gita (1.22)",
+      "te": "రెండు సైన్యాల మధ్య రథాన్ని ఎందుకు నిలపాలో అర్జునుడు వివరిస్తున్నాడు: యుద్ధ రంగంలో సమకూడిన వీరులను, జరగబోయే ఈ మహాయుద్ధంలో తాను ఎవరితో పోరాడాలో స్వయంగా పరిశీలించడానికే అని చెబుతున్నాడు. — భగవద్గీత (1.22)"
+    }
+  },
+  {
+    "id": "bg-1-22-q2",
+    "verse": { "c": 1, "s": 22 },
+    "concept": ["Sanskrit Vocabulary - Intention to Fight"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit compound 'yoddhukāmān' mean in verse 1.22?",
+      "te": "1.22 శ్లోకంలోని 'యోద్ధుకామాన్' అనే పదానికి అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Those who stand with an explicit desire and intent to fight",
+        "te": "యుద్ధం చేయాలనే కోరిక లేదా తపనతో నిలబడినవారు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Those who are forced against their will to enter combat",
+        "te": "ఇష్టం లేకపోయినా బలవంతంగా యుద్ధానికి తీసుకురాబడినవారు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Those who have laid down their weapons in search of peace",
+        "te": "శాంతితో తమ ఆయుధాలను విడిచిపెట్టినవారు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Those who are young and inexperienced in military tactics",
+        "te": "యుద్ధంలో ఎటువంటి అనుభవం లేని యువకులు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yoddhu' (to fight - infinitive of root 'yudh') + 'kāmān' (desiring / having intent). 'Yoddhukāmān' describes the assembled warriors whose minds are fixed on engaging in combat. — Bhagavad Gita (1.22)",
+      "te": "'యోద్ధు' (యుద్ధం చేయుట) + 'కామాన్' (కోరుకునేవారు). యుద్ధం చేయాలనే నిశ్చయాత్మకమైన కోరికతో రణరంగంలో నిలిచిన వీరులను ఇది సూచిస్తుంది. — భగవద్గీత (1.22)"
+    }
+  },
+  {
+    "id": "bg-1-22-q3",
+    "verse": { "c": 1, "s": 22 },
+    "concept": ["Sanskrit Vocabulary - Strategic Observation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which Sanskrit verb phrase in verse 1.22 indicates Arjuna's desire to 'carefully inspect/observe' the opposing army?",
+      "te": "1.22 శ్లోకంలో శత్రు సైన్యాన్ని 'బాగా చూడటం / పరిశీలించడం' అనే అర్జునుని ఉద్దేశాన్ని తెలిపే పదబంధం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Nirīkṣe'ham (Nirīkṣe + aham)",
+        "te": "నిరీక్షేఽహమ్ (నిరీక్షే + అహమ్)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Yoddhukāmān",
+        "te": "యోద్ధుకామాన్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Raṇasamudyame",
+        "te": "రణసముద్యమే",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Saha yoddhavyam",
+        "te": "సహ యోద్ధవ్యమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Nirīkṣe' comes from 'ni' (thoroughly) + 'īkṣ' (to look/behold) in present tense Ātmanepada, meaning 'I observe closely'. Combined with 'aham' (I), it translates to 'until I closely inspect'. — Bhagavad Gita (1.22)",
+      "te": "'నిరీక్షే' అనే పదం 'ని' (బాగా/క్షుణ్ణంగా) + 'ఈక్ష్' (చూచుట) అనే ధాతువుతో ఏర్పడింది. 'నిరీక్షేఽహమ్' అనగా 'నేను క్షుణ్ణంగా పరిశీలించే వరకు' అని అర్థం. — భగవద్గీత (1.22)"
+    }
+  },
+  {
+    "id": "bg-1-22-q4",
+    "verse": { "c": 1, "s": 22 },
+    "concept": ["Sanskrit Vocabulary - Major War Effort"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which Sanskrit compound in verse 1.22 refers to the 'immense war enterprise/effort'?",
+      "te": "1.22 శ్లోకంలో 'గొప్ప యుద్ధ ప్రయత్నాన్ని/సమర సన్నాహాన్ని' సూచించే సంస్కృత పదం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Raṇasamudyame",
+        "te": "రణసముద్యమే",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Yoddhukāmān",
+        "te": "యోద్ధుకామాన్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avasthitān",
+        "te": "అవస్థితాన్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yāvadetān",
+        "te": "యావదేతాన్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Raṇa' (battle) + 'samudyama' (major undertaking / effort / endeavor). In the Locative singular, 'raṇasamudyame' translates to 'in this massive war enterprise'. — Bhagavad Gita (1.22)",
+      "te": "'రణ' (యుద్ధము) + 'సముద్యమే' (మహా ప్రయత్నమునందు). కురుక్షేత్రంలో జరగబోయే ఈ విశాలమైన సమరోద్యమాన్ని ఇది సూచిస్తుంది. — భగవద్గీత (1.22)"
+    }
+  },
+  {
+    "id": "bg-1-22-q5",
+    "verse": { "c": 1, "s": 22 },
+    "concept": ["Sanskrit Grammar - Obligation/Necessity Verb"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What is the grammatical construction and meaning of 'yoddhavyam' in verse 1.22?",
+      "te": "1.22 శ్లోకంలోని 'యోద్ధవ్యమ్' అనే పదానికి ఉన్న వ్యాకరణ స్వరూపం మరియు అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Future Passive Participle (Kṛtya / Tavya-pratyaya) from root 'yudh', meaning 'must be fought / should be contended with'",
+        "te": "'యుధ్' (పోరాడుట) అనే ధాతువు యొక్క తవ్యత్ ప్రత్యయాంత రూపం — 'పోరాడవలసి ఉన్నది / ఎదుర్కోవలసి ఉన్నది'",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Present participle in active voice meaning 'currently fighting'",
+        "te": "వర్తమానకాలంలో 'ఇప్పుడు పోరాడుతున్న' అనే అర్థం ఇచ్చే రూపం",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Past tense verb meaning 'has fought previously'",
+        "te": "భూతకాలంలో 'గతంలో పోరాడెను' అనే అర్థం ఇచ్చే రూపం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command meaning 'fight now!'",
+        "te": "ఆజ్ఞార్థకంలో 'ఇప్పుడే పోరాడు!' అనే అర్థం ఇచ్చే రూపం",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yoddhavyam' is formed from the root 'yudh' + 'tavya' suffix (denoting necessity, duty, or obligation). 'Kair mayā saha yoddhavyam' means 'with whom is it necessary for me to fight'. — Bhagavad Gita (1.22)",
+      "te": "'యోద్ధవ్యమ్' అనేది 'యుధ్' ధాతువుకు 'తవ్య' అనే ప్రత్యయం చేరడం వల్ల ఏర్పడిన కర్తవ్యవాచక రూపం. 'కైర్మయా సహ యోద్ధవ్యమ్' అనగా 'నేను ఎవరితో పోరాడవలసి ఉందో' అని అర్థం. — భగవద్గీత (1.22)"
+    }
+  },
+  {
+    "id": "bg-1-22-q6",
+    "verse": { "c": 1, "s": 22 },
+    "concept": ["Psychological State Before Breakdown"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What mental state is Arjuna demonstrating in verse 1.22 just before his emotional breakdown occurs in later verses?",
+      "te": "తరువాతి శ్లోకాలలో జరగబోయే మానసిక కుంగుబాటుకు ముందు, 1.22 శ్లోకంలో అర్జునుడు ఏ రకమైన మనఃస్థితిని ప్రదర్శిస్తున్నాడు?"
+    },
+    "choices": [
+      {
+        "en": "Confident, heroically composed, and strategically eager to evaluate his opponents as a champion warrior",
+        "te": "ఆత్మవిశ్వాసం, వీరత్వంతో కూడిన ధీరత మరియు ప్రత్యర్థుల బలాబలాలను అంచనా వేయాలనే సైనిక ఉత్సాహం",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Already weeping with intense sorrow and unable to hold his bow",
+        "te": "అప్పటికే తీవ్రమైన దుఃఖంతో విలపిస్తూ విల్లును పట్టుకోలేని బలహీనత",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Determined to lay down his arms and abandon the kingdom to Duryodhana",
+        "te": "అప్పటికే ఆయుధాలను త్యజించి రాజ్యాన్ని దుర్యోధనునికి వదిలేయాలనే నిశ్చయం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Confused about his identity and asking Krishna for philosophical guidance",
+        "te": "తన స్వస్వరూపంపై అనుమానం కలిగి శ్రీకృష్ణుడిని వేదాంత ఉపదేశం అడుగుతున్న స్థితి",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In verse 1.22, Arjuna shows no hesitation or grief yet. He speaks as a confident Kshatriya champion eager to evaluate his opponents ('yoddhukāmān'). The sharp emotional collapse happens only after Krishna places the chariot directly before Bhishma and Drona in verses 1.24-1.28. — Bhagavad Gita (1.22)",
+      "te": "1.22 శ్లోకంలో అర్జునునిలో ఎలాంటి వైరాగ్యం గానీ, సంకోచం గానీ కనిపంచవు. శత్రువులను చూడాలనే పరాక్రమవంతుడైన క్షత్రియుని ఆత్మవిశ్వాసమే కనిపిస్తుంది. భీష్మ ద్రోణుల ముందే రథం నిలబడిన తర్వాతే (1.24-1.28) అతడిలో గుండెను పిండేసే దుఃఖం ప్రారంభమవుతుంది. — భగవద్గీత (1.22)"
+    }
+  }
+]

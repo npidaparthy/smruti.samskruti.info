@@ -1,0 +1,212 @@
+[
+  {
+    "id": "bg-1-3-q1",
+    "verse": { "c": 1, "s": 3 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.3?\n\n“paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm | vyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“పశ్యైతాం పాండుపుత్రాణామాచార్య మహతీం చమూమ్ | వ్యూఢాం ద్రుపదపుత్రేణ తవ శిష్యేణ ధీమతా”"
+    },
+    "choices": [
+      {
+        "en": "Duryodhana said — O Teacher, behold this vast army of the sons of Pandu, strategically arrayed by your talented disciple, the son of Drupada.",
+        "te": "దుర్యోధనుడు పలికెను — ఓ ఆచార్యా! నీ తెలివైన శిష్యుడు, ద్రుపదుని కుమారుడైన ధృష్టద్యుమ్నునిచే వ్యూహరచన చేయబడిన ఈ గొప్ప పాండవ సైన్యాన్ని చూడండి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Duryodhana said — O Teacher, prepare our army to attack the Pandava forces commanded by King Yudhishthira.",
+        "te": "దుర్యోధనుడు పలికెను — ఓ ఆచార్యా! యుధిష్ఠిరుని నాయకత్వంలో ఉన్న పాండవ సైన్యంపై దాడి చేయడానికి మన సైన్యాన్ని సిద్ధం చేయండి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Dronacharya said — Behold this magnificent division of warriors assembled under the guidance of Grandsire Bhishma.",
+        "te": "ద్రోణాచార్యుడు పలికెను — పితామహుడైన భీష్ముని పర్యవేక్షణలో సమకూడిన ఈ గొప్ప వీరుల వ్యూహాన్ని చూడండి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — O Krishna, behold the sons of Pandu standing ready with their weapons raised.",
+        "te": "అర్జునుడు పలికెను — ఓ కృష్ణా! ఆయుధాలు చేపట్టి సిద్ధంగా ఉన్న పాండుపుత్రులను చూడండి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Paśyaitāṃ pāṇḍuputrāṇām ācārya mahatīṃ camūm / vyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā.\" Duryodhana directs Dronacharya's attention to the Pandava army, highlighting that it was strategically arrayed by Dhrishtadyumna (the son of Drupada), who was Drona's own student. — Bhagavad Gita (1.3)",
+      "te": "\"పశ్యైతాం పాండుపుత్రాణామాచార్య మహతీం చమూమ్ / వ్యూఢాం ద్రుపదపుత్రేణ తవ శిష్యేణ ధీమతా.\" ద్రోణాచార్యుని శిష్యుడైన ధృష్టద్యుమ్నుడు (ద్రుపదుని కుమారుడు) సిద్ధం చేసిన పాండవ సైన్యాన్ని చూడమని దుర్యోధనుడు ద్రోణుడి దృష్టిని మరల్చుతున్నాడు. — భగవద్గీత (1.3)"
+    }
+  },
+  {
+    "id": "bg-1-3-q2",
+    "verse": { "c": 1, "s": 3 },
+    "concept": ["Character Identification & Relationships"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Who is the 'son of Drupada' ('drupadaputreṇa') referred to by Duryodhana in verse 1.3 as having arrayed the Pandava army?",
+      "te": "1.3 శ్లోకంలో పాండవ సైన్యాన్ని వ్యూహపరిచిన 'ద్రుపదుని కుమారుడు' ('ద్రుపదపుత్రేణ') అని దుర్యోధనుడు ఎవరిని ప్రస్తావించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Dhrishtadyumna",
+        "te": "ధృష్టద్యుమ్నుడు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Shikhandi",
+        "te": "శిఖండి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Satyaki",
+        "te": "సాత్యకి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Abhimanyu",
+        "te": "అభిమన్యుడు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The 'son of Drupada' is Dhrishtadyumna, the commander-in-chief of the Pandava army who was born from a sacrificial fire specifically to slay Dronacharya, yet was trained in archery by Drona himself. — Bhagavad Gita (1.3)",
+      "te": "ద్రుపద మహారాజు కుమారుడైన 'ధృష్టద్యుమ్నుడు' పాండవ సైన్యానికి రక్షకుడిగా ఉన్నాడు. ద్రోణాచార్యుని వధించడానికే జన్మించినప్పటికీ, అతడు ద్రోణుని వద్దనే విలువిద్యను అభ్యసించాడు. — భగవద్గీత (1.3)"
+    }
+  },
+  {
+    "id": "bg-1-3-q3",
+    "verse": { "c": 1, "s": 3 },
+    "concept": ["Psychological & Political Manipulation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "What strategic motive did Duryodhana have when emphasizing to Dronacharya that the enemy array was built by 'your talented disciple' ('tava śiṣyeṇa dhīmatā')?",
+      "te": "పాండవుల వ్యూహాన్ని నిర్మించినది 'నీ తెలివైన శిష్యుడు' ('తవ శిష్యేణ ధీమతా') అని ద్రోణాచార్యునికి నొక్కి చెప్పడంలో దుర్యోధనుడి వ్యూహాత్మక ఉద్దేశం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "To provoke Drona's ego and alertness by subtly reminding him of his past mistake in teaching Dhrishtadyumna, ensuring Drona would not show leniency.",
+        "te": "ధృష్టద్యుమ్నునికి విద్య నేర్పిన ద్రోణుని పాత పొరపాటును వ్యంగ్యంగా గుర్తుచేసి, అతనిలో కోపాన్ని హెచ్చరించి, పాండవుల పట్ల ఎలాంటి జాలి చూపకుండా చూడటానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "To flatter Dronacharya's teaching abilities so that Drona would award Dhrishtadyumna a title of honor.",
+        "te": "ద్రోణాచార్యుని బోధనా సామర్థ్యాన్ని పొగిడి, ధృష్టద్యుమ్నునికి గౌరవ బిరుదు ఇవ్వమని కోరడానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "To persuade Dronacharya to step down from the war and offer peace terms to Drupada.",
+        "te": "ద్రోణాచార్యుడిని యుద్ధం నుండి వైదొలగి ద్రుపదునితో శాంతి చర్చలు జరపమని ఒప్పించడానికి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "To point out that Dhrishtadyumna had betrayed Drona by defecting from the Kaurava side.",
+        "te": "ధృష్టద్యుమ్నుడు కౌరవ పక్షం నుండి వైదొలగి ద్రోణుడికి ద్రోహం చేశాడని తెలియజేయడానికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Duryodhana used subtle political sarcasm: Dhrishtadyumna was destined to kill Drona, yet Drona generously taught him military science. By pointing out 'your talented disciple', Duryodhana aimed to sting Drona's pride and make him fight aggressively without showing favor to his students. — Bhagavad Gita (1.3)",
+      "te": "తన్ను చంపడానికి పుట్టిన ధృష్టద్యుమ్నునికి ఉదారంగా విలువిద్య నేర్పిన ద్రోణుని పాత పొరపాటును దుర్యోధనుడు వ్యంగ్యంగా ఎత్తిచూపాడు. దీని ద్వారా ద్రోణుడి అహంకారాన్ని రగిలించి, పాండవ పక్షం పట్ల జాలి చూపకుండా పోరాడేలా చేయడమే అతని ఉద్దేశం. — భగవద్గీత (1.3)"
+    }
+  },
+  {
+    "id": "bg-1-3-q4",
+    "verse": { "c": 1, "s": 3 },
+    "concept": ["Sanskrit Vocabulary - Military Terms"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "In verse 1.3, which Sanskrit word refers to the 'vast army' or military force of the Pandavas?",
+      "te": "1.3 శ్లోకంలో పాండవుల 'గొప్ప సైన్యం' లేదా సైనిక బలగాన్ని సూచించే సంస్కృత పదం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Camūm",
+        "te": "చమూమ్",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dhīmatā",
+        "te": "ధీమతా",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Pāṇḍuputrāṇām",
+        "te": "పాండుపుత్రాణామ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Śiṣyeṇa",
+        "te": "శిష్యేణ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Camū' refers to a military division or army. In verse 1.3, 'mahatīṃ camūm' means the 'great/vast army'. — Bhagavad Gita (1.3)",
+      "te": "'చమూ' అనగా సైనిక విభాగం లేదా సైన్యం. 1.3 శ్లోకంలో 'మహతీం చమూమ్' అనగా 'గొప్ప/విశాలమైన సైన్యం' అని అర్థం. — భగవద్గీత (1.3)"
+    }
+  },
+  {
+    "id": "bg-1-3-q5",
+    "verse": { "c": 1, "s": 3 },
+    "concept": ["Sanskrit Vocabulary - Quality & Qualifiers"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Which adjective is used by Duryodhana in verse 1.3 to describe Dhrishtadyumna's intelligence and military skill?",
+      "te": "1.3 శ్లోకంలో ధృష్టద్యుమ్నుని యొక్క బుద్ధికుశలత మరియు యుద్ధ నైపుణ్యాన్ని వర్ణించడానికి దుర్యోధనుడు ఏ విశేషణాన్ని ఉపయోగించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Dhīmatā (intelligent / talented / wise)",
+        "te": "ధీమతా (తెలివైన / బుద్ధిమంతుడైన)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mahārathaḥ (great chariot warrior)",
+        "te": "మహారథః (గొప్ప రథిక వీరుడు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Vīryavān (mighty / heroic)",
+        "te": "వీర్యవాన్ (పరాక్రమవంతుడైన)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yuyutsuḥ (eager to fight)",
+        "te": "యుయుత్సుః (యుద్ధ కాంక్ష గల)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Duryodhana describes Dhrishtadyumna as 'dhīmatā' (instrumental form of 'dhīmat', meaning possessor of sharp intellect or wisdom), acknowledging his tactical brilliance in setting up the Pandava formation. — Bhagavad Gita (1.3)",
+      "te": "దుర్యోధనుడు ధృష్టద్యుమ్నుడిని 'ధీమతా' (తీక్ష్ణమైన బుద్ధి మరియు నైపుణ్యం కలిగినవాడు) అని ప్రశంసాపూర్వక వ్యంగ్యంతో వర్ణించాడు. — భగవద్గీత (1.3)"
+    }
+  }
+]

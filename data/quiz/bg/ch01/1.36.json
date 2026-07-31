@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-36-q1",
+    "verse": { "c": 1, "s": 36 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.36?\n\n“nihatya dhārtarāṣṭrāṇ naḥ kā prītiḥ syātjanārdana | pāpamevāśrayedasmān hatvaitānātatāyinaḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“నిహత్య ధార్తరాష్ట్రాన్ నః కా ప్రీతిః స్యాత్జనార్దన | పాపమేవాశ్రయేదస్మాన్ హత్వైతానాతతాయి నః”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — What pleasure can be ours, O Janardana, by killing these sons of Dhritarashtra? Sin alone will attach to us if we slay these aggressors.",
+        "te": "అర్జునుడు పలికెను — ఓ జనార్దనా! ధృతరాష్ట్రుని కుమారులను సంహరించడం వల్ల మనకు ఏ సంతోషం కలుగుతుంది? ఆతతాయిలైన వీరిని చంపడం ద్వారా మనకు పాపమే చుట్టుకుంటుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — By killing the sons of Dhritarashtra, we will earn great spiritual merit and secure eternal fame.",
+        "te": "అర్జునుడు పలికెను — ధృతరాష్ట్రుని కుమారులను చంపడం ద్వారా మనకు అపారమైన పుణ్యం లభిస్తుంది, శాశ్వతమైన కీర్తి దక్కుతుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — O Janardana, let us forgive these aggressors so that they might hand over our share of the kingdom voluntarily.",
+        "te": "అర్జునుడు పలికెను — ఓ జనార్దనా! ఈ ఆతతాయిలను మనం క్షమిస్తే, వారు స్వచ్ఛందంగా మన రాజ్యభాగాన్ని మనకు ఇచ్చేస్తారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — If we refrain from fighting, Dhritarashtra will celebrate our mercy and stop all hostility.",
+        "te": "అర్జునుడు పలికెను — మనం యుద్ధం మానేవస్తే, ధృతరాష్ట్రుడు మన దయాగుణాన్ని మెచ్చుకుని శత్రుత్వాన్ని విడిచిపెడతాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Nihatya dhārtarāṣṭrāṇ naḥ kā prītiḥ syāj janārdana / pāpam evāśrayed asmān hatvaitān ātatāyinaḥ.\" Arjuna questions the happiness derived from killing kinsmen and contends that despite their being felons ('ātatāyinaḥ'), slaying them will incur sin ('pāpam'). — Bhagavad Gita (1.36)",
+      "te": "ధార్తరాష్ట్రులను చంపడం వల్ల ఏ ఆనందమూ దక్కదని, ఆతతాయిలైనప్పటికీ వీరిని సంహరిస్తే పాపమే ప్రాప్తిస్తుందని అర్జునుడు శ్రీకృష్ణుడితో వివరిస్తున్నాడు. — భగవద్గీత (1.36)"
+    }
+  },
+  {
+    "id": "bg-1-36-q2",
+    "verse": { "c": 1, "s": 36 },
+    "concept": ["Name Analysis - Janardana"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Why does Arjuna specifically address Lord Krishna as 'Janārdana' in verse 1.36?",
+      "te": "1.36 శ్లోకంలో అర్జునుడు శ్రీకృష్ణుడిని 'జనార్దనా' అని ఎందుకు సంబోధించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Janārdana = One who protects/maintains the people (Jana) and strikes down the wicked; Arjuna appeals to Him as the savior of humanity to judge if this slaughter is justified.",
+        "te": "జనార్దన = ప్రజలను (జనులను) సంరక్షించేవాడు, దుష్టులను శిక్షించేవాడు; సమస్త జనుల శ్రేయస్సును కోరే శ్రీకృష్ణుడు ఈ మారణహోమం ధర్మబద్ధమో కాదో తీర్పు చెప్పాలని వేడుకుంటున్నాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Janārdana = One who was born in the city of Janakpuri.",
+        "te": "జనార్దన = జనకపురి నగరంలో జన్మించినవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Janārdana = The chief driver of Yadava war chariots.",
+        "te": "జనార్దన = యాదవ యుద్ధ రథాలకు ప్రధాన సారథి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Janārdana = Wielder of the mace weapon named Kaumodaki.",
+        "te": "జనార్దన = కౌమోదకి అనే గదను ధరించినవాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Jana' (people) + 'ardana' (protector / agitator / punisher of the unrighteous). Krishna is the protector of mankind. Arjuna asks Janardana how the destruction of an entire family line can bring welfare to the people He protects. — Bhagavad Gita (1.36)",
+      "te": "'జన' (ప్రజలను) + 'ఆర్దన' (రక్షించువాడు/దుష్టులను పీడించువాడు). జనులందరినీ కాపాడే కృష్ణుడు, బంధువులను చంపే ఈ దారుణ చర్య ద్వారా ప్రజలకు ఎలా శ్రేయస్సు కలుగుతుందో చెప్పాలని అర్జునుడి ప్రశ్న. — భగవద్గీత (1.36)"
+    }
+  },
+  {
+    "id": "bg-1-36-q3",
+    "verse": { "c": 1, "s": 36 },
+    "concept": ["Legal & Ethical Concept - Ātatāyinaḥ"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the term 'Ātatāyinaḥ' mean in Artha-shastra / Smriti scriptures, and why does Arjuna mention it in verse 1.36?",
+      "te": "స్మృతులలో, అర్థశాస్త్రంలో 'ఆతతాయిలు' (ఆతతాయినః) అంటే ఎవరు? 1.36 శ్లోకంలో అర్జునుడు వీరి గురించి ఎందుకు ప్రస్తావించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Aggressors/Felons guilty of 6 heinous crimes (poisoners, arsonists, armed assailants, land usurpers, wealth robbers, wife kidnappers); though scripture permits killing them, Arjuna fears higher spiritual sin due to family ties.",
+        "te": "6 రకాల దారుణ నేరాలకు పాల్పడిన ఆతతాయిలు (విషం పెట్టేవారు, ఇల్లు తగలేసేవారు, ఆయుధాలతో దాడి చేసేవారు, భూమిని ఆక్రమించేవారు, ధనాన్ని దోచుకునేవారు, స్త్రీలను పహరించే వారు); వీరని చంపవచ్చని శాస్త్రం చెప్పినా, బంధువులైనందున చంపితే పాపం వస్తుందని అర్జునుడు భయపడుతున్నాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Innocent citizens who have been forced to fight against their will.",
+        "te": "ఇష్టం లేకపోయినా బలవంతంగా యుద్ధానికి తీసుకురాబడిన అమాయక ప్రజలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Mercenaries who change sides for money.",
+        "te": "ధనం కోసం పక్షాలు మారే సైనికులు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Elders who offer spiritual blessings before battle.",
+        "te": "యుద్ధానికి ముందు ఆధ్యాత్మిక ఆశీస్సులు ఇచ్చే పెద్దలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Classical Smritis define 6 types of 'Ātatāyī' (felons): 1. Poisoner, 2. Arsonist, 3. Killer with weapon, 4. Land thief, 5. Wealth thief, 6. Wife abductor. The Kauravas committed all six against the Pandavas. Arjuna acknowledges they are 'ātatāyinaḥ', yet argues that Dharma-shastra's higher rule against killing relatives overrides Artha-shastra's rule allowing execution of felons. — Bhagavad Gita (1.36)",
+      "te": "ధర్మశాస్త్రం ప్రకారం 6 రకాల తీవ్ర నేరాలు చేసినవారిని 'ఆతతాయిలు' అంటారు (విషం ఇవ్వడం, ఇల్లు తగలబెట్టడం, ఆయుధ దాడి, భూమిని/ధనాన్ని/స్త్రీని దోచుకోవడం). కౌరవులు ఈ ఆరూ చేశారు. వారు ఆతతాయిలైనప్పటికీ బంధువధ వల్ల కలిగే పాపం పెద్దదని అర్జునుని వాదన. — భగవద్గీత (1.36)"
+    }
+  },
+  {
+    "id": "bg-1-36-q4",
+    "verse": { "c": 1, "s": 36 },
+    "concept": ["Sanskrit Vocabulary - Joy & Sin"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit words 'prītiḥ' and 'pāpam' mean in verse 1.36?",
+      "te": "1.36 శ్లోకంలోని 'ప్రీతిః' మరియు 'పాపమ్' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Prītiḥ = Pleasure / Joy / Satisfaction; Pāpam = Sin / Demerit / Spiritual reaction.",
+        "te": "ప్రీతిః = ప్రీతి / సంతోషము / ఆనందము; పాపమ్ = పాపము / దురితము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Prītiḥ = Fear; Pāpam = Virtue.",
+        "te": "ప్రీతిః = భయము; పాపమ్ = పుణ్యము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Prītiḥ = Anger; Pāpam = Victory.",
+        "te": "ప్రీతిః = క్రోధము; పాపమ్ = విజయము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Prītiḥ = Wealth; Pāpam = Fame.",
+        "te": "ప్రీతిః = సంపద; పాపమ్ = కీర్తి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Prītiḥ' means delight or happiness ('kā prītiḥ syāt' = what pleasure can there be?). 'Pāpam' means moral guilt/sin ('pāpam eva āśrayet' = sin alone will attach/reside). — Bhagavad Gita (1.36)",
+      "te": "'ప్రీతిః' అనగా ఆనందం/సంతోషం ('కా ప్రీతిః స్యాత్' = ఏ ఆనందం లభిస్తుంది?). 'పాపమ్' అనగా నైతిక ద్రోహం/పాపం ('పాపమేవాశ్రయేత్' = పాపమే మనల్ని ఆశ్రయిస్తుంది). — భగవద్గీత (1.36)"
+    }
+  },
+  {
+    "id": "bg-1-36-q5",
+    "verse": { "c": 1, "s": 36 },
+    "concept": ["Sanskrit Grammar - Potential Mood 'Syāt' & 'Āśrayet'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the mood and meaning of the verbs 'syāt' and 'āśrayet' in verse 1.36:",
+      "te": "1.36 శ్లోకంలోని 'స్యాత్' మరియు 'ఆశ్రయేత్' అనే క్రియాపదాల వ్యాకరణ రూపం మరియు అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Both are Potential/Optative Mood (Vidhi-liṅ) 3rd person singular verbs ('syāt' = would/could be; 'āśrayet' = would attach / settle upon).",
+        "te": "రెండూ విధి-లిఙ్ (సంభావనార్థకం) ప్రథమ పురుష ఏకవచన క్రియాపదాలు ('స్యాత్' = కలుగుతుంది/ఉంటుంది; 'ఆశ్రయేత్' = ఆవహిస్తుంది/చుట్టుకుంటుంది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Both are past tense (Laṅ-lakāra) verbs.",
+        "te": "రెండూ భూతకాల క్రియాపదాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Both are imperative commands given by Arjuna.",
+        "te": "రెండూ ఆజ్ఞార్థక క్రియలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Both are present tense continuous forms.",
+        "te": "రెండూ వర్తమానకాల రూపాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Syāt' (3rd singular Vidhi-liṅ of root 'as' = would be) and 'āśrayet' (3rd singular Vidhi-liṅ of root 'śri' with 'ā' = would attach/befall). The potential mood emphasizes hypothetical consequences: 'What joy *could* be ours?' and 'Sin *would surely* attach to us.' — Bhagavad Gita (1.36)",
+      "te": "'స్యాత్' ('అస్' ధాతువు - కలుగవచ్చును) మరియు 'ఆశ్రయేత్' ('శ్రి' ధాతువు - ఆశ్రయించవచ్చును) అనేవి విధి-లిఙ్ (సంభావనార్థక) రూపాలు. ఇవి జరగబోయే ఫలితాలను అంచనా వేస్తూ చెప్పిన సంభాషణ. — భగవద్గీత (1.36)"
+    }
+  },
+  {
+    "id": "bg-1-36-q6",
+    "verse": { "c": 1, "s": 36 },
+    "concept": ["Sanskrit Sandhi Analysis"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi compound 'hatvaitānātatāyinaḥ' at the end of verse 1.36:",
+      "te": "1.36 శ్లోకం చివర ఉన్న 'హత్వైతానాతతాయినః' అనే పదాన్ని విడదీసి సంధి స్వరూపాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Hatvā + etān + ātatāyinaḥ (Vṛddhi Sandhi: hatvā + etān -> hatvaitān; Savarna-dirgha Sandhi: etān + ātatāyinaḥ -> etānātatāyinaḥ)",
+        "te": "హత్వా + ఏతాన్ + ఆతతాయి నః (వృద్ధి సంధి: హత్వా + ఏతాన్ -> హత్వైతాన్; సవర్ణదీర్ఘ సంధి: ఏతాన్ + ఆతతాయి నః -> ఏతానాతతాయినః)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Hati + etān + atāyinaḥ",
+        "te": "హతి + ఏతాన్ + అతాయినః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Hatvan + etān + ātatāyinaḥ",
+        "te": "హత్వన్ + ఏతాన్ + ఆతతాయినః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Hatvā + ete + ātatāyinaḥ",
+        "te": "హత్వా + ఏతే + ఆతతాయినః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Hatvā' (having slain) + 'etān' (these people) undergoes Vṛddhi Sandhi ('ā' + 'e' -> 'ai') to become 'hatvaitān'. Then 'hatvaitān' + 'ātatāyinaḥ' (felons) merges to form 'hatvaitānātatāyinaḥ'. — Bhagavad Gita (1.36)",
+      "te": "'హత్వా' + 'ఏతాన్' లలో వృద్ధి సంధి ప్రకారం 'అ' + 'ఏ' కలయికతో 'ఐ' ఏర్పడి 'హత్వైతాన్' అయినది. ఆపై 'ఏతాన్' + 'ఆతతాయినః' లలో శ్వాస వ్యంజనం పొల్లు 'న్' తర్వాత 'ఆ' చేరడంతో 'హత్వైతానాతతాయినః' గా మారినది. — భగవద్గీత (1.36)"
+    }
+  }
+]

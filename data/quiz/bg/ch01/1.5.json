@@ -1,0 +1,212 @@
+[
+  {
+    "id": "bg-1-5-q1",
+    "verse": { "c": 1, "s": 5 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.5?\n\n“dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān | purujit kuntibhojaśca śaibyāśca narapuṅgavaḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“ధృష్టకేతుశ్చేకితానః కాశిరాజశ్చ వీర్యవాన్ | పురుజిత్ కుంతిభోజశ్చ శైబ్యశ్చ నరపుంగవః”"
+    },
+    "choices": [
+      {
+        "en": "Duryodhana said — Dhrishtaketu, Chekitana, and the heroic King of Kashi; Purujit, Kuntibhoja, and Shaibya, the best among men.",
+        "te": "దుర్యోధనుడు పలికెను — ధృష్టకేతువు, చేకితానుడు, వీర్యవంతుడైన కాశిరాజు, పురుజిత్తు, కుంతిభోజుడు మరియు పురుషశ్రేష్ఠుడైన శైబ్యుడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Duryodhana said — Dhrishtadyumna, Shikhandi, and the brave warriors of the Vrishni clan stand united.",
+        "te": "దుర్యోధనుడు పలికెను — ధృష్టద్యుమ్నుడు, శిఖండి మరియు వృష్ణీ వంశానికి చెందిన పరాక్రమవంతమైన వీరులు కలిసి నిలిచారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — Seeing these six kings step forward, Dronacharya prepared his army for battle.",
+        "te": "సంజయుడు పలికెను — ఈ ఆరుగురు రాజులు ముందుకు రావడం చూసి, ద్రోణాచార్యుడు తన సైన్యాన్ని యుద్ధానికి సిద్ధం చేశాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Duryodhana said — These kings have all surrendered their allegiance to King Yudhishthira.",
+        "te": "దుర్యోధనుడు పలికెను — ఈ రాజులందరూ యుధిష్ఠిర మహారాజుకు విధేయత ప్రకటించారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān / purujit kuntibhojaśca śaibyāśca narapuṅgavaḥ.\" Continuing his assessment of the Pandava allies to Dronacharya, Duryodhana lists six more formidable kings and chieftains fighting on the Pandava side. — Bhagavad Gita (1.5)",
+      "te": "\"ధృష్టకేతుశ్చేకితానః కాశిరాజశ్చ వీర్యవాన్ / పురుజిత్ కుంతిభోజశ్చ శైబ్యశ్చ నరపుంగవః.\" ద్రోణాచార్యునికి పాండవ పక్షాన ఉన్న మిత్రరాజులను వివరిస్తూ, దుర్యోధనుడు ధృష్టకేతువు, చేకితానుడు, కాశిరాజు, పురుజిత్తు, కుంతిభోజుడు, శైబ్యుడు వంటి ఆరుగురు మహావీరులను లెక్కిస్తున్నాడు. — భగవద్గీత (1.5)"
+    }
+  },
+  {
+    "id": "bg-1-5-q2",
+    "verse": { "c": 1, "s": 5 },
+    "concept": ["Character Identification & Relationships"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "In verse 1.5, who among the listed warriors was the maternal uncle of the Pandavas who raised Kunti?",
+      "te": "1.5 శ్లోకంలో పేర్కొనబడిన వీరులలో, కుంతిని పెంపకంలో పెంచిన పాండవుల మేనమామ ఎవరు?"
+    },
+    "choices": [
+      {
+        "en": "Kuntibhoja",
+        "te": "కుంతిభోజుడు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Purujit",
+        "te": "పురుజిత్తు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Shaibya",
+        "te": "శైబ్యుడు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Chekitana",
+        "te": "చేకితానుడు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "King Kuntibhoja was the foster father of Kunti (mother of the elder Pandavas) and brother to Vasudeva's father. Purujit was his brother. Both fought courageously on behalf of their nephews. — Bhagavad Gita (1.5)",
+      "te": "కుంతిభోజుడు కుంతీదేవిని పెంపకంలో పెంచిన తండ్రి (పాండవులకు మేనమామ వరుస). ఇతడు తన సోదరుడైన పురుజిత్తుతో కలసి పాండవుల తరఫున యుద్ధంలో పాల్గొన్నాడు. — భగవద్గీత (1.5)"
+    }
+  },
+  {
+    "id": "bg-1-5-q3",
+    "verse": { "c": 1, "s": 5 },
+    "concept": ["Character Identification & Lineage"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "In verse 1.5, Dhrishtaketu is mentioned as a hero fighting for the Pandavas. Which kingdom's ruler was he?",
+      "te": "1.5 శ్లోకంలో పాండవుల తరఫున పోరాడుతున్న వీరుడిగా ధృష్టకేతువు పేర్కొనబడ్డాడు. ఇతడు ఏ రాజ్యానికి రాజు?"
+    },
+    "choices": [
+      {
+        "en": "Chedi (son of Shishupala)",
+        "te": "చేది దేశం (శిశుపాలుని కుమారుడు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kashi",
+        "te": "కాశీ రాజ్యం",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Magadha",
+        "te": "మగధ రాజ్యం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Matsya",
+        "te": "మత్స్య దేశం",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Dhrishtaketu was the king of the Chedi Kingdom and the son of Shishupala. Despite Krishna having slain Shishupala, Dhrishtaketu chose the side of Dharma and led an Akshauhini army for the Pandavas. — Bhagavad Gita (1.5)",
+      "te": "ధృష్టకేతువు చేది రాజ్యానికి రాజు మరియు శిశుపాలుని కుమారుడు. కృష్ణుడు శిశుపాలుడిని వధించినప్పటికీ, ధృష్టకేతువు ధర్మపక్షాన నిలిచి పాండవులకు అక్షౌహిణి సైన్యంతో మద్దతు ఇచ్చాడు. — భగవద్గీత (1.5)"
+    }
+  },
+  {
+    "id": "bg-1-5-q4",
+    "verse": { "c": 1, "s": 5 },
+    "concept": ["Sanskrit Vocabulary - Honorific Epithets"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "What does the compound epithet 'narapuṅgavaḥ' used in verse 1.5 mean?",
+      "te": "1.5 శ్లోకంలో ఉపయోగించిన 'నరపుంగవః' అనే పదానికి అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "A bull/hero among men (the best or foremost among human beings)",
+        "te": "నరులలో శ్రేష్ఠుడు / పురుషశ్రేష్ఠుడు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "A king who rules over a vast territory",
+        "te": "విశాలమైన భూభాగాన్ని పాలించే మహారాజు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "A warrior who fights from an elephant back",
+        "te": "ఏనుగుపై ఎక్కి పోరాడే గజసారథి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "A commander who leads ten thousand foot soldiers",
+        "te": "పదివేల మంది కాల్బలానికి నాయకత్వం వహించే సేనాని",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Narapuṅgavaḥ' combines 'nara' (man) and 'puṅgava' (bull/foremost), literally meaning 'a bull among men' or 'eminent/foremost among human beings'. In this verse, it qualifies Shaibya. — Bhagavad Gita (1.5)",
+      "te": "'నరపుంగవః' అనగా 'నరులలో శ్రేష్ఠుడు/వృషభము లాంటి బలవంతుడు' అని అర్థం ('నర' + 'పుంగవ'). ఈ శ్లోకంలో శైబ్యుడిని వర్ణించడానికి ఈ పదాన్ని వాడారు. — భగవద్గీత (1.5)"
+    }
+  },
+  {
+    "id": "bg-1-5-q5",
+    "verse": { "c": 1, "s": 5 },
+    "concept": ["Sanskrit Vocabulary - Valor Qualifiers"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "In verse 1.5, which adjective is used specifically to describe the King of Kashi ('kāśirājaḥ')?",
+      "te": "1.5 శ్లోకంలో కాశిరాజును ('కాశీరాజః') వర్ణించడానికి ఏ విశేషణాన్ని ఉపయోగించారు?"
+    },
+    "choices": [
+      {
+        "en": "Vīryavān (valiant / heroic / possessing great prowess)",
+        "te": "వీర్యవాన్ (వీర్యవంతమైన / మిక్కిలి పరాక్రమము గల)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dhīmatā (wise / intelligent)",
+        "te": "ధీమతా (బుద్ధిమంతుడైన)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Mahārathaḥ (great chariot fighter)",
+        "te": "మహారథః (మహారథుడైన)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yuyutsuḥ (eager for battle)",
+        "te": "యుయుత్సుః (యుద్ధ కాంక్ష గల)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Duryodhana describes the King of Kashi as 'vīryavān' ('kāśirājaśca vīryavān'), highlighting his great physical strength, prowess, and deadly archery skills. — Bhagavad Gita (1.5)",
+      "te": "1.5 శ్లోకంలో దుర్యోధనుడు కాశిరాజును 'వీర్యవాన్' (అపారమైన పరాక్రమము, బలం కలిగినవాడు) అని ప్రశంసించాడు. — భగవద్గీత (1.5)"
+    }
+  }
+]

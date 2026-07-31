@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-28-q1",
+    "verse": { "c": 1, "s": 28 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.28?\n\n“arjuna uvāca | dṛṣṭvemaṃ svakajanaṃ kṛṣṇa yuyutsuṃ samupasthitam | sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అర్జున ఉవాచ | దృష్ట్వేమం స్వజనం కృష్ణ యుయుత్సుం సముపస్థితమ్ | సీదన్తి మమ గాత్రాణి ముఖం చ పరిశుష్యతి”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — Seeing my own kinsmen gathered here eager to fight, O Krishna, my limbs give way/fail me, and my mouth is completely parched.",
+        "te": "అర్జునుడు పలికెను — ఓ కృష్ణా! యుద్ధం చేయడానికి సిద్ధపడి నిలబడిన ఈ నా స్వజనాన్ని (బంధువులను) చూసి, నా అంగాలు (కాళ్ళు చేతులు) కృంగిపోతున్నాయి, నా నోరు ఎండిపోతున్నది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — O Krishna, seeing the Kaurava forces charge forward, I am lifting my bow Gandiva to destroy them.",
+        "te": "అర్జునుడు పలికెను — ఓ కృష్ణా! కౌరవ సైన్యం ముందుకు దూసుకురావడం చూసి, వారిని నాశనం చేయడానికి నేను నా గాండీవాన్ని ఎక్కుపెడుతున్నాను.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — O Krishna, drive my chariot back to the Pandava camp so that I can consult with King Yudhishthira.",
+        "te": "అర్జునుడు పలికెను — ఓ కృష్ణా! యుధిష్ఠిర మహారాజుతో సంప్రదించడానికి నా రథాన్ని పాండవ శిబిరం వైపు వెనక్కి తీసుకెళ్ళు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — O Krishna, blow your Panchajanya conch shell to signal the start of our assault.",
+        "te": "అర్జునుడు పలికెను — ఓ కృష్ణా! మన దాడికి సంకేతంగా నీ పాంచజన్య శంఖాన్ని పూరించు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Arjuna uvāca — dṛṣṭvā imaṃ sva-janaṃ kṛṣṇa yuyutsuṃ samupasthitam / sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati.\" Arjuna describes the initial physical symptoms of his psychological breakdown upon beholding his family members arrayed for combat. — Bhagavad Gita (1.28)",
+      "te": "యుద్ధం చేయడానికి సమకూడిన తన స్వజనాన్ని చూసిన అర్జునునిలో కలిగిన మానసిక వైకల్యం, దాని వలన శరీరంలో కలిగిన మార్పులను (కాళ్ళు చేతులు బడిలిపోవడం, నోరు ఎండిపోవడం) శ్రీకృష్ణునికి వివరిస్తున్నాడు. — భగవద్గీత (1.28)"
+    }
+  },
+  {
+    "id": "bg-1-28-q2",
+    "verse": { "c": 1, "s": 28 },
+    "concept": ["Psychosomatic Symptoms of Anxiety"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which two physical reactions/symptoms does Arjuna explicitly state in verse 1.28 as he beholds his kinsmen?",
+      "te": "1.28 శ్లోకంలో తన స్వజనాన్ని చూసినప్పుడు శరీరంలో కలిగిన ఏ రెండు భౌతిక ప్రతిచర్యలను/లక్షణాలను అర్జునుడు స్పష్టంగా తెలిపాడు?"
+    },
+    "choices": [
+      {
+        "en": "Sīdanti mama gātrāṇi (My limbs fail/collapse) and Mukhaṃ ca pariśuṣyati (My mouth is parched)",
+        "te": "సీదన్తి మమ గాత్రాణి (నా శరీర అంగాలు కృంగిపోతున్నాయి/సడలిపోతున్నాయి) మరియు ముఖం చ పరిశుష్యతి (నా నోరు ఎండిపోతున్నది)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Vepathuśca śarīre (Body trembling) and Roma-harṣaḥ (Goosebumps)",
+        "te": "వేపథుశ్చ శరీరే (శరీరంలో వణుకు) మరియు రోమహర్షః (గగుర్పాటు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Gāṇḍīvaṃ sraṃsate (Gandiva slips) and Paridahyate (Skin burning)",
+        "te": "గాండీవం స్రంసతే (గాండీవం జారిపోవడం) మరియు పరిదహ్యతే (చర్మం మండిపోవడం)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Bramatīva ca me manaḥ (Mind spinning) and Na ca śaknomy avasthātum (Unable to stand)",
+        "te": "భ్రమతీవ చ మే మనః (మనస్సు తిరుగుతున్నట్లు ఉండటం) మరియు న చ శక్నోమ్యవస్థాతుమ్ (నిలబడలేకపోవడం)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In verse 1.28, Arjuna outlines the first two symptoms of his panic attack: 'sīdanti mama gātrāṇi' (my limbs give way/fail) and 'mukhaṃ ca pariśuṣyati' (my mouth goes dry). Other symptoms like trembling and bow-slipping follow in verse 1.29. — Bhagavad Gita (1.28)",
+      "te": "1.28 శ్లోకంలో తన భయాందోళనల మొదటి రెండు లక్షణాలను అర్జునుడు వివరించాడు: 'సీదన్తి మమ గాత్రాణి' (అంగాలు బడిలిపోవడం) మరియు 'ముఖం చ పరిశుష్యతి' (నోరు తడిఆరిపోవడం). మిగిలిన లక్షణాలు (వణుకు, గాండీవం జారడం) 1.29 శ్లోకంలో వస్తాయి. — భగవద్గీత (1.28)"
+    }
+  },
+  {
+    "id": "bg-1-28-q3",
+    "verse": { "c": 1, "s": 28 },
+    "concept": ["Root Cause of Grief - Svakajanam"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What is the key Sanskrit word in verse 1.28 that identifies the core source of Arjuna's delusion and sorrow?",
+      "te": "1.28 శ్లోకంలో అర్జునుని మోహానికి, దుఃఖానికి మూలకారణమైన 'మమకారాన్ని' సూచించే ప్రధాన సంస్కృత పదం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Svakajanam / Svajanam (My own people / my kinsmen)",
+        "te": "స్వజనమ్ / స్వకజనమ్ (నా స్వంత ప్రజలు / నా బంధువులు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Yuyutsum (Eager to fight)",
+        "te": "యుయుత్సుమ్ (యుద్ధాభిలాష గలవారు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Samupasthitam (Present before me)",
+        "te": "సముపస్థితమ్ (ముందు నిలిచి ఉన్నవారు)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Gātrāṇi (Limbs/Body)",
+        "te": "గాత్రాణి (అంగాలు)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The root of Arjuna's delusion is 'sva-jana' ('sva' = self/mine + 'jana' = people). As long as he viewed combatants as objective warriors, he was ready. The moment 'my own people' ('svakajanam') dominated his view, personal attachment overrode duty (Dharma). — Bhagavad Gita (1.28)",
+      "te": "అర్జునుని దుఃఖానికి అసలు కారణం 'స్వజనమ్' (నా అనే మమకారం). శత్రువులను యోధులుగా చూసినంతసేపు భయం లేదు, కానీ వారిని 'నా స్వంత మనుష్యులు' గా భావించిన మరుక్షణమే మమకారం ఆవహించి కర్తవ్యాన్ని దెబ్బతీసింది. — భగవద్గీత (1.28)"
+    }
+  },
+  {
+    "id": "bg-1-28-q4",
+    "verse": { "c": 1, "s": 28 },
+    "concept": ["Name Analysis - Krishna as Addressee"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Why does Arjuna address the Lord specifically as 'Kṛṣṇa' in verse 1.28?",
+      "te": "1.28 శ్లోకంలో అర్జునుడు భగవంతుడిని 'కృష్ణా' అని ఎందుకు సంబోధించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Kṛṣṇa = The All-Attractive / One who draws away grief and delusion; Arjuna calls upon Him as his intimate friend and ultimate refuge to dissolve his sorrow.",
+        "te": "కృష్ణ = సర్వాకర్షణ రూపుడు / దుఃఖాన్ని, అజ్ఞానాన్ని హరించేవాడు; తన శోకాన్ని నివారించే అంతరంగ మిత్రుడిగా, దివ్య రక్షకుడిగా అర్జునుడు శ్రీకృష్ణుడిని ఆశ్రయించాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kṛṣṇa = The driver of black horses.",
+        "te": "కృష్ణ = నల్లని గుర్రాలను నడిపే రథికుడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kṛṣṇa = The ruler of Mathura kingdom.",
+        "te": "కృష్ణ = మథురా రాజ్యాన్ని ఏలే రాజు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kṛṣṇa = One who holds the discus weapon Sudarshana.",
+        "te": "కృష్ణ = సుదర్శన చక్రాన్ని ధరించినవాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kṛṣ' (attraction / existence) + 'ṇa' (bliss). Krishna is the supreme dark-complexioned Lord who attracts the hearts of all and draws away suffering ('kṛṣṇati iti kṛṣṇaḥ'). Arjuna appeals to Krishna as his closest confidant in this hour of distress. — Bhagavad Gita (1.28)",
+      "te": "'కృష్' అనగా ఆకర్షించునది, దుఃఖాన్ని తొలగించునది. తన హృదయవేదనను అర్థం చేసుకుని, శోకాన్ని హరించగల ఏకైక ఆప్తుడిగా అర్జునుడు శ్రీకృష్ణుడిని 'కృష్ణా' అని పిలిచాడు. — భగవద్గీత (1.28)"
+    }
+  },
+  {
+    "id": "bg-1-28-q5",
+    "verse": { "c": 1, "s": 28 },
+    "concept": ["Sanskrit Vocabulary - Eager for War"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit term 'yuyutsuṃ' mean in verse 1.28?",
+      "te": "1.28 శ్లోకంలోని 'యుయుత్సుమ్' అనే పదానికి అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Desirous / eager to fight in battle",
+        "te": "యుద్ధం చేయాలనే కోరిక/ఉత్సాహం గలవాడు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Fleeing from the battlefield in panic",
+        "te": "భయంతో రణరంగం నుండి పారిపోయేవాడు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Seeking peace and reconciliation",
+        "te": "శాంతిని, సంధిని కోరుకునేవాడు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Laying down bow and armor",
+        "te": "విల్లును, కవచాన్ని కింద పడేసేవాడు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yuyutsu' is a desiderative noun from root 'yudh' (to fight), meaning 'one who desires to fight'. In verse 1.28, 'yuyutsuṃ' is in the Accusative singular/plural sense modifying 'svakajanaṃ' (kinsmen eager for battle). — Bhagavad Gita (1.28)",
+      "te": "'యుధ్' (పోరాడుట) ధాతువు నుండి వచ్చిన పదం 'యుయుత్సు'. 'యుద్ధం చేయాలని తపించేవాడు' అని దీనికి అర్థం. — భగవద్గీత (1.28)"
+    }
+  },
+  {
+    "id": "bg-1-28-q6",
+    "verse": { "c": 1, "s": 28 },
+    "concept": ["Sanskrit Grammar - Verbs & Intensifiers"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the Sanskrit verb 'pariśuṣyati' in verse 1.28:",
+      "te": "1.28 శ్లోకంలోని 'పరిశుష్యతి' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person singular present tense (Laṭ-lakāra) from root 'śuṣ' (to dry) with prefix 'pari' (completely/intensely), meaning 'is completely drying up / parched'.",
+        "te": "'శుష్' (ఎండిపోవు) అనే ధాతువుకు 'పరి' (పూర్తిగా/మిక్కిలి) అనే ఉపసర్గ చేరడం వల్ల ఏర్పడిన వర్తమానకాల ఏకవచన రూపం — 'పూర్తిగా ఎండిపోతున్నది'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Past tense verb meaning 'it dried up yesterday'",
+        "te": "భూతకాలంలో 'నిన్ననే ఎండిపోయింది' అనే రూపం",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Imperative verb meaning 'let it become dry'",
+        "te": "ఆజ్ఞార్థకంలో 'అది ఎండిపోవుగాక' అనే రూపం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Noun in ablative case meaning 'from dryness'",
+        "te": "పంచమీ విభక్తి నామవాచకం",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Pari' (intensifier: completely/all around) + 'śuṣyati' (dries up). The prefix 'pari' emphasizes that Arjuna's throat and mouth were not merely slightly dry, but intensely, completely parched due to severe sympathetic nervous arousal. — Bhagavad Gita (1.28)",
+      "te": "'పరి' (మిక్కిలి/అన్నివైపులా) + 'శుష్యతి' (ఎండిపోవుచున్నది). నోరు స్వల్పంగా కాకుండా, తీవ్రమైన మానసిక ఆందోళన వల్ల తడిలేకుండా ఎండిపోతోందని 'పరి' అనే ఉపసర్గ తెలుపుతోంది. — భగవద్గీత (1.28)"
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-46-q1",
+    "verse": { "c": 1, "s": 46 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.46?\n\n“yadi mām apratīkāram aśastraṃ śastrapāṇayaḥ | dhārtarāṣṭrā raṇe hanyus tan me kṣemataraṃ bhavet”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యది మామ్ అప్రతీకారమ్ అశస్త్రం శస్త్రపాణయః | ధార్తరాష్ట్రా రణే హన్యుస్ తన్ మే క్షేమతరం భవేత్”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — If the sons of Dhritarashtra, weapons in hand, were to kill me in battle while I am unarmed and unresisting, that would be far better and more beneficial for me.",
+        "te": "అర్జునుడు పలికెను — చేతుల్లో ఆయుధాలు ధరించిన ధృతరాష్ట్రుని కుమారులు, ఆయుధం లేనివాడిని మరియు ఎదురుదాడి చేయనివాడనైన నన్ను ఈ రణరంగంలో సంహరించినా సరే, అది నాకు ఎంతో మేలు (క్షేమతరము) కలిగిస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — If the sons of Dhritarashtra lay down their weapons in battle, we should show them mercy and grant them sanctuary.",
+        "te": "అర్జునుడు పలికెను — ధృతరాష్ట్రుని కుమారులు యుద్ధంలో తమ ఆయుధాలను విడిచిపెడితే, మనం వారిపై దయ చూపి అభయం ఇవ్వాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — Even if I am unarmed, my inner strength is enough to defeat all the sons of Dhritarashtra on this battlefield.",
+        "te": "అర్జునుడు పలికెను — నా వద్ద ఆయుధాలు లేకపోయినా, ఈ రణరంగంలో ధృతరాష్ట్రుని కుమారులందరినీ ఓడించడానికి నా అంతర్గత బలమే సరిపోతుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — If Lord Krishna wields His discus to protect us, no weapon of Dhritarashtra's sons can cause us harm.",
+        "te": "అర్జునుడు పలికెను — మనలను రక్షించడానికి శ్రీకృష్ణుడు తన సుదర్శన చక్రాన్ని ధరిస్తే, ధృతరాష్ట్ర కుమారుల ఏ ఆయుధమూ మనకు హాని చేయలేదు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Yadi mām apratīkāram aśastraṃ śastra-pāṇayaḥ / dhārtarāṣṭrā raṇe hanyus tan me kṣemataraṃ bhavet.\" Arjuna reaches the extreme resolution of total pacifism, preferring to be slain unarmed rather than engage in fratricidal war. — Bhagavad Gita (1.46)",
+      "te": "చేతుల్లో ఆయుధాలు ఉన్న కౌరవులు, ఆయుధ రహితుడై ఎదురుతిరగకుండా ఉన్న తన్ను చంపేసినా సరే... ఆ మరణమే తనకు మిక్కిలి క్షేమకరమని అర్జునుడు తన సంపూర్ణ అహింసా నిశ్చయాన్ని ప్రకటిస్తున్నాడు. — భగవద్గీత (1.46)"
+    }
+  },
+  {
+    "id": "bg-1-46-q2",
+    "verse": { "c": 1, "s": 46 },
+    "concept": ["Psychological & Philosophical Culmination - Total Non-Resistance"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which two Sanskrit terms in verse 1.46 describe Arjuna's complete state of physical and mental non-resistance?",
+      "te": "1.46 శ్లోకంలో అర్జునుని సంపూర్ణ శారీరక, మానసిక అహింసా/ఎదురు తిరగని స్థితిని తెలిపే రెండు సంస్కృత పదాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Apratīkāram (unresisting / without retaliation) and Aśastram (unarmed / without weapons)",
+        "te": "అప్రతీకారమ్ (ఎదురుదాడి చేయనివాడు / ప్రతిక్రియ చేయనివాడు) మరియు అశస్త్రమ్ (ఆయుధం లేనివాడు / నిరాయుధుడు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Śastrapāṇayaḥ (holding weapons) and Dhārtarāṣṭrāḥ (sons of Dhritarashtra)",
+        "te": "శస్త్రపాణయః (చేతిలో ఆయుధాలు గలవారు) మరియు ధార్తరాష్ట్రాః (ధృతరాష్ట్ర కుమారులు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kṣemataram (more beneficial) and Raṇe (in battle)",
+        "te": "క్షేమతరమ్ (మిక్కిలి క్షేమకరమైనది) మరియు రణే (యుద్ధభూమిలో)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Hanyuḥ (they may kill) and Bhavet (it would be)",
+        "te": "హన్యుః (వారు సంహరించవచ్చు) మరియు భవేత్ (అగుగాక)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'A-pratīkāram' ('a' = non + 'pratīkāra' = retaliation/resistance) and 'a-śastram' ('a' = without + 'śastra' = weapon). Arjuna surrenders all intent to defend himself or fight back, placing himself entirely at his enemies' mercy. — Bhagavad Gita (1.46)",
+      "te": "'అప్రతీకారమ్' (ఎదురు తిరగకుండా/ప్రతీకారం తీర్చుకోకుండా) మరియు 'అశస్త్రమ్' (చేతిలో ఎటువంటి ఆయుధం లేకుండా). తాను ఆత్మరక్షణ కూడా చేసుకోనని అర్జునుడు పూర్తిగా శత్రువుల చేతిలో ఆత్మసమర్పణ చేసుకుంటున్నాడు. — భగవద్గీత (1.46)"
+    }
+  },
+  {
+    "id": "bg-1-46-q3",
+    "verse": { "c": 1, "s": 46 },
+    "concept": ["Comparative Value - Greater Welfare"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit comparative adjective 'kṣemataram' mean in verse 1.46?",
+      "te": "1.46 శ్లోకంలోని 'క్షేమతరమ్' అనే తారతమ్య విశేషణ పదానికి అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Far better / more beneficial / safer / conducive to greater spiritual welfare",
+        "te": "ఎంతో మేలైనది / మిక్కిలి క్షేమకరమైనది / అత్యంత శ్రేయోదాయకమైనది",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "More dishonorable and humiliating",
+        "te": "ఎంతో అవమానకరమైనది మరియు నిందార్హమైనది",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Extremely difficult and painful",
+        "te": "అత్యంత కష్టమైనది మరియు వేదనారహితమైనది",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Temporarily profitable in terms of gold",
+        "te": "ధనరూపంలో తాత్కాలికంగా లాభించేది",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kṣema' (welfare/safety) + '-tara' (comparative suffix) = 'kṣematara' ('better / more beneficial'). Arjuna concludes that being killed while defenseless is spiritually and morally far better ('kṣemataram') than committing fratricide for kingdom. — Bhagavad Gita (1.46)",
+      "te": "'క్షేమ' (శ్రేయస్సు) + 'తర' (తారతమ్య ప్రత్యయం) = క్షేమతరము (మరింత మేలైనది). స్వజనాన్ని చంపి రాజ్యాన్ని పొందడం కంటే, ఆయుధం లేని తనను వారు చంపేయడమే ఆధ్యాత్మికంగా తనకు ఎంతో మేలని అర్జునుడు భావించాడు. — భగవద్గీత (1.46)"
+    }
+  },
+  {
+    "id": "bg-1-46-q4",
+    "verse": { "c": 1, "s": 46 },
+    "concept": ["Sanskrit Vocabulary - Armed Opponents"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit compound 'śastrapāṇayaḥ' literally mean in verse 1.46?",
+      "te": "1.46 శ్లోకంలోని 'శస్త్రపాణయః' అనే సమాస పదానికి శాబ్దిక అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Those with weapons in their hands (armed forces/warriors)",
+        "te": "చేతుల్లో ఆయుధాలు ధరించినవారు (సాయుధులైన యోధులు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Those who have broken their bows",
+        "te": "తన విల్లులను విరగ్గొట్టుకున్నవారు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Those who are driving war chariots",
+        "te": "యుద్ధ రథాలను నడుపుతున్నవారు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Those who are wearing golden helmets",
+        "te": "బంగారు కిరీటాలను ధరించినవారు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Śastra' (weapons) + 'pāṇayaḥ' (in whose hands - nominative plural of 'pāṇi'). It contrasts the fully armed Kauravas ('śastrapāṇayaḥ') with unarmed Arjuna ('aśastram'). — Bhagavad Gita (1.46)",
+      "te": "'శస్త్ర' (ఆయుధములు) + 'పాణయః' (చేతులందు గలవారు - ప్రథమా బహువచనం). ఆయుధాలు పట్టుకున్న కౌరవులకు ('శస్త్రపాణయః') మరియు ఆయుధం లేని తనకూ ('అశస్త్రమ్') ఉన్న వైరుధ్యాన్ని ఇది చూపుతోంది. — భగవద్గీత (1.46)"
+    }
+  },
+  {
+    "id": "bg-1-46-q5",
+    "verse": { "c": 1, "s": 46 },
+    "concept": ["Sanskrit Grammar - Potential Plural 'Hanyuḥ'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical form of 'hanyuḥ' in verse 1.46:",
+      "te": "1.46 శ్లోకంలోని 'హన్యుః' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person plural Potential/Optative mood (Vidhi-liṅ) from root 'han' (to kill / slay), meaning 'they might / should slay'.",
+        "te": "'హన్' (చంపుట) అనే ధాతువు యొక్క విధి-లిఙ్ (సంభావనార్థక) ప్రథమ పురుష బహువచన రూపం — 'వారు సంహరించినా / చంపినా సరే'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person singular present tense verb.",
+        "te": "ప్రథమ పురుష ఏకవచన వర్తమానకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Past tense verb meaning 'they killed in the past'.",
+        "te": "భూతకాలంలో 'వారు చంపారు' అనే రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb meaning 'kill them'.",
+        "te": "ఆజ్ఞార్థకంలో 'వారిని చంపండి' అనే రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Hanyuḥ' is 3rd person plural Vidhi-liṅ (potential mood) of root 'han' (to kill): hanyāt, hanyātām, hanyuḥ. Combined with conditional 'yadi' ('if'), 'yadi hanyur' translates to 'if they were to kill me'. — Bhagavad Gita (1.46)",
+      "te": "'హన్యుః' అనేది 'హన్' (చంపుట) ధాతువు యొక్క ప్రథమ పురుష బహువచన విధి-లిఙ్ రూపం (హన్యాత్, హన్యాతామ్, హన్యుః). 'యది హన్యుః' అనగా 'ఒకవేళ వారు సంహరించినా సరే' అని సంభావిత పరిస్థితిని చూపుతుంది. — భగవద్గీత (1.46)"
+    }
+  },
+  {
+    "id": "bg-1-46-q6",
+    "verse": { "c": 1, "s": 46 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'hanyustan' in verse 1.46:",
+      "te": "1.46 శ్లోకంలోని 'హన్యుస్తన్' అనే పదాన్ని విడదీసి సంధి నియమాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Hanyuḥ + tat (Visarga Sattva Sandhi: visarga 'ḥ' converts to 's' before unvoiced dental 't'; then 'tat' drops final 't' before 'me' -> tan me)",
+        "te": "హన్యుః + తత్ (విసర్గ సత్త్వ సంధి ప్రకారం శ్వాస పరుషమైన 'త' ముందు విసర్గ 'స' కారంగా మారినది; ఆపై 'తత్' వర్గ ప్రథమాక్షరం 'త' నకారం 'మ' ముందు 'న' గా మారినది -> తన్ మే)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Hanyum + tat",
+        "te": "హన్యుమ్ + తత్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Hanyun + tat",
+        "te": "హన్యున్ + తత్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Hanyu + tat",
+        "te": "హన్యు + తత్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Hanyuḥ' (they may kill) + 'tat' (that) -> 'hanyustat' (Visarga becomes 's' before 't'). Then 'tat' + 'me' -> 'tan me' (Anunāsika Sandhi where 't' becomes nasal 'n' before 'm'). Joined together: 'hanyustan me'. — Bhagavad Gita (1.46)",
+      "te": "'హన్యుః' + 'తత్' లలో విసర్గ 'స' గా మారి 'హన్యుస్తత్' అయినది. ఆపై 'తత్' + 'మే' లలో పొల్లు 'త్' అనునాసికం 'మ' ముందు 'న్' గా మారి 'తన్ మే' అయినది. సమగ్రంగా 'హన్యుస్తన్ మే' గా సమకూరినది. — భగవద్గీత (1.46)"
+    }
+  }
+]

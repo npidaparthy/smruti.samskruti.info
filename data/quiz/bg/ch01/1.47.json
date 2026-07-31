@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-47-q1",
+    "verse": { "c": 1, "s": 47 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.47?\n\n“sañjaya uvāca | evamuktvārjunaḥ saṅkhye rathopastha upāviśat | visṛjya saśaraṃ cāpaṃ śokasaṁvignamānasaḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“సంజయ ఉవాచ | ఏవముక్త్వాఽర్జునః సంఖ్యే రథోపస్థ ఉపావిశత్ | విసృజ్య సశరం చాపం శోకసంవిగ్నమానసః”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — Having spoken thus on the battlefield, Arjuna cast aside his bow along with his arrows and sat down on the seat of his chariot, his mind overwhelmed with sorrow.",
+        "te": "సంజయుడు పలికెను — యుద్ధరంగంలో ఈ విధంగా పలికి, అర్జునుడు తన బాణాలతో కూడిన విల్లును పక్కన పడేసి, శోకంతో నిండిన మనస్సు గలవాడై రథం వెనుక భాగంలో (కూర్చునే స్థలంలో) కూర్చుండిపోయాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — Having spoken thus, Arjuna lifted his bow Gandiva with great fury and charged toward the Kaurava battle lines.",
+        "te": "సంజయుడు పలికెను — ఈ విధంగా పలికి, అర్జునుడు అత్యంత క్రోధంతో తన గాండీవ ధనుస్సును ఎత్తి కౌరవ వ్యూహాల వైపు దూసుకెళ్లాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — Having heard Arjuna's words, Lord Krishna blew his Panchajanya conch shell to signal the start of the battle.",
+        "te": "సంజయుడు పలికెను — అర్జునుని మాటలు విని, శ్రీకృష్ణుడు యుద్ధ ప్రారంభానికి సంకేతంగా తన పాంచజన్య శంఖాన్ని పూరించాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — Having spoken thus, Arjuna asked Lord Krishna to turn the chariot back toward the Pandava camp.",
+        "te": "సంజయుడు పలికెను — ఈ విధంగా పలికి, రథాన్ని పాండవ శిబిరం వైపు వెనక్కి తిప్పమని అర్జునుడు శ్రీకృష్ణుడిని అడిగాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Sañjaya uvāca — evam uktvārjunaḥ saṅkhye rathopastha upāviśat / visṛjya sa-śaraṃ cāpaṃ śoka-saṁvigna-mānasaḥ.\" Sanjaya concludes Chapter 1 by describing Arjuna casting aside his bow and arrows ('visṛjya sa-śaraṃ cāpaṃ') and slumping onto the chariot seat in deep despair ('śoka-saṁvigna-mānasaḥ'). — Bhagavad Gita (1.47)",
+      "te": "1వ అధ్యాయాన్ని ముగిస్తూ సంజయుడు ధృతరాష్ట్రుడితో పలికిన మాటలివి. అర్జునుడు తీవ్ర దుఃఖంతో ('శోకసంవిగ్నమానసః') తన విల్లు బాణాలను విడిచిపెట్టి ('విసృజ్య సశరం చాపం') రథంలో కూర్చుండిపోయాడని వర్ణిస్తున్నాడు. — భగవద్గీత (1.47)"
+    }
+  },
+  {
+    "id": "bg-1-47-q2",
+    "verse": { "c": 1, "s": 47 },
+    "concept": ["Psychological State - Heartbroken & Despondent"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which Sanskrit compound in verse 1.47 captures Arjuna's overwhelmed, sorrowful state of mind?",
+      "te": "1.47 శ్లోకంలో అర్జునుని తీవ్ర విచారకరమైన, దుఃఖపూరితమైన మనఃస్థితిని సూచించే సంస్కృత సమాస పదం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Śoka-saṁvigna-mānasaḥ (One whose mind is afflicted / agitation-stricken with sorrow)",
+        "te": "శోకసంవిగ్నమానసః (శోకంచేత మిక్కిలి వ్యాకులపడిన/కలవరపడిన మనస్సు గలవాడు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sa-śaraṃ cāpam (Bow along with arrows)",
+        "te": "సశరం చాపమ్ (బాణములతో కూడిన విల్లు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Rathopastha upāviśat (Sat down on the chariot seat)",
+        "te": "రథోపస్థ ఉపావిశత్ (రథము నందు కూర్చుండెను)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Evam uktvā (Having spoken thus)",
+        "te": "ఏవముక్త్వా (ఈ విధంగా పలికి)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Śoka' (sorrow/grief) + 'saṁvigna' (distressed / agitated / overwhelmed) + 'mānasaḥ' (mind). The compound depicts the total psychological breakdown of Arjuna at the close of Chapter 1. — Bhagavad Gita (1.47)",
+      "te": "'శోక' (దుఃఖము) + 'సంవిగ్న' (వ్యాకులపడిన/కలవరపడిన) + 'మానసః' (మనస్సు గలవాడు). తీవ్రమైన శోకంతో అర్జునుని మనస్సు సంపూర్ణంగా మునిగిపోయిందని ఇది స్పష్టం చేస్తోంది. — భగవద్గీత (1.47)"
+    }
+  },
+  {
+    "id": "bg-1-47-q3",
+    "verse": { "c": 1, "s": 47 },
+    "concept": ["Action Analysis - Casting Down the Bow"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What physical gesture of abandonment does Arjuna perform at the climax of verse 1.47?",
+      "te": "1.47 శ్లోకంలో అర్జునుడు తన వైరాగ్యాన్ని/శోకాన్ని వ్యక్తపరుస్తూ చేసిన భౌతిక చర్య ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Visṛjya sa-śaraṃ cāpam (Casting away his bow together with its arrows)",
+        "te": "విసృజ్య సశరం చాపమ్ (బాణాలతో కూడిన తన విల్లును పక్కన పడేయుట)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Braking his bowstring with his hands",
+        "te": "చేతులతో తన వింటి నారిని తెంచివేయుట",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bowing down at the feet of Lord Krishna",
+        "te": "శ్రీకృష్ణుని పాదాలకు నమస్కరించుట",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Blowing his conch shell Devadatta",
+        "te": "తన దేవదత్త శంఖాన్ని పూరించుట",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Visṛjya' (having discarded / cast aside) + 'sa-śaram' (along with arrows) + 'cāpam' (the bow). For a warrior, casting away weapons right before battle marks total military surrender and intense emotional trauma. — Bhagavad Gita (1.47)",
+      "te": "'విసృజ్య' (విడిచిపెట్టి) + 'సశరమ్' (బాణములతో కూడిన) + 'చాపమ్' (విల్లును). యుద్ధభూమిలో ఆయుధాలను కింద పడేయడం అనేది క్షత్రియ వీరుని మానసిక పతనానికి, వైరాగ్యానికి పరాకాష్ఠ. — భగవద్గీత (1.47)"
+    }
+  },
+  {
+    "id": "bg-1-47-q4",
+    "verse": { "c": 1, "s": 47 },
+    "concept": ["Sanskrit Vocabulary - Chariot Seat & Battlefield"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What do the Sanskrit words 'saṅkhye' and 'rathopastha' mean in verse 1.47?",
+      "te": "1.47 శ్లోకంలోని 'సంఖ్యే' మరియు 'రథోపస్థ' అనే పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Saṅkhye = On the battlefield / in combat; Rathopastha = On the seat/deck of the chariot.",
+        "te": "సంఖ్యే = యుద్ధరంగమునందు / రణభూమిలో; రథోపస్థ = రథము యొక్క వెనుక భాగమునందు / కూర్చునే పీఠమునందు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Saṅkhye = By mathematical calculation; Rathopastha = Near the chariot wheel.",
+        "te": "సంఖ్యే = సంఖ్యల లెక్కింపు ద్వారా; రథోపస్థ = రథ చక్రము దగ్గర.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Saṅkhye = Among sages; Rathopastha = Under the chariot flag.",
+        "te": "సంఖ్యే = మునుల మధ్య; రథోపస్థ = రథ జెండా కింద.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Saṅkhye = In deep meditation; Rathopastha = On the horses' backs.",
+        "te": "సంఖ్యే = తీవ్ర ధ్యానంలో; రథోపస్థ = గుర్రాల వెన్నుపై.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Saṅkhye' is Locative singular of 'saṅkhyā' (used here poetically for battlefield / war). 'Ratha' (chariot) + 'upastha' (seat/lap/deck) = 'rathopastha' (on the chariot seat). Arjuna slumped onto the chariot seat instead of standing ready to fight. — Bhagavad Gita (1.47)",
+      "te": "'సంఖ్యే' అనగా రణరంగమునందు (సప్తమీ ఏకవచనం). 'రథ' + 'ఉపస్థ' = రథోపస్థ (రథంలో కూర్చునే పీఠమునందు). నిలబడి పోరాడాల్సిన అర్జునుడు కృంగిపోయి రథంలో కూర్చుండిపోయాడు. — భగవద్గీత (1.47)"
+    }
+  },
+  {
+    "id": "bg-1-47-q5",
+    "verse": { "c": 1, "s": 47 },
+    "concept": ["Sanskrit Grammar - Compound Analysis 'Śokasaṁvignamānasaḥ'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What type of Sanskrit compound (Samāsa) is 'śokasaṁvignamānasaḥ' in verse 1.47?",
+      "te": "1.47 శ్లోకంలోని 'శోకసంవిగ్నమానసః' అనేది ఏ రకమైన సంస్కృత సమాసము?"
+    },
+    "choices": [
+      {
+        "en": "Bahuvrīhi Samāsa (a possessive compound: 'one whose mind is distressed with sorrow'), modifying 'arjunaḥ'.",
+        "te": "బహువ్రీహి సమాసము ('శోకముచేత సంవిగ్నమైన మానసము కలవాడు ఎవడో వాడు' - ప్రథమా ఏకవచనంలో 'అర్జునః' అనే కర్తపదానికి విశేషణం).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dvandva Samāsa combining separate nouns.",
+        "te": "ద్వంద్వ సమాసము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avyayībhāva Samāsa functioning as an adverb.",
+        "te": "అవ్యయీభావ సమాసము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dvigu Samāsa starting with a numerical component.",
+        "te": "ద్విగు సమాసము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Śokena saṁvignam mānasam yasya saḥ' = 'Śokasaṁvignamānasaḥ'. Because it refers to a third person ('arjunaḥ') possessing a mind afflicted by grief, it is a Bahuvrīhi Samāsa in Nominative Singular Masculine. — Bhagavad Gita (1.47)",
+      "te": "'శోకేన సంవిగ్నం మానసం యస్య సః' = శోకసంవిగ్నమానసః. అన్యపదార్థ ప్రాధాన్యత కలిగి అర్జునుడిని విశేషిస్తోంది కాబట్టి ఇది ప్రథమా విభక్తి ఏకవచన పుంలింగ బహువ్రీహి సమాసము. — భగవద్గీత (1.47)"
+    }
+  },
+  {
+    "id": "bg-1-47-q6",
+    "verse": { "c": 1, "s": 47 },
+    "concept": ["Sanskrit Grammar - Sandhi Analysis"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'evamuktvārjunaḥ' and 'rathopastha upāviśat' in verse 1.47:",
+      "te": "1.47 శ్లోకంలోని 'ఏవముక్త్వాఽర్జునః' మరియు 'రథోపస్థ ఉపావిశత్' అనే పదాలను విడదీసి సంధి నియమాలను చెప్పండి:"
+    },
+    "choices": [
+      {
+        "en": "Evam + uktvā + arjunaḥ (Savarna-dirgha Sandhi: uktvā + arjunaḥ -> uktvārjunaḥ); Rathopasthe + upāviśat (Visarga/vowel drop: rathopasthe -> rathopastha before 'u').",
+        "te": "ఏవమ్ + ఉక్త్వా + అర్జునః (సవర్ణదీర్ఘ సంధి: ఉక్త్వా + అర్జునః -> ఉక్త్వాఽర్జునః); రథోపస్థే + ఉపావిశత్ (ఆయాదేశ సంధి/అయావాదేశ లోపం వలన 'రథోపస్థ' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Evamu + ktvā + arjunaḥ; Rathopastham + upāviśat",
+        "te": "ఏవము + క్త్వా + అర్జునః; రథోపస్థమ్ + ఉపావిశత్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Evam + uktvā + rjunaḥ; Rathopastha + supāviśat",
+        "te": "ఏవమ్ + ఉక్త్వా + రుజునః; రథోపస్థ + సుపావిశత్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Eva + muktvā + arjunaḥ; Rathopasthena + upāviśat",
+        "te": "ఏవ + ముక్త్వా + అర్జునః; రథోపస్థేన + ఉపావిశత్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Uktvā' + 'arjunaḥ' forms Savarna-dirgha Sandhi ('ā' + 'a' -> 'ā'), yielding 'uktvārjunaḥ'. 'Rathopasthe' (Locative singular) before 'upāviśat': 'e' changes to 'ay' and drops 'y' before non-homogeneous vowel 'u', leaving 'rathopastha upāviśat'. — Bhagavad Gita (1.47)",
+      "te": "'ఉక్త్వా' + 'అర్జునః' లలో సవర్ణదీర్ఘ సంధి జరిగి 'ఉక్త్వాఽర్జునః' అయినది. 'రథోపస్థే' (సప్తమీ ఏకవచనం) + 'ఉపావిశత్' లలో 'ఏ' స్థానంలో వచ్చిన 'అయ్' లోని యకారం లోపించి 'రథోపస్థ ఉపావిశత్' గా నిలిచింది. — భగవద్గీత (1.47)"
+    }
+  }
+]

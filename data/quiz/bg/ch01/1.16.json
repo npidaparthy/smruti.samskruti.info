@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-16-q1",
+    "verse": { "c": 1, "s": 16 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.16?\n\n“anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ | nakulaḥ sahadevaśca sughoṣamaṇipuṣpakau”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అనన్తవిజయం రాజా కున్తీపుత్రో యుధిష్ఠిరః | నకులః సహదేవశ్చ సుఘోషమణిపుష్పకౌ”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — King Yudhishthira, the son of Kunti, blew his conch shell Anantavijaya; Nakula blew Sughosha; and Sahadeva blew Manipushpaka.",
+        "te": "సంజయుడు పలికెను — కుంతీ పుత్రుడైన యుధిష్ఠిర మహారాజు 'అనంతవిజయం' అనే శంఖాన్ని, నకులుడు 'సుఘోషం' అనే శంఖాన్ని, సహదేవుడు 'మణిపుష్పకం' అనే శంఖాన్ని పూరించారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — Yudhishthira blew Sughosha, Nakula blew Manipushpaka, and Sahadeva blew Anantavijaya.",
+        "te": "సంజయుడు పలికెను — యుధిష్ఠిరుడు సుఘోషాన్ని, నకులుడు మణిపుష్పకాన్ని, సహదేవుడు అనంతవిజయాన్ని పూరించారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — King Yudhishthira ordered Nakula and Sahadeva to lead the flank vanguard into battle.",
+        "te": "సంజయుడు పలికెను — పక్కబాహువుల దళాలకు నాయకత్వం వహించమని నకుల సహదేవులను యుధిష్ఠిర మహారాజు ఆదేశించాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — These three brothers sounded their conches to announce the victory of righteousness.",
+        "te": "సంజయుడు పలికెను — ధర్మ విజయాన్ని ప్రకటించడానికి ఈ ముగ్గురు సోదరులు తమ శంఖాలను పూరించారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Anantavijayaṃ rājā kuntī-putro yudhiṣṭhiraḥ / nakulaḥ sahadevaśca sughoṣa-maṇipuṣpakau.\" Continuing his detailed account of the Pandava conch sounds, Sanjaya names King Yudhishthira's conch (Anantavijaya), Nakula's conch (Sughosha), and Sahadeva's conch (Manipushpaka). — Bhagavad Gita (1.16)",
+      "te": "1.16 శ్లోకంలో కుంతీ పుత్రుడైన యుధిష్ఠిరుడు (అనంతవిజయం), నకులుడు (సుఘోషం), సహదేవుడు (మణిపుష్పకం) పూరించిన విశేష శంఖాల పేర్లను సంజయుడు వివరిస్తున్నాడు. — భగవద్గీత (1.16)"
+    }
+  },
+  {
+    "id": "bg-1-16-q2",
+    "verse": { "c": 1, "s": 16 },
+    "concept": ["Sacred Conches - Yudhishthira & Anantavijaya"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which conch shell was blown by King Yudhishthira in verse 1.16, and what does its name literally translate to?",
+      "te": "1.16 శ్లోకంలో యుధిష్ఠిర మహారాజు పూరించిన శంఖం పేరు ఏమిటి? ఆ పేరు యొక్క శాబ్దిక అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Anantavijaya — Meaning 'Endless/Unending Victory'",
+        "te": "అనంతవిజయం — 'అంతము లేని / శాశ్వతమైన విజయం' అని అర్థం",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sughoṣa — Meaning 'Sweet/Pleasing Sound'",
+        "te": "సుఘోషం — 'శ్రావ్యమైన / మంచి శబ్దం' అని అర్థం",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Maṇipuṣpaka — Meaning 'Jeweled Blossom'",
+        "te": "మణిపుష్పకం — 'రత్నాల పువ్వు' అని అర్థం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Pāñcajanya — Meaning 'Born of Five Elements'",
+        "te": "పాంచజన్యం — 'పంచభూతాల నుండి ఉద్భవించినది' అని అర్థం",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "King Yudhishthira blew the conch named 'Anantavijaya' ('ananta' = endless + 'vijaya' = victory). The name carries deep symbolism, signifying that the cause of Dharma led by Yudhishthira ultimately secures eternal, unending victory. — Bhagavad Gita (1.16)",
+      "te": "యుధిష్ఠిరుని శంఖం పేరు 'అనంతవిజయం' ('అనంత' = అంతము లేని + 'విజయం' = జయము). ధర్మరాజైన యుధిష్ఠిరుడు నడిపే ధర్మయుద్ధానికి అంతిమంగా శాశ్వత విజయం లభిస్తుందని ఈ పేరు సూచిస్తుంది. — భగవద్గీత (1.16)"
+    }
+  },
+  {
+    "id": "bg-1-16-q3",
+    "verse": { "c": 1, "s": 16 },
+    "concept": ["Sacred Conches - Nakula & Sahadeva"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which two conches were blown by the Madri twins, Nakula and Sahadeva, as stated in verse 1.16?",
+      "te": "1.16 శ్లోకం ప్రకారం మాద్రీ పుత్రులైన నకుల సహదేవులు పూరించిన రెండు శంఖాల పేర్లు వరుసగా ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Nakula blew Sughoṣa ('sweet sounding') and Sahadeva blew Maṇipuṣpaka ('jeweled blossom')",
+        "te": "నకులుడు 'సుఘోషం' ('మంచి శబ్దం చేసేది'), సహదేవుడు 'మణిపుష్పకం' ('రత్నమాలిక వంటిది') పూరించారు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nakula blew Maṇipuṣpaka and Sahadeva blew Sughoṣa",
+        "te": "నకులుడు 'మణిపుష్పకం', సహదేవుడు 'సుఘోషం' పూరించారు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nakula blew Devadatta and Sahadeva blew Pauṇḍra",
+        "te": "నకులుడు 'దేవదత్తం', సహదేవుడు 'పౌండ్రం' పూరించారు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nakula blew Anantavijaya and Sahadeva blew Pāñcajanya",
+        "te": "నకులుడు 'అనంతవిజయం', సహదేవుడు 'పాంచజన్యం' పూరించారు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In verse 1.16, the compound 'sughoṣa-maṇipuṣpakau' links Nakula to Sughosha ('sweet tone') and Sahadeva to Manipushpaka ('flower of jewels'). — Bhagavad Gita (1.16)",
+      "te": "1.16 శ్లోకంలో 'సుఘోషమణిపుష్పకౌ' అనే సమాస పదం ద్వారా నకులుడు 'సుఘోషం' శంఖాన్ని, సహదేవుడు 'మణిపుష్పకం' శంఖాన్ని పూరించారని సంజయుడు స్పష్టం చేశాడు. — భగవద్గీత (1.16)"
+    }
+  },
+  {
+    "id": "bg-1-16-q4",
+    "verse": { "c": 1, "s": 16 },
+    "concept": ["Comprehensive Conch Pairing - Verses 1.15 & 1.16"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Reviewing verses 1.15 and 1.16, match all six primary commanders of the Pandava army with their correct conches:",
+      "te": "1.15 మరియు 1.16 శ్లోకాలను పరిశీలించి, ఆరుగురు పాండవ పక్ష ప్రధానులను వారి సరైన శంఖాలతో జతపరచండి:"
+    },
+    "choices": [
+      {
+        "en": "Krishna: Panchajanya | Arjuna: Devadatta | Bhima: Paundra | Yudhishthira: Anantavijaya | Nakula: Sughosha | Sahadeva: Manipushpaka",
+        "te": "శ్రీకృష్ణుడు: పాంచజన్యం | అర్జునుడు: దేవదత్తం | భీముడు: పౌండ్రం | యుధిష్ఠిరుడు: అనంతవిజయం | నకులుడు: సుఘోషం | సహదేవుడు: మణిపుష్పకం",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Krishna: Devadatta | Arjuna: Panchajanya | Bhima: Anantavijaya | Yudhishthira: Paundra | Nakula: Manipushpaka | Sahadeva: Sughosha",
+        "te": "శ్రీకృష్ణుడు: దేవదత్తం | అర్జునుడు: పాంచజన్యం | భీముడు: అనంతవిజయం | యుధిష్ఠిరుడు: పౌండ్రం | నకులుడు: మణిపుష్పకం | సహదేవుడు: సుఘోషం",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Krishna: Panchajanya | Arjuna: Anantavijaya | Bhima: Paundra | Yudhishthira: Devadatta | Nakula: Sughosha | Sahadeva: Manipushpaka",
+        "te": "శ్రీకృష్ణుడు: పాంచజన్యం | అర్జునుడు: అనంతవిజయం | భీముడు: పౌండ్రం | యుధిష్ఠిరుడు: దేవదత్తం | నకులుడు: సుఘోషం | సహదేవుడు: మణిపుష్పకం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Krishna: Manipushpaka | Arjuna: Devadatta | Bhima: Paundra | Yudhishthira: Anantavijaya | Nakula: Sughosha | Sahadeva: Panchajanya",
+        "te": "శ్రీకృష్ణుడు: మణిపుష్పకం | అర్జునుడు: దేవదత్తం | భీముడు: పౌండ్రం | యుధిష్ఠిరుడు: అనంతవిజయం | నకులుడు: సుఘోషం | సహదేవుడు: పాంచజన్యం",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The exact pairing across verses 1.15-1.16 is: Krishna (Panchajanya), Arjuna (Devadatta), Bhima (Paundra), Yudhishthira (Anantavijaya), Nakula (Sughosha), Sahadeva (Manipushpaka). — Bhagavad Gita (1.15-1.16)",
+      "te": "1.15-1.16 శ్లోకాలలోని సరైన జంటలు: శ్రీకృష్ణుడు (పాంచజన్యం), అర్జునుడు (దేవదత్తం), భీముడు (పౌండ్రం), యుధిష్ఠిరుడు (అనంతవిజయం), నకులుడు (సుఘోషం), సహదేవుడు (మణిపుష్పకం). — భగవద్గీత (1.15-1.16)"
+    }
+  },
+  {
+    "id": "bg-1-16-q5",
+    "verse": { "c": 1, "s": 16 },
+    "concept": ["Character Epithet - Rājā & Kuntīputraḥ"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which two titles are explicitly applied to Yudhishthira in verse 1.16 by Sanjaya?",
+      "te": "1.16 శ్లోకంలో సంజయుడు యుధిష్ఠిరునికి ఏ రెండు బిరుదులు/విశేషణాలను ప్రయోగించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Rājā (King / Rightful Monarch) and Kuntīputraḥ (Son of Kunti)",
+        "te": "రాజా (రాజు / ధర్మబద్ధమైన సార్వభౌముడు) మరియు కుంతీపుత్రః (కుంతీదేవి కుమారుడు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dharmarāja and Mahārathaḥ",
+        "te": "ధర్మరాజు మరియు మహారథుడు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Samitinjaya and Kuruvṛddhaḥ",
+        "te": "సమితింజయుడు మరియు కురువృద్ధుడు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Parameṣvāsa and Aparājita",
+        "te": "పరమేష్వాస మరియు అపరాజితుడు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Sanjaya explicitly refers to Yudhishthira as 'rājā kuntī-putro yudhiṣṭhiraḥ'. Calling him 'Rājā' acknowledges his righteous status as the legitimate king of Indraprastha/Hastinapur, contrasting with Duryodhana who grabbed power unlawfully. — Bhagavad Gita (1.16)",
+      "te": "సంజయుడు యుధిష్ఠిరుడిని 'రాజా కుంతీపుత్రో యుధిష్ఠిరః' అని సంబోధించాడు. ధర్మరాజును 'రాజా' అని పిలవడం ద్వారా అతడే నిజమైన ధర్మబద్ధమైన సార్వభౌముడని సంజయుడు ధృతరాష్ట్రునికి పరోక్షంగా గుర్తుచేస్తున్నాడు. — భగవద్గీత (1.16)"
+    }
+  },
+  {
+    "id": "bg-1-16-q6",
+    "verse": { "c": 1, "s": 16 },
+    "concept": ["Sanskrit Grammar - Dual Compound Construction"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What is the Sanskrit grammatical compound structure of 'sughoṣamaṇipuṣpakau' in verse 1.16?",
+      "te": "1.16 శ్లోకంలోని 'సుఘోషమణిపుష్పకౌ' అనే పదం యొక్క సంస్కృత వ్యాకరణ సమాస రూపం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Dvandva Samāsa in Dual Nominative case (linking the two conches Sughoṣa and Maṇipuṣpaka together)",
+        "te": "ద్వంద్వ సమాసము (ద్వివచన రూపం) — 'సుఘోషం చ మణిపుష్పకం చ = సుఘోషమణిపుష్పకౌ'",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Tatpuruṣa Samāsa in Singular Genitive case",
+        "te": "తత్పురుష సమాసము (ఏకవచన రూపం)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bahuvrīhi Samāsa describing a single chariot",
+        "te": "ఒకే రథాన్ని వర్ణించే బహువ్రీహి సమాసము",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avyayībhāva Samāsa denoting direction",
+        "te": "దిక్కును సూచించే అవ్యయీభావ సమాసము",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sughoṣa' + 'Maṇipuṣpaka' combined into the Dvandva compound 'Sughoṣa-maṇipuṣpakau' with the dual ending '-au', matching the subject 'Nakulaḥ Sahadevaśca' (the two brothers Nakula and Sahadeva). — Bhagavad Gita (1.16)",
+      "te": "'సుఘోషం' మరియు 'మణిపుష్పకం' అనే రెండు శంఖాలను కలిపి ద్వివచనంలో 'సుఘోషమణిపుష్పకౌ' అనే ద్వంద్వ సమాసంగా రూపొందించారు. ఇది కర్తలైన 'నకులః సహదేవశ్చ' అనే ఇద్దరితో సమానంగా వర్తిస్తుంది. — భగవద్గీత (1.16)"
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-44-q1",
+    "verse": { "c": 1, "s": 44 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.44?\n\n“utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana | niyataṃ narake vāso bhavatītyanuśuśruma”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“ఉత్సన్నకులధర్మాణాం మనుష్యాణాం జనార్దన | నియతం నరకే వాసో భవతీత్యనుశుశ్రుమ”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — O Janardana, we have heard from traditional scriptural wisdom that for those human beings whose family traditions are destroyed, dwelling in hell is guaranteed forever.",
+        "te": "అర్జునుడు పలికెను — ఓ జనార్దనా! వంశ ఆచారాలు/కులధర్మాలు నాశనమైన మనుష్యులకు నరకంలో నివాసం నిశ్చయమని మేము పరంపరాగత శాస్త్రాల ద్వారా విని ఉన్నాము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — O Janardana, those who defend their family through war are granted eternal residence in the heavenly planets.",
+        "te": "అర్జునుడు పలికెను — ఓ జనార్దనా! యుద్ధం ద్వారా తమ వంశాన్ని కాపాడుకునేవారు స్వర్గలోకాలలో శాశ్వత నివాసాన్ని పొందుతారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — O Janardana, scriptural scholars say that family traditions change naturally from age to age without incurring sin.",
+        "te": "అర్జునుడు పలికెను — ఓ జనార్దనా! యగయుగాలకూ కులధర్మాలు సహజంగానే మారుతుంటాయని, దానివల్ల పాపం కలగదని పండితులు చెబుతారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — O Janardana, let us perform penance in the forest so that our ancestors may be saved from hellish conditions.",
+        "te": "అర్జునుడు పలికెను — ఓ జనార్దనా! మన పూర్వీకులు నరక బాధల నుండి తప్పించుకోవడానికి మనం అడవులలో తపస్సు చేద్దాము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Utsanna-kula-dharmāṇāṃ manuṣyāṇāṃ janārdana / niyataṃ narake vāso bhavatīty anuśuśruma.\" Arjuna appeals to sacred tradition ('anuśuśruma' - 'we have heard continuously') to state that those who ruin family duties face an inevitable dwelling ('niyataṃ vāsaḥ') in hellish realms ('narake'). — Bhagavad Gita (1.44)",
+      "te": "కులధర్మాలు నాశనమైన మనుష్యులకు నరకవాసం నిశ్చయమని మేము పెద్దల ద్వారా, శాస్త్ర పరంపర ద్వారా విని ఉన్నాము ('అనుశుశ్రుమ') అని అర్జునుడు కృష్ణునికి వివరిస్తున్నాడు. — భగవద్గీత (1.44)"
+    }
+  },
+  {
+    "id": "bg-1-44-q2",
+    "verse": { "c": 1, "s": 44 },
+    "concept": ["Epistemological Authority - Anuśuśruma"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What source of authority does Arjuna rely upon when he uses the word 'anuśuśruma' in verse 1.44?",
+      "te": "1.44 శ్లోకంలో 'అనుశుశ్రుమ' అనే పదాన్ని ఉపయోగించినప్పుడు అర్జునుడు ఏ రకమైన ప్రమాణాన్ని/అధికారాన్ని ఆశ్రయించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Śruti/Amnaya — Traditional oral reception of scriptural wisdom passed down continuously through disciplic succession and sages.",
+        "te": "శ్రుతి/ఆమ్నాయము — గురుపరంపర మరియు మునుల ద్వారా తరతరాలుగా వింటూ వస్తున్న సనాతన శాస్త్ర ప్రమాణము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Personal speculation and logic developed on the battlefield.",
+        "te": "యుద్ధరంగంలో తనంతట తాను తయారుచేసుకున్న సొంత తర్కము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Political treaties drafted by King Dhritarashtra's ministers.",
+        "te": "ధృతరాష్ట్రుని మంత్రులు రూపొందించిన రాజకీయోప్పందాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Direct military intelligence reported by Pandava spies.",
+        "te": "పాండవ వేగుల ద్వారా లభించిన ప్రత్యక్ష సైనిక సమాచారము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Anuśuśruma' comes from 'anu' (following tradition) + 'śru' (to hear). In Vedic culture, higher truths were received via oral tradition (Śruti/Amnaya). Arjuna bases his fear not merely on emotion, but on the authoritative scriptural statements he learned from gurus and elders. — Bhagavad Gita (1.44)",
+      "te": "'అను' (పరంపరగా) + 'శ్రు' (వినుట) = అనుశుశ్రుమ (విని ఉన్నాము). వైదిక సంప్రదాయంలో వేద శాస్త్రజ్ఞానాన్ని వినడం ద్వారా పొందుతారు. తన వాదన కేవలం ఊహ కాదని, పెద్దల నుండి విని తెలుసుకున్న శాస్త్ర సత్యమని అర్జునుడు నిరూపిస్తున్నాడు. — భగవద్గీత (1.44)"
+    }
+  },
+  {
+    "id": "bg-1-44-q3",
+    "verse": { "c": 1, "s": 44 },
+    "concept": ["Sanskrit Vocabulary - Inevitable Hellish Residence"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit words 'niyataṃ' and 'vāsaḥ' mean in verse 1.44?",
+      "te": "1.44 శ్లోకంలోని 'నియతమ్' మరియు 'వాసః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Niyataṃ = Inevitable / Certain / Fixed; Vāsaḥ = Residence / Dwelling / Living.",
+        "te": "నియతమ్ = ఖచ్చితమైన / నిశ్చయమైన / నిరంతర; వాసః = నివాసము / వసతి చేయుట.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Niyataṃ = Temporary; Vāsaḥ = Clothing.",
+        "te": "నియతమ్ = తాత్కాలికమైన; వాసః = వస్త్రములు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Niyataṃ = Optional; Vāsaḥ = Victory.",
+        "te": "నియతమ్ = ఐచ్ఛికమైన; వాసః = విజయము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Niyataṃ = Heavenly; Vāsaḥ = Chariot.",
+        "te": "నియతమ్ = స్వర్గీయ; వాసః = రథము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Niyatam' means fixed, certain, or perpetual. 'Vāsaḥ' means residence/dwelling ('narake vāsaḥ' = living in hell). Arjuna emphasizes that the spiritual punishment for ruined family traditions is not a minor possibility, but a guaranteed outcome. — Bhagavad Gita (1.44)",
+      "te": "'నియతమ్' అనగా నిశ్చయము/తప్పనిసరి. 'వాసః' అనగా నివాసం ఉండటం ('నరకే వాసః' = నరకములో నివసించుట). కులధర్మాలు నశించినవారికి నరకప్రాప్తి నిశ్చయమని దీని భావం. — భగవద్గీత (1.44)"
+    }
+  },
+  {
+    "id": "bg-1-44-q4",
+    "verse": { "c": 1, "s": 44 },
+    "concept": ["Sanskrit Compound - Destroyed Family Traditions"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit compound 'utsanna-kula-dharmāṇām' mean in verse 1.44?",
+      "te": "1.44 శ్లోకంలోని 'ఉత్సన్నకులధర్మాణామ్' అనే సమాస పదం యొక్క శాబ్దిక అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Of those human beings whose family traditions and moral duties have been completely ruined / eradicated",
+        "te": "ఎవరి వంశముల యొక్క సనాతన ఆచారాలు/కులధర్మాలు సంపూర్ణంగా నశించిపోయాయో ఆ మనుష్యుల యొక్క",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Of those who perform grand royal sacrifices every year",
+        "te": "ఏటా గొప్ప రాజ యజ్ఞాలను ఆచరించే వారి యొక్క",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Of those who protect kingdom boundaries from foreign invaders",
+        "te": "విదేశీ దండయాత్రల నుండి రాజ్య సరిహద్దులను కాపాడేవారి యొక్క",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Of those who surrender their weapons on the battlefield",
+        "te": "యుద్ధరంగంలో తమ ఆయుధాలను విడిచిపెట్టేవారి యొక్క",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Utsanna' (ruined / eradicated) + 'kula' (family) + 'dharmāṇām' (of those possessing such duties - Genitive plural). It modifies 'manuṣyāṇām' ('of men whose family duties are ruined'). — Bhagavad Gita (1.44)",
+      "te": "'ఉత్సన్న' (నాశనమైన) + 'కుల' (వంశము యొక్క) + 'ధర్మాణామ్' (ధర్మాలు గలవారి యొక్క). 'మనుష్యాణామ్' అనే పదానికి ఇది విశేషణంగా ఉండి, 'కులధర్మాలు నాశనమైన మనుష్యుల యొక్క' అనే అర్థాన్ని ఇస్తుంది. — భగవద్గీత (1.44)"
+    }
+  },
+  {
+    "id": "bg-1-44-q5",
+    "verse": { "c": 1, "s": 44 },
+    "concept": ["Sanskrit Grammar - Compound Analysis 'Utsannakuladharmāṇām'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What type of Sanskrit compound (Samāsa) is 'utsannakuladharmāṇām' in verse 1.44?",
+      "te": "1.44 శ్లోకంలోని 'ఉత్సన్నకులధర్మాణామ్' అనేది ఏ రకమైన సంస్కృత సమాసము?"
+    },
+    "choices": [
+      {
+        "en": "Bahuvrīhi Samāsa (possessive compound: 'those whose family duties have been ruined') in Genitive Plural Masculine, modifying 'manuṣyāṇām'.",
+        "te": "బహువ్రీహి సమాసము ('ఉత్సన్నమైన కులధర్మాలు ఎవరికైతే ఉన్నాయో వారు' - షష్ఠీ బహువచన పుంలింగ రూపంలో 'మనుష్యాణామ్' ను విశేషిస్తోంది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dvandva Samāsa combining three separate nouns.",
+        "te": "మూడు వేర్వేరు నామవాచకాలను కలిపే ద్వంద్వ సమాసము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avyayībhāva Samāsa acting as an adverb.",
+        "te": "క్రియావిశేషణంగా పనిచేసే అవ్యయీభావ సమాసము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dvigu Samāsa starting with a numerical prefix.",
+        "te": "సంఖ్యావాచకంతో ప్రారంభమయ్యే ద్విగు సమాసము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Utsannāḥ kula-dharmāḥ yeṣāṃ te' = 'Utsanna-kula-dharmāṇaḥ'. In Genitive plural, it becomes 'utsanna-kula-dharmāṇām', modifying 'manuṣyāṇām' (Genitive plural of 'manuṣya'). Thus it is a classic Bahuvrīhi Samāsa. — Bhagavad Gita (1.44)",
+      "te": "'ఉత్సన్నాః కులధర్మాః యేషాం తే' = ఉత్సన్నకులధర్మాణః. దీని షష్ఠీ బహువచన రూపం 'ఉత్సన్నకులధర్మాణామ్'. ఇది 'మనుష్యాణామ్' అనే పదానికి విశేషణంగా ఉన్న బహువ్రీహి సమాసము. — భగవద్గీత (1.44)"
+    }
+  },
+  {
+    "id": "bg-1-44-q6",
+    "verse": { "c": 1, "s": 44 },
+    "concept": ["Sanskrit Grammar - Verb 'Bhavati' & Sandhi"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi compound 'bhavatītyanuśuśruma' at the end of verse 1.44:",
+      "te": "1.44 శ్లోకం చివర ఉన్న 'భవతీత్యనుశుశ్రుమ' అనే పదాన్ని విడదీసి సంధి స్వరూపాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Bhavati + iti + anuśuśruma (Savarna-dirgha Sandhi: bhavati + iti -> bhavatīti; Yan Sandhi: bhavatīti + anuśuśruma -> bhavatītyanuśuśruma)",
+        "te": "భవతి + ఇతి + అనుశుశ్రుమ (సవర్ణదీర్ఘ సంధి: భవతి + ఇతి -> భవతీతి; యణాదేశ సంధి: భవతీతి + అనుశుశ్రుమ -> భవతీత్యనుశుశ్రుమ)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Bhavat + iti + anuśuśruma",
+        "te": "భవత్ + ఇతి + అనుశుశ్రుమ",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bhavantu + iti + anuśuśruma",
+        "te": "భవంతు + ఇతి + అనుశుశ్రుమ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Bhavanti + iti + anuśuśruma",
+        "te": "భవంతి + ఇతి + అనుశుశ్రుమ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Bhavati' (it is / occurs) + 'iti' (thus): 'i' + 'i' merges into long 'ī' ('bhavatīti' via Savarna-dirgha Sandhi). Then 'bhavatīti' + 'anuśuśruma' (we have heard): 'ī' before vowel 'a' turns into 'y' ('bhavatīty-anuśuśruma' via Yan Sandhi). — Bhagavad Gita (1.44)",
+      "te": "'భవతి' + 'ఇతి' లలో సవర్ణదీర్ఘ సంధి ప్రకారం 'భవతీతి' అయినది. ఆపై 'భవతీతి' + 'అనుశుశ్రుమ' లలో యణాదేశ సంధి ప్రకారం పొల్లు 'త్' తర్వాత ఉన్న 'ఈ' కారం 'య్' గా మారి 'భవతీత్యనుశుశ్రుమ' గా సమకూరినది. — భగవద్గీత (1.44)"
+    }
+  }
+]

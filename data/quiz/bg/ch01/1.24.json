@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-24-q1",
+    "verse": { "c": 1, "s": 24 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.24?\n\n“evamukto hṛṣīkeśo guḍākeśena bhārata | senayorubhayormadhye sthāpayitvā rathottamam”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“ఏవముక్తో హృషీకేశో గుడాకేశేన భారత | సేనయోరుభయోర్మధ్యే స్థాపయిత్వా రథోత్తమమ్”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — O descendant of Bharata (Dhritarashtra), thus addressed by Arjuna (Guḍākeśa), Lord Krishna (Hṛṣīkeśa) positioned that magnificent chariot between both armies.",
+        "te": "సంజయుడు పలికెను — ఓ భరతవంశీయుడా (ధృతరాష్ట్ర మహారాజా), అర్జునునిచే (గుడాకేశునిచే) ఈ విధంగా చెప్పబడిన శ్రీకృష్ణుడు (హృషీకేశుడు), ఆ శ్రేష్ఠమైన రథాన్ని రెండు సైన్యాల మధ్యలో నిలిపాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — Having heard Arjuna's fear, Krishna turned the chariot back toward the Pandava camp to keep Arjuna safe.",
+        "te": "సంజయుడు పలికెను — అర్జునుని భయాన్ని విన్న కృష్ణుడు, అతడిని రక్షించడానికి రథాన్ని తిరిగి పాండవ శిబిరం వైపు తిప్పాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — Lord Krishna ignored Arjuna's request and charged directly into the heart of the Kaurava army.",
+        "te": "సంజయుడు పలికెను — అర్జునుని కోరికను నిర్లక్ష్యం చేసిన కృష్ణుడు, నేరుగా కౌరవ సైన్యం మధ్యలోకి రథాన్ని దూసుకెళ్లాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — Arjuna took the reins from Krishna and drove the chariot himself to the center of the field.",
+        "te": "సంజయుడు పలికెను — అర్జునుడు కృష్ణుడి నుండి కళ్ళెం తీసుకుని, తనే స్వయంగా రథాన్ని రణరంగం మధ్యలోకి నడిపించాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Evam ukto hṛṣīkeśo guḍākeśena bhārata / senayor ubhayor madhye sthāpayitvā rathottamam.\" Sanjaya informs Dhritarashtra that Krishna responded to Arjuna's request ('evam uktaḥ') by positioning the chariot ('sthāpayitvā') in the middle ('madhye') of the two armies. — Bhagavad Gita (1.24)",
+      "te": "అర్జునుడు అడిగినట్లుగానే శ్రీకృష్ణుడు ఆ దివ్య రథాన్ని రెండు సైన్యాల మధ్యలో నిలిపాడని సంజయుడు ధృతరాష్ట్రుడికి వివరిస్తున్నాడు. — భగవద్గీత (1.24)"
+    }
+  },
+  {
+    "id": "bg-1-24-q2",
+    "verse": { "c": 1, "s": 24 },
+    "concept": ["Name Analysis - Guḍākeśa"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Why is Arjuna referred to as 'Guḍākeśa' in verse 1.24? What is the profound symbolic meaning of this epithet?",
+      "te": "1.24 శ్లోకంలో అర్జునుడిని 'గుడాకేశః' అని ఎందుకు సంబోధించారు? ఈ పేరు వెనుక ఉన్న లోతైన అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Guḍākeśa = Conqueror of sleep (Guḍāka + Īśa). Symbolically, it means he has conquered ignorance and the darkness of delusion.",
+        "te": "గుడాకేశ = నిద్రను జయించినవాడు (గుడాక + ఈశ). సంకేతార్థంలో, ఇతడు అజ్ఞానాన్ని, మోహాన్ని జయించినవాడని అర్థం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Guḍākeśa = One who has matted hair like a sage.",
+        "te": "గుడాకేశ = రుషుల వలె జటాజూటము కలవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Guḍākeśa = One who was born during the night.",
+        "te": "గుడాకేశ = రాత్రి సమయంలో జన్మించినవాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Guḍākeśa = One who serves as a master of spy networks.",
+        "te": "గుడాకేశ = గూఢచారి వ్యవస్థకు అధిపతి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Guḍāka' (sleep) + 'īśa' (master). Arjuna earned this title because of his intense focus, having controlled his need for sleep during his rigorous military training. Symbolically, a Guḍākeśa is a spiritual warrior who is alert and never falls into the slumber of ignorance (Māyā). — Bhagavad Gita (1.24)",
+      "te": "'గుడాక' (నిద్ర) + 'ఈశ' (ప్రభువు). నిద్రను జయించి నిరంతరం అప్రమత్తంగా ఉండేవాడు అని అర్థం. భక్తి మార్గంలో అజ్ఞానమనే నిద్రను జయించినవాడు అని దీనికి ఆధ్యాత్మిక అర్థం. — భగవద్గీత (1.24)"
+    }
+  },
+  {
+    "id": "bg-1-24-q3",
+    "verse": { "c": 1, "s": 24 },
+    "concept": ["Name Analysis - Hṛṣīkeśa"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What is the spiritual significance of the name 'Hṛṣīkeśa' applied to Lord Krishna in verse 1.24?",
+      "te": "1.24 శ్లోకంలో శ్రీకృష్ణుడికి వాడబడిన 'హృషీకేశః' అనే నామం యొక్క ఆధ్యాత్మిక ప్రాముఖ్యత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Lord of the Senses (Controller of the senses of all beings); He is guiding Arjuna's senses and chariot to the exact right position.",
+        "te": "సర్వేంద్రియాలకు ప్రభువు (అన్ని జీవుల ఇంద్రియాలను నియంత్రించేవాడు); అర్జునుని ఇంద్రియాలను, రథాన్ని సరైన మార్గంలో నడిపిస్తున్నవాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "One who was born in the family of herdsmen.",
+        "te": "గొల్లల వంశంలో జన్మించినవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "One who likes the fragrance of lotus flowers.",
+        "te": "తామర పువ్వుల సువాసనను ఇష్టపడేవాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "One who creates the illusory world of time.",
+        "te": "కాలమనే మాయా ప్రపంచాన్ని సృష్టించేవాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Hṛṣīka' (senses) + 'īśa' (lord). Calling Krishna 'Hṛṣīkeśa' here reminds us that although He appears to be a mere charioteer, He is actually the inner controller of every soul's senses, including Arjuna's. — Bhagavad Gita (1.24)",
+      "te": "'హృషీక' (ఇంద్రియములు) + 'ఈశ' (ప్రభువు). రథసారథిగా కనిపిస్తున్న కృష్ణుడు, అర్జునుని ఇంద్రియాలను, రథాన్ని ఎలా నడిపాలో తెలిసిన సర్వేశ్వరుడని 'హృషీకేశ' నామం సూచిస్తుంది. — భగవద్గీత (1.24)"
+    }
+  },
+  {
+    "id": "bg-1-24-q4",
+    "verse": { "c": 1, "s": 24 },
+    "concept": ["Narrative Role - Addressee (Bhārata)"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Whom is Sanjaya addressing as 'Bhārata' at the end of verse 1.24?",
+      "te": "1.24 శ్లోకంలో 'భారత' అని సంజయుడు ఎవరిని ఉద్దేశించి పిలుస్తున్నాడు?"
+    },
+    "choices": [
+      {
+        "en": "King Dhritarashtra (a descendant of the Bharata dynasty)",
+        "te": "ధృతరాష్ట్ర మహారాజును (భరత వంశంలో జన్మించినవాడు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna",
+        "te": "అర్జునుడిని",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Duryodhana",
+        "te": "దుర్యోధనుడిని",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Bhishma",
+        "te": "భీష్ముడిని",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Sanjaya addresses his master Dhritarashtra as 'Bhārata' to remind the blind King of his glorious lineage, even as the events unfolding on the battlefield threaten to destroy that very dynasty. — Bhagavad Gita (1.24)",
+      "te": "సంజయుడు తన ప్రభువైన ధృతరాష్ట్రుడిని 'భారత' అని సంబోధించాడు. తన వంశ గౌరవాన్ని, పవిత్రతను గుర్తుచేయడమే దీని వెనుక ఉన్న ఉద్దేశం. — భగవద్గీత (1.24)"
+    }
+  },
+  {
+    "id": "bg-1-24-q5",
+    "verse": { "c": 1, "s": 24 },
+    "concept": ["Sanskrit Vocabulary - Chariot"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which Sanskrit term in verse 1.24 describes the chariot as 'the best' or 'most magnificent'?",
+      "te": "1.24 శ్లోకంలో రథాన్ని 'అత్యుత్తమమైనది' లేదా 'అత్యంత వైభవోపేతమైనది' అని వర్ణించే పదం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Rathottamam",
+        "te": "రథోత్తమమ్",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Senayormadhye",
+        "te": "సేనయోర్మధ్యే",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sthāpayitvā",
+        "te": "స్థాపయిత్వా",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Guḍākeśena",
+        "te": "గుడాకేశేన",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Ratha' (chariot) + 'uttamam' (best/excellent). 'Rathottamam' signifies that the vehicle used by Krishna and Arjuna was no ordinary carriage; it was a divine asset. — Bhagavad Gita (1.24)",
+      "te": "'రథ' + 'ఉత్తమమ్' (శ్రేష్ఠమైనది). కృష్ణార్జునులు ఉపయోగిస్తున్న ఈ రథం సామాన్యమైనది కాదని, అది అత్యంత వైభవోపేతమైనదని ఇది సూచిస్తుంది. — భగవద్గీత (1.24)"
+    }
+  },
+  {
+    "id": "bg-1-24-q6",
+    "verse": { "c": 1, "s": 24 },
+    "concept": ["Action Analysis - Sthāpayitvā"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What is the grammatical construction of 'sthāpayitvā' in verse 1.24?",
+      "te": "1.24 శ్లోకంలోని 'స్థాపయిత్వా' అనే పదానికి ఉన్న వ్యాకరణ నిర్మాణం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Absolutive (Ktva-pratyaya) meaning 'having placed / having stationed'",
+        "te": "క్త్వా ప్రత్యయాంత రూపం (పూర్వకాలిక క్రియ) — 'స్థాపించి / ఉంచి'",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Present participle meaning 'placing currently'",
+        "te": "వర్తమానకాల విశేషణ రూపం — 'స్థాపిస్తున్న'",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Imperative verb meaning 'go place it'",
+        "te": "ఆజ్ఞార్థక క్రియ — 'వెళ్లి అక్కడ ఉంచు'",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Passive verb meaning 'was placed by him'",
+        "te": "కర్మణి వాక్యం — 'అతనిచే నిలపబడింది'",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sthāpayitvā' is an Absolutive (gerund) of the causal verb 'sthāpaya' (to cause to stand). It indicates a sequence of actions: Krishna having heard Arjuna, then positioned the chariot. — Bhagavad Gita (1.24)",
+      "te": "'స్థాపయిత్వా' అనేది క్త్వా ప్రత్యయాంత రూపం. ఒక క్రియ జరిగిన తర్వాత మరొక క్రియ జరిగిందని ఇది తెలుపుతుంది. అంటే అర్జునుని మాట విని, ఆ తర్వాత కృష్ణుడు రథాన్ని నిలిపాడు. — భగవద్గీత (1.24)"
+    }
+  }
+]

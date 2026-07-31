@@ -1,0 +1,338 @@
+[
+  {
+    "id": "bg-1-6-q1",
+    "verse": { "c": 1, "s": 6 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.6?\n\n“yudhāmanyuśca vikrānta uttamaujāśca vīryavān | saubhadro draupadeyāśca sarva eva mahārathāḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యుధామన్యుశ్చ విక్రాంత ఉత్తమౌజాశ్చ వీర్యవాన్ | సౌభద్రో ద్రౌపదేయాశ్చ సర్వ ఏవ మహారథాః”"
+    },
+    "choices": [
+      {
+        "en": "Duryodhana said — The heroic Yudhamanyu, the powerful Uttamauja, Subhadra’s son (Abhimanyu), and the sons of Draupadi — all of them are indeed great chariot-warriors (Maharathas).",
+        "te": "దుర్యోధనుడు పలికెను — పరాక్రమవంతుడైన యుధామన్యుడు, వీర్యవంతుడైన ఉత్తమౌజుడు, సుభద్ర కుమారుడైన అభిమన్యుడు మరియు ద్రౌపది కుమారులు — వీరందరూ నిశ్చయముగా మహారథులే.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Duryodhana said — Bhishma, Drona, Karna, and Kripa are the supreme commanders protecting our frontlines.",
+        "te": "దుర్యోధనుడు పలికెను — భీష్ముడు, ద్రోణుడు, కర్ణుడు, మరియు కృపుడు మా ముందువరుసను రక్షించే ప్రధాన సేనాపతులు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — Seeing these young heroes advance, Dronacharya prepared his army for a defensive stance.",
+        "te": "సంజయుడు పలికెను — ఈ యువ వీరులు ముందుకు రావడం చూసి, ద్రోణాచార్యుడు తన సైన్యాన్ని రక్షణాత్మక వ్యూహంలో నిలిపాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — Behold the young princes of Panchala and Hastinapur arrayed for combat.",
+        "te": "అర్జునుడు పలికెను — యుద్ధానికి సిద్ధమైన పాంచాల, హస్తినాపుర యువరాజులను చూడండి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Yudhāmanyuśca vikrānta uttamaujāśca vīryavān / saubhadro draupadeyāśca sarva eva mahārathāḥ.\" Duryodhana concludes his review of the enemy lineup by pointing out Yudhamanyu, Uttamauja, Abhimanyu, and Draupadi's five sons, emphasizing that every single one of them holds the rank of Maharatha. — Bhagavad Gita (1.6)",
+      "te": "\"యుధామన్యుశ్చ విక్రాంత ఉత్తమౌజాశ్చ వీర్యవాన్ / సౌభద్రో ద్రౌపదేయాశ్చ సర్వ ఏవ మహారథాః.\" పాండవ సైన్యంలోని ప్రముఖ వీరులను లెక్కిస్తూ, యుధామన్యుడు, ఉత్తమౌజుడు, అభిమన్యుడు, ద్రౌపది కుమారులు అందరూ 'మహారథులే' అని దుర్యోధనుడు ద్రోణుడికి వివరిస్తున్నాడు. — భగవద్గీత (1.6)"
+    }
+  },
+  {
+    "id": "bg-1-6-q2",
+    "verse": { "c": 1, "s": 6 },
+    "concept": ["Character Identification - Yudhamanyu & Uttamauja"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Who were Yudhamanyu ('vikrāntaḥ') and Uttamauja ('vīryavān') and what crucial military duty were they assigned on the battlefield?",
+      "te": "1.6 శ్లోకంలో ప్రస్తావించబడిన యుధామన్యుడు మరియు ఉత్తమౌజుడు ఎవరు? యుద్ధరంగంలో వారికి అప్పగించబడిన ప్రధాన బాధ్యత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Princes of Panchala appointed specifically as the personal chariot-wheel protectors (Chakrarakshaka) of Arjuna",
+        "te": "పాంచాల దేశపు యువరాజులు; వీరు అర్జునుని రథ చక్రాలను రక్షించే 'చక్రరక్షకులు'గా బాధ్యత వహించారు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Commanders of King Yudhishthira's personal bodyguard unit",
+        "te": "యుధిష్ఠిర మహారాజు వ్యక్తిగత అంగరక్షక దళానికి సేనాపతులు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Yadava chieftains guarding the supplies and treasury of the Pandavas",
+        "te": "పాండవుల యుద్ధ సామగ్రిని, ఖజానాను రక్షించే యాదవ నాయకులు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Brothers of King Virata leading the Matsya army division",
+        "te": "విరాట రాజు సోదరులు మరియు మత్స్య సైనిక విభాగానికి నాయకులు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Yudhamanyu and Uttamauja were brave Panchala princes. Throughout the Mahabharata war, they served as the dedicated 'Chakrarakshakas' (guardians of the left and right chariot wheels) for Arjuna to protect him from side-flanking attacks. — Bhagavad Gita (1.6)",
+      "te": "యుధామన్యుడు, ఉత్తమౌజుడు పాంచాల రాజకుమారులు. వీరు యుద్ధంలో అర్జునుని రథానికి ఇరువైపులా చక్రాలను రక్షించే 'చక్రరక్షకులు'గా విశేష బాధ్యత నిర్వహించారు. — భగవద్గీత (1.6)"
+    }
+  },
+  {
+    "id": "bg-1-6-q3",
+    "verse": { "c": 1, "s": 6 },
+    "concept": ["Character Identification - Saubhadra (Abhimanyu)"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Who is referred to by the matronymic epithet 'Saubhadraḥ' in verse 1.6?",
+      "te": "1.6 శ్లోకంలో 'సౌభద్రః' అనే తల్లి పేరు ఆధారిత పదం ద్వారా ఎవరిని సంబోధించారు?"
+    },
+    "choices": [
+      {
+        "en": "Abhimanyu (son of Subhadra and Arjuna)",
+        "te": "అభిమన్యుడు (సుభద్ర మరియు అర్జునుల కుమారుడు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Iravan (son of Ulupi and Arjuna)",
+        "te": "ఇరావాన్ (ఉలూపి మరియు అర్జునుల కుమారుడు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Babruvahana (son of Chitrangada and Arjuna)",
+        "te": "బభ్రువాహనుడు (చిత్రాంగద మరియు అర్జునుల కుమారుడు)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Ghatotkacha (son of Hidimbi and Bhima)",
+        "te": "ఘటోత్కచుడు (హిడింబి మరియు భీముల కుమారుడు)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Saubhadraḥ' means 'the son of Subhadra', which refers to Abhimanyu. Even as a youth, Abhimanyu was recognized as a formidable Maharatha who had learned military tactics while in his mother's womb and under Krishna and Arjuna. — Bhagavad Gita (1.6)",
+      "te": "'సౌభద్రః' అనగా సుభద్రా దేవి కుమారుడైన 'అభిమన్యుడు'. చిన్న వయస్సులోనే మహారథుడిగా గుర్తింపు పొంది శ్రీకృష్ణార్జునుల మార్గదర్శకత్వంలో గొప్ప వీరుడిగా ఎదిగాడు. — భగవద్గీత (1.6)"
+    }
+  },
+  {
+    "id": "bg-1-6-q4",
+    "verse": { "c": 1, "s": 6 },
+    "concept": ["Character Identification - Draupadeyas (Upapandavas)"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Who are the 'Draupadeyāḥ' mentioned in verse 1.6?",
+      "te": "1.6 శ్లోకంలో పేర్కొనబడిన 'ద్రౌపదేయాః' ఎవరు?"
+    },
+    "choices": [
+      {
+        "en": "The five Upapandavas (sons born to Draupadi from each of the five Pandava brothers)",
+        "te": "ఐదుగురు ఉపపాండవులు (పాండవ సోదరులు ఐదుగురికి ద్రౌపది వలన జన్మించిన ఐదుగురు కుమారులు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The brothers of Draupadi led by Dhrishtadyumna",
+        "te": "ధృష్టద్యుమ్నుని నాయకత్వంలోని ద్రౌపది సోదరులు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The maiden attendants guarding Draupadi's quarters",
+        "te": "ద్రౌపదికి సేవచేసే పరిచారికల బృందం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The grandsons of King Drupada born to Shikhandi",
+        "te": "శిఖండికి జన్మించిన ద్రుపద మహారాజు మనుమళ్ళు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Draupadeyāḥ' refers to the five Upapandavas born to Draupadi: Prativindhya (by Yudhishthira), Sutasoma (by Bhima), Srutakirti (by Arjuna), Satanika (by Nakula), and Srutasena (by Sahadeva). — Bhagavad Gita (1.6)",
+      "te": "'ద్రౌపదేయాః' అనగా ఐదుగురు ఉపపాండవులు: ప్రతివింధ్యుడు (యుధిష్ఠిరుని కుమారుడు), సుతసోముడు (భీముని కుమారుడు), శ్రుతకీర్తి (అర్జునుని కుమారుడు), శతానీకుడు (నకులుని కుమారుడు), శ్రుతసేనుడు (సహదేవుని కుమారుడు). — భగవద్గీత (1.6)"
+    }
+  },
+  {
+    "id": "bg-1-6-q5",
+    "verse": { "c": 1, "s": 6 },
+    "concept": ["Sanskrit Vocabulary & Collective Classification"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "What does the phrase 'sarva eva mahārathāḥ' at the end of verse 1.6 signify about the Pandava army?",
+      "te": "1.6 శ్లోకం ముగింపులో ఉన్న 'సర్వ ఏవ మహారథాః' అనే పదం పాండవ సైన్యం గురించి ఏమి తెలియజేస్తోంది?"
+    },
+    "choices": [
+      {
+        "en": "Every single named warrior listed in verses 1.4 to 1.6 holds the supreme rank of a Maharatha combat master.",
+        "te": "1.4 నుండి 1.6 శ్లోకాల వరకు పేర్కొనబడిన ప్రతి ఒక్క వీరుడు 'మహారథుడు' అనే అత్యున్నత సైనిక హోదా కలిగిన సమర్థుడే.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Only a few selected leaders were qualified to ride war chariots.",
+        "te": "కొద్దిమంది ఎంపిక చేసిన నాయకులు మాత్రమే యుద్ధ రథాలు ఎక్కడానికి అర్హులు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The warriors had all agreed to retreat if their chariots were damaged.",
+        "te": "రథాలు దెబ్బతింటే వీరులందరూ యుద్ధం నుండి తప్పుకోవడానికి అంగీకరించారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The warriors were relying solely on chariot drivers rather than their own skills.",
+        "te": "వీరులు తమ సొంత నైపుణ్యం కంటే కేవలం రథసారథులపైనే ఆధారపడ్డారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "By declaring 'sarva eva mahārathāḥ' (all of them are indeed Maharathas), Duryodhana emphasizes to Drona that the Pandava forces are not just large in number, but every chief warrior named is a master capable of fighting 10,000 archers simultaneously. — Bhagavad Gita (1.6)",
+      "te": "'సర్వ ఏవ మహారథాః' (వీరందరూ నిశ్చయముగా మహారథులే) అని చెప్పడం ద్వారా పాండవ సైన్యంలో ఉన్న ప్రతి నాయకుడు 10,000 మందితో ఒంటరిగా పోరాడగల మహారథుడని దుర్యోధనుడు అంగీకరిస్తున్నాడు. — భగవద్గీత (1.6)"
+    }
+  },
+  {
+    "id": "bg-1-6-q6",
+    "verse": { "c": 1, "s": 6 },
+    "concept": ["Sanskrit Vocabulary - Qualifiers"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Which two specific adjectives are used in verse 1.6 to describe the heroic qualities of Yudhamanyu and Uttamauja?",
+      "te": "1.6 శ్లోకంలో యుధామన్యుడు మరియు ఉత్తమౌజుల పరాక్రమాన్ని వర్ణించడానికి వాడిన రెండు విశేషణ పదాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Vikrāntaḥ (heroic / courageous) and Vīryavān (valiant / powerful)",
+        "te": "విక్రాంతః (పరాక్రమవంతుడైన) మరియు వీర్యవాన్ (వీర్యము/బలము కలిగిన)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dhīmatā (intelligent) and Mahārathaḥ (great fighter)",
+        "te": "ధీమతా (బుద్ధిమంతుడు) మరియు మహారథః (మహారథుడు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Maheṣvāsaḥ (great archer) and Narapuṅgavaḥ (best among men)",
+        "te": "మహేష్వాసః (గొప్ప విలుకాడు) మరియు నరపుంగవః (పురుషశ్రేష్ఠుడు)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yuyutsuḥ (eager for battle) and Samavetaḥ (assembled)",
+        "te": "యుయుత్సుః (యుద్ధ కాంక్ష గల) మరియు సమవేతః (సమకూడిన)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In verse 1.6, Duryodhana uses 'vikrāntaḥ' (valiant/heroic) for Yudhamanyu and 'vīryavān' (powerful/mighty) for Uttamauja. — Bhagavad Gita (1.6)",
+      "te": "1.6 శ్లోకంలో యుధామన్యుడిని 'విక్రాంతః' (పరాక్రమశాలి) అని, ఉత్తమౌజుడిని 'వీర్యవాన్' (అపార బలశాలి) అని వర్ణించారు. — భగవద్గీత (1.6)"
+    }
+  },
+  {
+    "id": "bg-1-6-q7",
+    "verse": { "c": 1, "s": 7 },
+    "concept": ["Psychological Shift in Speech"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "What psychological transition occurs in Duryodhana's dialogue after listing the Pandava heroes up to verse 1.6?",
+      "te": "1.6 శ్లోకం వరకు పాండవ వీరులను లెక్కించిన తర్వాత, దుర్యోధనుని సంభాషణలో ఏ రకమైన మానసిక మార్పు కనిపిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "Having described the daunting strength of the Pandava lineup, he shifts to listing his own Kaurava commanders in verse 1.7 to boost his confidence and reassure his teacher.",
+        "te": "పాండవ సైన్యపు భయంకరమైన బలాన్ని వర్ణించిన తర్వాత, తనలోని ఆందోళనను తగ్గించుకోవడానికి, గురువుకు ధైర్యం చెప్పడానికి 1.7 శ్లోకం నుండి తన కౌరవ పక్ష వీరులను లెక్కించడం ప్రారంభిస్తాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "He completely loses morale and asks Dronacharya to negotiate an immediate surrender.",
+        "te": "అతడు ధైర్యం పూర్తిగా కోల్పోయి వెంటనే లొంగిపోయేలా సంప్రదింపులు జరపమని ద్రోణాచార్యుడిని కోరుతాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "He orders his armies to attack the Pandavas immediately without waiting for Bhishma.",
+        "te": "భీష్ముని ఆదేశాల కోసం చూడకుండా వెంటనే పాండవులపై దాడి చేయమని సైన్యాన్ని ఆజ్ఞాపిస్తాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "He turns to Sanjaya and asks for a prophecy regarding who will survive the battle.",
+        "te": "సంజయుడి వైపు తిరిగి ఈ యుద్ధంలో ఎవరు బ్రతుకుతారో భవిష్యత్తు చెప్పమని అడుగుతాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verses 1.4-1.6 focused on the formidable Pandava warriors, which raised Duryodhana's anxiety. Thus, starting in verse 1.7 ('Asmākaṃ tu viśiṣṭā ye...'), he pivots to boasting about the distinguished commanders on his own Kaurava side to restore his confidence. — Bhagavad Gita (1.6-1.7)",
+      "te": "1.4-1.6 శ్లోకాలలో పాండవ వీరుల అపార బలాన్ని చెప్పిన దుర్యోధనుడికి లోలోపల భయం కలిగింది. అందుకే 1.7 శ్లోకం నుండి ('అస్మాకం తు విశిష్టా యే...') తన వైపు ఉన్న మహావీరులను లెక్కిస్తూ ధైర్యాన్ని కూడగట్టుకోవడానికి ప్రయత్నిస్తాడు. — భగవద్గీత (1.6-1.7)"
+    }
+  },
+  {
+    "id": "bg-1-6-q8",
+    "verse": { "c": 1, "s": 6 },
+    "concept": ["Generational & Lineage Significance"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Why is the mention of 'Saubhadra' (Abhimanyu) and 'Draupadeya' (Upapandavas) in verse 1.6 strategically significant regarding the future of the Kurus?",
+      "te": "1.6 శ్లోకంలో 'సౌభద్రుడు' (అభిమన్యుడు) మరియు 'ద్రౌపదేయుల' (ఉపపాండవులు) ప్రస్తావన కురు వంశ భవిష్యత్తు దృష్టియా ఎందుకు వ్యూహాత్మకంగా ప్రాముఖ్యత కలిగినది?"
+    },
+    "choices": [
+      {
+        "en": "It shows that the second generation of Pandava princes were already fully trained Maharathas, securing the continuity and military strength of the Pandava lineage.",
+        "te": "పాండవుల రెండవ తరం యువరాజులు కూడా అప్పుడే పరిపూర్ణమైన 'మహారథులు'గా తయారయ్యారని, ఇది పాండవ వంశ భవిష్యత్తుకు మరియు సైనిక బలానికి అభయం ఇస్తుందని ఇది నిరూపిస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It indicates that the older Pandava brothers were too fragile to fight and handed their weapons to their children.",
+        "te": "పెద్దవారైన పాండవులు యుద్ధం చేయలేక తమ ఆయుధాలను పిల్లలకు అప్పగించారని ఇది చూపుతోంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It proves that Duryodhana had already successfully negotiated alliances with the sons of Draupadi.",
+        "te": "ద్రౌపది కుమారులతో దుర్యోధనుడు అప్పటికే రహస్య ఒప్పందం కుదుర్చుకున్నాడని ఇది రుజువు చేస్తోంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It signifies that Krishna refused to train the younger generation of warriors.",
+        "te": "తరువాతి తరం వీరులకు శిక్షణ ఇవ్వడానికి శ్రీకృష్ణుడు నిరాకరించాడని ఇది సూచిస్తుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "By highlighting Abhimanyu and the five Upapandavas as Maharathas, verse 1.6 underscores that the Pandavas possessed not only proven veteran heroes but also an exceptionally formidable second generation of royal warriors ready to carry forward the battle for Dharma. — Bhagavad Gita (1.6)",
+      "te": "అభిమన్యుడు మరియు ఐదుగురు ఉపపాండవులు మహారథులుగా అమరడం పాండవ పక్షాన ఉన్న యువ రక్తం మరియు భవిష్యత్ తరం పరాక్రమాన్ని తెలియజేస్తోంది. — భగవద్గీత (1.6)"
+    }
+  }
+]

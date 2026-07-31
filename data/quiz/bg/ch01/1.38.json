@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-38-q1",
+    "verse": { "c": 1, "s": 38 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.38?\n\n“yadyapyete na paśyanti lobhopahatacetasaḥ | kulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యద్యప్యేతే న పశ్యంతి లోభోపహతచేతసః | కులక్షయకృతం దోషం మిత్రద్రోహే చ పాతకమ్”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — Even if these Kauravas, whose minds are blinded by greed, see no evil in destroying a family line or sin in betrayal of friends...",
+        "te": "అర్జునుడు పలికెను — దురాశ (లోభము) చేత వివేకాన్ని కోల్పోయిన మనస్సు గల ఈ కౌరవులు వంశాన్ని నాశనం చేయడం వల్ల కలిగే దోషాన్ని, మిత్రద్రోహం వల్ల కలిగే పాపాన్ని చూడలేకపోయినప్పటికీ...",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — Although we see great virtue in defeating our enemies, greed prevents them from recognizing our superior strength.",
+        "te": "అర్జునుడు పలికెను — శత్రువులను ఓడించడంలో గొప్ప పుణ్యం ఉందని మనం భావిస్తున్నప్పటికీ, వారి దురాశ మన అసలైన బలాన్ని గుర్తించకుండా నిరోధిస్తోంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — Since King Dhritarashtra has offered us half the kingdom out of greed, we should accept it to prevent war.",
+        "te": "అర్జునుడు పలికెను — ధృతరాష్ట్ర మహారాజు లోభంతో మనకు సగం రాజ్యాన్ని ఇస్తానన్నాడు కాబట్టి, యుద్ధాన్ని నివారించడానికి మనం దానిని స్వీకరించాలి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — Those who destroy a family out of duty earn divine rewards and are praised by sages.",
+        "te": "అర్జునుడు పలికెను — ధర్మం కోసం వంశాన్ని నాశనం చేసేవారు దివ్యమైన పుణ్యఫలాలను పొంది, మునులచే ప్రశంసించబడతారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Yady apy ete na paśyanti lobhopahata-cetasaḥ / kula-kṣaya-kṛtaṃ doṣaṃ mitra-drohe ca pātakam.\" Arjuna observes that greed has blinded the Kauravas to the massive moral guilt of family destruction ('kula-kṣaya') and betrayal of friends ('mitra-droha'). — Bhagavad Gita (1.38)",
+      "te": "పేరాశ వల్ల కౌరవుల బుద్ధి నశించింది. అందువల్ల వారు కులాన్ని (వంశాన్ని) నాశనం చేయడం వల్ల వచ్చే దోషాన్ని గానీ, మిత్ర ద్రోహం వల్ల ప్రాప్తించే పాతకాన్ని గానీ గుర్తించలేకపోతున్నారని అర్జునుడు వివరిస్తున్నాడు. — భగవద్గీత (1.38)"
+    }
+  },
+  {
+    "id": "bg-1-38-q2",
+    "verse": { "c": 1, "s": 38 },
+    "concept": ["Psychological Diagnosis - Blinded by Greed"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit compound 'lobhopahatacetasaḥ' mean in verse 1.38, and to whom does Arjuna apply it?",
+      "te": "1.38 శ్లోకంలోని 'లోభోపహతచేతసః' అనే సమాసానికి అర్థం ఏమిటి? అర్జునుడు దీనిని ఎవరిని ఉద్దేశించి ఉపయోగించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Those whose minds/intellects are overwhelmed and blinded by greed; applied to Duryodhana and the Kauravas.",
+        "te": "దురాశ (లోభము) చేత దెబ్బతిన్న / వివేకాన్ని కోల్పోయిన మనస్సు గలవారు; దుర్యోధనుడు మరియు కౌరవులను ఉద్దేశించి చెప్పినది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Those who have renounced all material desires; applied to the Pandavas.",
+        "te": "లౌకిక కోరికలన్నింటినీ త్యజించిన ఉత్తములు; పాండవులను ఉద్దేశించి చెప్పినది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Those who are expert in military strategies; applied to Bhishma and Drona.",
+        "te": "యుద్ధ వ్యూహాలలో ఆరితేరిన నిపుణులు; భీష్మ ద్రోణులను ఉద్దేశించి చెప్పినది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Those who serve as peaceful envoys; applied to Sanjaya and Krishna.",
+        "te": "శాంతి రాయబారులుగా పనిచేసేవారు; సంజయ కృష్ణులను ఉద్దేశించి చెప్పినది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Lobha' (greed for kingdom/wealth) + 'upahata' (overwhelmed / struck down / blinded) + 'cetasaḥ' (those whose consciousness/minds are). It diagnoses why the Kauravas are recklessly pushing for war despite the obvious moral catastrophe. — Bhagavad Gita (1.38)",
+      "te": "'లోభ' (దురాశ) + 'ఉపహత' (దెబ్బతిన్న/నశించిన) + 'చేతసః' (మనస్సు గలవారు). రాజ్యంపై ఉన్న దురాశ వల్ల కౌరవుల వివేకం నశించింది, అందుకే వారు రాబోయే వినాశనాన్ని చూడలేకపోతున్నారని అర్జునుని విశ్లేషణ. — భగవద్గీత (1.38)"
+    }
+  },
+  {
+    "id": "bg-1-38-q3",
+    "verse": { "c": 1, "s": 38 },
+    "concept": ["Ethical Violations - Family Destruction & Treason"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which two major moral crimes does Arjuna identify in verse 1.38?",
+      "te": "1.38 శ్లోకంలో అర్జునుడు స్పష్టంగా ఎత్తిచూపిన రెండు ప్రధాన నైతిక నేరాలు/దోషాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "1. Kula-kṣaya-kṛtaṃ doṣam (The crime of destroying a family line), 2. Mitra-drohe ca pātakam (The severe sin of betrayal/treason against friends)",
+        "te": "1. కులక్షయకృతం దోషమ్ (వంశాన్ని నాశనం చేయడం వల్ల కలిగే దోషము), 2. మిత్రద్రోహే చ పాతకమ్ (ఆప్తమిత్రులకు ద్రోహం చేయడం వల్ల కలిగే పాపము)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1. Theft of royal jewels, 2. Insulting Vedic priests",
+        "te": "1. రాజ ఆభరణాలను దొంగిలించడం, 2. వేద పండితులను అవమానించడం",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1. Breaking a vow of celibacy, 2. Abandoning weapons on the battlefield",
+        "te": "1. బ్రహ్మచర్య వ్రతాన్ని ఉల్లంఘించడం, 2. రణరంగంలో ఆయుధాలను విడిచిపెట్టడం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1. Failing to conduct daily rituals, 2. Eating food during an eclipse",
+        "te": "1. నిత్యకర్మలను ఆచరించకపోవడం, 2. గ్రహణ సమయంలో భోజనం చేయడం",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna isolates two grave sins: 'kula-kṣaya-kṛtaṃ doṣam' (the stain caused by ruining the family lineage and its traditions) and 'mitra-drohe pātakam' (the heinous sin of breaking faith with trusted allies and friends). — Bhagavad Gita (1.38)",
+      "te": "రెండు ప్రధాన పాపాలను అర్జునుడు పేర్కొన్నాడు: 1. కులక్షయ దోషం (వంశాన్ని మారణహోమం చేయడం), 2. మిత్రద్రోహ పాతకం (నమ్మిన మిత్రులకు, స్నేహితులకు ద్రోహం చేయడం). — భగవద్గీత (1.38)"
+    }
+  },
+  {
+    "id": "bg-1-38-q4",
+    "verse": { "c": 1, "s": 38 },
+    "concept": ["Sanskrit Vocabulary - Crimes & Sins"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit terms 'doṣam' and 'pātakam' mean in verse 1.38?",
+      "te": "1.38 శ్లోకంలోని 'దోషమ్' మరియు 'పాతకమ్' అనే పదాల శాబ్దిక అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Doṣam = Crime / Defect / Moral fault; Pātakam = Heinous sin / Degenerative crime that causes one to fall.",
+        "te": "దోషమ్ = నేరము / తప్పు / నైతిక లోపము; పాతకమ్ = మహాపాపము / మనిషిని ఆధ్యాత్మికంగా పతనం చేసే ఘోరమైన చర్య.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Doṣam = Victory; Pātakam = Defeat.",
+        "te": "దోషమ్ = విజయము; పాతకమ్ = అపజయము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Doṣam = Wealth; Pātakam = Poverty.",
+        "te": "దోషమ్ = సంపద; పాతకమ్ = పేదరికము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Doṣam = Knowledge; Pātakam = Ignorance.",
+        "te": "దోషమ్ = జ్ఞానము; పాతకమ్ = అజ్ఞానము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Doṣa' means a fault, flaw, or moral blemish. 'Pātaka' derives from root 'pat' (to fall down), denoting a grievous sin that causes a person's spiritual downfall. — Bhagavad Gita (1.38)",
+      "te": "'దోషం' అనగా తప్పు లేదా నైతిక లోపం. 'పాతకం' అనేది 'పత్' (కింద పడిపోవు) అనే ధాతువు నుండి వచ్చింది; అంటే మనిషిని ఆధ్యాత్మిక పతనానికి గురిచేసే మహాపాపం అని అర్థం. — భగవద్గీత (1.38)"
+    }
+  },
+  {
+    "id": "bg-1-38-q5",
+    "verse": { "c": 1, "s": 38 },
+    "concept": ["Sanskrit Grammar - Compound Analysis 'Lobhopahata-cetasaḥ'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What type of Sanskrit compound (Samāsa) is 'lobhopahatacetasaḥ' in verse 1.38?",
+      "te": "1.38 శ్లోకంలోని 'లోభోపహతచేతసః' అనేది ఏ రకమైన సంస్కృత సమాసము?"
+    },
+    "choices": [
+      {
+        "en": "Bahuvrīhi Samāsa (a possessive compound modifying 'ete' / the Kauravas: 'those whose minds are struck down by greed').",
+        "te": "బహువ్రీహి సమాసము ('లోభము చేత ఉపహతమైన చేతస్సు గలవారు ఎవరైతే ఉన్నారో వారు' - కౌరవులను విశేషించే సమాసం).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dvandva Samāsa (a copulative compound).",
+        "te": "ద్వంద్వ సమాసము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avyayībhāva Samāsa (an adverbial compound).",
+        "te": "అవ్యయీభావ సమాసము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dvigu Samāsa (a numerical compound).",
+        "te": "ద్విగు సమాసము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Lobhena upahatam ceto yeṣāṃ te' = 'Lobhopahatacetasaḥ'. Because the compound refers to third-person entities ('ete' / Kauravas) possessing this mental condition, it is a classic Bahuvrīhi Samāsa in Nominative Plural Masculine. — Bhagavad Gita (1.38)",
+      "te": "'లోభేన ఉపహతం చేతో యేషాం తే' = లోభోపహతచేతసః. అన్యపదార్థ ప్రాధాన్యత కలిగి కౌరవులను ('ఏతే') సూచిస్తోంది కాబట్టి ఇది ప్రథమా బహువచన పుంలింగ బహువ్రీహి సమాసము. — భగవద్గీత (1.38)"
+    }
+  },
+  {
+    "id": "bg-1-38-q6",
+    "verse": { "c": 1, "s": 38 },
+    "concept": ["Structural & Syntactic Connection - Verse 1.38 to 1.39"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "How does verse 1.38 connect grammatically and logically to verse 1.39?",
+      "te": "1.38 శ్లోకం వ్యాకరణపరంగా మరియు తార్కికంగా 1.39 శ్లోకంతో ఏ విధంగా అనుసంధానించబడి ఉంది?"
+    },
+    "choices": [
+      {
+        "en": "Verse 1.38 sets up a conditional clause with 'yadi api' ('even though they do not see...'), which is completed in verse 1.39 by 'kathaṃ na jñeyam asmābhiḥ' ('why should we not have the wisdom to turn back?').",
+        "te": "1.38 శ్లోకం 'యద్యపి' (వారు చూడలేకపోయినప్పటికీ...) అనే షరతుతో కూడిన పూర్వవాక్యాన్ని ప్రతిపాదిస్తే, 1.39 శ్లోకం 'కథం న జ్ఞేయమస్మాభిః' (జ్ఞానం ఉన్న మనం ఎందుకు వైదొలగకూడదు?) అనే ఉత్తరవాక్యంతో పూర్తి చేస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Verse 1.38 describes the Pandava army, while verse 1.39 describes the Yadava kingdom.",
+        "te": "1.38 శ్లోకం పాండవ సైన్యాన్ని వర్ణిస్తే, 1.39 శ్లోకం యాదవ రాజ్యాన్ని వర్ణిస్తుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Verse 1.38 is spoken by Arjuna, while verse 1.39 is a direct response spoken by Krishna.",
+        "te": "1.38 శ్లోకాన్ని అర్జునుడు చెప్పగా, 1.39 శ్లోకం కృష్ణుడు ఇచ్చిన ప్రత్యుత్తరం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Verse 1.38 is a command, while verse 1.39 is a prayer.",
+        "te": "1.38 శ్లోకం ఒక ఆజ్ఞ అయితే, 1.39 శ్లోకం ఒక ప్రార్థన.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verses 1.38 and 1.39 form a single complex sentence. 1.38 presents the protasis: 'Yady api ete na paśyanti...' ('Even if these Kauravas do not see...'), and 1.39 presents the apodosis: 'Kathaṃ na jñeyam asmābhiḥ nivartitum...' ('Why should we, who clearly see the crime, not learn to turn away?'). — Bhagavad Gita (1.38-1.39)",
+      "te": "1.38 మరియు 1.39 శ్లోకాలు రెండూ కలిపి ఒకే సంక్లిష్ట వాక్యం. 1.38 శ్లోకంలో 'వారు (కౌరవులు) అజ్ఞానంతో చూడలేకపోయినా...' అని ప్రారంభించి, 1.39 శ్లోకంలో 'జ్ఞానం ఉన్న మనం ఈ పాపం నుండి ఎందుకు తప్పుకోకూడదు?' అని సమాధానం ముగిస్తారు. — భగవద్గీత (1.38-1.39)"
+    }
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "bg-1-5-q6",
+    "verse": { "c": 1, "s": 5 },
+    "concept": ["Character Identification - Chekitana"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "In verse 1.5, Chekitana is listed among the Pandava commanders. Which clan did he belong to?",
+      "te": "1.5 శ్లోకంలో ప్రస్తావించబడిన చేకితానుడు (Chekitana) ఏ వంశానికి చెందిన యాదవ వీరుడు?"
+    },
+    "choices": [
+      {
+        "en": "Vrishni / Yadava clan (ally of Lord Krishna)",
+        "te": "వృష్ణీ / యాదవ వంశం (శ్రీకృష్ణుని యాదవ పక్షం)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kuru clan",
+        "te": "కురు వంశం",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Panchala clan",
+        "te": "పాంచాల వంశం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Matsya clan",
+        "te": "మత్స్య వంశం",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Chekitana was a fierce warrior from the Vrishni (Yadava) dynasty who chose to fight on the side of the Pandavas along with Satyaki. — Bhagavad Gita (1.5)",
+      "te": "చేకితానుడు వృష్ణీ (యాదవ) వంశానికి చెందిన పరాక్రమవంతుడైన యోధుడు. సాత్యకితో పాటు ఇతడు కూడా పాండవుల పక్షాన పోరాడాడు. — భగవద్గీత (1.5)"
+    }
+  },
+  {
+    "id": "bg-1-5-q7",
+    "verse": { "c": 1, "s": 5 },
+    "concept": ["Character Identification - Purujit"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "In verse 1.5, who was Purujit in relation to Kuntibhoja and the Pandavas?",
+      "te": "1.5 శ్లోకంలో ప్రస్తావించబడిన పురుజిత్తు (Purujit) కుంతిభోజునికి మరియు పాండవులకు ఏమవుతాడు?"
+    },
+    "choices": [
+      {
+        "en": "Brother of Kuntibhoja and maternal uncle to the elder Pandavas",
+        "te": "కుంతిభోజుని సోదరుడు మరియు కుంతీదేవి వైపు నుండి పాండవులకు మేనమామ",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Son of Kuntibhoja and cousin to the Pandavas",
+        "te": "కుంతిభోజుని కుమారుడు మరియు పాండవులకు బావమరిది",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Commander of the Chedi army",
+        "te": "చేది రాజ్యపు సైన్యాధ్యక్షుడు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "King of Magadha",
+        "te": "మగధ రాజ్యపు అధిపతి",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Purujit was the brother of King Kuntibhoja. Both brothers were maternal uncles to Yudhisthira, Bhima, and Arjuna, and brought their forces to support the Pandavas. — Bhagavad Gita (1.5)",
+      "te": "పురుజిత్తు కుంతిభోజ మహారాజు సోదరుడు. వీరిద్దరూ కుంతీదేవి సోదరులుగా పాండవులకు మేనమామల వరస అవుతారు. — భగవద్గీత (1.5)"
+    }
+  },
+  {
+    "id": "bg-1-5-q8",
+    "verse": { "c": 1, "s": 5 },
+    "concept": ["Character Identification - Shaibya"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Who was Shaibya ('narapuṅgavaḥ') mentioned in verse 1.5 in relation to King Yudhishthira?",
+      "te": "1.5 శ్లోకంలో 'నరపుంగవః' అని కీర్తించబడిన శైబ్యుడు (Shaibya) యుధిష్ఠిరునికి (ధర్మరాజుకు) ఏ సంబంధం కలిగి ఉన్నాడు?"
+    },
+    "choices": [
+      {
+        "en": "Father-in-law of Yudhishthira (father of Devika) and ruler of the Shibis",
+        "te": "శిబి దేశాధిపతి మరియు యుధిష్ఠిరుని మామగారు (దేవిక తండ్రి)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Charioteer of Bhima",
+        "te": "భీముని రథసారథి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Grandfather of Nakula and Sahadeva",
+        "te": "నకుల సహదేవుల తాతగారు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Brother of Dronacharya",
+        "te": "ద్రోణాచార్యుని సోదరుడు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Shaibya was the King of the Shibi tribe and father of Devika (one of Yudhishthira's wives). He was renowned as a mighty warrior ('narapuṅgavaḥ'). — Bhagavad Gita (1.5)",
+      "te": "శైబ్యుడు శిబి దేశ మహారాజు మరియు యుధిష్ఠిరుని భార్య అయిన దేవికకు తండ్రి. ఇతడు మహా వీరుడైనందున 'నరపుంగవః' అని పిలవబడ్డాడు. — భగవద్గీత (1.5)"
+    }
+  },
+  {
+    "id": "bg-1-5-q9",
+    "verse": { "c": 1, "s": 5 },
+    "concept": ["Character Identification - Kashiraja"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Why was the King of Kashi ('kāśirājaḥ') considered a formidable opponent by Duryodhana in verse 1.5?",
+      "te": "1.5 శ్లోకంలో కాశిరాజును ('కాశీరాజః') దుర్యోధనుడు ఎందుకు భయంకరమైన శత్రువుగా పరిగణించాడు?"
+    },
+    "choices": [
+      {
+        "en": "He was exceptionally skilled in archery and close combat, leading a powerful division from Kashi",
+        "te": "ఇతడు విలువిద్యలో, ద్వంద్వ యుద్ధంలో అత్యంత నైపుణ్యం కలిగి కాశీ రాజ్యపు మహా సైన్యానికి నాయకత్వం వహించాడు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "He possessed mystic weapons given directly by Lord Shiva",
+        "te": "పరమశివుడు స్వయంగా ఇచ్చిన దివ్యాస్త్రాలు ఇతని వద్ద ఉన్నాయి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "He was the supreme commander of the entire Pandava army",
+        "te": "ఇతడే పాండవ సైన్యానికంతటికీ ప్రధాన సేనాధిపతి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "He was the teacher who taught Bhishma the art of warfare",
+        "te": "భీష్మునికి యుద్ధవిద్య నేర్పించిన గురువు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The King of Kashi (Kashiraja) was famous in Mahabharata for his supreme archery and physical prowess ('vīryavān'). — Bhagavad Gita (1.5)",
+      "te": "కాశీరాజు విలువిద్యలోను, శారీరక పరాక్రమంలోను ('వీర్యవాన్') మహాభారత యుద్ధంలో గొప్ప పేరుగాంచిన వీరుడు. — భగవద్గీత (1.5)"
+    }
+  }
+]

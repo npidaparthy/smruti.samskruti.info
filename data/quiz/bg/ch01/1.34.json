@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-34-q1",
+    "verse": { "c": 1, "s": 34 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.34?\n\n“mātulāḥ śvaśurāḥ pautrāḥ syālāḥ sambandhinastathā”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“మాతులాః శ్వశురాః పౌత్రాః స్యాలాః సంబంధినస్తథా”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — (Standing here are also) maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other close relatives as well.",
+        "te": "అర్జునుడు పలికెను — (ఇక్కడ యుద్ధంలో నిలిచి ఉన్నవారిలో) మేనమామలు, మామగార్లు, మనుమళ్ళు, బావమరుదులు మరియు ఇతర రకాల బంధువులు కూడా ఉన్నారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — All these maternal uncles, fathers-in-law, and brothers-in-law have abandoned Duryodhana to join our side.",
+        "te": "అర్జునుడు పలికెను — ఈ మేనమామలు, మామగార్లు, బావమరుదులు అందరూ దుర్యోధనుడిని విడిచిపెట్టి మన వైపు చేరారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — Seeing our maternal uncles and brothers-in-law, Lord Krishna urged us to launch an immediate assault.",
+        "te": "అర్జునుడు పలికెను — మన మేనమామలను, బావమరుదులను చూసి, వెంటనే దాడి చేయమని శ్రీకృష్ణుడు మనలను ప్రోత్సహించాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — Our in-laws and relatives have sent peace messengers to negotiate an end to the war.",
+        "te": "అర్జునుడు పలికెను — యుద్ధాన్ని విరమించడానికి సంప్రదింపులు జరపాలని మన సంబంధీకులు, బంధువులు రాయబారులను పంపారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Mātulāḥ śvaśurāḥ pautrāḥ syālāḥ sambandhinas tathā.\" Continuing his list from verse 1.33, Arjuna identifies the remaining personal connections arrayed for battle: maternal uncles, in-laws, grandsons, brothers-in-law, and general kinsmen. — Bhagavad Gita (1.34)",
+      "te": "1.33 శ్లోకంలోని బంధువుల జాబితాను కొనసాగిస్తూ, రణరంగంలో నిలిచిన ఇతర ఆప్తులైన మేనమామలు, మామగార్లు, మనుమళ్ళు, బావమరుదులు, ఇతర సంబంధీకులను అర్జునుడు స్పష్టంగా గుర్తుచేస్తున్నాడు. — భగవద్గీత (1.34)"
+    }
+  },
+  {
+    "id": "bg-1-34-q2",
+    "verse": { "c": 1, "s": 34 },
+    "concept": ["Kinship Classification - Affinal & Extended Relations"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Match the Sanskrit family terms listed in verse 1.34 with their correct English equivalents:",
+      "te": "1.34 శ్లోకంలోని సంస్కృత బంధుత్వ పదాలను వాటి సరైన అర్థాలతో జతపరచండి:"
+    },
+    "choices": [
+      {
+        "en": "Mātulāḥ (maternal uncles), Śvaśurāḥ (fathers-in-law), Pautrāḥ (grandsons), Syālāḥ (brothers-in-law), Sambandhinaḥ (relatives/kinsmen)",
+        "te": "మాతులాః (మేనమామలు), శ్వశురాః (మామగార్లు), పౌత్రాః (మనుమళ్ళు), స్యాలాః (బావమరుదులు), సంబంధినః (ఇతర బంధువులు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mātulāḥ (brothers), Śvaśurāḥ (sons), Pautrāḥ (teachers), Syālāḥ (grandfathers), Sambandhinaḥ (friends)",
+        "te": "మాతులాః (సోదరులు), శ్వశురాః (కుమారులు), పౌత్రాః (గురువులు), స్యాలాః (తాతలు), సంబంధినః (మిత్రులు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Mātulāḥ (grandfathers), Śvaśurāḥ (teachers), Pautrāḥ (brothers), Syālāḥ (sons), Sambandhinaḥ (enemies)",
+        "te": "మాతులాః (తాతలు), శ్వశురాః (గురువులు), పౌత్రాః (సోదరులు), స్యాలాః (కుమారులు), సంబంధినః (శత్రువులు)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Mātulāḥ (fathers), Śvaśurāḥ (grandsons), Pautrāḥ (in-laws), Syālāḥ (uncles), Sambandhinaḥ (kings)",
+        "te": "మాతులాః (తండ్రులు), శ్వశురాః (మనుమళ్ళు), పౌత్రాః (మామగార్లు), స్యాలాః (పినతండ్రులు), సంబంధినః (రాజులు)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verse 1.34 specifically targets in-law and extended family ties: Mātulāḥ (maternal uncles like Shalya and Shakuni), Śvaśurāḥ (fathers-in-law like Drupada and Virata), Pautrāḥ (grandsons like Lakshmana), Syālāḥ (brothers-in-law like Drishtadyumna or Jayadratha), and Sambandhinaḥ (other related in-laws). — Bhagavad Gita (1.34)",
+      "te": "1.34 శ్లోకంలో బంధుత్వాలను వర్గీకరించారు: మాతులాః (శల్య శకుని వంటి మేనమామలు), శ్వశురాః (ద్రుపద విరాటుల వంటి మామగార్లు), పౌత్రాః (లక్ష్మణుని వంటి మనుమళ్ళు), స్యాలాః (ధృష్టద్యుమ్న జయద్రథుల వంటి బావమరుదులు), సంబంధినః (ఇతర బంధువులు). — భగవద్గీత (1.34)"
+    }
+  },
+  {
+    "id": "bg-1-34-q3",
+    "verse": { "c": 1, "s": 34 },
+    "concept": ["Sanskrit Vocabulary - Brother-in-Law"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What is the specific meaning of the Sanskrit word 'syālāḥ' in verse 1.34?",
+      "te": "1.34 శ్లోకంలోని 'స్యాలాః' అనే సంస్కృత పదానికి ఖచ్చితమైన అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Brothers-in-law (wife's brothers or sister's husbands)",
+        "te": "బావమరుదులు (భార్య సోదరులు లేదా సోదరి భర్తలు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Step-brothers born of a different mother",
+        "te": "వేరొక తల్లికి జన్మించిన సవతి సోదరులు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Royal bodyguards protecting the king",
+        "te": "రాజును రక్షించే రాజ అంగరక్షకులు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Eldest sons of kings",
+        "te": "రాజుల జ్యేష్ఠ పుత్రులు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Syāla' (nominative plural 'syālāḥ') specifically means brothers-in-law. On the battlefield, this included Arjuna's brothers-in-law such as Dhrishtadyumna (Draupadi's brother) on his side, and Jayadratha (Duhsala's husband) on the Kaurava side. — Bhagavad Gita (1.34)",
+      "te": "'స్యాలాః' అనగా బావమరుదులు అని అర్థం. ద్రౌపది సోదరుడైన ధృష్టద్యుమ్నుడు పాండవ పక్షాన ఉండగా, దుశ్శల భర్తయైన జయద్రథుడు కౌరవ పక్షాన ఉన్నాడు. — భగవద్గీత (1.34)"
+    }
+  },
+  {
+    "id": "bg-1-34-q4",
+    "verse": { "c": 1, "s": 34 },
+    "concept": ["Sanskrit Vocabulary - General Relatives"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit term 'sambandhinaḥ' denote in verse 1.34?",
+      "te": "1.34 శ్లోకంలోని 'సంబంధినః' అనే పదం దేనిని సూచిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "Relatives bound by marriage, alliance, or lineage",
+        "te": "వైవాహిక, రక్త లేదా వంశపారంపర్య సంబంధాలు కలిగిన బంధువులు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mercenaries hired for gold",
+        "te": "ధనం కోసం యుద్ధానికి వచ్చిన జీతగాళ్ళు/కూలి సైనికులు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Charioteers and horse handlers",
+        "te": "రథసారథులు మరియు గుర్రాల పెంపకందారులు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Feudal vassal kings paying tribute",
+        "te": "కప్పం చెల్లించే సామంత రాజులు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sambandhin' (nominative plural 'sambandhinaḥ') comes from 'sam' + 'bandh' (to bind together). It serves as a catch-all term for all other kin connected through marriage alliances across various kingdoms. — Bhagavad Gita (1.34)",
+      "te": "'సంబంధినః' అనే పదం 'సంబంధిన్' అనే శబ్దానికి ప్రథమా బహువచనం. వివాహ సంబంధాల ద్వారా, వియ్యం ద్వారా ముడిపడిన ఇతర బంధువులందరినీ ఇది సూచిస్తుంది. — భగవద్గీత (1.34)"
+    }
+  },
+  {
+    "id": "bg-1-34-q5",
+    "verse": { "c": 1, "s": 34 },
+    "concept": ["Syntactic Continuity - Link with Verse 1.33 & 1.35"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "How does verse 1.34 function grammatically within Arjuna's speech spanning verses 1.33 to 1.35?",
+      "te": "1.33 నుండి 1.35 శ్లోకాల వరకు సాగే అర్జునుని ప్రసంగంలో 1.34 శ్లోకం వ్యాకరణపరంగా ఏ విధమైన పాత్రను వహిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "It functions as a nominal continuation of the subject list begun in 1.33 ('ācāryāḥ pitaraḥ...'), leading directly to the verb phrase 'etān na hantum icchāmi' in verse 1.35.",
+        "te": "ఇది 1.33 శ్లోకంలో ప్రారంభమైన కర్తపదాల జాబితాకు ('ఆచార్యాః పితరః...') పొడిగింపుగా నిలుస్తూ, 1.35 శ్లోకంలోని 'ఏతాన్ న హన్తుమ్ ఇచ్ఛామి' (వీరిని సంహరించడానికి నేను కోరుకోవడం లేదు) అనే క్రియకు అనుసంధానమవుతుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It is an independent sentence declaring immediate surrender.",
+        "te": "ఇది తక్షణ లొంగుబాటును ప్రకటించే స్వతంత్రమైన వాక్యం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It functions as a prayer addressed directly to Bhishma.",
+        "te": "ఇది నేరుగా భీష్ముడికి అర్పించే ప్రార్థనా వాక్యం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It is a verse spoken by Sanjaya to explain army movements.",
+        "te": "సైనిక కదలికలను వివరించడానికి సంజయుడు చెప్పిన శ్లోకం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verses 1.33, 1.34, and 1.35 form one continuous sentence (Ekanvaya). Verses 1.33–1.34 list all the subjects in nominative plural (teachers, fathers, sons, uncles, in-laws, brothers-in-law), and verse 1.35 provides the main verb: 'etān na hantum icchāmi' ('I do not wish to kill these'). — Bhagavad Gita (1.34)",
+      "te": "1.33, 1.34, 1.35 శ్లోకాలు మూడూ కలిపి ఒకే ఒక్క మహావాక్యం (ఏకాన్వయం). 1.33-1.34 లలో బంధువుల నామవాచక బహువచన జాబితాను చెప్పి, 1.35 లో 'ఏతాన్ న హన్తుమ్ ఇచ్ఛామి' (వీరిని చంపడానికి నేను ఇచ్చగించను) అనే ప్రధాన క్రియను పూర్తి చేశారు. — భగవద్గీత (1.34)"
+    }
+  },
+  {
+    "id": "bg-1-34-q6",
+    "verse": { "c": 1, "s": 34 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi compound 'sambandhinastathā' at the end of verse 1.34:",
+      "te": "1.34 శ్లోకం చివర ఉన్న 'సంబంధినస్తథా' అనే పదాన్ని విడదీసి సంధి నియమాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Sambandhinaḥ + tathā (Visarga converts to 's' before unvoiced dental 't' by Visarga Sattva Sandhi)",
+        "te": "సంబంధినః + తథా (విసర్గ సత్త్వ సంధి ప్రకారం శ్వాస పరుషమైన 'త' కారం ముందు విసర్గ 'స' కారంగా మారినది)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sambandhina + tathā",
+        "te": "సంబంధిన + తథా",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sambandhinām + tathā",
+        "te": "సంబంధినామ్ + తథా",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sambandhiḥ + tathā",
+        "te": "సంబంధిః + తథా",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sambandhinaḥ' (nominative plural) + 'tathā' (as well / also). Under Visarga Sandhi, when a visarga is followed by dental consonant 'ta', the visarga changes to Sakāra ('s'), yielding 'sambandhinastathā'. — Bhagavad Gita (1.34)",
+      "te": "'సంబంధినః' (ప్రథమా బహువచనం) + 'తథా' (అలాగే). విసర్గ సంధి నియమం ప్రకారం విసర్గ తర్వాత దంత్య వ్యంజనం 'త' వచ్చినప్పుడు, విసర్గ 'స' కారంగా మారి 'సంబంధినస్తథా' అయినది. — భగవద్గీత (1.34)"
+    }
+  }
+]

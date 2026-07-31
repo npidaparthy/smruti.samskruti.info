@@ -1,0 +1,338 @@
+[
+  {
+    "id": "bg-1-8-q1",
+    "verse": { "c": 1, "s": 8 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.8?\n\n“bhavān bhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ | aśvatthāmā vikarṇaśca saumadattistathaiva ca”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“భవాన్ భీష్మశ్చ కర్ణశ్చ కృపశ్చ సమితింజయః | అశ్వత్థామా వికర్ణశ్చ సౌమదత్తిస్తథైవ చ”"
+    },
+    "choices": [
+      {
+        "en": "Duryodhana said — Yourself (Drona), Bhishma, Karna, and Kripa who is ever victorious in battle; Ashwatthama, Vikarna, and also the son of Somadatta (Bhurisrava).",
+        "te": "దుర్యోధనుడు పలికెను — తమరు (ద్రోణాచార్యులు), భీష్ముడు, కర్ణుడు, యుద్ధవిజేతయైన కృపాచార్యుడు, అశ్వత్థామ, వికర్ణుడు మరియు సోమదత్తుని కుమారుడైన భూరిశ్రవుడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Duryodhana said — Bhishma and Drona together lead our eleven Akshauhini divisions against the Pandavas.",
+        "te": "దుర్యోధనుడు పలికెను — భీష్మ ద్రోణులు ఇద్దరూ కలిసి పాండవులకు విరుద్ధంగా మన పదకొండు అక్షౌహిణుల సైన్యానికి నాయకత్వం వహిస్తున్నారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — Having named his main generals, Duryodhana requested Kripacharya to blow his conch shell.",
+        "te": "సంజయుడు పలికెను — తన ముఖ్య సేనాపతుల పేర్లను చెప్పిన తర్వాత, దుర్యోధనుడు తన శంఖాన్ని పూరించమని కృపాచార్యుడిని కోరాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dronacharya said — Behold these invincible warriors gathered to defend the Kaurava kingdom.",
+        "te": "ద్రోణాచార్యుడు పలికెను — కౌరవ రాజ్యాన్ని రక్షించడానికి సమకూడిన ఈ అజేయ వీరులను చూడండి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Bhavān bhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ / aśvatthāmā vikarṇaśca saumadattis tathaiva ca.\" Duryodhana names the chief pillars of the Kaurava army to Dronacharya, addressing Drona first as 'Bhavān' (Yourself), followed by Bhishma, Karna, Kripa, Ashwatthama, Vikarna, and Bhurisrava. — Bhagavad Gita (1.8)",
+      "te": "\"భవాన్ భీష్మశ్చ కర్ణశ్చ కృపశ్చ సమితింజయః / అశ్వత్థామా వికర్ణశ్చ సౌమదత్తిస్తథైవ చ.\" ద్రోణాచార్యునితో మాట్లాడేటప్పుడు దుర్యోధనుడు మొదటగా ద్రోణుడిని 'భవాన్' (తమరు) అని సంబోధిస్తూ, భీష్ముడు, కర్ణుడు, కృపుడు, అశ్వత్థామ, వికర్ణుడు, భూరిశ్రవుల పేర్లను వరసగా ప్రకటిస్తాడు. — భగవద్గీత (1.8)"
+    }
+  },
+  {
+    "id": "bg-1-8-q2",
+    "verse": { "c": 1, "s": 8 },
+    "concept": ["Psychological Ordering & Direct Address - Drona & Bhishma"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Why does Duryodhana place 'Bhavān' (referring to Drona) before Grandfather Bhishma ('Bhīṣmaḥ') in verse 1.8?",
+      "te": "1.8 శ్లోకంలో సైన్యాధ్యక్షుడైన భీష్మునికంటే ('భీష్మః') ముందుగా ద్రోణాచార్యుడిని ('భవాన్') దుర్యోధనుడు ఎందుకు ప్రస్తావించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Out of diplomatic etiquette because he was standing right in front of Dronacharya, aiming to flatter and keep him engaged.",
+        "te": "తాను నేరుగా ద్రోణాచార్యుని ముందే నిలబడి మాట్లాడుతున్నందున, రాజనీతి ప్రవర్తనతో గురువును ప్రీతిపరచి ఉత్సాహపరచడానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because Dronacharya was elder in age to Bhishma.",
+        "te": "ద్రోణాచార్యుడు వయస్సులో భీష్మునికంటే పెద్దవాడు కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because Bhishma had refused to accept the position of supreme commander.",
+        "te": "సైన్యాధ్యక్ష పదవిని స్వీకరించడానికి భీష్ముడు నిరాకరించడం వల్ల.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "To announce that Dronacharya was chosen as the sole king of Hastinapur.",
+        "te": "ద్రోణాచార్యుడినే హస్తినాపురానికి ఏకైక రాజుగా ప్రకటించడానికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Although Bhishma was the Supreme Commander (Senapati) of the Kaurava army, Duryodhana addresses Drona first as 'Bhavān' (Your Reverence) out of diplomatic tact and psychological manipulation, as he was speaking directly to Drona. — Bhagavad Gita (1.8)",
+      "te": "కౌరవ సైన్యానికి భీష్ముడు ప్రధాన సేనాధిపతి అయినప్పటికీ, దుర్యోధనుడు ద్రోణాచార్యుడి ముందే నిలబడి మాట్లాడుతున్నందున ఆయన్ను 'భవాన్' (తమరు) అని మొదట సంబోధించడం అతని రాజకీయ చతురతను సూచిస్తుంది. — భగవద్గీత (1.8)"
+    }
+  },
+  {
+    "id": "bg-1-8-q3",
+    "verse": { "c": 1, "s": 8 },
+    "concept": ["Character Analysis - Karna"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "What is the strategic irony behind Duryodhana proudly listing Karna ('Karṇaḥ') in verse 1.8 at the start of the war?",
+      "te": "యుద్ధ ప్రారంభంలో 1.8 శ్లోకంలో కర్ణుని ('కర్ణః') పేరును దుర్యోధనుడు గర్వంగా చెప్పడం వెనుక ఉన్న వ్యూహాత్మక విచిత్రం (irony) ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Karna had vowed not to fight as long as Bhishma was alive and commanding the army, making him unavailable at that moment.",
+        "te": "భీష్ముడు జీవించి ఉన్నంత కాలం లేదా సేనాధిపతిగా ఉన్నంతవరకు తాను ఆయుధం పట్టనని కర్ణుడు ప్రతిజ్ఞ చేయడం వల్ల, ఆ సమయంలో అతడు యుద్ధంలో పాల్గొనలేకపోయాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Karna had already defected to the Pandava side before verse 1.8.",
+        "te": "1.8 శ్లోకానికంటే ముందే కర్ణుడు పాండవుల వైపు వెళ్లిపోయాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Karna was stripped of his Maharatha status by Dronacharya.",
+        "te": "ద్రోణాచార్యుడు కర్ణుని మహారథ హోదా నుండి తొలగించాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Karna refused to fight unless he was given command over Drona.",
+        "te": "ద్రోణునిపై అధికారం ఇస్తేనే యుద్ధం చేస్తానని కర్ణుడు షరతు పెట్టాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Duryodhana lists Karna as a main champion, yet Karna was actually sidelined due to a personal clash with Bhishma: Karna pledged not to enter the battlefield until Bhishma fell. — Bhagavad Gita (1.8)",
+      "te": "దుర్యోధనుడు కర్ణుడిని ప్రధాన వీరుడిగా చెప్పుకున్నప్పటికీ, భీష్ముడితో ఉన్న విభేదాల వల్ల భీష్ముడు పడిపోయే వరకు తాను యుద్ధంలో అడుగుపెట్టనని కర్ణుడు శపథం చేసి దూరంగా ఉన్నాడు. — భగవద్గీత (1.8)"
+    }
+  },
+  {
+    "id": "bg-1-8-q4",
+    "verse": { "c": 1, "s": 8 },
+    "concept": ["Character Analysis & Epithets - Kripacharya"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Which specific title/epithet is given to Kripacharya ('Kṛpaḥ') in verse 1.8, and what does it signify?",
+      "te": "1.8 శ్లోకంలో కృపాచార్యునికి ('కృపః') ఇవ్వబడిన ప్రత్యేక విశేషణం ఏమిటి? దాని అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Samitiñjayaḥ — Ever victorious in battle / conqueror of assemblies and wars",
+        "te": "సమితింజయః — యుద్ధములలో లేదా సభలలో ఎల్లప్పుడూ విజయము పొందువాడు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dvijottama — Foremost among Brahmins",
+        "te": "ద్విజోత్తమ — బ్రాహ్మణులలో శ్రేష్ఠుడు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Mahārathaḥ — Great chariot warrior",
+        "te": "మహారథః — మహారథుడైన వీరుడు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vikrāntaḥ — Courageous and heroic",
+        "te": "విక్రాంతః — పరాక్రమవంతుడైన",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Samitiñjayaḥ' comes from 'samiti' (battle/assembly) + 'ji' (to conquer). Kripacharya, an immortal Chiranjivi, is highlighted for his undefeated record in combat. — Bhagavad Gita (1.8)",
+      "te": "'సమితింజయః' అనగా యుద్ధాలలో ఎల్లప్పుడూ విజయాన్ని సాధించేవాడు అని అర్థం ('సమితి' + 'జి'). చిరంజీవియైన కృపాచార్యుని అజేయమైన యుద్ధనైపుణ్యాన్ని ఇది సూచిస్తుంది. — భగవద్గీత (1.8)"
+    }
+  },
+  {
+    "id": "bg-1-8-q5",
+    "verse": { "c": 1, "s": 8 },
+    "concept": ["Character Analysis - Ashwatthama"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Who was Ashwatthama ('Aśvatthāmā') mentioned in verse 1.8, and what made his inclusion critical for Duryodhana?",
+      "te": "1.8 శ్లోకంలో ప్రస్తావించబడిన అశ్వత్థామ (Aśvatthāmā) ఎవరు? అతడి ప్రస్తావన దుర్యోధనునికి ఎందుకు అత్యంత ముఖ్యమైనది?"
+    },
+    "choices": [
+      {
+        "en": "The invincible son of Dronacharya, born with a divine gem (Mani) on his forehead and possessing celestial weapons.",
+        "te": "ద్రోణాచార్యుని అజేయుడైన కుమారుడు; నొసటన దివ్యమణితో జన్మించి అనేక దివ్యాస్త్రాలు కలిగిన మహావీరుడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The youngest brother of Duryodhana who fought against Bhima.",
+        "te": "భీముడికి విరుద్ధంగా పోరాడిన దుర్యోధనుని అతి పిన్న వయస్కుడైన సోదరుడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The commander-in-chief of the Trigarta division.",
+        "te": "త్రిగర్త సైనిక విభాగానికి ప్రధాన సేనాధిపతి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The king of the Nishadha Kingdom allied with Karna.",
+        "te": "కర్ణునితో జతకట్టిన నిషాధ రాజ్యపు మహారాజు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Ashwatthama was Drona's son, a partial incarnation of Lord Shiva, and a formidable Maharatha. By taking his name right in front of Drona, Duryodhana ensured Drona's deep personal commitment to the war effort. — Bhagavad Gita (1.8)",
+      "te": "అశ్వత్థామ ద్రోణాచార్యుని పుత్రుడు, పరమశివుని అంశతో జన్మించిన మహారథుడు. ద్రోణుని ఎదుట అశ్వత్థామ పేరు ప్రస్తావించడం ద్వారా ద్రోణుడి మానసిక నిబద్ధతను గట్టిచేయడం దుర్యోధనుని వ్యూహం. — భగవద్గీత (1.8)"
+    }
+  },
+  {
+    "id": "bg-1-8-q6",
+    "verse": { "c": 1, "s": 8 },
+    "concept": ["Character Analysis - Vikarna"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Who was Vikarna ('Vikarṇaḥ') mentioned in verse 1.8, and what unique moral stance did he take during the disrobing of Draupadi?",
+      "te": "1.8 శ్లోకంలో చెప్పబడిన వికర్ణుడు (Vikarṇaḥ) ఎవరు? ద్రౌపదీ వస్త్రాపహరణ సమయంలో అతడు వహించిన విలక్షణమైన ధర్మబద్ధమైన పాత్ర ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "A brother of Duryodhana (one of the 100 Kauravas) who was the sole Kaurava to protest against Draupadi's humiliation in the Royal Assembly.",
+        "te": "దుర్యోధనుని సోదరుడు (100 మంది కౌరవులలో ఒకడు); రాజసభలో ద్రౌపదీ వస్త్రాపహరణాన్ని బహిరంగంగా నిరసించిన ఏకైక కౌరవ సోదరుడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "A prince of Magadha who tried to mediate peace between Yudhishthira and Duryodhana.",
+        "te": "యుధిష్ఠిర దుర్యోధనుల మధ్య శాంతి రాయబారం నడపడానికి ప్రయత్నించిన మగధ రాజకుమారుడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The charioteer of Karna during the 17th day of battle.",
+        "te": "17వ రోజు యుద్ధంలో కర్ణునికి సారథ్యము వహించిన రథికుడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The chief archer of the Gandhara army under Shakuni.",
+        "te": "శకుని నాయకత్వంలోని గాంధార సైన్యానికి ముఖ్య విలుకాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Vikarna was one of Duryodhana's 99 brothers. Despite being a Kaurava, he voiced outrage against Draupadi's disrobing in the court. Yet out of duty to his family, he fought on the Kaurava side and was killed by Bhima. — Bhagavad Gita (1.8)",
+      "te": "వికర్ణుడు దుర్యోధనుని సోదరుడు. ద్రౌపదికి సభలో జరిగిన పరాభవాన్ని ఖండించిన ధర్మాత్ముడు. అయినప్పటికీ, సోదర ధర్మం కోసం కౌరవ పక్షాన పోరాడి భీముని చేతిలో మరణించాడు. — భగవద్గీత (1.8)"
+    }
+  },
+  {
+    "id": "bg-1-8-q7",
+    "verse": { "c": 1, "s": 8 },
+    "concept": ["Character Analysis & Patronymics - Saumadatti (Bhurisrava)"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Who is referred to by the patronymic name 'Saumadattiḥ' in verse 1.8?",
+      "te": "1.8 శ్లోకంలో 'సౌమదత్తిః' అనే పితృనామం ద్వారా ఎవరిని సంబోధించారు?"
+    },
+    "choices": [
+      {
+        "en": "Bhurisrava (the valiant son of King Somadatta of the Bahlika dynasty)",
+        "te": "భూరిశ్రవుడు (బాహ్లీక వంశానికి చెందిన సోమదత్త మహారాజు కుమారుడు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Shakuni (son of Suvala)",
+        "te": "శకుని (సుబల మహారాజు కుమారుడు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Jayadratha (son of Vridhakshetra)",
+        "te": "జయద్రథుడు (వృద్ధక్షత్రుని కుమారుడు)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dushasana (son of Dhritarashtra)",
+        "te": "దుశ్శాసనుడు (ధృతరాష్ట్రుని కుమారుడు)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Saumadattiḥ' means 'the son of Somadatta', which refers to Bhurisrava, a great ruler of the Bahlika kingdom and a formidable Maharatha on the Kaurava side. — Bhagavad Gita (1.8)",
+      "te": "'సౌమదత్తిః' అనగా సోమదత్తుని కుమారుడైన 'భూరిశ్రవుడు'. ఇతడు బాహ్లీక రాజ్యానికి చెందిన గొప్ప పరాక్రమవంతుడైన మహారథుడు. — భగవద్గీత (1.8)"
+    }
+  },
+  {
+    "id": "bg-1-8-q8",
+    "verse": { "c": 1, "s": 8 },
+    "concept": ["Sanskrit Vocabulary - Demonstratives & Particles"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "What is the meaning of the Sanskrit term 'Bhavān' used as the first word of Duryodhana's list in verse 1.8?",
+      "te": "1.8 శ్లోకంలో దుర్యోధనుడి జాబితాలో మొదటి పదంగా వాడబడిన 'భవాన్' అనే సంస్కృత పదానికి అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Your Reverence / Your Exalted Self (respectful second-person pronoun addressed to Drona)",
+        "te": "తమరు / గౌరవనీయులైన మీరు (ద్రోణాచార్యుడిని సంబోధించే గౌరవ వాచకం)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Lord Shiva (referring to divine aid)",
+        "te": "శివుడు (దివ్య సహాయాన్ని సూచించే పదం)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Creator Brahma",
+        "te": "సృష్టికర్తయైన బ్రహ్మదేవుడు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "King Dhritarashtra himself",
+        "te": "ధృతరాష్ట్ర మహారాజు స్వయంగా",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Bhavān' is a polite, formal second-person honorific meaning 'Your Honor' or 'Your Lordship', used here by Duryodhana to directly address Dronacharya. — Bhagavad Gita (1.8)",
+      "te": "'భవాన్' అనేది 'తమరు' లేదా 'గౌరవనీయులైన మీరు' అనే అర్థాన్ని ఇచ్చే సంభావనా వాచకం. దుర్యోధనుడు ద్రోణుడిని సగౌరవంగా సంబోధించడానికి ఈ పదాన్ని ప్రయోగించాడు. — భగవద్గీత (1.8)"
+    }
+  }
+]

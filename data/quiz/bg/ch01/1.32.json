@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-32-q1",
+    "verse": { "c": 1, "s": 32 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.32?\n\n“kiṃ no rājyena govinda kiṃ bhogairjīvitena vā | yeṣāramarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“కిం నో రాజ్యేన గోవింద కిం భోగైర్జీవితేవ వా | యేషామర్థే కాంక్షితం నో రాజ్యం భోగాః సుఖాని చ”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — O Govinda, of what avail to us is kingdom, or enjoyments, or even life itself, when those for whose sake we desire kingdom, enjoyments, and pleasures stand here in battle?",
+        "te": "అర్జునుడు పలికెను — ఓ గోవిందా! మనకు రాజ్యంతో ఏమి పని? భోగాలతోగానీ, చివరికి జీవితంతోగానీ ఏమి ప్రయోజనం? మనం ఏ బంధువుల కోసమైతే రాజ్యం, భోగాలు, సుఖాలు కోరుకుంటున్నామో, వారందరూ ఈ రణరంగంలో నిలిచి ఉన్నారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — O Govinda, let us win the kingdom quickly so that we may grant wealth and enjoyments to all our allies.",
+        "te": "అర్జునుడు పలికెను — ఓ గోవిందా! మన మిత్రులందరికీ ధనాన్ని, భోగాలను పంచడానికి మనం త్వరగా రాజ్యాన్ని జయిద్దాము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — O Govinda, kingdom and royal life are the ultimate duty of a Kshatriya regardless of who falls in battle.",
+        "te": "అర్జునుడు పలికెను — ఓ గోవిందా! యుద్ధంలో ఎవరు పడిపోయినా సరే, రాజ్యాన్ని సాధించడమే క్షత్రియుని పరమకర్తవ్యం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — O Govinda, order our armies to attack the Kaurava positions before they retreat with their wealth.",
+        "te": "అర్జునుడు పలికెను — ఓ గోవిందా! కౌరవులు తమ సంపదతో వెనక్కి తగ్గకముందే వారిపై దాడి చేయమని మన సైన్యాన్ని ఆదేశించు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Kiṃ no rājyena govinda kiṃ bhogair jīvitena vā / yeṣām arthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca.\" Arjuna challenges the purpose of political power, asking Krishna why one should fight for kingdom or life if the very loved ones for whom wealth and status are acquired are slain in the process. — Bhagavad Gita (1.32)",
+      "te": "ఎవరి సంతోషం కోసం మనం రాజ్యం, భోగాలు, సుఖాలు కోరుకుంటామో ఆ బంధువులే యుద్ధంలో మరణిస్తే, అటువంటి రాజ్యంతో గానీ, భోగాలతో గానీ, ఆఖరికి బ్రతికి ఉండటంతో గానీ ఏ ప్రయోజనమూ లేదని అర్జునుడు శ్రీకృష్ణుడితో వాదిస్తున్నాడు. — భగవద్గీత (1.32)"
+    }
+  },
+  {
+    "id": "bg-1-32-q2",
+    "verse": { "c": 1, "s": 32 },
+    "concept": ["Name Analysis - Govinda"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Why does Arjuna address Lord Krishna as 'Govinda' in verse 1.32, and what is its spiritual significance?",
+      "te": "1.32 శ్లోకంలో అర్జునుడు శ్రీకృష్ణుడిని 'గోవిందా' అని ఎందుకు సంబోధించాడు? ఈ నామానికి ఉన్న ఆధ్యాత్మిక ప్రాముఖ్యత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Govinda = Protector of cows/earth/senses or giver of genuine inner satisfaction; Arjuna appeals to Him as the source of true fulfillment beyond material kingdoms.",
+        "te": "గోవింద = గోవులను/భూమిని/ఇంద్రియాలను రక్షించేవాడు లేదా సకల ఆనంద స్వరూపుడు; లౌకిక రాజ్యాల కంటే నిజమైన తృప్తిని, ఆనందాన్ని ఇచ్చే ప్రభువుగా శ్రీకృష్ణుడిని ఉద్దేశించి పలికిన నామం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Govinda = The conqueror of military fortresses.",
+        "te": "గోవింద = సైనిక దుర్గాలను జయించినవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Govinda = The master of archery techniques.",
+        "te": "గోవింద = విలువిద్యలో నిపుణులైన గురువు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Govinda = The king of Hastinapur.",
+        "te": "గోవింద = హస్తినాపుర సార్వభౌముడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Go' signifies cows, earth, senses, or Vedic speech, and 'vinda' means protector/procurer. Calling Krishna 'Govinda' emphasizes that He is the true source of satisfaction for the senses and the soul, rendering blood-stained material kingdoms meaningless by comparison. — Bhagavad Gita (1.32)",
+      "te": "'గో' అనగా ఇంద్రియాలు, భూమి, గోవులు లేదా వేదవాక్కులు; 'వింద' అనగా రక్షకుడు లేదా పొందించేవాడు. ఇంద్రియాలకు, ఆత్మకు నిజమైన శాంతిని ఇవ్వగల గోవిందుడు ఉండగా, రక్తసిక్తమైన రాజ్యం ద్వారా సుఖం ఎలా లభిస్తుందని అర్జునుని ఆవేదన. — భగవద్గీత (1.32)"
+    }
+  },
+  {
+    "id": "bg-1-32-q3",
+    "verse": { "c": 1, "s": 32 },
+    "concept": ["Argument Analysis - Purpose of Material Enjoyment"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What central psychological logic does Arjuna present in verse 1.32 regarding the acquisition of kingdom and wealth?",
+      "te": "1.32 శ్లోకంలో రాజ్యం మరియు సంపదలను పొందడానికి సంబంధించి అర్జునుడు ఏ ప్రధాన మనోవైజ్ఞానిక తర్కాన్ని ఉపయోగిస్తున్నాడు?"
+    },
+    "choices": [
+      {
+        "en": "Material wealth and sovereignty are sought primarily to share happiness with loved ones and family; if family is destroyed, those achievements become entirely valueless.",
+        "te": "సంపదలు, రాజ్యం వంటివి తమ బంధుమిత్రులతో కలిసి ఆనందాన్ని పంచుకోవడానికే కోరబడతాయి; ఆ బంధువులే నశిస్తే ఆ విజయాలు పూర్తిగా నిరర్థకమవుతాయి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Wealth should be hoarded in treasury vaults to build larger armies.",
+        "te": "పెద్ద సైన్యాలను నిర్మించడానికి సంపదనంతటినీ ఖజానాలో దాచిపెట్టాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "A Kshatriya must enjoy kingdom alone without sharing it with anyone.",
+        "te": "ఒక క్షత్రియుడు రాజ్యాన్ని ఎవరితోనూ పంచుకోకుండా ఒంటరిగానే అనుభవించాలి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Life has no purpose unless one achieves world conquest.",
+        "te": "ప్రపంచ విజయం సాధించకపోతే జీవితానికి ఎటువంటి అర్థమూ ఉండదు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna argues that human effort toward wealth ('rājyam'), enjoyment ('bhogāḥ'), and pleasures ('sukhāni') is relational—we seek them for the sake of our family and well-wishers ('yeṣām arthe'). Slaying those very people destroys the purpose of the goal itself. — Bhagavad Gita (1.32)",
+      "te": "మానవులు సంపదలు ('రాజ్యం'), అనుభవాలు ('భోగాః'), సుఖాలు ('సుఖాని') కోరుకునేది తమ ఆప్తుల కోసమే ('యేషా మర్థే'). ఆ ఆప్తులనే సంహరిస్తే ఆ విజయాలకు, సుఖాలకు అర్థమే లేకుండాపోతుంది. — భగవద్గీత (1.32)"
+    }
+  },
+  {
+    "id": "bg-1-32-q4",
+    "verse": { "c": 1, "s": 32 },
+    "concept": ["Sanskrit Vocabulary - Values & Life"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit words 'bhogaiḥ' and 'jīvitena' mean in verse 1.32?",
+      "te": "1.32 శ్లోకంలోని 'భోగైః' మరియు 'జీవితోన' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Bhogaiḥ = With enjoyments / luxuries; Jīvitena = With life / living.",
+        "te": "భోగైః = భోగభాగ్యాలతో / అనుభవాలతో; జీవితోన = జీవితంతో / ప్రాణంతో బ్రతికి ఉండటంతో.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Bhogaiḥ = With weapons; Jīvitena = With death.",
+        "te": "భోగైః = ఆయుధాలతో; జీవితోన = మరణంతో.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bhogaiḥ = With chariots; Jīvitena = With anger.",
+        "te": "భోగైః = రథాలతో; జీవితోన = క్రోధంతో.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Bhogaiḥ = With defeat; Jīvitena = With honor.",
+        "te": "భోగైః = ఓటమితో; జీవితోన = గౌరవంతో.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Bhogaiḥ' is Instrumental plural of 'bhoga' (enjoyment/luxuries), and 'jīvitena' is Instrumental singular of 'jīvita' (life/living). Arjuna questions the value of both luxuries and life itself if purchased through the blood of relatives. — Bhagavad Gita (1.32)",
+      "te": "'భోగైః' అనగా భోగభాగ్యముల చేత (తృతీయా బహువచనం); 'జీవితోన' అనగా జీవితము చేత (తృతీయా ఏకవచనం). బంధువుల రక్తాన్ని చిందించి పొందే భోగాలు, బ్రతుకు దండగ అని అర్జునుని అభిప్రాయం. — భగవద్గీత (1.32)"
+    }
+  },
+  {
+    "id": "bg-1-32-q5",
+    "verse": { "c": 1, "s": 32 },
+    "concept": ["Sanskrit Grammar - Interrogative Particle 'Kim'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What is the grammatical function and rhetorical effect of 'kiṃ naḥ' in verse 1.32?",
+      "te": "1.32 శ్లోకంలోని 'కిం నః' అనే పదబంధం యొక్క వ్యాకరణ ప్రయోజనం మరియు వాగర్థ ప్రాముఖ్యత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Interrogative pronoun 'kiṃ' (what / of what use) + 'naḥ' (to us / for us), creating a rhetorical question that implies 'it is of absolutely no use/value to us'.",
+        "te": "ప్రశ్నార్థక సర్వనామం 'కిమ్' (ఏమిటి/ఏమి ప్రయోజనం) + 'నః' (మనకు) — 'దీని వల్ల మనకు ఏ రకమైన ఉపయోగమూ లేదు' అని నొక్కిచెప్పే ఆక్షేపణాత్మక ప్రశ్న.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "A direct command ordering Krishna to stop the chariot.",
+        "te": "రథాన్ని ఆపమని కృష్ణుడిని నేరుగా ఆదేశించే క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "A plural noun denoting royal crowns and jewels.",
+        "te": "రాజకిరీటాలు మరియు ఆభరణాలను సూచించే బహువచన నామవాచకం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "A future tense verb meaning 'we shall receive'.",
+        "te": "మనం పొందుతాము అనే అర్థం ఇచ్చే భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kiṃ' (what) + 'naḥ' (for us) used with the instrumental case ('rājyena', 'bhogaiḥ', 'jīvitena') forms the classical Sanskrit idiom 'kiṃ rājyena' = 'what is the use of kingdom?'. It expresses total uselessness and rejection. — Bhagavad Gita (1.32)",
+      "te": "'కిమ్' (ఏమి) + 'నః' (మనకు). తృతీయా విభక్తి రూపాలైన 'రాజ్యేన', 'భోగైః', 'జీవితోన' తో కలిసి 'కిం రాజ్యేన' (రాజ్యంతో మనకేమి ప్రయోజనం?) అనే ప్రయోగాన్ని ఏర్పరిచింది. ఇది సంపూర్ణ తిరస్కారాన్ని తెలుపుతుంది. — భగవద్గీత (1.32)"
+    }
+  },
+  {
+    "id": "bg-1-32-q6",
+    "verse": { "c": 1, "s": 32 },
+    "concept": ["Sandhi Analysis - Yeṣām arthe"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Break down the Sanskrit compound 'yeṣāmartha' in verse 1.32:",
+      "te": "1.32 శ్లోకంలోని 'యేషా మర్థే' (యేషామర్థే) అనే సంస్కృత పదాన్ని విడదీసి అర్థం చెప్పండి:"
+    },
+    "choices": [
+      {
+        "en": "Yeṣām (for whose / of whom - Genitive plural) + arthe (for the sake of / purpose - Locative singular)",
+        "te": "యేషామ్ (ఎవరి యొక్క - షష్ఠీ బహువచనం) + అర్థే (కోసమైతే / ప్రయోజనం కొరకైతే - సప్తమీ ఏకవచనం)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Ye (who) + samarthe (capable)",
+        "te": "యే + సమర్థే",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Yeṣu (in whom) + arthaḥ (wealth)",
+        "te": "యేషు + అర్థః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yathā (as) + sāmārtham (strength)",
+        "te": "యథా + సామర్థ్యమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yeṣām' (genitive plural of relative pronoun 'yad' = of whom) + 'arthe' (locative singular of 'artha' used adverbially = for the sake of). 'Yeṣām arthe' translates to 'for whose sake'. — Bhagavad Gita (1.32)",
+      "te": "'యేషామ్' (ఎవరి యొక్క) + 'అర్థే' (కొరకు/నిమిత్తం). 'యేషామర్థే' అనగా 'ఎవరి సంతోషం కొరకైతే' అని అర్థం. — భగవద్గీత (1.32)"
+    }
+  }
+]

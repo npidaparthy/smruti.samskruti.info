@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-10-q1",
+    "verse": { "c": 1, "s": 10 },
+    "concept": ["Verse Meaning & Translation - Primary Reading"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Which of these best describes the literal primary meaning of verse 1.10?\n\n“aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam | paryāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam”",
+      "te": "ఈ శ్లోకానికి నేరుగా ఉన్న ప్రాథమిక అర్థం ఏది?\n\n“అపర్యాప్తం తదస్మాకం బలం భీష్మాభిరక్షితమ్ | పర్యాప్తం త్వポリシーమేతేషాం బలం భీమాభిరక్షితమ్”"
+    },
+    "choices": [
+      {
+        "en": "Duryodhana said — Our army protected by Bhishma is unlimited/immeasurable, whereas their army protected by Bhima is limited/measurable.",
+        "te": "దుర్యోధనుడు పలికెను — భీష్మునిచే రక్షించబడిన మన సైన్య బలం అపరిమితమైనది (అపర్యాప్తం), కానీ భీమునిచే రక్షించబడిన వీరి సైన్య బలం పరిమితమైనది (పర్యాప్తం).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Duryodhana said — Our army is small and weak, whereas the Pandava army protected by Bhima is vast and unbeatable.",
+        "te": "దుర్యోధనుడు పలికెను — మన సైన్యం చిన్నది, బలహీనమైనది; కానీ భీముడి రక్షణలో ఉన్న పాండవ సైన్యం చాలా పెద్దది, ఓడించలేనిది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bhishma said — Neither Bhima nor Arjuna can stand against our eleven Akshauhini divisions in battle.",
+        "te": "భీష్ముడు పలికెను — మన పదకొండు అక్షౌహిణుల సైన్యాన్ని యుద్ధంలో భీమార్జునులు ఎదుర్కొనలేరు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — Duryodhana proclaimed that Bhishma's presence made victory entirely effortless.",
+        "te": "సంజయుడు పలికెను — భీష్ముడి ఉనికి వల్ల విజయం మిక్కిలి సులభమని దుర్యోధనుడు ప్రకటించాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Aparyāptaṃ tad asmākaṃ balaṃ bhīṣmābhirakṣitam / paryāptaṃ tv idam eteṣāṃ balaṃ bhīmābhirakṣitam.\" In the standard primary interpretation, Duryodhana contrasts his 11 Akshauhini force under Bhishma as 'aparyāptam' (immeasurable/unlimited) against the Pandavas' 7 Akshauhini force under Bhima as 'paryāptam' (limited). — Bhagavad Gita (1.10)",
+      "te": "సాధారణ ప్రాథమిక వ్యాఖ్యానం ప్రకారం, భీష్ముని రక్షణలోని తన 11 అక్షౌహిణుల కౌరవ సైన్యం అపరిమితమైనదని ('అపర్యాప్తం'), భీముని రక్షణలోని పాండవుల 7 అక్షౌహిణుల సైన్యం పరిమితమైనదని ('పర్యాప్తం') దుర్యోధనుడు పోల్చి చెబుతున్నాడు. — భగవద్గీత (1.10)"
+    }
+  },
+  {
+    "id": "bg-1-10-q2",
+    "verse": { "c": 1, "s": 10 },
+    "concept": ["Linguistic Nuance - Aparyāptam vs Paryāptam Debate"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "In classical Gita commentaries (e.g., Sridhara Swami / Ramanujacharya), what secondary or alternative interpretation of 'aparyāptam' reveals Duryodhana's subconscious anxiety?",
+      "te": "సాంప్రదాయ గీతా వ్యాఖ్యానాలలో, 'అపర్యాప్తం' అనే పదానికి ఉన్న ఏ ప్రత్యామ్నాయ అర్థం దుర్యోధనుని అంతర్లీన ఆందోళనను, అభద్రతాభావాన్ని బయటపెడుతుంది?"
+    },
+    "choices": [
+      {
+        "en": "'Aparyāptam' = Insufficient/Inadequate (our force is inadequate despite Bhishma), while 'Paryāptam' = Sufficient/Fully adequate (their force is fully capable under Bhima).",
+        "te": "'అపర్యాప్తం' = చాలనిది/అసమర్థమైనది (భీష్ముడు ఉన్నప్పటికీ మన సైన్యం సరిపోదు), 'పర్యాప్తం' = సంపూర్ణమైనది/సమర్థవంతమైనది (భీముడి నాయకత్వంలో వారి సైన్యం సరిపోతుంది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "'Aparyāptam' = Divine, while 'Paryāptam' = Demonic.",
+        "te": "'అపర్యాప్తం' = దివ్యమైనది, 'పర్యాప్తం' = రాక్షసత్వంతో కూడినది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "'Aparyāptam' = Peaceful, while 'Paryāptam' = Aggressive.",
+        "te": "'అపర్యాప్తం' = శాంతిని కోరుకునేది, 'పర్యాప్తం' = తీవ్ర దాడికి దిగేది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "'Aparyāptam' = Immortal, while 'Paryāptam' = Vulnerable.",
+        "te": "'అపర్యాప్తం' = చావు లేనిది, 'పర్యాప్తం' = దెబ్బతినే స్వభావం గలది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Paryāpta' means sufficient or adequate. Adding the prefix 'a-' gives 'aparyāpta' = insufficient or inadequate. Commentators note that Duryodhana's inner insecurity slipped out: he secretly feared his army was inadequate under Bhishma (due to Bhishma's affection for the Pandavas), whereas the Pandava army was fully adequate under Bhima's ruthless determination. — Bhagavad Gita (1.10)",
+      "te": "'పర్యాప్తం' అనగా చాలినంత/సమర్థవంతమైనది. ప్రతికూల ప్రత్యయం 'అ-' చేరడం వల్ల 'అపర్యాప్తం' అనగా చాలనిది/అసమర్థమైనది అని అర్థం వస్తుంది. పాండవులపై భీష్మునికి ఉన్న వాత్సల్యం వల్ల తమ సైన్యం చాలదని, భీముని కసి వల్ల పాండవ సైన్యం సమర్థవంతమైనదని దుర్యోధనుడి అంతరంగంలో ఉన్న భయం ఈ పదం ద్వారా వ్యక్తమైందని వ్యాఖ్యాతలు వివరిస్తారు. — భగవద్గీత (1.10)"
+    }
+  },
+  {
+    "id": "bg-1-10-q3",
+    "verse": { "c": 1, "s": 10 },
+    "concept": ["Comparative Leadership - Bhishma vs Bhima"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Why does Duryodhana specifically name Bhima ('bhīmābhirakṣitam') as the guardian of the Pandava army in verse 1.10 instead of King Yudhishthira or Arjuna?",
+      "te": "1.10 శ్లోకంలో ధర్మరాజు లేదా అర్జునుని పేరు చెప్పకుండా, పాండవ సైన్య సంరక్షకుడిగా భీముని ('భీమాభిరక్షితమ్') పేరును దుర్యోధనుడు ప్రత్యేకంగా ఎందుకు ప్రస్తావించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Because Bhima was Duryodhana's mortal arch-rival whose terrifying physical strength and vow to kill all 100 Kaurava brothers posed the direct threat.",
+        "te": "100 మంది కౌరవ సోదరులను చంపుతానని శపథం చేసిన భీముడి అపారమైన శారీరక బలం, క్రోధం దుర్యోధనునికి ప్రత్యక్షంగా మిక్కిలి భయం కలిగించే ప్రధాన శత్రుభయం కాబట్టి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because Bhima was appointed as the official Commander-in-Chief of the Pandavas.",
+        "te": "పాండవ సైన్యానికి భీముడే అధికారిక ప్రధాన సేనాధిపతిగా నియమించబడ్డాడు కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because Arjuna had not yet picked up his bow Gandiva.",
+        "te": "అర్జునుడు ఇంకా తన గాండీవ ధనుస్సును చేతిలోకి తీసుకోలేదు కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because Yudhishthira was absent from the frontlines at that moment.",
+        "te": "ఆ సమయంలో ధర్మరాజు యుద్ధరంగం మొదటి వరుసలో అందుబాటులో లేకపోవడం వల్ల.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Though Dhrishtadyumna was the official commander, Duryodhana perceived Bhima as the heart and brute force of the Pandava defense. Bhima's vows to crush the Kauravas made him the most immediate personal threat in Duryodhana's mind. — Bhagavad Gita (1.10)",
+      "te": "పాండవ సైన్యానికి ధృష్టద్యుమ్నుడు సేనాధిపతి అయినప్పటికీ, దుర్యోధనుని దృష్టిలో భీముడే నిజమైన సైనిక రక్షకుడు. కౌరవులనందరినీ తుదముట్టిస్తానని భీముడు చేసిన శపథం దుర్యోధనుని మనస్సులో తీవ్ర భయాన్ని నింపింది. — భగవద్గీత (1.10)"
+    }
+  },
+  {
+    "id": "bg-1-10-q4",
+    "verse": { "c": 1, "s": 10 },
+    "concept": ["Sanskrit Vocabulary - Protection & Army"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "What does the Sanskrit compound 'bhīṣmābhirakṣitam' literally mean in verse 1.10?",
+      "te": "1.10 శ్లోకంలోని 'భీష్మాభిరక్షితమ్' అనే సంస్కృత సమాస పదానికి సరైన అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Thoroughly protected/commanded by Bhishma",
+        "te": "భీష్మాచార్యునిచే నలువైపులా సంపూర్ణంగా రక్షించబడినది / కాపాడబడినది",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Fearing the might of Bhishma",
+        "te": "భీష్ముని పరాక్రమానికి భయపడినది",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Constructed according to Bhishma's advice",
+        "te": "భీష్ముని సలహా మేరకు నిర్మించబడినది",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Surrounding Bhishma from all sides",
+        "te": "భీష్ముడిని అన్ని వైపులా చుట్టుముట్టినది",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Bhīṣma' + 'abhirakṣitam'. The prefix 'abhi' intensifies 'rakṣitam' (protected), meaning 'completely guarded/championed by Bhishma'. — Bhagavad Gita (1.10)",
+      "te": "'భీష్మ' + 'అభిరక్షితమ్'. 'రక్షితమ్' అనే పదానికి 'అభి' అనే ఉపసర్గ చేరడం వల్ల 'అన్ని రకాలుగా/పరిపూర్ణంగా కాపాడబడినది' అనే అర్థం వస్తుంది. — భగవద్గీత (1.10)"
+    }
+  },
+  {
+    "id": "bg-1-10-q5",
+    "verse": { "c": 1, "s": 10 },
+    "concept": ["Numerical Army Strength Context"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "What was the actual historical division count of both armies that Duryodhana is contrasting in verse 1.10?",
+      "te": "1.10 శ్లోకంలో దుర్యోధనుడు పోల్చి చెబుతున్న ఇరుపక్షాల నిజమైన సైనిక విభాగాల (అక్షౌహిణుల) సంఖ్య ఎంత?"
+    },
+    "choices": [
+      {
+        "en": "Kauravas: 11 Akshauhini divisions; Pandavas: 7 Akshauhini divisions",
+        "te": "కౌరవులు: 11 అక్షౌహిణుల సైన్యం; పాండవులు: 7 అక్షౌహిణుల సైన్యం",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kauravas: 10 Akshauhini divisions; Pandavas: 10 Akshauhini divisions",
+        "te": "కౌరవులు: 10 అక్షౌహిణుల సైన్యం; పాండవులు: 10 అక్షౌహిణుల సైన్యం",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kauravas: 18 Akshauhini divisions; Pandavas: 1 Akshauhini division",
+        "te": "కౌరవులు: 18 అక్షౌహిణుల సైన్యం; పాండవులు: 1 అక్షౌహిణి సైన్యం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kauravas: 7 Akshauhini divisions; Pandavas: 11 Akshauhini divisions",
+        "te": "కౌరవులు: 7 అక్షౌహిణుల సైన్యం; పాండవులు: 11 అక్షౌహిణుల సైన్యం",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The total force gathered at Kurukshetra was 18 Akshauhinis: the Kauravas assembled 11 Akshauhinis, while the Pandavas mobilized 7 Akshauhinis. Duryodhana's confidence in verse 1.10 stems largely from this numerical advantage. — Bhagavad Gita (1.10)",
+      "te": "కురుక్షేత్రంలో సమకూడిన మొత్తం సైన్యం 18 అక్షౌహిణులు. అందులో కౌరవుల వద్ద 11 అక్షౌహిణులు, పాండవుల వద్ద 7 అక్షౌహిణుల బలగాలు ఉన్నాయి. ఈ సంఖ్యాబల వ్యత్యాసమే దుర్యోధనుడి మాటలకు ప్రాతిపదిక. — భగవద్గీత (1.10)"
+    }
+  },
+  {
+    "id": "bg-1-10-q6",
+    "verse": { "c": 1, "s": 10 },
+    "concept": ["Psychological Subtext - The Shadow of Adharma"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "From a psychological perspective, why does Duryodhana feel compelled to repeatedly compare his army strength with the Pandavas in verse 1.10?",
+      "te": "మానసిక విశ్లేషణ ప్రకారం, 1.10 శ్లోకంలో దుర్యోధనుడు తన సైనిక బలాన్ని పాండవుల బలంతో పదే పదే పోల్చుకోవడానికి గల కారణం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "His guilty conscience and fear of Adharma make him seek constant external reassurance despite having superior numerical numbers.",
+        "te": "తన వద్ద ఉన్న అధిక సంఖ్యాబలాన్ని చూసి పైకి ధైర్యంగా కనిపిస్తున్నప్పటికీ, అధర్మం వైపు నిలిచాననే ఆత్మన్యూనత, అంతర్గత భయం అతడిని పదే పదే పోల్చుకునేలా చేస్తున్నాయి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "He is attempting to give formal battlefield instructions to Dronacharya.",
+        "te": "ద్రోణాచార్యునికి అధికారికంగా యుద్ధ నిబంధనలను వివరించడానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "He wants to convince Sanjaya to intervene and stop the war.",
+        "te": "యుద్ధాన్ని ఆపడానికి జోక్యం చేసుకోవాల్సిందిగా సంజయుడిని ఒప్పించడానికి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "He is delivering a public victory speech to his whole army.",
+        "te": "తన సైన్యమంతటికీ విజయోత్సవ ఉపన్యాసం ఇవ్వడానికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Insecurity often talks loudly. Despite leading 11 Akshauhinis against 7, Duryodhana's underlying fear of the Pandavas' righteous cause forces him to rationalize and boost his own courage by comparing the commanders Bhishma and Bhima. — Bhagavad Gita (1.10)",
+      "te": "అధర్మ పక్షాన ఉన్నవారికి ఎంత సైన్యం ఉన్నా అంతరంగంలో అభద్రతా భావం పీడిస్తుంది. పాండవుల వైపు ఉన్న ధర్మ బలాన్ని చూసి భయపడుతున్న దుర్యోధనుడు, తన భయాన్ని కప్పిపుచ్చుకోవడానికి ద్రోణుని వద్ద ఈ రకమైన సంభాషణ చేశాడు. — భగవద్గీత (1.10)"
+    }
+  }
+]

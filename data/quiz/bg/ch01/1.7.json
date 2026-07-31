@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-7-q1",
+    "verse": { "c": 1, "s": 7 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.7?\n\n“asmākaṃ tu viśiṣṭā ye tān nibodha dvijottama | nāyakā mama sainyasya saṃjñārthaṃ tān bravīmi te”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అస్మాకం తు విశిష్టా యే తాన్ నిబోధ ద్విజోత్తమ | నాయకా మమ సైన్యస్య సంజ్ఞార్థం తాన్ బ్రవీమి తే”"
+    },
+    "choices": [
+      {
+        "en": "Duryodhana said — O best of the twice-born (Dronacharya), know also those who are prominent on our side, the leaders of my army. For your information, I shall now recount their names to you.",
+        "te": "దుర్యోధనుడు పలికెను — ఓ బ్రాహ్మణశ్రేష్ఠా! (ద్రోణాచార్యా!), మన పక్షంలో ఉన్న ముఖ్యులైనవారిని, నా సైన్యానికి నాయకులైనవారిని కూడా తెలుసుకోండి. మీ సమాచారం కోసం వారి పేర్లను మీకు వివరిస్తాను.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Duryodhana said — Assemble all the commanders of the Kaurava army and prepare them for an immediate assault.",
+        "te": "దుర్యోధనుడు పలికెను — కౌరవ సైన్యాధిపతులందరినీ సమకూర్చి తక్షణ దాడికి వారిని సిద్ధం చేయండి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — Having listed the Pandava heroes, Duryodhana respectfully requested Drona to lead the first charge.",
+        "te": "సంజయుడు పలికెను — పాండవ వీరులను లెక్కించిన తర్వాత, మొదటి దాడికి నాయకత్వం వహించమని దుర్యోధనుడు ద్రోణుడిని సగౌరవంగా కోరాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dronacharya said — Tell me, O Duryodhana, who among our warriors are prepared to stand against Arjuna.",
+        "te": "ద్రోణాచార్యుడు పలికెను — ఓ దుర్యోధనా! మన వీరులలో అర్జునుడిని ఎదుర్కోవడానికి ఎవరు సిద్ధంగా ఉన్నారో నాకు చెప్పు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Asmākaṃ tu viśiṣṭā ye tān nibodha dvijottama / nāyakā mama sainyasya saṃjñārthaṃ tān bravīmi te.\" Duryodhana pivots his conversation with Dronacharya from the enemy's strength to his own army's key leaders, addressing Drona as 'dvijottama' (best of the twice-born). — Bhagavad Gita (1.7)",
+      "te": "\"అస్మాకం తు విశిష్టా యే తాన్ నిబోధ ద్విజోత్తమ / నాయకా మమ సైన్యస్య సంజ్ఞార్థం తాన్ బ్రవీమి తే.\" పాండవ బలగాలను వర్ణించిన తర్వాత, దుర్యోధనుడు ద్రోణాచార్యుడిని 'ద్విజోత్తమ' అని సంబోధిస్తూ, తన వైపు ఉన్న ముఖ్యులైన సైన్యాధ్యక్షుల పేర్లను ప్రస్తావించడం ప్రారంభిస్తాడు. — భగవద్గీత (1.7)"
+    }
+  },
+  {
+    "id": "bg-1-7-q2",
+    "verse": { "c": 1, "s": 7 },
+    "concept": ["Character Address & Epithet - Dronacharya"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Which epithet does Duryodhana use in verse 1.7 to address Dronacharya, and what does it literally mean?",
+      "te": "1.7 శ్లోకంలో ద్రోణాచార్యుడిని సంబోధించడానికి దుర్యోధనుడు ఏ బిరుదు/పదాన్ని వాడాడు? దానికి నిజమైన అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Dvijottama — Best among the twice-born (foremost among Brahmins)",
+        "te": "ద్విజోత్తమ — ద్విజులలో (బ్రాహ్మణులలో) శ్రేష్ఠుడైనవాడు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mahārathaḥ — Great chariot warrior",
+        "te": "మహారథః — మహారథుడైన వీరుడు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nāyaka — Supreme commander",
+        "te": "నాయక — సర్వసేనాధిపతి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Puruṣarṣabha — Bull among men",
+        "te": "పురుషర్షభ — పురుష శ్రేష్ఠుడు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Dvijottama' is composed of 'dvija' (twice-born / Brahmin) and 'uttama' (best). By calling Drona 'best among Brahmins', Duryodhana subtly reminds him of his priestly duty to stand firmly by his word and righteous patrons. — Bhagavad Gita (1.7)",
+      "te": "'ద్విజోత్తమ' అనగా ద్విజులు లేదా బ్రాహ్మణులలో అత్యుత్తముడు అని అర్థం ('ద్విజ' + 'ఉత్తమ'). ద్రోణుని బ్రాహ్మణ ధర్మాన్ని, శ్రేష్ఠత్వాన్ని గుర్తుచేస్తూ దుర్యోధనుడు ఈ పదాన్ని వాడాడు. — భగవద్గీత (1.7)"
+    }
+  },
+  {
+    "id": "bg-1-7-q3",
+    "verse": { "c": 1, "s": 7 },
+    "concept": ["Psychological & Subtextual Analysis"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Why could addressing Dronacharya as 'Dvijottama' (best of Brahmins) in verse 1.7 be interpreted as a subtle psychological jab by Duryodhana?",
+      "te": "1.7 శ్లోకంలో ద్రోణాచార్యుడిని 'ద్విజోత్తమ' (బ్రాహ్మణశ్రేష్ఠా) అని సంబోధించడంలో దుర్యోధనుని అంతర్గత వ్యంగ్యం లేదా మానసిక వ్యూహం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "It carried a subtle reminder that Drona is a Brahmin by birth, implying he might lack martial ferocity or show peaceful leniency toward the Pandavas.",
+        "te": "ద్రోణుడు పుట్టుకతో బ్రాహ్మణుడని, శాంతస్వభావంతో పాండవుల పట్ల జాలి చూపి యుద్ధంలో క్షాత్రీయ పౌరుషం తగ్గించవచ్చనే అనుమానాన్ని వ్యంగ్యంగా వ్యక్తం చేయడానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It was intended to ask Drona to perform a sacred Yajna instead of engaging in fighting.",
+        "te": "యుద్ధంలో పాల్గొనడానికి బదులుగా ద్రోణుడిని పవిత్ర యజ్ఞం చేయమని అడగడానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It was a formal proclamation crowning Dronacharya as the King of Hastinapur.",
+        "te": "ద్రోణాచార్యుడిని హస్తినాపుర మహారాజుగా అధికారికంగా ప్రకటించడానికి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It was meant to apologize to Drona for Duryodhana's earlier harsh statements.",
+        "te": "అంతకుముందు తాను మాట్లాడిన కఠినమైన మాటలకు ద్రోణునికి క్షమాపణలు చెప్పడానికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "While 'Dvijottama' is an honorific, commentators note Duryodhana's diplomatic taunt: he hints that Drona, as a Brahmin, is naturally given to peace and teaching rather than ruthless warfare, goading Drona to prove his martial courage. — Bhagavad Gita (1.7)",
+      "te": "'ద్విజోత్తమ' అనేది గౌరవవాచకమైనప్పటికీ, ద్రోణుడు బ్రాహ్మణుడైనందున సహజమైన శాంతితో పాండవుల పట్ల మెత్తగా ప్రవర్తిస్తాడేమోనన్న అనుమానాన్ని వ్యక్తపరుస్తూ, అతడి క్షాత్రధర్మాన్ని రగిలించడానికి దుర్యోధనుడు ఈ పదాన్ని వాడాడని వ్యాఖ్యాతలు చెబుతారు. — భగవద్గీత (1.7)"
+    }
+  },
+  {
+    "id": "bg-1-7-q4",
+    "verse": { "c": 1, "s": 7 },
+    "concept": ["Sanskrit Vocabulary - Imperatives & Intent"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "In verse 1.7, which Sanskrit verb in the imperative mood does Duryodhana use to command Drona's attention?",
+      "te": "1.7 శ్లోకంలో ద్రోణాచార్యుని దృష్టిని ఆకర్షించడానికి దుర్యోధనుడు ఉపయోగించిన ఆజ్ఞార్థక సంస్కృత క్రియ పదం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Nibodha (know / pay attention / take note)",
+        "te": "నిబోధ (తెలుసుకోండి / గమనించండి)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Bravīmi (I am speaking)",
+        "te": "బ్రవీమి (నేను చెబుతున్నాను)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Paśya (look / behold)",
+        "te": "పశ్య (చూడండి)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Samavetāḥ (assembled)",
+        "te": "సమవేతాః (సమకూడిన)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Nibodha' comes from the root 'budh' with the prefix 'ni', functioning as an imperative command meaning 'know well', 'understand', or 'take note of'. — Bhagavad Gita (1.7)",
+      "te": "'నిబోధ' అనేది 'బుధ్' అనే ధాతువు నుండి వచ్చిన పదం. దీనికి 'బాగా తెలుసుకోండి' లేదా 'గమనించండి' అని అర్థం. — భగవద్గీత (1.7)"
+    }
+  },
+  {
+    "id": "bg-1-7-q5",
+    "verse": { "c": 1, "s": 7 },
+    "concept": ["Sanskrit Vocabulary - Military Leadership"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Which term in verse 1.7 refers specifically to the 'leaders' or 'generals' of Duryodhana's army?",
+      "te": "1.7 శ్లోకంలో దుర్యోధనుని సైన్యానికి చెందిన 'నాయకులను' లేదా 'సేనాపతులను' సూచించే పదం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Nāyakāḥ",
+        "te": "నాయకాః",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Viśiṣṭāḥ",
+        "te": "విశిష్టాః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Saṃjñārtham",
+        "te": "సంజ్ఞార్థమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sainyasya",
+        "te": "సైన్యస్య",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Nāyakāḥ' (plural of 'nāyaka') refers to the guides, leaders, or commanders ('nāyakā mama sainyasya' = the leaders of my army). — Bhagavad Gita (1.7)",
+      "te": "'నాయకాః' అనగా సేనాపతులు లేదా నాయకులు అని అర్థం ('నాయకా మమ సైన్యస్య' = నా సైన్యానికి చెందిన నాయకులు). — భగవద్గీత (1.7)"
+    }
+  },
+  {
+    "id": "bg-1-7-q6",
+    "verse": { "c": 1, "s": 7 },
+    "concept": ["Sanskrit Vocabulary - Purpose of Narrative"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "What does Duryodhana mean by the expression 'saṃjñārthaṃ tān bravīmi te' in verse 1.7?",
+      "te": "1.7 శ్లోకంలోని 'సంజ్ఞార్థం తాన్ బ్రవీమి తే' అనే సంస్కృత వాక్యానికి అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "I mention their names to you for your information and clear recollection.",
+        "te": "మీ సమాచారం మరియు స్పష్టమైన గుర్తు కొరకు వారి పేర్లను మీకు చెబుతున్నాను.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "I am giving you secret signals to start the war immediately.",
+        "te": "వెంటనే యుద్ధాన్ని ప్రారంభించడానికి మీకు రహస్య సంకేతాలు ఇస్తున్నాను.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "I am listing them so you can offer prayers for their victory.",
+        "te": "వారి విజయం కోసం మీరు ప్రార్థనలు చేయడం కొరకు వీరి పేర్లను చెబుతున్నాను.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "I am warning you about their intention to desert the battlefield.",
+        "te": "వారు యుద్ధరంగం నుండి వైదొలగాలని అనుకుంటున్నారని మిమ్మల్ని హెచ్చరిస్తున్నాను.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Saṃjñārtham' is composed of 'saṃjñā' (information / recognition / naming) + 'artham' (for the purpose of). Duryodhana states he is naming his top commanders simply for Drona's information and awareness. — Bhagavad Gita (1.7)",
+      "te": "'సంజ్ఞార్థమ్' అనగా 'తెలియజేయడం లేదా సమాచారం ఇవ్వడం కొరకు' అని అర్థం ('సంజ్ఞా' + 'ర్థమ్'). తన ముఖ్య నాయకుల గురించి గురువుకు సమాచారం ఇవ్వడమే దీని ఉద్దేశం. — భగవద్గీత (1.7)"
+    }
+  }
+]

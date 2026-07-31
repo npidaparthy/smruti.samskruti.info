@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-35-q1",
+    "verse": { "c": 1, "s": 35 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.35?\n\n“etān na hantum icchāmi ghnanto'pi madhusūdana | api trailokyarājyasya hetoḥ kiṃ nu mahīkṛte”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“ఏతాన్ న హన్తుమ్ ఇచ్ఛామి ఘ్నన్తోఽపి మధుసూదన | అపి త్రైలోక్యరాజ్యస్య హేతోః కిం ను మహీకృతే”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — These I do not wish to kill, O Madhusudana, even if they kill me; not even for the lordship of the three worlds, how much less for this earth!",
+        "te": "అర్జునుడు పలికెను — ఓ మధుసూదనా! వీరు నన్ను చంపినా సరే, నేను మాత్రం వీరిని చంపడానికి ఇష్టపడను; మూడు లోకాలపై సామ్రాజ్యం లభిస్తుందన్నా నేను ఈ పని చేయను, ఇక ఈ భూమండలం కోసం చెప్పేదేముంది!",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — O Madhusudana, I will kill them quickly before they attack us, so that we may rule the three worlds.",
+        "te": "అర్జునుడు పలికెను — ఓ మధుసూదనా! మనం మూడు లోకాలను ఏలడానికి వీలుగా, వారు మనపై దాడి చేయకముందే నేను వారిని త్వరగా సంహరిస్తాను.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — O Madhusudana, if we defeat Duryodhana on this earth, the gods will grant us dominion over the three worlds.",
+        "te": "అర్జునుడు పలికెను — ఓ మధుసూదనా! మనం ఈ భూమిపై దుర్యోధనుడిని ఓడిస్తే, దేవతలు మనకు ముల్లోకాలపై ఆధిపత్యాన్ని ప్రసాదిస్తారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — Let us exchange our weapons for peace, so that neither side suffers destruction in battle.",
+        "te": "అర్జునుడు పలికెను — ఇరువైపులా ఎవరూ యుద్ధంలో నశించిపోకుండా ఉండటానికి మనం ఆయుధాలను విడిచిపెట్టి శాంతిని నెలకొల్పుదాము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Etān na hantum icchāmi ghnanto 'pi madhusūdana / api trailokya-rājyasya hetoḥ kiṃ nu mahī-kṛte.\" Arjuna explicitly refuses to kill his kinsmen even in self-defense ('ghnanto 'pi') or for the highest imaginable cosmic reward ('trailokya-rājyasya'). — Bhagavad Gita (1.35)",
+      "te": "వారు తన్ను చంపినా సరే తాను మాత్రం వారిని చంపనని, ముల్లోకాల రాజ్యాధికారం ఇచ్చినా సరే ఈ పాపపు పని చేయనని, ఇక స్వల్పమైన ఈ భూమండలం కోసం బంధువులను ఎలా చంపుతానని అర్జునుడు కృష్ణుడితో స్పష్టంగా చెబుతున్నాడు. — భగవద్గీత (1.35)"
+    }
+  },
+  {
+    "id": "bg-1-35-q2",
+    "verse": { "c": 1, "s": 35 },
+    "concept": ["Name Analysis - Madhusudana"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Why does Arjuna specifically address Lord Krishna as 'Madhusūdana' in verse 1.35?",
+      "te": "1.35 శ్లోకంలో అర్జునుడు శ్రీకృష్ణుడిని 'మధుసూదనా' అని ఎందుకు ప్రత్యేకంగా సంబోధించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Madhusūdana = Slayer of the demon Madhu; Arjuna appeals to Krishna as the destroyer of demonic forces, subtly implying Krishna should destroy Arjuna's inner demon of grief and doubt.",
+        "te": "మధుసూదన = మధు అనే రాక్షసుడిని సంహరించినవాడు; దుష్ట రాక్షసులను నాశనం చేసే శ్రీకృష్ణుడు తన మనస్సులో ఉన్న దుఃఖాన్ని, సంశయాత్మక రాక్షసుడిని కూడా సంహరించాలని పరోక్షంగా వేడుకుంటున్నాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Madhusūdana = One who is fond of eating wild forest honey.",
+        "te": "మధుసూదన = అడవి తేనెను ఆరగింబడానికి ఇష్టపడేవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Madhusūdana = The ruler of the Mathura region.",
+        "te": "మధుసూదన = మథురా ప్రాంతాన్ని పాలించే రాజు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Madhusūdana = One who plays sweet tunes on the flute.",
+        "te": "మధుసూదన = మురళిపై తీయని రాగాలు పలికించేవాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Madhu' (a formidable demon representing ignorance and ego) + 'sūdana' (slayer/destroyer). By addressing Krishna as 'Madhusūdana', Arjuna acknowledges Him as the ultimate remover of demonic obstacles, hoping Krishna will resolve his moral dilemma. — Bhagavad Gita (1.35)",
+      "te": "'మధు' అనే రాక్షసుడిని (అజ్ఞానానికి సంకేతం) సంహరించినవాడు మధుసూదనుడు. అజ్ఞానమనే రాక్షసుడిని అంతమొందించే కృష్ణుడు తన మానసిక మోహాన్ని కూడా తొలగించాలని అర్జునుడి ఆశయం. — భగవద్గీత (1.35)"
+    }
+  },
+  {
+    "id": "bg-1-35-q3",
+    "verse": { "c": 1, "s": 35 },
+    "concept": ["Hyperbolic Comparison - Trailokyarājya vs Mahīkṛte"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What hyperbolic scale does Arjuna use in verse 1.35 to emphasize his absolute refusal to slay his relatives?",
+      "te": "తమ బంధువులను చంపడానికి తనకు ఎంతమాత్రమూ ఇష్టం లేదని నిరూపించడానికి 1.35 శ్లోకంలో అర్జునుడు ఏ రకమైన అత్యున్నత పోలికను ఉపయోగిస్తున్నాడు?"
+    },
+    "choices": [
+      {
+        "en": "He states he would not kill them even for the sovereignty of all Three Worlds (Trailokya-rājya), making an earthly kingdom (Mahīkṛte) completely insignificant by comparison.",
+        "te": "ముల్లోకాల సార్వభౌమాధికారం (త్రైలోక్య రాజ్యం) ఇస్తామన్నా తన బంధువులను చంపనని, అలాంటప్పుడు చిన్నదైన ఈ భూమండలం (మహీకృతే) ఎంతపాటిదని పోలుస్తున్నాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "He states he would not trade his bow Gandiva for all the gold in Hastinapur.",
+        "te": "హస్తినాపురంలోని పసిడి అంతటినీ ఇచ్చినా తన గాండీవ ధనుస్సును ఇవ్వనని అంటున్నాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "He states he would rather fight the gods in heaven than fight his brothers on earth.",
+        "te": "భూమిపై దాయాదులతో పోరాడే కంటే స్వర్గంలో దేవతలతో పోరాడటానికి సిద్ధమని అంటున్నాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "He states he would prefer 100 years of exile over one day of rule.",
+        "te": "ఒక్క రోజు రాజ్యపాలన కంటే వంద సంవత్సరాల అజ్ఞాతవాసమే నయమని అంటున్నాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna contrasts 'trailokya-rājyasya hetoḥ' (for the sake of ruling the three realms: earth, heaven, and netherworld) with 'kiṃ nu mahī-kṛte' ('how much less for this mere earth!'). This logic shows that no material incentive, however cosmic, can justify fratricide in his eyes. — Bhagavad Gita (1.35)",
+      "te": "స్వర్గ మర్త్య పాతాళ లోకాల మూడింటి రాజ్యభాగం లభించినా తాను బంధువులను చంపనని, కేవలం చిన్నదైన ఈ భూమండలం కోసం వారిని చంపడం ఎంతమాత్రం సరికాదని అర్జునుని ఆవేదన. — భగవద్గీత (1.35)"
+    }
+  },
+  {
+    "id": "bg-1-35-q4",
+    "verse": { "c": 1, "s": 35 },
+    "concept": ["Sanskrit Vocabulary - Self-Defense vs Slaying"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit expression 'ghnanto 'pi na hanisye' literally signify in verse 1.35?",
+      "te": "1.35 శ్లోకంలోని 'ఘ్నన్తోఽపి న హనిష్యే' అనే సంస్కృత పదబంధం దేనిని వివరిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "Even if they attack/slay me, I shall not slay them in return.",
+        "te": "వారు నన్ను చంపినా/హింసించినా సరే, నేను మాత్రం వారిని తిరిగి సంహరించను.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "If they surrender, I will not spare their lives.",
+        "te": "వారు లొంగిపోయినా సరే, నేను వారిని విడిచిపెట్టను.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "We must attack them before they strike us.",
+        "te": "వారు మనపై దాడి చేయకముందే మనం వారిపై దాడి చేయాలి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "No one can kill the eternal soul in battle.",
+        "te": "యుద్ధంలో శాశ్వతమైన ఆత్మను ఎవరూ చంపలేరు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Ghnantaḥ' (present participle nominative plural = slaying / striking) + 'api' (even) + 'na' (not) + 'hanisye' (1st person singular future active = I shall kill). Arjuna reaches extreme Pacifism/non-violence here, refusing to retaliate even in self-preservation. — Bhagavad Gita (1.35)",
+      "te": "'ఘ్నన్తః' (వారు చంపుతున్నప్పటికీ) + 'అపి' (కూడా) + 'న హనిష్యే' (నేను చంపను). ఆత్మరక్షణ కోసమైనా సరే తాను తిరిగి శస్త్ర ప్రయోగం చేయనని అర్జునుడు తీవ్ర అహింసాత్మక నిశ్చయానికి వచ్చాడు. — భగవద్గీత (1.35)"
+    }
+  },
+  {
+    "id": "bg-1-35-q5",
+    "verse": { "c": 1, "s": 35 },
+    "concept": ["Sanskrit Vocabulary - For Earth's Sake"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit word 'mahīkṛte' mean in verse 1.35?",
+      "te": "1.35 శ్లోకంలోని 'మహీకృతే' అనే పదానికి అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "For the sake of the earth / for earthly territory",
+        "te": "ఈ భూమండలం కొరకు / లౌకికమైన నేల కొరకు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Created by great sages",
+        "te": "గొప్ప రుషులచే సృష్టించబడినది",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "For the sake of royal horses",
+        "te": "రాజగుర్రాల కొరకు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Accomplished through great sacrifices",
+        "te": "గొప్ప యజ్ఞాల ద్వారా సిద్దించినది",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Mahī' (the earth) + 'kṛte' (for the sake of / on account of). 'Kiṃ nu mahīkṛte' translates as 'what to speak of for the sake of this earth!'. — Bhagavad Gita (1.35)",
+      "te": "'మహీ' (భూమి) + 'కృతే' (కొరకు/నిమిత్తం). 'కిం ను మహీకృతే' అనగా 'ఈ చిన్న భూమండలం కోసం చంపడం ఎంతమాత్రం తగదు' అని అర్థం. — భగవద్గీత (1.35)"
+    }
+  },
+  {
+    "id": "bg-1-35-q6",
+    "verse": { "c": 1, "s": 35 },
+    "concept": ["Sanskrit Grammar - Future Verb 'Hanisye'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical form of 'hanisye' in verse 1.35:",
+      "te": "1.35 శ్లోకంలోని 'హనిష్యే' (హనిష్యతి/హనిష్యే) అనే క్రియాపదం యొక్క వ్యాకరణ రూపం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "1st person singular future tense (Lṛṭ-lakāra Ātmanepada) from root 'han' (I shall kill / slay)",
+        "te": "'హన్' (చంపుట) అనే ధాతువు యొక్క భవిష్యత్కాల (లృట్ లకార) ఆత్మనేపద ఉత్తమ పురుష ఏకవచన రూపం — 'నేను చంపుతాను' (న హనిష్యే = నేను చంపను).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person singular present tense Parasmaipada.",
+        "te": "ప్రథమ పురుష ఏకవచన వర్తమానకాల రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Imperative mood verb meaning 'let me kill'.",
+        "te": "ఆజ్ఞార్థకంలో 'నేను చంపుగాక' అనే రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Past tense verb meaning 'I killed'.",
+        "te": "భూతకాలంలో 'నేను చంపాను' అనే రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Hanisye' is the 1st person singular future (Lṛṭ-lakāra) Ātmanepada of root 'han' (to kill). Combined with negative particle 'na', 'na hanisye' conveys Arjuna's firm, unconditional future vow: 'I will not kill'. — Bhagavad Gita (1.35)",
+      "te": "'హనిష్యే' అనేది 'హన్' ధాతువు యొక్క లృట్ లకార (భవిష్యత్కాల) ఉత్తమ పురుష ఏకవచనం. 'న హనిష్యే' అనగా 'నేను ఎంతమాత్రమూ సంహరించను' అని భావి కాలంలో చేయబోని పనిని స్పష్టం చేస్తోంది. — భగవద్గీత (1.35)"
+    }
+  }
+]

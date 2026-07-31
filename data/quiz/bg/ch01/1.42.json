@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-42-q1",
+    "verse": { "c": 1, "s": 42 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.42?\n\n“saṅkaro narakāyaiva kulaghnānāṃ kulasya ca | patanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“సంకరో నరకాయైవ కులఘ్నానాం కులస్య చ | పతంతి పితరో హ్యేషాం లుప్తపిండోదకక్రియాః”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — Such unwanted disorder (saṅkara) leads both the destroyers of the family and the family itself to hell; for their ancestors fall, deprived of the offerings of rice balls and water.",
+        "te": "అర్జునుడు పలికెను — ఆ వర్ణసంకరం వంశాన్ని నాశనం చేసేవారిని మరియు ఆ వంశాన్ని నరకానికి తీసుకువెళుతుంది; వారికి పిండప్రదానము, తర్పణము (పిండోదక క్రియలు) ఆగిపోవడం వల్ల వారి పితృదేవతలు కూడ నరకంలోకి పడిపోతారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — Sacrificial offerings of food and water guarantee that warriors who die in battle attain the heavenly realms immediately.",
+        "te": "అర్జునుడు పలికెను — ఆహారం, నీటితో చేసే యజ్ఞ తర్పణాలు యుద్ధంలో మరణించిన యోధులు వెంటనే స్వర్గానికి వెళ్లేలా చూస్తాయి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — When the ancestral rituals are stopped, the gods bless the new generation with prosperity and wealth.",
+        "te": "అర్జునుడు పలికెను — పితృదేవతల ఆచారాలు ఆగిపోయినప్పుడు, దేవతలు కొత్త తరానికి సంపదను, ఐశ్వర్యాన్ని ప్రసాదిస్తారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — By offering rice balls and water before the battle begins, all sins of family destruction are wiped away.",
+        "te": "అర్జునుడు పలికెను — యుద్ధానికి ముందు పిండ ప్రధానము, నీరు తర్పణంగా ఇవ్వడం వల్ల కులక్షయ పాపాలన్నీ తొలగిపోతాయి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Saṅkaro narakāyaiva kula-ghnānāṃ kulasya ca / patanti pitaro hy eṣāṃ lupta-piṇḍodaka-kriyāḥ.\" Arjuna asserts that social confusion ('saṅkara') leads the family and its destroyers ('kula-ghnānām') to hellish conditions, disrupting ancestral rites ('piṇḍodaka-kriyāḥ') and causing the spiritual downfall of ancestors. — Bhagavad Gita (1.42)",
+      "te": "వర్ణసంకరం వల్ల వంశాన్ని నాశనం చేసినవారు, ఆ వంశం రెండూ నరకానికి పోతాయని, పితృదేవతలకు అందవలసిన పిండ, తర్పణ క్రియలు లోపించడం వల్ల పూర్వీకులు కూడా పతనమవుతారని అర్జునుడు ఆవేదన చెందుతున్నాడు. — భగవద్గీత (1.42)"
+    }
+  },
+  {
+    "id": "bg-1-42-q2",
+    "verse": { "c": 1, "s": 42 },
+    "concept": ["Ancestral Rituals - Piṇḍodaka-kriyāḥ"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit compound 'lupta-piṇḍodaka-kriyāḥ' specifically refer to in verse 1.42?",
+      "te": "1.42 శ్లోకంలోని 'లుప్తపిండోదకక్రియాః' అనే సమాస పదం దేనిని స్పష్టంగా సూచిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "Those whose sacred ancestral rites of offering consecrated rice balls (piṇḍa) and water (udaka) have ceased / been omitted.",
+        "te": "పితృదేవతలకు సమర్పించే పిండ ప్రదానము (పిండ) మరియు జల తర్పణములు (ఉదక) అనే పవిత్ర శ్రాద్ధ క్రియలు నిలిచిపోయినవారు/లోపించినవారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Those who have abstained from eating food and water during war.",
+        "te": "యుద్ధ సమయంలో ఆహార పానీయాలను విడిచిపెట్టినవారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Those who have performed royal coronation bath ceremonies.",
+        "te": "రాజ పట్టాభిషేక స్నానాలను ఆచరించినవారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Those who have offered weapons to the holy fire.",
+        "te": "పవిత్రమైన అగ్నిలో ఆయుధాలను ఆహుతి చేసినవారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Lupta' (omitted / neglected / lost) + 'piṇḍa' (rice balls offered in Shraddha rites) + 'udaka' (water offered in Tarpaṇa) + 'kriyāḥ' (rituals). In traditional Vedic duties, descendants perform Shraddha to maintain their deceased ancestors' spiritual progress; stopping these causes their downfall ('patanti pitaraḥ'). — Bhagavad Gita (1.42)",
+      "te": "'లుప్త' (లోపించిన/ఆగిపోయిన) + 'పిండ' (శ్రాద్ధ పిండాలు) + 'ఉదక' (జల తర్పణాలు) + 'క్రియాః' (కార్యములు). పితృదేవతల పుణ్యలోక ప్రాప్తికి వారసులు చేసే పిండప్రదాన తర్పణాలు ఆగిపోవడాన్ని ఇది సూచిస్తుంది. — భగవద్గీత (1.42)"
+    }
+  },
+  {
+    "id": "bg-1-42-q3",
+    "verse": { "c": 1, "s": 42 },
+    "concept": ["Sanskrit Vocabulary - Family Destroyers & Hell"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit words 'kulaghnānām' and 'narakāya' mean in verse 1.42?",
+      "te": "1.42 శ్లోకంలోని 'కులఘ్నానామ్' మరియు 'నరకాయ' అనే పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Kulaghnānām = Of the destroyers of the family; Narakāya = For the purpose of leading to hell / hellish existence.",
+        "te": "కులఘ్నానామ్ = వంశాన్ని/కులాన్ని నాశనం చేసేవారి యొక్క; నరకాయ = నరకాన్ని కలిగించడం కొరకు / నరకప్రాప్తి కొరకు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kulaghnānām = Of the kings ruling the land; Narakāya = For heaven.",
+        "te": "కులఘ్నానామ్ = రాజ్యాన్ని ఏలే రాజుల యొక్క; నరకాయ = స్వర్గలోకం కొరకు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kulaghnānām = Of the brave soldiers; Narakāya = For victory in war.",
+        "te": "కులఘ్నానామ్ = వీరులైన సైనికుల యొక్క; నరకాయ = యుద్ధ విజయము కొరకు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kulaghnānām = Of the Vedic sages; Narakāya = For spiritual liberation.",
+        "te": "కులఘ్నానామ్ = వేద రుషుల యొక్క; నరకాయ = మోక్షప్రాప్తి కొరకు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kula' (family) + 'ghna' (slayer/destroyer) = 'kulaghna'. In Genitive plural, 'kulaghnānām' = 'of those who destroy families'. 'Narakāya' is Dative singular of 'naraka' (hell), signifying 'leads directly to hellish punishment'. — Bhagavad Gita (1.42)",
+      "te": "'కుల' (వంశం) + 'ఘ్న' (సంహరించేవారు) = కులఘ్నాన్. 'కులఘ్నానామ్' అనగా వంశాన్ని నాశనం చేసినవారి యొక్క (షష్ఠీ బహువచనం). 'నరకాయ' అనగా నరకము కొరకు (చతుర్థీ ఏకవచనం). — భగవద్గీత (1.42)"
+    }
+  },
+  {
+    "id": "bg-1-42-q4",
+    "verse": { "c": 1, "s": 42 },
+    "concept": ["Spiritual Consequence - Downfall of Ancestors"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which Sanskrit phrase in verse 1.42 states that the forefathers fall down from their heavenly realms?",
+      "te": "1.42 శ్లోకంలో పితృదేవతలు తమ పుణ్య లోకాల నుండి కిందకు పడిపోతారని తెరిపే సంస్కృత పదబంధం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Patanti pitaro hy eṣām",
+        "te": "పతంతి పితరో హ్యేషాం",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Saṅkaro narakāyaiva",
+        "te": "సంకరో నరకాయైవ",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kulaghnānāṃ kulasya ca",
+        "te": "కులఘ్నానాం కులస్య చ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Luptapiṇḍodakakriyāḥ",
+        "te": "లుప్తపిండోదకక్రియాః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Patanti' (they fall) + 'pitaraḥ' (the ancestors/forefathers) + 'hi' (indeed/certainly) + 'eṣām' (of these families). It describes the spiritual degradation suffered by the ancestors when lineage lines are broken. — Bhagavad Gita (1.42)",
+      "te": "'పతంతి' (కిందకు పడిపోతారు) + 'పితరః' (పితృదేవతలు/పూర్వీకులు) + 'హి' (నిశ్చయముగా) + 'ఏషామ్' (వీరి యొక్క). శ్రాద్ధ తర్పణాలు ఆగిపోవడం వల్ల పిత్తృదేవతలు కూడా అధోగతి పాలువుతారని ఇది చెబుతోంది. — భగవద్గీత (1.42)"
+    }
+  },
+  {
+    "id": "bg-1-42-q5",
+    "verse": { "c": 1, "s": 42 },
+    "concept": ["Sanskrit Grammar - Verb 'Patanti'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical form of 'patanti' in verse 1.42:",
+      "te": "1.42 శ్లోకంలోని 'పతంతి' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person plural present tense Parasmaipada (Laṭ-lakāra) from root 'pat' (to fall / descend), agreeing with the subject 'pitaraḥ'.",
+        "te": "'పత్' (పడుట/పతనమవుట) అనే ధాతువు యొక్క ప్రథమ పురుష బహువచన వర్తమానకాల (లట్ లకార) పరస్మైపద రూపం — 'పితరః' (పితృదేవతలు) అనే కర్తపదానికి అనుగుణంగా పనిచేస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Past tense verb meaning 'they fell in ancient times'.",
+        "te": "భూతకాలంలో 'వారు పడిపోయారు' అనే రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Future tense verb meaning 'they will fall eventually'.",
+        "te": "భవిష్యత్కాలంలో 'వారు పడతారు' అనే రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command meaning 'let them fall'.",
+        "te": "ఆజ్ఞార్థకంలో 'వారు పడుగాక' అనే రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Patanti' is 3rd person plural present tense of 1st class root 'pat' (to fall): patati, patataḥ, patanti. The subject is 'pitaraḥ' (nominative plural of 'pitṛ'): 'pitaraḥ patanti' = 'the ancestors fall down'. — Bhagavad Gita (1.42)",
+      "te": "'పతంతి' అనేది 'పత్' (పతనమగు) ధాతువు యొక్క ప్రథమ పురుష బహువచన రూపం (పతతి, పతతః, పతంతి). 'పితరః' (ప్రథమా బహువచనం) అనే కర్తపదంతో కూడి 'పితృదేవతలు పతనమవుతారు' అని అర్థమిస్తుంది. — భగవద్గీత (1.42)"
+    }
+  },
+  {
+    "id": "bg-1-42-q6",
+    "verse": { "c": 1, "s": 42 },
+    "concept": ["Sanskrit Sandhi Analysis - Hi + Eṣām"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi compound 'hyeṣām' in verse 1.42:",
+      "te": "1.42 శ్లోకంలోని 'హ్యేషామ్' అనే పదాన్ని విడదీసి సంధి నియమాన్ని చెప్పండి:"
+    },
+    "choices": [
+      {
+        "en": "Hi + eṣām (Yan Sandhi: vowel 'i' changes to semi-vowel 'y' before non-homogeneous vowel 'e')",
+        "te": "హి + ఏషామ్ (యణాదేశ సంధి: అసవర్ణమైన 'ఏ' అచ్చు ముందు 'ఇ' కారము 'య్' కారంగా మారినది)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Haha + eṣām",
+        "te": "హహ + ఏషామ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "He + eṣām",
+        "te": "హే + ఏషామ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Hya + eṣām",
+        "te": "హ్య + ఏషామ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Hi' (indeed) + 'eṣām' (of these). Under Yan Sandhi (i/ī + any dissimilar vowel -> y), the 'i' in 'hi' turns into 'y' sound, yielding 'hyeṣām'. — Bhagavad Gita (1.42)",
+      "te": "'హి' (నిశ్చయంగా) + 'ఏషామ్' (వీరి యొక్క). యణాదేశ సంధి నియమం ప్రకారం 'ఇ' కారానికి పరుషమైన 'ఏ' పరమైనప్పుడు 'ఇ' స్థానంలో 'య్' వచ్చి 'హ్యేషామ్' గా మారినది. — భగవద్గీత (1.42)"
+    }
+  }
+]

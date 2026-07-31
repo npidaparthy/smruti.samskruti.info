@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-39-q1",
+    "verse": { "c": 1, "s": 39 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.39?\n\n“kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum | kulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“కథం న జ్ఞేయమస్మాభిః పాపాదస్మాన్నివర్తితుమ్ | కులక్షయకృతం దోషం ప్రపశ్యద్భిర్జనార్దన”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — Why should we, O Janardana, who clearly see the evil in the destruction of a family line, not learn to turn away from this sin?",
+        "te": "అర్జునుడు పలికెను — ఓ జనార్దనా! వంశాన్ని (కులాన్ని) నాశనం చేయడం వల్ల కలిగే దోషాన్ని స్పష్టంగా గ్రహించగలిగిన మనం, ఈ పాపం నుండి తప్పుకోవాలనే జ్ఞానాన్ని ఎందుకు కలిగి ఉండకూడదు?",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — Why should we hesitate to fight, O Janardana, when our enemies have already committed the sin of destroying family traditions?",
+        "te": "అర్జునుడు పలికెను — ఓ జనార్దనా! మన శత్రువులు అప్పటికే కులధర్మాలను నాశనం చేసే పాపానికి ఒడిగట్టినప్పుడు, మనం యుద్ధం చేయడానికి ఎందుకు వెనుకాడాలి?",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — O Janardana, since we do not know who will win this battle, it is better for both armies to return home safely.",
+        "te": "అర్జునుడు పలికెను — ఓ జనార్దనా! ఈ యుద్ధంలో ఎవరు గెలుస్తారో మనకు తెలియనప్పుడు, ఇరు పక్షాల సైన్యాలూ సురక్షితంగా ఇళ్లకు తిరిగి వెళ్లడమే మంచిది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — O Janardana, those who do not see the destruction of family lines are rewarded with entry into the heavenly realms.",
+        "te": "అర్జునుడు పలికెను — ఓ జనార్దనా! వంశ నాశనాన్ని చూడలేని వారికి స్వర్గలోక ప్రాప్తి లభిస్తుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Kathaṃ na jñeyam asmābhiḥ pāpād asmān nivartitum / kula-kṣaya-kṛtaṃ doṣaṃ prapaśyadbhir janārdana.\" Completing verse 1.38, Arjuna contends that educated and righteous people who foresee the catastrophic results of war have a moral obligation to refrain from taking part in sin. — Bhagavad Gita (1.39)",
+      "te": "1.38 శ్లోకానికి కొనసాగింపుగా, అజ్ఞానులైన కౌరవులు గ్రహించలేకపోయినా, కులక్షయ దోషాన్ని స్పష్టంగా చూడగలిగిన వివేకులుగా పాండవులైన మనం ఈ పాపం నుండి వైదొలగడం నేర్చుకోవాలని అర్జునుడు కృష్ణుడిని కోరుతున్నాడు. — భగవద్గీత (1.39)"
+    }
+  },
+  {
+    "id": "bg-1-39-q2",
+    "verse": { "c": 1, "s": 39 },
+    "concept": ["Ethical Responsibility - Knowledge Imposes Duty"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What core ethical argument does Arjuna make in verse 1.39 regarding the difference between the Pandavas and the Kauravas?",
+      "te": "1.39 శ్లోకంలో పాండవులకు, కౌరవులకు ఉన్న వ్యత్యాసాన్ని వివరిస్తూ అర్జునుడు ఏ ప్రధాన నైతిక వాదనను లేవనెత్తుతున్నాడు?"
+    },
+    "choices": [
+      {
+        "en": "Ignorance may excuse the Kauravas, but since the Pandavas possess clear foresight of the sinful consequences of war ('prapaśyadbhiḥ'), they bear a higher moral duty to withdraw.",
+        "te": "కౌరవులు అజ్ఞానం వల్ల చూడలేకపోవచ్చు, కానీ యుద్ధ పరిణామాల పాపాన్ని స్పష్టంగా చూడగలిగిన జ్ఞానం ఉన్న పాండవులకు ('ప్రపశ్యద్భిః') ఆ పాపం నుండి వైదొలిగే నైతిక బాధ్యత ఎక్కువగా ఉంటుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Pandavas are physically stronger than the Kauravas and therefore should show mercy.",
+        "te": "పాండవులు కౌరవుల కంటే బలవంతులు కాబట్టి దయ చూపించాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Kauravas are spiritual ascetics while the Pandavas are worldly kings.",
+        "te": "కౌరవులు ఆధ్యాత్మిక మునులు కాగా, పాండవులు లౌకిక రాజులు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Knowledge of scriptures grants permission to break rules during times of war.",
+        "te": "శాస్త్రజ్ఞానం ఉన్నవారు యుద్ధ సమయంలో నియమాలను ఉల్లంఘించవచ్చు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna's logic hinges on moral responsibility: 'Because we see ('prapaśyadbhiḥ') the crime that they are blind to ('na paśyanti' in 1.38), we are obligated to turn away ('nivartitum'). Knowledge creates accountability. — Bhagavad Gita (1.39)",
+      "te": "అజ్ఞానులు పాపాన్ని గుర్తించలేకపోవచ్చు (1.38 లో 'న పశ్యంతి'), కానీ పరిణామాలను స్పష్టంగా చూడగలిగిన మనం ('ప్రపశ్యద్భిః') ఆ పాపం నుండి వైదొలగాలి ('నివర్తితుమ్'). జ్ఞానం ఉన్నవారికే నైతిక బాధ్యత ఎక్కువ అని అర్జునుని తర్కం. — భగవద్గీత (1.39)"
+    }
+  },
+  {
+    "id": "bg-1-39-q3",
+    "verse": { "c": 1, "s": 39 },
+    "concept": ["Sanskrit Vocabulary - Withdrawal & Foresight"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit words 'nivartitum' and 'prapaśyadbhiḥ' mean in verse 1.39?",
+      "te": "1.39 శ్లోకంలోని 'నివర్తితుమ్' మరియు 'ప్రపశ్యద్భిః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Nivartitum = To turn back / refrain / withdraw; Prapaśyadbhiḥ = By those who clearly see / perceive with foresight.",
+        "te": "నివర్తితుమ్ = వెనుకకు మరలుటకు / వైదొలుగుటకు / విరమించుకొనుటకు; ప్రపశ్యద్భిః = స్పష్టంగా చూడగలిగే వారిచేత / వివేకంతో గ్రహించగలిగే వారిచేత.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nivartitum = To attack fiercely; Prapaśyadbhiḥ = By those who are blind.",
+        "te": "నివర్తితుమ్ = తీవ్రంగా దాడి చేయుటకు; ప్రపశ్యద్భిః = అంధులైన వారిచేత.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nivartitum = To celebrate victory; Prapaśyadbhiḥ = By those who are sleeping.",
+        "te": "నివర్తితుమ్ = విజయోత్సవం చేసుకొనుటకు; ప్రపశ్యద్భిః = నిద్రపోతున్న వారిచేత.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nivartitum = To pray to gods; Prapaśyadbhiḥ = By those who flee.",
+        "te": "నివర్తితుమ్ = దేవతలను ప్రార్థించుటకు; ప్రపశ్యద్భిః = పారిపోతున్న వారిచేత.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Nivartitum' is an infinitive meaning 'to retreat / turn away from'. 'Prapaśyadbhiḥ' is an Instrumental plural participle from 'pra' + 'dṛś' (to see clearly/foresee). Together they express 'turning away from sin by us who see clearly'. — Bhagavad Gita (1.39)",
+      "te": "'నివర్తితుమ్' అనగా తుమున్నంత రూపం — 'వైదొలుగుటకు/తప్పుకొనుటకు'. 'ప్రపశ్యద్భిః' అనగా 'ప్ర' (స్పష్టంగా) + 'పశ్' (చూచుట) — స్పష్టంగా చూడగలిగే మనచేత అని తృతీయా బహువచన రూపం. — భగవద్గీత (1.39)"
+    }
+  },
+  {
+    "id": "bg-1-39-q4",
+    "verse": { "c": 1, "s": 39 },
+    "concept": ["Name Analysis - Janardana in Context"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Why does Arjuna invoke the name 'Janārdana' again at the end of verse 1.39?",
+      "te": "1.39 శ్లోకం ముగింపులో అర్జునుడు 'జనార్దనా' అనే నామాన్ని మరలా ఎందుకు ఉపయోగించాడు?"
+    },
+    "choices": [
+      {
+        "en": "He appeals to Lord Krishna as the protector of people (Jana) to agree that preventing war is necessary to save humanity from destruction.",
+        "te": "జనుల/ప్రజల సంరక్షకుడైన శ్రీకృష్ణుడు (జనార్దనుడు), ప్రజాక్షేమం కోరి ఈ వినాశకర యుద్ధం నుండి తమను రక్షించడానికి అనుగ్రహించాలని కోరుతూ.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "He is demanding that Krishna take up His Sudarshana Chakra and strike first.",
+        "te": "కృష్ణుడు తన సుదర్శన చక్రాన్ని చేతిలోకి తీసుకుని మొదటగా దాడి చేయాలని డిమాండ్ చేస్తూ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "He is reminding Krishna of His promises to King Dhritarashtra.",
+        "te": "ధృతరాష్ట్రునికి ఇచ్చిన మాటలను కృష్ణునికి గుర్తుచేస్తూ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "He is asking Krishna to act as a judge in an archery contest.",
+        "te": "విలువిద్య పోటీలో కృష్ణుడిని న్యాయ నిర్ణేతగా ఉండమని అడుగుతూ.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Calling Krishna 'Janārdana' ('protector/sustainer of the people') underscores Arjuna's appeal: as One who protects humanity, Krishna should support Arjuna's choice to turn away from a sin that will wipe out entire populations. — Bhagavad Gita (1.39)",
+      "te": "జనుల శ్రేయస్సును కోరే 'జనార్దనుడు' భగవంతుడై ఉండగా, మానవాళికి వినాశనం తెచ్చే పాపం నుండి వైదొలగాలనే తన నిర్ణయాన్ని కృష్ణుడు మన్నించాలని అర్జునుని ఆశయం. — భగవద్గీత (1.39)"
+    }
+  },
+  {
+    "id": "bg-1-39-q5",
+    "verse": { "c": 1, "s": 39 },
+    "concept": ["Sanskrit Grammar - Instrumental Participle 'Prapaśyadbhiḥ'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What is the grammatical case, number, and agreement of 'prapaśyadbhiḥ' in verse 1.39?",
+      "te": "1.39 శ్లోకంలోని 'ప్రపశ్యద్భిః' అనే పదానికి ఉన్న వ్యాకరణ విభక్తి, వచనం మరియు అనుసంధానం ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Instrumental Plural Masculine present participle (from 'pra-dṛś'), modifying the agent pronoun 'asmābhiḥ' ('by us who clearly see').",
+        "te": "తృతీయా విభక్తి బహువచన పుంలింగ వర్తమానకాల శతృ ప్రత్యయాంత రూపం ('ప్ర-దృశ్' ధాతువు) — 'అస్మాభిః' (మనచేత) అనే కర్తపదానికి విశేషణంగా పనిచేస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nominative Plural Masculine noun acting as subject of sentence.",
+        "te": "ప్రథమా విభక్తి బహువచన నామవాచకం (కర్తపదం).",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Genitive Singular Feminine noun indicating possession.",
+        "te": "షష్ఠీ విభక్తి ఏకవచన స్త్రీలింగ నామవాచకం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Locative Plural Neuter pronoun indicating location.",
+        "te": "సప్తమీ విభక్తి బహువచన నపుంసకలింగ సర్వనామం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Prapaśyadbhiḥ' is Instrumental Plural of 'prapaśyat' (present active participle of 'pra' + 'dṛś'). It modifies 'asmābhiḥ' (Instrumental Plural of 'asmad' = by us): 'asmābhiḥ prapaśyadbhiḥ' = 'by us who clearly foresee'. — Bhagavad Gita (1.39)",
+      "te": "'ప్రపశ్యద్భిః' అనేది తృతీయా విభక్తి బహువచన రూపం. ఇది 'అస్మాభిః' (మనచేత - తృతీయా బహువచనం) అనే సర్వనామానికి విశేషణంగా నిలిచి 'దోషాన్ని స్పష్టంగా చూడగలిగే మనచేత' అనే అర్థాన్ని ఇస్తుంది. — భగవద్గీత (1.39)"
+    }
+  },
+  {
+    "id": "bg-1-39-q6",
+    "verse": { "c": 1, "s": 39 },
+    "concept": ["Sanskrit Sandhi Analysis - Pāpād asmāt"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'pāpādasmānnivartitum' in verse 1.39:",
+      "te": "1.39 శ్లోకంలోని 'పాపాదస్మాన్నివర్తితుమ్' అనే పదాన్ని విడదీసి సంధి నియమాలను చెప్పండి:"
+    },
+    "choices": [
+      {
+        "en": "Pāpāt + asmāt + nivartitum (Jasdtva Sandhi: pāpāt + asmāt -> pāpād; Anunāsika Sandhi: asmāt + nivartitum -> asmān)",
+        "te": "పాపాత్ + అస్మాత్ + నివర్తితుమ్ (జశ్త్వ సంధి: పాపాత్ + అస్మాత్ -> పాపాద్; అనునాసిక సంధి: అస్మాత్ + నివర్తితుమ్ -> అస్మాన్)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Pāpā + dasmāt + nivartitum",
+        "te": "పాపా + దస్మాత్ + నివర్తితుమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Pāpān + asmān + nivartitum",
+        "te": "పాపాన్ + అస్మాన్ + నివర్తితుమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Pāpāt + asmi + nivartitum",
+        "te": "పాపాత్ + అస్మి + నివర్తితుమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Pāpāt' (from sin - Ablative) + 'asmāt' (from this - Ablative): 't' before vowel 'a' changes to 'd' (Jasdtva Sandhi) -> 'pāpād asmāt'. Then 'asmāt' + 'nivartitum': 't' before nasal 'n' changes to nasal 'n' (Anunāsika Sandhi) -> 'asmān nivartitum'. Combined: 'pāpādasmānnivartitum'. — Bhagavad Gita (1.39)",
+      "te": "'పాపాత్' (పాపం నుండి) + 'అస్మాత్' (దీని నుండి) లలో వర్గ ప్రథమాక్షరం 'త్' అచ్చు 'అ' తో కలిసి 'ద్' గా మారింది (జశ్త్వ సంధి -> పాపాద్ అస్మాత్). ఆపై 'అస్మాత్' + 'నివర్తితుమ్' లలో 'త్' అనునాసికం 'న్' ముందు 'న్' గా మారింది (అనునాసిక సంధి -> అస్మాన్ నివర్తితుమ్). — భగవద్గీత (1.39)"
+    }
+  }
+]

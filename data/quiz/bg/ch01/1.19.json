@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-19-q1",
+    "verse": { "c": 1, "s": 19 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.19?\n\n“sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat | nabhaśca pṛthivīṃ caiva tumulo vyanunādayan”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“స ఘోషో ధార్తరాష్ట్రాణాం హృదయాని వ్యదారయత్ | నభశ్చ పృథివీం చైవ తుములో వ్యనునాదయన్”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — That tumultuous roar, resounding through both sky and earth, shattered the hearts of Dhritarashtra's sons.",
+        "te": "సంజయుడు పలికెను — ఆ భయంకరమైన శంఖధ్వని ఆకాశాన్ని, భూమిని ప్రతిధ్వనింపజేస్తూ, ధృతరాష్ట్రుని కుమారుల (కౌరవుల) హృదయాలను పిక్కటిల్లేలా చేసింది (విదీర్ణం చేసింది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — The sound of Bhishma's conch shell struck terror into the hearts of the Pandava infantry.",
+        "te": "సంజయుడు పలికెను — భీష్ముని శంఖారావం విని పాండవ సైనికుల హృదయాలు భయంతో కంపించాయి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — The tumultuous sound brought great joy to King Dhritarashtra as he listened from his palace.",
+        "te": "సంజయుడు పలికెను — ఆ మిశ్రమ ధ్వనులను విన్న ధృతరాష్ట్ర మహారాజు తన రాజప్రసాదంలో ఆనందించాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — Heavenly gods showered flowers from the sky as both armies clashed in battle.",
+        "te": "సంజయుడు పలికెను — ఇరు సైన్యాలు పోరాడుతుండగా ఆకాశం నుండి దేవతలు పూలవర్షం కురిపించారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat / nabhaśca pṛthivīṃ caiva tumulo vyanunādayan.\" The combined sound of Panchajanya, Devadatta, and the Pandava conches filled the earth and sky, piercing the hearts of the Kaurava army. — Bhagavad Gita (1.19)",
+      "te": "కృష్ణార్జునులు, పాండవులు చేసిన దివ్య శంఖారావం భూమ్యాకాశాలను నింపుతూ, ధార్తరాష్ట్రుల (కౌరవుల) హృదయాలను విదీర్ణం చేసిందని సంజయుడు ధృతరాష్ట్రుడికి వివరిస్తున్నాడు. — భగవద్గీత (1.19)"
+    }
+  },
+  {
+    "id": "bg-1-19-q2",
+    "verse": { "c": 1, "s": 19 },
+    "concept": ["Psychological & Moral Analysis - Inner Guilt"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Why did the Pandava conch roar shatter the hearts of Dhritarashtra's sons (verse 1.19), whereas the Kaurava sound in verse 1.13 did not shatter the Pandavas?",
+      "te": "1.13 శ్లోకంలో కౌరవులు చేసిన రణభేరి శబ్దం పాండవులను భయపెట్టలేదు, కానీ 1.19 శ్లోకంలో పాండవుల శంఖారావం కౌరవుల హృదయాలను ఎందుకు పిక్కటిల్లేలా చేసింది?"
+    },
+    "choices": [
+      {
+        "en": "Because the Pandavas were grounded in Dharma and divine protection, while the Kauravas harbored inner guilt and spiritual anxiety due to Adharma.",
+        "te": "పాండవుల పక్షాన ధర్మం, భగవదనుగ్రహం ఉండటం వల్ల వారు నిర్భయంగా ఉన్నారు; అధర్మ పక్షాన ఉన్న కౌరవుల్లో అంతర్గత పాపభీతి, అభద్రతాభావం ఉండటం వల్ల ఈ ధ్వని వారి హృదయాలను కంపంపజేసింది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because the Pandavas blew larger and newer brass conch shells brought from Panchala.",
+        "te": "పాండవులు పాంచాల దేశం నుండి తెచ్చిన పెద్ద లోహపు శంఖాలను పూరించడం వల్ల.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because Duryodhana had instructed his army to feign terror as a tactical trap.",
+        "te": "పాండవులను భ్రమలో పెట్టడానికి భయపడినట్లు నటించమని దుర్యోధనుడు తన సైన్యానికి చెప్పడం వల్ల.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because Sage Vyasa amplified the sound of the Pandava conches through divine powers.",
+        "te": "వ్యాస మహర్షి తన తపోబలంతో పాండవుల శంఖధ్వనిని మాత్రమే మిక్కిలి బిగ్గరగా మార్చడం వల్ల.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Commentators note the spiritual contrast: Adharma breeds weakness and fear of justice. The divine conch blasts pierced the Kauravas' hearts because they secretly knew their cause was unrighteous, whereas the Pandavas remained fearless under Krishna's shelter. — Bhagavad Gita (1.19)",
+      "te": "అధర్మం ఎల్లప్పుడూ లోపల భయాన్ని నింపుతుంది. శ్రీకృష్ణుని ఆశ్రయంలో ఉన్న పాండవులలో ధర్మబలం ఉంది, కానీ కౌరవులలో అక్రమంగా రాజ్యం లాక్కున్నామనే ఆత్మన్యూనత, భయం ఉన్నందున ఈ దివ్య శబ్దం వారి గుండెల్లో గుబులు పుట్టించింది. — భగవద్గీత (1.19)"
+    }
+  },
+  {
+    "id": "bg-1-19-q3",
+    "verse": { "c": 1, "s": 19 },
+    "concept": ["Sanskrit Vocabulary - Psychological Action"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What does the Sanskrit verb 'vyadārayat' mean in verse 1.19?",
+      "te": "1.19 శ్లోకంలో ఉన్న 'వ్యదారయత్' అనే సంస్కృత క్రియాపదానికి అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Shattered / Pierced / Rent asunder (caused to split with fear)",
+        "te": "విదీర్ణం చేసింది / పిక్కటిల్లేలా చేసింది / ముక్కలు ముక్కలుగా బద్దలుకొట్టింది",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Filled with joy and enthusiasm",
+        "te": "సంతోషంతో, ఉత్సాహంతో నింపింది",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Emerged from the distant horizon",
+        "te": "సుదూర దిగంతాల నుండి ప్రత్యక్షమైంది",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Calmed the agitated minds of soldiers",
+        "te": "సైనికుల కలవరపడిన మనస్సులను ప్రశాంతపరిచింది",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vyadārayat' comes from 'vi' + 'dṛ' (to tear, rend, or split). 'Hṛdayāni vyadārayat' means it rent or shattered their hearts with psychological terror. — Bhagavad Gita (1.19)",
+      "te": "'వ్యదారయత్' అనగా విదీర్ణం చేసెను లేదా బద్దలుకొట్టెను అని అర్థం ('వి' + 'దౄ'). 'హృదయాని వ్యదారయత్' అనగా కౌరవుల గుండెలను పిక్కటిల్లేలా చేసి భయాందోళనలకు గురిచేసిందని అర్థం. — భగవద్గీత (1.19)"
+    }
+  },
+  {
+    "id": "bg-1-19-q4",
+    "verse": { "c": 1, "s": 19 },
+    "concept": ["Sanskrit Vocabulary - Cosmic Echo"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which Sanskrit phrase in verse 1.19 indicates that the sound reverberated across both the firmament and the earth?",
+      "te": "1.19 శ్లోకంలో ఆ శబ్దం ఆకాశాన్ని, భూమిని ప్రతిధ్వనింపజేసిందని సూచించే సంస్కృత పదబంధం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Nabhaśca pṛthivīṃ caiva tumulo vyanunādayan",
+        "te": "నభశ్చ పృథివీం చైవ తుములో వ్యనునాదయన్",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sa ghoṣo dhārtarāṣṭrāṇām",
+        "te": "స ఘోషో ధార్తరాష్ట్రాణామ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Hṛdayāni vyadārayat",
+        "te": "హృదయాని వ్యదారయత్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sa śabdastumulo'bhavat",
+        "te": "స శబ్దస్తుములోఽభవత్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Nabhaḥ' (sky/heaven) + 'ca' (and) + 'pṛthivīm' (earth) + 'ca' + 'eva' + 'tumulaḥ' (tumultuous) + 'vyanunādayan' (resounding through). It portrays the cosmic scale of the Pandava conch roar. — Bhagavad Gita (1.19)",
+      "te": "'నభః' (ఆకాశము) + 'పృథివీమ్' (భూమి) + 'వ్యనునాదయన్' (ప్రతిధ్వనింపజేస్తూ). ఆ భయంకర శబ్దం భూమ్యాకాశాలంతటా నిండి ప్రతిధ్వనించిన తీరును ఇది వర్ణిస్తుంది. — భగవద్గీత (1.19)"
+    }
+  },
+  {
+    "id": "bg-1-19-q5",
+    "verse": { "c": 1, "s": 19 },
+    "concept": ["Sanskrit Grammar - Participle Form"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What is the grammatical form and meaning of 'vyanunādayan' in verse 1.19?",
+      "te": "1.19 శ్లోకంలోని 'వ్యనునాదయన్' అనే పదానికి వ్యాకరణ స్వరూపం మరియు అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Present participle (Śatṛ-pratyaya) meaning 'making resound / causing to reverberate'",
+        "te": "వర్తమానకాల శతృప్రత్యయాంత రూపం — 'ప్రతిధ్వనింపజేస్తూ / రణగొణధ్వని చేస్తూ'",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Past tense verb meaning 'it ceased echoing'",
+        "te": "భూతకాల క్రియాపదం — 'అది నిశ్శబ్దమైంది'",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Imperative mood verb meaning 'let them echo'",
+        "te": "ఆజ్ఞార్థక క్రియాపదం — 'అవి ప్రతిధ్వనించుగాక'",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Noun in locative case meaning 'in the echoing sky'",
+        "te": "సప్తమీ విభక్తి నామవాచకం — 'ప్రతిధ్వనించే ఆకాశంలో'",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vyanunādayan' is a masculine singular nominative present participle ('vi' + 'anu' + 'nad' causal). It qualifies the sound ('ghoṣaḥ') as actively causing heaven and earth to resound. — Bhagavad Gita (1.19)",
+      "te": "'వ్యనునాదయన్' అనగా 'మిక్కిలి బిగ్గరగా ప్రతిధ్వనింపజేస్తూ' అని అర్థం ఇచ్చే వర్తమానకాల విశేషణ రూపం. ఆ దివ్య శబ్దం ('ఘోషః') భూమ్యాకాశాలను ఏ విధంగా నింపిందో ఇది తెలుపుతుంది. — భగవద్గీత (1.19)"
+    }
+  },
+  {
+    "id": "bg-1-19-q6",
+    "verse": { "c": 1, "s": 19 },
+    "concept": ["Narrative Pivot - Transition to Arjuna's Despondency"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "How does verse 1.19 act as a dramatic turning point in Chapter 1 of the Bhagavad Gita?",
+      "te": "భగవద్గీత మొదటి అధ్యాయంలో 1.19 శ్లోకం ఏ రకమైన నాటకీయ మలుపును సూచిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "It concludes the military preparation and conch-blowing phase, setting the stage for Arjuna to request Krishna to place his chariot between the two armies in verse 1.20.",
+        "te": "ఇది సైనిక సమర సన్నాహాలు, శంఖారావాల ఘట్టాన్ని ముగిస్తూ, 1.20 శ్లోకంలో అర్జునుడు తన రథాన్ని ఇరు సైన్యాల మధ్య నిలపమని కృష్ణుడిని కోరే ప్రధాన ఘట్టానికి దారితీస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It marks the immediate surrender of King Duryodhana.",
+        "te": "దుర్యోధనుడు వెంటనే లొంగిపోవడాన్ని ఇది ప్రకటిస్తుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It ends the battle completely with a peaceful treaty.",
+        "te": "శాంతి ఒప్పందంతో యుద్ధం పూర్తిగా ముగిసిపోవడాన్ని ఇది సూచిస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It describes the death of Bhishma on the arrow bed.",
+        "te": "భీష్ముడు అంపశయ్యపై పడిపోవడాన్ని ఇది వివరిస్తుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verse 1.19 marks the climax of the military acoustic build-up (verses 1.12–1.19). Once the conches have declared the war initiated, the narrative shifts focus directly to Arjuna raising his bow and making his pivotal request to Krishna in verse 1.20. — Bhagavad Gita (1.19)",
+      "te": "1.12 నుండి 1.19 వరకు జరిగిన శంఖారావాల ఘట్టం దీనితో పూర్తయింది. శబ్ద రూపంలో యుద్ధం ప్రారంభమైన తర్వాత, కథాగమనం అర్జునుడి వైపు మళ్లుతుంది, 1.20 శ్లోకం నుండి అర్జునుడు కృష్ణుడిని రథాన్ని ఇరు సైన్యాల మధ్యకు తీసుకువెళ్ళమని కోరతాడు. — భగవద్గీత (1.19)"
+    }
+  }
+]

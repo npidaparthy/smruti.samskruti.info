@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-41-q1",
+    "verse": { "c": 1, "s": 41 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.41?\n\n“adharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ | strīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అధర్మాభిభవాత్కృష్ణ ప్రదుష్యంతి కులస్త్రియః | సీత్రాసు దుష్టాసు వార్ష్ణేయ జాయతే వర్ణసంకరః”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — When irreligion prevails, O Krishna, the women of the family become corrupted; and when women become corrupted, O Varshneya, unwanted progeny (varṇa-saṅkara) ensues.",
+        "te": "అర్జునుడు పలికెను — ఓ కృష్ణా! అధర్మం పెరిగిపోవడం వల్ల కులస్త్రీలు దారి తప్పి దూషితులవుతారు; ఓ వార్ష్ణేయా! స్త్రీలు దూషితులైనప్పుడు వర్ణసంకరం (అవాంఛిత సంతానం) ఏర్పడుతుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — By maintaining strict military order, O Krishna, women are protected and noble offspring are born to rule the kingdom.",
+        "te": "అర్జునుడు పలికెను — సైనిక క్రమశిక్షణను పాటించడం ద్వారా స్త్రీలు రక్షించబడి, రాజ్యాన్ని ఏలడానికి ఉత్తమమైన సంతానం జన్మిస్తుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — When war breaks out, O Varshneya, women take up arms to protect their ancestral homes and traditions.",
+        "te": "అర్జునుడు పలికెను — ఓ వార్ష్ణేయా! యుద్ధం సంభవించినప్పుడు తమ ఇళ్లను, సాంప్రదాయాలను రక్షించుకోవడానికి స్త్రీలే స్వయంగా ఆయుధాలు పడతారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — Irreligion causes kings to lose their wealth, but righteous sacrifices restore social harmony.",
+        "te": "అర్జునుడు పలికెను — అధర్మం వల్ల రాజులు సంపదను కోల్పోతారు, కానీ ధర్మబద్ధమైన యజ్ఞాలు చేయడం వల్ల సమాజంలో శాంతి పునరుద్ధరించబడుతుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Adharmābhibhavāt kṛṣṇa praduṣyanti kula-striyaḥ / strīṣu duṣṭāsu vārṣṇeya jāyate varṇa-saṅkaraḥ.\" Arjuna outlines the social consequences of lawlessness following war: moral collapse leads to the degradation of family women, which in turn leads to social disorder and unwanted offspring ('varṇa-saṅkara'). — Bhagavad Gita (1.41)",
+      "te": "యుద్ధం వల్ల అధర్మం ఎక్కువై కుటుంబ వ్యవస్థ దెబ్బతింటుందని, దానివల్ల కులస్త్రీల శీలరక్షణ లోపించి వర్ణసంకరం (సామాజిక క్రమరాహిత్యం/అవాంఛిత సంతానం) ఉత్పన్నమవుతుందని అర్జునుడు ఆవేదన వ్యక్తం చేస్తున్నాడు. — భగవద్గీత (1.41)"
+    }
+  },
+  {
+    "id": "bg-1-41-q2",
+    "verse": { "c": 1, "s": 41 },
+    "concept": ["Name Analysis - Vārṣṇeya"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Why does Arjuna specifically address Lord Krishna as 'Vārṣṇeya' in verse 1.41?",
+      "te": "1.41 శ్లోకంలో అర్జునుడు శ్రీకృష్ణుడిని 'వార్ష్ణేయా' అని ఎందుకు ప్రత్యేకంగా సంబోధించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Vārṣṇeya = Descendant of Vṛṣṇi; Arjuna invokes Krishna's exalted clan heritage, implying that a member of such a noble dynasty should understand the importance of preserving lineage purity and family virtue.",
+        "te": "వార్ష్ణేయ = వృష్ణి వంశంలో జన్మించినవాడు; అత్యున్నతమైన వృష్ణి వంశజుడైన కృష్ణుడికి, వంశ పవిత్రతను, కులధర్మాలను కాపాడటం ఎంత ముఖ్యమో బాగా తెలుసని అర్జునుని భావం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Vārṣṇeya = One who causes monsoon rains to fall on the earth.",
+        "te": "వార్ష్ణేయ = భూమిపై వర్షాలు కురిపించేవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Vārṣṇeya = Ruler of the southern kingdom of Mathura.",
+        "te": "వార్ష్ణేయ = దక్షిణ మథురా రాజ్యాధిపతి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vārṣṇeya = Destroyer of enemy cavalry formations.",
+        "te": "వార్ష్ణేయ = శత్రు అశ్విక దళాలను నాశనం చేసేవాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vārṣṇeya' is a patronymic meaning 'scion of the Vṛṣṇi clan'. By addressing Krishna as Vārṣṇeya, Arjuna reminds Him of His own illustrious family lineage, appealing to Krishna's noble roots while arguing against the destruction of family lines. — Bhagavad Gita (1.41)",
+      "te": "'వృష్ణి' వంశంలో పుట్టినవాడు కాబట్టి కృష్ణుడికి 'వార్ష్ణేయుడు' అని పేరు. పవిత్రమైన వృష్ణి వంశానికి చెందిన కృష్ణుడికి వంశ పరంపర నాశనమవ్వడం వల్ల కలిగే అనర్థాలు తెలుసు అని గుర్తుచేయడానికి అర్జునుడు ఈ నామంతో పిలిచాడు. — భగవద్గీత (1.41)"
+    }
+  },
+  {
+    "id": "bg-1-41-q3",
+    "verse": { "c": 1, "s": 41 },
+    "concept": ["Sociological Concept - Varṇa-saṅkara"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit term 'varṇa-saṅkaraḥ' literally and sociologically denote in verse 1.41?",
+      "te": "1.41 శ్లోకంలోని 'వర్ణసంకరః' అనే పదానికి నిఘంటు మరియు సామాజిక అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Confusion of social orders / unwanted and unintegrated progeny resulting from the breakdown of moral and family traditions.",
+        "te": "కుటుంబ, నైతిక వ్యవస్థలు చిన్నభిన్నం కావడం వల్ల ఏర్పడే సామాజిక శ్రేణుల గందరగోళం / అవాంఛిత సంతానం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "A special ritual performed by priests before entering battle.",
+        "te": "యుద్ధానికి వెళ్ళేముందు పురోహితులు చేసే ప్రత్యేక శాంతి యజ్ఞం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The blending of various military armaments in battlefield formation.",
+        "te": "యుద్ధ వ్యూహంలో వివిధ రకాల ఆయుధాలను కలపడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The distribution of royal wealth among all four classes of society.",
+        "te": "రాజ సంపదను సమాజంలోని నాలుగు వర్ణాల ప్రజలకూ సమానంగా పంచడం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Varṇa' (social order / spiritual class) + 'saṅkara' (admixture / confusion). In classical Indian sociology, Varṇa-saṅkara describes the disruption of social harmony and spiritual lineage when traditional family values and moral restraints collapse. — Bhagavad Gita (1.41)",
+      "te": "'వర్ణ' (సామాజిక వర్గం) + 'సంకర' (కలయిక/గందరగోళం). కుటుంబ నియమాలు, నైతిక విలువలు దెబ్బతిన్నప్పుడు సామాజిక ధర్మం లోపించి 'వర్ణసంకరం' ఏర్పడుతుందని పూర్వీకుల భావన. — భగవద్గీత (1.41)"
+    }
+  },
+  {
+    "id": "bg-1-41-q4",
+    "verse": { "c": 1, "s": 41 },
+    "concept": ["Sanskrit Vocabulary - Women & Corruption"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit phrases 'praduṣyanti kula-striyaḥ' and 'strīṣu duṣṭāsu' mean in verse 1.41?",
+      "te": "1.41 శ్లోకంలోని 'ప్రదుష్యంతి కులస్త్రియః' మరియు 'స్త్రీషు దుష్టాసు' అనే సంస్కృత పదబంధాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Praduṣyanti kula-striyaḥ = The women of the family become corrupted/degraded; Strīṣu duṣṭāsu = When women become corrupted/tainted.",
+        "te": "ప్రదుష్యంతి కులస్త్రియః = కులస్త్రీలు దారి తప్పి దూషితులవుతారు; స్త్రీషు దుష్టాసు = స్త్రీలు దూషితులైనప్పుడు/చెడిపోయినప్పుడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Praduṣyanti kula-striyaḥ = Women take leadership of the state; Strīṣu duṣṭāsu = When women become warriors.",
+        "te": "ప్రదుష్యంతి కులస్త్రియః = స్త్రీలు రాజ్యాన్ని ఏలుతారు; స్త్రీషు దుష్టాసు = స్త్రీలు యోధులుగా మారినప్పుడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Praduṣyanti kula-striyaḥ = Women abandon household duties; Strīṣu duṣṭāsu = When women fast during festivals.",
+        "te": "ప్రదుష్యంతి కులస్త్రియః = స్త్రీలు ఇంటి పనులను విడిచిపెడతారు; స్త్రీషు దుష్టాసు = స్త్రీలు ఉపవాసాలు ఉన్నప్పుడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Praduṣyanti kula-striyaḥ = Women pray for their husbands; Strīṣu duṣṭāsu = When women mourn the fallen.",
+        "te": "ప్రదుష్యంతి కులస్త్రియః = స్త్రీలు భర్తల కోసం ప్రార్థిస్తారు; స్త్రీషు దుష్టాసు = స్త్రీలు శోకిస్తున్నప్పుడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kula-striyaḥ' (respectable women of the lineage) + 'praduṣyanti' (become severely corrupted/polluted). 'Strīṣu' (in women - Locative plural) + 'duṣṭāsu' (corrupted - Locative plural feminine participle). — Bhagavad Gita (1.41)",
+      "te": "'కులస్త్రియః' అనగా వంశ గౌరవాన్ని కాపాడే స్త్రీలు; 'ప్రదుష్యంతి' అనగా మిక్కిలి దూషితులవుతారు/నైతికంగా దెబ్బతింటారు. 'స్త్రీషు దుష్టాసు' అనగా 'స్త్రీలు దూషితులైన సమయమునందు' అని సప్తమీ విభక్తి ప్రయోగం. — భగవద్గీత (1.41)"
+    }
+  },
+  {
+    "id": "bg-1-41-q5",
+    "verse": { "c": 1, "s": 41 },
+    "concept": ["Sanskrit Grammar - Locative Absolute 'Strīṣu duṣṭāsu'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What grammatical structure is formed by 'strīṣu duṣṭāsu' in verse 1.41?",
+      "te": "1.41 శ్లోకంలోని 'స్త్రీషు దుష్టాసు' అనే పదబంధంలో ఉన్న సంస్కృత వ్యాకరణ నిర్మాణం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Locative Absolute (Sati-saptamī) in feminine plural ('When women become corrupted...')",
+        "te": "స్త్రీలింగ బహువచనంలో ఉన్న సతీ-సప్తమీ (Locative Absolute) నిర్మాణం — 'స్త్రీలు దూషితులైనప్పుడు...'",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Genitive Tatpurusha compound showing origin.",
+        "te": "షష్ఠీ తత్పురుష సమాసము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Instrumental plural showing cause.",
+        "te": "తృతీయా విభక్తి బహువచన రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nominative plural subject clause.",
+        "te": "ప్రథమా విభక్తి బహువచన రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Strīṣu' (noun in Locative plural feminine) + 'duṣṭāsu' (past participle in Locative plural feminine) forms a Locative Absolute construction (Sati-saptamī): 'When/upon women becoming corrupted, unwanted progeny arises'. — Bhagavad Gita (1.41)",
+      "te": "'స్త్రీషు' (సప్తమీ విభక్తి బహువచనం) + 'దుష్టాసు' (సప్తమీ విభక్తి బహువచన విశేషణం) కలసి సతీ-సప్తమీ ప్రయోగాన్ని ఏర్పరిచాయి. ఒక సంఘటన (స్త్రీలు చెడిపోవడం) జరిగినప్పుడు తర్వాతి పరిణామం (వర్ణసంకరం పుట్టడం) జరుగుతుందని ఇది సూచిస్తుంది. — భగవద్గీత (1.41)"
+    }
+  },
+  {
+    "id": "bg-1-41-q6",
+    "verse": { "c": 1, "s": 41 },
+    "concept": ["Sanskrit Grammar - Verb Analysis 'Jāyate'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical form of 'jāyate' in verse 1.41:",
+      "te": "1.41 శ్లోకంలోని 'జాయతే' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person singular present tense Ātmanepada (Laṭ-lakāra) from root 'jan' (to be born / produced / generated), agreeing with 'varṇa-saṅkaraḥ'.",
+        "te": "'జన్' (జన్మించుట/ఉత్పత్తి అగుట) అనే ధాతువు యొక్క వర్తమానకాల (లట్ లకార) ఆత్మనేపద ప్రథమ పురుష ఏకవచన రూపం — 'వర్ణసంకరః' అనే కర్తకు అనుగుణంగా పనిచేస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Past tense verb meaning 'was born in the past'.",
+        "te": "భూతకాలంలో 'జన్మించెను' అనే రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Future tense verb meaning 'will be born later'.",
+        "te": "భవిష్యత్కాలంలో 'జన్మిస్తుంది' అనే రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command meaning 'let it be born'.",
+        "te": "ఆజ్ఞార్థకంలో 'జన్మించుగాక' అనే రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Jāyate' is 3rd person singular present tense Ātmanepada of root 'jan' (to arise/be born). Its subject is 'varṇa-saṅkaraḥ' (nominative singular masculine): 'varṇa-saṅkaraḥ jāyate' = 'unwanted progeny arises'. — Bhagavad Gita (1.41)",
+      "te": "'జాయతే' అనేది 'జన్' ధాతువు యొక్క ఆత్మనేపద ప్రథమ పురుష ఏకవచన వర్తమానకాల రూపం. 'వర్ణసంకరః' (ప్రథమా ఏకవచనం) అనే కర్తపదానికి ఇది క్రియగా నిలిచి 'వర్ణసంకరం పుడుతుంది' అనే అర్థాన్ని ఇస్తుంది. — భగవద్గీత (1.41)"
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-14-q1",
+    "verse": { "c": 1, "s": 14 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.14?\n\n“tataḥ śvetairhayairyukte mahati syandane sthitau | mādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“తతః శ్వేతైర్హయైర్యుక్తే మహతి స్యన్దనే స్థితౌ | మాధవః పాణ్డవశ్చైవ దివ్యౌ శఙ్ఖౌ ప్రదధ్మతుః”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — Then, seated in a magnificent chariot yoked with white horses, Madhava (Krishna) and Pandava (Arjuna) blew their divine conch shells.",
+        "te": "సంజయుడు పలికెను — ఆ తర్వాత, తెల్లని గుర్రాలు పూన్చిన దివ్యమైన మహా రథంలో ఆసీనులై ఉన్న మాధవుడు (శ్రీకృష్ణుడు) మరియు పాండవుడు (అర్జునుడు) తమ దివ్య శంఖాలను పూరించారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — Seeing the Kauravas advance, Madhava drove the chariot straight into the center of the battlefield.",
+        "te": "సంజయుడు పలికెను — కౌరవులు ముందుకు రావడం చూసి, మాధవుడు రథాన్ని నేరుగా రణరంగం మధ్యలోకి నడిపించాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — Pandava lifted his bow Gandiva while Madhava sounded the war horn to signal their forces.",
+        "te": "సంజయుడు పలికెను — పాండవుడు తన గాండీవాన్ని పైకెత్తగా, మాధవుడు తమ సైన్యానికి సంకేతంగా రణభేరి మోగించాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — Four white horses drew the chariot of King Yudhishthira as he stepped forward to face Bhishma.",
+        "te": "సంజయుడు పలికెను — భీష్ముడిని ఎదుర్కొనడానికి యుధిష్ఠిరుడు ముందుకు రాగా, నాలుగు తెల్లని గుర్రాలు అతడి రథాన్ని లాగాయి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Tataḥ śvetair hayair yukte mahati syandane sthitau / mādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ.\" In direct response to the Kaurava military uproar, Krishna (Madhava) and Arjuna (Pandava), seated in their grand chariot drawn by white horses, blew their divine conch shells. — Bhagavad Gita (1.14)",
+      "te": "కౌరవుల సైనిక ధ్వనులకు ప్రత్యుత్తరంగా, తెల్లని గుర్రాలు పూన్చిన దివ్యమైన మహా రథంలో ఉన్న శ్రీకృష్ణుడు (మాధవుడు) మరియు అర్జునుడు (పాండవుడు) తమ దివ్య శంఖాలను పూరించారు. — భగవద్గీత (1.14)"
+    }
+  },
+  {
+    "id": "bg-1-14-q2",
+    "verse": { "c": 1, "s": 14 },
+    "concept": ["Name Analysis - Madhava"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Why is Lord Krishna specifically referred to as 'Mādhavaḥ' in verse 1.14, and what does this epithet signify?",
+      "te": "1.14 శ్లోకంలో శ్రీకృష్ణుడిని 'మాధవః' అని ఎందుకు సంబోధించారు? ఈ పేరు యొక్క అంతరార్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Mādhava = Lord/Consort of Lakshmi (Ma + Dhava), implying that fortune, victory, and prosperity naturally reside wherever He is present.",
+        "te": "మాధవ = లక్ష్మీదేవికి భర్త/ప్రభువు (మా + ధవ); లక్ష్మీపతియైన భగవంతుడు ఎక్కడ ఉంటే అక్కడ విజయం, ఐశ్వర్యం సహజంగానే ఉంటాయని ఇది సూచిస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mādhava = The driver of war chariots in the Madhu dynasty.",
+        "te": "మాధవ = మధు వంశంలో రథాలను నడిపే రథసారథి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Mādhava = One who slayed the demon Madhu with a conch shell.",
+        "te": "మాధవ = శంఖంతో మధువు అనే రాక్షసుడిని సంహరించినవాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Mādhava = The ruler of the kingdom of Madhupuri.",
+        "te": "మాధవ = మధుపురి రాజ్యాన్ని పాలించే మహారాజు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Mā' refers to Lakshmi (goddess of fortune) and 'Dhava' means husband/lord. By calling Krishna 'Mādhava', Sanjaya subtly signals to Dhritarashtra that victory is guaranteed for Arjuna because the Lord of Fortune Himself is on the Pandava side. — Bhagavad Gita (1.14)",
+      "te": "'మా' అనగా లక్ష్మీదేవి, 'ధవ' అనగా భర్త/ప్రభువు. లక్ష్మీదేవికి పతియైన శ్రీకృష్ణుడు పాండవుల వైపు ఉన్నందున విజయం, శ్రీ (ఐశ్వర్యం) తప్పక పాండవులకే లభిస్తాయని సంజయుడు ధృతరాష్ట్రునికి పరోక్షంగా సూచిస్తున్నాడు. — భగవద్గీత (1.14)"
+    }
+  },
+  {
+    "id": "bg-1-14-q3",
+    "verse": { "c": 1, "s": 14 },
+    "concept": ["Symbolism - White Horses & Divine Chariot"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What is the origin and spiritual symbolism of the white horses ('śvetair hayaiḥ') and chariot mentioned in verse 1.14?",
+      "te": "1.14 శ్లోకంలో ప్రస్తావించిన దివ్య రథానికి, తెల్లని గుర్రాలకు ('శ్వేతైర్హయైః') ఉన్న పౌరాణిక నేపథ్యం మరియు ఆధ్యాత్మిక ప్రతీక ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Gifted by Agni (Fire God) during Khandava-daha; the white horses symbolize Sattva-guna (purity) and transcendental, unblemished victory.",
+        "te": "ఖాండవ దహన సమయంలో అగ్నిదేవుడు అర్జునునికి ప్రసాదించిన రథమిది; తెల్లని గుర్రాలు సత్వగుణానికి (పవిత్రతకు) మరియు ధర్మబద్ధమైన విజయానికి ప్రతీకలు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Gifted by Indra after Arjuna defeated the Nivatakavachas; symbolizing cosmic thunder.",
+        "te": "నివాతకవుచులను ఓడించిన తర్వాత ఇంద్రుడు ఇచ్చినది; ఇది దివ్యమైన ఉరుములకు ప్రతీక.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Borrowed from King Virata's royal stables; symbolizing terrestrial wealth.",
+        "te": "విరాట రాజు అశ్వశాల నుండి తెచ్చినది; ఇది లౌకిక ఐశ్వర్యానికి ప్రతీక.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Crafted by Parasurama; symbolizing fierce Kshatriya anger.",
+        "te": "పరశురాముడు తయారుచేసినది; ఇది తీవ్రమైన క్షాత్ర క్రోధానికి ప్రతీక.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The grand chariot and four white horses were presented to Arjuna by Agni-deva (along with the bow Gandiva) during the Khandava forest burning. White signifies absolute purity, Sattva-guna, and divine favor. — Bhagavad Gita (1.14)",
+      "te": "ఖాండవ వన దహన సమయంలో అగ్నిదేవుడు అర్జునునికి ప్రసాదించిన దివ్య రథం, గాండీవం మరియు నాలుగు తెల్లని గుర్రాలు ఇవి. తెలుపు రంగు సత్వగుణానికి, పవిత్రతకు మరియు దైవానుగ్రహానికి సంకేతం. — భగవద్గీత (1.14)"
+    }
+  },
+  {
+    "id": "bg-1-14-q4",
+    "verse": { "c": 1, "s": 14 },
+    "concept": ["Sanskrit Vocabulary - Conches Qualifiers"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "In contrast to the material instruments of the Kauravas in verse 1.13, how are the conch shells of Krishna and Arjuna described in verse 1.14?",
+      "te": "1.13 శ్లోకంలో కౌరవుల వాద్యాల వర్ణనకు భిన్నంగా, 1.14 శ్లోకంలో కృష్ణార్జునుల శంఖాలను ఏ విశేషణంతో వర్ణించారు?"
+    },
+    "choices": [
+      {
+        "en": "Divyau śaṅkhau (Divine / Celestial conch shells)",
+        "te": "దివ్యౌ శంఖౌ (దివ్యమైన / అలౌకికమైన శంఖాలు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mahā-śabdau (Loud sound instruments)",
+        "te": "మహా శబ్దౌ (పెద్ద శబ్దం చేసేవి)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Rājikau śaṅkhau (Royal conch shells)",
+        "te": "రాజికౌ శంఖౌ (రాచరికాన్ని సూచించేవి)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Bhīmāvāvahau (Frightening instruments)",
+        "te": "భీమావావహౌ (భయాన్ని కలిగించేవి)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Sanjaya explicitly uses the dual adjective 'divyau' (transcendental / heavenly / divine) for Krishna and Arjuna's conches ('divyau śaṅkhau'), indicating their sacred, non-material nature. — Bhagavad Gita (1.14)",
+      "te": "సంజయుడు శ్రీకృష్ణార్జునుల శంఖాలను వర్ణించడానికి 'దివ్యౌ' (దివ్యమైనవి/అలౌకికమైనవి) అనే ద్వివచన విశేషణాన్న ఉపయోగించాడు ('దివ్యౌ శంఖౌ'). — భగవద్గీత (1.14)"
+    }
+  },
+  {
+    "id": "bg-1-14-q5",
+    "verse": { "c": 1, "s": 14 },
+    "concept": ["Sanskrit Vocabulary - Chariot Terms"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which Sanskrit noun in verse 1.14 refers to the 'great war chariot'?",
+      "te": "1.14 శ్లోకంలో 'గొప్ప యుద్ధ రథాన్ని' సూచించే సంస్కృత పదం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Mahati syandane",
+        "te": "మహతి స్యన్దనే",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Śvetair hayaiḥ",
+        "te": "శ్వేతైర్ హయైః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Pradadhmatuḥ",
+        "te": "ప్రదధ్మతుః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Tataḥ sthitau",
+        "te": "తతః స్థితౌ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Syandana' is a classical Sanskrit term for a swift war chariot. 'Mahati syandane' means 'in the magnificent/great chariot'. — Bhagavad Gita (1.14)",
+      "te": "'స్యన్దన' అనగా వేగంగా వెళ్ళే యుద్ధ రథము అని అర్థం. 'మహతి స్యన్దనే' అనగా 'గొప్ప/దివ్యమైన రథంలో' అని అర్థం. — భగవద్గీత (1.14)"
+    }
+  },
+  {
+    "id": "bg-1-14-q6",
+    "verse": { "c": 1, "s": 14 },
+    "concept": ["Sanskrit Grammar - Dual Verbs"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What is the grammatical construction and meaning of the verb 'pradadhmatuḥ' at the end of verse 1.14?",
+      "te": "1.14 శ్లోకం ముగింపులో ఉన్న 'ప్రదధ్మతుః' అనే క్రియాపదం యొక్క వ్యాకరణ రూపం మరియు అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "They two blew forcefully (3rd person dual, perfect tense / Liṭ-lakāra of root 'dhmā' with prefix 'pra')",
+        "te": "వారిద్దరూ శంఖాలను గట్టిగా పూరించారు ('ధ్మా' అనే ధాతువుకు 'ప్ర' చేరి ఏర్పడిన పరోక్ష పరోక్షభూతకాల ద్వివచన రూపం)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "They two drove the horses forward (dual present tense)",
+        "te": "వారిద్దరూ గుర్రాలను ముందుకు నడిపించారు (వర్తమానకాల ద్వివచనం)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "They two lifted their bows (dual imperative tense)",
+        "te": "వారిద్దరూ తమ ధనుస్సులను పైకెత్తారు (ఆజ్ఞార్థక ద్వివచనం)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "They two descended from the chariot (dual past tense)",
+        "te": "వారిద్దరూ రథం నుండి కిందకు దిగారు (భూతకాల ద్వివచనం)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Pra' (forcefully/forward) + 'dadhmatuḥ' (they two blew - 3rd person dual Lit-lakāra of 'dhmā'). Sanjaya uses dual verb forms throughout this verse ('sthitau', 'pradadhmatuḥ') because Krishna and Arjuna act as an inseparable pair. — Bhagavad Gita (1.14)",
+      "te": "'ప్ర' + 'దధ్మతుః' (వారిద్దరూ పూరించారు). శ్లోకమంతటా ద్వివచన ప్రయోగాలు ('స్థితౌ', 'ప్రదధ్మతుః') వాడబడ్డాయి, ఎందుకంటే శ్రీకృష్ణార్జునులు జంటగా ఒకే లక్ష్యంతో స్పందించారు. — భగవద్గీత (1.14)"
+    }
+  }
+]

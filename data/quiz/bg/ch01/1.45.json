@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-45-q1",
+    "verse": { "c": 1, "s": 45 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.45?\n\n“aho bata mahatpāpaṃ kartuṃ vyavasitā vayam | yad rājyasukhalobhena hantuṃ svakajanāmudyatāḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అహో బత మహత్పాపం కర్తుం వ్యవసితా వయమ్ | యద్ రాజ్యసుఖలోభేన హంతుం స్వజనముద్యతాః”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — Alas! How strange it is that we are set upon committing a great sin, driven as we are by the greed for royal pleasures to kill our own kinsmen!",
+        "te": "అర్జునుడు పలికెను — అయ్యో! ఎంత ఆశ్చర్యం! రాజ్యభోగాల పైగల లోభంతో (దురాశతో) మన స్వజనాన్ని సంహరించడానికి తెగించి, మనం ఎంతటి గొప్ప పాపాన్ని చేయడానికి సిద్ధపడ్డాము!",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — Alas! How unfortunate that our enemies are committing the great sin of refusing to hand over our kingdom!",
+        "te": "అర్జునుడు పలికెను — అయ్యో! మన శత్రువులు మన రాజ్యాన్ని మనకు ఇవ్వకుండా ఎంతటి గొప్ప పాపానికి ఒడిగడుతున్నారు!",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — Alas! How strange that Lord Krishna is urging us to claim our rightful share through war rather than negotiation!",
+        "te": "అర్జునుడు పలికెను — అయ్యో! సంప్రదింపుల ద్వారా కాకుండా యుద్ధం ద్వారా రాజ్యాన్ని పొమ్మని శ్రీకృష్ణుడు మనలను ప్రేరేపించడం ఎంత ఆశ్చర్యం!",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — Alas! We must perform great sacrifices to repent for our past exile in the forest before taking up arms.",
+        "te": "అర్జునుడు పలికెను — అయ్యో! ఆయుధాలు పట్టడానికి ముందు మనం అరణ్యవాసం చేసిన తప్పుకు గొప్ప యజ్ఞాలు చేసి ప్రాయశ్చిత్తం చేసుకోవాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Aho bata mahat pāpaṃ kartuṃ vyavasitā vayam / yad rājya-sukha-lobhena hantuṃ sva-janam udyatāḥ.\" Arjuna expresses deep anguish and moral self-condemnation, realizing that greed for kingdom ('rājya-sukha-lobha') is leading them to commit a terrible sin ('mahat pāpam'). — Bhagavad Gita (1.45)",
+      "te": "కేవలం రాజ్యం, దాని సుఖాలపై ఉన్న లోభంతో స్వజనాన్ని చంపడానికి పూనుకోవడం ఎంతటి మహాపాపమో అని అర్జునుడు తీవ్రమైన పశ్చాత్తాపంతో తనను తాను నిందించుకుంటున్నాడు. — భగవద్గీత (1.45)"
+    }
+  },
+  {
+    "id": "bg-1-45-q2",
+    "verse": { "c": 1, "s": 45 },
+    "concept": ["Psychological State - Remorse & Self-Condemnation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit exclamatory interjections 'aho bata' signify in verse 1.45?",
+      "te": "1.45 శ్లోకంలోని 'అహో బత' అనే ఆశ్చర్యార్థక పదాలు ఏ భావాన్ని వ్యక్తపరుస్తాయి?"
+    },
+    "choices": [
+      {
+        "en": "Deep sorrow, grief, shock, and painful moral self-reproach",
+        "te": "తీవ్రమైన దుఃఖము, ఖేదము, ఆశ్చర్యము మరియు పశ్చాత్తాపంతో కూడిన ఆత్మనింద",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Joyful excitement and celebration of impending victory",
+        "te": "రాబోయే విజయాన్ని తలచుకుని పొంగిపోయే సంతోషము, ఉత్సాహము",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Fierce anger and battle cry directed at Duryodhana",
+        "te": "దుర్యోధనుడిపై ఉన్న తీవ్రమైన క్రోధము, యుద్ధ రణగర్జన",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Solemn Vedic ritual chant to invoke gods",
+        "te": "దేవతలను ఆవాహనం చేయడానికి చేసే పవిత్ర వేద మంత్రోచ్ఛారణ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Aho' and 'bata' are indeclinable Sanskrit interjections expressing pity, lamentation, and painful astonishment ('Alas! Oh, what a pity!'). Arjuna uses them to lament their own moral blindness. — Bhagavad Gita (1.45)",
+      "te": "'అహో', 'బత' అనేవి శోకాన్ని, పశ్చాత్తాపాన్ని తెలిపే అవ్యయాలు ('అయ్యో! ఎంత విచారకరం!'). తాను చేయబోయే పని ఎంత దోషపూరితమైనదో తలచుకుని అర్జునుడు విలపిస్తున్నాడు. — భగవద్గీత (1.45)"
+    }
+  },
+  {
+    "id": "bg-1-45-q3",
+    "verse": { "c": 1, "s": 45 },
+    "concept": ["Motivating Root Cause - Rājyasukhalobhena"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "According to Arjuna in verse 1.45, what is the driving motive pushing them toward this 'great sin' (mahat pāpam)?",
+      "te": "1.45 శ్లోకంలో అర్జునుని ప్రకారం, తమను ఈ 'మహాపాపం' చేయడానికి ప్రేరేపిస్తున్న ప్రధానమైన దుర్గుణం/కారణం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Rājya-sukha-lobhena (Greed for royal power and worldly pleasures)",
+        "te": "రాజ్యసుఖలోభేన (రాజ్యము, దాని సుఖభోగాలపై ఉన్న తీవ్రమైన ఆశ/దురాశ)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Krodha-vaśena (Being completely consumed by anger)",
+        "te": "క్రోధవశేన (కోపానికి లొంగిపోవడం)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bhaya-kāraṇena (Out of fear of being killed)",
+        "te": "భయకారణేన (చంపబడతామనే భయంతో)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Gurv-ājñayā (By the strict command of teachers)",
+        "te": "గుర్వాజ్ఞయా (గురువుల ఆజ్ఞ పరిపాలన)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna explicitly diagnoses the motive as 'rājya-sukha-lobhena' ('by greed for kingdom and pleasure'). He recognizes that beneath noble pretexts, desire for material enjoyment is driving the conflict. — Bhagavad Gita (1.45)",
+      "te": "తనను, తన సోదరులను ఈ యుద్ధానికి పురికొల్పుతున్నది కేవలం 'రాజ్యసుఖలోభము' (రాజ్యభోగాల పైగల ఆశ) అని అర్జునుడు ఒప్పేసుకుంటున్నాడు. — భగవద్గీత (1.45)"
+    }
+  },
+  {
+    "id": "bg-1-45-q4",
+    "verse": { "c": 1, "s": 45 },
+    "concept": ["Sanskrit Vocabulary - Great Sin & Readiness"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit words 'vyavasitāḥ' and 'udyatāḥ' mean in verse 1.45?",
+      "te": "1.45 శ్లోకంలోని 'వ్యవసితాః' మరియు 'ఉద్యతాః' అనే పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Vyavasitāḥ = Determined / set upon; Udyatāḥ = Prepared / ready / raised up to act.",
+        "te": "వ్యవసితాః = నిశ్చయించుకున్నవారము / తెగించినవారము; ఉద్యతాః = సిద్ధపడినవారము / పూనుకున్నవారము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Vyavasitāḥ = Defeated; Udyatāḥ = Fleeing.",
+        "te": "వ్యవసితాః = ఓడిపోయినవారము; ఉద్యతాః = పారిపోతున్నవారము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Vyavasitāḥ = Forgiven; Udyatāḥ = Sleeping.",
+        "te": "వ్యవసితాః = క్షమించబడినవారము; ఉద్యతాః = నిద్రపోతున్నవారము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vyavasitāḥ = Victorious; Udyatāḥ = Crowned.",
+        "te": "వ్యవసితాః = విజేతలము; ఉద్యతాః = కిరీటధారులము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vyavasitāḥ' (resolved / determined) and 'udyatāḥ' (undertaking / prepared). Arjuna laments: 'We are determined ('vyavasitāḥ') to do a great sin, ready ('udyatāḥ') to slay our own people'. — Bhagavad Gita (1.45)",
+      "te": "'వ్యవసితాః' అనగా మనస్సులో నిర్ణయించుకుని తెగించినవారము; 'ఉద్యతాః' అనగా ఆ పని చేయడానికి సిద్ధపడినవారము. పాపం చేయడానికి మనం ఎంత తీవ్రంగా పూనుకున్నామో అని అర్జునుని వాపోవుట. — భగవద్గీత (1.45)"
+    }
+  },
+  {
+    "id": "bg-1-45-q5",
+    "verse": { "c": 1, "s": 45 },
+    "concept": ["Sanskrit Grammar - Infinitive Form 'Hantum'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical form of 'hantum' in verse 1.45:",
+      "te": "1.45 శ్లోకంలోని 'హన్తుమ్' అనే పదానికి ఉన్న వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Infinitive form (Tumun-pratyaya) of root 'han' (to kill / to slay), functioning with 'udyatāḥ' ('prepared to kill').",
+        "te": "'హన్' (చంపుట) అనే ధాతువు యొక్క తుమున్నంత రూపం (ఇన్ఫినిటివ్) — 'ఉద్యతాః' (సిద్ధపడినవారము) అనే పదంతో కలసి 'చంపడానికి పూనుకున్నాము' అనే అర్థాన్ని ఇస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1st person plural present tense verb.",
+        "te": "ఉత్తమ పురుష బహువచన వర్తమానకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Accusative singular noun.",
+        "te": "ద్వితీయా విభక్తి ఏకవచన నామవాచకం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Past passive participle.",
+        "te": "భూతకాల కర్మణి విశేషణం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Hantum' is the Tumun-ending infinitive of root 'han' ('to kill'). 'Svakajanam hantum udyatāḥ' = 'ready to kill our own people'. — Bhagavad Gita (1.45)",
+      "te": "'హన్తుమ్' అనేది తుమున్నంత ప్రత్యయాంత రూపం ('చంపుటకు'). 'స్వజనం హన్తుం ఉద్యతాః' అనగా 'స్వజనాన్ని చంపడానికి పూనుకున్నాము' అని అర్థం. — భగవద్గీత (1.45)"
+    }
+  },
+  {
+    "id": "bg-1-45-q6",
+    "verse": { "c": 1, "s": 45 },
+    "concept": ["Sanskrit Sandhi Analysis - Mahat + Pāpam & Yad + Rājya"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'mahatpāpam' and 'yadrājyasukhalobhena' in verse 1.45:",
+      "te": "1.45 శ్లోకంలోని 'మహత్పాపమ్' మరియు 'యద్రాజ్యసుఖలోభేన' అనే పదాలను విడదీసి సంధి స్వరూపాన్ని చెప్పండి:"
+    },
+    "choices": [
+      {
+        "en": "Mahat + pāpam (no change / unvoiced consonant 't' before unvoiced stop 'p'); Yat + rājya -> yadrājya (Jasdtva Sandhi: 't' changes to voiced 'd' before voiced liquid 'r').",
+        "te": "మహత్ + పాపమ్ (పరివర్తన లేని శ్వాస సంధి); యత్ + రాజ్య -> యద్రాజ్య (జశ్త్వ సంధి: ఘోష వ్యంజనమైన 'ర' కారం ముందు 'త్' కారం 'ద్' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mahā + pāpam; Yan + rājya",
+        "te": "మహా + పాపమ్; యన్ + రాజ్య",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Mahat + apāpam; Yadi + rājya",
+        "te": "మహత్ + అపాపమ్; యది + రాజ్య",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Mahan + pāpam; Yā + rājya",
+        "te": "మహన్ + పాపమ్; యా + రాజ్య",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Mahat' + 'pāpam' = 'mahat-pāpam' ('t' remains unvoiced before 'p'). 'Yat' (since/because) + 'rājya' = 'yad-rājya' (under Jasdtva Sandhi, 't' shifts to third letter of its class 'd' before voiced 'r'). — Bhagavad Gita (1.45)",
+      "te": "'మహత్' + 'పాపమ్' = 'మహత్పాపమ్'. 'యత్' + 'రాజ్య' లలో జశ్త్వ సంధి నియమం ప్రకారం 'త్' పొల్లు 'ద్' గా మారి 'యద్రాజ్య' అయినది. — భగవద్గీత (1.45)"
+    }
+  }
+]

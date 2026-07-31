@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-17-q1",
+    "verse": { "c": 1, "s": 17 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.17?\n\n“kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ | dhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“కాశ్యశ్చ పరమేష్వాసః శిఖణ్డీ చ మహారథః | ధృష్టద్యుమ్నో విరాటశ్చ సాత్యకిశ్చాపరాజితః”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — The King of Kashi, the wielder of a great bow; Shikhandi, the great chariot warrior; Dhrishtadyumna, Virata, and the unconquered Satyaki all blew their conches.",
+        "te": "సంజయుడు పలికెను — శ్రేష్ఠమైన ధనుస్సు ధరించిన కాశిరాజు, మహారథుడైన శిఖండి, ధృష్టద్యుమ్నుడు, విరాటుడు మరియు అపరాజితుడైన సాత్యకి అందరూ తమ తమ శంఖాలను పూరించారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — Dhrishtadyumna and Virata ordered Shikhandi to lead the charge against Bhishma.",
+        "te": "సంజయుడు పలికెను — భీష్మునిపై దాడికి నాయకత్వం వహించమని ధృష్టద్యుమ్నుడు మరియు విరాటుడు శిఖండిని ఆదేశించారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — The King of Kashi and Satyaki challenged Dronacharya to single combat.",
+        "te": "సంజయుడు పలికెను — కాశిరాజు మరియు సాత్యకి ద్రోణాచార్యుడిని ద్వంద్వ యుద్ధానికి పిలిచారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — Shikhandi stepped in front of Arjuna's chariot to protect him from incoming arrows.",
+        "te": "సంజయుడు పలికెను — వస్తున్న బాణాల నుండి కాపాడటానికి శిఖండి అర్జునుని రథం ముందుకు వచ్చాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ / dhṛṣṭadyumno virāṭaśca sātyakiś cāparājitaḥ.\" Sanjaya continues describing the grand symphony of conch blasts, listing the King of Kashi, Shikhandi, Dhrishtadyumna, Virata, and Satyaki. — Bhagavad Gita (1.17)",
+      "te": "పాండవ పక్షాన ఉన్న ఇతర ముఖ్య సేనాపతులు — కాశిరాజు, శిఖండి, ధృష్టద్యుమ్నుడు, విరాటుడు, సాత్యకి కూడా తమ శంఖాలను పూరించారని సంజయుడు వివరిస్తున్నాడు. — భగవద్గీత (1.17)"
+    }
+  },
+  {
+    "id": "bg-1-17-q2",
+    "verse": { "c": 1, "s": 17 },
+    "concept": ["Character Epithet - King of Kashi"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which specific epithet is given to the King of Kashi ('Kāśyaḥ') in verse 1.17?",
+      "te": "1.17 శ్లోకంలో కాశిరాజును ('కాశ్యః') వర్ణించడానికి ఏ విశేషణాన్ని వాడారు?"
+    },
+    "choices": [
+      {
+        "en": "Parameṣvāsaḥ (Wielder of a supreme bow / Master archer)",
+        "te": "పరమేష్వాసః (శ్రేష్ఠమైన ధనుస్సు ధరించిన మహా విలుకాడు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mahārathaḥ (Great chariot warrior)",
+        "te": "మహారథః (మహారథుడైన వీరుడు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Aparājitaḥ (Unconquered)",
+        "te": "అపరాజితుడు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vīryavān (Possessor of great physical power)",
+        "te": "వీర్యవాన్ (అపార బలవంతుడు)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In verse 1.17, the King of Kashi is described as 'Parameṣvāsaḥ' ('parama' = supreme + 'iṣvāsa' = bow/archery), signifying his reputation as an elite archer wielder of formidable bows. — Bhagavad Gita (1.17)",
+      "te": "1.17 శ్లోకంలో కాశిరాజును 'పరమేష్వాసః' (అత్యుత్తమమైన ధనుస్సు ధరించిన మహా విలుకాడు) అని వర్ణించారు. — భగవద్గీత (1.17)"
+    }
+  },
+  {
+    "id": "bg-1-17-q3",
+    "verse": { "c": 1, "s": 17 },
+    "concept": ["Character Analysis & Tactical Role - Shikhandi"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Who is 'Śikhaṇḍī' mentioned in verse 1.17, and what unique tactical role did he play in the defeat of Bhishma?",
+      "te": "1.17 శ్లోకంలో పేర్కొనబడిన 'శిఖండి' ఎవరు? భీష్ముని పతనం వెనుక అతడు వహించిన విలక్షణమైన వ్యూహాత్మక పాత్ర ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Son/daughter of King Drupada (reincarnation of Amba); Bhishma pledged never to strike him, allowing Arjuna to fire from behind Shikhandi.",
+        "te": "ద్రుపద మహారాజు కుమారుడు (అంబాదేవి పునర్జన్మ); శిఖండిపై బాణం వేయనని భీష్ముడు శపథం చేయడం వల్ల, అర్జునుడు అతడిని అడ్డుపెట్టుకుని భీష్మునిపై ప్రయోగం చేశాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Commander-in-chief who arranged the Vajra Vyūha formation.",
+        "te": "వజ్ర వ్యూహాన్ని రచించిన ప్రధాన సైన్యాధ్యక్షుడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Charioteer of Yudhishthira during the first ten days of war.",
+        "te": "మొదటి పది రోజుల యుద్ధంలో యుధిష్ఠిరుని రథసారథి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Brother of Virata who defended the southern flank.",
+        "te": "దక్షిణ భాగాన్ని రక్షించిన విరాట రాజు సోదరుడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Shikhandi (reincarnation of Princess Amba) was designated as a 'Mahārathaḥ' in verse 1.17. Because Bhishma refused to fight anyone who was born female, Arjuna used Shikhandi as a shield on the 10th day to fell Bhishma. — Bhagavad Gita (1.17)",
+      "te": "1.17 శ్లోకంలో శిఖండిని 'మహారథః' అని సంబోధించారు. పూర్వజన్మలో స్త్రీగా ఉన్నందున శిఖండిపై బాణం పట్టనని భీష్ముడు నిర్ణయించుకున్నాడు. 10వ రోజున అర్జునుడు శిఖండిని ముందుంచి భీష్ముడిపై బాణవర్షం కురిపించాడు. — భగవద్గీత (1.17)"
+    }
+  },
+  {
+    "id": "bg-1-17-q4",
+    "verse": { "c": 1, "s": 17 },
+    "concept": ["Character Epithet - Satyaki"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which epithet is specifically combined with Satyaki's name in verse 1.17?",
+      "te": "1.17 శ్లోకంలో సాత్యకి పేరుతో కలిపి ఏ ప్రత్యేక విశేషణాన్ని ఇచ్చారు?"
+    },
+    "choices": [
+      {
+        "en": "Aparājitaḥ (Unconquered / Invincible in combat)",
+        "te": "అపరాజితః (ఎన్నడూ ఓటమి ఎరుగనివాడు / అపరాజితుడు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Parameṣvāsaḥ (Master archer)",
+        "te": "పరమేష్వాసః (గొప్ప విలుకాడు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Mahārathaḥ (Chariot master)",
+        "te": "మహారథః (మహారథుడు)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Narapuṅgavaḥ (Bull among men)",
+        "te": "నరపుంగవః (పురుషశ్రేష్ఠుడు)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In verse 1.17, Satyaki (Yuyudhana) is addressed as 'sātyakiś cāparājitaḥ' ('Sātyakiḥ ca aparājitaḥ'), underscoring his track record as an invincible Yadava chieftain trained directly under Arjuna. — Bhagavad Gita (1.17)",
+      "te": "1.17 శ్లోకంలో సాత్యకిని 'సాత్యకిశ్చాఅపరాజితః' అని వర్ణించారు. అర్జునుని ప్రియ శిష్యుడైన సాత్యకి యుద్ధాలలో ఎన్నడూ ఓడిపోని యోధుడు. — భగవద్గీత (1.17)"
+    }
+  },
+  {
+    "id": "bg-1-17-q5",
+    "verse": { "c": 1, "s": 17 },
+    "concept": ["Character Identification - Dhrishtadyumna & Virata"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What were the military designations/roles of Dhrishtadyumna and Virata mentioned together in verse 1.17?",
+      "te": "1.17 శ్లోకంలో కలిసి పేర్కొనబడిన ధృష్టద్యుమ్నుడు మరియు విరాటుల యొక్క సైనిక హోదాలు ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Dhrishtadyumna was the supreme Commander-in-Chief of the Pandavas; Virata was the King of Matsya who sheltered the Pandavas during exile.",
+        "te": "ధృష్టద్యుమ్నుడు పాండవ సైన్యానికి ప్రధాన సేనాధిపతి; విరాటుడు అజ్ఞాతవాసంలో పాండవులకు ఆశ్రయమిచ్చిన మత్స్య దేశ మహారాజు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dhrishtadyumna was the King of Kashi; Virata was the commander of the cavalry.",
+        "te": "ధృష్టద్యుమ్నుడు కాశీరాజు; విరాటుడు అశ్విక దళానికి సేనాధిపతి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Both were sons of King Drupada born from the sacrificial fire.",
+        "te": "వీరిద్దరూ యజ్ఞగుండం నుండి జన్మించిన ద్రుపద మహారాజు కుమారులు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Both served as the chariot drivers for Bhima and Arjuna.",
+        "te": "వీరిద్దరూ భీమార్జునులకు రథసారథులుగా వ్యవహరించారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Dhrishtadyumna (son of Drupada) served as the official Senapati (Commander-in-Chief) of the 7-Akshauhini Pandava army. Virata was the ruler of Matsya whose kingdom hosted the Pandavas in their 13th year of exile. — Bhagavad Gita (1.17)",
+      "te": "పాండవుల 7 అక్షౌహిణుల సైన్యానికి ధృష్టద్యుమ్నుడు ప్రధాన సేనాధిపతి. విరాట మహారాజు పాండవులకు అజ్ఞాతవాసంలో ఆశ్రయం కల్పించి, తన కుమార్తె ఉత్తరను అభిమన్యునికి ఇచ్చి వివాహం జరిపించాడు. — భగవద్గీత (1.17)"
+    }
+  },
+  {
+    "id": "bg-1-17-q6",
+    "verse": { "c": 1, "s": 17 },
+    "concept": ["Sanskrit Sandhi Analysis"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi compound 'sātyakiścāparājitaḥ' at the end of verse 1.17 into its constituent words:",
+      "te": "1.17 శ్లోకం ముగింపులో ఉన్న 'సాత్యకిశ్చాపరాజితః' అనే పదాన్ని విడదీస్తే లభించే పదాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Sātyakiḥ + ca + aparājitaḥ",
+        "te": "సాత్యకిః + చ + అపరాజితః",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sātyaki + ca + parājitaḥ",
+        "te": "సాత్యకి + చ + పరాజితః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sātyakiḥ + ca + rājitaḥ",
+        "te": "సాత్యకిః + చ + రాజితః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sātyakī + ca + aparājitaḥ",
+        "te": "సాత్యకీ + చ + అపరాజితః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sātyakiḥ' (Visarga becomes 'ś' before 'ca') + 'ca' (and) + 'aparājitaḥ' ('a' + 'a' merges to 'ā' by Savarna-dirgha Sandhi) = 'sātyakiścāparājitaḥ'. — Bhagavad Gita (1.17)",
+      "te": "'సాత్యకిః' (విసర్గ 'శ్' గా మారుతుంది) + 'చ' + 'అపరాజితః' (సవర్ణదీర్ఘ సంధి వలన 'చ' + 'అ' = 'చా') = 'సాత్యకిశ్చాపరాజితః'. — భగవద్గీత (1.17)"
+    }
+  }
+]

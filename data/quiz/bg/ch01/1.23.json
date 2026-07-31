@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-23-q1",
+    "verse": { "c": 1, "s": 23 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.23?\n\n“yotsyamānānavekṣe 'haṃ ya ete 'tra samāgatāḥ | dhārtarāṣṭrasya durbuddher yuddhe priyacikīrṣavaḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యోత్స్యమానానవేక్షేఽహం య ఏతేఽత్ర సమాగతాః | ధార్తరాష్ట్రస్య దుర్బుద్ధేర్యుద్ధే ప్రియచికీర్షవః”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — I wish to observe those who have come here to fight, desiring to please the evil-minded son of Dhritarashtra in this battle.",
+        "te": "అర్జునుడు పలికెను — యుద్ధం చేయడానికి ఇక్కడకు వచ్చినవారిని, అలాగే దుర్బుద్ధి గల ధృతరాష్ట్రుని కుమారుడైన దుర్యోధనునికి ఈ యుద్ధంలో మేలు చేయగోరినవారిని నేను చూడాలనుకుంటున్నాను.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — I wish to greet my teachers Bhishma and Drona and offer them my final respects.",
+        "te": "అర్జునుడు పలికెను — భీష్మ ద్రోణులకు నా చివరి నమస్కారాలు తెలియజేయడానికి నేను వారిని చూడాలనుకుంటున్నాను.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — I wish to check if Krishna is ready to start the battle against the Kauravas.",
+        "te": "అర్జునుడు పలికెను — కౌరవులతో యుద్ధం చేయడానికి కృష్ణుడు సిద్ధంగా ఉన్నాడో లేదో నేను చూడాలనుకుంటున్నాను.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — I wish to count how many soldiers are on our side vs the Kaurava side.",
+        "te": "అర్జునుడు పలికెను — మన వైపు ఎంతమంది, కౌరవ వైపు ఎంతమంది సైనికులు ఉన్నారో లెక్కించాలనుకుంటున్నాను.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Yotsyamānān avekṣe 'haṃ ya ete 'tra samāgatāḥ / dhārtarāṣṭrasya durbuddher yuddhe priyacikīrṣavaḥ.\" Arjuna expresses his desire to inspect the enemy ranks, specifically those who have gathered to fight for the sake of the 'durbuddhi' (evil-minded) Duryodhana. — Bhagavad Gita (1.23)",
+      "te": "దుర్బుద్ధి గల ధార్తరాష్ట్రుడైన దుర్యోధనుడికి ప్రియం చేకూర్చాలని, అతడి పక్షాన యుద్ధం చేయడానికి వచ్చిన వారిని చూడాలని అర్జునుడు తన సారథిని కోరుతున్నాడు. — భగవద్గీత (1.23)"
+    }
+  },
+  {
+    "id": "bg-1-23-q2",
+    "verse": { "c": 1, "s": 23 },
+    "concept": ["Character Epithet - Durbuddheḥ"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the epithet 'Durbuddheḥ' literally mean in verse 1.23, and why does Arjuna use it to describe Duryodhana?",
+      "te": "1.23 శ్లోకంలో దుర్యోధనుడిని వర్ణించడానికి వాడిన 'దుర్బుద్ధేః' అనే పదానికి అర్థం ఏమిటి? అర్జునుడు ఆ పదాన్ని ఎందుకు ఉపయోగించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Durbuddheḥ = Evil-minded / misguided / wicked intelligence; Arjuna uses it to emphasize Duryodhana's corrupt intent to wage an unjust war.",
+        "te": "దుర్బుద్ధేః = దుష్టబుద్ధి గలవాడు / చెడు ఆలోచనలు కలవాడు; అధర్మమైన యుద్ధానికి పాల్పడుతున్న దుర్యోధనుని పాపపు ఉద్దేశాన్ని అర్జునుడు ఎత్తిచూపడానికి ఈ పదాన్ని వాడాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Durbuddheḥ = One who is physically disabled.",
+        "te": "దుర్బుద్ధేః = శారీరక వైకల్యం కలవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Durbuddheḥ = One who is a great scholar of philosophy.",
+        "te": "దుర్బుద్ధేః = గొప్ప తత్త్వవేత్త.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Durbuddheḥ = The eldest prince of Hastinapur.",
+        "te": "దుర్బుద్ధేః = హస్తినాపురపు జ్యేష్ఠ రాజకుమారుడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Dus' (evil/bad) + 'buddhi' (intelligence/mind) = 'Durbuddhi'. This epithet signifies an intellect clouded by greed and malice. Arjuna notes that Duryodhana's allies are acting out of loyalty to a person with corrupt intent. — Bhagavad Gita (1.23)",
+      "te": "'దుస్' (చెడు/దుష్ట) + 'బుద్ధి' (మనస్సు/జ్ఞానం) = దుర్బుద్ధేః. దురాశ, ద్వేషంతో నిండిన బుద్ధి కలవాడు అని అర్థం. దుష్టమైన మార్గంలో ఉన్న దుర్యోధనుడిని అర్జునుడు ఈ పదంతో సంబోధించాడు. — భగవద్గీత (1.23)"
+    }
+  },
+  {
+    "id": "bg-1-23-q3",
+    "verse": { "c": 1, "s": 23 },
+    "concept": ["Sanskrit Vocabulary - Intention to Fight"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit compound 'yotsyamānān' mean in verse 1.23?",
+      "te": "1.23 శ్లోకంలోని 'యోత్స్యమానాన్' అనే పదానికి అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Those who are ready/desiring to fight",
+        "te": "యుద్ధం చేయాలనుకుంటున్నవారు / పోరాడడానికి సిద్ధంగా ఉన్నవారు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Those who are currently sleeping",
+        "te": "ప్రస్తుతం నిద్రపోతున్నవారు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Those who are begging for mercy",
+        "te": "క్షమాభిక్ష కోరుకుంటున్నవారు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Those who have defected to the Pandavas",
+        "te": "పాండవుల వైపు చేరినవారు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yotsyamānān' is a future active participle from the root 'yudh' (to fight), meaning 'those who are about to fight' or 'those who intend to fight'. — Bhagavad Gita (1.23)",
+      "te": "'యుధ్' (పోరాడుట) అనే ధాతువు నుండి వచ్చిన ఈ పదం 'యుద్ధం చేయబోయే వారు' లేదా 'యుద్ధం చేయాలనే తపన గలవారు' అని అర్థాన్ని ఇస్తుంది. — భగవద్గీత (1.23)"
+    }
+  },
+  {
+    "id": "bg-1-23-q4",
+    "verse": { "c": 1, "s": 23 },
+    "concept": ["Sanskrit Vocabulary - Motivation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does 'priyacikīrṣavaḥ' literally denote in verse 1.23?",
+      "te": "1.23 శ్లోకంలో ఉన్న 'ప్రియచికీర్షవః' అనే పదానికి అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Those desiring to do something pleasing (to Duryodhana)",
+        "te": "ఏదైనా ప్రియమైన పనిని చేయాలని ఆశించేవారు (దుర్యోధనుడికి)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Those who hate Duryodhana deeply",
+        "te": "దుర్యోధనుడిని తీవ్రంగా ద్వేషించేవారు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Those who are neutral and do not want to fight",
+        "te": "ఎవరి పక్షానా ఉండకుండా తటస్థంగా ఉండేవారు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Those who have already been defeated",
+        "te": "అప్పటికే ఓడిపోయినవారు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Priya' (pleasing/dear) + 'cikīrṣavaḥ' (desirous of doing). The Kaurava allies are characterized by their misplaced loyalty—they are fighting not necessarily because they believe in the cause, but because they wish to gratify Duryodhana. — Bhagavad Gita (1.23)",
+      "te": "'ప్రియ' (ఇష్టమైన/ప్రియమైన) + 'చికీర్షవః' (చేయాలని కోరుకునేవారు). ధర్మంతో సంబంధం లేకుండా కేవలం దుర్యోధనుడిని సంతోషపెట్టడానికి వచ్చిన వారిని ఇది సూచిస్తుంది. — భగవద్గీత (1.23)"
+    }
+  },
+  {
+    "id": "bg-1-23-q5",
+    "verse": { "c": 1, "s": 23 },
+    "concept": ["Sanskrit Grammar - Finite Verb"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What is the grammatical meaning of the verb 'avekṣe' in verse 1.23?",
+      "te": "1.23 శ్లోకంలోని 'అవేక్షే' అనే క్రియాపదం యొక్క అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "I observe / I examine (1st person singular, present tense, Ātmanepada)",
+        "te": "నేను గమనిస్తున్నాను / నేను పరిశీలిస్తున్నాను (ఉత్తమ పురుష ఏకవచనం, ఆత్మనేపదం)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "I fight / I strike (1st person singular, present tense, Parasmaipada)",
+        "te": "నేను పోరాడుతున్నాను (పరస్మైపదం)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "I run away / I retreat (past tense)",
+        "te": "నేను వెనక్కి తగ్గుతున్నాను (భూతకాలం)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "I pray / I meditate (future tense)",
+        "te": "నేను ప్రార్థిస్తున్నాను (భవిష్యత్కాలం)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Avekṣe' is the 1st person singular present tense (Lat-lakāra) of the root 'īkṣ' (to look) with the prefix 'ava' (down upon / closely/carefully). Arjuna is expressing a conscious, deliberate desire to examine the field. — Bhagavad Gita (1.23)",
+      "te": "'అవేక్షే' అనేది 'అవ' + 'ఈక్ష్' (చూచుట/పరిశీలించుట) ధాతువుల నుండి వచ్చిన ఉత్తమ పురుష ఏకవచన రూపం. 'నేను క్షుణ్ణంగా పరిశీలిస్తాను' అని దీనికి అర్థం. — భగవద్గీత (1.23)"
+    }
+  },
+  {
+    "id": "bg-1-23-q6",
+    "verse": { "c": 1, "s": 23 },
+    "concept": ["Contextual Importance - The Moral Separation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What moral distinction does Arjuna make in verse 1.23 by identifying the enemy as 'Dhārtarāṣṭrasya' (Dhritarashtra's sons)?",
+      "te": "శత్రువులను 'ధార్తరాష్ట్రస్య' (ధృతరాష్ట్రుని కుమారులు) అని గుర్తించడం ద్వారా 1.23 శ్లోకంలో అర్జునుడు ఏ నైతిక వ్యత్యాసాన్ని సూచిస్తున్నాడు?"
+    },
+    "choices": [
+      {
+        "en": "He distinguishes the 'sons of Dhritarashtra' (who represent greed and usurpation) from the rest of the Kuru dynasty, signaling he is ready to confront the perpetrators of injustice.",
+        "te": "ధృతరాష్ట్రుని కుమారులు (దురాశ, అధికారం కోసం అక్రమాలకు పాల్పడేవారు) మరియు మిగిలిన కురు వంశీయులను వేరు చేసి చూపిస్తూ, అన్యాయం చేస్తున్న వారిని ఎదుర్కోవడానికి తాను సిద్ధమని సూచిస్తున్నాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "He is asking Krishna for a family genealogy report.",
+        "te": "కృష్ణుడిని వంశవృక్షం గురించి వివరణ అడుగుతున్నాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "He is mocking the name of Dhritarashtra.",
+        "te": "ధృతరాష్ట్రుని పేరును అవహేళన చేస్తున్నాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "He is asking for their exact number for logistical purposes.",
+        "te": "వారి ఖచ్చితమైన సంఖ్యను తెలుసుకోవాలని అడుగుతున్నాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna's focus on the 'Dhārtarāṣṭras' signals that his combat isn't against the entire world, but specifically against those who have aligned with Duryodhana's corrupt leadership. This sets the stage for the ethical dilemma that follows. — Bhagavad Gita (1.23)",
+      "te": "తన యుద్ధం ప్రపంచం మొత్తంతో కాదని, కేవలం దుర్యోధనుని నాయకత్వంలో అధర్మానికి పాల్పడుతున్న వారి తోనేనని అర్జునుడు 'ధార్తరాష్ట్రస్య' అని సంబోధించడం ద్వారా స్పష్టం చేస్తున్నాడు. ఇది తరువాతి ధర్మసంకటానికి నాంది. — భగవద్గీత (1.23)"
+    }
+  }
+]

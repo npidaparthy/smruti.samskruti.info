@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-9-q1",
+    "verse": { "c": 1, "s": 9 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.9?\n\n“anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ | nānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అన్యే చ బహవః శూరా మదర్థే త్యక్తజీవితాః | నానాశస్త్రప్రహరణాః సర్వే యుద్ధవిశారదాః”"
+    },
+    "choices": [
+      {
+        "en": "Duryodhana said — And there are many other heroes who are prepared to lay down their lives for my sake; all of them are equipped with various weapons and missiles, and all are experts in warfare.",
+        "te": "దుర్యోధనుడు పలికెను — మరియు నా కోసం తమ ప్రాణాలను సయితం త్యజించడానికి సిద్ధపడిన అనేక ఇతర శూరులు కూడా ఉన్నారు; వారందరూ రకరకాల ఆయుధాలను, అస్త్రాలను ధరించినవారు, మరియు యుద్ధతంత్రంలో ఆరితేరిన నిపుణులు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Duryodhana said — The allied kings of the Pandavas have surrendered their kingdoms out of fear.",
+        "te": "దుర్యోధనుడు పలికెను — పాండవుల మిత్రరాజులు భయంతో తమ రాజ్యాలను వదిలిపెట్టి లొంగిపోయారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — Hearing Duryodhana praise his warriors, Bhishma blew his loud conch shell to reassure him.",
+        "te": "సంజయుడు పలికెను — దుర్యోధనుడు తన వీరులను ప్రశంసించడం విని, అతనికి ధైర్యం చెప్పడానికి భీష్ముడు బిగ్గరగా శంఖాన్ని పూరించాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dronacharya said — All these warriors gathered here are destined to fulfill the will of destiny.",
+        "te": "ద్రోణాచార్యుడు పలికెను — ఇక్కడ సమకూడిన ఈ వీరులందరూ దైవ సంకల్పాన్ని నెరవేర్చడానికి సిద్ధంగా ఉన్నారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ / nānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ.\" Duryodhana continues boasting about his remaining commanders (such as Jayadratha, Kritavarma, and Narakasura's allies), emphasizing their loyalty, diverse weaponry, and supreme battle experience. — Bhagavad Gita (1.9)",
+      "te": "\"అన్యే చ బహవః శూరా మదర్థే త్యక్తజీవితాః / నానాశస్త్రప్రహరణాః సర్వే యుద్ధవిశారదాః.\" దుర్యోధనుడు తన పక్షాన ఉన్న మిగిలిన వీరుల (జయద్రథుడు, కృతవర్మ మొదలైనవారి) నిబద్ధతను, వారి వివిధ రకాల ఆయుధ సామర్థ్యాన్ని, యుద్ధ నైపుణ్యాన్ని ద్రోణుని ఎదుట ప్రశంసిస్తున్నాడు. — భగవద్గీత (1.9)"
+    }
+  },
+  {
+    "id": "bg-1-9-q2",
+    "verse": { "c": 1, "s": 9 },
+    "concept": ["Psychological & Subtextual Analysis - Ego"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "What deep psychological disposition does Duryodhana reveal through the phrase 'madarthe' (for my sake) in verse 1.9?",
+      "te": "1.9 శ్లోకంలోని 'మదర్థే' (నా కొరకు) అనే పదం ద్వారా దుర్యోధనుని ఏ రకమైన స్వార్థం/అహంకారం బయటపడుతుంది?"
+    },
+    "choices": [
+      {
+        "en": "Self-centered egoism, believing that all the kings and armies assembled to fight strictly for his personal gratification and throne.",
+        "te": "అహంకారపూరితమైన స్వార్థం; రాజులందరూ కేవలం తన స్వంత సంతోషం, సింహాసనం కొరకే ప్రాణాలు అర్పించడానికి వచ్చారని భావించడం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Humility and gratitude towards the kings who came to protect righteousness.",
+        "te": "ధర్మాన్ని రక్షించడానికి వచ్చిన రాజుల పట్ల వినయం మరియు కృతజ్ఞతా భావం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Concern for King Dhritarashtra's legacy as the supreme ruler.",
+        "te": "హస్తినాపుర సార్వభౌముడైన ధృతరాష్ట్రుని కీర్తి ప్రతిష్టల పట్ల ఆందోళన.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "A spiritual realization that all living beings act according to Krishna's divine plan.",
+        "te": "జీవులందరూ శ్రీకృష్ణుని దివ్య సంకల్పం ప్రకారమే ప్రవర్తిస్తారనే ఆధ్యాత్మిక జ్ఞానం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Commentators highlight Duryodhana's possessive phrasing 'madarthe' (for my sake). Instead of viewing the war as a battle for the Kuru dynasty or Dharma, his self-centered nature makes him view all sacrificial war efforts as dedicated solely to his personal ambition. — Bhagavad Gita (1.9)",
+      "te": "వ్యాఖ్యాతలు 'మదర్థే' (నా కోసం) అనే పదాన్ని ప్రత్యేకంగా ఎత్తిచూపుతారు. ఈ యుద్ధాన్ని ధర్మం కోసమో లేదా కురు వంశం కోసమో అనుకోకుండా, వీరులందరూ కేవలం తన స్వంత రాజ్యం కోసం, తన స్వార్థం కోసమే పోరాడుతున్నారని భావించడం అతడి తీవ్ర అహంకారానికి నిదర్శనం. — భగవద్గీత (1.9)"
+    }
+  },
+  {
+    "id": "bg-1-9-q3",
+    "verse": { "c": 1, "s": 9 },
+    "concept": ["Sanskrit Vocabulary - Commitment to Death"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "What does the Sanskrit compound 'tyakta-jīvitāḥ' literally mean in verse 1.9?",
+      "te": "1.9 శ్లోకంలో ఉన్న 'త్యక్తజీవితాః' అనే సంస్కృత సమాస పదానికి నిజమైన అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Those who have determined/prepared to surrender their lives",
+        "te": "తమ ప్రాణాలను సైతం త్యజించడానికి/ఒడ్డడానికి సిద్ధపడినవారు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Those who have fled from the battlefield to save their lives",
+        "te": "ప్రాణాలు కాపాడుకోవడానికి యుద్ధరంగం నుండి పారిపోయినవారు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Those who are living long lives free from disease",
+        "te": "రోగాల బారిన పడకుండా సుదీర్ఘకాలం జీవించేవారు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Those who have renounced worldly wealth to become monks",
+        "te": "సంసార బంధాలను విడిచిపెట్టి సన్యాసులుగా మారినవారు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Tyakta-jīvitāḥ' is formed from 'tyakta' (given up / risked) + 'jīvita' (life), denoting warriors who enter combat with absolute readiness to sacrifice their lives for their cause. — Bhagavad Gita (1.9)",
+      "te": "'త్యక్తజీవితాః' అనగా ప్రాణాలను త్యజించడానికి లేదా పణంగా పెట్టడానికి తెగించినవారు అని అర్థం ('త్యక్త' + 'జీవిత'). — భగవద్గీత (1.9)"
+    }
+  },
+  {
+    "id": "bg-1-9-q4",
+    "verse": { "c": 1, "s": 9 },
+    "concept": ["Sanskrit Vocabulary - Weaponry Terms"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "In verse 1.9, what is the technical military distinction implied by the compound 'nānā-śastra-praharaṇāḥ'?",
+      "te": "1.9 శ్లోకంలోని 'నానాశస్త్రప్రహరణాః' అనే సమాస పదం ఏ రకమైన ఆయుధ పరిజ్ఞానాన్ని సూచిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "Equipped with diverse hand-held striking weapons (Śastra) and projectile/thrown missiles (Astra/Praharana)",
+        "te": "చేతితో పట్టుకుని నరికే ఆయుధాలు (శస్త్రములు) మరియు దూరంగా ప్రయోగించే/విసిరే దివ్యాస్త్రాలు (ప్రహరణములు/అస్త్రములు) కలిగినవారు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Equipped only with wooden clubs and shields",
+        "te": "కేవలం గదలు మరియు డాలులు మాత్రమే కలిగినవారు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Warriors who fight completely unarmed using martial wrestling skills",
+        "te": "ఎటువంటి ఆయుధాలు లేకుండా కేవలం మల్లయుద్ధం మాత్రమే చేసేవారు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Archers who possess only a single type of bow and arrow",
+        "te": "కేవలం ఒకే రకమైన ధనుర్భాణాలు మాత్రమే ఉపయోగించే విలుకాండ్రు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Nānā' (various) + 'śastra' (weapons held in hand, like swords/spears) + 'praharaṇa' (weapons thrown or released, like arrows/javelins). It indicates that the Kaurava heroes possessed a complete military arsenal. — Bhagavad Gita (1.9)",
+      "te": "'నానా' (వివిధ) + 'శస్త్ర' (చేతితో వాడే ఆయుధాలు) + 'ప్రహరణ' (విసిరి కొట్టే అస్త్రాలు). కౌరవ వీరుల వద్ద ఉన్న సంపూర్ణ ఆయుధ విభాగాన్ని ఇది తెలుపుతుంది. — భగవద్గీత (1.9)"
+    }
+  },
+  {
+    "id": "bg-1-9-q5",
+    "verse": { "c": 1, "s": 9 },
+    "concept": ["Sanskrit Vocabulary - Military Expertise"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Which Sanskrit term is used in verse 1.9 to describe the warriors as 'experienced masters/experts in war'?",
+      "te": "1.9 శ్లోకంలో వీరులందరూ 'యుద్ధతంత్రంలో ఆరితేరిన నిపుణులు' అని చెప్పడానికి ఏ సంస్కృత పదాన్ని వాడారు?"
+    },
+    "choices": [
+      {
+        "en": "Yuddha-viśāradāḥ",
+        "te": "యుద్ధవిశారదాః",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Samitiñjayāḥ",
+        "te": "సమితింజయాః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bahavaḥ śūrāḥ",
+        "te": "బహవః శూరాః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dvijottamāḥ",
+        "te": "ద్విజోత్తమాః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yuddha' (combat/warfare) + 'viśārada' (skilled / proficient / expert). 'Yuddha-viśāradāḥ' means veterans fully versed in military tactics and weapon science. — Bhagavad Gita (1.9)",
+      "te": "'యుద్ధ' + 'విశారద' (ఆరితేరిన/ప్రావీణ్యం గల). 'యుద్ధవిశారదాః' అనగా యుద్ధ వ్యూహాలలో, యుద్ధ రంగంలో నిపుణులైన అనుభవజ్ఞులు అని అర్థం. — భగవద్గీత (1.9)"
+    }
+  },
+  {
+    "id": "bg-1-9-q6",
+    "verse": { "c": 1, "s": 9 },
+    "concept": ["Unmentioned Characters Implied by Verse 1.9"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Who were some of the key un-named allied kings included in Duryodhana's reference to 'anye ca bahavaḥ śūrāḥ' (many other heroes) in verse 1.9?",
+      "te": "1.9 శ్లోకంలోని 'అన్యే చ బహవః శూరాః' (అనేక ఇతర వీరులు) అనే పదబంధంలో దుర్యోధనుడు పరోక్షంగా ప్రస్తావించిన ముఖ్య కౌరవ మిత్రరాజులు ఎవరు?"
+    },
+    "choices": [
+      {
+        "en": "Jayadratha (King of Sindhu), Kritavarma (Yadava leader), Bhagadatta (King of Pragjyotisha), and Susharma (King of Trigarta)",
+        "te": "జయద్రథుడు (సింధు రాజు), కృతవర్మ (యాదవ నాయకుడు), భగదత్తుడు (ప్రాగ్జ్యోతిష రాజు), మరియు సుశర్మ (త్రిగర్త రాజు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Yudhamanyu, Uttamauja, and the King of Kashi",
+        "te": "యుధామన్యుడు, ఉత్తమౌజుడు, మరియు కాశిరాజు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Virata, Drupada, and Dhrishtaketu",
+        "te": "విరాటుడు, ద్రుపదుడు, మరియు ధృష్టకేతువు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Satyaki, Chekitana, and Abhimanyu",
+        "te": "సాత్యకి, చేకితానుడు, మరియు అభిమన్యుడు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In verses 1.8, Duryodhana named the main commanders. In verse 1.9, 'other heroes' refers to formidable allies like Jayadratha, Kritavarma, Bhagadatta, Susharma, and the Kamboja rulers who brought massive divisions to fight for the Kauravas. — Bhagavad Gita (1.9)",
+      "te": "1.8 శ్లోకంలో ప్రధాన నాయకుల పేర్లు చెప్పిన దుర్యోధనుడు, 1.9 లో 'ఇతర వీరులు' అని జయద్రథుడు, కృతవర్మ, భగదత్తుడు, సుశర్మ మొదలైన అక్షౌహిణుల అధిపతులైన మిత్రరాజులను ఉద్దేశించి మాట్లాడాడు. — భగవద్గీత (1.9)"
+    }
+  }
+]

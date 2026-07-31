@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-11-q1",
+    "verse": { "c": 1, "s": 11 },
+    "concept": ["Verse Meaning & Strategic Command"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.11?\n\n“ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ | bhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అయనేషు చ సర్వేషు యథాభాగమవస్థితాః | భీష్మమేవాభిరక్షన్తు భవన్తః సర్వ ఏవ హి”"
+    },
+    "choices": [
+      {
+        "en": "Duryodhana said — Therefore, stationed in your respective strategic positions at all entrance points of the formation, all of you must protect Bhishma alone from all sides.",
+        "te": "దుర్యోధనుడు పలికెను — కాబట్టి వ్యూహంలోని అన్ని మార్గాలలో మీ మీ స్థానాలలో నిలిచి, మీరందరూ అన్ని వైపులా భీష్ముడిని మాత్రమే ప్రత్యేకంగా రక్షించండి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Duryodhana said — All generals should abandon their posts and attack the Pandava frontlines simultaneously.",
+        "te": "దుర్యోధనుడు పలికెను — సేనాపతులందరూ తమ స్థానాలను విడిచిపెట్టి ఒక్కసారిగా పాండవ సైన్యంపై దాడి చేయాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bhishma said — Let all Kaurava warriors hold their bowstrings ready and wait for my war cry.",
+        "te": "భీష్ముడు పలికెను — కౌరవ వీరులందరూ తమ వింటినారులను సిద్ధంగా ఉంచుకుని నా యుద్ధ గర్జన కోసం ఎదురుచూడాలి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — Dronacharya immediately ordered his commanders to surround King Duryodhana for his safety.",
+        "te": "సంజయుడు పలికెను — దుర్యోధన రాజు రక్షణ కోసం అతడిని చుట్టుముట్టాలని ద్రోణాచార్యుడు సేనాపతులను ఆదేశించాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Ayaneṣu ca sarveṣu yathābhāgam avasthitāḥ / bhīṣmam evābhirakṣantu bhavantaḥ sarva eva hi.\" Duryodhana instructs his commanders to stay firmly in their designated strategic positions ('ayaneṣu') and prioritize protecting Supreme Commander Bhishma above all else. — Bhagavad Gita (1.11)",
+      "te": "\"అయనేషు చ సర్వేషు యథాభాగమవస్థితాః / భీష్మమేవాభిరక్షన్తు భవన్తః సర్వ ఏవ హి.\" దుర్యోధనుడు తన సేనాపతులందరినీ తమ తమ స్థానాల్లో ('అయనేషు') నిలబడి, పిన్న వయస్కుల నుండి పెద్దల వరకు అందరూ సేనాధిపతియైన భీష్మాచార్యుడిని రక్షించడమే ప్రథమ కర్తవ్యంగా పెట్టుకోవాలని ఆదేశిస్తున్నాడు. — భగవద్గీత (1.11)"
+    }
+  },
+  {
+    "id": "bg-1-11-q2",
+    "verse": { "c": 1, "s": 11 },
+    "concept": ["Sanskrit Vocabulary - Strategic Positions"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "In verse 1.11, what does the Sanskrit term 'ayaneṣu' refer to in a military formation context?",
+      "te": "1.11 శ్లోకంలో సైనిక వ్యూహానికి సంబంధించి 'అయనేషు' అనే సంస్కృత పదం దేనిని సూచిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "In all entrance passes, strategic points, or military movement channels",
+        "te": "సైన్య వ్యూహంలోని అన్ని ద్వారములు, ప్రవేశ మార్గములు లేదా వ్యూహాత్మక స్థానములలో",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "In chariots reserved strictly for royalty",
+        "te": "కేవలం రాజకుమారుల కోసం కేటాయించిన రథాలలో",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "At the rear tents containing weapons and armor",
+        "te": "ఆయుధాలు, కవచాలు ఉండే వెనుక గుడారాల వద్ద",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "In the assembly halls of Hastinapur",
+        "te": "హస్తినాపుర రాజసభలలో",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Ayana' means path, passage, or strategic position in battle formation. 'Ayaneṣu ca sarveṣu' means at all entryways and strategic choke points across the Kaurava army formation. — Bhagavad Gita (1.11)",
+      "te": "'అయన' అనగా మార్గము, ద్వారము లేదా వ్యూహంలోని కీలక స్థానము అని అర్థం. 'అయనేషు చ సర్వేషు' అనగా కౌరవ సైన్య వ్యూహంలోని అన్ని మార్గాలలో అని అర్థం. — భగవద్గీత (1.11)"
+    }
+  },
+  {
+    "id": "bg-1-11-q3",
+    "verse": { "c": 1, "s": 11 },
+    "concept": ["Strategic Reasoning - Protecting Bhishma"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Why does Duryodhana place supreme imperative on protecting Bhishma alone ('bhīṣmam eva abhirakṣantu') in verse 1.11?",
+      "te": "1.11 శ్లోకంలో భీష్ముడిని రక్షించడానికే ('భీష్మమేవాభిరక్షన్తు') దుర్యోధనుడు అంతటి అత్యున్నత ప్రాధాన్యతను ఎందుకు ఇచ్చాడు?"
+    },
+    "choices": [
+      {
+        "en": "Because Bhishma was the unbeatable linchpin of the army, but was vulnerable due to his vow never to strike Shikhandi.",
+        "te": "భీష్ముడు అజేయుడైన ప్రధాన సేనాధిపతి, అయితే శిఖండి పై ఆయుధం ఎత్తననే అతడి శపథం వల్ల శిఖండి ద్వారా ప్రమాదం పొంచి ఉంది కాబట్టి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because Bhishma was elderly and unable to drive his own chariot.",
+        "te": "భీష్ముడు వయోవృద్ధుడై తన రథాన్ని తాను నడుపుకోలేకపోవడం వల్ల.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because Dronacharya refused to take part in combat unless Bhishma was guarded.",
+        "te": "భీష్మునికి రక్షణ ఉంటేనే తాను యుద్ధం చేస్తానని ద్రోణాచార్యుడు చెప్పడం వల్ల.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because Bhishma had given up his divine weapons before the battle.",
+        "te": "యుద్ధానికి ముందే భీష్ముడు తన దివ్యాస్త్రాలను త్యజించడం వల్ల.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Bhishma was the invincible commander whose fall would ruin Kaurava morale. Duryodhana knew Bhishma's vow never to harm Shikhandi (due to Shikhandi's past as Amba). Thus, Duryodhana wanted all generals to shield Bhishma specifically from Shikhandi's line of sight. — Bhagavad Gita (1.11)",
+      "te": "కౌరవుల విజయానికి భీష్ముడే మూలాధారం. అయితే పూర్వజన్మలో అంబ అయిన శిఖండి పై బాణం వేయనని భీష్ముడు శపథం చేశాడు. పాండవులు శిఖండిని అడ్డుపెట్టుకుని భీష్ముడిని దెబ్బతీస్తారేమోనని దుర్యోధనుడు అతడికి రక్షణను ఆదేశించాడు. — భగవద్గీత (1.11)"
+    }
+  },
+  {
+    "id": "bg-1-11-q4",
+    "verse": { "c": 1, "s": 11 },
+    "concept": ["Sanskrit Vocabulary - Division of Duty"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "What does the Sanskrit expression 'yathābhāgam avasthitāḥ' mean in verse 1.11?",
+      "te": "1.11 శ్లోకంలోని 'యథాభాగమవస్థితాః' అనే పదబంధానికి అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Stationed according to your respective assigned divisions/positions",
+        "te": "మీ మీ నియమిత స్థానాలలో/విభాగాలలో నిలిచి ఉన్నవారై",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dividing the wealth won from the kingdom equally",
+        "te": "రాజ్యంలో గెలుచుకున్న సంపదను సమంగా పంచుకుంటూ",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Fleeing according to individual convenience",
+        "te": "ఎవరి వీలును బట్టి వారు వెనక్కి పారిపోతూ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Surrounding the king's chariot in equal groups",
+        "te": "రాజు రథాన్ని సమ భాగాలుగా విభజించుకుని చుట్టుముడుతూ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yathā' (as per) + 'bhāgam' (assigned portion/division) + 'avasthitāḥ' (stationed). It reflects strict military discipline where every commander holds his assigned sector in the formation. — Bhagavad Gita (1.11)",
+      "te": "'యథా' (ప్రకారం) + 'భాగమ్' (కేటాయించిన విభాగము) + 'అవస్థితాః' (నిలిచి ఉన్నవారు). ప్రణాళికాబద్ధంగా తమకిచ్చిన స్థానాల్లో నిలబడటాన్ని ఇది సూచిస్తుంది. — భగవద్గీత (1.11)"
+    }
+  },
+  {
+    "id": "bg-1-11-q5",
+    "verse": { "c": 1, "s": 11 },
+    "concept": ["Sanskrit Vocabulary - Intensive Protection"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Which verb form in verse 1.11 conveys the imperative command to 'protect thoroughly from all directions'?",
+      "te": "1.11 శ్లోకంలో 'అన్ని వైపులా సంపూర్ణంగా రక్షించండి' అనే ఆజ్ఞార్థక క్రియను తెలియజేసే పదం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Abhirakṣantu",
+        "te": "అభిరక్షన్తు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Avasthitāḥ",
+        "te": "అవస్థితాః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bhavantaḥ",
+        "te": "భవన్తః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Ayaneṣu",
+        "te": "అయనేషు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Abhirakṣantu' combines 'abhi' (from all sides / thoroughly) + 'rakṣantu' (may they protect - imperative mood). Duryodhana commands all generals to safeguard Bhishma comprehensively. — Bhagavad Gita (1.11)",
+      "te": "'అభిరక్షన్తు' అనే పదం 'అభి' (అన్ని వైపులా) + 'రక్షన్తు' (రక్షించుగాక/రక్షించండి) అనే ధాతువుతో ఏర్పడింది. ఇది గట్టి హెచ్చరికతో కూడిన ఆదేశం. — భగవద్గీత (1.11)"
+    }
+  },
+  {
+    "id": "bg-1-11-q6",
+    "verse": { "c": 1, "s": 11 },
+    "concept": ["Psychological Nuance - Managing Drona's Ego"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "duryodhana",
+    "q": {
+      "en": "Having addressed Drona in verse 1.8-1.10, why does Duryodhana explicitly add 'bhavantaḥ sarva eva hi' (all of you without exception) in verse 1.11?",
+      "te": "1.8-1.10 శ్లోకాలలో ద్రోణుడితో మాట్లాడిన తర్వాత, 1.11 శ్లోకంలో దుర్యోధనుడు 'భవన్తః సర్వ ఏవ హి' (మీరందరూ మినహాయింపు లేకుండా) అని ఎందుకు ప్రత్యేకంగా చేర్చాడు?"
+    },
+    "choices": [
+      {
+        "en": "To ensure Dronacharya and other senior generals do not feel offended or sidelined by the exclusive focus on Bhishma.",
+        "te": "భీష్ముడిపైనే పూర్తి దృష్టి పెట్టడం వల్ల ద్రోణాచార్యుడు మొదలైన ఇతర శ్రేష్ఠ నాయకులు తమను తక్కువ చేసి చూశారని నొచ్చుకోకుండా ఉండటానికి అందరినీ కలుపుకుని మాట్లాడాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "To command foot soldiers only while ignoring the chariot commanders.",
+        "te": "రథికులను కాదని కేవలం కాల్బలాన్ని మాత్రమే ఆదేశించడానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "To announce that he himself will lead the front guard.",
+        "te": "తానే స్వయంగా ముందువరసకు నాయకత్వం వహిస్తానని చెప్పడానికి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "To ask Karna to take over command from Dronacharya immediately.",
+        "te": "ద్రోణుని స్థానంలో కర్ణుడిని సేనాధిపతిగా చేయమని కోరడానికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Duryodhana realizes he was speaking directly to Drona about Bhishma's supreme importance. To avoid offending Drona or causing jealousy among other commanders like Kripa and Ashwatthama, he diplomatically includes everyone: 'All of you, including Your Reverence, must protect Bhishma.' — Bhagavad Gita (1.11)",
+      "te": "ద్రోణుని ఎదుట నిలబడి భీష్ముడే అత్యంత ముఖ్యుడని చెప్పినప్పుడు ద్రోణునికి లేదా ఇతర నాయకులకు అహం దెబ్బతినవచ్చని దుర్యోధనుడు గ్రహించాడు. అందుకే సమయస్ఫూర్తితో 'మీరందరూ (ద్రోణుడితో సహా) కలిసి భీష్ముడిని కాపాడాలి' అని సరిపెట్టాడు. — భగవద్గీత (1.11)"
+    }
+  }
+]

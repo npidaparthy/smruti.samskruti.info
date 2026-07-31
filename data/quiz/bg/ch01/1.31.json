@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-31-q1",
+    "verse": { "c": 1, "s": 31 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.31?\n\n“na ca śreyo'nupaśyāmi hatvā svakajamāhave | na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“న చ శ్రేయోఽనుపశ్యామి హత్వా స్వజనమాహవే | న కాంక్షే విజయం కృష్ణ న చ రాజ్యం సుఖాని చ”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — I do not see any good in killing my own kinsmen in battle, O Krishna; nor do I desire victory, nor kingdom, nor pleasures.",
+        "te": "అర్జునుడు పలికెను — ఓ కృష్ణా! యుద్ధంలో నా స్వజనాన్ని (బంధువులను) చంపడం వల్ల ఏ మేలూ (శ్రేయస్సు) కలుగుతుందని నేను భావించడం లేదు; నాకు విజయమూ వద్దు, రాజ్యమూ వద్దు, భోగభాగ్యాలూ వద్దు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — I see victory ahead, O Krishna, and I am eager to claim the kingdom and enjoy its pleasures.",
+        "te": "అర్జునుడు పలికెను — ఓ కృష్ణా! నాకు విజయం స్పష్టంగా కనిపిస్తున్నది, రాజ్యాన్ని సాధించి భోగభాగ్యాలను అనుభవించడానికి నేను సిద్ధంగా ఉన్నాను.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — I seek Krishna's blessings to fight valiantly and destroy all enemies without hesitation.",
+        "te": "అర్జునుడు పలికెను — సంకోచం లేకుండా శత్రువులందరినీ సమూలంగా నాశనం చేయడానికి నేను శ్రీకృష్ణుని ఆశీస్సులు కోరుకుంటున్నాను.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — Let King Yudhishthira take the kingdom while I retreat to the forest alone to meditate.",
+        "te": "అర్జునుడు పలికెను — యుధిష్ఠిర మహారాజు రాజ్యాన్ని ఏలనివ్వండి, నేను మాత్రం ధ్యానం చేసుకోవడానికి ఏకాంతంగా అడవికి వెళ్ళిపోతాను.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Na ca śreyo 'nupaśyāmi hatvā svakajam āhave / na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca.\" Arjuna renounces the standard motives for warfare—victory, sovereignty, and enjoyment—arguing that slaughtering kinsmen yields no moral or personal benefit ('śreyas'). — Bhagavad Gita (1.31)",
+      "te": "యుద్ధం చేయడానికి సాధారణంగా ఉండే ప్రేరణలైన విజయం, రాజ్యం, సుఖాలు ఏవీ తనకు వద్దని అర్జునుడు ప్రకటిస్తున్నాడు. స్వజనాన్ని చంపడం వల్ల ఎటువంటి శ్రేయస్సు (మేలు) కలగదని వాదిస్తున్నాడు. — భగవద్గీత (1.31)"
+    }
+  },
+  {
+    "id": "bg-1-31-q2",
+    "verse": { "c": 1, "s": 31 },
+    "concept": ["Philosophical Concept - Preyas vs Shreyas"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What is the philosophical weight of the word 'śreyaḥ' in Arjuna's statement 'na ca śreyo 'nupaśyāmi' in verse 1.31?",
+      "te": "1.31 శ్లోకంలోని 'న చ శ్రేయోఽనుపశ్యామి' అనే వాక్యంలో 'శ్రేయః' అనే పదానికి ఉన్న ఆధ్యాత్మిక/నైతిక ప్రాముఖ్యత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Śreyas = Ultimate moral/spiritual good or lasting welfare (contrasted with Preyas = immediate material pleasure). Arjuna asserts that killing family offers neither spiritual merit nor true well-being.",
+        "te": "శ్రేయస్సు = ఆధ్యాత్మిక/పరమార్థ నైతిక మేలు లేదా శాశ్వత శ్రేయస్సు (ప్రేయస్సు = తాత్కాలిక లౌకిక సుఖానికి భిన్నమైనది). స్వజనాన్ని చంపడం వల్ల ఎటువంటి నైతిక లేదా ఆముష్మిక శ్రేయస్సు లభించదని అర్జునుడు భావిస్తున్నాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Śreyas = Tactical military advantage over the opponent's cavalry.",
+        "te": "శ్రేయస్సు = శత్రు సైన్యపు అశ్విక దళంపై సాధించే వ్యూహాత్మక ఆధిక్యత.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Śreyas = Financial profit gained through trade taxes.",
+        "te": "శ్రేయస్సు = వ్యాపార పన్నుల ద్వారా లభించే ఆర్థిక లాభం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Śreyas = The reputation of wielder of Gandiva bow.",
+        "te": "శ్రేయస్సు = గాండీవ ధనుర్ధారిగా వచ్చే కీర్తి ప్రతిష్ఠలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedic philosophy (e.g., Katha Upanishad), 'Preyas' is pleasant material gratification, whereas 'Śreyas' is ultimate spiritual good. Arjuna uses 'śreyas' to argue that even if victory brings material kingdom (preyas), it destroys higher moral/spiritual good (śreyas). — Bhagavad Gita (1.31)",
+      "te": "వైదిక దర్శనంలో తాత్కాలిక లౌకిక సుఖాన్ని 'ప్రేయస్సు' అని, శాశ్వతమైన పరమార్థ మేలును 'శ్రేయస్సు' అని అంటారు. స్వజన వధ వల్ల సామ్రాజ్యం వచ్చినా, అది ఆధ్యాత్మిక శ్రేయస్సును నాశనం చేస్తుందని అర్జునుడు తార్కికంగా భావిస్తున్నాడు. — భగవద్గీత (1.31)"
+    }
+  },
+  {
+    "id": "bg-1-31-q3",
+    "verse": { "c": 1, "s": 31 },
+    "concept": ["Psychological Renunciation - Renouncing Outcomes"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which three desires of a Kshatriya does Arjuna explicitly disavow in verse 1.31?",
+      "te": "1.31 శ్లోకంలో ఒక క్షత్రియునికి ఉండే ఏ మూడు ప్రధాన కోరికలను అర్జునుడు స్పష్టంగా తిరస్కరించాడు?"
+    },
+    "choices": [
+      {
+        "en": "1. Vijayam (Victory), 2. Rājyam (Kingdom/Sovereignty), 3. Sukhāni (Pleasures/Enjoyments)",
+        "te": "1. విజయం (విజయకాంక్ష), 2. రాజ్యం (సామ్రాజ్య పాలన), 3. సుఖాలు (భోగభాగ్యాలు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1. Fame, 2. Long life, 3. Weapons",
+        "te": "1. కీర్తి, 2. ఆయుష్షు, 3. ఆయుధాలు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1. Chariots, 2. Horses, 3. Gold",
+        "te": "1. రథాలు, 2. గుర్రాలు, 3. బంగారం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1. Peace treaties, 2. Allies, 3. Divine boons",
+        "te": "1. శాంతి ఒప్పందాలు, 2. మిత్ర రాజ్యాలు, 3. దివ్య వరాలు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna states: 'na kāṅkṣe vijayaṃ' (I do not desire victory), 'na ca rājyaṃ' (nor kingdom), 'sukhāni ca' (nor pleasures). By rejecting the rewards of war, he attempts to render the fighting itself meaningless. — Bhagavad Gita (1.31)",
+      "te": "అర్జునుడు 'న కాంక్షే విజయం' (విజయాన్ని కోరుకోవడం లేదు), 'న చ రాజ్యం' (రాజ్యాన్ని కోరడం లేదు), 'సుఖాని చ' (సుఖాలను కోరడం లేదు) అని క్షత్రియ ధర్మానికి ప్రేరకాలైన మూడింటినీ తిరస్కరించాడు. — భగవద్గీత (1.31)"
+    }
+  },
+  {
+    "id": "bg-1-31-q4",
+    "verse": { "c": 1, "s": 31 },
+    "concept": ["Sanskrit Vocabulary - Desiring & Battle"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit words 'kāṅkṣe' and 'āhave' mean in verse 1.31?",
+      "te": "1.31 శ్లోకంలోని 'కాంక్షే' మరియు 'ఆహవే' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Kāṅkṣe = I desire / I hanker after; Āhave = In battle / in war.",
+        "te": "కాంక్షే = నేను కోరుకుంటున్నాను / ఆశిస్తున్నాను; ఆహవే = యుద్ధమునందు / రణరంగంలో.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kāṅkṣe = I fear; Āhave = In peace.",
+        "te": "కాంక్షే = నేను భయపడుతున్నాను; ఆహవే = శాంతి సమయంలో.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kāṅkṣe = I reject; Āhave = In the forest.",
+        "te": "కాంక్షే = నేను తిరస్కరిస్తున్నాను; ఆహవే = అరణ్యములో.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kāṅkṣe = I see; Āhave = In the palace.",
+        "te": "కాంక్షే = నేను చూస్తున్నాను; ఆహవే = రాజప్రసాదంలో.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kāṅkṣe' is 1st person singular present tense Ātmanepada of root 'kāṅkṣ' (to desire). With 'na', 'na kāṅkṣe' = 'I do not desire'. 'Āhave' is Locative singular of 'āhava' = 'in battle'. — Bhagavad Gita (1.31)",
+      "te": "'కాంక్షే' అనగా 'నేను కోరుతున్నాను' (ఆత్మనేపద వర్తమాన ఏకవచనం). 'న కాంక్షే' అనగా 'నేను కోరుకోవడం లేదు'. 'ఆహవే' అనగా 'యుద్ధమునందు' (సప్తమీ విభక్తి ఏకవచనం). — భగవద్గీత (1.31)"
+    }
+  },
+  {
+    "id": "bg-1-31-q5",
+    "verse": { "c": 1, "s": 31 },
+    "concept": ["Sanskrit Grammar - Participle Construction"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical structure of 'hatvā' and 'anupaśyāmi' in verse 1.31:",
+      "te": "1.31 శ్లోకంలోని 'హత్వా' మరియు 'అనుపశ్యామి' అనే పదాల వ్యాకరణ నిర్మాణం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Hatvā = Absolutive (Ktva-pratyaya) from root 'han' (having killed / after slaying); Anupaśyāmi = 1st person singular present tense of 'paś' with prefix 'anu' (I foresee / I perceive).",
+        "te": "హత్వా = 'హన్' (చంపుట) ధాతువు యొక్క క్త్వా ప్రత్యయాంత రూపం (చంపి/సంహరించి); అనుపశ్యామి = 'పశ్' ధాతువుకు 'అను' చేరిన ఉత్తమ పురుష ఏకవచన రూపం (నేను గ్రహించుచున్నాను/కాంచుచున్నాను).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Hatvā = Infinitive (to kill); Anupaśyāmi = Past tense verb.",
+        "te": "హత్వా = తుమున్నంత రూపం; అనుపశ్యామి = భూతకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Hatvā = Present participle; Anupaśyāmi = Imperative verb.",
+        "te": "హత్వా = వర్తమానకాల విశేషణం; అనుపశ్యామి = ఆజ్ఞార్థక క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Hatvā = Noun in instrumental case; Anupaśyāmi = Future tense verb.",
+        "te": "హత్వా = తృతీయా విభక్తి నామవాచకం; అనుపశ్యామి = భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Hatvā' is gerund/absolutive of 'han' ('having slain'). 'Anupaśyāmi' = 'anu' (along/after/consequentially) + 'paśyāmi' (I see). 'Hatvā svakajam anupaśyāmi' translates to 'having killed my own kinsmen, I do not see consequential good'. — Bhagavad Gita (1.31)",
+      "te": "'హత్వా' అనేది క్త్వా ప్రత్యయాంత రూపం ('చంపిన తర్వాత'). 'అనుపశ్యామి' అనగా పరిణామాన్ని 'చూడలేకపోతున్నాను'. స్వజనాన్ని సంహరించిన తర్వాత ఏ మేలూ జరగడం నేను చూడటం లేదు అని అర్థం. — భగవద్గీత (1.31)"
+    }
+  },
+  {
+    "id": "bg-1-31-q6",
+    "verse": { "c": 1, "s": 31 },
+    "concept": ["Strategic Context - Pseudo-Renunciation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "How do commentators (like Ramanuja and Shankara) evaluate Arjuna's apparent renunciation of victory and kingdom in verse 1.31?",
+      "te": "1.31 శ్లోకంలో విజయాన్ని, రాజ్యాన్ని వద్దనడంలో అర్జునుని వైరాగ్యాన్ని వ్యాఖ్యాతలు (రామానుజులు, శంకరాచార్యులు మొదలైనవారు) ఏ విధంగా విశ్లేషించారు?"
+    },
+    "choices": [
+      {
+        "en": "It is not genuine spiritual detachment (Vairāgya), but pseudo-renunciation born of temporary emotional grief (Kārpanya-doṣa) and attachment to relatives.",
+        "te": "ఇది నిజమైన ఆధ్యాత్మిక వైరాగ్యం కాదు, స్వజన మమకారం మరియు తాత్కాలిక మోహం (కార్పణ్య దోషం) వల్ల పుట్టిన వ్యామోహ పూరితమైన నిరాసక్తత మాత్రమే.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It is supreme spiritual enlightenment, which Krishna immediately praises.",
+        "te": "ఇది అత్యున్నతమైన ఆత్మజ్ఞానం, దీనిని శ్రీకృష్ణుడు వెంటనే ప్రశంసించాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It is a clever political trick to deceive Duryodhana into surrendering.",
+        "te": "దుర్యోధనుడిని మోసం చేసి లొంగిపోయేలా చేయడానికి అర్జునుడు పన్నిన రాజనీతి వ్యూహం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It is an expression of physical cowardice and fear of dying.",
+        "te": "ఇది కేవలం చావు పట్ల ఉన్న భయం, శారీరక పిరికితనం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Commentators clarify that true detachment is born of discrimination between Atman and Anatman. Arjuna's renunciation in 1.31 is conditional: he rejects kingdom *only* because getting it requires killing relatives. This emotional weakness (Kārpanya) is later corrected by Krishna in Chapter 2. — Bhagavad Gita (1.31)",
+      "te": "నిజమైన వైరాగ్యం వివేకం నుండి పుడుతుంది. కానీ ఇక్కడ అర్జునుడు రాజ్యాన్ని వద్దు అనడం కేవలం బంధువులను చంపకూడదనే మమకారం వల్లనే. అందుకే ఇది 'శోక మోహ సంభూతమైన' తాత్కాలిక వైరాగ్యంగా చెప్పబడింది. — భగవద్గీత (1.31)"
+    }
+  }
+]

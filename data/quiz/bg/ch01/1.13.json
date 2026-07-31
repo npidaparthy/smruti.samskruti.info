@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-13-q1",
+    "verse": { "c": 1, "s": 13 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.13?\n\n“tataḥ śaṅkhāśca bheryaśca paṇavānakadundubhayaḥ | sahasaivābhyahanyanta sa śabdastumulo'bhavat”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“తతః శంఖాశ్చ భేర్యశ్చ పణవానకదున్దుభయః | సహసైవాభ్యహన్యన్త స శబ్దస్తుములోఽభవత్”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — Thereupon, conches, kettledrums, tabors, drums, and cow-horn trumpets blared forth all at once, creating a tumultuous and deafening sound.",
+        "te": "సంజయుడు పలికెను — ఆ వెంటనే శంఖాలు, భేరీలు, పణవాలు, ఆనకాలు, దుందుభులు ఒకేసారి మోగాయి; ఆ శబ్దం ఆకాశాన్ని తాకుతూ మిక్కిలి భయంకరంగా మారింది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — The Pandava warriors immediately responded by raining arrows upon the Kaurava ranks.",
+        "te": "సంజయుడు పలికెను — పాండవ వీరులు వెంటనే స్పందించి కౌరవ సైన్యంపై బాణవర్షం కురిపించారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — Silence fell across the field of Kurukshetra as both armies waited for Lord Krishna to speak.",
+        "te": "సంజయుడు పలికెను — శ్రీకృష్ణుడి మాటలు వినడానికి కురుక్షేత్ర రణరంగమంతా ప్రశాంతంగా నిశ్శబ్దమైపోయింది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — Duryodhana ordered his army to hold back until all generals took their positions.",
+        "te": "సంజయుడు పలికెను — సేనాపతులందరూ తమ స్థానాలకు చేరుకునేవరకు సైన్యాన్ని ఆగమని దుర్యోధనుడు ఆదేశించాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Tataḥ śaṅkhāśca bheryaśca paṇavānakadundubhayaḥ / sahasāivābhyahanyanta sa śabdas tumulo 'bhavat.\" Immediately following Bhishma's conch blast, the full array of Kaurava war instruments blared simultaneously, filling the air with a tumultuous sound. — Bhagavad Gita (1.13)",
+      "te": "భీష్ముని శంఖారావం వినబడగానే, కౌరవ సైన్యంలోని శంఖాలు, నగారాలు, మద్దెలు, పెద్ద దుందుభులు ఒకేసారి ఉరిగాయి. ఆ శబ్దం అత్యంత భయంకరంగా రణరంగమంతటినీ నింపేసింది. — భగవద్గీత (1.13)"
+    }
+  },
+  {
+    "id": "bg-1-13-q2",
+    "verse": { "c": 1, "s": 13 },
+    "concept": ["Sanskrit Vocabulary - Musical Instruments"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Match the ancient Indian military instruments listed in verse 1.13 with their descriptions:",
+      "te": "1.13 శ్లోకంలో పేర్కొనబడిన పురాతన యుద్ధ వాద్యాలను వాటి వివరణతో జతపరచండి:"
+    },
+    "choices": [
+      {
+        "en": "Śaṅkha (conches), Bherī (kettledrums), Paṇava (small drums/tabors), Ānaka (clay drums), Dundubhi (giant war drums)",
+        "te": "శంఖాలు, భేరీలు (పెద్ద నగారాలు), పణవాలు (మద్దెలు), ఆనకాలు (మట్టి డ్రమ్ములు), మరియు దుందుభులు (పెద్ద రణభేరీలు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Veena (string instrument), Flute, Mridangam, Manjira, Nagada",
+        "te": "వీణ, వేణువు, మృదంగం, మంజీర, నగాడా",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Damaru, Trishul, Shankha, Ghanta, Shehnai",
+        "te": "డమరుకం, త్రిశూలం, శంఖం, గంట, షెహనాయ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Gong, Cymbal, Horn, Bugle, Snare Drum",
+        "te": "తాళం, బ్యూగల్, ఘంట, కొమ్ము వాద్యం, చిన్న డ్రమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verse 1.13 enumerates five distinct martial instruments: Śaṅkha (conch shells), Bherī (large metal/leather kettledrums), Paṇava (cymbals/tabors), Ānaka (drums struck on one side), and Dundubhi (giant ceremonial war drums). — Bhagavad Gita (1.13)",
+      "te": "1.13 శ్లోకం ఐదు రకాల యుద్ధ వాద్యాలను ప్రస్తావిస్తుంది: శంఖాలు, భేరీలు, పణవాలు, ఆనకాలు, మరియు దుందుభులు. — భగవద్గీత (1.13)"
+    }
+  },
+  {
+    "id": "bg-1-13-q3",
+    "verse": { "c": 1, "s": 13 },
+    "concept": ["Sanskrit Vocabulary - Manner of Sounding"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What does the Sanskrit term 'sahasā eva' (rendered as 'sahasāivābhyahanyanta') mean in verse 1.13?",
+      "te": "1.13 శ్లోకంలో ఉన్న 'సహసైవ' ('సహసా ఏవ') అనే పదానికి అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "All at once / suddenly / simultaneously",
+        "te": "ఒకేసారి / అనుకోకుండా / ఒక్కమారుగా",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "One after another in sequential order",
+        "te": "ఒకదాని తర్వాత ఒకటి వరుసక్రమంలో",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Softly and gradually building pitch",
+        "te": "మెల్లగా ప్రారంభమై క్రమంగా పెరిగేలా",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Only on the left flank of the army",
+        "te": "కేవలం సైన్యానికి ఎడమ వైపున మాత్రమే",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sahasā' (suddenly/all at once) + 'eva' (indeed). Combined with 'abhyahanyanta' (were struck/sounded), it emphasizes that hundreds of martial instruments erupted without delay as soon as Bhishma blew his conch. — Bhagavad Gita (1.13)",
+      "te": "'సహసా' (అనుకోకుండా/ఒక్కసారిగా) + 'ఏవ' (నిశ్చయంగా). భీష్ముడి శంఖారావం వినపడగానే కౌరవ సైనిక వాద్యకారులందరూ ఏకకాలంలో తమ వాద్యాలను మోగించారని ఇది సూచిస్తుంది. — భగవద్గీత (1.13)"
+    }
+  },
+  {
+    "id": "bg-1-13-q4",
+    "verse": { "c": 1, "s": 13 },
+    "concept": ["Sanskrit Vocabulary - Acoustic Nature"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which Sanskrit term in verse 1.13 describes the nature of the sound produced as 'tumultuous' or 'deafening'?",
+      "te": "1.13 శ్లోకంలో ఆ ఉత్పన్నమైన శబ్దాన్ని 'భయంకరమైనది' లేదా 'పిక్కటిల్లేది' అని వర్ణించే పదం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Tumulaḥ",
+        "te": "తుములః",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Abhyahanyanta",
+        "te": "అభ్యహన్యన్త",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sahasā",
+        "te": "సహసా",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Tataḥ",
+        "te": "తతః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Tumulaḥ' means roaring, chaotic, tumultuous, or deafening. 'Sa śabdas tumulo 'bhavat' translates to 'that sound became tumultuous'. — Bhagavad Gita (1.13)",
+      "te": "'తుములః' అనగా గందరగోళమైన, మిక్కిలి పెద్దదైన, చెవులు పిక్కటిల్లే శబ్దము అని అర్థం. 'స శబ్దస్తుములోఽభవత్' అనగా ఆ శబ్దం తుములమైనది అని అర్థం. — భగవద్గీత (1.13)"
+    }
+  },
+  {
+    "id": "bg-1-13-q5",
+    "verse": { "c": 1, "s": 13 },
+    "concept": ["Sanskrit Grammar - Passive Verb Forms"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What is the grammatical meaning of the verb 'abhyahanyanta' in verse 1.13?",
+      "te": "1.13 శ్లోకంలోని 'అభ్యహన్యన్త' అనే క్రియాపదానికి వ్యాకరణపరమైన అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "They were simultaneously struck/sounded (past tense passive plural of root 'han' with prefix 'abhi')",
+        "te": "అవి ఒక్కసారిగా మోగించబడ్డాయి / కొట్టబడ్డాయి ('హన్' అనే ధాతువుకు 'అభి' చేరి ఏర్పడిన భూతకాల కర్మణి బహువచనం)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The warriors broke their own instruments in anger",
+        "te": "వీరులు కోపంతో తమ వాద్యాలను తామే పగలగొట్టుకున్నారు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "They offered prayers to the gods of music",
+        "te": "వారు సంగీత దేవతలకు ప్రార్థనలు చేశారు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The instruments sounded of their own accord without human effort",
+        "te": "ఎవరి ప్రమేయం లేకుండానే వాద్యాలు వాటంతట అవే మోగాయి",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Abhyahanyanta' is the imperfect passive 3rd person plural of the root 'han' (to strike) with prefix 'abhi' (towards/intensively). It translates to 'were struck forcefully'. — Bhagavad Gita (1.13)",
+      "te": "'అభ్యహన్యన్త' అనగా గట్టిగా మోగించబడ్డాయి/కొట్టబడ్డాయి అని అర్థం. కౌరవ సైనికులు ఆ వాద్యాలన్నింటినీ ఒక్కసారిగా మోగించారని ఇది వివరిస్తుంది. — భగవద్గీత (1.13)"
+    }
+  },
+  {
+    "id": "bg-1-13-q6",
+    "verse": { "c": 1, "s": 13 },
+    "concept": ["Psychological & Martial Function of War Drums"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What was the traditional tactical purpose of blasting all percussion instruments and conches simultaneously in ancient Indian warfare as depicted in verse 1.13?",
+      "te": "1.13 శ్లోకంలో వర్ణించినట్లు పురాతన భారతీయ యుద్ధతంత్రంలో అన్ని రకాల వాద్యాలను ఒకేసారి మోగించడం వెనుక ఉన్న సైనిక ప్రయోజనం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "To galvanize friendly troop morale, intimidate the enemy army through acoustic terror, and signal army-wide readiness across vast battlefields.",
+        "te": "తన సైన్యంలో ఉత్సాహాన్ని, పౌరుషాన్ని రగిలించడానికి; శత్రు సైన్యంలో శబ్ద భయాన్ని కలిగించడానికి; మరియు విస్తారమైన యుద్ధభూమిలో సైన్యమంతటికీ సంకేతం ఇవ్వడానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "To request an immediate truce from the opposing side.",
+        "te": "ఎదురు పక్షం నుండి వెంటనే యుద్ధ విరామాన్ని కోరడానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "To mask the sounds of retreating chariot divisions.",
+        "te": "వెనక్కి తగ్గుతున్న రథ దళాల శబ్దాలు వినబడకుండా కప్పిపుచ్చడానికి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "To entertain the royal spectators sitting in the rear tents.",
+        "te": "వెనుక గుడారాల్లో ఉన్న రాజ వీక్షకులకు వినోదాన్ని పంచడానికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In ancient warfare before electronic communication, acoustic signals using horns and drums coordinated army maneuvers, whipped infantry into combat frenzy, and served as psychological warfare to demoralize opponents. — Bhagavad Gita (1.13)",
+      "te": "రచనాత్మక యుద్ధాలలో భారీ ధ్వనులు సైనికులకు ఉత్సాహాన్ని ఇవ్వడమే కాక, శత్రువుల గుండెల్లో భయం నింపడానికి, సమగ్ర సైన్యానికి ప్రవేశ సంకేతం ఇవ్వడానికి ముఖ్య సాధనంగా ఉపయోగపడేవి. — భగవద్గీత (1.13)"
+    }
+  }
+]

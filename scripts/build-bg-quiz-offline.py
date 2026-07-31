@@ -19,7 +19,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
 CHAPTERS_DIR = ROOT / 'data' / 'bg' / 'content' / 'chapters'
-OUT_PATH = ROOT / 'data' / 'quiz' / 'bg-quiz.json'
+OUT_PATH = ROOT / 'data' / 'quiz' / 'bg-quiz-auto.json'
 
 random.seed(42)  # reproducible shuffles across runs
 

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-25-q1",
+    "verse": { "c": 1, "s": 25 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya / krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.25?\n\n“bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām | uvāca pārtha paśyaitān samavetān kurūn iti”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“భీష్మద్రోణప్రముఖతః సర్వేషాం చ మహీక్షితామ్ | ఉవాచ పార్థ పశ్యైతాన్ సమవేతాన్ కురూన్ ఇతి”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — In the presence of Bhishma, Drona, and all the rulers of the earth, Lord Krishna said: 'O Partha (Arjuna), behold all these Kurus assembled here!'",
+        "te": "సంజయుడు పలికెను — భీష్ముడు, ద్రోణుడు మరియు సమస్త భూపాలుర ఎదుట శ్రీకృష్ణుడు ఈ విధంగా పలికెను: 'ఓ పార్థా! ఇక్కడ సమకూడిన ఈ కురువంశీయులందరినీ చూడుము!'",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — Seeing Bhishma and Drona stand before him, Arjuna immediately surrendered his Gandiva bow.",
+        "te": "సంజయుడు పలికెను — తన ఎదురుగా నిలిచిన భీష్మ ద్రోణులను చూసి అర్జునుడు వెంటనే తన గాండీవ ధనుస్సును విడిచిపెట్టాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Krishna said — 'O Arjuna, launch your arrows first at Bhishma and Drona to secure an immediate victory.'",
+        "te": "కృష్ణుడు పలికెను — 'ఓ అర్జునా! వెంటనే విజయం సాధించడానికి మొదటగా నీ బాణాలను భీష్మ ద్రోణులపైకే ప్రయోగించు.'",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — Bhishma and Drona called out to Arjuna, encouraging him to fight valiantly according to Kshatriya code.",
+        "te": "సంజయుడు పలికెను — క్షాత్ర ధర్మం ప్రకారం శౌర్యంతో పోరాడమని భీష్మ ద్రోణులు అర్జునుడిని ప్రోత్సహించారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Bhīṣma-droṇa-pramukhataḥ sarveṣāṃ ca mahīkṣitām / uvāca pārtha paśyaitān samavetān kurūn iti.\" Sanjaya describes Krishna positioning the chariot right in front of Bhishma and Drona, telling Arjuna to behold the assembled Kaurava clan. — Bhagavad Gita (1.25)",
+      "te": "శ్రీకృష్ణుడు రథాన్ని నేరుగా భీష్ముడు, ద్రోణుడు మరియు ఇతర రాజుల ముందే నిలిపి, 'ఇక్కడ సమకూడిన కురువంశీయులను చూడుము' అని అర్జునుడికి చూపించాడని సంజయుడు చెబుతున్నాడు. — భగవద్గీత (1.25)"
+    }
+  },
+  {
+    "id": "bg-1-25-q2",
+    "verse": { "c": 1, "s": 25 },
+    "concept": ["Psychological & Divine Strategy - Krishna's Placement"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Why did Lord Krishna strategically park the chariot right in front of Bhishma and Drona ('bhīṣmadroṇapramukhataḥ') rather than ordinary foot soldiers?",
+      "te": "సాధారణ సైనికుల ఎదుట కాకుండా, శ్రీకృష్ణుడు రథాన్ని కావాలనే భీష్ముడు, ద్రోణుడు ('భీష్మద్రోణప్రముఖతః') ఉన్న స్థానానికి ఎదురుగా ఎందుకు నిలిపాడు?"
+    },
+    "choices": [
+      {
+        "en": "To directly trigger Arjuna's underlying emotional attachment to his revered grandfather and guru, thereby exposing his latent delusion so it could be permanently healed through the Gita's wisdom.",
+        "te": "అర్జునునికి తన తాతగారైన భీష్ముడు, గురువైన ద్రోణుని పట్ల ఉన్న మోహాన్ని/అనుబంధాన్ని బయటకు తీసి, ఆ అజ్ఞానాన్ని గీతా జ్ఞానం ద్వారా సంపూర్ణంగా నివారించడానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "To intimidate Bhishma and Drona with the splendour of the divine white chariot.",
+        "te": "తన దివ్యమైన తెల్లని రథ వైభవంతో భీష్మ ద్రోణులను భయపెట్టడానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because it was the only vacant spot available on the crowded battlefield.",
+        "te": "కిక్కిరిసిన రణరంగంలో కేవలం ఆ ఒక్క ప్రదేశంలో మాత్రమే రథం నిలపడానికి ఖాళీ స్థలం ఉండడం వల్ల.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "To allow Duryodhana to step forward and speak peacefully with Arjuna.",
+        "te": "దుర్యోధనుడు ముందుకు వచ్చి అర్జునుడితో ప్రశాంతంగా మాట్లాడటానికి అవకాశం ఇవ్వడం కోసం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Krishna knew Arjuna's psychological weak spot: deep attachment to Bhishma (his grandfather) and Drona (his archery guru). By placing Arjuna directly face-to-face with them, Krishna deliberately brought Arjuna's grief to a head so the timeless teachings of Atma-jnana could be imparted. — Bhagavad Gita (1.25)",
+      "te": "అర్జునుని బలహీనత అతడి అనుబంధమే అని కృష్ణునికి తెలుసు. భీష్మ ద్రోణులను నేరుగా ముఖాముఖిగా చూడడం వల్లే అర్జునునిలో అనుబంధం, దుఃఖం పొంగిపొర్లుతాయి. గీతోపదేశం చేయడానికి ఈ రకమైన మనోస్థితిని కలిగించడమే శ్రీకృష్ణుని లీల. — భగవద్గీత (1.25)"
+    }
+  },
+  {
+    "id": "bg-1-25-q3",
+    "verse": { "c": 1, "s": 25 },
+    "concept": ["First Spoken Words of Krishna"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What are the very first spoken words uttered by Lord Krishna in the Bhagavad Gita, captured in verse 1.25?",
+      "te": "భగవద్గీతలో శ్రీకృష్ణుని నోటి నుండి వచ్చిన మొట్టమొదటి మాటలు ఏవి (1.25 శ్లోకంలో ఉన్నట్లుగా)?"
+    },
+    "choices": [
+      {
+        "en": "“Pārtha paśyaitān samavetān kurūn iti” ('O Partha, behold all these Kurus assembled here!')",
+        "te": "“పార్థ పశ్యైతాన్ సమవేతాన్ కురూన్ ఇతి” ('ఓ పార్థా! ఇక్కడ సమకూడిన ఈ కురువంశీయులను చూడుము!')",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "“Klaibyaṃ mā sma gamaḥ pārtha” ('Do not yield to unmanliness, O Partha!')",
+        "te": "“క్లైబ్యం మా స్మ గమః పార్థ” ('ఈ క్లైబ్యత్వాన్ని పొందకుము ఓ పార్థా!')",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "“Aśocyān anvaśocas tvaṃ” ('You grieve for those not worthy of grief')",
+        "te": "“అశోచ్యానన్వశోచస్త్వం” ('దుఃఖించకూడని దాని గురించి దుఃఖిస్తున్నావు')",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "“Karmanye vādhikāras te” ('You have a right to perform your prescribed duty')",
+        "te": "“కర్మణ్యేవాధికారస్తే” ('కర్మలు చేయడం వరకే నీకు అధికారము ఉంది')",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verse 1.25 records Krishna's very first words in the Bhagavad Gita: \"pārtha paśyaitān samavetān kurūn iti\" (\"O Partha, look at these Kurus assembled together\"). — Bhagavad Gita (1.25)",
+      "te": "భగవద్గీత సమగ్ర గ్రంథంలో శ్రీకృష్ణ పరమాత్మ పలికిన ప్రథమ వాక్యం 1.25 శ్లోకంలో ఉంది: \"పార్థ పశ్యైతాన్ సమవేతాన్ కురూన్ ఇతి\" (ఓ పార్థా! ఇక్కడకు వచ్చిన ఈ కురువంశీయులను ఒకసారి పరికించి చూడుము). — భగవద్గీత (1.25)"
+    }
+  },
+  {
+    "id": "bg-1-25-q4",
+    "verse": { "c": 1, "s": 25 },
+    "concept": ["Name Analysis - Pārtha"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why does Lord Krishna address Arjuna as 'Pārtha' in verse 1.25, and what is its matronymic significance?",
+      "te": "1.25 శ్లోకంలో శ్రీకృష్ణుడు అర్జునుడిని 'పార్థా' అని ఎందుకు సంబోధించాడు? ఈ పేరు వెనుక ఉన్న తల్లి తరపు బంధుత్వ ప్రాముఖ్యత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Pārtha = Son of Pṛthā (Kunti). Krishna calls him Pārtha to remind Arjuna of his mother Kunti, who is also Krishna's paternal aunt (bua), evoking familial warmth.",
+        "te": "పార్థ = పృథ (కుంతీదేవి) యొక్క కుమారుడు. కుంతీదేవి శ్రీకృష్ణునికి మేనత్త కావడం వల్ల, ఈ సంబోధన వారి మధ్య ఉన్న ఆత్మీయమైన బంధుత్వాన్ని సూచిస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Pārtha = Ruler of the earth (Prithvi).",
+        "te": "పార్థ = భూమండలానికి సార్వభౌముడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Pārtha = One who travels across distant foreign kingdoms.",
+        "te": "పార్థ = దూర ప్రాంత రాజ్యాలకు ప్రయాణించేవాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Pārtha = One who was raised by King Parikshit.",
+        "te": "పార్థ = పరీక్షిత మహారాజు పెంపకంలో పెరిగినవాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Pārtha' is a matronymic derived from 'Pṛthā' (Kunti's birth name). Kunti was the sister of Krishna's father Vasudeva. Addressing Arjuna as 'Pārtha' highlights the sweet, intimate kinship shared between the Lord and His cousin-devotee. — Bhagavad Gita (1.25)",
+      "te": "'పృథ' (కుంతీదేవి అసలు పేరు) కుమారుడైనందున అర్జునుడు 'పార్థుడు' అయ్యాడు. కుంతీదేవి కృష్ణుని తండ్రియైన వసుదేవుని సోదరి. 'పార్థా' అనే సంబోధన వారిలోని గాఢమైన ఆత్మీయతను, బావమరుదుల సంబంధాన్ని తెలియజేస్తుంది. — భగవద్గీత (1.25)"
+    }
+  },
+  {
+    "id": "bg-1-25-q5",
+    "verse": { "c": 1, "s": 25 },
+    "concept": ["Sanskrit Vocabulary - Kings & Assembly"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What do the Sanskrit words 'mahīkṣitām' and 'samavetān' mean in verse 1.25?",
+      "te": "1.25 శ్లోకంలోని 'మహీక్షితామ్' మరియు 'సమవేతాన్' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Mahīkṣitām = Of the rulers/kings of the earth; Samavetān = Assembled / gathered together.",
+        "te": "మహీక్షితామ్ = సమస్త భూమిని పాలించే రాజుల యొక్క; సమవేతాన్ = ఒక్కటై సమకూడిన / నిలబడిన.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mahīkṣitām = Of the great sages; Samavetān = Scattered in fear.",
+        "te": "మహీక్షితామ్ = గొప్ప రుషుల యొక్క; సమవేతాన్ = భయంతో చెల్లాచెదురైన.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Mahīkṣitām = Of the foot soldiers; Samavetān = Sounding weapons.",
+        "te": "మహీక్షితామ్ = కాల్బల సైనికుల యొక్క; సమవేతాన్ = ఆయుధాలు మోగిస్తున్న.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Mahīkṣitām = Of the chariot drivers; Samavetān = Surrendering.",
+        "te": "మహీక్షితామ్ = రథసారథుల యొక్క; సమవేతాన్ = లొంగిపోతున్న.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Mahī' (earth) + 'kṣit' (ruler/possessor) = 'Mahīkṣit' (king). In Genitive plural, 'mahīkṣitām' means 'of all the kings of the earth'. 'Samavetān' means 'assembled together' (accusative plural modifying Kurūn). — Bhagavad Gita (1.25)",
+      "te": "'మహీ' (భూమి) + 'క్షిత' (రక్షించేవాడు/ఏలేవాడు) = మహీక్షితామ్ (భూపాలుర యొక్క). 'సమవేతాన్' అనగా ఒకచోట సమకూడినవారు అని అర్థం. — భగవద్గీత (1.25)"
+    }
+  },
+  {
+    "id": "bg-1-25-q6",
+    "verse": { "c": 1, "s": 25 },
+    "concept": ["Sanskrit Grammar - Sandhi Analysis"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "krishna / sanjaya",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi compound 'paśyaitān' in Lord Krishna's statement in verse 1.25:",
+      "te": "1.25 శ్లోకంలో శ్రీకృష్ణుని వాక్యంలోని 'పశ్యైతాన్' అనే పదాన్ని విడదీస్తే లభించే పదాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Paśya (Imperative 'behold / look!') + etān (these - accusative plural masculine demonstrative pronoun)",
+        "te": "పశ్య (చూడుము - లోట్ లకార ఏకవచనం) + ఏతాన్ (వీరిని - ద్వితీయా బహువచన రూపం)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Paśya + ete",
+        "te": "పశ్య + ఏతే",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Paśyati + etān",
+        "te": "పశ్యతి + ఏతాన్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Paśyasi + atra",
+        "te": "పశ్యసి + అత్ర",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Paśya' (imperative second-person singular of root 'dṛś' - look/behold!) + 'etān' (these people). By Vṛddhi Sandhi, 'a' + 'e' merges into 'ai', forming 'paśyaitān'. — Bhagavad Gita (1.25)",
+      "te": "'పశ్య' (చూడుము) + 'ఏతాన్' (వీరిని). వృద్ధి సంధి నియమం ప్రకారం 'అ' + 'ఏ' కలయికతో 'ఐ' ఏర్పడి 'పశ్యైతాన్' గా మారింది. — భగవద్గీత (1.25)"
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-37-q1",
+    "verse": { "c": 1, "s": 37 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.37?\n\n“tasmān nārhā vayaṃ hantuṃ dhārtarāṣṭrān svakāndhavān | svajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“తస్మాన్ నార్హా వయం హన్తుం ధార్తరాష్ట్రాన్ స్వబాంధవాన్ | స్వజనం హి కథం హత్వా సుఖినః స్యామ మాధవ”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — Therefore, it is not fitting for us to kill the sons of Dhritarashtra, our own relatives; for how can we be happy, O Madhava, after killing our own kinsmen?",
+        "te": "అర్జునుడు పలికెను — కాబట్టి, మన స్వంత బంధువులైన ఈ ధృతరాష్ట్రుని కుమారులను సంహరించడం మనకు ఎంతమాత్రం తగినది కాదు; ఓ మాధవా! మన స్వజనాన్ని (స్వంత వాళ్ళను) చంపిన తర్వాత మనం ఏ విధంగా సుఖంగా ఉండగలము?",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — Therefore, O Madhava, let us slay the sons of Dhritarashtra immediately so that we may restore order and happiness to our kingdom.",
+        "te": "అర్జునుడు పలికెను — కావున ఓ మాధవా! మన రాజ్యంలో శాంతిని, సంతోషాన్ని పునరుద్ధరించడానికి ఈ ధృతరాష్ట్రుని కుమారులను వెంటనే సంహరిద్దాము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — Therefore, O Madhava, drive my chariot between both armies so that I may address our relatives one last time.",
+        "te": "అర్జునుడు పలికెను — కావున ఓ మాధవా! మన బంధువులతో చివరిసారిగా మాట్లాడటానికి నా రథాన్ని రెండు సైన్యాల మధ్యలోకి నడుపు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — Therefore, if we retreat to the forest, the sons of Dhritarashtra will realize their mistake and seek peace.",
+        "te": "అర్జునుడు పలికెను — కావున మనం అడవులకు వెళ్ళిపోతే, ధృతరాష్ట్రుని కుమారులు తమ తప్పు తెలుసుకుని శాంతిని కోరుకుంటారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Tasmān nārhā vayaṃ hantuṃ dhārtarāṣṭrān sa-bāndhavān / sva-janaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava.\" Arjuna asserts that killing relatives is fundamentally improper ('na arhāḥ') and asks how true happiness can ever follow fratricide. — Bhagavad Gita (1.37)",
+      "te": "తన బంధువులైన ధార్తరాష్ట్రులను చంపడం తగిన పని కాదని ('నార్హాః'), స్వజనాన్ని సంహరించిన తర్వాత ఏ మానవుడూ సుఖంగా ఉండలేడని ('కథం సుఖినః స్యామ') అర్జునుడు కృష్ణుడిని నిలదీస్తున్నాడు. — భగవద్గీత (1.37)"
+    }
+  },
+  {
+    "id": "bg-1-37-q2",
+    "verse": { "c": 1, "s": 37 },
+    "concept": ["Name Analysis - Madhava"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Why does Arjuna specifically address Lord Krishna as 'Mādhava' in verse 1.37, and what is its profound spiritual meaning?",
+      "te": "1.37 శ్లోకంలో అర్జునుడు శ్రీకృష్ణుడిని 'మాధవా' అని ఎందుకు ప్రత్యేకంగా సంబోధించాడు? ఈ నామం యొక్క ఆధ్యాత్మిక ప్రాముఖ్యత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Mādhava = Lord/Consort of Lakshmi (Goddess of Fortune); Arjuna implies that Krishna, being the husband of the Goddess of Fortune, should know that true prosperity/happiness cannot come from killing relatives.",
+        "te": "మాధవ = లక్ష్మీదేవికి (అదృష్ట దేవతకు) భర్త/ప్రభువు; సంపదలన్నింటికీ అధిపతియైన కృష్ణుడికి, స్వజనాన్ని చంపడం ద్వారా నిజమైన ఐశ్వర్యమూ, ఆనందమూ లభించవనే సత్యం స్పష్టంగా తెలుసని అర్జునుని అభిప్రాయం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mādhava = One who belongs to the Madhu dynasty of warriors.",
+        "te": "మాధవ = మధు వంశానికి చెందిన క్షత్రియ యోధుడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Mādhava = One who drives a white chariot during war.",
+        "te": "మాధవ = యుద్ధంలో తెల్లని రథాన్ని నడిపేవాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Mādhava = The chief priest of the Yadu clan.",
+        "te": "మాధవ = యదు వంశానికి ప్రధాన పురోహితుడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Mā' (Goddess Lakshmi) + 'dhava' (husband / lord) = 'Mādhava' (Husband of Lakshmi). Arjuna addresses Him as Mādhava to emphasize: 'O Lord of Fortune, how can we obtain true fortune or happiness by destroying our own family?' — Bhagavad Gita (1.37)",
+      "te": "'మా' (లక్ష్మీదేవి) + 'ధవ' (భర్త) = మాధవుడు (లక్ష్మీపతి). సకల ఐశ్వర్యాలకూ మూలమైన శ్రీకృష్ణుడిని ఉద్దేశించి — 'ఓ మాధవా! స్వజనాన్ని నాశనం చేసి లక్ష్మీదేవి కటాక్షాన్ని లేదా నిజమైన సుఖాన్ని పొందడం సాధ్యమేనా?' అని అర్జునుడు అడుగుతున్నాడు. — భగవద్గీత (1.37)"
+    }
+  },
+  {
+    "id": "bg-1-37-q3",
+    "verse": { "c": 1, "s": 37 },
+    "concept": ["Ethical Argument - Fit vs Unfit Action"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which Sanskrit phrase in verse 1.37 expresses Arjuna's firm moral judgment that 'we are not justified / it is not fitting for us to kill'?",
+      "te": "1.37 శ్లోకంలో 'చంపడం మనకు తగిన పని కాదు / మనకు భావ్యం కాదు' అనే అర్జునుని ధర్మ నిశ్చయాన్ని తెలిపే సంస్కృత పదబంధం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Tasmān nārhā vayaṃ hantum",
+        "te": "తస్మాన్ నార్హా వయం హన్తుమ్",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dhārtarāṣṭrān svakāndhavān",
+        "te": "ధార్తరాష్ట్రాన్ స్వబాంధవాన్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Svajanaṃ hi kathaṃ hatvā",
+        "te": "స్వజనం హి కథం హత్వా",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sukhinaḥ syāma mādhava",
+        "te": "సుఖినః స్యామ మాధవ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Tasmāt' (therefore) + 'na' (not) + 'arhāḥ' (fitting / worthy / justified) + 'vayam' (we) + 'hantum' (to kill). Arjuna explicitly rules out the action as ethically improper for righteous Pandavas. — Bhagavad Gita (1.37)",
+      "te": "'తస్మాత్' (కాబట్టి) + 'న' (కాదు) + 'అర్హాః' (తగినది/భావ్యమైనది) + 'వయమ్' (మనం) + 'హన్తుమ్' (చంపడం). పాండవులైన మనకు స్వజనాన్ని చంపడం ఏ రకంగానూ భావ్యం కాదని అర్జునుడు నిష్కర్షగా చెబుతున్నాడు. — భగవద్గీత (1.37)"
+    }
+  },
+  {
+    "id": "bg-1-37-q4",
+    "verse": { "c": 1, "s": 37 },
+    "concept": ["Psychological Realization - Impossible Happiness"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What rhetorical question does Arjuna pose at the end of verse 1.37 regarding human happiness?",
+      "te": "1.37 శ్లోకం చివర మానవ సుఖం/సంతోషం గురించి అర్జునుడు ఏ ప్రశార్థక వాక్యాన్ని కృష్ణుని ముందుంచాడు?"
+    },
+    "choices": [
+      {
+        "en": "“Svajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava” ('Having killed our own kinsmen, how can we ever be happy, O Madhava?')",
+        "te": "“స్వజనం హి కథం హత్వా సుఖినః స్యామ మాధవ” ('మన స్వజనాన్ని చంపిన తర్వాత ఓ మాధవా, మనం ఏ విధంగా సుఖంగా ఉండగలము?')",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "“Kathaṃ bhīṣmam ahaṃ saṅkhye droṇaṃ ca madhusūdana” ('How can I attack Bhishma and Drona in battle?')",
+        "te": "“కథం భీష్మమహం సంఖ్యే ద్రోణం చ మధుసూదన” ('భీష్మ ద్రోణులపై బాణాలు ఎలా వేయగలను?')",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "“Kiṃ no rājyena govinda kiṃ bhogair jīvitena vā” ('What use is kingdom or life to us, O Govinda?')",
+        "te": "“కిం నో రాజ్యేన గోవింద కిం భోగైర్జీవితేన వా” ('మనకు రాజ్యంతోగానీ భోగాలతోగానీ ఏమి ప్రయోజనం?')",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "“Kā prītiḥ syāt janārdana” ('What pleasure can be ours, O Janardana?')",
+        "te": "“కా ప్రీతిః స్యాత్ జనార్దన” ('మనకు ఏ ప్రీతి కలుగుతుంది ఓ జనార్దనా?')",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna concludes that external outcomes like winning a kingdom cannot yield internal peace or happiness if purchased through the guilt of killing one's own family ('svajanaṃ hatvā'). — Bhagavad Gita (1.37)",
+      "te": "బాహ్యంగా విజయం లభించినా, రాజ్యం వచ్చినా... స్వజనాన్ని చంపి సాధించిన ఆ విజయం మనస్సుకు శాంతిని గానీ, సంతోషాన్ని గానీ ఇవ్వలేదని అర్జునుడు ప్రశ్నిస్తున్నాడు. — భగవద్గీత (1.37)"
+    }
+  },
+  {
+    "id": "bg-1-37-q5",
+    "verse": { "c": 1, "s": 37 },
+    "concept": ["Sanskrit Vocabulary - Relatives & Happiness"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit compounds 'sabāndhavān' and 'sukhinaḥ' mean in verse 1.37?",
+      "te": "1.37 శ్లోకంలోని 'సబాంధవాన్' (స్వబాంధవాన్) మరియు 'సుఖినః' అనే పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Sabāndhavān = Together with our relatives / kinsmen; Sukhinaḥ = Happy / joyful / possessors of happiness.",
+        "te": "సబాంధవాన్ = మన స్వంత బంధువులతో కూడినవారినై; సుఖినః = సుఖ సంతోషాలు కలవారము / ఆనందంగా ఉండే వారము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sabāndhavān = Protected by armors; Sukhinaḥ = Victorious kings.",
+        "te": "సబాంధవాన్ = కవచాలతో రక్షించబడినవారు; సుఖినః = విజయవంతమైన రాజులు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sabāndhavān = Hired mercenaries; Sukhinaḥ = Wise teachers.",
+        "te": "సబాంధవాన్ = జీతగాళ్ళైన సైనికులు; సుఖినః = జ్ఞానులైన గురువులు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sabāndhavān = Fallen warriors; Sukhinaḥ = Sinful men.",
+        "te": "సబాంధవాన్ = మరణించిన యోధులు; సుఖినః = పాపాత్ములైన మనుష్యులు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sa' (with/own) + 'bāndhava' (relatives) = 'sabāndhavān' (accusative plural modifying Dhārtarāṣṭrān). 'Sukhinaḥ' is nominative plural masculine of 'sukhin' (one who possesses happiness). — Bhagavad Gita (1.37)",
+      "te": "'స' (స్వంత/కూడిన) + 'బాంధవ' (బంధువులు) = సబాంధవాన్ (మన బంధువులైనవారిని). 'సుఖినః' అనగా సుఖము కలవారు/సంతోషంగా ఉండేవారు (ప్రథమా బహువచనం). — భగవద్గీత (1.37)"
+    }
+  },
+  {
+    "id": "bg-1-37-q6",
+    "verse": { "c": 1, "s": 37 },
+    "concept": ["Sanskrit Grammar - Potential Plural 'Syāma'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical form of 'syāma' in verse 1.37:",
+      "te": "1.37 శ్లోకంలోని 'స్యామ' అనే క్రియాపదం యొక్క వ్యాకరణ రూపం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "1st person plural Potential/Optative mood (Vidhi-liṅ) from root 'as' (to be), meaning 'we could / should be'.",
+        "te": "'అస్' (ఉండుట) అనే ధాతువు యొక్క విధి-లిఙ్ (సంభావనార్థక) ఉత్తమ పురుష బహువచన రూపం — 'మనం ఉండగలమా / కాగలమా'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person singular present tense verb.",
+        "te": "ప్రథమ పురుష ఏకవచన వర్తమానకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Imperative command meaning 'let us be'.",
+        "te": "ఆజ్ఞార్థకంలో 'మనం అవుదాము' అనే రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Past tense verb meaning 'we were'.",
+        "te": "భూతకాలంలో 'మనం ఉంటిమి' అనే రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Syāma' is Vidhi-liṅ (potential mood) 1st person plural of root 'as' (to be): syāt, syātām, syuḥ ... syām, syāva, syāma. Combined with 'katham' (how?) and 'sukhinaḥ' (happy), it forms: 'How could we ever be happy?'. — Bhagavad Gita (1.37)",
+      "te": "'స్యామ' అనేది 'అస్' (ఉండుట) ధాతువు యొక్క ఉత్తమ పురుష బహువచన విధి-లిఙ్ రూపం (స్యాత్, స్యాతామ్, స్యుః ... స్యామ్, స్యావ, స్యామ). 'కథం సుఖినః స్యామ' అనగా 'మనం ఏ విధంగా సుఖంగా ఉండగలము?' అని అర్థం. — భగవద్గీత (1.37)"
+    }
+  }
+]

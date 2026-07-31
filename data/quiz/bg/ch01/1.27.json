@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-27-q1",
+    "verse": { "c": 1, "s": 27 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.27?\n\n“śvaśurān suhṛdaścaiva senayorubhayorapi | tān samīkṣya sa kaunteyaḥ sarvān bandhūn avasthitān | kṛpayā parayāviṣṭo viṣīdannidamabravīt”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“శ్వశురాన్ సుహృదశ్చైవ సేనయోరుభయోరపి | తాన్ సమీక్ష్య స కౌన్తేయః సర్వాన్ బంధూన్ అవస్థితాన్ | కృపయా పరయావిష్టో విషీదన్నిదమబ్రవీత్”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — Seeing all those fathers-in-law, well-wishers, and kinsmen standing arrayed in both armies, Kaunteya (Arjuna), overcome with supreme compassion and deep sorrow, spoke thus.",
+        "te": "సంజయుడు పలికెను — ఆ ఇరు పక్షాల సైన్యాలలో నిలిచి ఉన్న మామగార్లను, హితైషులను మరియు సమస్త బంధువులను చూసి, కౌంతేయుడైన అర్జునుడు మిక్కిలి దయతో (కృపతో), దుఃఖిస్తూ ఈ విధంగా పలికెను.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — Seeing his friends and relatives, Arjuna felt great rage and vowed to destroy the entire Kaurava army immediately.",
+        "te": "సంజయుడు పలికెను — తన మిత్రులను, బంధువులను చూసి అర్జునుడు తీవ్ర క్రోధానికి గురై, కౌరవ సైన్యాన్ని తక్షణమే నాశనం చేస్తానని శపథం చేశాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — Having observed both armies, Lord Krishna advised Arjuna to take up his bow without hesitation.",
+        "te": "సంజయుడు పలికెను — ఇరు సైన్యాలను చూసిన తర్వాత, సంకోచం లేకుండా విల్లు పట్టమని శ్రీకృష్ణుడు అర్జునునికి సలహా ఇచ్చాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — Seeing Arjuna overcome with sorrow, Bhishma agreed to withdraw from the battlefield.",
+        "te": "సంజయుడు పలికెను — అర్జునుడు దుఃఖంలో మునిగిపోవడం చూసి, రణరంగం నుండి వైదొలగడానికి భీష్ముడు అంగీకరించాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Śvaśurān suhṛdaścaiva senayor ubhayor api / tān samīkṣya sa kaunteyaḥ sarvān bandhūn avasthitān / kṛpayā parayāviṣṭo viṣīdann idam abravīt.\" Upon beholding all his relations in both armies, Arjuna becomes completely overcome with grief and compassion, leading to his emotional breakdown. — Bhagavad Gita (1.27)",
+      "te": "ఇరు పక్షాల సైన్యాలలోని మామగార్లను, మిత్రులను, బంధువులను క్షుణ్ణంగా చూసిన అర్జునుడు అపారమైన జాలితో, దుఃఖంతో క్రుంగిపోయి కృష్ణునితో మాట్లాడటం ప్రారంభించాడని సంజయుడు చెబుతున్నాడు. — భగవద్గీత (1.27)"
+    }
+  },
+  {
+    "id": "bg-1-27-q2",
+    "verse": { "c": 1, "s": 27 },
+    "concept": ["Psychological State - Overcome with Compassion"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What is the meaning and significance of the phrase 'kṛpayā parayāviṣṭo' in verse 1.27?",
+      "te": "1.27 శ్లోకంలోని 'కృపయా పరయావిష్టో' అనే పదబంధం యొక్క అర్థం మరియు ప్రాముఖ్యత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Overcome / penetrated by supreme or overwhelming compassion/pity",
+        "te": "అపారమైన / అత్యంత తీవ్రమైన దయతో (జాలితో) పరిపూర్ణంగా ఆవహించబడినవాడు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Filled with intense anger and vengeance toward the enemy",
+        "te": "శత్రువులపై తీవ్రమైన క్రోధంతో, పగతో నిండిపోయినవాడు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Surrounded by heavenly rays of light",
+        "te": "దివ్యమైన వెలుగు కిరణాలతో ఆవరించబడినవాడు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Protected by magical armor crafted by sages",
+        "te": "రుషులు తయారుచేసిన మంత్ర రక్షణ కవచంతో ఉన్నవాడు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kṛpayā' (by compassion) + 'parayā' (supreme / intense) + 'āviṣṭaḥ' (overcome / possessed). Arjuna was not shrinking from fear of death, but rather was paralyzed by deep material attachment disguised as overwhelming pity for his kinsmen. — Bhagavad Gita (1.27)",
+      "te": "'కృపయా' (జాలితో/దయతో) + 'పరయా' (మిక్కిలి తీవ్రమైన) + 'ఆవిష్టః' (నిండిపోయిన/ఆవహించబడిన). తన బంధువులను చంపవలసి వస్తుందనే తీవ్రమైన మమకారంతో కూడిన జాలి అర్జునుడిని ఆవహించింది. — భగవద్గీత (1.27)"
+    }
+  },
+  {
+    "id": "bg-1-27-q3",
+    "verse": { "c": 1, "s": 27 },
+    "concept": ["Sanskrit Vocabulary - Additional Kinships"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which two additional categories of relationships are specifically mentioned in verse 1.27 ('śvaśurān' and 'suhṛdaḥ')?",
+      "te": "1.27 శ్లోకంలో ప్రత్యేకంగా పేర్కొనబడిన మరిరెండు రకాల బంధుత్వాలు ('శ్వశురాన్' మరియు 'సుహృదః') ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Śvaśurān = Fathers-in-law (like Drupada and Salya); Suhṛdaḥ = Well-wishers / sincere friends (like Kritavarma)",
+        "te": "శ్వశురాన్ = మామగార్లు (ద్రుపద, శల్యుల వంటివారు); సుహృదః = హితైషులు / మంచి మనస్సు గల మిత్రులు (కృతవర్మ వంటివారు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Śvaśurān = Grandsons; Suhṛdaḥ = Enemies",
+        "te": "శ్వశురాన్ = మనుమళ్ళు; సుహృదః = శత్రువులు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Śvaśurān = Brothers-in-law; Suhṛdaḥ = Charioteers",
+        "te": "శ్వశురాన్ = బావమరుదులు; సుహృదః = రథసారథులు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Śvaśurān = Kings; Suhṛdaḥ = Priests",
+        "te": "శ్వశురాన్ = రాజులు; సుహృదః = పురోహితులు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Śvaśurān' refers to fathers-in-law (such as King Drupada and King Virata), while 'suhṛdaḥ' refers to affectionate well-wishers and childhood friends scattered across both battle lines. — Bhagavad Gita (1.27)",
+      "te": "'శ్వశురాన్' అనగా మామగార్లు (ద్రుపదుడు, విరాటుడు వంటివారు); 'సుహృదః' అనగా మంచి హృదయంతో శ్రేయస్సును కోరే ఆప్తమిశ్రులు. ఇరుపక్షాలలో వీరు నిలిచి ఉన్నారు. — భగవద్గీత (1.27)"
+    }
+  },
+  {
+    "id": "bg-1-27-q4",
+    "verse": { "c": 1, "s": 27 },
+    "concept": ["Name Analysis - Kaunteya"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Why does Sanjaya specifically use the name 'Kaunteya' for Arjuna in verse 1.27?",
+      "te": "1.27 శ్లోకంలో సంజయుడు అర్జునుడిని 'కౌంతేయః' అని ఎందుకు ప్రత్యేకంగా సంబోధించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Kaunteya = Son of Kunti; it highlights his heritage from mother Kunti, emphasizing his soft-hearted, virtuous, and sensitive disposition.",
+        "te": "కౌంతేయ = కుంతీదేవి కుమారుడు; కుంతీదేవి వల్ల అతనికి అబ్బిన కోమలమైన, ధర్మబద్ధమైన మరియు దయాగుణంతో కూడిన స్వభావాన్ని ఇది సూచిస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kaunteya = Conqueror of the Kuru clan.",
+        "te": "కౌంతేయ = కురు వంశాన్ని జయించినవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kaunteya = One who wields a bow made of gold.",
+        "te": "కౌంతేయ = బంగారు విల్లును ధరించినవాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kaunteya = The eldest brother among all Pandavas.",
+        "te": "కౌంతేయ = పాండవులందరిలో జ్యేష్ఠుడైనవాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kaunteya' denotes Arjuna's lineage from Kunti (Pritha). Kunti was known for her righteous nature and deep capacity for affection. By calling Arjuna 'Kaunteya' at this emotional moment, Sanjaya points out that Arjuna inherited his mother's noble, tender-hearted nature. — Bhagavad Gita (1.27)",
+      "te": "'కౌంతేయ' అనగా కుంతీ పుత్రుడు. కుంతీదేవిలోని ధర్మనిష్ఠ, సానుభూతి, సద్గుణాలు అర్జునుడిలో ఉన్నాయి. ఈ తీవ్రమైన దుఃఖసమయంలో అర్జునుని దయాగుణాన్ని చాటడానికి సంజయుడు ఈ పదాన్ని వాడాడు. — భగవద్గీత (1.27)"
+    }
+  },
+  {
+    "id": "bg-1-27-q5",
+    "verse": { "c": 1, "s": 27 },
+    "concept": ["Sanskrit Vocabulary - Observation & Sorrow"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What do the Sanskrit participle words 'samīkṣya' and 'viṣīdan' mean in verse 1.27?",
+      "te": "1.27 శ్లోకంలో ఉన్న 'సమీక్ష్య' మరియు 'విషీదన్' అనే పదాల నిఘంటు అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Samīkṣya = Having observed/scrutinized closely; Viṣīdan = Desponding / grieving mournfully.",
+        "te": "సమీక్ష్య = క్షుణ్ణంగా చూసి/పరిశీలించి; విషీదన్ = మిక్కిలి దుఃఖిస్తూ/విలపిస్తూ.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Samīkṣya = Having attacked; Viṣīdan = Rejoicing loudly.",
+        "te": "సమీక్ష్య = దాడి చేసి; విషీదన్ = బిగ్గరగా సంతోషిస్తూ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Samīkṣya = Having blown conches; Viṣīdan = Running away.",
+        "te": "సమీక్ష్య = శంఖాలు పూరించి; విషీదన్ = పారిపోతూ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Samīkṣya = Having prayed; Viṣīdan = Sleeping deeply.",
+        "te": "సమీక్ష్య = ప్రార్థనలు చేసి; విషీదన్ = గాఢంగా నిద్రపోతూ.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Samīkṣya' is an absolutive form meaning 'having closely inspected'. 'Viṣīdan' is a present active participle of root 'sad' with prefix 'vi' (to sink down / despond / despair), meaning 'feeling despondent'. — Bhagavad Gita (1.27)",
+      "te": "'సమీక్ష్య' అనగా 'బాగా చూసి' అని అర్థం (క్త్వా ప్రత్యయం). 'విషీదన్' అనగా 'దుఃఖిస్తూ/కృంగిపోతూ' అని అర్థం (వర్తమానకాల విశేషణం). — భగవద్గీత (1.27)"
+    }
+  },
+  {
+    "id": "bg-1-27-q6",
+    "verse": { "c": 1, "s": 27 },
+    "concept": ["Structural Transition - Beginning of Arjuna's Speech"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What is the structural importance of verse 1.27 in Chapter 1 of the Bhagavad Gita?",
+      "te": "భగవద్గీత మొదటి అధ్యాయం నిర్మాణంలో 1.27 శ్లోకానికి ఉన్న ముఖ్యమైన ప్రాముఖ్యత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "It marks the exact transition where Sanjaya's narrative description gives way to Arjuna's passionate lamentation and argument against fighting (verses 1.28–1.46).",
+        "te": "ఇది సంజయుని వర్ణన పూర్తయి, అర్జునుడు తన తీవ్రమైన దుఃఖాన్ని, యుద్ధం చేయకపోవడానికి చెప్పే కారణాలను (1.28–1.46 శ్లోకాలలో) ప్రారంభించే కీలకమైన మలుపు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It marks the conclusion of Chapter 1 of the Gita.",
+        "te": "ఇది గీత మొదటి అధ్యాయపు ముగింపును సూచిస్తుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It marks the exact moment Lord Krishna begins his philosophical sermon on the Immortality of the Soul.",
+        "te": "ఆత్మ అమరత్వం గురించి శ్రీకృష్ణుడు తన వేదాంత ఉపదేశాన్ని ప్రారంభించే ఘట్టం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It describes the official end of the Kurukshetra War.",
+        "te": "కురుక్షేత్ర యుద్ధం ముగిసిన విధానాన్ని ఇది వివరిస్తుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verse 1.27 acts as the bridge: 'viṣīdann idam abravīt' ('grieving, he spoke these words'). From verse 1.28 onward, Arjuna directly expresses his grief, moral doubts, and arguments against fighting until he collapses at the end of Chapter 1. — Bhagavad Gita (1.27)",
+      "te": "1.27 శ్లోకంలో 'విషీదన్ ఇదమ్ అబ్రవీత్' (దుఃఖిస్తూ ఈ మాటలు పలికెను) అని చెప్పడం ద్వారా, 1.28 నుండి అర్జునుడు తన శోకాన్ని, యుద్ధం వల్ల కలిగే దోషాలను శ్రీకృష్ణుని వద్ద నేరుగా వ్యక్తం చేయడం ప్రారంభమవుతుంది. — భగవద్గీత (1.27)"
+    }
+  }
+]

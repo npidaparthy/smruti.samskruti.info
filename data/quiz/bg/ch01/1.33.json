@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-33-q1",
+    "verse": { "c": 1, "s": 33 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.33?\n\n“ta ime'vasthitā yuddhe prāṇāṁstyaktvā dhanāni ca | ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“త ఇమేఽవస్థితా యుధ్ధే ప్రాణాంస్త్యక్త్వా ధనాని చ | ఆచార్యాః పితరః పుత్రాస్తథైవ చ పితామహాః”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — They for whose sake we desire kingdom and enjoyments are standing here in battle, having renounced their lives and wealth — teachers, fathers, sons, and grandfathers too.",
+        "te": "అర్జునుడు పలికెను — మనం ఎవరి కొరకైతే రాజ్యాన్ని, భోగాలను కోరుకుంటామో, ఆ ఆచార్యులు, తండ్రులు, పుత్రులు మరియు తాతలు తమ తమ ప్రాణాలను, సంపదలను వదులుకోవడానికి సిద్ధపడి ఇక్కడ యుద్ధంలో నిలిచి ఉన్నారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — Our teachers, fathers, sons, and grandfathers are urging us to fight bravely and claim our rightful inheritance.",
+        "te": "అర్జునుడు పలికెను — ధైర్యంతో పోరాడి మన హక్కుగా రావలసిన రాజ్యాన్ని కైవసం చేసుకోమని మన ఆచార్యులు, తండ్రులు, పుత్రులు, తాతలు మనలను ప్రోత్సహిస్తున్నారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — All these relatives have donated their wealth and lives to protect King Yudhishthira's throne.",
+        "te": "అర్జునుడు పలికెను — యుధిష్ఠిర మహారాజు సింహాసనాన్ని రక్షించడానికి ఈ బంధువులందరూ తమ ప్రాణాలను, సంపదలను ధారపోశారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — Seeing our elders ready to surrender, we should immediately stop the war and sign a peace treaty.",
+        "te": "అర్జునుడు పలికెను — మన పెద్దలు లొంగిపోవడానికి సిద్ధంగా ఉండటం చూసి, మనం వెంటనే యుద్ధాన్ని ఆపి శాంతి ఒప్పందం చేసుకోవాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Ta ime 'vasthitā yuddhe prāṇāṁs tyaktvā dhanāni ca / ācāryāḥ pitaraḥ putrās tathaiva ca pitāmahāḥ.\" Arjuna completes the thought started in 1.32 by specifically listing the respected elders and loved ones standing ready to risk their lives ('prāṇān') and wealth ('dhanāni'). — Bhagavad Gita (1.33)",
+      "te": "1.32 శ్లోకంలో ప్రారంభించిన వాదనను పూర్తి చేస్తూ, తమ ప్రాణాలను ('ప్రాణాన్'), సంపదలను ('ధనాని') సైతం త్యజించడానికి సిద్ధపడి రణరంగంలో నిలిచిన ఆచార్యులు, తండ్రులు, పుత్రులు, తాతల పేర్లను అర్జునుడు స్పష్టంగా వరుసగా పేర్కొంటున్నాడు. — భగవద్గీత (1.33)"
+    }
+  },
+  {
+    "id": "bg-1-33-q2",
+    "verse": { "c": 1, "s": 33 },
+    "concept": ["Kinship Classification - Four Generations"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which four specific relations/generational groups are listed in verse 1.33?",
+      "te": "1.33 శ్లోకంలో ప్రత్యేకంగా పేర్కొనబడిన నాలుగు రకాల బంధుత్వ/తరాల సమూహాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Ācāryāḥ (teachers), Pitaraḥ (fathers / father-figures), Putrāḥ (sons), Pitāmahāḥ (grandfathers)",
+        "te": "ఆచార్యాః (గురువులు), పితరః (తండ్రులు/పెద్దలు), పుత్రాః (కుమారులు), పితామహాః (తాతలు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mātulān (maternal uncles), Bhrātṝn (brothers), Pautrān (grandsons), Sakhīn (friends)",
+        "te": "మాతులాన్ (మేనమామలు), భ్రాతౄన్ (సోదరులు), పౌత్రాన్ (మనుమళ్ళు), సఖీన్ (మిత్రులు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Śvaśurān (fathers-in-law), Suhṛdaḥ (well-wishers), Nṛpatīn (kings), Śatravaḥ (enemies)",
+        "te": "శ్వశురాన్ (మామగార్లు), సుహృదః (హితైషులు), నృపతీన్ (రాజులు), శత్రవః (శత్రువులు)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Bhrātaraḥ (cousins), Śvaśurāḥ (in-laws), Dāsāḥ (servants), Mantriṇaḥ (ministers)",
+        "te": "భ్రాతరః (దాయాదులు), శ్వశురాః (సంబంధీకులు), దాసాః (సేవకులు), మంత్రిణః (మంత్రులు)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verse 1.33 enumerates four prominent groups: Ācāryāḥ (gurus like Drona/Kripa), Pitaraḥ (father figures like Kuntibhoja), Putrāḥ (sons like Abhimanyu/Lakshmana), and Pitāmahāḥ (grandfathers like Bhishma). — Bhagavad Gita (1.33)",
+      "te": "1.33 శ్లోకంలో నాలుగు ప్రధాన బంధువర్గాలు చెప్పబడ్డాయి: ఆచార్యాః (ద్రోణ, కృపుల వంటి గురువులు), పితరః (తండ్రి సమానులైన పెద్దలు), పుత్రాః (అభిమన్యుడు మొదలైన కుమారులు), పితామహాః (భీష్ముని వంటి తాతలు). — భగవద్గీత (1.33)"
+    }
+  },
+  {
+    "id": "bg-1-33-q3",
+    "verse": { "c": 1, "s": 33 },
+    "concept": ["Sanskrit Vocabulary - Sacrifice of Life & Wealth"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit expression 'prāṇāṁs tyaktvā dhanāni ca' literally mean in verse 1.33?",
+      "te": "1.33 శ్లోకంలోని 'ప్రాణాంస్త్యక్త్వా ధనాని చ' అనే పదబంధానికి శాబ్దిక అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Having renounced / put at risk their lives and wealth as well",
+        "te": "తమ ప్రాణాలను మరియు సంపదలను సైతం త్యజించి / పణంగా పెట్టి",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Having hoarded their wealth to buy eternal life",
+        "te": "శాశ్వత జీవితాన్ని కొనడానికి సంపదనంతటినీ కూడబెట్టి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Having lost their wealth in a gambling match",
+        "te": "జూదంలో తమ సంపదనంతటినీ పోగొట్టుకుని",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Having distributed wealth to the poor before dying",
+        "te": "మరణించేముందు తమ సంపదను పేదలకు దానం చేసి",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Prāṇān' (vital breaths / lives) + 'tyaktvā' (having given up / risk-taking gerund) + 'dhanāni' (wealth/properties) + 'ca' (and). It highlights that these relatives are ready to forfeit everything of material value. — Bhagavad Gita (1.33)",
+      "te": "'ప్రాణాన్' (ప్రాణములను) + 'త్యక్త్వా' (విడిచిపెట్టి/పణంగా పెట్టి) + 'ధనాని' (సంపదలను) + 'చ' (మరియు). యుద్ధరంగానికి వచ్చిన వీరంతా తమ జీవితాలను, సంపదలను పణంగా పెట్టడానికి తెగించారని ఇది చూపుతుంది. — భగవద్గీత (1.33)"
+    }
+  },
+  {
+    "id": "bg-1-33-q4",
+    "verse": { "c": 1, "s": 33 },
+    "concept": ["Sanskrit Vocabulary - Arrayed for Battle"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which Sanskrit phrase in verse 1.33 describes these relatives as 'standing arrayed here in battle'?",
+      "te": "1.33 శ్లోకంలో ఆ బంధువులందరూ 'యుద్ధం చేయడానికి ఇక్కడ సిద్ధపడి నిలిచి ఉన్నారు' అనే భావాన్ని తెరిపే సంస్కృత పదబంధం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Ta ime 'vasthitā yuddhe",
+        "te": "త ఇమేఽవస్థితా యుధ్ధే",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Prāṇāṁs tyaktvā dhanāni",
+        "te": "ప్రాణాంస్త్యక్త్వా ధనాని",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Ācāryāḥ pitaraḥ putrāḥ",
+        "te": "ఆచార్యాః పితరః పుత్రాః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Tathaiva ca pitāmahāḥ",
+        "te": "తథైవ చ పితామహాః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Te' (they) + 'ime' (these people) + 'avasthitāḥ' (stationed / arrayed) + 'yuddhe' (in battle). It confirms that the threat is immediate and physically present right before Arjuna's eyes. — Bhagavad Gita (1.33)",
+      "te": "'తే' (వారు) + 'ఇమే' (ఈ మనుష్యులు) + 'అవస్థితాః' (నిలబడి ఉన్నారు) + 'యుద్ధే' (యుద్ధమునందు). కళ్ళెదుటే ఆ యోధులందరూ పోరాటానికి సిద్ధంగా ఉన్నారనే సత్యాన్ని ఇది తెలుపుతోంది. — భగవద్గీత (1.33)"
+    }
+  },
+  {
+    "id": "bg-1-33-q5",
+    "verse": { "c": 1, "s": 33 },
+    "concept": ["Sanskrit Grammar - Plural Nominative Forms"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What is the grammatical case, gender, and number of the list 'ācāryāḥ pitaraḥ putrāḥ pitāmahāḥ' in verse 1.33?",
+      "te": "1.33 శ్లోకంలోని 'ఆచార్యాః పితరః పుత్రాః పితామహాః' అనే పదాల వ్యాకరణ విభక్తి, లింగము మరియు వచనం ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Nominative Plural Masculine (Prathamā Vibhakti, Bahuvacana) acting as subjects of 'avasthitāḥ' (stationed)",
+        "te": "ప్రథమా విభక్తి బహువచన పుంలింగ రూపాలు — 'అవస్థితాః' (నిలిచి ఉన్నవారు) అనే క్రియకు కర్తపదాలుగా పనిచేస్తున్నాయి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Accusative Plural Masculine acting as direct objects",
+        "te": "ద్వితీయా విభక్తి బహువచన రూపాలు (కర్మపదాలు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Genitive Plural Masculine showing possession",
+        "te": "షష్ఠీ విభక్తి బహువచన రూపాలు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vocative Plural Masculine directly addressing Krishna",
+        "te": "సంబోధనా ప్రథమా విభక్తి బహువచన రూపాలు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "All four nouns are Nominative Plural Masculine forms: 'ācāryaḥ' -> 'ācāryāḥ', 'pitā' -> 'pitaraḥ', 'putraḥ' -> 'putrāḥ', 'pitāmahaḥ' -> 'pitāmahāḥ'. They form the subject clause explaining who 'te ime' (they here) are. — Bhagavad Gita (1.33)",
+      "te": "ఈ నాలుగు పదాలూ ప్రథమా విభక్తి బహువచనంలో ఉన్నాయి (పుంలింగము). 'తే ఇమే అవస్థితాః' (వారు ఇక్కడ నిలబడి ఉన్నారు) అనే వాక్యానికి ఇవి కర్తపదాలుగా నిలుస్తాయి. — భగవద్గీత (1.33)"
+    }
+  },
+  {
+    "id": "bg-1-33-q6",
+    "verse": { "c": 1, "s": 33 },
+    "concept": ["Sanskrit Sandhi - Visarga & Vowel Mergers"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'ta ime'vasthitā' in verse 1.33:",
+      "te": "1.33 శ్లోకంలోని 'త ఇమేఽవస్థితా' అనే పదాన్ని విడదీసి సంధి నియమాలను చెప్పండి:"
+    },
+    "choices": [
+      {
+        "en": "Te (Visarga drop before vowel) -> ta + ime + avasthitāḥ (Aprecurring Avagraha after e)",
+        "te": "తే (విసర్గ లోపించి 'త' గా మారినది) + ఇమే + అవస్థితాః (పూర్వరూప సంధి వలన 'ఇమే' తర్వాత 'అ' కారానికి అవగ్రహం ఽ వచ్చినది)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Tān + ime + vasthitāḥ",
+        "te": "తాన్ + ఇమే + వస్థితాః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Tayoḥ + ime + sthitāḥ",
+        "te": "తయోః + ఇమే + స్థితాః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Tatrā + ime + avasthitāḥ",
+        "te": "తత్రా + ఇమే + అవస్థితాః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Te' (they) + 'ime' (these) -> 'ta ime' (dropping of visarga/e-sound before vowel). Then 'ime' + 'avasthitāḥ' -> 'ime 'vasthitāḥ' where initial 'a' merges into 'e', represented by the Avagraha symbol ('ఽ'). — Bhagavad Gita (1.33)",
+      "te": "'తే' + 'ఇమే' -> 'త ఇమే' గా మారుతుంది. ఆపై 'ఇమే' + 'అవస్థితాః' లలో 'అ' కారం లోపించి పూర్వరూప సంధి ప్రకారం 'ఇమేఽవస్థితాః' గా మారుతుంది. — భగవద్గీత (1.33)"
+    }
+  }
+]

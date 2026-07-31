@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-15-q1",
+    "verse": { "c": 1, "s": 15 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.15?\n\n“pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ | pauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“పాంచజన్యం హృషీకేశో దేవదత్తం ధనంజయః | పౌండ్రం దధ్మౌ మహాశంఖం భీమకర్మా వృకోదరః”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — Hrishikesha (Krishna) blew His conch shell Panchajanya; Dhananjaya (Arjuna) blew Devadatta; and Bhima, the doer of terrifying deeds and having a wolfish appetite, blew his mighty conch Paundra.",
+        "te": "సంజయుడు పలికెను — హృషీకేశుడు (శ్రీకృష్ణుడు) 'పాంచజన్యం' అనే శంఖాన్ని, ధనంజయుడు (అర్జునుడు) 'దేవదత్తం' అనే శంఖాన్ని, భయంకరమైన కార్యాలు చేసే వృకోదరుడైన భీముడు 'పౌండ్రం' అనే మహా శంఖాన్ని పూరించారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — Krishna blew Devadatta, Arjuna blew Panchajanya, and Bhima blew Anantavijaya.",
+        "te": "సంజయుడు పలికెను — కృష్ణుడు దేవదత్తాన్ని, అర్జునుడు పాంచజన్యాన్ని, భీముడు అనంతవిజయాన్ని పూరించారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — The Pandava commanders blew these three conches to signal their infantry divisions to advance.",
+        "te": "సంజయుడు పలికెను — తమ కాల్బల దళాలను ముందుకు నడిపించడానికి పాండవ సేనాపతులు ఈ మూడు శంఖాలను పూరించారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — Hearing the roar of Paundra, the Kaurava elephants panicked and fled the frontlines.",
+        "te": "సంజయుడు పలికెను — పౌండ్ర శంఖ ధ్వనిని విని కౌరవ సైన్యంలోని ఏనుగులు భయంతో వెనక్కి పారిపోయాయి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ / pauṇḍraṃ dadhmau mahā-śaṅkhaṃ bhīma-karmā vṛkodaraḥ.\" Sanjaya explicitly names the three sacred conch shells blown by Krishna (Panchajanya), Arjuna (Devadatta), and Bhima (Paundra). — Bhagavad Gita (1.15)",
+      "te": "1.15 శ్లోకంలో శ్రీకృష్ణుడు (పాంచజన్యం), అర్జునుడు (దేవదత్తం), భీముడు (పౌండ్రం) పూరించిన మూడు విశిష్ట శంఖాల పేర్లను సంజయుడు ధృతరాష్ట్రునికి వివరిస్తున్నాడు. — భగవద్గీత (1.15)"
+    }
+  },
+  {
+    "id": "bg-1-15-q2",
+    "verse": { "c": 1, "s": 15 },
+    "concept": ["Sacred Conches - Origin & Names"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which sacred conch shell was blown by Lord Krishna (Hrishikesha) in verse 1.15, and what is its Puranic origin?",
+      "te": "1.15 శ్లోకంలో శ్రీకృష్ణుడు (హృషీకేశుడు) పూరించిన దివ్య శంఖం పేరు ఏమిటి? దాని పౌరాణిక నేపథ్యం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Pāñcajanya — Formed from the bone/shell of the demon Panchajana slain by Krishna under the ocean.",
+        "te": "పాంచజన్యం — సముద్ర గర్భంలో శ్రీకృష్ణునిచే వధించబడిన పాంచజనుడనే రాక్షసుని శరీరం/శంఖం నుండి లభించిన దివ్య శంఖం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Devadatta — Presented to Krishna by Lord Indra after defeating King Kamsa.",
+        "te": "దేవదత్తం — కంసవధ తర్వాత ఇంద్రుడు శ్రీకృష్ణునికి బహుకరించిన శంఖం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Pauṇḍra — Crafted by Vishwakarma from golden sea-crystals.",
+        "te": "పౌండ్రం — సముద్ర స్పటికాలతో విశ్వకర్మ స్వయంగా తయారుచేసిన శంఖం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Anantavijaya — Emerged during the churning of the milk ocean (Samudra Manthan).",
+        "te": "అనంతవిజయం — క్షీరసాగర మథనంలో ఉద్భవించిన పవిత్ర శంఖం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Krishna's conch shell is 'Pāñcajanya'. According to the Bhagavata and Vishnu Puranas, Krishna retrieved it from the ocean after slaying the sea-demon Panchajana while rescuing his Guru Sandipani's lost son. — Bhagavad Gita (1.15)",
+      "te": "శ్రీకృష్ణుని శంఖం పేరు 'పాంచజన్యం'. తన గురువైన సాందీపని మహర్షి పుత్రుడిని కాపాడే క్రమంలో శ్రీకృష్ణుడు సముద్రంలో పాంచజనుడనే రాక్షసుడిని వధించి ఈ దివ్య శంఖాన్ని పొందాడు. — భగవద్గీత (1.15)"
+    }
+  },
+  {
+    "id": "bg-1-15-q3",
+    "verse": { "c": 1, "s": 15 },
+    "concept": ["Sacred Conches - Devadatta & Arjuna"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which conch shell did Arjuna (Dhanañjaya) blow in verse 1.15, and how did he obtain it?",
+      "te": "1.15 శ్లోకంలో ధనంజయుడైన అర్జునుడు పూరించిన శంఖం ఏది? అతడికి అది ఎలా లభించింది?"
+    },
+    "choices": [
+      {
+        "en": "Devadatta — Gifted to Arjuna by Maya Danava (or Varuna) during the burning of Khandava forest.",
+        "te": "దేవదత్తం — ఖాండవ దహన సమయంలో మయదానవుడు (లేదా వరుణదేవుడు) అర్జునునికి ప్రసాదించిన దివ్య శంఖం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Pāñcajanya — Given by Lord Shiva along with the Pashupatastra.",
+        "te": "పాంచజన్యం — పాశుపతాస్త్రంతో పాటు పరమశివుడు ప్రసాదించినది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Pauṇḍra — Awarded by King Drupada during Draupadi's Swayamvara.",
+        "te": "పౌండ్రం — ద్రౌపదీ స్వయంవర సమయంలో ద్రుపద మహారాజు బహుకరించినది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sughoṣa — Inherited from King Pandu.",
+        "te": "సుఘోషం — పాండురాజు నుండి వారసత్వంగా లభించినది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna's conch is 'Devadatta' ('given by the gods'). It was presented to Arjuna by Maya Danava (with Varuna's blessings) when Arjuna assisted Agni in consuming the Khandava forest. — Bhagavad Gita (1.15)",
+      "te": "అర్జునుని శంఖం పేరు 'దేవదత్తం' (దేవతలచే ఇవ్వబడినది). ఖాండవ దహన ఘట్టంలో అర్జునుని పరాక్రమానికి మెచ్చి మయదానవుడు/వరుణుడు ఈ శంఖాన్ని అతడికి ఇచ్చాడు. — భగవద్గీత (1.15)"
+    }
+  },
+  {
+    "id": "bg-1-15-q4",
+    "verse": { "c": 1, "s": 15 },
+    "concept": ["Sacred Conches & Character Epithets - Bhima"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What is the name of Bhima's great conch ('mahāśaṅkham') in verse 1.15, and which two descriptive epithets are applied to Bhima in this verse?",
+      "te": "1.15 శ్లోకంలో భీముని 'మహా శంఖం' పేరు ఏమిటి? ఈ శ్లోకంలో భీమునికి వాడబడిన రెండు విశేషణ నామాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Conch: Pauṇḍra; Epithets: Bhīmakarmā (doer of Herculean/terrifying deeds) and Vṛkodara (wolf-bellied / voracious appetite)",
+        "te": "శంఖం పేరు: పౌండ్రం; విశేషణ నామాలు: భీమకర్మా (భయంకరమైన కార్యాలు చేయువాడు) మరియు వృకోదరః (వృకము లాంటి జఠరాగ్ని గలవాడు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Conch: Sughoṣa; Epithets: Mahābāhu and Samitinjaya",
+        "te": "శంఖం పేరు: సుఘోషం; విశేషణ నామాలు: మహాబాహు మరియు సమితింజయుడు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Conch: Anantavijaya; Epithets: Parameṣvāsa and Viryavan",
+        "te": "శంఖం పేరు: అనంతవిజయం; విశేషణ నామాలు: పరమేష్వాస మరియు వీర్యవాన్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Conch: Maṇipuṣpaka; Epithets: Dvijottama and Aparajita",
+        "te": "శంఖం పేరు: మణిపుష్పకం; విశేషణ నామాలు: ద్విజోత్తమ మరియు అపరాజితుడు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Bhima's massive conch is 'Pauṇḍra'. Bhima is described as 'Bhīmakarmā' (one who performs fearsome deeds like slaying Bakasura and Hidimba) and 'Vṛkodara' ('vṛka' = wolf + 'udara' = belly, denoting his legendary appetite and fire of digestion). — Bhagavad Gita (1.15)",
+      "te": "భీముని శంఖం పేరు 'పౌండ్రం'. ఇతడిని 'భీమకర్మా' (బకాసుర, హిడింబాసుర వధ వంటి భయంకర కార్యాలు చేసినవాడు) అని, 'వృకోదరః' (వృకము వంటి జఠరాగ్ని గలవాడు) అని వర్ణించారు. — భగవద్గీత (1.15)"
+    }
+  },
+  {
+    "id": "bg-1-15-q5",
+    "verse": { "c": 1, "s": 15 },
+    "concept": ["Epithet Analysis - Hrishikesha & Dhananjaya"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Match the philosophical and literal meanings of 'Hṛṣīkeśa' and 'Dhanañjaya' in verse 1.15:",
+      "te": "1.15 శ్లోకంలోని 'హృషీకేశః' మరియు 'ధనంజయః' అనే పదాల నిఘంటు/తత్త్వ అర్థాలను జతపరచండి:"
+    },
+    "choices": [
+      {
+        "en": "Hṛṣīkeśa = Master/Inner Controller of all senses (Hṛṣīka + Īśa); Dhanañjaya = Conqueror of wealth during the Rajasuya sacrifices (Dhana + Jaya).",
+        "te": "హృషీకేశః = సర్వేంద్రియాలకు ప్రభువు/నియంత్రకుడు (హృషీక + ఈశ); ధనంజయః = రాజసూయ యాగ సమయంలో సమస్త భూమండల సంపదను జయించి తెచ్చినవాడు (ధన + జయ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Hṛṣīkeśa = Slayer of Madhu; Dhanañjaya = Son of Kunti.",
+        "te": "హృషీకేశః = మధు రాక్షసుడిని వధించినవాడు; ధనంజయః = కుంతీదేవి పుత్రుడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Hṛṣīkeśa = Driver of four horses; Dhanañjaya = Wielder of Gandiva.",
+        "te": "హృషీకేశః = నాలుగు గుర్రాల సారథి; ధనంజయః = గాండీవ ధనుర్ధారి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Hṛṣīkeśa = Lord of Lakshmi; Dhanañjaya = Bull among men.",
+        "te": "హృషీకేశః = లక్ష్మీపతి; ధనంజయః = నరశ్రేష్ఠుడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Hṛṣīka' (senses) + 'Īśa' (lord) = Hṛṣīkeśa (Krishna, who controls the senses of all living beings). 'Dhana' (wealth) + 'Jaya' (victory) = Dhanañjaya (Arjuna, who conquered all kings and acquired boundless wealth for King Yudhishthira's Rajasuya sacrifice). — Bhagavad Gita (1.15)",
+      "te": "'హృషీక' (ఇంద్రియములు) + 'ఈశ' (ప్రభువు) = హృషీకేశుడు (కృష్ణుడు). 'ధన' (సంపద) + 'జయ' (జయించినవాడు) = ధనంజయుడు (రాజసూయ యాగానికి అపార సంపదను సమకూర్చిన అర్జునుడు). — భగవద్గీత (1.15)"
+    }
+  },
+  {
+    "id": "bg-1-15-q6",
+    "verse": { "c": 1, "s": 15 },
+    "concept": ["Sanskrit Vocabulary - Action Verb"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which Sanskrit verb in verse 1.15 describes Bhima blowing his great conch shell?",
+      "te": "1.15 శ్లోకంలో భీముడు తన మహా శంఖాన్ని ఊదే క్రియను ఏ సంస్కృత పదం తెలుపుతుంది?"
+    },
+    "choices": [
+      {
+        "en": "Dadhmau",
+        "te": "దధ్మౌ",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Pradadhmatuḥ",
+        "te": "ప్రదధ్మతుః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Abhyahanyanta",
+        "te": "అభ్యహన్యన్త",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vyadārayat",
+        "te": "వ్యదారయత్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Dadhmau' is the 3rd person singular past tense (Liṭ-lakāra) of the root 'dhmā' (to blow a wind instrument), meaning 'he blew'. — Bhagavad Gita (1.15)",
+      "te": "'దధ్మౌ' అనేది 'ధ్మా' (ఊదుట/పూరించుట) అనే ధాతువు యొక్క భూతకాల ఏకవచన రూపం. 'అతడు పూరించెను' అని దీనికి అర్థం. — భగవద్గీత (1.15)"
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-40-q1",
+    "verse": { "c": 1, "s": 40 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.40?\n\n“kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ | dharme naṣṭe kulaṃ kṛtsnamadharmo'bhibhavatyuta”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“కులక్షయే ప్రణశ్యంతి కులధర్మాః సనాతనాః | ధర్మే నష్టే కులం కృత్స్నమధర్మోఽభిభవత్యుత”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — With the destruction of the family, the eternal family traditions/dharmas perish; and when dharma is lost, irreligion/lawlessness overcomes the entire remaining family.",
+        "te": "అర్జునుడు పలికెను — వంశము (కులము) నశించడం వల్ల సనాతనమైన కులధర్మాలు నశిస్తాయి; ధర్మము నశించినప్పుడు మిగిలిన వంశమంతటినీ అధర్మము ఆవహిస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — By defeating our enemies in battle, we re-establish ancient family traditions and conquer all adharma.",
+        "te": "అర్జునుడు పలికెను — యుద్ధంలో శత్రువులను ఓడించడం ద్వారా మనం సనాతన కులధర్మాలను పునరుద్ధరించి, అధర్మాన్ని అంతం చేస్తాము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — Even if the family perishes, the supreme spiritual dharma remains unaffected in society.",
+        "te": "అర్జునుడు పలికెను — వంశము నశించినప్పటికీ, సమాజంలో ఉన్న అత్యున్నతమైన ఆధ్యాత్మిక ధర్మం దెబ్బతినకుండా స్థిరంగా ఉంటుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — Irreligion causes kings to fight, but winning the war purifies the family line of all defects.",
+        "te": "అర్జునుడు పలికెను — అధర్మము వల్లనే రాజులు పోరాడతారు, కానీ యుద్ధంలో గెలవడం వల్ల వంశంలోని దోషాలన్నీ పవిత్రమవుతాయి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Kula-kṣaye praṇaśyanti kula-dharmāḥ sanātanāḥ / dharme naṣṭe kulaṃ kṛtsnam adharmo 'bhibhavaty uta.\" Arjuna argues that destroying a family wipes out the elders who preserve ancient family traditions ('kula-dharmāḥ sanātanāḥ'), leading to widespread moral breakdown ('adharmaḥ'). — Bhagavad Gita (1.40)",
+      "te": "వంశం నాశనమైనప్పుడు ఆ వంశంలో తరతరాలుగా వస్తున్న సనాతన కులధర్మాలను కాపాడే పెద్దలు నశిస్తారు. తద్వారా ధర్మం నశించి, మిగిలిన కుటుంబం మొత్తాన్ని అధర్మం ఆక్రమిస్తుందని అర్జునుని విశ్లేషణ. — భగవద్గీత (1.40)"
+    }
+  },
+  {
+    "id": "bg-1-40-q2",
+    "verse": { "c": 1, "s": 40 },
+    "concept": ["Sociological Concept - Kuladharma & Sanātana"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit term 'kuladharmāḥ sanātanāḥ' mean in verse 1.40, and what role do elders play in preserving it?",
+      "te": "1.40 శ్లోకంలోని 'కులధర్మాః సనాతనాః' అనే పదబంధానికి అర్థం ఏమిటి? వాటిని కాపాడటంలో వంశ పెద్దల పాత్ర ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Eternal family rituals, virtues, and moral traditions passed down through generations; elders act as custodians and teachers of these traditions.",
+        "te": "తరతరాలుగా వంశంలో పారంపర్యంగా వచ్చే సనాతనమైన సదాచారాలు, నైతిక ధర్మాలు; వంశ పెద్దలు వీటిని తర్వాతి తరానికి బోధించే రక్షకులుగా ఉంటారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "State laws created by the ruling king during wartime.",
+        "te": "యుద్ధ సమయంలో పరిపాలించే రాజు తయారుచేసిన రాజ్య చట్టాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Rules governing trade and commercial taxation.",
+        "te": "వ్యాపార వాణిజ్యాలు మరియు పన్నులకు సంబంధించిన నియమాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Secret military strategies known only to commanders.",
+        "te": "కేవలం సేనాపతులకు మాత్రమే తెలిసే రహస్య యుద్ధ వ్యూహాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kula' (family/lineage) + 'dharmāḥ' (virtues/duties/rituals) + 'sanātanāḥ' (eternal/timeless). 'Kuladharma' encompasses moral values, ancestor worship, and spiritual disciplines handed down by family elders. Destroying the elders kills the living lineage of instruction. — Bhagavad Gita (1.40)",
+      "te": "'కుల' (వంశం) + 'ధర్మాః' (విధి/ఆచారం) + 'సనాతనాః' (శాశ్వతమైనవి). వంశంలో పెద్దల ద్వారా అందించబడే నైతిక విలువలు, సంస్కారాలు, పితృ తర్పణాది ధర్మాలను 'కులధర్మాలు' అంటారు. పెద్దలు మరణిస్తే ఈ ఆచారపరంపర ఆగిపోతుంది. — భగవద్గీత (1.40)"
+    }
+  },
+  {
+    "id": "bg-1-40-q3",
+    "verse": { "c": 1, "s": 30 },
+    "concept": ["Causal Chain of Breakdown"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What sequential sequence of social decline does Arjuna outline in verse 1.40?",
+      "te": "1.40 శ్లోకంలో అర్జునుడు సమాజం / వంశం పతనమయ్యే ఏ వరుస క్రమాన్ని వర్ణించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Family destruction (Kulakṣaye) -> Perishing of traditional virtue (Praṇaśyanti kuladharmāḥ) -> Loss of Dharma (Dharme naṣṭe) -> Overcoming by impiety/lawlessness (Adharmo 'bhibhavati).",
+        "te": "వంశ నాశనము (కులక్షయే) -> సనాతన ఆచారాలు నశించుట (ప్రణశ్యంతి కులధర్మాః) -> ధర్మము లోపించుట (ధర్మే నష్టే) -> అధర్మము మొత్తం వంశాన్ని ఆవహించుట (అధర్మోఽభిభవతి).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Adharma -> Loss of wealth -> War -> Victory.",
+        "te": "అధర్మము -> సంపద కోల్పోవుట -> యుద్ధము -> విజయము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Lack of weapons -> Defeat in war -> Loss of land -> Exile.",
+        "te": "ఆయుధాలు లేకపోవుట -> యుద్ధంలో ఓటమి -> భూమి కోల్పోవుట -> అరణ్యవాసము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dharma loss -> Royal taxes -> Family growth -> Spiritual peace.",
+        "te": "ధర్మము లోపించుట -> రాజ పన్నులు -> వంశ అభివృద్ధి -> ఆధ్యాత్మిక శాంతి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verse 1.40 presents a direct cause-and-effect chain: Kulakṣaya (destruction of male/elder lineage) causes loss of Kuladharma, which leads to Dharma-naṣṭa (eradicating righteous discipline), resulting in Adharma (lawlessness) overpowering the whole ('kṛtsnam') family. — Bhagavad Gita (1.40)",
+      "te": "1.40 శ్లోకంలో ఒక కార్యకారణ సంబంధం ఉంది: కులక్షయం (పెద్దల మరణం) వలన కులధర్మాలు నశిస్తాయి, దానివల్ల ధర్మలోపం జరిగి, చివరికి సమగ్ర వంశాన్ని అధర్మం ఆక్రమిస్తుంది. — భగవద్గీత (1.40)"
+    }
+  },
+  {
+    "id": "bg-1-40-q4",
+    "verse": { "c": 1, "s": 40 },
+    "concept": ["Sanskrit Vocabulary - Impiety & Dominance"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit words 'adharmaḥ' and 'abhibhavati' mean in verse 1.40?",
+      "te": "1.40 శ్లోకంలోని 'అధర్మః' మరియు 'అభిభవతి' అనే పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Adharmaḥ = Impiety / Lawlessness / Unrighteousness; Abhibhavati = Overpowers / vanquishes / dominates.",
+        "te": "అధర్మః = అధర్మము / దురాచారము / నైతిక పతనము; అభిభవతి = ఆవహించును / ఆక్రమించును / అణచివేయును.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Adharmaḥ = Royal wealth; Abhibhavati = Protects.",
+        "te": "అధర్మః = రాజ సంపద; అభిభవతి = రక్షించును.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Adharmaḥ = Celestial boons; Abhibhavati = Destroys enemies.",
+        "te": "అధర్మః = దివ్య వరాలు; అభిభవతి = శత్రువులను సంహరించును.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Adharmaḥ = Military power; Abhibhavati = Disappears.",
+        "te": "అధర్మః = సైనిక బలము; అభిభవతి = అదృశ్యమగును.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Adharma' is the opposite of Dharma (unrighteousness / moral chaos). 'Abhibhavati' comes from prefix 'abhi' + root 'bhū' (to overcome / predominate / engulf). In verse 1.40, it describes adharma swamping the family. — Bhagavad Gita (1.40)",
+      "te": "'అధర్మము' అనగా ధర్మానికి విరుద్ధమైన నైతిక లోపము. 'అభిభవతి' అనగా 'అభి' + 'భూ' (ఆక్రమించుట/మింగివేయుట). ధర్మం లేని చోట అధర్మం సంపూర్ణంగా రాజ్యమేలుతుందని అర్థం. — భగవద్గీత (1.40)"
+    }
+  },
+  {
+    "id": "bg-1-40-q5",
+    "verse": { "c": 1, "s": 40 },
+    "concept": ["Sanskrit Grammar - Locative Absolute Construction"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What grammatical construction is represented by 'kulakṣaye' and 'dharme naṣṭe' in verse 1.40?",
+      "te": "1.40 శ్లోకంలోని 'కులక్షయే' మరియు 'ధర్మే నష్టే' అనే పదబంధాలలో ఉన్న సంస్కృత వ్యాకరణ నిర్మాణం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Locative Absolute (Sati-saptamī) construction ('When the family is destroyed...' / 'When dharma is lost...')",
+        "te": "సతీ-సప్తమీ (Locative Absolute) నిర్మాణం — 'వంశం నాశనమైనప్పుడు...' / 'ధర్మం నశించిన సమయమునందు...'",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Genitive Tatpurusha compound indicating possession.",
+        "te": "షష్ఠీ తత్పురుష సమాసము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Instrumental case showing the means of action.",
+        "te": "తృతీయా విభక్తి రూపాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nominative plural noun clause.",
+        "te": "ప్రథమా విభక్తి బహువచన రూపాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kulakṣaye' (in/upon destruction of family - Locative singular) and 'dharme naṣṭe' (noun + past passive participle both in Locative singular) form classic Locative Absolute constructions in Sanskrit: 'upon X happening, Y occurs'. — Bhagavad Gita (1.40)",
+      "te": "'కులక్షయే' (వంశం నాశనమైనప్పుడు) మరియు 'ధర్మే నష్టే' (ధర్మం నశించినప్పుడు) అనేవి సంస్కృత వ్యాకరణంలో 'సతీ-సప్తమీ' ప్రయోగాలు. ఒక క్రియ జరిగినప్పుడు మరొక సంఘటన జరగడాన్ని ఇవి సూచిస్తాయి. — భగవద్గీత (1.40)"
+    }
+  },
+  {
+    "id": "bg-1-40-q6",
+    "verse": { "c": 1, "s": 40 },
+    "concept": ["Sanskrit Grammar - Verb Analysis 'Praṇaśyanti'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical form of 'praṇaśyanti' in verse 1.40:",
+      "te": "1.40 శ్లోకంలోని 'ప్రణశ్యంతి' అనే క్రియాపదం యొక్క వ్యాకరణ రూపం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person plural present tense Parasmaipada (Laṭ-lakāra) from root 'naś' (to perish) with prefix 'pra' (completely), meaning 'they completely perish'.",
+        "te": "'నశ్' (నశించుట) అనే ధాతువుకు 'ప్ర' (సంపూర్ణంగా) అనే ఉపసర్గ చేరడం వల్ల ఏర్పడిన ప్రథమ పురుష బహువచన వర్తమానకాల (లట్ లకార) రూపం — 'సంపూర్ణంగా నశించును'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Past tense verb meaning 'they perished in the past'.",
+        "te": "భూతకాలంలో 'వారు నశించిపోయారు' అనే రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Future tense verb meaning 'they will perish later'.",
+        "te": "భవిష్యత్కాలంలో 'వారు నశిస్తారు' అనే రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command meaning 'let them perish'.",
+        "te": "ఆజ్ఞార్థకంలో 'వారు నశించుగాక' అనే రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Pra' (intensifier prefix) + 'naśyanti' (3rd person plural of 4th class root 'naś'). Under Natva Sandhi, 'n' in 'naśyanti' changes to 'ṇ' after 'r' in 'pra' -> 'praṇaśyanti' ('they perish entirely'). Subject is 'kuladharmāḥ' (nominative plural). — Bhagavad Gita (1.40)",
+      "te": "'ప్ర' + 'నశ్యంతి' లలో 'ప్ర' లోని 'ర' కారం వల్ల నకారం ణకారంగా మారి 'ప్రణశ్యంతి' (ణత్వ విధాయిక సంధి) అయినది. 'కులధర్మాలు సంపూర్ణంగా నశిస్తాయి' అని దీని అర్థం. — భగవద్గీత (1.40)"
+    }
+  }
+]

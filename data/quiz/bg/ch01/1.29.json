@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-29-q1",
+    "verse": { "c": 1, "s": 29 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.29?\n\n“vepathuśca śarīre me romaharṣaśca jāyate | gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“వేపథుశ్చ శరీరే మే రోమహర్షశ్చ జాయతే | గాండీవం స్రంసతే హస్తాత్త్వక్చైవ పరిదహ్యతే”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — My body shivers/trembles, my hair stands on end, my bow Gandiva slips from my hand, and my skin burns all over.",
+        "te": "అర్జునుడు పలికెను — నా శరీరంలో వణుకు పుడుతున్నది, వెంట్రుకలు గగుర్పొడుస్తున్నాయి, నా చేతి నుండి గాండీవ ధనుస్సు జారిపోతున్నది మరియు నా చర్మమంతా మండిపోతున్నది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — I am stringing my bow Gandiva tightly and preparing to shoot arrows across the Kaurava ranks.",
+        "te": "అర్జునుడు పలికెను — నేను నా గాండీవాన్ని గట్టిగా ఎక్కుపెట్టి కౌరవ సైన్యంపైకి బాణాలు వేయడానికి సిద్ధమవుతున్నాను.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — My skin is glowing with divine radiance and my body feels invigorated for battle.",
+        "te": "అర్జునుడు పలికెను — నా చర్మం దివ్యమైన కాంతితో మెరిసిపోతున్నది మరియు నా శరీరం యుద్ధానికి ఉత్సాహంతో నిండి ఉంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — The bow Gandiva was presented to me by Agni, and it gives me unyielding courage.",
+        "te": "అర్జునుడు పలికెను — అగ్నిదేవుడు నాకు ప్రసాదించిన గాండీవం నాకు చెక్కుచెదరని ధైర్యాన్ని ఇస్తున్నది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Vepathuś ca śarīre me roma-harṣaś ca jāyate / gāṇḍīvaṃ sraṃsate hastāt tvak caiva paridahyate.\" Arjuna enumerates four distinct physical manifestations of his overwhelming grief and anxiety. — Bhagavad Gita (1.29)",
+      "te": "శోకంలో మునిగిపోయిన అర్జునుడు తన శరీరంలో కలుగుతున్న నాలుగు భౌతిక మార్పులను (వణుకు, గగుర్పాటు, గాండీవం జారిపోవడం, చర్మం మండడం) కృష్ణునికి వివరిస్తున్నాడు. — భగవద్గీత (1.29)"
+    }
+  },
+  {
+    "id": "bg-1-29-q2",
+    "verse": { "c": 1, "s": 29 },
+    "concept": ["Psychosomatic Symptoms - Four Manifestations"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What are the four physical symptoms of panic and sorrow stated by Arjuna in verse 1.29?",
+      "te": "1.29 శ్లోకంలో అర్జునుడు వెల్లడించిన తీవ్ర భయాందోళనల నాలుగు భౌతిక లక్షణాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "1. Body trembling (Vepathuḥ), 2. Horripilation/Goosebumps (Romaharṣaḥ), 3. Bow slipping from hand (Gāṇḍīvaṃ sraṃsate), 4. Burning skin (Tvak paridahyate)",
+        "te": "1. శరీరంలో వణుకు (వేపథుః), 2. రోమాంచం/గగుర్పాటు (రోమహర్షః), 3. చేతి నుండి విల్లు జారడం (గాండీవం స్రంసతే), 4. చర్మం మండిపోవడం (త్వక్ పరిదహ్యతే)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1. Fainting, 2. Blindness, 3. Loss of speech, 4. Deafness",
+        "te": "1. స్పృహ తప్పడం, 2. అంధత్వం, 3. మాట పడిపోవడం, 4. చెవుడు రావడం",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1. Limbs giving way, 2. Mouth drying, 3. Rapid heartbeat, 4. Hallucinations",
+        "te": "1. అంగాలు పడిపోవడం, 2. నోరు ఎండడం, 3. గుండె వేగంగా కొట్టుకోవడం, 4. భ్రమలు కలగడం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1. Bleeding eyes, 2. Broken bowstring, 3. Cold sweat, 4. Violent coughing",
+        "te": "1. కంటి నుండి రక్తం రావడం, 2. నారి తెగిపోవడం, 3. చల్లటి చెమటలు పట్టడం, 4. తీవ్రమైన దగ్గు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verse 1.29 explicitly lists: 'vepathuḥ śarīre' (body shivering), 'roma-harṣaḥ' (hair standing on end), 'gāṇḍīvaṃ sraṃsate hastāt' (Gandiva bow slipping from the hand), and 'tvak paridahyate' (skin burning intensely). — Bhagavad Gita (1.29)",
+      "te": "1.29 శ్లోకంలో అర్జునుడు నాలుగు స్పష్టమైన శారీరక లక్షణాలను చెప్పాడు: శరీర కంపనం (వేపథుః), రోమాంచం (రోమహర్షః), చేతి నుండి గాండీవం జారడం (గాండీవం స్రంసతే), చర్మం మండిపోవడం (త్వక్ పరిదహ్యతే). — భగవద్గీత (1.29)"
+    }
+  },
+  {
+    "id": "bg-1-29-q3",
+    "verse": { "c": 1, "s": 29 },
+    "concept": ["Symbolism - Slipping of Gandiva"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What is the symbolic and martial significance of the statement 'gāṇḍīvaṃ sraṃsate hastāt' in verse 1.29?",
+      "te": "1.29 శ్లోకంలోని 'గాండీవం స్రంసతే హస్తాత్' (చేతి నుండి గాండీవం జారిపోతున్నది) అనే వాక్యం యొక్క సంకేతాత్మక మరియు సైనిక ప్రాముఖ్యత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "It signifies the total collapse of Arjuna's Kshatriya warrior will and martial identity, as Gandiva was his invincible weapon.",
+        "te": "అపరాజితమైన గాండీవం జారిపోవడం అనేది అర్జునుని క్షాత్ర ధర్మానికి, సైనిక ఆత్మవిశ్వాసానికి కలిగిన సంపూర్ణ పతనాన్ని సూచిస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It means the bowstring snapped due to an unexpected physical defect.",
+        "te": "భౌతిక లోపం వల్ల బాణపు నారి తెగిపోయిందని దీని అర్థం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It shows that Arjuna is putting away his bow to eat food.",
+        "te": "అర్జునుడు భోజనం చేయడానికి తన విల్లును పక్కన పెడుతున్నాడని అర్థం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It means Lord Krishna asked Arjuna to hand over the bow.",
+        "te": "విల్లును తనకు ఇవ్వమని శ్రీకృష్ణుడు అర్జునుడిని అడిగాడని అర్థం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Gandiva was the celestial bow presented by Agni, symbolizing Arjuna's supreme martial power and heroic Kshatriya duty. The slipping of Gandiva ('sraṃsate hastāt') reveals that his emotional crisis was so severe that even his warrior grip failed him. — Bhagavad Gita (1.29)",
+      "te": "అగ్నిదేవుడిచ్చిన గాండీవ ధనుస్సు అర్జునుని గాంభీర్యానికి, వీరత్వానికి ప్రతీక. అది చేతి నుండి జారిపోతుందనడం అతడి మానసిక సంక్షోభం ఎంత తీవ్రంగా ఉందో పట్టిచూపుతుంది. — భగవద్గీత (1.29)"
+    }
+  },
+  {
+    "id": "bg-1-29-q4",
+    "verse": { "c": 1, "s": 29 },
+    "concept": ["Sanskrit Vocabulary - Trembling & Goosebumps"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit terms 'vepathuḥ' and 'romaharṣaḥ' mean in verse 1.29?",
+      "te": "1.29 శ్లోకంలోని 'వేపథుః' మరియు 'రోమహర్షః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Vepathuḥ = Trembling / Shivering; Romaharṣaḥ = Hair standing on end (horripilation / goosebumps).",
+        "te": "వేపథుః = వణుకు / కంపనం; రోమహర్షః = వెంట్రుకలు గగుర్ పొడవడం (రోమాంచం).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Vepathuḥ = Sweating; Romaharṣaḥ = Blinding headache.",
+        "te": "వేపథుః = చెమటలు పట్టడం; రోమహర్షః = తలనొప్పి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Vepathuḥ = Joyful laughter; Romaharṣaḥ = Dancing.",
+        "te": "వేపథుః = నవ్వులు రువ్వడం; రోమహర్షః = నాట్యం చేయడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vepathuḥ = Numbness; Romaharṣaḥ = Loss of hearing.",
+        "te": "వేపథుః = తిమ్మిరి ఎక్కడం; రోమహర్షః = వినికిడి లోపించడం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vepathuḥ' means shivering/trembling due to emotion or fear. 'Roma' (body hair) + 'harṣaḥ' (bristling / erection) = 'Romaharṣaḥ' (horripilation/goosebumps). — Bhagavad Gita (1.29)",
+      "te": "'వేపథుః' అనగా భయము లేదా దుఃఖము వలన కలిగే కంపనము. 'రోమ' (వెంట్రుకలు) + 'హర్షః' (నిక్కపొడుచుకోవడం) = 'రోమహర్షః' (గగుర్పాటు/రోమాంచం). — భగవద్గీత (1.29)"
+    }
+  },
+  {
+    "id": "bg-1-29-q5",
+    "verse": { "c": 1, "s": 29 },
+    "concept": ["Sanskrit Vocabulary - Sensation of Burning Skin"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which Sanskrit phrase in verse 1.29 describes the intense burning sensation felt on Arjuna's skin?",
+      "te": "1.29 శ్లోకంలో అర్జునుని చర్మం తీవ్రంగా మండిపోతున్నదనే భావాన్ని తెరిపే సంస్కృత పదబంధం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Tvakcaiva paridahyate",
+        "te": "త్వక్చైవ పరిదహ్యతే",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Vepathuśca śarīre",
+        "te": "వేపథుశ్చ శరీరే",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Romaharṣaśca jāyate",
+        "te": "రోమహర్షశ్చ జాయతే",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Gāṇḍīvaṃ sraṃsate hastāt",
+        "te": "గాండీవం స్రంసతే హస్తాత్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Tvak' (skin) + 'ca' (and) + 'eva' (indeed) + 'paridahyate' (burns intensely all over). The prefix 'pari' indicates a generalized, burning feverish sensation across his skin. — Bhagavad Gita (1.29)",
+      "te": "'త్వక్' (చర్మం) + 'పరిదహ్యతే' (అన్ని వైపులా మండిపోతున్నది). అంతర్గత ఆందోళన వల్ల శరీరం మంటలు పుడుతోందని ఇది వివరిస్తుంది. — భగవద్గీత (1.29)"
+    }
+  },
+  {
+    "id": "bg-1-29-q6",
+    "verse": { "c": 1, "s": 29 },
+    "concept": ["Sanskrit Grammar - Verb Forms"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the Sanskrit verbs 'sraṃsate' and 'paridahyate' in verse 1.29:",
+      "te": "1.29 శ్లోకంలోని 'స్రంసతే' మరియు 'పరిదహ్యతే' అనే క్రియాపదాల వ్యాకరణ రూపాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Both are 3rd person singular present tense Ātmanepada verbs ('sraṃs' = to slip/fall; 'dah' with 'pari' = to burn intensely)",
+        "te": "రెండూ ఆత్మనేపద వర్తమానకాల (లట్ లకార) ఏకవచన క్రియాపదాలు ('స్రంస్' = జారిపోవుట; 'దహ్' + 'పరి' = మండిపోవుట).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Both are past tense passive verbs.",
+        "te": "రెండూ భూతకాల కర్మణి క్రియలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Both are imperative commands given by Krishna.",
+        "te": "రెండూ శ్రీకృష్ణుడు ఇచ్చిన ఆజ్ఞార్థక క్రియలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Both are future tense active verbs.",
+        "te": "రెండూ భవిష్యత్కాల పరస్మైపద క్రియలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sraṃsate' comes from root 'sraṃs' (Ātmanepada, 3rd singular = slips/slides). 'Paridahyate' comes from root 'dah' with prefix 'pari' (passive/Ātmanepada, 3rd singular = is burned all over). Both vividly describe ongoing, involuntary physical distress. — Bhagavad Gita (1.29)",
+      "te": "'స్రంసతే' (జారిపోవుచున్నది), 'పరిదహ్యతే' (మండిపోవుచున్నది) అనేవి ఆత్మనేపద వర్తమానకాల రూపాలు. ఇవి అర్జునునికి అనుభవంలోకి వస్తున్న భౌతిక స్థితిని నిరంతరం జరిగే క్రియలుగా చూపుతాయి. — భగవద్గీత (1.29)"
+    }
+  }
+]

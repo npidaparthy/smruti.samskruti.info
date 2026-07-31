@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-1-26-q1",
+    "verse": { "c": 1, "s": 26 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 1.26?\n\n“tatrāpaśyat sthitān pārthaḥ pitṝnatha pitāmahān | ācāryān mātulān bhrātṝn putrān pautrān sakhīṃstathā”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“తత్రాపశ్యత్ స్థితాన్ పార్థః పితౄనథ పితామహాన్ | ఆచార్యాన్ మాతులాన్ భ్రాతౄన్ పుత్రాన్ పౌత్రాన్ సఖీంస్తథా”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — There Partha (Arjuna) saw standing in both armies fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, and companions as well.",
+        "te": "సంజయుడు పలికెను — ఆ ఇరు పక్షాల సైన్యాలలో పార్థుడు (అర్జునుడు) తన తండ్రులను, తాతలను, ఆచార్యులను, మేనమామలను, సోదరులను, కుమారులను, మనుమళ్ళను మరియు మిత్రులను చూశాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — Seeing the army arrayed, Arjuna raised his bow Gandiva and prepared to release his arrows.",
+        "te": "సంజయుడు పలికెను — మోహరించిన సైన్యాన్ని చూసి అర్జునుడు తన గాండీవాన్ని పైకెత్తి బాణ ప్రయోగానికి సిద్ధమయ్యాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — Arjuna requested Lord Krishna to drive the chariot directly toward Duryodhana's tent.",
+        "te": "సంజయుడు పలికెను — రథాన్ని నేరుగా దుర్యోధనుని గుడారం వైపు తీసుకువెళ్ళమని అర్జునుడు కృష్ణుడిని కోరాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — The Kaurava generals bowed in respect as Arjuna entered the middle of the field.",
+        "te": "సంజయుడు పలికెను — అర్జునుడు రణరంగం మధ్యలోకి రాగానే కౌరవ సేనాపతులు గౌరవంగా నమస్కరించారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Tatrāpaśyat sthitān pārthaḥ pitṝn atha pitāmahān / ācāryān mātulān bhrātṝn putrān pautrān sakhīn tathā.\" Standing between both armies, Arjuna realizes that the war is not against distant strangers, but against his own extended family and loved ones. — Bhagavad Gita (1.26)",
+      "te": "ఇరు సైన్యాల మధ్య నిలిచి చూసిన అర్జునునికి శత్రువులు ఎవరో పరాయి వారు కాదని, తమ స్వంత తండ్రులు, తాతలు, గురువులు, మేనమామలు, సోదరులు, పుత్రులు, మనుమళ్ళు, మిత్రులే అని స్పష్టమైంది. — భగవద్గీత (1.26)"
+    }
+  },
+  {
+    "id": "bg-1-26-q2",
+    "verse": { "c": 1, "s": 26 },
+    "concept": ["Kinship & Relationship Breakdown - Sanskrit Terms"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Match the Sanskrit family terms enumerated in verse 1.26 with their correct English meanings:",
+      "te": "1.26 శ్లోకంలో పేర్కొనబడిన సంస్కృత బంధుత్వ పదాలను వాటి సరైన అర్థాలతో జతపరచండి:"
+    },
+    "choices": [
+      {
+        "en": "Pitṝn (father-like figures / uncles), Pitāmahān (grandfathers), Ācāryān (teachers), Mātulān (maternal uncles), Bhrātṝn (brothers)",
+        "te": "పితౄన్ (తండ్రులు/తండ్రి వంటి పెద్దలు), పితామహాన్ (తాతలు), ఆచార్యాన్ (గురువులు), మాతులాన్ (మేనమామలు), భ్రాతౄన్ (సోదరులు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Pitṝn (sons), Pitāmahān (maternal uncles), Ācāryān (brothers), Mātulān (grandfathers), Bhrātṝn (teachers)",
+        "te": "పితౄన్ (కుమారులు), పితామహాన్ (మేనమామలు), ఆచార్యాన్ (సోదరులు), మాతులాన్ (తాతలు), భ్రాతౄన్ (గురువులు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Pitṝn (grandsons), Pitāmahān (fathers), Ācāryān (friends), Mātulān (teachers), Bhrātṝn (sons)",
+        "te": "పితౄన్ (మనుమళ్ళు), పితామహాన్ (తండ్రులు), ఆచార్యాన్ (మిత్రులు), మాతులాన్ (గురువులు), భ్రాతౄన్ (కుమారులు)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Pitṝn (teachers), Pitāmahān (sons), Ācāryān (grandfathers), Mātulān (brothers), Bhrātṝn (friends)",
+        "te": "పితౄన్ (గురువులు), పితామహాన్ (కుమారులు), ఆచార్యాన్ (తాతలు), మాతులాన్ (సోదరులు), భ్రాతౄన్ (మిత్రులు)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verse 1.26 presents a structured list of relatives: Pitṝn (paternal uncles/father figures like Kripa or Bhuri-shrava), Pitāmahān (grandfathers like Bhishma), Ācāryān (teachers like Drona and Kripa), Mātulān (maternal uncles like Shalya and Shakuni), and Bhrātṝn (cousins/brothers like Duryodhana). — Bhagavad Gita (1.26)",
+      "te": "1.26 శ్లోకం బంధుత్వాలను వరుసగా వర్ణిస్తుంది: పితౄన్ (తండ్రి లాంటి పినతండ్రులు/పెదతండ్రులు), పితామహాన్ (భీష్ముని వంటి తాతలు), ఆచార్యాన్ (ద్రోణ, కృపాచార్యుల వంటి గురువులు), మాతులాన్ (శల్య, శకుని వంటి మేనమామలు), భ్రాతౄన్ (దుర్యోధనాది సోదరులు). — భగవద్గీత (1.26)"
+    }
+  },
+  {
+    "id": "bg-1-26-q3",
+    "verse": { "c": 1, "s": 26 },
+    "concept": ["Younger Generations & Companions - Sanskrit Terms"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which set of relationships in verse 1.26 covers the younger generation and peers?",
+      "te": "1.26 శ్లోకంలో తర్వాతి తరానికి (చిన్నవారికి) మరియు సమాన వయస్కులకు చెందిన బంధువులను సూచించే పదాల సముదాయం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Putrān (sons), Pautrān (grandsons), and Sakhīn (companions / friends)",
+        "te": "పుత్రాన్ (కుమారులు/అభిమన్యుడు లక్ష్మణుడు మొదలైనవారు), పౌత్రాన్ (మనుమళ్ళు), మరియు సఖీన్ (మిత్రులు/స్నేహితులు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Pitṝn, Pitāmahān, and Ācāryān",
+        "te": "పితౄన్, పితామహాన్, మరియు ఆచార్యాన్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Mātulān, Bhrātṝn, and Śvaśurān",
+        "te": "మాతులాన్, భ్రాతౄన్, మరియు శ్వశురాన్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Suhṛdaḥ, Śvaśurān, and Nṛpatīn",
+        "te": "సుహృదః, శ్వశురాన్, మరియు నృపతీన్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna saw 'putrān' (sons such as Abhimanyu, Lakshmana, and the Upapandavas), 'pautrān' (grandsons), and 'sakhīn' (friends and close well-wishers). Seeing youth and future generations prepared for slaughter deeply moved him. — Bhagavad Gita (1.26)",
+      "te": "అర్జునుడు తన 'పుత్రాన్' (అభిమన్యుడు, లక్ష్మణుడు, ఉపపాండవుల వంటి పుత్రులు), 'పౌత్రాన్' (మనుమళ్ళు), మరియు 'సఖీన్' (ప్రాణస్నేహితులు) అందరినీ చూశాడు. మారణహోమానికి సిద్ధపడిన ఈ యువతరాన్ని చూసి అతడి హృదయం ద్రవించిపోయింది. — భగవద్గీత (1.26)"
+    }
+  },
+  {
+    "id": "bg-1-26-q4",
+    "verse": { "c": 1, "s": 26 },
+    "concept": ["Historical Real-world Identification of Characters"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Identify the historical Mahabharata figures corresponding to 'Pitāmahān', 'Ācāryān', and 'Mātulān' whom Arjuna saw standing in verse 1.26:",
+      "te": "1.26 శ్లోకంలో వర్ణించిన 'పితామహాన్', 'ఆచార్యాన్', మరియు 'మాతులాన్' అనే పదాలకు సరిపోయే నిజమైన మహాభారత పాత్రలను గుర్తించండి:"
+    },
+    "choices": [
+      {
+        "en": "Pitāmahān = Bhishma and Somadatta; Ācāryān = Drona and Kripa; Mātulān = Shalya and Shakuni",
+        "te": "పితామహాన్ = భీష్ముడు, సోమదత్తుడు; ఆచార్యాన్ = ద్రోణాచార్యుడు, కృపాచార్యుడు; మాతులాన్ = శల్యుడు, శకుని",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Pitāmahān = Dhritarashtra; Ācāryān = Karna; Mātulān = Dhrishtadyumna",
+        "te": "పితామహాన్ = ధృతరాష్ట్రుడు; ఆచార్యాన్ = కర్ణుడు; మాతులాన్ = ధృష్టద్యుమ్నుడు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Pitāmahān = Vyasa; Ācāryān = Ashwatthama; Mātulān = Virata",
+        "te": "పితామహాన్ = వ్యాసుడు; ఆచార్యాన్ = అశ్వత్థామ; మాతులాన్ = విరాటుడు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Pitāmahān = Shantanu; Ācāryān = Yuyutsu; Mātulān = Jayadratha",
+        "te": "పితామహాన్ = శంతనుడు; ఆచార్యాన్ = యుయుత్సుడు; మాతులాన్ = జయద్రథుడు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In verse 1.26, 'Pitāmahān' refers to Bhishma and Somadatta; 'Ācāryān' refers to Drona and Kripa; and 'Mātulān' refers to King Shalya (Madri's brother) and Shakuni (Gandhari's brother). — Bhagavad Gita (1.26)",
+      "te": "1.26 శ్లోకంలో 'పితామహాన్' అనగా భీష్మ సోమదత్తులు; 'ఆచార్యాన్' అనగా ద్రోణ కృపాచార్యులు; 'మాతులాన్' అనగా మాద్రీ సోదరుడైన శల్యుడు, గాంధారీ సోదరుడైన శకుని. — భగవద్గీత (1.26)"
+    }
+  },
+  {
+    "id": "bg-1-26-q5",
+    "verse": { "c": 1, "s": 26 },
+    "concept": ["Sanskrit Grammar - Plural Accusative Forms"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What is the grammatical case and number of all the noun objects listed in verse 1.26 ('pitṝn', 'pitāmahān', 'ācāryān', etc.)?",
+      "te": "1.26 శ్లోకంలోని నామవాచకాల ('పితౄన్', 'పితామహాన్', 'ఆచార్యాన్' మొదలైనవి) వ్యాకరణ విభక్తి మరియు వచనం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Accusative Plural (Dvitīyā Vibhakti, Bahuvacana) as direct objects of the verb 'apaśyat' (he saw)",
+        "te": "ద్వితీయా విభక్తి బహువచన రూపాలు — 'అపశ్యత్' (చూశాడు) అనే క్రియకు కర్మపదాలుగా పనిచేస్తున్నాయి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nominative Plural (Prathamā Vibhakti, Bahuvacana) as subject of the sentence",
+        "te": "ప్రథమా విభక్తి బహువచన రూపాలు (కర్త పదాలు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Genitive Plural (Ṣaṣṭhī Vibhakti, Bahuvacana) showing possession",
+        "te": "షష్ఠీ విభక్తి బహువచన రూపాలు (సంబంధం తెలిపేవి)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Locative Plural (Saptamī Vibhakti, Bahuvacana) denoting location",
+        "te": "సప్తమీ విభక్తి బహువచన రూపాలు (స్థానాన్ని తెలిపేవి)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "All these terms are in the Accusative Plural ending (e.g., 'pitṝn', 'ācāryān', 'putrān', 'sakhīn'), functioning as the direct objects of the verb 'apaśyat' ('Pārthaḥ apaśyat' = Partha saw [them]). — Bhagavad Gita (1.26)",
+      "te": "ఈ శ్లోకంలోని నామవాచకాలన్నీ ద్వితీయా విభక్తి బహువచనంలో ఉన్నాయి. 'పార్థః అపశ్యత్' (అర్జునుడు చూశాడు) అనే క్రియకు ఇవన్నీ కర్మపదాలు (ఎవరిని చూశాడో) గా నిలుస్తాయి. — భగవద్గీత (1.26)"
+    }
+  },
+  {
+    "id": "bg-1-26-q6",
+    "verse": { "c": 1, "s": 26 },
+    "concept": ["Psychological Shift - From Champion to Compassionate Relative"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "How does verse 1.26 mark the pivotal psychological transition in Arjuna's mindset?",
+      "te": "1.26 శ్లోకం అర్జునుని మానసిక స్థితిలో ఏ రకమైన కీలకమైన మలుపును సూచిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "His view shifts from abstract 'enemies / war combatants' to concrete 'loved family members and friends', causing his martial resolve to melt into grief and compassion.",
+        "te": "అప్పటివరకు కేవలం 'శత్రువులు/యోధులు' గా భావించినవారిని, ఇప్పుడు 'తమ స్వంత ప్రేమాస్పదులైన కుటుంబీకులుగా' చూడడం వల్ల అతడి యుద్ధ నిశ్చయం కరిగిపోయి దుఃఖం, కార్పణ్యదోషం ఆవహించాయి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "He realizes that the Kauravas are much stronger than he previously calculated.",
+        "te": "కౌరవులు తాను అనుకున్నదాని కంటే చాలా బలవంతులని అతడికి అర్థమైంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "He decides that he wants to become a king immediately without fighting.",
+        "te": "యుద్ధం చేయకుండానే తక్షణమే రాజు కావలెనని అతడు భావించాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "He is angered by seeing Shakuni and decides to target him first.",
+        "te": "శకునిని చూసి కోపంతో రగిలిపోయి, మొదట అతడిపైనే దాడి చేయాలని నిర్ణయించుకున్నాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Up to verse 1.25, Arjuna was an eager champion ready to inspect combatants. In verse 1.26, seeing his own flesh and blood ('pitṝn', 'bhrātṝn', 'putrān') forces a profound cognitive shift: abstract duty clashes with personal affection, laying the groundwork for his spiritual crisis. — Bhagavad Gita (1.26)",
+      "te": "1.25 వరకు అర్జునుడు యుద్ధానికి ఉత్సుకతతో ఉన్న వీరుడు. కానీ 1.26 లో తన రక్తసంబంధీకులను, ఆప్తులను చూడగానే 'శత్రుభావన' పోయి 'మమకారం' ముంచెత్తింది. ఇది అతడిని ధర్మసంకటంలోకి నెట్టివేసింది. — భగవద్గీత (1.26)"
+    }
+  }
+]
