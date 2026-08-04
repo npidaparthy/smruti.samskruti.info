@@ -83,9 +83,15 @@ const Reader = (() => {
   }
 
   async function loadVsnNames() {
+    // Deliberately NOT C.VSN_NAMES (content/vsn-names.json) — that file is a
+    // 978-name build-time intermediate (a donor of `sa` meanings feeding into
+    // vsn-1000-names.json). vsn-1000-names.json is the canonical 1010-name
+    // list and what the VSN Names tab (vsn.js) already uses; using a
+    // different, incomplete source here caused this panel to show fewer
+    // names than the Names tab, or none at all, for some verses.
     if (vsnNamesLoaded) return vsnNames;
     try {
-      const r = await fetch(C.VSN_NAMES);
+      const r = await fetch('/data/vsn/vsn-1000-names.json');
       const data = await r.json();
       vsnNames = data.names || [];
     } catch (e) {}
@@ -1171,8 +1177,11 @@ const Reader = (() => {
         const script = window._script || 'te';
         const frag = document.createDocumentFragment();
         verseNames.forEach(n => {
-          const nameText = n.name[script] || n.name.ro || '';
-          const m = n.meaning ? (n.meaning[lang] || n.meaning.en || '') : '';
+          // vsn-1000-names.json: flat name fields (name/name_te/name_ro), but
+          // nested meaning (meaning.en/te/sa) — see scripts/merge-vsn-names.py.
+          const nameText = script === 'sa' ? n.name : (script === 'ro' ? n.name_ro : n.name_te) || n.name || '';
+          const mean = n.meaning || {};
+          const m = (lang === 'te' ? mean.te : lang === 'sa' ? mean.sa : mean.en) || mean.en || '';
           const row = document.createElement('div');
           row.className = 'vsn-name-meaning-row';
           row.innerHTML = `<span class="vsn-nm-name">${nameText}</span><span class="vsn-nm-sep"> = </span><span class="vsn-nm-meaning">${m || '…'}</span>`;
