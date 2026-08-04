@@ -1,18 +1,38 @@
 #!/usr/bin/env python3
 """
-build-vsn.py — Parse data/vsn/source/ files and generate:
-  data/vsn-shlokas.json  — 108 shlokas with sa/te/ro for p1..p4
-  data/vsn-names.json    — 1008 names with sa/te/ro and dative form
+build-vsn.py — Parse data/vsn/source/ files (the raw VSN verse text) and
+extract shlokas + individual names from scratch, via sandhi-aware splitting.
 
-Source files (all in data/vsn/source/):
+Source files (all in data/vsn/source/verses/):
   vsn-4-padas.txt       — Devanagari  (2 half-verses per shloka)
   vsn-4-padas_iast.txt  — IAST
   vsn-4-padas_te.txt    — Telugu
 
-Usage: python3 scripts/build-vsn.py
+Since vsn-1000-names.json (data/vsn/vsn-1000-names.json) became the single
+canonical, hand-maintained names file (see scripts/merge-vsn-names.py), this
+script no longer regenerates it directly — that would clobber grammar
+(anta/linga), curated short meanings, and detailed meanings that don't come
+from the raw verse text at all. Regenerating content/vsn-names.json is
+parked too (see project notes).
+
+Default mode is now a DIFF CHECK: re-parse the source text from scratch,
+extract names the same way build-vsn.py always has, write that fresh
+output to data/vsn/vsn-1000-names_v1.json (a throwaway comparison
+artifact — not consumed by the app, not meant to be committed), then
+fuzzy-match each fresh name against vsn-1000-names.json by text and report
+any disagreement in the TEXT-DERIVED fields only (name / dative / chant —
+the only fields this script can independently re-derive; it has no way to
+regenerate grammar or meanings, so agreement there isn't checked).
+
+Usage:
+  python3 scripts/build-vsn.py                # diff mode (default, no writes to live data)
+  python3 scripts/build-vsn.py --write-legacy  # old behavior: overwrite
+                                                # content/vsn-shlokas.json and
+                                                # content/vsn-names.json (the
+                                                # 978-name intermediate file)
 """
 
-import re, json, pathlib, sys
+import re, json, pathlib, sys, argparse
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from transliterate import dev_to_te, dev_to_iast
 
@@ -23,6 +43,8 @@ SRC_RO  = SRC_DIR / 'vsn-4-padas_iast.txt'
 SRC_TE  = SRC_DIR / 'vsn-4-padas_te.txt'
 OUT_SHLOKAS = ROOT / 'data' / 'vsn' / 'content' / 'vsn-shlokas.json'
 OUT_NAMES   = ROOT / 'data' / 'vsn' / 'content' / 'vsn-names.json'
+CANONICAL   = ROOT / 'data' / 'vsn' / 'vsn-1000-names.json'
+DIFF_OUT    = ROOT / 'data' / 'vsn' / 'vsn-1000-names_v1.json'
 
 DN_DIGITS = str.maketrans('०१२३४५६७८९', '0123456789')
 
@@ -400,7 +422,7 @@ def make_chant(name_sa, num, shloka_num):
 
 # ── Main ─────────────────────────────────────────────────────────────────────
 
-def build_shlokas():
+def build_shlokas(write=True):
     all_scripts = parse_all_scripts()
     out = []
     for s in all_scripts:
@@ -416,19 +438,29 @@ def build_shlokas():
             'p4': {'sa': p4_dn, 'ro': p4_ro, 'te': p4_te},
         })
 
-    result = {'text': 'vsn', 'total': len(out), 'shlokas': out}
-    with open(OUT_SHLOKAS, 'w', encoding='utf-8') as f:
-        json.dump(result, f, ensure_ascii=False, separators=(',', ':'))
-    print(f'  wrote {OUT_SHLOKAS}  ({len(out)} shlokas)')
+    if write:
+        result = {'text': 'vsn', 'total': len(out), 'shlokas': out}
+        with open(OUT_SHLOKAS, 'w', encoding='utf-8') as f:
+            json.dump(result, f, ensure_ascii=False, separators=(',', ':'))
+        print(f'  wrote {OUT_SHLOKAS}  ({len(out)} shlokas)')
     # Return raw DN shlokas for name extraction
     return [{'n': s['n'], 'h1': s['h1_dn'], 'h2': s['h2_dn']} for s in all_scripts]
 
 
-def build_names(shlokas_raw):
+def extract_fresh_names(shlokas_raw):
+    """Re-derive names/dative/chant from source text only — no meanings, no
+    grammar (this script has no source for those). Returns the 978-style
+    entry list, freshly numbered 1..N."""
     name_tokens = extract_names_from_shlokas(shlokas_raw)
-    print(f'  extracted {len(name_tokens)} name tokens')
+    print(f'  extracted {len(name_tokens)} name tokens from source text')
+    return [make_chant(name_sa, i, shloka_num) for i, (name_sa, shloka_num) in enumerate(name_tokens, 1)]
 
-    # Preserve existing meanings so a rebuild never wipes manually added data
+
+def build_names_legacy(shlokas_raw):
+    """Old behavior: overwrite content/vsn-names.json, preserving `meaning`
+    across reruns by index. Only runs with --write-legacy."""
+    names_out = extract_fresh_names(shlokas_raw)
+
     existing_meanings = {}
     if OUT_NAMES.exists():
         try:
@@ -437,13 +469,9 @@ def build_names(shlokas_raw):
             print(f'  preserving meanings for {len(existing_meanings)} names')
         except Exception:
             pass
-
-    names_out = []
-    for i, (name_sa, shloka_num) in enumerate(name_tokens, 1):
-        entry = make_chant(name_sa, i, shloka_num)
-        if i in existing_meanings:
-            entry['meaning'] = existing_meanings[i]
-        names_out.append(entry)
+    for entry in names_out:
+        if entry['n'] in existing_meanings:
+            entry['meaning'] = existing_meanings[entry['n']]
 
     result = {'text': 'vsn', 'total': len(names_out), 'names': names_out}
     with open(OUT_NAMES, 'w', encoding='utf-8') as f:
@@ -451,6 +479,76 @@ def build_names(shlokas_raw):
     print(f'  wrote {OUT_NAMES}  ({len(names_out)} names)')
 
 
+# ── Diff against the canonical vsn-1000-names.json ────────────────────────────
+
+_SUFFIXES = ['म्', 'ः', 'त्', 'द्', 'ं', 'न्', 'क्', 'ण्', 'ष्', 'श्', 'ग्']
+
+def _norm(s):
+    s = s.strip()
+    for suf in _SUFFIXES:
+        if s.endswith(suf):
+            return s[:-len(suf)].lower()
+    return s.lower()
+
+
+def diff_against_canonical(fresh_names):
+    canonical = json.loads(CANONICAL.read_text(encoding='utf-8'))['names']
+    lookup = {}
+    for entry in canonical:
+        key = (entry.get('name') or '').strip()
+        if key:
+            lookup.setdefault(key, entry)
+            lookup.setdefault(_norm(key), entry)
+
+    matched = mismatched = unmatched = 0
+    mismatches = []
+    for fresh in fresh_names:
+        fresh_sa = fresh['name']['sa']
+        canon = lookup.get(fresh_sa) or lookup.get(_norm(fresh_sa))
+        if not canon:
+            unmatched += 1
+            continue
+        matched += 1
+        canon_dative = (canon.get('dative') or {}).get('sa', '')
+        canon_chant  = (canon.get('chant') or {}).get('sa', '') or canon.get('mantra', '')
+        if canon_dative and canon_dative != fresh['dative']['sa']:
+            mismatched += 1
+            mismatches.append(('dative', fresh_sa, fresh['dative']['sa'], canon_dative))
+        elif canon_chant and canon_chant != fresh['chant']['sa']:
+            mismatched += 1
+            mismatches.append(('chant', fresh_sa, fresh['chant']['sa'], canon_chant))
+
+    print(f'\nDiff vs {CANONICAL.name}:')
+    print(f'  matched by name text: {matched}/{len(fresh_names)}')
+    print(f'  unmatched (fresh-only, likely compound-split difference): {unmatched}')
+    print(f'  matched but field mismatch: {mismatched}')
+    if mismatches:
+        print('  first 15 mismatches:')
+        for kind, name, fresh_val, canon_val in mismatches[:15]:
+            print(f'    [{kind}] {name}: fresh="{fresh_val}" canonical="{canon_val}"')
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--write-legacy', action='store_true',
+                     help='overwrite content/vsn-shlokas.json + content/vsn-names.json (old behavior)')
+    args = ap.parse_args()
+
+    if args.write_legacy:
+        shlokas_raw = build_shlokas(write=True)
+        build_names_legacy(shlokas_raw)
+        return
+
+    # Default: diff mode. Doesn't touch content/*.json or vsn-1000-names.json.
+    shlokas_raw = build_shlokas(write=False)
+    fresh_names = extract_fresh_names(shlokas_raw)
+
+    result = {'text': 'vsn', 'total': len(fresh_names), 'names': fresh_names}
+    DIFF_OUT.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding='utf-8')
+    print(f'  wrote {DIFF_OUT}  ({len(fresh_names)} names, freshly re-derived from source text)')
+
+    diff_against_canonical(fresh_names)
+
+
 if __name__ == '__main__':
-    shlokas_raw = build_shlokas()
-    build_names(shlokas_raw)
+    main()

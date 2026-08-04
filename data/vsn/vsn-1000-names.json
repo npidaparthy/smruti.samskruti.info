@@ -11,14 +11,14 @@
       "name_te": "విశ్వమ్",
       "name_ro": "viśvam",
       "dative": {
-        "sa": "विश्वाय",
-        "te": "విశ్వాయ",
-        "ro": "viśvāya"
+        "sa": "विश्वस्मै",
+        "te": "విశ్వస్మై",
+        "ro": "viśvasmai"
       },
       "chant": {
-        "sa": "ॐ विश्वाय नमः ।",
-        "te": "ఓం విశ్వాయ నమః ।",
-        "ro": "oṃ viśvāya namaḥ ."
+        "sa": "ॐ विश्वस्मै नमः ।",
+        "te": "ఓం విశ్వస్మై నమః ।",
+        "ro": "oṃ viśvasmai namaḥ ."
       },
       "meaning": {
         "en": "The Universe, the All",
@@ -133,6 +133,16 @@
         "te_d": "",
         "sa": "भूतस्रष्टा पालकः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "भूतकृते",
+        "te": "భూతకృతే",
+        "ro": "bhūtakṛte"
+      },
+      "chant": {
+        "sa": "ॐ भूतकृते नमः ।",
+        "te": "ఓం భూతకృతే నమః ।",
+        "ro": "oṃ bhūtakṛte namaḥ ."
       }
     },
     {
@@ -152,6 +162,16 @@
         "te_d": "",
         "sa": "भूतभर्ता",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "भूतभृते",
+        "te": "భూతభృతే",
+        "ro": "bhūtabhṛte"
+      },
+      "chant": {
+        "sa": "ॐ भूतभृते नमः ।",
+        "te": "ఓం భూతభృతే నమః ।",
+        "ro": "oṃ bhūtabhṛte namaḥ ."
       }
     },
     {
@@ -310,14 +330,14 @@
       "name_te": "ముక్తానాం పరమా గతిః",
       "name_ro": "muktānāṃ paramā gatiḥ",
       "dative": {
-        "sa": "मुक्तानाय",
-        "te": "ముక్తానాయ",
-        "ro": "muktānāya"
+        "sa": "मुक्तानाम् परमायै गतये",
+        "te": "ముక్తానామ్ పరమాయై గతయే",
+        "ro": "muktānām paramāyai gataye"
       },
       "chant": {
-        "sa": "ॐ मुक्तानाय नमः ।",
-        "te": "ఓం ముక్తానాయ నమః ।",
-        "ro": "oṃ muktānāya namaḥ ."
+        "sa": "ॐ मुक्तानाम् परमायै गतये नमः ।",
+        "te": "ఓం ముక్తానామ్ పరమాయై గతయే నమః ।",
+        "ro": "oṃ muktānām paramāyai gataye namaḥ ."
       },
       "meaning": {
         "en": "The Goal of the Liberated",
@@ -397,14 +417,14 @@
       "name_te": "సాక్షీ",
       "name_ro": "sākṣī",
       "dative": {
-        "sa": "साक्षिने",
-        "te": "సాక్షినే",
-        "ro": "sākṣine"
+        "sa": "साक्षिणे",
+        "te": "సాక్షిణే",
+        "ro": "sākṣiṇe"
       },
       "chant": {
-        "sa": "ॐ साक्षिने नमः ।",
-        "te": "ఓం సాక్షినే నమః ।",
-        "ro": "oṃ sākṣine namaḥ ."
+        "sa": "ॐ साक्षिणे नमः ।",
+        "te": "ఓం సాక్షిణే నమః ।",
+        "ro": "oṃ sākṣiṇe namaḥ ."
       },
       "meaning": {
         "en": "The Witness of Humility",
@@ -513,14 +533,14 @@
       "name_te": "యోగవిదాం నేతా",
       "name_ro": "yogavidāṃ netā",
       "dative": {
-        "sa": "योगविदाय",
-        "te": "యోగవిదాయ",
-        "ro": "yogavidāya"
+        "sa": "योगविदाम् नेत्रे",
+        "te": "యోగవిదామ్ నేత్రే",
+        "ro": "yogavidām netre"
       },
       "chant": {
-        "sa": "ॐ योगविदाय नमः ।",
-        "te": "ఓం యోగవిదాయ నమః ।",
-        "ro": "oṃ yogavidāya namaḥ ."
+        "sa": "ॐ योगविदाम् नेत्रे नमः ।",
+        "te": "ఓం యోగవిదామ్ నేత్రే నమః ।",
+        "ro": "oṃ yogavidām netre namaḥ ."
       },
       "meaning": {
         "en": "The Guide of Yogis",
@@ -571,14 +591,14 @@
       "name_te": "నారసింహవపుః",
       "name_ro": "nārasiṃhavapuḥ",
       "dative": {
-        "sa": "नारसिंहवपवे",
-        "te": "నారసింహవపవే",
-        "ro": "nārasiṃhavapave"
+        "sa": "नारसिम्हवपुषे",
+        "te": "నారసిమ్హవపుషే",
+        "ro": "nārasimhavapuṣe"
       },
       "chant": {
-        "sa": "ॐ नारसिंहवपवे नमः ।",
-        "te": "ఓం నారసింహవపవే నమః ।",
-        "ro": "oṃ nārasiṃhavapave namaḥ ."
+        "sa": "ॐ नारसिम्हवपुषे नमः ।",
+        "te": "ఓం నారసిమ్హవపుషే నమః ।",
+        "ro": "oṃ nārasimhavapuṣe namaḥ ."
       },
       "meaning": {
         "en": "The Man-Lion Incarnation",
@@ -600,14 +620,14 @@
       "name_te": "శ్రీమాన్",
       "name_ro": "śrīmān",
       "dative": {
-        "sa": "श्रीमाने",
-        "te": "శ్రీమానే",
-        "ro": "śrīmāne"
+        "sa": "श्रीमते",
+        "te": "శ్రీమతే",
+        "ro": "śrīmate"
       },
       "chant": {
-        "sa": "ॐ श्रीमाने नमः ।",
-        "te": "ఓం శ్రీమానే నమః ।",
-        "ro": "oṃ śrīmāne namaḥ ."
+        "sa": "ॐ श्रीमते नमः ।",
+        "te": "ఓం శ్రీమతే నమః ।",
+        "ro": "oṃ śrīmate namaḥ ."
       },
       "meaning": {
         "en": "The Resplendent Lord",
@@ -687,14 +707,14 @@
       "name_te": "సర్వః",
       "name_ro": "sarvaḥ",
       "dative": {
-        "sa": "सर्वाय",
-        "te": "సర్వాయ",
-        "ro": "sarvāya"
+        "sa": "सर्वस्मै",
+        "te": "సర్వస్మై",
+        "ro": "sarvasmai"
       },
       "chant": {
-        "sa": "ॐ सर्वाय नमः ।",
-        "te": "ఓం సర్వాయ నమః ।",
-        "ro": "oṃ sarvāya namaḥ ."
+        "sa": "ॐ सर्वस्मै नमः ।",
+        "te": "ఓం సర్వస్మై నమః ।",
+        "ro": "oṃ sarvasmai namaḥ ."
       },
       "meaning": {
         "en": "The All-Inclusive Source",
@@ -832,14 +852,14 @@
       "name_te": "నిధిరవ్యయః",
       "name_ro": "nidhiravyayaḥ",
       "dative": {
-        "sa": "निधिरव्ययाय",
-        "te": "నిధిరవ్యయాయ",
-        "ro": "nidhiravyayāya"
+        "sa": "निधये अव्ययाय",
+        "te": "నిధయే అవ్యయాయ",
+        "ro": "nidhaye avyayāya"
       },
       "chant": {
-        "sa": "ॐ निधिरव्ययाय नमः ।",
-        "te": "ఓం నిధిరవ్యయాయ నమః ।",
-        "ro": "oṃ nidhiravyayāya namaḥ ."
+        "sa": "ॐ निधये अव्ययाय नमः ।",
+        "te": "ఓం నిధయే అవ్యయాయ నమః ।",
+        "ro": "oṃ nidhaye avyayāya namaḥ ."
       },
       "meaning": {
         "en": "The Exhaustless Treasure",
@@ -919,14 +939,14 @@
       "name_te": "భర్తా",
       "name_ro": "bhartā",
       "dative": {
-        "sa": "भर्तने",
-        "te": "భర్తనే",
-        "ro": "bhartane"
+        "sa": "भर्त्रे",
+        "te": "భర్త్రే",
+        "ro": "bhartre"
       },
       "chant": {
-        "sa": "ॐ भर्तने नमः ।",
-        "te": "ఓం భర్తనే నమః ।",
-        "ro": "oṃ bhartane namaḥ ."
+        "sa": "ॐ भर्त्रे नमः ।",
+        "te": "ఓం భర్త్రే నమః ।",
+        "ro": "oṃ bhartre namaḥ ."
       },
       "meaning": {
         "en": "The Absolute Substratum",
@@ -1035,14 +1055,14 @@
       "name_te": "స్వయమ్భూః",
       "name_ro": "svayambhūḥ",
       "dative": {
-        "sa": "स्वयम्भवे",
-        "te": "స్వయమ్భవే",
-        "ro": "svayambhave"
+        "sa": "स्वयम्भुवे",
+        "te": "స్వయమ్భువే",
+        "ro": "svayambhuve"
       },
       "chant": {
-        "sa": "ॐ स्वयम्भवे नमः ।",
-        "te": "ఓం స్వయమ్భవే నమః ।",
-        "ro": "oṃ svayambhave namaḥ ."
+        "sa": "ॐ स्वयम्भुवे नमः ।",
+        "te": "ఓం స్వయమ్భువే నమః ।",
+        "ro": "oṃ svayambhuve namaḥ ."
       },
       "meaning": {
         "en": "The Self-Existent",
@@ -1070,6 +1090,16 @@
         "te_d": "",
         "sa": "शंभुरूपादित्यः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "शम्भवे",
+        "te": "శమ్భవే",
+        "ro": "śambhave"
+      },
+      "chant": {
+        "sa": "ॐ शम्भवे नमः ।",
+        "te": "ఓం శమ్భవే నమః ।",
+        "ro": "oṃ śambhave namaḥ ."
       }
     },
     {
@@ -1199,14 +1229,14 @@
       "name_te": "ధాతా",
       "name_ro": "dhātā",
       "dative": {
-        "sa": "धातने",
-        "te": "ధాతనే",
-        "ro": "dhātane"
+        "sa": "धात्रे",
+        "te": "ధాత్రే",
+        "ro": "dhātre"
       },
       "chant": {
-        "sa": "ॐ धातने नमः ।",
-        "te": "ఓం ధాతనే నమః ।",
-        "ro": "oṃ dhātane namaḥ ."
+        "sa": "ॐ धात्रे नमः ।",
+        "te": "ఓం ధాత్రే నమః ।",
+        "ro": "oṃ dhātre namaḥ ."
       },
       "meaning": {
         "en": "The Grand Supporter",
@@ -1228,14 +1258,14 @@
       "name_te": "విధాతా",
       "name_ro": "vidhātā",
       "dative": {
-        "sa": "विधातने",
-        "te": "విధాతనే",
-        "ro": "vidhātane"
+        "sa": "विधात्रे",
+        "te": "విధాత్రే",
+        "ro": "vidhātre"
       },
       "chant": {
-        "sa": "ॐ विधातने नमः ।",
-        "te": "ఓం విధాతనే నమః ।",
-        "ro": "oṃ vidhātane namaḥ ."
+        "sa": "ॐ विधात्रे नमः ।",
+        "te": "ఓం విధాత్రే నమః ।",
+        "ro": "oṃ vidhātre namaḥ ."
       },
       "meaning": {
         "en": "The Ultimate Base",
@@ -1402,14 +1432,14 @@
       "name_te": "విశ్వకర్మా",
       "name_ro": "viśvakarmā",
       "dative": {
-        "sa": "विश्वकर्मने",
-        "te": "విశ్వకర్మనే",
-        "ro": "viśvakarmane"
+        "sa": "विश्वकर्मणे",
+        "te": "విశ్వకర్మణే",
+        "ro": "viśvakarmaṇe"
       },
       "chant": {
-        "sa": "ॐ विश्वकर्मने नमः ।",
-        "te": "ఓం విశ్వకర్మనే నమః ।",
-        "ro": "oṃ viśvakarmane namaḥ ."
+        "sa": "ॐ विश्वकर्मणे नमः ।",
+        "te": "ఓం విశ్వకర్మణే నమః ।",
+        "ro": "oṃ viśvakarmaṇe namaḥ ."
       },
       "meaning": {
         "en": "The Cosmic Architect",
@@ -1437,6 +1467,16 @@
         "te_d": "",
         "sa": "मनुस्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "मनवे",
+        "te": "మనవే",
+        "ro": "manave"
+      },
+      "chant": {
+        "sa": "ॐ मनवे नमः ।",
+        "te": "ఓం మనవే నమః ।",
+        "ro": "oṃ manave namaḥ ."
       }
     },
     {
@@ -1456,6 +1496,16 @@
         "te_d": "",
         "sa": "त्वष्टृरूपः प्राचीनः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "त्वष्ट्रे",
+        "te": "త్వష్ట్రే",
+        "ro": "tvaṣṭre"
+      },
+      "chant": {
+        "sa": "ॐ त्वष्ट्रे नमः ।",
+        "te": "ఓం త్వష్ట్రే నమః ।",
+        "ro": "oṃ tvaṣṭre namaḥ ."
       }
     },
     {
@@ -1498,14 +1548,14 @@
       "name_te": "స్థవిరః ధ్రువః",
       "name_ro": "sthaviraḥ dhruvaḥ",
       "dative": {
-        "sa": "स्थविराय",
-        "te": "స్థవిరాయ",
-        "ro": "sthavirāya"
+        "sa": "स्थविराय ध्रुवाय",
+        "te": "స్థవిరాయ ధ్రువాయ",
+        "ro": "sthavirāya dhruvāya"
       },
       "chant": {
-        "sa": "ॐ स्थविराय नमः ।",
-        "te": "ఓం స్థవిరాయ నమః ।",
-        "ro": "oṃ sthavirāya namaḥ ."
+        "sa": "ॐ स्थविराय ध्रुवाय नमः ।",
+        "te": "ఓం స్థవిరాయ ధ్రువాయ నమః ।",
+        "ro": "oṃ sthavirāya dhruvāya namaḥ ."
       },
       "meaning": {
         "en": "The Ancient Constant",
@@ -1678,6 +1728,16 @@
         "te_d": "",
         "sa": "पावनस्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "प्रभूताय",
+        "te": "ప్రభూతాయ",
+        "ro": "prabhūtāya"
+      },
+      "chant": {
+        "sa": "ॐ प्रभूताय नमः ।",
+        "te": "ఓం ప్రభూతాయ నమః ।",
+        "ro": "oṃ prabhūtāya namaḥ ."
       }
     },
     {
@@ -1697,6 +1757,16 @@
         "te_d": "",
         "sa": "मङ्गलाधिष्ठानम्",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "त्रिककुब्धाम्ने",
+        "te": "త్రికకుబ్ధామ్నే",
+        "ro": "trikakubdhāmne"
+      },
+      "chant": {
+        "sa": "ॐ त्रिककुब्धाम्ने नमः ।",
+        "te": "ఓం త్రికకుబ్ధామ్నే నమః ।",
+        "ro": "oṃ trikakubdhāmne namaḥ ."
       }
     },
     {
@@ -1739,14 +1809,14 @@
       "name_te": "మఙ్గలం పరమ్",
       "name_ro": "maṅgalaṃ param",
       "dative": {
-        "sa": "मङ्गलाय",
-        "te": "మఙ్గలాయ",
-        "ro": "maṅgalāya"
+        "sa": "मङ्गलपराय",
+        "te": "మఙ్గలపరాయ",
+        "ro": "maṅgalaparāya"
       },
       "chant": {
-        "sa": "ॐ मङ्गलाय नमः ।",
-        "te": "ఓం మఙ్గలాయ నమః ।",
-        "ro": "oṃ maṅgalāya namaḥ ."
+        "sa": "ॐ मङ्गलपराय नमः ।",
+        "te": "ఓం మఙ్గలపరాయ నమః ।",
+        "ro": "oṃ maṅgalaparāya namaḥ ."
       },
       "meaning": {
         "en": "The Pinnacle of Auspiciousness",
@@ -2087,14 +2157,14 @@
       "name_te": "విక్రమీ",
       "name_ro": "vikramī",
       "dative": {
-        "sa": "विक्रमिने",
-        "te": "విక్రమినే",
-        "ro": "vikramine"
+        "sa": "विक्रमिणे",
+        "te": "విక్రమిణే",
+        "ro": "vikramiṇe"
       },
       "chant": {
-        "sa": "ॐ विक्रमिने नमः ।",
-        "te": "ఓం విక్రమినే నమః ।",
-        "ro": "oṃ vikramine namaḥ ."
+        "sa": "ॐ विक्रमिणे नमः ।",
+        "te": "ఓం విక్రమిణే నమః ।",
+        "ro": "oṃ vikramiṇe namaḥ ."
       },
       "meaning": {
         "en": "The Valorous Stricter",
@@ -2325,6 +2395,16 @@
         "te_d": "",
         "sa": "सुरेशः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "कृतये",
+        "te": "కృతయే",
+        "ro": "kṛtaye"
+      },
+      "chant": {
+        "sa": "ॐ कृतये नमः ।",
+        "te": "ఓం కృతయే నమః ।",
+        "ro": "oṃ kṛtaye namaḥ ."
       }
     },
     {
@@ -2344,6 +2424,16 @@
         "te_d": "",
         "sa": "शरणदाता",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "आत्मवते",
+        "te": "ఆత్మవతే",
+        "ro": "ātmavate"
+      },
+      "chant": {
+        "sa": "ॐ आत्मवते नमः ।",
+        "te": "ఓం ఆత్మవతే నమః ।",
+        "ro": "oṃ ātmavate namaḥ ."
       }
     },
     {
@@ -2415,14 +2505,14 @@
       "name_te": "శర్మ",
       "name_ro": "śarma",
       "dative": {
-        "sa": "शर्माय",
-        "te": "శర్మాయ",
-        "ro": "śarmāya"
+        "sa": "शर्मणे",
+        "te": "శర్మణే",
+        "ro": "śarmaṇe"
       },
       "chant": {
-        "sa": "ॐ शर्माय नमः ।",
-        "te": "ఓం శర్మాయ నమః ।",
-        "ro": "oṃ śarmāya namaḥ ."
+        "sa": "ॐ शर्मणे नमः ।",
+        "te": "ఓం శర్మణే నమః ।",
+        "ro": "oṃ śarmaṇe namaḥ ."
       },
       "meaning": {
         "en": "Of the nature of supreme bliss",
@@ -2444,14 +2534,14 @@
       "name_te": "విశ్వరేతాః",
       "name_ro": "viśvaretāḥ",
       "dative": {
-        "sa": "विश्वरेतायै",
-        "te": "విశ్వరేతాయై",
-        "ro": "viśvaretāyai"
+        "sa": "विश्वरेतसे",
+        "te": "విశ్వరేతసే",
+        "ro": "viśvaretase"
       },
       "chant": {
-        "sa": "ॐ विश्वरेतायै नमः ।",
-        "te": "ఓం విశ్వరేతాయై నమః ।",
-        "ro": "oṃ viśvaretāyai namaḥ ."
+        "sa": "ॐ विश्वरेतसे नमः ।",
+        "te": "ఓం విశ్వరేతసే నమః ।",
+        "ro": "oṃ viśvaretase namaḥ ."
       },
       "meaning": {
         "en": "The Prime Cosmic Seed",
@@ -2502,14 +2592,14 @@
       "name_te": "అహః",
       "name_ro": "ahaḥ",
       "dative": {
-        "sa": "अहाय",
-        "te": "అహాయ",
-        "ro": "ahāya"
+        "sa": "अह्ने",
+        "te": "అహ్నే",
+        "ro": "ahne"
       },
       "chant": {
-        "sa": "ॐ अहाय नमः ।",
-        "te": "ఓం అహాయ నమః ।",
-        "ro": "oṃ ahāya namaḥ ."
+        "sa": "ॐ अह्ने नमः ।",
+        "te": "ఓం అహ్నే నమః ।",
+        "ro": "oṃ ahne namaḥ ."
       },
       "meaning": {
         "en": "The Solar Regulator",
@@ -2531,14 +2621,14 @@
       "name_te": "సంవత్సరః",
       "name_ro": "saṃvatsaraḥ",
       "dative": {
-        "sa": "संवत्सराय",
-        "te": "సంవత్సరాయ",
-        "ro": "saṃvatsarāya"
+        "sa": "सम्वत्सराय",
+        "te": "సమ్వత్సరాయ",
+        "ro": "samvatsarāya"
       },
       "chant": {
-        "sa": "ॐ संवत्सराय नमः ।",
-        "te": "ఓం సంవత్సరాయ నమః ।",
-        "ro": "oṃ saṃvatsarāya namaḥ ."
+        "sa": "ॐ सम्वत्सराय नमः ।",
+        "te": "ఓం సమ్వత్సరాయ నమః ।",
+        "ro": "oṃ samvatsarāya namaḥ ."
       },
       "meaning": {
         "en": "The Wheel of Residence",
@@ -2769,6 +2859,16 @@
         "te_d": "",
         "sa": "सर्वयोगातीतः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "सर्वादये",
+        "te": "సర్వాదయే",
+        "ro": "sarvādaye"
+      },
+      "chant": {
+        "sa": "ॐ सर्वादये नमः ।",
+        "te": "ఓం సర్వాదయే నమః ।",
+        "ro": "oṃ sarvādaye namaḥ ."
       }
     },
     {
@@ -2817,6 +2917,16 @@
         "te_d": "",
         "sa": "वसुमनाः प्रकाशकः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "वृषाकपये",
+        "te": "వృషాకపయే",
+        "ro": "vṛṣākapaye"
+      },
+      "chant": {
+        "sa": "ॐ वृषाकपये नमः ।",
+        "te": "ఓం వృషాకపయే నమః ।",
+        "ro": "oṃ vṛṣākapaye namaḥ ."
       }
     },
     {
@@ -2917,14 +3027,14 @@
       "name_te": "వసుమనాః",
       "name_ro": "vasumanāḥ",
       "dative": {
-        "sa": "वसुमनायै",
-        "te": "వసుమనాయై",
-        "ro": "vasumanāyai"
+        "sa": "वसुमनसे",
+        "te": "వసుమనసే",
+        "ro": "vasumanase"
       },
       "chant": {
-        "sa": "ॐ वसुमनायै नमः ।",
-        "te": "ఓం వసుమనాయై నమః ।",
-        "ro": "oṃ vasumanāyai namaḥ ."
+        "sa": "ॐ वसुमनसे नमः ।",
+        "te": "ఓం వసుమనసే నమః ।",
+        "ro": "oṃ vasumanase namaḥ ."
       },
       "meaning": {
         "en": "The Noble Mind",
@@ -2981,6 +3091,16 @@
         "te_d": "",
         "sa": "अन्नस्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "समात्मने",
+        "te": "సమాత్మనే",
+        "ro": "samātmane"
+      },
+      "chant": {
+        "sa": "ॐ समात्मने नमः ।",
+        "te": "ఓం సమాత్మనే నమః ।",
+        "ro": "oṃ samātmane namaḥ ."
       }
     },
     {
@@ -3000,6 +3120,16 @@
         "te_d": "",
         "sa": "पोषकः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "सम्मिताय",
+        "te": "సమ్మితాయ",
+        "ro": "sammitāya"
+      },
+      "chant": {
+        "sa": "ॐ सम्मिताय नमः ।",
+        "te": "ఓం సమ్మితాయ నమః ।",
+        "ro": "oṃ sammitāya namaḥ ."
       }
     },
     {
@@ -3100,14 +3230,14 @@
       "name_te": "వృషకర్మా",
       "name_ro": "vṛṣakarmā",
       "dative": {
-        "sa": "वृषकर्मने",
-        "te": "వృషకర్మనే",
-        "ro": "vṛṣakarmane"
+        "sa": "वृषकर्मणे",
+        "te": "వృషకర్మణే",
+        "ro": "vṛṣakarmaṇe"
       },
       "chant": {
-        "sa": "ॐ वृषकर्मने नमः ।",
-        "te": "ఓం వృషకర్మనే నమః ।",
-        "ro": "oṃ vṛṣakarmane namaḥ ."
+        "sa": "ॐ वृषकर्मणे नमः ।",
+        "te": "ఓం వృషకర్మణే నమః ।",
+        "ro": "oṃ vṛṣakarmaṇe namaḥ ."
       },
       "meaning": {
         "en": "The Architect of Dharma",
@@ -3187,14 +3317,14 @@
       "name_te": "బహుశిరా",
       "name_ro": "bahuśirā",
       "dative": {
-        "sa": "बहुशिरने",
-        "te": "బహుశిరనే",
-        "ro": "bahuśirane"
+        "sa": "बहुशिरसे",
+        "te": "బహుశిరసే",
+        "ro": "bahuśirase"
       },
       "chant": {
-        "sa": "ॐ बहुशिरने नमः ।",
-        "te": "ఓం బహుశిరనే నమః ।",
-        "ro": "oṃ bahuśirane namaḥ ."
+        "sa": "ॐ बहुशिरसे नमः ।",
+        "te": "ఓం బహుశిరసే నమః ।",
+        "ro": "oṃ bahuśirase namaḥ ."
       },
       "meaning": {
         "en": "The Multi-Headed Cosmos",
@@ -3274,14 +3404,14 @@
       "name_te": "శుచిశ్రవాః",
       "name_ro": "śuciśravāḥ",
       "dative": {
-        "sa": "शुचिश्रवायै",
-        "te": "శుచిశ్రవాయై",
-        "ro": "śuciśravāyai"
+        "sa": "शुचिश्रवसे",
+        "te": "శుచిశ్రవసే",
+        "ro": "śuciśravase"
       },
       "chant": {
-        "sa": "ॐ शुचिश्रवायै नमः ।",
-        "te": "ఓం శుచిశ్రవాయై నమః ।",
-        "ro": "oṃ śuciśravāyai namaḥ ."
+        "sa": "ॐ शुचिश्रवसे नमः ।",
+        "te": "ఓం శుచిశ్రవసే నమః ।",
+        "ro": "oṃ śuciśravase namaḥ ."
       },
       "meaning": {
         "en": "He of Holy Glory",
@@ -3332,14 +3462,14 @@
       "name_te": "శాశ్వతః స్థాణుః",
       "name_ro": "śāśvataḥ sthāṇuḥ",
       "dative": {
-        "sa": "शाश्वताय",
-        "te": "శాశ్వతాయ",
-        "ro": "śāśvatāya"
+        "sa": "शाश्वतस्थाणवे",
+        "te": "శాశ్వతస్థాణవే",
+        "ro": "śāśvatasthāṇave"
       },
       "chant": {
-        "sa": "ॐ शाश्वताय नमः ।",
-        "te": "ఓం శాశ్వతాయ నమః ।",
-        "ro": "oṃ śāśvatāya namaḥ ."
+        "sa": "ॐ शाश्वतस्थाणवे नमः ।",
+        "te": "ఓం శాశ్వతస్థాణవే నమః ।",
+        "ro": "oṃ śāśvatasthāṇave namaḥ ."
       },
       "meaning": {
         "en": "The Eternal Presence",
@@ -3390,14 +3520,14 @@
       "name_te": "మహాతపాః",
       "name_ro": "mahātapāḥ",
       "dative": {
-        "sa": "महातपायै",
-        "te": "మహాతపాయై",
-        "ro": "mahātapāyai"
+        "sa": "महातपसे",
+        "te": "మహాతపసే",
+        "ro": "mahātapase"
       },
       "chant": {
-        "sa": "ॐ महातपायै नमः ।",
-        "te": "ఓం మహాతపాయై నమః ।",
-        "ro": "oṃ mahātapāyai namaḥ ."
+        "sa": "ॐ महातपसे नमः ।",
+        "te": "ఓం మహాతపసే నమః ।",
+        "ro": "oṃ mahātapase namaḥ ."
       },
       "meaning": {
         "en": "The Intense Knowledge-Energy",
@@ -3477,14 +3607,14 @@
       "name_te": "విష్వక్సేనః",
       "name_ro": "viṣvaksenaḥ",
       "dative": {
-        "sa": "विष्वक्सेनाय",
-        "te": "విష్వక్సేనాయ",
-        "ro": "viṣvaksenāya"
+        "sa": "विश्वक्सेनाय",
+        "te": "విశ్వక్సేనాయ",
+        "ro": "viśvaksenāya"
       },
       "chant": {
-        "sa": "ॐ विष्वक्सेनाय नमः ।",
-        "te": "ఓం విష్వక్సేనాయ నమః ।",
-        "ro": "oṃ viṣvaksenāya namaḥ ."
+        "sa": "ॐ विश्वक्सेनाय नमः ।",
+        "te": "ఓం విశ్వక్సేనాయ నమః ।",
+        "ro": "oṃ viśvaksenāya namaḥ ."
       },
       "meaning": {
         "en": "Giver of liberation",
@@ -3564,14 +3694,14 @@
       "name_te": "వేదవిత్",
       "name_ro": "vedavit",
       "dative": {
-        "sa": "वेदविते",
-        "te": "వేదవితే",
-        "ro": "vedavite"
+        "sa": "वेदविदे",
+        "te": "వేదవిదే",
+        "ro": "vedavide"
       },
       "chant": {
-        "sa": "ॐ वेदविते नमः ।",
-        "te": "ఓం వేదవితే నమః ।",
-        "ro": "oṃ vedavite namaḥ ."
+        "sa": "ॐ वेदविदे नमः ।",
+        "te": "ఓం వేదవిదే నమః ।",
+        "ro": "oṃ vedavide namaḥ ."
       },
       "meaning": {
         "en": "The Knower of Wisdom",
@@ -3599,6 +3729,16 @@
         "te_d": "",
         "sa": "क्षमाशीलः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अव्यङ्गाय",
+        "te": "అవ్యఙ్గాయ",
+        "ro": "avyaṅgāya"
+      },
+      "chant": {
+        "sa": "ॐ अव्यङ्गाय नमः ।",
+        "te": "ఓం అవ్యఙ్గాయ నమః ।",
+        "ro": "oṃ avyaṅgāya namaḥ ."
       }
     },
     {
@@ -3641,14 +3781,14 @@
       "name_te": "వేదవిత్",
       "name_ro": "vedavit",
       "dative": {
-        "sa": "वेदविते",
-        "te": "వేదవితే",
-        "ro": "vedavite"
+        "sa": "वेदविदे",
+        "te": "వేదవిదే",
+        "ro": "vedavide"
       },
       "chant": {
-        "sa": "ॐ वेदविते नमः ।",
-        "te": "ఓం వేదవితే నమః ।",
-        "ro": "oṃ vedavite namaḥ ."
+        "sa": "ॐ वेदविदे नमः ।",
+        "te": "ఓం వేదవిదే నమః ।",
+        "ro": "oṃ vedavide namaḥ ."
       },
       "meaning": {
         "en": "The Knower of Wisdom",
@@ -3850,6 +3990,16 @@
         "te_d": "",
         "sa": "लक्ष्मीस्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "चतुर्व्यूहाय",
+        "te": "చతుర్వ్యూహాయ",
+        "ro": "caturvyūhāya"
+      },
+      "chant": {
+        "sa": "ॐ चतुर्व्यूहाय नमः ।",
+        "te": "ఓం చతుర్వ్యూహాయ నమః ।",
+        "ro": "oṃ caturvyūhāya namaḥ ."
       }
     },
     {
@@ -3869,6 +4019,16 @@
         "te_d": "",
         "sa": "स्वस्तिस्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "चतुर्दम्ष्ट्राय",
+        "te": "చతుర్దమ్ష్ట్రాయ",
+        "ro": "caturdamṣṭrāya"
+      },
+      "chant": {
+        "sa": "ॐ चतुर्दम्ष्ट्राय नमः ।",
+        "te": "ఓం చతుర్దమ్ష్ట్రాయ నమః ।",
+        "ro": "oṃ caturdamṣṭrāya namaḥ ."
       }
     },
     {
@@ -3888,6 +4048,16 @@
         "te_d": "",
         "sa": "मङ्गलपदः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "चतुर्भुजाय",
+        "te": "చతుర్భుజాయ",
+        "ro": "caturbhujāya"
+      },
+      "chant": {
+        "sa": "ॐ चतुर्भुजाय नमः ।",
+        "te": "ఓం చతుర్భుజాయ నమః ।",
+        "ro": "oṃ caturbhujāya namaḥ ."
       }
     },
     {
@@ -3959,14 +4129,14 @@
       "name_te": "భోక్తా",
       "name_ro": "bhoktā",
       "dative": {
-        "sa": "भोक्तने",
-        "te": "భోక్తనే",
-        "ro": "bhoktane"
+        "sa": "भोक्त्रे",
+        "te": "భోక్త్రే",
+        "ro": "bhoktre"
       },
       "chant": {
-        "sa": "ॐ भोक्तने नमः ।",
-        "te": "ఓం భోక్తనే నమః ।",
-        "ro": "oṃ bhoktane namaḥ ."
+        "sa": "ॐ भोक्त्रे नमः ।",
+        "te": "ఓం భోక్త్రే నమః ।",
+        "ro": "oṃ bhoktre namaḥ ."
       },
       "meaning": {
         "en": "The Supreme Consumer",
@@ -4104,14 +4274,14 @@
       "name_te": "జేతా",
       "name_ro": "jetā",
       "dative": {
-        "sa": "जेतने",
-        "te": "జేతనే",
-        "ro": "jetane"
+        "sa": "जेत्रे",
+        "te": "జేత్రే",
+        "ro": "jetre"
       },
       "chant": {
-        "sa": "ॐ जेतने नमः ।",
-        "te": "ఓం జేతనే నమః ।",
-        "ro": "oṃ jetane namaḥ ."
+        "sa": "ॐ जेत्रे नमः ।",
+        "te": "ఓం జేత్రే నమః ।",
+        "ro": "oṃ jetre namaḥ ."
       },
       "meaning": {
         "en": "The Natural Conqueror",
@@ -4249,14 +4419,14 @@
       "name_te": "ప్రాంశుః",
       "name_ro": "prāṃśuḥ",
       "dative": {
-        "sa": "प्रांशवे",
-        "te": "ప్రాంశవే",
-        "ro": "prāṃśave"
+        "sa": "प्राम्शवे",
+        "te": "ప్రామ్శవే",
+        "ro": "prāmśave"
       },
       "chant": {
-        "sa": "ॐ प्रांशवे नमः ।",
-        "te": "ఓం ప్రాంశవే నమః ।",
-        "ro": "oṃ prāṃśave namaḥ ."
+        "sa": "ॐ प्राम्शवे नमः ।",
+        "te": "ఓం ప్రామ్శవే నమః ।",
+        "ro": "oṃ prāmśave namaḥ ."
       },
       "meaning": {
         "en": "The Colossal Stricter",
@@ -4313,6 +4483,16 @@
         "te_d": "",
         "sa": "श्रीनिवासः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "शुचये",
+        "te": "శుచయే",
+        "ro": "śucaye"
+      },
+      "chant": {
+        "sa": "ॐ शुचये नमः ।",
+        "te": "ఓం శుచయే నమః ।",
+        "ro": "oṃ śucaye namaḥ ."
       }
     },
     {
@@ -4332,6 +4512,16 @@
         "te_d": "",
         "sa": "सतांगतिः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "उर्जिताय",
+        "te": "ఉర్జితాయ",
+        "ro": "urjitāya"
+      },
+      "chant": {
+        "sa": "ॐ उर्जिताय नमः ।",
+        "te": "ఓం ఉర్జితాయ నమః ।",
+        "ro": "oṃ urjitāya namaḥ ."
       }
     },
     {
@@ -4606,14 +4796,14 @@
       "name_te": "వీరహా",
       "name_ro": "vīrahā",
       "dative": {
-        "sa": "वीरहने",
-        "te": "వీరహనే",
-        "ro": "vīrahane"
+        "sa": "वीरघ्ने",
+        "te": "వీరఘ్నే",
+        "ro": "vīraghne"
       },
       "chant": {
-        "sa": "ॐ वीरहने नमः ।",
-        "te": "ఓం వీరహనే నమః ।",
-        "ro": "oṃ vīrahane namaḥ ."
+        "sa": "ॐ वीरघ्ने नमः ।",
+        "te": "ఓం వీరఘ్నే నమః ।",
+        "ro": "oṃ vīraghne namaḥ ."
       },
       "meaning": {
         "en": "The Cutter of Bondage",
@@ -4809,14 +4999,14 @@
       "name_te": "మహాబుద్ధిః",
       "name_ro": "mahābuddhiḥ",
       "dative": {
-        "sa": "महाबुद्धये",
-        "te": "మహాబుద్ధయే",
-        "ro": "mahābuddhaye"
+        "sa": "महाबुधाय",
+        "te": "మహాబుధాయ",
+        "ro": "mahābudhāya"
       },
       "chant": {
-        "sa": "ॐ महाबुद्धये नमः ।",
-        "te": "ఓం మహాబుద్ధయే నమః ।",
-        "ro": "oṃ mahābuddhaye namaḥ ."
+        "sa": "ॐ महाबुधाय नमः ।",
+        "te": "ఓం మహాబుధాయ నమః ।",
+        "ro": "oṃ mahābudhāya namaḥ ."
       },
       "meaning": {
         "en": "The Supreme Intelligence",
@@ -4838,14 +5028,14 @@
       "name_te": "మహావీర్యః",
       "name_ro": "mahāvīryaḥ",
       "dative": {
-        "sa": "महावीर्याय",
-        "te": "మహావీర్యాయ",
-        "ro": "mahāvīryāya"
+        "sa": "महावीराय",
+        "te": "మహావీరాయ",
+        "ro": "mahāvīrāya"
       },
       "chant": {
-        "sa": "ॐ महावीर्याय नमः ।",
-        "te": "ఓం మహావీర్యాయ నమః ।",
-        "ro": "oṃ mahāvīryāya namaḥ ."
+        "sa": "ॐ महावीराय नमः ।",
+        "te": "ఓం మహావీరాయ నమః ।",
+        "ro": "oṃ mahāvīrāya namaḥ ."
       },
       "meaning": {
         "en": "The Supreme Potency",
@@ -4925,14 +5115,14 @@
       "name_te": "అనిర్దేశ్యవపుః",
       "name_ro": "anirdeśyavapuḥ",
       "dative": {
-        "sa": "अनिर्देश्यवपवे",
-        "te": "అనిర్దేశ్యవపవే",
-        "ro": "anirdeśyavapave"
+        "sa": "अनिर्देश्यवपुषे",
+        "te": "అనిర్దేశ్యవపుషే",
+        "ro": "anirdeśyavapuṣe"
       },
       "chant": {
-        "sa": "ॐ अनिर्देश्यवपवे नमः ।",
-        "te": "ఓం అనిర్దేశ్యవపవే నమః ।",
-        "ro": "oṃ anirdeśyavapave namaḥ ."
+        "sa": "ॐ अनिर्देश्यवपुषे नमः ।",
+        "te": "ఓం అనిర్దేశ్యవపుషే నమః ।",
+        "ro": "oṃ anirdeśyavapuṣe namaḥ ."
       },
       "meaning": {
         "en": "The Indefinable Structure",
@@ -4954,14 +5144,14 @@
       "name_te": "శ్రీమాన్",
       "name_ro": "śrīmān",
       "dative": {
-        "sa": "श्रीमाने",
-        "te": "శ్రీమానే",
-        "ro": "śrīmāne"
+        "sa": "श्रीमते",
+        "te": "శ్రీమతే",
+        "ro": "śrīmate"
       },
       "chant": {
-        "sa": "ॐ श्रीमाने नमः ।",
-        "te": "ఓం శ్రీమానే నమః ।",
-        "ro": "oṃ śrīmāne namaḥ ."
+        "sa": "ॐ श्रीमते नमः ।",
+        "te": "ఓం శ్రీమతే నమః ।",
+        "ro": "oṃ śrīmate namaḥ ."
       },
       "meaning": {
         "en": "The Resplendent Lord",
@@ -5012,14 +5202,14 @@
       "name_te": "మహాద్రిధృక్",
       "name_ro": "mahādridhṛk",
       "dative": {
-        "sa": "महाद्रिधृके",
-        "te": "మహాద్రిధృకే",
-        "ro": "mahādridhṛke"
+        "sa": "महाद्रिधृशे",
+        "te": "మహాద్రిధృశే",
+        "ro": "mahādridhṛśe"
       },
       "chant": {
-        "sa": "ॐ महाद्रिधृके नमः ।",
-        "te": "ఓం మహాద్రిధృకే నమః ।",
-        "ro": "oṃ mahādridhṛke namaḥ ."
+        "sa": "ॐ महाद्रिधृशे नमः ।",
+        "te": "ఓం మహాద్రిధృశే నమః ।",
+        "ro": "oṃ mahādridhṛśe namaḥ ."
       },
       "meaning": {
         "en": "The Lifter of Mountains",
@@ -5041,14 +5231,14 @@
       "name_te": "మహేష్వాసః",
       "name_ro": "maheṣvāsaḥ",
       "dative": {
-        "sa": "महेष्वासाय",
-        "te": "మహేష్వాసాయ",
-        "ro": "maheṣvāsāya"
+        "sa": "महेश्वासाय",
+        "te": "మహేశ్వాసాయ",
+        "ro": "maheśvāsāya"
       },
       "chant": {
-        "sa": "ॐ महेष्वासाय नमः ।",
-        "te": "ఓం మహేష్వాసాయ నమః ।",
-        "ro": "oṃ maheṣvāsāya namaḥ ."
+        "sa": "ॐ महेश्वासाय नमः ।",
+        "te": "ఓం మహేశ్వాసాయ నమః ।",
+        "ro": "oṃ maheśvāsāya namaḥ ."
       },
       "meaning": {
         "en": "The Master of Great Archery",
@@ -5070,14 +5260,14 @@
       "name_te": "మహీభర్తా",
       "name_ro": "mahībhartā",
       "dative": {
-        "sa": "महीभर्तने",
-        "te": "మహీభర్తనే",
-        "ro": "mahībhartane"
+        "sa": "महीभर्त्रे",
+        "te": "మహీభర్త్రే",
+        "ro": "mahībhartre"
       },
       "chant": {
-        "sa": "ॐ महीभर्तने नमः ।",
-        "te": "ఓం మహీభర్తనే నమః ।",
-        "ro": "oṃ mahībhartane namaḥ ."
+        "sa": "ॐ महीभर्त्रे नमः ।",
+        "te": "ఓం మహీభర్త్రే నమః ।",
+        "ro": "oṃ mahībhartre namaḥ ."
       },
       "meaning": {
         "en": "The Sustainer of Earth",
@@ -5128,14 +5318,14 @@
       "name_te": "సతాం గతిః",
       "name_ro": "satāṃ gatiḥ",
       "dative": {
-        "sa": "सताय",
-        "te": "సతాయ",
-        "ro": "satāya"
+        "sa": "सताङ्गतये",
+        "te": "సతాఙ్గతయే",
+        "ro": "satāṅgataye"
       },
       "chant": {
-        "sa": "ॐ सताय नमः ।",
-        "te": "ఓం సతాయ నమః ।",
-        "ro": "oṃ satāya namaḥ ."
+        "sa": "ॐ सताङ्गतये नमः ।",
+        "te": "ఓం సతాఙ్గతయే నమః ।",
+        "ro": "oṃ satāṅgataye namaḥ ."
       },
       "meaning": {
         "en": "The Path of the Holy",
@@ -5244,14 +5434,14 @@
       "name_te": "గోవిదాం పతిః",
       "name_ro": "govidāṃ patiḥ",
       "dative": {
-        "sa": "गोविदाय",
-        "te": "గోవిదాయ",
-        "ro": "govidāya"
+        "sa": "गोविदाम्पतये",
+        "te": "గోవిదామ్పతయే",
+        "ro": "govidāmpataye"
       },
       "chant": {
-        "sa": "ॐ गोविदाय नमः ।",
-        "te": "ఓం గోవిదాయ నమః ।",
-        "ro": "oṃ govidāya namaḥ ."
+        "sa": "ॐ गोविदाम्पतये नमः ।",
+        "te": "ఓం గోవిదామ్పతయే నమః ।",
+        "ro": "oṃ govidāmpataye namaḥ ."
       },
       "meaning": {
         "en": "The Master of Scholars",
@@ -5331,14 +5521,14 @@
       "name_te": "హంసః",
       "name_ro": "haṃsaḥ",
       "dative": {
-        "sa": "हंसाय",
-        "te": "హంసాయ",
-        "ro": "haṃsāya"
+        "sa": "हम्साय",
+        "te": "హమ్సాయ",
+        "ro": "hamsāya"
       },
       "chant": {
-        "sa": "ॐ हंसाय नमः ।",
-        "te": "ఓం హంసాయ నమః ।",
-        "ro": "oṃ haṃsāya namaḥ ."
+        "sa": "ॐ हम्साय नमः ।",
+        "te": "ఓం హమ్సాయ నమః ।",
+        "ro": "oṃ hamsāya namaḥ ."
       },
       "meaning": {
         "en": "The Pure Consciousness",
@@ -5447,14 +5637,14 @@
       "name_te": "సుతపాః",
       "name_ro": "sutapāḥ",
       "dative": {
-        "sa": "सुतपायै",
-        "te": "సుతపాయై",
-        "ro": "sutapāyai"
+        "sa": "सुतपसे",
+        "te": "సుతపసే",
+        "ro": "sutapase"
       },
       "chant": {
-        "sa": "ॐ सुतपायै नमः ।",
-        "te": "ఓం సుతపాయై నమః ।",
-        "ro": "oṃ sutapāyai namaḥ ."
+        "sa": "ॐ सुतपसे नमः ।",
+        "te": "ఓం సుతపసే నమః ।",
+        "ro": "oṃ sutapase namaḥ ."
       },
       "meaning": {
         "en": "The Intense Ascetic",
@@ -5563,14 +5753,14 @@
       "name_te": "సర్వదృక్",
       "name_ro": "sarvadṛk",
       "dative": {
-        "sa": "सर्वदृके",
-        "te": "సర్వదృకే",
-        "ro": "sarvadṛke"
+        "sa": "सर्वदृशे",
+        "te": "సర్వదృశే",
+        "ro": "sarvadṛśe"
       },
       "chant": {
-        "sa": "ॐ सर्वदृके नमः ।",
-        "te": "ఓం సర్వదృకే నమః ।",
-        "ro": "oṃ sarvadṛke namaḥ ."
+        "sa": "ॐ सर्वदृशे नमः ।",
+        "te": "ఓం సర్వదృశే నమః ।",
+        "ro": "oṃ sarvadṛśe namaḥ ."
       },
       "meaning": {
         "en": "The Cosmic Visionary",
@@ -5592,14 +5782,14 @@
       "name_te": "సింహః",
       "name_ro": "siṃhaḥ",
       "dative": {
-        "sa": "सिंहाय",
-        "te": "సింహాయ",
-        "ro": "siṃhāya"
+        "sa": "सिम्हाय",
+        "te": "సిమ్హాయ",
+        "ro": "simhāya"
       },
       "chant": {
-        "sa": "ॐ सिंहाय नमः ।",
-        "te": "ఓం సింహాయ నమః ।",
-        "ro": "oṃ siṃhāya namaḥ ."
+        "sa": "ॐ सिम्हाय नमः ।",
+        "te": "ఓం సిమ్హాయ నమః ।",
+        "ro": "oṃ simhāya namaḥ ."
       },
       "meaning": {
         "en": "The Mighty Sovereign",
@@ -5621,14 +5811,14 @@
       "name_te": "సన్ధాతా",
       "name_ro": "sandhātā",
       "dative": {
-        "sa": "सन्धातने",
-        "te": "సన్ధాతనే",
-        "ro": "sandhātane"
+        "sa": "सन्धात्रे",
+        "te": "సన్ధాత్రే",
+        "ro": "sandhātre"
       },
       "chant": {
-        "sa": "ॐ सन्धातने नमः ।",
-        "te": "ఓం సన్ధాతనే నమః ।",
-        "ro": "oṃ sandhātane namaḥ ."
+        "sa": "ॐ सन्धात्रे नमः ।",
+        "te": "ఓం సన్ధాత్రే నమః ।",
+        "ro": "oṃ sandhātre namaḥ ."
       },
       "meaning": {
         "en": "The Dispenser of Destiny",
@@ -5650,14 +5840,14 @@
       "name_te": "సన్ధిమాన్",
       "name_ro": "sandhimān",
       "dative": {
-        "sa": "सन्धिमाने",
-        "te": "సన్ధిమానే",
-        "ro": "sandhimāne"
+        "sa": "सन्धिमते",
+        "te": "సన్ధిమతే",
+        "ro": "sandhimate"
       },
       "chant": {
-        "sa": "ॐ सन्धिमाने नमः ।",
-        "te": "ఓం సన్ధిమానే నమః ।",
-        "ro": "oṃ sandhimāne namaḥ ."
+        "sa": "ॐ सन्धिमते नमः ।",
+        "te": "ఓం సన్ధిమతే నమః ।",
+        "ro": "oṃ sandhimate namaḥ ."
       },
       "meaning": {
         "en": "The Consumer of Fruits",
@@ -5766,14 +5956,14 @@
       "name_te": "శాస్తా",
       "name_ro": "śāstā",
       "dative": {
-        "sa": "शास्तने",
-        "te": "శాస్తనే",
-        "ro": "śāstane"
+        "sa": "शास्त्रे",
+        "te": "శాస్త్రే",
+        "ro": "śāstre"
       },
       "chant": {
-        "sa": "ॐ शास्तने नमः ।",
-        "te": "ఓం శాస్తనే నమః ।",
-        "ro": "oṃ śāstane namaḥ ."
+        "sa": "ॐ शास्त्रे नमः ।",
+        "te": "ఓం శాస్త్రే నమః ।",
+        "ro": "oṃ śāstre namaḥ ."
       },
       "meaning": {
         "en": "The Cosmic Preceptor",
@@ -5824,14 +6014,14 @@
       "name_te": "సురారిహా",
       "name_ro": "surārihā",
       "dative": {
-        "sa": "सुरारिहने",
-        "te": "సురారిహనే",
-        "ro": "surārihane"
+        "sa": "सुरारिघ्ने",
+        "te": "సురారిఘ్నే",
+        "ro": "surārighne"
       },
       "chant": {
-        "sa": "ॐ सुरारिहने नमः ।",
-        "te": "ఓం సురారిహనే నమః ।",
-        "ro": "oṃ surārihane namaḥ ."
+        "sa": "ॐ सुरारिघ्ने नमः ।",
+        "te": "ఓం సురారిఘ్నే నమః ।",
+        "ro": "oṃ surārighne namaḥ ."
       },
       "meaning": {
         "en": "The Slayer of Gods' Foes",
@@ -5911,14 +6101,14 @@
       "name_te": "ధామః",
       "name_ro": "dhāmaḥ",
       "dative": {
-        "sa": "धामाय",
-        "te": "ధామాయ",
-        "ro": "dhāmāya"
+        "sa": "धाम्ने",
+        "te": "ధామ్నే",
+        "ro": "dhāmne"
       },
       "chant": {
-        "sa": "ॐ धामाय नमः ।",
-        "te": "ఓం ధామాయ నమః ।",
-        "ro": "oṃ dhāmāya namaḥ ."
+        "sa": "ॐ धाम्ने नमः ।",
+        "te": "ఓం ధామ్నే నమః ।",
+        "ro": "oṃ dhāmne namaḥ ."
       },
       "meaning": {
         "en": "The Supreme Light",
@@ -6056,14 +6246,14 @@
       "name_te": "స్రగ్వీ",
       "name_ro": "sragvī",
       "dative": {
-        "sa": "स्रग्विने",
-        "te": "స్రగ్వినే",
-        "ro": "sragvine"
+        "sa": "स्रग्विणे",
+        "te": "స్రగ్విణే",
+        "ro": "sragviṇe"
       },
       "chant": {
-        "sa": "ॐ स्रग्विने नमः ।",
-        "te": "ఓం స్రగ్వినే నమః ।",
-        "ro": "oṃ sragvine namaḥ ."
+        "sa": "ॐ स्रग्विणे नमः ।",
+        "te": "ఓం స్రగ్విణే నమః ।",
+        "ro": "oṃ sragviṇe namaḥ ."
       },
       "meaning": {
         "en": "The Garlanded Majesty",
@@ -6085,14 +6275,14 @@
       "name_te": "వాచస్పతిరుదారధీః",
       "name_ro": "vācaspatirudāradhīḥ",
       "dative": {
-        "sa": "वाचस्पतिरुदारधये",
-        "te": "వాచస్పతిరుదారధయే",
-        "ro": "vācaspatirudāradhaye"
+        "sa": "वाचस्पतयेउदारधिये",
+        "te": "వాచస్పతయేఉదారధియే",
+        "ro": "vācaspatayeudāradhiye"
       },
       "chant": {
-        "sa": "ॐ वाचस्पतिरुदारधये नमः ।",
-        "te": "ఓం వాచస్పతిరుదారధయే నమః ।",
-        "ro": "oṃ vācaspatirudāradhaye namaḥ ."
+        "sa": "ॐ वाचस्पतयेउदारधिये नमः ।",
+        "te": "ఓం వాచస్పతయేఉదారధియే నమః ।",
+        "ro": "oṃ vācaspatayeudāradhiye namaḥ ."
       },
       "meaning": {
         "en": "The King of Expression",
@@ -6114,14 +6304,14 @@
       "name_te": "అగ్రణీః",
       "name_ro": "agraṇīḥ",
       "dative": {
-        "sa": "अग्रणये",
-        "te": "అగ్రణయే",
-        "ro": "agraṇaye"
+        "sa": "अग्रण्ये",
+        "te": "అగ్రణ్యే",
+        "ro": "agraṇye"
       },
       "chant": {
-        "sa": "ॐ अग्रणये नमः ।",
-        "te": "ఓం అగ్రణయే నమః ।",
-        "ro": "oṃ agraṇaye namaḥ ."
+        "sa": "ॐ अग्रण्ये नमः ।",
+        "te": "ఓం అగ్రణ్యే నమః ।",
+        "ro": "oṃ agraṇye namaḥ ."
       },
       "meaning": {
         "en": "The Ultimate Leader",
@@ -6143,14 +6333,14 @@
       "name_te": "గ్రామణీః",
       "name_ro": "grāmaṇīḥ",
       "dative": {
-        "sa": "ग्रामणये",
-        "te": "గ్రామణయే",
-        "ro": "grāmaṇaye"
+        "sa": "ग्रामण्ये",
+        "te": "గ్రామణ్యే",
+        "ro": "grāmaṇye"
       },
       "chant": {
-        "sa": "ॐ ग्रामणये नमः ।",
-        "te": "ఓం గ్రామణయే నమః ।",
-        "ro": "oṃ grāmaṇaye namaḥ ."
+        "sa": "ॐ ग्रामण्ये नमः ।",
+        "te": "ఓం గ్రామణ్యే నమః ।",
+        "ro": "oṃ grāmaṇye namaḥ ."
       },
       "meaning": {
         "en": "The Commander of Elements",
@@ -6172,14 +6362,14 @@
       "name_te": "శ్రీమాన్",
       "name_ro": "śrīmān",
       "dative": {
-        "sa": "श्रीमाने",
-        "te": "శ్రీమానే",
-        "ro": "śrīmāne"
+        "sa": "श्रीमते",
+        "te": "శ్రీమతే",
+        "ro": "śrīmate"
       },
       "chant": {
-        "sa": "ॐ श्रीमाने नमः ।",
-        "te": "ఓం శ్రీమానే నమః ।",
-        "ro": "oṃ śrīmāne namaḥ ."
+        "sa": "ॐ श्रीमते नमः ।",
+        "te": "ఓం శ్రీమతే నమః ।",
+        "ro": "oṃ śrīmate namaḥ ."
       },
       "meaning": {
         "en": "The Resplendent Lord",
@@ -6230,14 +6420,14 @@
       "name_te": "నేతా",
       "name_ro": "netā",
       "dative": {
-        "sa": "नेतने",
-        "te": "నేతనే",
-        "ro": "netane"
+        "sa": "नेत्रे",
+        "te": "నేత్రే",
+        "ro": "netre"
       },
       "chant": {
-        "sa": "ॐ नेतने नमः ।",
-        "te": "ఓం నేతనే నమః ।",
-        "ro": "oṃ netane namaḥ ."
+        "sa": "ॐ नेत्रे नमः ।",
+        "te": "ఓం నేత్రే నమః ।",
+        "ro": "oṃ netre namaḥ ."
       },
       "meaning": {
         "en": "The Cosmic Mover",
@@ -6288,14 +6478,14 @@
       "name_te": "సహస్రమూర్ధా",
       "name_ro": "sahasramūrdhā",
       "dative": {
-        "sa": "सहस्रमूर्धने",
-        "te": "సహస్రమూర్ధనే",
-        "ro": "sahasramūrdhane"
+        "sa": "सहस्रमूर्ध्ने",
+        "te": "సహస్రమూర్ధ్నే",
+        "ro": "sahasramūrdhne"
       },
       "chant": {
-        "sa": "ॐ सहस्रमूर्धने नमः ।",
-        "te": "ఓం సహస్రమూర్ధనే నమః ।",
-        "ro": "oṃ sahasramūrdhane namaḥ ."
+        "sa": "ॐ सहस्रमूर्ध्ने नमः ।",
+        "te": "ఓం సహస్రమూర్ధ్నే నమః ।",
+        "ro": "oṃ sahasramūrdhne namaḥ ."
       },
       "meaning": {
         "en": "The Multi-Headed Totality",
@@ -6375,14 +6565,14 @@
       "name_te": "సహస్రపాత్",
       "name_ro": "sahasrapāt",
       "dative": {
-        "sa": "सहस्रपाते",
-        "te": "సహస్రపాతే",
-        "ro": "sahasrapāte"
+        "sa": "सहस्रपदे",
+        "te": "సహస్రపదే",
+        "ro": "sahasrapade"
       },
       "chant": {
-        "sa": "ॐ सहस्रपाते नमः ।",
-        "te": "ఓం సహస్రపాతే నమః ।",
-        "ro": "oṃ sahasrapāte namaḥ ."
+        "sa": "ॐ सहस्रपदे नमः ।",
+        "te": "ఓం సహస్రపదే నమః ।",
+        "ro": "oṃ sahasrapade namaḥ ."
       },
       "meaning": {
         "en": "The Multi-Footed Base",
@@ -6462,14 +6652,14 @@
       "name_te": "సంవృతః",
       "name_ro": "saṃvṛtaḥ",
       "dative": {
-        "sa": "संवृताय",
-        "te": "సంవృతాయ",
-        "ro": "saṃvṛtāya"
+        "sa": "सम्वृत्ताय",
+        "te": "సమ్వృత్తాయ",
+        "ro": "samvṛttāya"
       },
       "chant": {
-        "sa": "ॐ संवृताय नमः ।",
-        "te": "ఓం సంవృతాయ నమః ।",
-        "ro": "oṃ saṃvṛtāya namaḥ ."
+        "sa": "ॐ सम्वृत्ताय नमः ।",
+        "te": "ఓం సమ్వృత్తాయ నమః ।",
+        "ro": "oṃ samvṛttāya namaḥ ."
       },
       "meaning": {
         "en": "The Hidden Reality",
@@ -6520,14 +6710,14 @@
       "name_te": "అహః సంవర్తకః",
       "name_ro": "ahaḥ saṃvartakaḥ",
       "dative": {
-        "sa": "अहाय",
-        "te": "అహాయ",
-        "ro": "ahāya"
+        "sa": "अहःसम्वर्तकाय",
+        "te": "అహఃసమ్వర్తకాయ",
+        "ro": "ahaḥsamvartakāya"
       },
       "chant": {
-        "sa": "ॐ अहाय नमः ।",
-        "te": "ఓం అహాయ నమః ।",
-        "ro": "oṃ ahāya namaḥ ."
+        "sa": "ॐ अहःसम्वर्तकाय नमः ।",
+        "te": "ఓం అహఃసమ్వర్తకాయ నమః ।",
+        "ro": "oṃ ahaḥsamvartakāya namaḥ ."
       },
       "meaning": {
         "en": "The Solar Regulator",
@@ -6700,6 +6890,16 @@
         "te_d": "",
         "sa": "विश्वधारकः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "विश्वधृषे",
+        "te": "విశ్వధృషే",
+        "ro": "viśvadhṛṣe"
+      },
+      "chant": {
+        "sa": "ॐ विश्वधृषे नमः ।",
+        "te": "ఓం విశ్వధృషే నమః ।",
+        "ro": "oṃ viśvadhṛṣe namaḥ ."
       }
     },
     {
@@ -6719,6 +6919,16 @@
         "te_d": "",
         "sa": "विश्वभोक्ता",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "विश्वभुजे",
+        "te": "విశ్వభుజే",
+        "ro": "viśvabhuje"
+      },
+      "chant": {
+        "sa": "ॐ विश्वभुजे नमः ।",
+        "te": "ఓం విశ్వభుజే నమః ।",
+        "ro": "oṃ viśvabhuje namaḥ ."
       }
     },
     {
@@ -6738,6 +6948,16 @@
         "te_d": "",
         "sa": "विभुः सर्वव्यापकः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "विभवे",
+        "te": "విభవే",
+        "ro": "vibhave"
+      },
+      "chant": {
+        "sa": "ॐ विभवे नमः ।",
+        "te": "ఓం విభవే నమః ।",
+        "ro": "oṃ vibhave namaḥ ."
       }
     },
     {
@@ -6751,14 +6971,14 @@
       "name_te": "సత్కర్తా",
       "name_ro": "satkartā",
       "dative": {
-        "sa": "सत्कर्तने",
-        "te": "సత్కర్తనే",
-        "ro": "satkartane"
+        "sa": "सत्कर्त्रे",
+        "te": "సత్కర్త్రే",
+        "ro": "satkartre"
       },
       "chant": {
-        "sa": "ॐ सत्कर्तने नमः ।",
-        "te": "ఓం సత్కర్తనే నమః ।",
-        "ro": "oṃ satkartane namaḥ ."
+        "sa": "ॐ सत्कर्त्रे नमः ।",
+        "te": "ఓం సత్కర్త్రే నమః ।",
+        "ro": "oṃ satkartre namaḥ ."
       },
       "meaning": {
         "en": "The Gracious Host",
@@ -7018,6 +7238,16 @@
         "te_d": "",
         "sa": "शिष्टनियन्ता",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "शिष्टकृते",
+        "te": "శిష్టకృతే",
+        "ro": "śiṣṭakṛte"
+      },
+      "chant": {
+        "sa": "ॐ शिष्टकृते नमः ।",
+        "te": "ఓం శిష్టకృతే నమః ।",
+        "ro": "oṃ śiṣṭakṛte namaḥ ."
       }
     },
     {
@@ -7037,6 +7267,16 @@
         "te_d": "",
         "sa": "मायाबद्धकः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "शुचये",
+        "te": "శుచయే",
+        "ro": "śucaye"
+      },
+      "chant": {
+        "sa": "ॐ शुचये नमः ।",
+        "te": "ఓం శుచయే నమః ।",
+        "ro": "oṃ śucaye namaḥ ."
       }
     },
     {
@@ -7166,14 +7406,14 @@
       "name_te": "వృషాహీ",
       "name_ro": "vṛṣāhī",
       "dative": {
-        "sa": "वृषाहिने",
-        "te": "వృషాహినే",
-        "ro": "vṛṣāhine"
+        "sa": "वृषाहिणे",
+        "te": "వృషాహిణే",
+        "ro": "vṛṣāhiṇe"
       },
       "chant": {
-        "sa": "ॐ वृषाहिने नमः ।",
-        "te": "ఓం వృషాహినే నమః ।",
-        "ro": "oṃ vṛṣāhine namaḥ ."
+        "sa": "ॐ वृषाहिणे नमः ।",
+        "te": "ఓం వృషాహిణే నమః ।",
+        "ro": "oṃ vṛṣāhiṇe namaḥ ."
       },
       "meaning": {
         "en": "The Lord of Virtuous Days",
@@ -7253,14 +7493,14 @@
       "name_te": "వృషపర్వా",
       "name_ro": "vṛṣaparvā",
       "dative": {
-        "sa": "वृषपर्वने",
-        "te": "వృషపర్వనే",
-        "ro": "vṛṣaparvane"
+        "sa": "वृषपर्वणे",
+        "te": "వృషపర్వణే",
+        "ro": "vṛṣaparvaṇe"
       },
       "chant": {
-        "sa": "ॐ वृषपर्वने नमः ।",
-        "te": "ఓం వృషపర్వనే నమః ।",
-        "ro": "oṃ vṛṣaparvane namaḥ ."
+        "sa": "ॐ वृषपर्वणे नमः ।",
+        "te": "ఓం వృషపర్వణే నమః ।",
+        "ro": "oṃ vṛṣaparvaṇe namaḥ ."
       },
       "meaning": {
         "en": "The Ladder of Virtue",
@@ -7346,6 +7586,16 @@
         "te_d": "",
         "sa": "वत्सलः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "वर्धमानाय",
+        "te": "వర్ధమానాయ",
+        "ro": "vardhamānāya"
+      },
+      "chant": {
+        "sa": "ॐ वर्धमानाय नमः ।",
+        "te": "ఓం వర్ధమానాయ నమః ।",
+        "ro": "oṃ vardhamānāya namaḥ ."
       }
     },
     {
@@ -7713,6 +7963,16 @@
         "te_d": "",
         "sa": "त्रिविक्रमः प्रकाशधारकः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "ओजस्तेजोद्युतिधराय",
+        "te": "ఓజస్తేజోద్యుతిధరాయ",
+        "ro": "ojastejodyutidharāya"
+      },
+      "chant": {
+        "sa": "ॐ ओजस्तेजोद्युतिधराय नमः ।",
+        "te": "ఓం ఓజస్తేజోద్యుతిధరాయ నమః ।",
+        "ro": "oṃ ojastejodyutidharāya namaḥ ."
       }
     },
     {
@@ -7871,14 +8131,14 @@
       "name_te": "చన్ద్రాంశుః",
       "name_ro": "candrāṃśuḥ",
       "dative": {
-        "sa": "चन्द्रांशवे",
-        "te": "చన్ద్రాంశవే",
-        "ro": "candrāṃśave"
+        "sa": "चन्द्राम्शवे",
+        "te": "చన్ద్రామ్శవే",
+        "ro": "candrāmśave"
       },
       "chant": {
-        "sa": "ॐ चन्द्रांशवे नमः ।",
-        "te": "ఓం చన్ద్రాంశవే నమః ।",
-        "ro": "oṃ candrāṃśave namaḥ ."
+        "sa": "ॐ चन्द्राम्शवे नमः ।",
+        "te": "ఓం చన్ద్రామ్శవే నమః ।",
+        "ro": "oṃ candrāmśave namaḥ ."
       },
       "meaning": {
         "en": "The Cooling Moonlight",
@@ -7929,14 +8189,14 @@
       "name_te": "అమృతాంశూద్భవః",
       "name_ro": "amṛtāṃśūdbhavaḥ",
       "dative": {
-        "sa": "अमृतांशूद्भवाय",
-        "te": "అమృతాంశూద్భవాయ",
-        "ro": "amṛtāṃśūdbhavāya"
+        "sa": "अमृताम्शूद्भवाय",
+        "te": "అమృతామ్శూద్భవాయ",
+        "ro": "amṛtāmśūdbhavāya"
       },
       "chant": {
-        "sa": "ॐ अमृतांशूद्भवाय नमः ।",
-        "te": "ఓం అమృతాంశూద్భవాయ నమః ।",
-        "ro": "oṃ amṛtāṃśūdbhavāya namaḥ ."
+        "sa": "ॐ अमृताम्शूद्भवाय नमः ।",
+        "te": "ఓం అమృతామ్శూద్భవాయ నమః ।",
+        "ro": "oṃ amṛtāmśūdbhavāya namaḥ ."
       },
       "meaning": {
         "en": "The Source of the Moon",
@@ -8074,14 +8334,14 @@
       "name_te": "జగతః సేతుః",
       "name_ro": "jagataḥ setuḥ",
       "dative": {
-        "sa": "जगताय",
-        "te": "జగతాయ",
-        "ro": "jagatāya"
+        "sa": "जगतहेतवे",
+        "te": "జగతహేతవే",
+        "ro": "jagatahetave"
       },
       "chant": {
-        "sa": "ॐ जगताय नमः ।",
-        "te": "ఓం జగతాయ నమః ।",
-        "ro": "oṃ jagatāya namaḥ ."
+        "sa": "ॐ जगतहेतवे नमः ।",
+        "te": "ఓం జగతహేతవే నమః ।",
+        "ro": "oṃ jagatahetave namaḥ ."
       },
       "meaning": {
         "en": "The Bridge Over Delusion",
@@ -8248,14 +8508,14 @@
       "name_te": "కామహా",
       "name_ro": "kāmahā",
       "dative": {
-        "sa": "कामहने",
-        "te": "కామహనే",
-        "ro": "kāmahane"
+        "sa": "कामघ्ने",
+        "te": "కామఘ్నే",
+        "ro": "kāmaghne"
       },
       "chant": {
-        "sa": "ॐ कामहने नमः ।",
-        "te": "ఓం కామహనే నమః ।",
-        "ro": "oṃ kāmahane namaḥ ."
+        "sa": "ॐ कामघ्ने नमः ।",
+        "te": "ఓం కామఘ్నే నమః ।",
+        "ro": "oṃ kāmaghne namaḥ ."
       },
       "meaning": {
         "en": "The Destroyer of Desires",
@@ -8283,6 +8543,16 @@
         "te_d": "",
         "sa": "महाप्रज्ञः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "कामकृते",
+        "te": "కామకృతే",
+        "ro": "kāmakṛte"
+      },
+      "chant": {
+        "sa": "ॐ कामकृते नमः ।",
+        "te": "ఓం కామకృతే నమః ।",
+        "ro": "oṃ kāmakṛte namaḥ ."
       }
     },
     {
@@ -8418,6 +8688,16 @@
         "te_d": "",
         "sa": "श्रीमान् तेजस्वी",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "युगादिकृते",
+        "te": "యుగాదికృతే",
+        "ro": "yugādikṛte"
+      },
+      "chant": {
+        "sa": "ॐ युगादिकृते नमः ।",
+        "te": "ఓం యుగాదికృతే నమః ।",
+        "ro": "oṃ yugādikṛte namaḥ ."
       }
     },
     {
@@ -8437,6 +8717,16 @@
         "te_d": "",
         "sa": "अमेयात्मा",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "युगावर्ताय",
+        "te": "యుగావర్తాయ",
+        "ro": "yugāvartāya"
+      },
+      "chant": {
+        "sa": "ॐ युगावर्ताय नमः ।",
+        "te": "ఓం యుగావర్తాయ నమః ।",
+        "ro": "oṃ yugāvartāya namaḥ ."
       }
     },
     {
@@ -8543,6 +8833,16 @@
         "te_d": "",
         "sa": "सतांगतिः श्रीनिलयः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "व्यक्तरूपाय",
+        "te": "వ్యక్తరూపాయ",
+        "ro": "vyaktarūpāya"
+      },
+      "chant": {
+        "sa": "ॐ व्यक्तरूपाय नमः ।",
+        "te": "ఓం వ్యక్తరూపాయ నమః ।",
+        "ro": "oṃ vyaktarūpāya namaḥ ."
       }
     },
     {
@@ -8562,6 +8862,16 @@
         "te_d": "",
         "sa": "सहस्रजेता",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "सहस्रजिते",
+        "te": "సహస్రజితే",
+        "ro": "sahasrajite"
+      },
+      "chant": {
+        "sa": "ॐ सहस्रजिते नमः ।",
+        "te": "ఓం సహస్రజితే నమః ।",
+        "ro": "oṃ sahasrajite namaḥ ."
       }
     },
     {
@@ -8581,6 +8891,16 @@
         "te_d": "",
         "sa": "अनन्तविजयी",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अनन्तजिते",
+        "te": "అనన్తజితే",
+        "ro": "anantajite"
+      },
+      "chant": {
+        "sa": "ॐ अनन्तजिते नमः ।",
+        "te": "ఓం అనన్తజితే నమః ।",
+        "ro": "oṃ anantajite namaḥ ."
       }
     },
     {
@@ -8768,14 +9088,14 @@
       "name_te": "క్రోధహా",
       "name_ro": "krodhahā",
       "dative": {
-        "sa": "क्रोधहने",
-        "te": "క్రోధహనే",
-        "ro": "krodhahane"
+        "sa": "क्रोधघ्ने",
+        "te": "క్రోధఘ్నే",
+        "ro": "krodhaghne"
       },
       "chant": {
-        "sa": "ॐ क्रोधहने नमः ।",
-        "te": "ఓం క్రోధహనే నమః ।",
-        "ro": "oṃ krodhahane namaḥ ."
+        "sa": "ॐ क्रोधघ्ने नमः ।",
+        "te": "ఓం క్రోధఘ్నే నమః ।",
+        "ro": "oṃ krodhaghne namaḥ ."
       },
       "meaning": {
         "en": "The Eradicator of Anger",
@@ -8797,14 +9117,14 @@
       "name_te": "క్రోధకృత్కర్తా",
       "name_ro": "krodhakṛtkartā",
       "dative": {
-        "sa": "क्रोधकृत्कर्तने",
-        "te": "క్రోధకృత్కర్తనే",
-        "ro": "krodhakṛtkartane"
+        "sa": "क्रोधकृत्कर्त्रे",
+        "te": "క్రోధకృత్కర్త్రే",
+        "ro": "krodhakṛtkartre"
       },
       "chant": {
-        "sa": "ॐ क्रोधकृत्कर्तने नमः ।",
-        "te": "ఓం క్రోధకృత్కర్తనే నమః ।",
-        "ro": "oṃ krodhakṛtkartane namaḥ ."
+        "sa": "ॐ क्रोधकृत्कर्त्रे नमः ।",
+        "te": "ఓం క్రోధకృత్కర్త్రే నమః ।",
+        "ro": "oṃ krodhakṛtkartre namaḥ ."
       },
       "meaning": {
         "en": "The Destroyer of Evil Intent",
@@ -9035,6 +9355,16 @@
         "te_d": "",
         "sa": "संविधाता",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अपाम् निधये",
+        "te": "అపామ్ నిధయే",
+        "ro": "apām nidhaye"
+      },
+      "chant": {
+        "sa": "ॐ अपाम् निधये नमः ।",
+        "te": "ఓం అపామ్ నిధయే నమః ।",
+        "ro": "oṃ apām nidhaye namaḥ ."
       }
     },
     {
@@ -9054,6 +9384,16 @@
         "te_d": "",
         "sa": "धर्माधिष्ठानम्",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अधिष्ठानाय",
+        "te": "అధిష్ఠానాయ",
+        "ro": "adhiṣṭhānāya"
+      },
+      "chant": {
+        "sa": "ॐ अधिष्ठानाय नमः ।",
+        "te": "ఓం అధిష్ఠానాయ నమః ।",
+        "ro": "oṃ adhiṣṭhānāya namaḥ ."
       }
     },
     {
@@ -9392,6 +9732,16 @@
         "te_d": "",
         "sa": "अनिमिषः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अशोकाय",
+        "te": "అశోకాయ",
+        "ro": "aśokāya"
+      },
+      "chant": {
+        "sa": "ॐ अशोकाय नमः ।",
+        "te": "ఓం అశోకాయ నమః ।",
+        "ro": "oṃ aśokāya namaḥ ."
       }
     },
     {
@@ -9411,6 +9761,16 @@
         "te_d": "",
         "sa": "स्रग्वी",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "तारणाय",
+        "te": "తారణాయ",
+        "ro": "tāraṇāya"
+      },
+      "chant": {
+        "sa": "ॐ तारणाय नमः ।",
+        "te": "ఓం తారణాయ నమః ।",
+        "ro": "oṃ tāraṇāya namaḥ ."
       }
     },
     {
@@ -9430,6 +9790,16 @@
         "te_d": "",
         "sa": "वाचस्पतिः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "ताराय",
+        "te": "తారాయ",
+        "ro": "tārāya"
+      },
+      "chant": {
+        "sa": "ॐ ताराय नमः ।",
+        "te": "ఓం తారాయ నమః ।",
+        "ro": "oṃ tārāya namaḥ ."
       }
     },
     {
@@ -9768,6 +10138,16 @@
         "te_d": "",
         "sa": "सहस्रपादः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "महर्धये",
+        "te": "మహర్ధయే",
+        "ro": "mahardhaye"
+      },
+      "chant": {
+        "sa": "ॐ महर्धये नमः ।",
+        "te": "ఓం మహర్ధయే నమః ।",
+        "ro": "oṃ mahardhaye namaḥ ."
       }
     },
     {
@@ -10019,6 +10399,16 @@
         "te_d": "",
         "sa": "विचित्रस्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "हविर्हरये",
+        "te": "హవిర్హరయే",
+        "ro": "havirharaye"
+      },
+      "chant": {
+        "sa": "ॐ हविर्हरये नमः ।",
+        "te": "ఓం హవిర్హరయే నమః ।",
+        "ro": "oṃ havirharaye namaḥ ."
       }
     },
     {
@@ -10061,14 +10451,14 @@
       "name_te": "లక్ష్మీవాన్",
       "name_ro": "lakṣmīvān",
       "dative": {
-        "sa": "लक्ष्मीवाने",
-        "te": "లక్ష్మీవానే",
-        "ro": "lakṣmīvāne"
+        "sa": "लक्ष्मीवते",
+        "te": "లక్ష్మీవతే",
+        "ro": "lakṣmīvate"
       },
       "chant": {
-        "sa": "ॐ लक्ष्मीवाने नमः ।",
-        "te": "ఓం లక్ష్మీవానే నమః ।",
-        "ro": "oṃ lakṣmīvāne namaḥ ."
+        "sa": "ॐ लक्ष्मीवते नमः ।",
+        "te": "ఓం లక్ష్మీవతే నమః ।",
+        "ro": "oṃ lakṣmīvate namaḥ ."
       },
       "meaning": {
         "en": "The Abode of Lakshmi",
@@ -10241,6 +10631,16 @@
         "te_d": "",
         "sa": "आत्मवश्यः भक्तानुग्राही",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "दामोदराय",
+        "te": "దామోదరాయ",
+        "ro": "dāmodarāya"
+      },
+      "chant": {
+        "sa": "ॐ दामोदराय नमः ।",
+        "te": "ఓం దామోదరాయ నమః ।",
+        "ro": "oṃ dāmodarāya namaḥ ."
       }
     },
     {
@@ -10347,6 +10747,16 @@
         "te_d": "",
         "sa": "सत्कीर्तिः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "वेगवते",
+        "te": "వేగవతే",
+        "ro": "vegavate"
+      },
+      "chant": {
+        "sa": "ॐ वेगवते नमः ।",
+        "te": "ఓం వేగవతే నమః ।",
+        "ro": "oṃ vegavate namaḥ ."
       }
     },
     {
@@ -10366,6 +10776,16 @@
         "te_d": "",
         "sa": "छिन्नसंशयः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अमिताशनाय",
+        "te": "అమితాశనాయ",
+        "ro": "amitāśanāya"
+      },
+      "chant": {
+        "sa": "ॐ अमिताशनाय नमः ।",
+        "te": "ఓం అమితాశనాయ నమః ।",
+        "ro": "oṃ amitāśanāya namaḥ ."
       }
     },
     {
@@ -10582,14 +11002,14 @@
       "name_te": "కర్తా",
       "name_ro": "kartā",
       "dative": {
-        "sa": "कर्तने",
-        "te": "కర్తనే",
-        "ro": "kartane"
+        "sa": "कर्त्रे",
+        "te": "కర్త్రే",
+        "ro": "kartre"
       },
       "chant": {
-        "sa": "ॐ कर्तने नमः ।",
-        "te": "ఓం కర్తనే నమః ।",
-        "ro": "oṃ kartane namaḥ ."
+        "sa": "ॐ कर्त्रे नमः ।",
+        "te": "ఓం కర్త్రే నమః ।",
+        "ro": "oṃ kartre namaḥ ."
       },
       "meaning": {
         "en": "The Independent Agent",
@@ -10611,14 +11031,14 @@
       "name_te": "వికర్తా",
       "name_ro": "vikartā",
       "dative": {
-        "sa": "विकर्तने",
-        "te": "వికర్తనే",
-        "ro": "vikartane"
+        "sa": "विकर्त्रे",
+        "te": "వికర్త్రే",
+        "ro": "vikartre"
       },
       "chant": {
-        "sa": "ॐ विकर्तने नमः ।",
-        "te": "ఓం వికర్తనే నమః ।",
-        "ro": "oṃ vikartane namaḥ ."
+        "sa": "ॐ विकर्त्रे नमः ।",
+        "te": "ఓం వికర్త్రే నమః ।",
+        "ro": "oṃ vikartre namaḥ ."
       },
       "meaning": {
         "en": "The Designer of Variety",
@@ -10756,14 +11176,14 @@
       "name_te": "సంస్థానః",
       "name_ro": "saṃsthānaḥ",
       "dative": {
-        "sa": "संस्थानाय",
-        "te": "సంస్థానాయ",
-        "ro": "saṃsthānāya"
+        "sa": "सम्स्थानाय",
+        "te": "సమ్స్థానాయ",
+        "ro": "samsthānāya"
       },
       "chant": {
-        "sa": "ॐ संस्थानाय नमः ।",
-        "te": "ఓం సంస్థానాయ నమః ।",
-        "ro": "oṃ saṃsthānāya namaḥ ."
+        "sa": "ॐ सम्स्थानाय नमः ।",
+        "te": "ఓం సమ్స్థానాయ నమః ।",
+        "ro": "oṃ samsthānāya namaḥ ."
       },
       "meaning": {
         "en": "The Ultimate Rest",
@@ -10843,14 +11263,14 @@
       "name_te": "పరర్ద్ధిః",
       "name_ro": "pararddhiḥ",
       "dative": {
-        "sa": "परर्द्धये",
-        "te": "పరర్ద్ధయే",
-        "ro": "pararddhaye"
+        "sa": "परार्धये",
+        "te": "పరార్ధయే",
+        "ro": "parārdhaye"
       },
       "chant": {
-        "sa": "ॐ परर्द्धये नमः ।",
-        "te": "ఓం పరర్ద్ధయే నమః ।",
-        "ro": "oṃ pararddhaye namaḥ ."
+        "sa": "ॐ परार्धये नमः ।",
+        "te": "ఓం పరార్ధయే నమః ।",
+        "ro": "oṃ parārdhaye namaḥ ."
       },
       "meaning": {
         "en": "The Pinnacle of Wealth",
@@ -11220,14 +11640,14 @@
       "name_te": "శక్తిమతాం శ్రేష్ఠః",
       "name_ro": "śaktimatāṃ śreṣṭhaḥ",
       "dative": {
-        "sa": "शक्तिमताय",
-        "te": "శక్తిమతాయ",
-        "ro": "śaktimatāya"
+        "sa": "शक्तिमताम् श्रेष्ठाय",
+        "te": "శక్తిమతామ్ శ్రేష్ఠాయ",
+        "ro": "śaktimatām śreṣṭhāya"
       },
       "chant": {
-        "sa": "ॐ शक्तिमताय नमः ।",
-        "te": "ఓం శక్తిమతాయ నమః ।",
-        "ro": "oṃ śaktimatāya namaḥ ."
+        "sa": "ॐ शक्तिमताम् श्रेष्ठाय नमः ।",
+        "te": "ఓం శక్తిమతామ్ శ్రేష్ఠాయ నమః ।",
+        "ro": "oṃ śaktimatām śreṣṭhāya namaḥ ."
       },
       "meaning": {
         "en": "The Most Powerful",
@@ -11574,6 +11994,16 @@
         "te_d": "",
         "sa": "ब्रह्मवर्धकः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "वायवे",
+        "te": "వాయవే",
+        "ro": "vāyave"
+      },
+      "chant": {
+        "sa": "ॐ वायवे नमः ।",
+        "te": "ఓం వాయవే నమః ।",
+        "ro": "oṃ vāyave namaḥ ."
       }
     },
     {
@@ -11593,6 +12023,16 @@
         "te_d": "",
         "sa": "ब्रह्मज्ञः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अधोक्षजाय",
+        "te": "అధోక్షజాయ",
+        "ro": "adhokṣajāya"
+      },
+      "chant": {
+        "sa": "ॐ अधोक्षजाय नमः ।",
+        "te": "ఓం అధోక్షజాయ నమః ।",
+        "ro": "oṃ adhokṣajāya namaḥ ."
       }
     },
     {
@@ -11780,14 +12220,14 @@
       "name_te": "సంవత్సరః",
       "name_ro": "saṃvatsaraḥ",
       "dative": {
-        "sa": "संवत्सराय",
-        "te": "సంవత్సరాయ",
-        "ro": "saṃvatsarāya"
+        "sa": "सम्वत्सराय",
+        "te": "సమ్వత్సరాయ",
+        "ro": "samvatsarāya"
       },
       "chant": {
-        "sa": "ॐ संवत्सराय नमः ।",
-        "te": "ఓం సంవత్సరాయ నమః ।",
-        "ro": "oṃ saṃvatsarāya namaḥ ."
+        "sa": "ॐ सम्वत्सराय नमः ।",
+        "te": "ఓం సమ్వత్సరాయ నమః ।",
+        "ro": "oṃ samvatsarāya namaḥ ."
       },
       "meaning": {
         "en": "The Wheel of Residence",
@@ -11931,6 +12371,16 @@
         "te_d": "",
         "sa": "महाहविः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "स्थावरस्थाणवे",
+        "te": "స్థావరస్థాణవే",
+        "ro": "sthāvarasthāṇave"
+      },
+      "chant": {
+        "sa": "ॐ स्थावरस्थाणवे नमः ।",
+        "te": "ఓం స్థావరస్థాణవే నమః ।",
+        "ro": "oṃ sthāvarasthāṇave namaḥ ."
       }
     },
     {
@@ -11973,14 +12423,14 @@
       "name_te": "బీజమవ్యయమ్",
       "name_ro": "bījamavyayam",
       "dative": {
-        "sa": "बीजमव्ययमे",
-        "te": "బీజమవ్యయమే",
-        "ro": "bījamavyayame"
+        "sa": "बीजमव्ययाय",
+        "te": "బీజమవ్యయాయ",
+        "ro": "bījamavyayāya"
       },
       "chant": {
-        "sa": "ॐ बीजमव्ययमे नमः ।",
-        "te": "ఓం బీజమవ్యయమే నమః ।",
-        "ro": "oṃ bījamavyayame namaḥ ."
+        "sa": "ॐ बीजमव्ययाय नमः ।",
+        "te": "ఓం బీజమవ్యయాయ నమః ।",
+        "ro": "oṃ bījamavyayāya namaḥ ."
       },
       "meaning": {
         "en": "The Exhaustless Seed",
@@ -12205,14 +12655,14 @@
       "name_te": "అభూః",
       "name_ro": "abhūḥ",
       "dative": {
-        "sa": "अभवे",
-        "te": "అభవే",
-        "ro": "abhave"
+        "sa": "अभुवे",
+        "te": "అభువే",
+        "ro": "abhuve"
       },
       "chant": {
-        "sa": "ॐ अभवे नमः ।",
-        "te": "ఓం అభవే నమః ।",
-        "ro": "oṃ abhave namaḥ ."
+        "sa": "ॐ अभुवे नमः ।",
+        "te": "ఓం అభువే నమః ।",
+        "ro": "oṃ abhuve namaḥ ."
       },
       "meaning": {
         "en": "Of holy fame",
@@ -12321,14 +12771,14 @@
       "name_te": "నక్షత్రీ",
       "name_ro": "nakṣatrī",
       "dative": {
-        "sa": "नक्षत्रिने",
-        "te": "నక్షత్రినే",
-        "ro": "nakṣatrine"
+        "sa": "नक्षत्रिणे",
+        "te": "నక్షత్రిణే",
+        "ro": "nakṣatriṇe"
       },
       "chant": {
-        "sa": "ॐ नक्षत्रिने नमः ।",
-        "te": "ఓం నక్షత్రినే నమః ।",
-        "ro": "oṃ nakṣatrine namaḥ ."
+        "sa": "ॐ नक्षत्रिणे नमः ।",
+        "te": "ఓం నక్షత్రిణే నమః ।",
+        "ro": "oṃ nakṣatriṇe namaḥ ."
       },
       "meaning": {
         "en": "Whose seed is gold",
@@ -12501,6 +12951,16 @@
         "te_d": "",
         "sa": "महायज्ञः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "महेज्याय",
+        "te": "మహేజ్యాయ",
+        "ro": "mahejyāya"
+      },
+      "chant": {
+        "sa": "ॐ महेज्याय नमः ।",
+        "te": "ఓం మహేజ్యాయ నమః ।",
+        "ro": "oṃ mahejyāya namaḥ ."
       }
     },
     {
@@ -12572,14 +13032,14 @@
       "name_te": "సతాం గతిః",
       "name_ro": "satāṃ gatiḥ",
       "dative": {
-        "sa": "सताय",
-        "te": "సతాయ",
-        "ro": "satāya"
+        "sa": "सताङ्गतये",
+        "te": "సతాఙ్గతయే",
+        "ro": "satāṅgataye"
       },
       "chant": {
-        "sa": "ॐ सताय नमः ।",
-        "te": "ఓం సతాయ నమః ।",
-        "ro": "oṃ satāya namaḥ ."
+        "sa": "ॐ सताङ्गतये नमः ।",
+        "te": "ఓం సతాఙ్గతయే నమః ।",
+        "ro": "oṃ satāṅgataye namaḥ ."
       },
       "meaning": {
         "en": "The Path of the Holy",
@@ -12688,14 +13148,14 @@
       "name_te": "జ్ఞానముత్తమమ్",
       "name_ro": "jñānamuttamam",
       "dative": {
-        "sa": "ज्ञानमुत्तममे",
-        "te": "జ్ఞానముత్తమమే",
-        "ro": "jñānamuttamame"
+        "sa": "ज्ञानमुत्तमाय",
+        "te": "జ్ఞానముత్తమాయ",
+        "ro": "jñānamuttamāya"
       },
       "chant": {
-        "sa": "ॐ ज्ञानमुत्तममे नमः ।",
-        "te": "ఓం జ్ఞానముత్తమమే నమః ।",
-        "ro": "oṃ jñānamuttamame namaḥ ."
+        "sa": "ॐ ज्ञानमुत्तमाय नमः ।",
+        "te": "ఓం జ్ఞానముత్తమాయ నమః ।",
+        "ro": "oṃ jñānamuttamāya namaḥ ."
       },
       "meaning": {
         "en": "The Supreme Knowledge",
@@ -12862,14 +13322,14 @@
       "name_te": "సుహృత్",
       "name_ro": "suhṛt",
       "dative": {
-        "sa": "सुहृते",
-        "te": "సుహృతే",
-        "ro": "suhṛte"
+        "sa": "सुहृदे",
+        "te": "సుహృదే",
+        "ro": "suhṛde"
       },
       "chant": {
-        "sa": "ॐ सुहृते नमः ।",
-        "te": "ఓం సుహృతే నమః ।",
-        "ro": "oṃ suhṛte namaḥ ."
+        "sa": "ॐ सुहृदे नमः ।",
+        "te": "ఓం సుహృదే నమః ।",
+        "ro": "oṃ suhṛde namaḥ ."
       },
       "meaning": {
         "en": "The Unconditional Friend",
@@ -13303,6 +13763,16 @@
         "te_d": "",
         "sa": "धर्मरक्षकः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "धर्मगुपे",
+        "te": "ధర్మగుపే",
+        "ro": "dharmagupe"
+      },
+      "chant": {
+        "sa": "ॐ धर्मगुपे नमः ।",
+        "te": "ఓం ధర్మగుపే నమః ।",
+        "ro": "oṃ dharmagupe namaḥ ."
       }
     },
     {
@@ -13322,6 +13792,16 @@
         "te_d": "",
         "sa": "धर्मप्रवर्तकः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "धर्मकृते",
+        "te": "ధర్మకృతే",
+        "ro": "dharmakṛte"
+      },
+      "chant": {
+        "sa": "ॐ धर्मकृते नमः ।",
+        "te": "ఓం ధర్మకృతే నమః ।",
+        "ro": "oṃ dharmakṛte namaḥ ."
       }
     },
     {
@@ -13341,6 +13821,16 @@
         "te_d": "",
         "sa": "धर्मस्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "धर्मिणे",
+        "te": "ధర్మిణే",
+        "ro": "dharmiṇe"
+      },
+      "chant": {
+        "sa": "ॐ धर्मिणे नमः ।",
+        "te": "ఓం ధర్మిణే నమః ।",
+        "ro": "oṃ dharmiṇe namaḥ ."
       }
     },
     {
@@ -13360,6 +13850,16 @@
         "te_d": "",
         "sa": "सत्स्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "सते",
+        "te": "సతే",
+        "ro": "sate"
+      },
+      "chant": {
+        "sa": "ॐ सते नमः ।",
+        "te": "ఓం సతే నమః ।",
+        "ro": "oṃ sate namaḥ ."
       }
     },
     {
@@ -13379,6 +13879,16 @@
         "te_d": "",
         "sa": "असत्परः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "असते",
+        "te": "అసతే",
+        "ro": "asate"
+      },
+      "chant": {
+        "sa": "ॐ असते नमः ।",
+        "te": "ఓం అసతే నమః ।",
+        "ro": "oṃ asate namaḥ ."
       }
     },
     {
@@ -13398,6 +13908,16 @@
         "te_d": "",
         "sa": "क्षरस्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "क्षराय",
+        "te": "క్షరాయ",
+        "ro": "kṣarāya"
+      },
+      "chant": {
+        "sa": "ॐ क्षराय नमः ।",
+        "te": "ఓం క్షరాయ నమః ।",
+        "ro": "oṃ kṣarāya namaḥ ."
       }
     },
     {
@@ -13440,14 +13960,14 @@
       "name_te": "అవిజ్ఞాతా",
       "name_ro": "avijñātā",
       "dative": {
-        "sa": "अविज्ञातने",
-        "te": "అవిజ్ఞాతనే",
-        "ro": "avijñātane"
+        "sa": "अविज्ञात्रे",
+        "te": "అవిజ్ఞాత్రే",
+        "ro": "avijñātre"
       },
       "chant": {
-        "sa": "ॐ अविज्ञातने नमः ।",
-        "te": "ఓం అవిజ్ఞాతనే నమః ।",
-        "ro": "oṃ avijñātane namaḥ ."
+        "sa": "ॐ अविज्ञात्रे नमः ।",
+        "te": "ఓం అవిజ్ఞాత్రే నమః ।",
+        "ro": "oṃ avijñātre namaḥ ."
       },
       "meaning": {
         "en": "The Free Observer",
@@ -13469,14 +13989,14 @@
       "name_te": "సహస్రాంశుః",
       "name_ro": "sahasrāṃśuḥ",
       "dative": {
-        "sa": "सहस्रांशवे",
-        "te": "సహస్రాంశవే",
-        "ro": "sahasrāṃśave"
+        "sa": "सहस्राम्शवे",
+        "te": "సహస్రామ్శవే",
+        "ro": "sahasrāmśave"
       },
       "chant": {
-        "sa": "ॐ सहस्रांशवे नमः ।",
-        "te": "ఓం సహస్రాంశవే నమః ।",
-        "ro": "oṃ sahasrāṃśave namaḥ ."
+        "sa": "ॐ सहस्राम्शवे नमः ।",
+        "te": "ఓం సహస్రామ్శవే నమః ।",
+        "ro": "oṃ sahasrāmśave namaḥ ."
       },
       "meaning": {
         "en": "The Infinite-Rayed Sun",
@@ -13498,14 +14018,14 @@
       "name_te": "విధాతా",
       "name_ro": "vidhātā",
       "dative": {
-        "sa": "विधातने",
-        "te": "విధాతనే",
-        "ro": "vidhātane"
+        "sa": "विधात्रे",
+        "te": "విధాత్రే",
+        "ro": "vidhātre"
       },
       "chant": {
-        "sa": "ॐ विधातने नमः ।",
-        "te": "ఓం విధాతనే నమః ।",
-        "ro": "oṃ vidhātane namaḥ ."
+        "sa": "ॐ विधात्रे नमः ।",
+        "te": "ఓం విధాత్రే నమః ।",
+        "ro": "oṃ vidhātre namaḥ ."
       },
       "meaning": {
         "en": "The Ultimate Base",
@@ -13614,14 +14134,14 @@
       "name_te": "సింహః",
       "name_ro": "siṃhaḥ",
       "dative": {
-        "sa": "सिंहाय",
-        "te": "సింహాయ",
-        "ro": "siṃhāya"
+        "sa": "सिम्हाय",
+        "te": "సిమ్హాయ",
+        "ro": "simhāya"
       },
       "chant": {
-        "sa": "ॐ सिंहाय नमः ।",
-        "te": "ఓం సింహాయ నమః ।",
-        "ro": "oṃ siṃhāya namaḥ ."
+        "sa": "ॐ सिम्हाय नमः ।",
+        "te": "ఓం సిమ్హాయ నమః ।",
+        "ro": "oṃ simhāya namaḥ ."
       },
       "meaning": {
         "en": "The Mighty Sovereign",
@@ -13846,14 +14366,14 @@
       "name_te": "గోప్తా",
       "name_ro": "goptā",
       "dative": {
-        "sa": "गोप्तने",
-        "te": "గోప్తనే",
-        "ro": "goptane"
+        "sa": "गोप्त्रे",
+        "te": "గోప్త్రే",
+        "ro": "goptre"
       },
       "chant": {
-        "sa": "ॐ गोप्तने नमः ।",
-        "te": "ఓం గోప్తనే నమః ।",
-        "ro": "oṃ goptane namaḥ ."
+        "sa": "ॐ गोप्त्रे नमः ।",
+        "te": "ఓం గోప్త్రే నమః ।",
+        "ro": "oṃ goptre namaḥ ."
       },
       "meaning": {
         "en": "The Protective Veil",
@@ -13939,6 +14459,16 @@
         "te_d": "",
         "sa": "त्रिलोकधारकः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "शरीरभूतभृते",
+        "te": "శరీరభూతభృతే",
+        "ro": "śarīrabhūtabhṛte"
+      },
+      "chant": {
+        "sa": "ॐ शरीरभूतभृते नमः ।",
+        "te": "ఓం శరీరభూతభృతే నమః ।",
+        "ro": "oṃ śarīrabhūtabhṛte namaḥ ."
       }
     },
     {
@@ -13952,14 +14482,14 @@
       "name_te": "భోక్తా",
       "name_ro": "bhoktā",
       "dative": {
-        "sa": "भोक्तने",
-        "te": "భోక్తనే",
-        "ro": "bhoktane"
+        "sa": "भोक्त्रे",
+        "te": "భోక్త్రే",
+        "ro": "bhoktre"
       },
       "chant": {
-        "sa": "ॐ भोक्तने नमः ।",
-        "te": "ఓం భోక్తనే నమః ।",
-        "ro": "oṃ bhoktane namaḥ ."
+        "sa": "ॐ भोक्त्रे नमः ।",
+        "te": "ఓం భోక్త్రే నమః ।",
+        "ro": "oṃ bhoktre namaḥ ."
       },
       "meaning": {
         "en": "The Supreme Consumer",
@@ -14132,6 +14662,16 @@
         "te_d": "",
         "sa": "पुरुहूतः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "पुरुजिते",
+        "te": "పురుజితే",
+        "ro": "purujite"
+      },
+      "chant": {
+        "sa": "ॐ पुरुजिते नमः ।",
+        "te": "ఓం పురుజితే నమః ।",
+        "ro": "oṃ purujite namaḥ ."
       }
     },
     {
@@ -14151,6 +14691,16 @@
         "te_d": "",
         "sa": "पुरुसत्तमः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "पुरुसत्तमाय",
+        "te": "పురుసత్తమాయ",
+        "ro": "purusattamāya"
+      },
+      "chant": {
+        "sa": "ॐ पुरुसत्तमाय नमः ।",
+        "te": "ఓం పురుసత్తమాయ నమః ।",
+        "ro": "oṃ purusattamāya namaḥ ."
       }
     },
     {
@@ -14286,6 +14836,16 @@
         "te_d": "",
         "sa": "सात्वतपतिः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "सात्वताम् पतये",
+        "te": "సాత్వతామ్ పతయే",
+        "ro": "sātvatām pataye"
+      },
+      "chant": {
+        "sa": "ॐ सात्वताम् पतये नमः ।",
+        "te": "ఓం సాత్వతామ్ పతయే నమః ।",
+        "ro": "oṃ sātvatām pataye namaḥ ."
       }
     },
     {
@@ -14328,14 +14888,14 @@
       "name_te": "వినయితా సాక్షీ",
       "name_ro": "vinayitā sākṣī",
       "dative": {
-        "sa": "विनयितने",
-        "te": "వినయితనే",
-        "ro": "vinayitane"
+        "sa": "विनयितासाक्षिणे",
+        "te": "వినయితాసాక్షిణే",
+        "ro": "vinayitāsākṣiṇe"
       },
       "chant": {
-        "sa": "ॐ विनयितने नमः ।",
-        "te": "ఓం వినయితనే నమః ।",
-        "ro": "oṃ vinayitane namaḥ ."
+        "sa": "ॐ विनयितासाक्षिणे नमः ।",
+        "te": "ఓం వినయితాసాక్షిణే నమః ।",
+        "ro": "oṃ vinayitāsākṣiṇe namaḥ ."
       },
       "meaning": {
         "en": "The Witness of Humility",
@@ -14421,6 +14981,16 @@
         "te_d": "",
         "sa": "अम्भोधिशयनः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अम्भोनिधये",
+        "te": "అమ్భోనిధయే",
+        "ro": "ambhonidhaye"
+      },
+      "chant": {
+        "sa": "ॐ अम्भोनिधये नमः ।",
+        "te": "ఓం అమ్భోనిధయే నమః ।",
+        "ro": "oṃ ambhonidhaye namaḥ ."
       }
     },
     {
@@ -14440,6 +15010,16 @@
         "te_d": "",
         "sa": "अनन्तात्मा",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अनन्तात्मने",
+        "te": "అనన్తాత్మనే",
+        "ro": "anantātmane"
+      },
+      "chant": {
+        "sa": "ॐ अनन्तात्मने नमः ।",
+        "te": "ఓం అనన్తాత్మనే నమః ।",
+        "ro": "oṃ anantātmane namaḥ ."
       }
     },
     {
@@ -14743,14 +15323,14 @@
       "name_te": "సత్యధర్మా",
       "name_ro": "satyadharmā",
       "dative": {
-        "sa": "सत्यधर्मने",
-        "te": "సత్యధర్మనే",
-        "ro": "satyadharmane"
+        "sa": "सत्यधर्माय",
+        "te": "సత్యధర్మాయ",
+        "ro": "satyadharmāya"
       },
       "chant": {
-        "sa": "ॐ सत्यधर्मने नमः ।",
-        "te": "ఓం సత్యధర్మనే నమః ।",
-        "ro": "oṃ satyadharmane namaḥ ."
+        "sa": "ॐ सत्यधर्माय नमः ।",
+        "te": "ఓం సత్యధర్మాయ నమః ।",
+        "ro": "oṃ satyadharmāya namaḥ ."
       },
       "meaning": {
         "en": "The Authentic Law",
@@ -14801,14 +15381,14 @@
       "name_te": "మహర్షిః కపిలాచార్యః",
       "name_ro": "maharṣiḥ kapilācāryaḥ",
       "dative": {
-        "sa": "महर्षये",
-        "te": "మహర్షయే",
-        "ro": "maharṣaye"
+        "sa": "महर्षयेकपिलाचार्याय",
+        "te": "మహర్షయేకపిలాచార్యాయ",
+        "ro": "maharṣayekapilācāryāya"
       },
       "chant": {
-        "sa": "ॐ महर्षये नमः ।",
-        "te": "ఓం మహర్షయే నమః ।",
-        "ro": "oṃ maharṣaye namaḥ ."
+        "sa": "ॐ महर्षयेकपिलाचार्याय नमः ।",
+        "te": "ఓం మహర్షయేకపిలాచార్యాయ నమః ।",
+        "ro": "oṃ maharṣayekapilācāryāya namaḥ ."
       },
       "meaning": {
         "en": "The Sage Kapila",
@@ -14894,6 +15474,16 @@
         "te_d": "",
         "sa": "सूक्ष्मतन्तुः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "त्रिपदाय",
+        "te": "త్రిపదాయ",
+        "ro": "tripadāya"
+      },
+      "chant": {
+        "sa": "ॐ त्रिपदाय नमः ।",
+        "te": "ఓం త్రిపదాయ నమః ।",
+        "ro": "oṃ tripadāya namaḥ ."
       }
     },
     {
@@ -14913,6 +15503,16 @@
         "te_d": "",
         "sa": "सृष्टिवर्धकः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "त्रिदशाध्यक्षाय",
+        "te": "త్రిదశాధ్యక్షాయ",
+        "ro": "tridaśādhyakṣāya"
+      },
+      "chant": {
+        "sa": "ॐ त्रिदशाध्यक्षाय नमः ।",
+        "te": "ఓం త్రిదశాధ్యక్షాయ నమః ।",
+        "ro": "oṃ tridaśādhyakṣāya namaḥ ."
       }
     },
     {
@@ -15193,6 +15793,16 @@
         "te_d": "",
         "sa": "भास्करसमः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "गुप्ताय",
+        "te": "గుప్తాయ",
+        "ro": "guptāya"
+      },
+      "chant": {
+        "sa": "ॐ गुप्ताय नमः ।",
+        "te": "ఓం గుప్తాయ నమః ।",
+        "ro": "oṃ guptāya namaḥ ."
       }
     },
     {
@@ -15212,6 +15822,16 @@
         "te_d": "",
         "sa": "चक्रगदाधारी",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "चक्रगदाधराय",
+        "te": "చక్రగదాధరాయ",
+        "ro": "cakragadādharāya"
+      },
+      "chant": {
+        "sa": "ॐ चक्रगदाधराय नमः ।",
+        "te": "ఓం చక్రగదాధరాయ నమః ।",
+        "ro": "oṃ cakragadādharāya namaḥ ."
       }
     },
     {
@@ -15225,14 +15845,14 @@
       "name_te": "వేధాః",
       "name_ro": "vedhāḥ",
       "dative": {
-        "sa": "वेधायै",
-        "te": "వేధాయై",
-        "ro": "vedhāyai"
+        "sa": "वेधसे",
+        "te": "వేధసే",
+        "ro": "vedhase"
       },
       "chant": {
-        "sa": "ॐ वेधायै नमः ।",
-        "te": "ఓం వేధాయై నమః ।",
-        "ro": "oṃ vedhāyai namaḥ ."
+        "sa": "ॐ वेधसे नमः ।",
+        "te": "ఓం వేధసే నమః ।",
+        "ro": "oṃ vedhase namaḥ ."
       },
       "meaning": {
         "en": "Horned (Matsya, Varaha)",
@@ -15376,6 +15996,16 @@
         "te_d": "",
         "sa": "संकर्षणाच्युतः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "सङ्कर्षणायाच्युताय",
+        "te": "సఙ్కర్షణాయాచ్యుతాయ",
+        "ro": "saṅkarṣaṇāyācyutāya"
+      },
+      "chant": {
+        "sa": "ॐ सङ्कर्षणायाच्युताय नमः ।",
+        "te": "ఓం సఙ్కర్షణాయాచ్యుతాయ నమః ।",
+        "ro": "oṃ saṅkarṣaṇāyācyutāya namaḥ ."
       }
     },
     {
@@ -15505,14 +16135,14 @@
       "name_te": "మహామనాః",
       "name_ro": "mahāmanāḥ",
       "dative": {
-        "sa": "महामनायै",
-        "te": "మహామనాయై",
-        "ro": "mahāmanāyai"
+        "sa": "महामनसे",
+        "te": "మహామనసే",
+        "ro": "mahāmanase"
       },
       "chant": {
-        "sa": "ॐ महामनायै नमः ।",
-        "te": "ఓం మహామనాయై నమః ।",
-        "ro": "oṃ mahāmanāyai namaḥ ."
+        "sa": "ॐ महामनसे नमः ।",
+        "te": "ఓం మహామనసే నమః ।",
+        "ro": "oṃ mahāmanase namaḥ ."
       },
       "meaning": {
         "en": "The Vast Mind",
@@ -15534,14 +16164,14 @@
       "name_te": "భగవాన్",
       "name_ro": "bhagavān",
       "dative": {
-        "sa": "भगवाने",
-        "te": "భగవానే",
-        "ro": "bhagavāne"
+        "sa": "भगवते",
+        "te": "భగవతే",
+        "ro": "bhagavate"
       },
       "chant": {
-        "sa": "ॐ भगवाने नमः ।",
-        "te": "ఓం భగవానే నమః ।",
-        "ro": "oṃ bhagavāne namaḥ ."
+        "sa": "ॐ भगवते नमः ।",
+        "te": "ఓం భగవతే నమః ।",
+        "ro": "oṃ bhagavate namaḥ ."
       },
       "meaning": {
         "en": "The Absolute Omniscient",
@@ -15569,6 +16199,16 @@
         "te_d": "",
         "sa": "पुण्यप्रभः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "भगघ्ने",
+        "te": "భగఘ్నే",
+        "ro": "bhagaghne"
+      },
+      "chant": {
+        "sa": "ॐ भगघ्ने नमः ।",
+        "te": "ఓం భగఘ్నే నమః ।",
+        "ro": "oṃ bhagaghne namaḥ ."
       }
     },
     {
@@ -15588,6 +16228,16 @@
         "te_d": "",
         "sa": "आनन्दस्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "आनन्दिने",
+        "te": "ఆనన్దినే",
+        "ro": "ānandine"
+      },
+      "chant": {
+        "sa": "ॐ आनन्दिने नमः ।",
+        "te": "ఓం ఆనన్దినే నమః ।",
+        "ro": "oṃ ānandine namaḥ ."
       }
     },
     {
@@ -15891,14 +16541,14 @@
       "name_te": "దివస్పృక్",
       "name_ro": "divaspṛk",
       "dative": {
-        "sa": "दिवस्पृके",
-        "te": "దివస్పృకే",
-        "ro": "divaspṛke"
+        "sa": "दिवस्पृशे",
+        "te": "దివస్పృశే",
+        "ro": "divaspṛśe"
       },
       "chant": {
-        "sa": "ॐ दिवस्पृके नमः ।",
-        "te": "ఓం దివస్పృకే నమః ।",
-        "ro": "oṃ divaspṛke namaḥ ."
+        "sa": "ॐ दिवस्पृशे नमः ।",
+        "te": "ఓం దివస్పృశే నమః ।",
+        "ro": "oṃ divaspṛśe namaḥ ."
       },
       "meaning": {
         "en": "The Heaven Toucher",
@@ -15949,14 +16599,14 @@
       "name_te": "వాచస్పతిరయోనిజః",
       "name_ro": "vācaspatirayonijaḥ",
       "dative": {
-        "sa": "वाचस्पतिरयोनिजाय",
-        "te": "వాచస్పతిరయోనిజాయ",
-        "ro": "vācaspatirayonijāya"
+        "sa": "वाचस्पतये अयोनिजाय",
+        "te": "వాచస్పతయే అయోనిజాయ",
+        "ro": "vācaspataye ayonijāya"
       },
       "chant": {
-        "sa": "ॐ वाचस्पतिरयोनिजाय नमः ।",
-        "te": "ఓం వాచస్పతిరయోనిజాయ నమః ।",
-        "ro": "oṃ vācaspatirayonijāya namaḥ ."
+        "sa": "ॐ वाचस्पतये अयोनिजाय नमः ।",
+        "te": "ఓం వాచస్పతయే అయోనిజాయ నమః ।",
+        "ro": "oṃ vācaspataye ayonijāya namaḥ ."
       },
       "meaning": {
         "en": "The Lord of Learning",
@@ -15978,14 +16628,14 @@
       "name_te": "త్రిసామా",
       "name_ro": "trisāmā",
       "dative": {
-        "sa": "त्रिसामने",
-        "te": "త్రిసామనే",
-        "ro": "trisāmane"
+        "sa": "त्रिसाम्ने",
+        "te": "త్రిసామ్నే",
+        "ro": "trisāmne"
       },
       "chant": {
-        "sa": "ॐ त्रिसामने नमः ।",
-        "te": "ఓం త్రిసామనే నమః ।",
-        "ro": "oṃ trisāmane namaḥ ."
+        "sa": "ॐ त्रिसाम्ने नमः ।",
+        "te": "ఓం త్రిసామ్నే నమః ।",
+        "ro": "oṃ trisāmne namaḥ ."
       },
       "meaning": {
         "en": "Praised by Three Chants",
@@ -16036,14 +16686,14 @@
       "name_te": "సామ",
       "name_ro": "sāma",
       "dative": {
-        "sa": "सामाय",
-        "te": "సామాయ",
-        "ro": "sāmāya"
+        "sa": "साम्ने",
+        "te": "సామ్నే",
+        "ro": "sāmne"
       },
       "chant": {
-        "sa": "ॐ सामाय नमः ।",
-        "te": "ఓం సామాయ నమః ।",
-        "ro": "oṃ sāmāya namaḥ ."
+        "sa": "ॐ साम्ने नमः ।",
+        "te": "ఓం సామ్నే నమః ।",
+        "ro": "oṃ sāmne namaḥ ."
       },
       "meaning": {
         "en": "Of the form of the Sama Veda",
@@ -16123,14 +16773,14 @@
       "name_te": "భిషక్",
       "name_ro": "bhiṣak",
       "dative": {
-        "sa": "भिषके",
-        "te": "భిషకే",
-        "ro": "bhiṣake"
+        "sa": "भिषजे",
+        "te": "భిషజే",
+        "ro": "bhiṣaje"
       },
       "chant": {
-        "sa": "ॐ भिषके नमः ।",
-        "te": "ఓం భిషకే నమః ।",
-        "ro": "oṃ bhiṣake namaḥ ."
+        "sa": "ॐ भिषजे नमः ।",
+        "te": "ఓం భిషజే నమః ।",
+        "ro": "oṃ bhiṣaje namaḥ ."
       },
       "meaning": {
         "en": "The Supreme Physician",
@@ -16158,6 +16808,16 @@
         "te_d": "",
         "sa": "निष्पापः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "सन्न्यासकृते",
+        "te": "సన్న్యాసకృతే",
+        "ro": "sannyāsakṛte"
+      },
+      "chant": {
+        "sa": "ॐ सन्न्यासकृते नमः ।",
+        "te": "ఓం సన్న్యాసకృతే నమః ।",
+        "ro": "oṃ sannyāsakṛte namaḥ ."
       }
     },
     {
@@ -16177,6 +16837,16 @@
         "te_d": "",
         "sa": "शमस्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "शमाय",
+        "te": "శమాయ",
+        "ro": "śamāya"
+      },
+      "chant": {
+        "sa": "ॐ शमाय नमः ।",
+        "te": "ఓం శమాయ నమః ।",
+        "ro": "oṃ śamāya namaḥ ."
       }
     },
     {
@@ -16219,14 +16889,14 @@
       "name_te": "నిష్ఠా",
       "name_ro": "niṣṭhā",
       "dative": {
-        "sa": "निष्ठने",
-        "te": "నిష్ఠనే",
-        "ro": "niṣṭhane"
+        "sa": "निष्ठायै",
+        "te": "నిష్ఠాయై",
+        "ro": "niṣṭhāyai"
       },
       "chant": {
-        "sa": "ॐ निष्ठने नमः ।",
-        "te": "ఓం నిష్ఠనే నమః ।",
-        "ro": "oṃ niṣṭhane namaḥ ."
+        "sa": "ॐ निष्ठायै नमः ।",
+        "te": "ఓం నిష్ఠాయై నమః ।",
+        "ro": "oṃ niṣṭhāyai namaḥ ."
       },
       "meaning": {
         "en": "The Vault of Stillness",
@@ -16248,14 +16918,14 @@
       "name_te": "శాన్తిః",
       "name_ro": "śāntiḥ",
       "dative": {
-        "sa": "शान्तये",
-        "te": "శాన్తయే",
-        "ro": "śāntaye"
+        "sa": "शान्त्यै",
+        "te": "శాన్త్యై",
+        "ro": "śāntyai"
       },
       "chant": {
-        "sa": "ॐ शान्तये नमः ।",
-        "te": "ఓం శాన్తయే నమః ।",
-        "ro": "oṃ śāntaye namaḥ ."
+        "sa": "ॐ शान्त्यै नमः ।",
+        "te": "ఓం శాన్త్యై నమః ।",
+        "ro": "oṃ śāntyai namaḥ ."
       },
       "meaning": {
         "en": "The Eraser of Ignorance",
@@ -16277,14 +16947,14 @@
       "name_te": "పరాయణమ్",
       "name_ro": "parāyaṇam",
       "dative": {
-        "sa": "परायणमे",
-        "te": "పరాయణమే",
-        "ro": "parāyaṇame"
+        "sa": "परायणाय",
+        "te": "పరాయణాయ",
+        "ro": "parāyaṇāya"
       },
       "chant": {
-        "sa": "ॐ परायणमे नमः ।",
-        "te": "ఓం పరాయణమే నమః ।",
-        "ro": "oṃ parāyaṇame namaḥ ."
+        "sa": "ॐ परायणाय नमः ।",
+        "te": "ఓం పరాయణాయ నమః ।",
+        "ro": "oṃ parāyaṇāya namaḥ ."
       },
       "meaning": {
         "en": "The Sanctuary of No Return",
@@ -16364,14 +17034,14 @@
       "name_te": "స్రష్టా",
       "name_ro": "sraṣṭā",
       "dative": {
-        "sa": "स्रष्टने",
-        "te": "స్రష్టనే",
-        "ro": "sraṣṭane"
+        "sa": "स्रष्ट्रे",
+        "te": "స్రష్ట్రే",
+        "ro": "sraṣṭre"
       },
       "chant": {
-        "sa": "ॐ स्रष्टने नमः ।",
-        "te": "ఓం స్రష్టనే నమః ।",
-        "ro": "oṃ sraṣṭane namaḥ ."
+        "sa": "ॐ स्रष्ट्रे नमः ।",
+        "te": "ఓం స్రష్ట్రే నమః ।",
+        "ro": "oṃ sraṣṭre namaḥ ."
       },
       "meaning": {
         "en": "The Creator",
@@ -16509,14 +17179,14 @@
       "name_te": "గోప్తా",
       "name_ro": "goptā",
       "dative": {
-        "sa": "गोप्तने",
-        "te": "గోప్తనే",
-        "ro": "goptane"
+        "sa": "गोप्त्रे",
+        "te": "గోప్త్రే",
+        "ro": "goptre"
       },
       "chant": {
-        "sa": "ॐ गोप्तने नमः ।",
-        "te": "ఓం గోప్తనే నమః ।",
-        "ro": "oṃ goptane namaḥ ."
+        "sa": "ॐ गोप्त्रे नमः ।",
+        "te": "ఓం గోప్త్రే నమః ।",
+        "ro": "oṃ goptre namaḥ ."
       },
       "meaning": {
         "en": "The Protective Veil",
@@ -16654,14 +17324,14 @@
       "name_te": "సఙ్క్షేప్తా",
       "name_ro": "saṅkṣeptā",
       "dative": {
-        "sa": "सङ्क्षेप्तने",
-        "te": "సఙ్క్షేప్తనే",
-        "ro": "saṅkṣeptane"
+        "sa": "सङ्क्षेप्त्रे",
+        "te": "సఙ్క్షేప్త్రే",
+        "ro": "saṅkṣeptre"
       },
       "chant": {
-        "sa": "ॐ सङ्क्षेप्तने नमः ।",
-        "te": "ఓం సఙ్క్షేప్తనే నమః ।",
-        "ro": "oṃ saṅkṣeptane namaḥ ."
+        "sa": "ॐ सङ्क्षेप्त्रे नमः ।",
+        "te": "ఓం సఙ్క్షేప్త్రే నమః ।",
+        "ro": "oṃ saṅkṣeptre namaḥ ."
       },
       "meaning": {
         "en": "The yogi",
@@ -16689,6 +17359,16 @@
         "te_d": "",
         "sa": "क्षेमकर्ता",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "क्षेमकृते",
+        "te": "క్షేమకృతే",
+        "ro": "kṣemakṛte"
+      },
+      "chant": {
+        "sa": "ॐ क्षेमकृते नमः ।",
+        "te": "ఓం క్షేమకృతే నమః ।",
+        "ro": "oṃ kṣemakṛte namaḥ ."
       }
     },
     {
@@ -16731,14 +17411,14 @@
       "name_te": "శ్రీవత్సవక్షాః",
       "name_ro": "śrīvatsavakṣāḥ",
       "dative": {
-        "sa": "श्रीवत्सवक्षायै",
-        "te": "శ్రీవత్సవక్షాయై",
-        "ro": "śrīvatsavakṣāyai"
+        "sa": "श्रीवत्सवक्षसे",
+        "te": "శ్రీవత్సవక్షసే",
+        "ro": "śrīvatsavakṣase"
       },
       "chant": {
-        "sa": "ॐ श्रीवत्सवक्षायै नमः ।",
-        "te": "ఓం శ్రీవత్సవక్షాయై నమః ।",
-        "ro": "oṃ śrīvatsavakṣāyai namaḥ ."
+        "sa": "ॐ श्रीवत्सवक्षसे नमः ।",
+        "te": "ఓం శ్రీవత్సవక్షసే నమః ।",
+        "ro": "oṃ śrīvatsavakṣase namaḥ ."
       },
       "meaning": {
         "en": "The Shrivatsa Mark",
@@ -16824,6 +17504,16 @@
         "te_d": "",
         "sa": "श्रीमतांवरः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "श्रीमताम् वराय",
+        "te": "శ్రీమతామ్ వరాయ",
+        "ro": "śrīmatām varāya"
+      },
+      "chant": {
+        "sa": "ॐ श्रीमताम् वराय नमः ।",
+        "te": "ఓం శ్రీమతామ్ వరాయ నమః ।",
+        "ro": "oṃ śrīmatām varāya namaḥ ."
       }
     },
     {
@@ -17040,14 +17730,14 @@
       "name_te": "శ్రేయః",
       "name_ro": "śreyaḥ",
       "dative": {
-        "sa": "श्रेयाय",
-        "te": "శ్రేయాయ",
-        "ro": "śreyāya"
+        "sa": "श्रेयसे",
+        "te": "శ్రేయసే",
+        "ro": "śreyase"
       },
       "chant": {
-        "sa": "ॐ श्रेयाय नमः ।",
-        "te": "ఓం శ్రేయాయ నమః ।",
-        "ro": "oṃ śreyāya namaḥ ."
+        "sa": "ॐ श्रेयसे नमः ।",
+        "te": "ఓం శ్రేయసే నమః ।",
+        "ro": "oṃ śreyase namaḥ ."
       },
       "meaning": {
         "en": "The Non-Decaying Happiness",
@@ -17069,14 +17759,14 @@
       "name_te": "శ్రీమాన్",
       "name_ro": "śrīmān",
       "dative": {
-        "sa": "श्रीमाने",
-        "te": "శ్రీమానే",
-        "ro": "śrīmāne"
+        "sa": "श्रीमते",
+        "te": "శ్రీమతే",
+        "ro": "śrīmate"
       },
       "chant": {
-        "sa": "ॐ श्रीमाने नमः ।",
-        "te": "ఓం శ్రీమానే నమః ।",
-        "ro": "oṃ śrīmāne namaḥ ."
+        "sa": "ॐ श्रीमते नमः ।",
+        "te": "ఓం శ్రీమతే నమః ।",
+        "ro": "oṃ śrīmate namaḥ ."
       },
       "meaning": {
         "en": "The Resplendent Lord",
@@ -17104,6 +17794,16 @@
         "te_d": "",
         "sa": "विशुद्धात्मा",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "लोकत्रयाश्रयाय",
+        "te": "లోకత్రయాశ్రయాయ",
+        "ro": "lokatrayāśrayāya"
+      },
+      "chant": {
+        "sa": "ॐ लोकत्रयाश्रयाय नमः ।",
+        "te": "ఓం లోకత్రయాశ్రయాయ నమః ।",
+        "ro": "oṃ lokatrayāśrayāya namaḥ ."
       }
     },
     {
@@ -17210,6 +17910,16 @@
         "te_d": "",
         "sa": "स्कन्दभर्ता",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "नन्दिने",
+        "te": "నన్దినే",
+        "ro": "nandine"
+      },
+      "chant": {
+        "sa": "ॐ नन्दिने नमः ।",
+        "te": "ఓం నన్దినే నమః ।",
+        "ro": "oṃ nandine namaḥ ."
       }
     },
     {
@@ -17229,6 +17939,16 @@
         "te_d": "",
         "sa": "ज्योतिर्गणेशः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "ज्योतिर्गणेश्वराय",
+        "te": "జ్యోతిర్గణేశ్వరాయ",
+        "ro": "jyotirgaṇeśvarāya"
+      },
+      "chant": {
+        "sa": "ॐ ज्योतिर्गणेश्वराय नमः ।",
+        "te": "ఓం జ్యోతిర్గణేశ్వరాయ నమః ।",
+        "ro": "oṃ jyotirgaṇeśvarāya namaḥ ."
       }
     },
     {
@@ -17248,6 +17968,16 @@
         "te_d": "",
         "sa": "जितात्मा",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "विजितात्मने",
+        "te": "విజితాత్మనే",
+        "ro": "vijitātmane"
+      },
+      "chant": {
+        "sa": "ॐ विजितात्मने नमः ।",
+        "te": "ఓం విజితాత్మనే నమః ।",
+        "ro": "oṃ vijitātmane namaḥ ."
       }
     },
     {
@@ -17267,6 +17997,16 @@
         "te_d": "",
         "sa": "विधेयात्मा",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "विधेयात्मने",
+        "te": "విధేయాత్మనే",
+        "ro": "vidheyātmane"
+      },
+      "chant": {
+        "sa": "ॐ विधेयात्मने नमः ।",
+        "te": "ఓం విధేయాత్మనే నమః ।",
+        "ro": "oṃ vidheyātmane namaḥ ."
       }
     },
     {
@@ -17286,6 +18026,16 @@
         "te_d": "",
         "sa": "सत्कीर्तिः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "सत्कीर्तये",
+        "te": "సత్కీర్తయే",
+        "ro": "satkīrtaye"
+      },
+      "chant": {
+        "sa": "ॐ सत्कीर्तये नमः ।",
+        "te": "ఓం సత్కీర్తయే నమః ।",
+        "ro": "oṃ satkīrtaye namaḥ ."
       }
     },
     {
@@ -17305,6 +18055,16 @@
         "te_d": "",
         "sa": "छिन्नसंशयः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "छिन्नसम्शयाय",
+        "te": "ఛిన్నసమ్శయాయ",
+        "ro": "chinnasamśayāya"
+      },
+      "chant": {
+        "sa": "ॐ छिन्नसम्शयाय नमः ।",
+        "te": "ఓం ఛిన్నసమ్శయాయ నమః ।",
+        "ro": "oṃ chinnasamśayāya namaḥ ."
       }
     },
     {
@@ -17347,14 +18107,14 @@
       "name_te": "సర్వతశ్చక్షుః",
       "name_ro": "sarvataścakṣuḥ",
       "dative": {
-        "sa": "सर्वतश्चक्षवे",
-        "te": "సర్వతశ్చక్షవే",
-        "ro": "sarvataścakṣave"
+        "sa": "सर्वतश्चक्षुषे",
+        "te": "సర్వతశ్చక్షుషే",
+        "ro": "sarvataścakṣuṣe"
       },
       "chant": {
-        "sa": "ॐ सर्वतश्चक्षवे नमः ।",
-        "te": "ఓం సర్వతశ్చక్షవే నమః ।",
-        "ro": "oṃ sarvataścakṣave namaḥ ."
+        "sa": "ॐ सर्वतश्चक्षुषे नमः ।",
+        "te": "ఓం సర్వతశ్చక్షుషే నమః ।",
+        "ro": "oṃ sarvataścakṣuṣe namaḥ ."
       },
       "meaning": {
         "en": "The Omni-Visioned",
@@ -17585,6 +18345,16 @@
         "te_d": "",
         "sa": "इष्टः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अर्चिष्मते",
+        "te": "అర్చిష్మతే",
+        "ro": "arciṣmate"
+      },
+      "chant": {
+        "sa": "ॐ अर्चिष्मते नमः ।",
+        "te": "ఓం అర్చిష్మతే నమః ।",
+        "ro": "oṃ arciṣmate namaḥ ."
       }
     },
     {
@@ -17604,6 +18374,16 @@
         "te_d": "",
         "sa": "अर्चितः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अर्चिताय",
+        "te": "అర్చితాయ",
+        "ro": "arcitāya"
+      },
+      "chant": {
+        "sa": "ॐ अर्चिताय नमः ।",
+        "te": "ఓం అర్చితాయ నమః ।",
+        "ro": "oṃ arcitāya namaḥ ."
       }
     },
     {
@@ -17820,14 +18600,14 @@
       "name_te": "కాలనేమినిహా",
       "name_ro": "kālaneminihā",
       "dative": {
-        "sa": "कालनेमिनिहने",
-        "te": "కాలనేమినిహనే",
-        "ro": "kālaneminihane"
+        "sa": "कालनेमिनिघ्ने",
+        "te": "కాలనేమినిఘ్నే",
+        "ro": "kālaneminighne"
       },
       "chant": {
-        "sa": "ॐ कालनेमिनिहने नमः ।",
-        "te": "ఓం కాలనేమినిహనే నమః ।",
-        "ro": "oṃ kālaneminihane namaḥ ."
+        "sa": "ॐ कालनेमिनिघ्ने नमः ।",
+        "te": "ఓం కాలనేమినిఘ్నే నమః ।",
+        "ro": "oṃ kālaneminighne namaḥ ."
       },
       "meaning": {
         "en": "The Slayer of Kalanemi",
@@ -18023,14 +18803,14 @@
       "name_te": "కేశిహా",
       "name_ro": "keśihā",
       "dative": {
-        "sa": "केशिहने",
-        "te": "కేశిహనే",
-        "ro": "keśihane"
+        "sa": "केशिघ्ने",
+        "te": "కేశిఘ్నే",
+        "ro": "keśighne"
       },
       "chant": {
-        "sa": "ॐ केशिहने नमः ।",
-        "te": "ఓం కేశిహనే నమః ।",
-        "ro": "oṃ keśihane namaḥ ."
+        "sa": "ॐ केशिघ्ने नमः ।",
+        "te": "ఓం కేశిఘ్నే నమః ।",
+        "ro": "oṃ keśighne namaḥ ."
       },
       "meaning": {
         "en": "The Slayer of Keshi",
@@ -18226,14 +19006,14 @@
       "name_te": "అనిర్దేశ్యవపుః",
       "name_ro": "anirdeśyavapuḥ",
       "dative": {
-        "sa": "अनिर्देश्यवपवे",
-        "te": "అనిర్దేశ్యవపవే",
-        "ro": "anirdeśyavapave"
+        "sa": "अनिर्देश्यवपुषे",
+        "te": "అనిర్దేశ్యవపుషే",
+        "ro": "anirdeśyavapuṣe"
       },
       "chant": {
-        "sa": "ॐ अनिर्देश्यवपवे नमः ।",
-        "te": "ఓం అనిర్దేశ్యవపవే నమః ।",
-        "ro": "oṃ anirdeśyavapave namaḥ ."
+        "sa": "ॐ अनिर्देश्यवपुषे नमः ।",
+        "te": "ఓం అనిర్దేశ్యవపుషే నమః ।",
+        "ro": "oṃ anirdeśyavapuṣe namaḥ ."
       },
       "meaning": {
         "en": "The Indefinable Structure",
@@ -18400,14 +19180,14 @@
       "name_te": "బ్రహ్మకృత్",
       "name_ro": "brahmakṛt",
       "dative": {
-        "sa": "ब्रह्मकृदे",
-        "te": "బ్రహ్మకృదే",
-        "ro": "brahmakṛde"
+        "sa": "ब्रह्मकृते",
+        "te": "బ్రహ్మకృతే",
+        "ro": "brahmakṛte"
       },
       "chant": {
-        "sa": "ॐ ब्रह्मकृदे नमः ।",
-        "te": "ఓం బ్రహ్మకృదే నమః ।",
-        "ro": "oṃ brahmakṛde namaḥ ."
+        "sa": "ॐ ब्रह्मकृते नमः ।",
+        "te": "ఓం బ్రహ్మకృతే నమః ।",
+        "ro": "oṃ brahmakṛte namaḥ ."
       },
       "meaning": {
         "en": "Performer of austerities",
@@ -18429,14 +19209,14 @@
       "name_te": "బ్రహ్మా",
       "name_ro": "brahmā",
       "dative": {
-        "sa": "ब्रह्मने",
-        "te": "బ్రహ్మనే",
-        "ro": "brahmane"
+        "sa": "ब्रह्मणे",
+        "te": "బ్రహ్మణే",
+        "ro": "brahmaṇe"
       },
       "chant": {
-        "sa": "ॐ ब्रह्मने नमः ।",
-        "te": "ఓం బ్రహ్మనే నమః ।",
-        "ro": "oṃ brahmane namaḥ ."
+        "sa": "ॐ ब्रह्मणे नमः ।",
+        "te": "ఓం బ్రహ్మణే నమః ।",
+        "ro": "oṃ brahmaṇe namaḥ ."
       },
       "meaning": {
         "en": "The Absolute Creator",
@@ -18458,14 +19238,14 @@
       "name_te": "బ్రహ్మ",
       "name_ro": "brahma",
       "dative": {
-        "sa": "ब्रह्माय",
-        "te": "బ్రహ్మాయ",
-        "ro": "brahmāya"
+        "sa": "ब्राह्मणे",
+        "te": "బ్రాహ్మణే",
+        "ro": "brāhmaṇe"
       },
       "chant": {
-        "sa": "ॐ ब्रह्माय नमः ।",
-        "te": "ఓం బ్రహ్మాయ నమః ।",
-        "ro": "oṃ brahmāya namaḥ ."
+        "sa": "ॐ ब्राह्मणे नमः ।",
+        "te": "ఓం బ్రాహ్మణే నమః ।",
+        "ro": "oṃ brāhmaṇe namaḥ ."
       },
       "meaning": {
         "en": "Of the form of truth, knowledge and infinity",
@@ -18574,14 +19354,14 @@
       "name_te": "బ్రహ్మీ",
       "name_ro": "brahmī",
       "dative": {
-        "sa": "ब्रह्मिने",
-        "te": "బ్రహ్మినే",
-        "ro": "brahmine"
+        "sa": "ब्रह्मिणे",
+        "te": "బ్రహ్మిణే",
+        "ro": "brahmiṇe"
       },
       "chant": {
-        "sa": "ॐ ब्रह्मिने नमः ।",
-        "te": "ఓం బ్రహ్మినే నమః ।",
-        "ro": "oṃ brahmine namaḥ ."
+        "sa": "ॐ ब्रह्मिणे नमः ।",
+        "te": "ఓం బ్రహ్మిణే నమః ।",
+        "ro": "oṃ brahmiṇe namaḥ ."
       },
       "meaning": {
         "en": "The Vault of Reality",
@@ -18690,14 +19470,14 @@
       "name_te": "మహాకర్మా",
       "name_ro": "mahākarmā",
       "dative": {
-        "sa": "महाकर्मने",
-        "te": "మహాకర్మనే",
-        "ro": "mahākarmane"
+        "sa": "महाकर्मणे",
+        "te": "మహాకర్మణే",
+        "ro": "mahākarmaṇe"
       },
       "chant": {
-        "sa": "ॐ महाकर्मने नमः ।",
-        "te": "ఓం మహాకర్మనే నమః ।",
-        "ro": "oṃ mahākarmane namaḥ ."
+        "sa": "ॐ महाकर्मणे नमः ।",
+        "te": "ఓం మహాకర్మణే నమః ।",
+        "ro": "oṃ mahākarmaṇe namaḥ ."
       },
       "meaning": {
         "en": "The Colossal Artisan",
@@ -18725,6 +19505,16 @@
         "te_d": "",
         "sa": "महातेजाः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "महातेजसे",
+        "te": "మహాతేజసే",
+        "ro": "mahātejase"
+      },
+      "chant": {
+        "sa": "ॐ महातेजसे नमः ।",
+        "te": "ఓం మహాతేజసే నమః ।",
+        "ro": "oṃ mahātejase namaḥ ."
       }
     },
     {
@@ -18854,14 +19644,14 @@
       "name_te": "మహాహవిః",
       "name_ro": "mahāhaviḥ",
       "dative": {
-        "sa": "महाहवये",
-        "te": "మహాహవయే",
-        "ro": "mahāhavaye"
+        "sa": "महाहविषे",
+        "te": "మహాహవిషే",
+        "ro": "mahāhaviṣe"
       },
       "chant": {
-        "sa": "ॐ महाहवये नमः ।",
-        "te": "ఓం మహాహవయే నమః ।",
-        "ro": "oṃ mahāhavaye namaḥ ."
+        "sa": "ॐ महाहविषे नमः ।",
+        "te": "ఓం మహాహవిషే నమః ।",
+        "ro": "oṃ mahāhaviṣe namaḥ ."
       },
       "meaning": {
         "en": "The Cosmic Oblation",
@@ -18999,14 +19789,14 @@
       "name_te": "స్తోతా",
       "name_ro": "stotā",
       "dative": {
-        "sa": "स्तोतने",
-        "te": "స్తోతనే",
-        "ro": "stotane"
+        "sa": "स्तोत्रे",
+        "te": "స్తోత్రే",
+        "ro": "stotre"
       },
       "chant": {
-        "sa": "ॐ स्तोतने नमः ।",
-        "te": "ఓం స్తోతనే నమః ।",
-        "ro": "oṃ stotane namaḥ ."
+        "sa": "ॐ स्तोत्रे नमः ।",
+        "te": "ఓం స్తోత్రే నమః ।",
+        "ro": "oṃ stotre namaḥ ."
       },
       "meaning": {
         "en": "The Universal Chanter",
@@ -19086,14 +19876,14 @@
       "name_te": "పూరయితా",
       "name_ro": "pūrayitā",
       "dative": {
-        "sa": "पूरयितने",
-        "te": "పూరయితనే",
-        "ro": "pūrayitane"
+        "sa": "पूरयित्रे",
+        "te": "పూరయిత్రే",
+        "ro": "pūrayitre"
       },
       "chant": {
-        "sa": "ॐ पूरयितने नमः ।",
-        "te": "ఓం పూరయితనే నమః ।",
-        "ro": "oṃ pūrayitane namaḥ ."
+        "sa": "ॐ पूरयित्रे नमः ।",
+        "te": "ఓం పూరయిత్రే నమః ।",
+        "ro": "oṃ pūrayitre namaḥ ."
       },
       "meaning": {
         "en": "The Fulfiller",
@@ -19260,14 +20050,14 @@
       "name_te": "వసురేతా",
       "name_ro": "vasuretā",
       "dative": {
-        "sa": "वसुरेतने",
-        "te": "వసురేతనే",
-        "ro": "vasuretane"
+        "sa": "वसुरेतसे",
+        "te": "వసురేతసే",
+        "ro": "vasuretase"
       },
       "chant": {
-        "sa": "ॐ वसुरेतने नमः ।",
-        "te": "ఓం వసురేతనే నమః ।",
-        "ro": "oṃ vasuretane namaḥ ."
+        "sa": "ॐ वसुरेतसे नमः ।",
+        "te": "ఓం వసురేతసే నమః ।",
+        "ro": "oṃ vasuretase namaḥ ."
       },
       "meaning": {
         "en": "The Home of Creation",
@@ -19405,14 +20195,14 @@
       "name_te": "వసుమనా",
       "name_ro": "vasumanā",
       "dative": {
-        "sa": "वसुमनायै",
-        "te": "వసుమనాయై",
-        "ro": "vasumanāyai"
+        "sa": "वसुमनसे",
+        "te": "వసుమనసే",
+        "ro": "vasumanase"
       },
       "chant": {
-        "sa": "ॐ वसुमनायै नमः ।",
-        "te": "ఓం వసుమనాయై నమః ।",
-        "ro": "oṃ vasumanāyai namaḥ ."
+        "sa": "ॐ वसुमनसे नमः ।",
+        "te": "ఓం వసుమనసే నమః ।",
+        "ro": "oṃ vasumanase namaḥ ."
       },
       "meaning": {
         "en": "The Unattached Mind",
@@ -19434,14 +20224,14 @@
       "name_te": "హవిః",
       "name_ro": "haviḥ",
       "dative": {
-        "sa": "हवये",
-        "te": "హవయే",
-        "ro": "havaye"
+        "sa": "हविषे",
+        "te": "హవిషే",
+        "ro": "haviṣe"
       },
       "chant": {
-        "sa": "ॐ हवये नमः ।",
-        "te": "ఓం హవయే నమః ।",
-        "ro": "oṃ havaye namaḥ ."
+        "sa": "ॐ हविषे नमः ।",
+        "te": "ఓం హవిషే నమః ।",
+        "ro": "oṃ haviṣe namaḥ ."
       },
       "meaning": {
         "en": "The Oblation Itself",
@@ -19521,14 +20311,14 @@
       "name_te": "సత్తా",
       "name_ro": "sattā",
       "dative": {
-        "sa": "सत्तने",
-        "te": "సత్తనే",
-        "ro": "sattane"
+        "sa": "सत्तायै",
+        "te": "సత్తాయై",
+        "ro": "sattāyai"
       },
       "chant": {
-        "sa": "ॐ सत्तने नमः ।",
-        "te": "ఓం సత్తనే నమః ।",
-        "ro": "oṃ sattane namaḥ ."
+        "sa": "ॐ सत्तायै नमः ।",
+        "te": "ఓం సత్తాయై నమః ।",
+        "ro": "oṃ sattāyai namaḥ ."
       },
       "meaning": {
         "en": "The firm, resolute",
@@ -19695,14 +20485,14 @@
       "name_te": "సుయామునః",
       "name_ro": "suyāmunaḥ",
       "dative": {
-        "sa": "सुयामुनाय",
-        "te": "సుయామునాయ",
-        "ro": "suyāmunāya"
+        "sa": "सूयामुनाय",
+        "te": "సూయామునాయ",
+        "ro": "sūyāmunāya"
       },
       "chant": {
-        "sa": "ॐ सुयामुनाय नमः ।",
-        "te": "ఓం సుయామునాయ నమః ।",
-        "ro": "oṃ suyāmunāya namaḥ ."
+        "sa": "ॐ सूयामुनाय नमः ।",
+        "te": "ఓం సూయామునాయ నమః ।",
+        "ro": "oṃ sūyāmunāya namaḥ ."
       },
       "meaning": {
         "en": "The Core of Yamuna",
@@ -19840,14 +20630,14 @@
       "name_te": "దర్పహా",
       "name_ro": "darpahā",
       "dative": {
-        "sa": "दर्पहने",
-        "te": "దర్పహనే",
-        "ro": "darpahane"
+        "sa": "दर्पघ्ने",
+        "te": "దర్పఘ్నే",
+        "ro": "darpaghne"
       },
       "chant": {
-        "sa": "ॐ दर्पहने नमः ।",
-        "te": "ఓం దర్పహనే నమః ।",
-        "ro": "oṃ darpahane namaḥ ."
+        "sa": "ॐ दर्पघ्ने नमः ।",
+        "te": "ఓం దర్పఘ్నే నమః ।",
+        "ro": "oṃ darpaghne namaḥ ."
       },
       "meaning": {
         "en": "The Destroyer of Pride",
@@ -20072,14 +20862,14 @@
       "name_te": "అమూర్తిమాన్",
       "name_ro": "amūrtimān",
       "dative": {
-        "sa": "अमूर्तिमाने",
-        "te": "అమూర్తిమానే",
-        "ro": "amūrtimāne"
+        "sa": "अमूर्तिमते",
+        "te": "అమూర్తిమతే",
+        "ro": "amūrtimate"
       },
       "chant": {
-        "sa": "ॐ अमूर्तिमाने नमः ।",
-        "te": "ఓం అమూర్తిమానే నమః ।",
-        "ro": "oṃ amūrtimāne namaḥ ."
+        "sa": "ॐ अमूर्तिमते नमः ।",
+        "te": "ఓం అమూర్తిమతే నమః ।",
+        "ro": "oṃ amūrtimate namaḥ ."
       },
       "meaning": {
         "en": "The Formless Pure Spirit",
@@ -20217,14 +21007,14 @@
       "name_te": "ఏకః",
       "name_ro": "ekaḥ",
       "dative": {
-        "sa": "एकाय",
-        "te": "ఏకాయ",
-        "ro": "ekāya"
+        "sa": "एकैस्मै",
+        "te": "ఏకైస్మై",
+        "ro": "ekaismai"
       },
       "chant": {
-        "sa": "ॐ एकाय नमः ।",
-        "te": "ఓం ఏకాయ నమః ।",
-        "ro": "oṃ ekāya namaḥ ."
+        "sa": "ॐ एकैस्मै नमः ।",
+        "te": "ఓం ఏకైస్మై నమః ।",
+        "ro": "oṃ ekaismai namaḥ ."
       },
       "meaning": {
         "en": "The Non-Dual Absolute",
@@ -20246,14 +21036,14 @@
       "name_te": "నైకః",
       "name_ro": "naikaḥ",
       "dative": {
-        "sa": "नैकाय",
-        "te": "నైకాయ",
-        "ro": "naikāya"
+        "sa": "नैकस्मै",
+        "te": "నైకస్మై",
+        "ro": "naikasmai"
       },
       "chant": {
-        "sa": "ॐ नैकाय नमः ।",
-        "te": "ఓం నైకాయ నమః ।",
-        "ro": "oṃ naikāya namaḥ ."
+        "sa": "ॐ नैकस्मै नमः ।",
+        "te": "ఓం నైకస్మై నమః ।",
+        "ro": "oṃ naikasmai namaḥ ."
       },
       "meaning": {
         "en": "The Plural Manifestation",
@@ -20333,14 +21123,14 @@
       "name_te": "కిమ్",
       "name_ro": "kim",
       "dative": {
-        "sa": "किाय",
-        "te": "కిాయ",
-        "ro": "kiāya"
+        "sa": "कस्मै",
+        "te": "కస్మై",
+        "ro": "kasmai"
       },
       "chant": {
-        "sa": "ॐ किाय नमः ।",
-        "te": "ఓం కిాయ నమః ।",
-        "ro": "oṃ kiāya namaḥ ."
+        "sa": "ॐ कस्मै नमः ।",
+        "te": "ఓం కస్మై నమః ।",
+        "ro": "oṃ kasmai namaḥ ."
       },
       "meaning": {
         "en": "That which is to be sought",
@@ -20362,14 +21152,14 @@
       "name_te": "యత్",
       "name_ro": "yat",
       "dative": {
-        "sa": "यते",
-        "te": "యతే",
-        "ro": "yate"
+        "sa": "यस्मै",
+        "te": "యస్మై",
+        "ro": "yasmai"
       },
       "chant": {
-        "sa": "ॐ यते नमः ।",
-        "te": "ఓం యతే నమః ।",
-        "ro": "oṃ yate namaḥ ."
+        "sa": "ॐ यस्मै नमः ।",
+        "te": "ఓం యస్మై నమః ।",
+        "ro": "oṃ yasmai namaḥ ."
       },
       "meaning": {
         "en": "The Self-Existent",
@@ -20397,6 +21187,16 @@
         "te_d": "",
         "sa": "तत्स्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "तस्मै",
+        "te": "తస్మై",
+        "ro": "tasmai"
+      },
+      "chant": {
+        "sa": "ॐ तस्मै नमः ।",
+        "te": "ఓం తస్మై నమః ।",
+        "ro": "oṃ tasmai namaḥ ."
       }
     },
     {
@@ -20416,6 +21216,16 @@
         "te_d": "",
         "sa": "अनुत्तमपदः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "पदमनुत्तमाय",
+        "te": "పదమనుత్తమాయ",
+        "ro": "padamanuttamāya"
+      },
+      "chant": {
+        "sa": "ॐ पदमनुत्तमाय नमः ।",
+        "te": "ఓం పదమనుత్తమాయ నమః ।",
+        "ro": "oṃ padamanuttamāya namaḥ ."
       }
     },
     {
@@ -20609,6 +21419,16 @@
         "te_d": "",
         "sa": "वराङ्गः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "वराङ्गाय",
+        "te": "వరాఙ్గాయ",
+        "ro": "varāṅgāya"
+      },
+      "chant": {
+        "sa": "ॐ वराङ्गाय नमः ।",
+        "te": "ఓం వరాఙ్గాయ నమః ।",
+        "ro": "oṃ varāṅgāya namaḥ ."
       }
     },
     {
@@ -20628,6 +21448,16 @@
         "te_d": "",
         "sa": "चन्दनाङ्गदी",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "चन्दनाङ्गदिने",
+        "te": "చన్దనాఙ్గదినే",
+        "ro": "candanāṅgadine"
+      },
+      "chant": {
+        "sa": "ॐ चन्दनाङ्गदिने नमः ।",
+        "te": "ఓం చన్దనాఙ్గదినే నమః ।",
+        "ro": "oṃ candanāṅgadine namaḥ ."
       }
     },
     {
@@ -20641,14 +21471,14 @@
       "name_te": "వీరహా",
       "name_ro": "vīrahā",
       "dative": {
-        "sa": "वीरहने",
-        "te": "వీరహనే",
-        "ro": "vīrahane"
+        "sa": "वीरघ्ने",
+        "te": "వీరఘ్నే",
+        "ro": "vīraghne"
       },
       "chant": {
-        "sa": "ॐ वीरहने नमः ।",
-        "te": "ఓం వీరహనే నమః ।",
-        "ro": "oṃ vīrahane namaḥ ."
+        "sa": "ॐ वीरघ्ने नमः ।",
+        "te": "ఓం వీరఘ్నే నమః ।",
+        "ro": "oṃ vīraghne namaḥ ."
       },
       "meaning": {
         "en": "The Cutter of Bondage",
@@ -20734,6 +21564,16 @@
         "te_d": "",
         "sa": "घृताशीः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "घृताशिषे",
+        "te": "ఘృతాశిషే",
+        "ro": "ghṛtāśiṣe"
+      },
+      "chant": {
+        "sa": "ॐ घृताशिषे नमः ।",
+        "te": "ఓం ఘృతాశిషే నమః ।",
+        "ro": "oṃ ghṛtāśiṣe namaḥ ."
       }
     },
     {
@@ -20753,6 +21593,16 @@
         "te_d": "",
         "sa": "अचलः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अचलाय",
+        "te": "అచలాయ",
+        "ro": "acalāya"
+      },
+      "chant": {
+        "sa": "ॐ अचलाय नमः ।",
+        "te": "ఓం అచలాయ నమః ।",
+        "ro": "oṃ acalāya namaḥ ."
       }
     },
     {
@@ -20772,6 +21622,16 @@
         "te_d": "",
         "sa": "चलात्मा",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "चलाय",
+        "te": "చలాయ",
+        "ro": "calāya"
+      },
+      "chant": {
+        "sa": "ॐ चलाय नमः ।",
+        "te": "ఓం చలాయ నమః ।",
+        "ro": "oṃ calāya namaḥ ."
       }
     },
     {
@@ -20901,14 +21761,14 @@
       "name_te": "త్రిలోకధృత్",
       "name_ro": "trilokadhṛt",
       "dative": {
-        "sa": "त्रिलोकधृके",
-        "te": "త్రిలోకధృకే",
-        "ro": "trilokadhṛke"
+        "sa": "त्रिलोकधृषे",
+        "te": "త్రిలోకధృషే",
+        "ro": "trilokadhṛṣe"
       },
       "chant": {
-        "sa": "ॐ त्रिलोकधृके नमः ।",
-        "te": "ఓం త్రిలోకధృకే నమః ।",
-        "ro": "oṃ trilokadhṛke namaḥ ."
+        "sa": "ॐ त्रिलोकधृषे नमः ।",
+        "te": "ఓం త్రిలోకధృషే నమః ।",
+        "ro": "oṃ trilokadhṛṣe namaḥ ."
       },
       "meaning": {
         "en": "Upholder of the three worlds",
@@ -20930,14 +21790,14 @@
       "name_te": "సుమేధా",
       "name_ro": "sumedhā",
       "dative": {
-        "sa": "सुमेधने",
-        "te": "సుమేధనే",
-        "ro": "sumedhane"
+        "sa": "सुमेधसे",
+        "te": "సుమేధసే",
+        "ro": "sumedhase"
       },
       "chant": {
-        "sa": "ॐ सुमेधने नमः ।",
-        "te": "ఓం సుమేధనే నమః ।",
-        "ro": "oṃ sumedhane namaḥ ."
+        "sa": "ॐ सुमेधसे नमः ।",
+        "te": "ఓం సుమేధసే నమః ।",
+        "ro": "oṃ sumedhase namaḥ ."
       },
       "meaning": {
         "en": "The Beneficent Intellect",
@@ -21017,14 +21877,14 @@
       "name_te": "సత్యమేధా",
       "name_ro": "satyamedhā",
       "dative": {
-        "sa": "सत्यमेधने",
-        "te": "సత్యమేధనే",
-        "ro": "satyamedhane"
+        "sa": "सत्यमेधसे",
+        "te": "సత్యమేధసే",
+        "ro": "satyamedhase"
       },
       "chant": {
-        "sa": "ॐ सत्यमेधने नमः ।",
-        "te": "ఓం సత్యమేధనే నమః ।",
-        "ro": "oṃ satyamedhane namaḥ ."
+        "sa": "ॐ सत्यमेधसे नमः ।",
+        "te": "ఓం సత్యమేధసే నమః ।",
+        "ro": "oṃ satyamedhase namaḥ ."
       },
       "meaning": {
         "en": "The Fruitful Intellect",
@@ -21133,14 +21993,14 @@
       "name_te": "సర్వశస్త్రభృతాం వరః",
       "name_ro": "sarvaśastrabhṛtāṃ varaḥ",
       "dative": {
-        "sa": "सर्वशस्त्रभृताय",
-        "te": "సర్వశస్త్రభృతాయ",
-        "ro": "sarvaśastrabhṛtāya"
+        "sa": "सर्वशस्त्रभृताम्वराय",
+        "te": "సర్వశస్త్రభృతామ్వరాయ",
+        "ro": "sarvaśastrabhṛtāmvarāya"
       },
       "chant": {
-        "sa": "ॐ सर्वशस्त्रभृताय नमः ।",
-        "te": "ఓం సర్వశస్త్రభృతాయ నమః ।",
-        "ro": "oṃ sarvaśastrabhṛtāya namaḥ ."
+        "sa": "ॐ सर्वशस्त्रभृताम्वराय नमः ।",
+        "te": "ఓం సర్వశస్త్రభృతామ్వరాయ నమః ।",
+        "ro": "oṃ sarvaśastrabhṛtāmvarāya namaḥ ."
       },
       "meaning": {
         "en": "The Apex Warrior",
@@ -21313,6 +22173,16 @@
         "te_d": "",
         "sa": "चतुर्मूर्तिः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "चतुर्मूर्तये",
+        "te": "చతుర్మూర్తయే",
+        "ro": "caturmūrtaye"
+      },
+      "chant": {
+        "sa": "ॐ चतुर्मूर्तये नमः ।",
+        "te": "ఓం చతుర్మూర్తయే నమః ।",
+        "ro": "oṃ caturmūrtaye namaḥ ."
       }
     },
     {
@@ -21332,6 +22202,16 @@
         "te_d": "",
         "sa": "चतुर्बाहुः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "चतुर्बाहवे",
+        "te": "చతుర్బాహవే",
+        "ro": "caturbāhave"
+      },
+      "chant": {
+        "sa": "ॐ चतुर्बाहवे नमः ।",
+        "te": "ఓం చతుర్బాహవే నమః ।",
+        "ro": "oṃ caturbāhave namaḥ ."
       }
     },
     {
@@ -21351,6 +22231,16 @@
         "te_d": "",
         "sa": "चतुर्व्यूहः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "चतुर्व्यूहाय",
+        "te": "చతుర్వ్యూహాయ",
+        "ro": "caturvyūhāya"
+      },
+      "chant": {
+        "sa": "ॐ चतुर्व्यूहाय नमः ।",
+        "te": "ఓం చతుర్వ్యూహాయ నమః ।",
+        "ro": "oṃ caturvyūhāya namaḥ ."
       }
     },
     {
@@ -21370,6 +22260,16 @@
         "te_d": "",
         "sa": "चतुर्गतिः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "चतुर्गतये",
+        "te": "చతుర్గతయే",
+        "ro": "caturgataye"
+      },
+      "chant": {
+        "sa": "ॐ चतुर्गतये नमः ।",
+        "te": "ఓం చతుర్గతయే నమః ।",
+        "ro": "oṃ caturgataye namaḥ ."
       }
     },
     {
@@ -21418,6 +22318,16 @@
         "te_d": "",
         "sa": "चतुर्भावः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "चतुर्भावाय",
+        "te": "చతుర్భావాయ",
+        "ro": "caturbhāvāya"
+      },
+      "chant": {
+        "sa": "ॐ चतुर्भावाय नमः ।",
+        "te": "ఓం చతుర్భావాయ నమః ।",
+        "ro": "oṃ caturbhāvāya namaḥ ."
       }
     },
     {
@@ -21437,6 +22347,16 @@
         "te_d": "",
         "sa": "चतुर्वेदज्ञः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "चतुर्वेदविदे",
+        "te": "చతుర్వేదవిదే",
+        "ro": "caturvedavide"
+      },
+      "chant": {
+        "sa": "ॐ चतुर्वेदविदे नमः ।",
+        "te": "ఓం చతుర్వేదవిదే నమః ।",
+        "ro": "oṃ caturvedavide namaḥ ."
       }
     },
     {
@@ -21456,6 +22376,16 @@
         "te_d": "",
         "sa": "एकपात् स्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "एकपदे",
+        "te": "ఏకపదే",
+        "ro": "ekapade"
+      },
+      "chant": {
+        "sa": "ॐ एकपदे नमः ।",
+        "te": "ఓం ఏకపదే నమః ।",
+        "ro": "oṃ ekapade namaḥ ."
       }
     },
     {
@@ -21701,14 +22631,14 @@
       "name_te": "దురారిహా",
       "name_ro": "durārihā",
       "dative": {
-        "sa": "दुरारिहने",
-        "te": "దురారిహనే",
-        "ro": "durārihane"
+        "sa": "दुरारिघ्ने",
+        "te": "దురారిఘ్నే",
+        "ro": "durārighne"
       },
       "chant": {
-        "sa": "ॐ दुरारिहने नमः ।",
-        "te": "ఓం దురారిహనే నమః ।",
-        "ro": "oṃ durārihane namaḥ ."
+        "sa": "ॐ दुरारिघ्ने नमः ।",
+        "te": "ఓం దురారిఘ్నే నమః ।",
+        "ro": "oṃ durārighne namaḥ ."
       },
       "meaning": {
         "en": "Earth's lord",
@@ -21794,6 +22724,16 @@
         "te_d": "",
         "sa": "सुतन्तुः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "सुतन्तवे",
+        "te": "సుతన్తవే",
+        "ro": "sutantave"
+      },
+      "chant": {
+        "sa": "ॐ सुतन्तवे नमः ।",
+        "te": "ఓం సుతన్తవే నమః ।",
+        "ro": "oṃ sutantave namaḥ ."
       }
     },
     {
@@ -21813,6 +22753,16 @@
         "te_d": "",
         "sa": "तन्तुवर्धकः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "तन्तुवर्धनाय",
+        "te": "తన్తువర్ధనాయ",
+        "ro": "tantuvardhanāya"
+      },
+      "chant": {
+        "sa": "ॐ तन्तुवर्धनाय नमः ।",
+        "te": "ఓం తన్తువర్ధనాయ నమః ।",
+        "ro": "oṃ tantuvardhanāya namaḥ ."
       }
     },
     {
@@ -21826,14 +22776,14 @@
       "name_te": "ఇన్ద్రకర్మా",
       "name_ro": "indrakarmā",
       "dative": {
-        "sa": "इन्द्रकर्मने",
-        "te": "ఇన్ద్రకర్మనే",
-        "ro": "indrakarmane"
+        "sa": "इन्द्रकर्मणे",
+        "te": "ఇన్ద్రకర్మణే",
+        "ro": "indrakarmaṇe"
       },
       "chant": {
-        "sa": "ॐ इन्द्रकर्मने नमः ।",
-        "te": "ఓం ఇన్ద్రకర్మనే నమః ।",
-        "ro": "oṃ indrakarmane namaḥ ."
+        "sa": "ॐ इन्द्रकर्मणे नमः ।",
+        "te": "ఓం ఇన్ద్రకర్మణే నమః ।",
+        "ro": "oṃ indrakarmaṇe namaḥ ."
       },
       "meaning": {
         "en": "He of Excellent Actions",
@@ -21855,14 +22805,14 @@
       "name_te": "మహాకర్మా",
       "name_ro": "mahākarmā",
       "dative": {
-        "sa": "महाकर्मने",
-        "te": "మహాకర్మనే",
-        "ro": "mahākarmane"
+        "sa": "महाकर्मणे",
+        "te": "మహాకర్మణే",
+        "ro": "mahākarmaṇe"
       },
       "chant": {
-        "sa": "ॐ महाकर्मने नमः ।",
-        "te": "ఓం మహాకర్మనే నమః ।",
-        "ro": "oṃ mahākarmane namaḥ ."
+        "sa": "ॐ महाकर्मणे नमः ।",
+        "te": "ఓం మహాకర్మణే నమః ।",
+        "ro": "oṃ mahākarmaṇe namaḥ ."
       },
       "meaning": {
         "en": "The Colossal Artisan",
@@ -21884,14 +22834,14 @@
       "name_te": "కృతకర్మా",
       "name_ro": "kṛtakarmā",
       "dative": {
-        "sa": "कृतकर्मने",
-        "te": "కృతకర్మనే",
-        "ro": "kṛtakarmane"
+        "sa": "कृतकर्मणे",
+        "te": "కృతకర్మణే",
+        "ro": "kṛtakarmaṇe"
       },
       "chant": {
-        "sa": "ॐ कृतकर्मने नमः ।",
-        "te": "ఓం కృతకర్మనే నమః ।",
-        "ro": "oṃ kṛtakarmane namaḥ ."
+        "sa": "ॐ कृतकर्मणे नमः ।",
+        "te": "ఓం కృతకర్మణే నమః ।",
+        "ro": "oṃ kṛtakarmaṇe namaḥ ."
       },
       "meaning": {
         "en": "The Self-Fulfilled Agent",
@@ -22238,6 +23188,16 @@
         "te_d": "",
         "sa": "सुवर्णबिन्दुः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "सुवर्णबिन्दवे",
+        "te": "సువర్ణబిన్దవే",
+        "ro": "suvarṇabindave"
+      },
+      "chant": {
+        "sa": "ॐ सुवर्णबिन्दवे नमः ।",
+        "te": "ఓం సువర్ణబిన్దవే నమః ।",
+        "ro": "oṃ suvarṇabindave namaḥ ."
       }
     },
     {
@@ -22257,6 +23217,16 @@
         "te_d": "",
         "sa": "अक्षोभ्यः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अक्षोभ्याय",
+        "te": "అక్షోభ్యాయ",
+        "ro": "akṣobhyāya"
+      },
+      "chant": {
+        "sa": "ॐ अक्षोभ्याय नमः ।",
+        "te": "ఓం అక్షోభ్యాయ నమః ।",
+        "ro": "oṃ akṣobhyāya namaḥ ."
       }
     },
     {
@@ -22595,6 +23565,16 @@
         "te_d": "",
         "sa": "अमृताशी",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अमृताम्शाय",
+        "te": "అమృతామ్శాయ",
+        "ro": "amṛtāmśāya"
+      },
+      "chant": {
+        "sa": "ॐ अमृताम्शाय नमः ।",
+        "te": "ఓం అమృతామ్శాయ నమః ।",
+        "ro": "oṃ amṛtāmśāya namaḥ ."
       }
     },
     {
@@ -22608,14 +23588,14 @@
       "name_te": "అమృతవపుః",
       "name_ro": "amṛtavapuḥ",
       "dative": {
-        "sa": "अमृतवपवे",
-        "te": "అమృతవపవే",
-        "ro": "amṛtavapave"
+        "sa": "अमृतवपुषे",
+        "te": "అమృతవపుషే",
+        "ro": "amṛtavapuṣe"
       },
       "chant": {
-        "sa": "ॐ अमृतवपवे नमः ।",
-        "te": "ఓం అమృతవపవే నమః ।",
-        "ro": "oṃ amṛtavapave namaḥ ."
+        "sa": "ॐ अमृतवपुषे नमः ।",
+        "te": "ఓం అమృతవపుషే నమః ।",
+        "ro": "oṃ amṛtavapuṣe namaḥ ."
       },
       "meaning": {
         "en": "The Immortal Frame",
@@ -22788,6 +23768,16 @@
         "te_d": "",
         "sa": "शत्रुजित्",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "शत्रुजिते",
+        "te": "శత్రుజితే",
+        "ro": "śatrujite"
+      },
+      "chant": {
+        "sa": "ॐ शत्रुजिते नमः ।",
+        "te": "ఓం శత్రుజితే నమః ।",
+        "ro": "oṃ śatrujite namaḥ ."
       }
     },
     {
@@ -22807,6 +23797,16 @@
         "te_d": "",
         "sa": "शत्रुतापनः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "शत्रुतापनाय",
+        "te": "శత్రుతాపనాయ",
+        "ro": "śatrutāpanāya"
+      },
+      "chant": {
+        "sa": "ॐ शत्रुतापनाय नमः ।",
+        "te": "ఓం శత్రుతాపనాయ నమః ।",
+        "ro": "oṃ śatrutāpanāya namaḥ ."
       }
     },
     {
@@ -22855,6 +23855,16 @@
         "te_d": "",
         "sa": "उदुम्बरः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "उदुम्बराय",
+        "te": "ఉదుమ్బరాయ",
+        "ro": "udumbarāya"
+      },
+      "chant": {
+        "sa": "ॐ उदुम्बराय नमः ।",
+        "te": "ఓం ఉదుమ్బరాయ నమః ।",
+        "ro": "oṃ udumbarāya namaḥ ."
       }
     },
     {
@@ -22926,14 +23936,14 @@
       "name_te": "సహస్రార్చిః",
       "name_ro": "sahasrārciḥ",
       "dative": {
-        "sa": "सहस्रार्चये",
-        "te": "సహస్రార్చయే",
-        "ro": "sahasrārcaye"
+        "sa": "सहस्रार्चिषे",
+        "te": "సహస్రార్చిషే",
+        "ro": "sahasrārciṣe"
       },
       "chant": {
-        "sa": "ॐ सहस्रार्चये नमः ।",
-        "te": "ఓం సహస్రార్చయే నమః ।",
-        "ro": "oṃ sahasrārcaye namaḥ ."
+        "sa": "ॐ सहस्रार्चिषे नमः ।",
+        "te": "ఓం సహస్రార్చిషే నమః ।",
+        "ro": "oṃ sahasrārciṣe namaḥ ."
       },
       "meaning": {
         "en": "The Multi-Rayed Beam",
@@ -22984,14 +23994,14 @@
       "name_te": "సప్తైధాః",
       "name_ro": "saptaidhāḥ",
       "dative": {
-        "sa": "सप्तैधायै",
-        "te": "సప్తైధాయై",
-        "ro": "saptaidhāyai"
+        "sa": "सप्तैधसे",
+        "te": "సప్తైధసే",
+        "ro": "saptaidhase"
       },
       "chant": {
-        "sa": "ॐ सप्तैधायै नमः ।",
-        "te": "ఓం సప్తైధాయై నమః ।",
-        "ro": "oṃ saptaidhāyai namaḥ ."
+        "sa": "ॐ सप्तैधसे नमः ।",
+        "te": "ఓం సప్తైధసే నమః ।",
+        "ro": "oṃ saptaidhase namaḥ ."
       },
       "meaning": {
         "en": "The Seven Radiances",
@@ -23135,6 +24145,16 @@
         "te_d": "",
         "sa": "भयकर्ता",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "भयकृते",
+        "te": "భయకృతే",
+        "ro": "bhayakṛte"
+      },
+      "chant": {
+        "sa": "ॐ भयकृते नमः ।",
+        "te": "ఓం భయకృతే నమః ।",
+        "ro": "oṃ bhayakṛte namaḥ ."
       }
     },
     {
@@ -23154,6 +24174,16 @@
         "te_d": "",
         "sa": "भयनाशनः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "भयनाशनाय",
+        "te": "భయనాశనాయ",
+        "ro": "bhayanāśanāya"
+      },
+      "chant": {
+        "sa": "ॐ भयनाशनाय नमः ।",
+        "te": "ఓం భయనాశనాయ నమః ।",
+        "ro": "oṃ bhayanāśanāya namaḥ ."
       }
     },
     {
@@ -23202,6 +24232,16 @@
         "te_d": "",
         "sa": "बृहत्स्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "बृहते",
+        "te": "బృహతే",
+        "ro": "bṛhate"
+      },
+      "chant": {
+        "sa": "ॐ बृहते नमः ।",
+        "te": "ఓం బృహతే నమః ।",
+        "ro": "oṃ bṛhate namaḥ ."
       }
     },
     {
@@ -23221,6 +24261,16 @@
         "te_d": "",
         "sa": "कृशात्मा",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "कृशाय",
+        "te": "కృశాయ",
+        "ro": "kṛśāya"
+      },
+      "chant": {
+        "sa": "ॐ कृशाय नमः ।",
+        "te": "ఓం కృశాయ నమః ।",
+        "ro": "oṃ kṛśāya namaḥ ."
       }
     },
     {
@@ -23321,14 +24371,14 @@
       "name_te": "మహాన్",
       "name_ro": "mahān",
       "dative": {
-        "sa": "महाने",
-        "te": "మహానే",
-        "ro": "mahāne"
+        "sa": "महते",
+        "te": "మహతే",
+        "ro": "mahate"
       },
       "chant": {
-        "sa": "ॐ महाने नमः ।",
-        "te": "ఓం మహానే నమః ।",
-        "ro": "oṃ mahāne namaḥ ."
+        "sa": "ॐ महते नमः ।",
+        "te": "ఓం మహతే నమః ।",
+        "ro": "oṃ mahate namaḥ ."
       },
       "meaning": {
         "en": "The Supremely Great",
@@ -23437,14 +24487,14 @@
       "name_te": "ప్రాగ్వంశః",
       "name_ro": "prāgvaṃśaḥ",
       "dative": {
-        "sa": "प्राग्वंशाय",
-        "te": "ప్రాగ్వంశాయ",
-        "ro": "prāgvaṃśāya"
+        "sa": "प्राग्वम्शाय",
+        "te": "ప్రాగ్వమ్శాయ",
+        "ro": "prāgvamśāya"
       },
       "chant": {
-        "sa": "ॐ प्राग्वंशाय नमः ।",
-        "te": "ఓం ప్రాగ్వంశాయ నమః ।",
-        "ro": "oṃ prāgvaṃśāya namaḥ ."
+        "sa": "ॐ प्राग्वम्शाय नमः ।",
+        "te": "ఓం ప్రాగ్వమ్శాయ నమః ।",
+        "ro": "oṃ prāgvamśāya namaḥ ."
       },
       "meaning": {
         "en": "The Primal Lineage",
@@ -23466,14 +24516,14 @@
       "name_te": "వంశవర్ధనః",
       "name_ro": "vaṃśavardhanaḥ",
       "dative": {
-        "sa": "वंशवर्धनाय",
-        "te": "వంశవర్ధనాయ",
-        "ro": "vaṃśavardhanāya"
+        "sa": "वम्शवर्धनाय",
+        "te": "వమ్శవర్ధనాయ",
+        "ro": "vamśavardhanāya"
       },
       "chant": {
-        "sa": "ॐ वंशवर्धनाय नमः ।",
-        "te": "ఓం వంశవర్ధనాయ నమః ।",
-        "ro": "oṃ vaṃśavardhanāya namaḥ ."
+        "sa": "ॐ वम्शवर्धनाय नमः ।",
+        "te": "ఓం వమ్శవర్ధనాయ నమః ।",
+        "ro": "oṃ vamśavardhanāya namaḥ ."
       },
       "meaning": {
         "en": "The Expander of Creation",
@@ -23791,6 +24841,16 @@
         "te_d": "",
         "sa": "धनुर्धरः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "धनुर्धराय",
+        "te": "ధనుర్ధరాయ",
+        "ro": "dhanurdharāya"
+      },
+      "chant": {
+        "sa": "ॐ धनुर्धराय नमः ।",
+        "te": "ఓం ధనుర్ధరాయ నమః ।",
+        "ro": "oṃ dhanurdharāya namaḥ ."
       }
     },
     {
@@ -23810,6 +24870,16 @@
         "te_d": "",
         "sa": "धनुर्वेदज्ञः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "धनुर्वेदाय",
+        "te": "ధనుర్వేదాయ",
+        "ro": "dhanurvedāya"
+      },
+      "chant": {
+        "sa": "ॐ धनुर्वेदाय नमः ।",
+        "te": "ఓం ధనుర్వేదాయ నమః ।",
+        "ro": "oṃ dhanurvedāya namaḥ ."
       }
     },
     {
@@ -23852,14 +24922,14 @@
       "name_te": "దమయితా",
       "name_ro": "damayitā",
       "dative": {
-        "sa": "दमयितने",
-        "te": "దమయితనే",
-        "ro": "damayitane"
+        "sa": "दमयित्रे",
+        "te": "దమయిత్రే",
+        "ro": "damayitre"
       },
       "chant": {
-        "sa": "ॐ दमयितने नमः ।",
-        "te": "ఓం దమయితనే నమః ।",
-        "ro": "oṃ damayitane namaḥ ."
+        "sa": "ॐ दमयित्रे नमः ।",
+        "te": "ఓం దమయిత్రే నమః ।",
+        "ro": "oṃ damayitre namaḥ ."
       },
       "meaning": {
         "en": "The Punisher of Wicked",
@@ -23974,6 +25044,16 @@
         "te_d": "",
         "sa": "नियन्ता",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "नियन्त्रे",
+        "te": "నియన్త్రే",
+        "ro": "niyantre"
+      },
+      "chant": {
+        "sa": "ॐ नियन्त्रे नमः ।",
+        "te": "ఓం నియన్త్రే నమః ।",
+        "ro": "oṃ niyantre namaḥ ."
       }
     },
     {
@@ -23993,6 +25073,16 @@
         "te_d": "",
         "sa": "अनियमः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अनियमाय",
+        "te": "అనియమాయ",
+        "ro": "aniyamāya"
+      },
+      "chant": {
+        "sa": "ॐ अनियमाय नमः ।",
+        "te": "ఓం అనియమాయ నమః ।",
+        "ro": "oṃ aniyamāya namaḥ ."
       }
     },
     {
@@ -24006,14 +25096,14 @@
       "name_te": "యమః",
       "name_ro": "yamaḥ",
       "dative": {
-        "sa": "यमाय",
-        "te": "యమాయ",
-        "ro": "yamāya"
+        "sa": "अयमाय",
+        "te": "అయమాయ",
+        "ro": "ayamāya"
       },
       "chant": {
-        "sa": "ॐ यमाय नमः ।",
-        "te": "ఓం యమాయ నమః ।",
-        "ro": "oṃ yamāya namaḥ ."
+        "sa": "ॐ अयमाय नमः ।",
+        "te": "ఓం అయమాయ నమః ।",
+        "ro": "oṃ ayamāya namaḥ ."
       },
       "meaning": {
         "en": "The Internal Regulator",
@@ -24035,14 +25125,14 @@
       "name_te": "సత్త్వవాన్",
       "name_ro": "sattvavān",
       "dative": {
-        "sa": "सत्त्ववाने",
-        "te": "సత్త్వవానే",
-        "ro": "sattvavāne"
+        "sa": "सत्त्ववते",
+        "te": "సత్త్వవతే",
+        "ro": "sattvavate"
       },
       "chant": {
-        "sa": "ॐ सत्त्ववाने नमः ।",
-        "te": "ఓం సత్త్వవానే నమః ।",
-        "ro": "oṃ sattvavāne namaḥ ."
+        "sa": "ॐ सत्त्ववते नमः ।",
+        "te": "ఓం సత్త్వవతే నమః ।",
+        "ro": "oṃ sattvavate namaḥ ."
       },
       "meaning": {
         "en": "The Vault of Fortitude",
@@ -24273,6 +25363,16 @@
         "te_d": "",
         "sa": "प्रीतिवर्धनः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "प्रीतिवर्धनाय",
+        "te": "ప్రీతివర్ధనాయ",
+        "ro": "prītivardhanāya"
+      },
+      "chant": {
+        "sa": "ॐ प्रीतिवर्धनाय नमः ।",
+        "te": "ఓం ప్రీతివర్ధనాయ నమః ।",
+        "ro": "oṃ prītivardhanāya namaḥ ."
       }
     },
     {
@@ -24315,14 +25415,14 @@
       "name_te": "జ్యోతిః",
       "name_ro": "jyotiḥ",
       "dative": {
-        "sa": "ज्योतये",
-        "te": "జ్యోతయే",
-        "ro": "jyotaye"
+        "sa": "ज्योतिषे",
+        "te": "జ్యోతిషే",
+        "ro": "jyotiṣe"
       },
       "chant": {
-        "sa": "ॐ ज्योतये नमः ।",
-        "te": "ఓం జ్యోతయే నమః ।",
-        "ro": "oṃ jyotaye namaḥ ."
+        "sa": "ॐ ज्योतिषे नमः ।",
+        "te": "ఓం జ్యోతిషే నమః ।",
+        "ro": "oṃ jyotiṣe namaḥ ."
       },
       "meaning": {
         "en": "The Self-Luminous Light",
@@ -24379,6 +25479,16 @@
         "te_d": "",
         "sa": "हुतभोक्ता",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "हुतभुजे",
+        "te": "హుతభుజే",
+        "ro": "hutabhuje"
+      },
+      "chant": {
+        "sa": "ॐ हुतभुजे नमः ।",
+        "te": "ఓం హుతభుజే నమః ।",
+        "ro": "oṃ hutabhuje namaḥ ."
       }
     },
     {
@@ -24398,6 +25508,16 @@
         "te_d": "",
         "sa": "विभुः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "विभवे",
+        "te": "విభవే",
+        "ro": "vibhave"
+      },
+      "chant": {
+        "sa": "ॐ विभवे नमः ।",
+        "te": "ఓం విభవే నమః ।",
+        "ro": "oṃ vibhave namaḥ ."
       }
     },
     {
@@ -24498,14 +25618,14 @@
       "name_te": "సవితా",
       "name_ro": "savitā",
       "dative": {
-        "sa": "सवितने",
-        "te": "సవితనే",
-        "ro": "savitane"
+        "sa": "सवित्रे",
+        "te": "సవిత్రే",
+        "ro": "savitre"
       },
       "chant": {
-        "sa": "ॐ सवितने नमः ।",
-        "te": "ఓం సవితనే నమః ।",
-        "ro": "oṃ savitane namaḥ ."
+        "sa": "ॐ सवित्रे नमः ।",
+        "te": "ఓం సవిత్రే నమః ।",
+        "ro": "oṃ savitre namaḥ ."
       },
       "meaning": {
         "en": "The Parent of Creation",
@@ -24591,6 +25711,16 @@
         "te_d": "",
         "sa": "हुतभोक्ता",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "हुतभुजे",
+        "te": "హుతభుజే",
+        "ro": "hutabhuje"
+      },
+      "chant": {
+        "sa": "ॐ हुतभुजे नमः ।",
+        "te": "ఓం హుతభుజే నమః ।",
+        "ro": "oṃ hutabhuje namaḥ ."
       }
     },
     {
@@ -24604,14 +25734,14 @@
       "name_te": "భోక్తా",
       "name_ro": "bhoktā",
       "dative": {
-        "sa": "भोक्तने",
-        "te": "భోక్తనే",
-        "ro": "bhoktane"
+        "sa": "भोक्त्रे",
+        "te": "భోక్త్రే",
+        "ro": "bhoktre"
       },
       "chant": {
-        "sa": "ॐ भोक्तने नमः ।",
-        "te": "ఓం భోక్తనే నమః ।",
-        "ro": "oṃ bhoktane namaḥ ."
+        "sa": "ॐ भोक्त्रे नमः ।",
+        "te": "ఓం భోక్త్రే నమః ।",
+        "ro": "oṃ bhoktre namaḥ ."
       },
       "meaning": {
         "en": "The Supreme Consumer",
@@ -24749,14 +25879,14 @@
       "name_te": "సదామర్షీ",
       "name_ro": "sadāmarṣī",
       "dative": {
-        "sa": "सदामर्षिने",
-        "te": "సదామర్షినే",
-        "ro": "sadāmarṣine"
+        "sa": "सदामर्षिणे",
+        "te": "సదామర్షిణే",
+        "ro": "sadāmarṣiṇe"
       },
       "chant": {
-        "sa": "ॐ सदामर्षिने नमः ।",
-        "te": "ఓం సదామర్షినే నమః ।",
-        "ro": "oṃ sadāmarṣine namaḥ ."
+        "sa": "ॐ सदामर्षिणे नमः ।",
+        "te": "ఓం సదామర్షిణే నమః ।",
+        "ro": "oṃ sadāmarṣiṇe namaḥ ."
       },
       "meaning": {
         "en": "The Forbearing Guardian",
@@ -24784,6 +25914,16 @@
         "te_d": "",
         "sa": "लोकाधिष्ठानम्",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "लोकाधिष्ठानाय",
+        "te": "లోకాధిష్ఠానాయ",
+        "ro": "lokādhiṣṭhānāya"
+      },
+      "chant": {
+        "sa": "ॐ लोकाधिष्ठानाय नमः ।",
+        "te": "ఓం లోకాధిష్ఠానాయ నమః ।",
+        "ro": "oṃ lokādhiṣṭhānāya namaḥ ."
       }
     },
     {
@@ -24803,6 +25943,16 @@
         "te_d": "",
         "sa": "अद्भुतस्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अद्भुताय",
+        "te": "అద్భుతాయ",
+        "ro": "adbhutāya"
+      },
+      "chant": {
+        "sa": "ॐ अद्भुताय नमः ।",
+        "te": "ఓం అద్భుతాయ నమః ।",
+        "ro": "oṃ adbhutāya namaḥ ."
       }
     },
     {
@@ -24822,6 +25972,16 @@
         "te_d": "",
         "sa": "सनात्",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "सनाते",
+        "te": "సనాతే",
+        "ro": "sanāte"
+      },
+      "chant": {
+        "sa": "ॐ सनाते नमः ।",
+        "te": "ఓం సనాతే నమః ।",
+        "ro": "oṃ sanāte namaḥ ."
       }
     },
     {
@@ -24841,6 +26001,16 @@
         "te_d": "",
         "sa": "सनातनतमः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "सनातनतमाय",
+        "te": "సనాతనతమాయ",
+        "ro": "sanātanatamāya"
+      },
+      "chant": {
+        "sa": "ॐ सनातनतमाय नमः ।",
+        "te": "ఓం సనాతనతమాయ నమః ।",
+        "ro": "oṃ sanātanatamāya namaḥ ."
       }
     },
     {
@@ -24889,6 +26059,16 @@
         "te_d": "",
         "sa": "कपिः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "कपये",
+        "te": "కపయే",
+        "ro": "kapaye"
+      },
+      "chant": {
+        "sa": "ॐ कपये नमः ।",
+        "te": "ఓం కపయే నమః ।",
+        "ro": "oṃ kapaye namaḥ ."
       }
     },
     {
@@ -24966,6 +26146,16 @@
         "te_d": "",
         "sa": "स्वस्तिकर्ता",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "स्वस्तिकृते",
+        "te": "స్వస్తికృతే",
+        "ro": "svastikṛte"
+      },
+      "chant": {
+        "sa": "ॐ स्वस्तिकृते नमः ।",
+        "te": "ఓం స్వస్తికృతే నమః ।",
+        "ro": "oṃ svastikṛte namaḥ ."
       }
     },
     {
@@ -24985,6 +26175,16 @@
         "te_d": "",
         "sa": "स्वस्तिस्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "स्वस्तये",
+        "te": "స్వస్తయే",
+        "ro": "svastaye"
+      },
+      "chant": {
+        "sa": "ॐ स्वस्तये नमः ।",
+        "te": "ఓం స్వస్తయే నమః ।",
+        "ro": "oṃ svastaye namaḥ ."
       }
     },
     {
@@ -25004,6 +26204,16 @@
         "te_d": "",
         "sa": "स्वस्तिभोक्ता",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "स्वस्तिभुजे",
+        "te": "స్వస్తిభుజే",
+        "ro": "svastibhuje"
+      },
+      "chant": {
+        "sa": "ॐ स्वस्तिभुजे नमः ।",
+        "te": "ఓం స్వస్తిభుజే నమః ।",
+        "ro": "oṃ svastibhuje namaḥ ."
       }
     },
     {
@@ -25023,6 +26233,16 @@
         "te_d": "",
         "sa": "स्वस्तिदायकः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "स्वस्तिदक्षिणाय",
+        "te": "స్వస్తిదక్షిణాయ",
+        "ro": "svastidakṣiṇāya"
+      },
+      "chant": {
+        "sa": "ॐ स्वस्तिदक्षिणाय नमः ।",
+        "te": "ఓం స్వస్తిదక్షిణాయ నమః ।",
+        "ro": "oṃ svastidakṣiṇāya namaḥ ."
       }
     },
     {
@@ -25094,14 +26314,14 @@
       "name_te": "చక్రీ",
       "name_ro": "cakrī",
       "dative": {
-        "sa": "चक्रिने",
-        "te": "చక్రినే",
-        "ro": "cakrine"
+        "sa": "चक्रिणे",
+        "te": "చక్రిణే",
+        "ro": "cakriṇe"
       },
       "chant": {
-        "sa": "ॐ चक्रिने नमः ।",
-        "te": "ఓం చక్రినే నమః ।",
-        "ro": "oṃ cakrine namaḥ ."
+        "sa": "ॐ चक्रिणे नमः ।",
+        "te": "ఓం చక్రిణే నమః ।",
+        "ro": "oṃ cakriṇe namaḥ ."
       },
       "meaning": {
         "en": "Wielder of the Discus",
@@ -25123,14 +26343,14 @@
       "name_te": "విక్రమీ",
       "name_ro": "vikramī",
       "dative": {
-        "sa": "विक्रमिने",
-        "te": "విక్రమినే",
-        "ro": "vikramine"
+        "sa": "विक्रमिणे",
+        "te": "విక్రమిణే",
+        "ro": "vikramiṇe"
       },
       "chant": {
-        "sa": "ॐ विक्रमिने नमः ।",
-        "te": "ఓం విక్రమినే నమః ।",
-        "ro": "oṃ vikramine namaḥ ."
+        "sa": "ॐ विक्रमिणे नमः ।",
+        "te": "ఓం విక్రమిణే నమః ।",
+        "ro": "oṃ vikramiṇe namaḥ ."
       },
       "meaning": {
         "en": "The Valorous Stricter",
@@ -25158,6 +26378,16 @@
         "te_d": "",
         "sa": "ऊर्जितशासनः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "ऊर्जितशासनाय",
+        "te": "ఊర్జితశాసనాయ",
+        "ro": "ūrjitaśāsanāya"
+      },
+      "chant": {
+        "sa": "ॐ ऊर्जितशासनाय नमः ।",
+        "te": "ఓం ఊర్జితశాసనాయ నమః ।",
+        "ro": "oṃ ūrjitaśāsanāya namaḥ ."
       }
     },
     {
@@ -25403,14 +26633,14 @@
       "name_te": "క్షమిణాం వరః",
       "name_ro": "kṣamiṇāṃ varaḥ",
       "dative": {
-        "sa": "क्षमिणाय",
-        "te": "క్షమిణాయ",
-        "ro": "kṣamiṇāya"
+        "sa": "क्षमिणाम् वराय",
+        "te": "క్షమిణామ్ వరాయ",
+        "ro": "kṣamiṇām varāya"
       },
       "chant": {
-        "sa": "ॐ क्षमिणाय नमः ।",
-        "te": "ఓం క్షమిణాయ నమః ।",
-        "ro": "oṃ kṣamiṇāya namaḥ ."
+        "sa": "ॐ क्षमिणाम् वराय नमः ।",
+        "te": "ఓం క్షమిణామ్ వరాయ నమః ।",
+        "ro": "oṃ kṣamiṇām varāya namaḥ ."
       },
       "meaning": {
         "en": "The Greatest of Forbearing",
@@ -25496,6 +26726,16 @@
         "te_d": "",
         "sa": "पुण्यश्रवणकीर्तनः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "पुण्यश्रवणकीर्तनाय",
+        "te": "పుణ్యశ్రవణకీర్తనాయ",
+        "ro": "puṇyaśravaṇakīrtanāya"
+      },
+      "chant": {
+        "sa": "ॐ पुण्यश्रवणकीर्तनाय नमः ।",
+        "te": "ఓం పుణ్యశ్రవణకీర్తనాయ నమః ।",
+        "ro": "oṃ puṇyaśravaṇakīrtanāya namaḥ ."
       }
     },
     {
@@ -25538,14 +26778,14 @@
       "name_te": "దుష్కృతిహా",
       "name_ro": "duṣkṛtihā",
       "dative": {
-        "sa": "दुष्कृतिहने",
-        "te": "దుష్కృతిహనే",
-        "ro": "duṣkṛtihane"
+        "sa": "दुष्कृतिघ्ने",
+        "te": "దుష్కృతిఘ్నే",
+        "ro": "duṣkṛtighne"
       },
       "chant": {
-        "sa": "ॐ दुष्कृतिहने नमः ।",
-        "te": "ఓం దుష్కృతిహనే నమః ।",
-        "ro": "oṃ duṣkṛtihane namaḥ ."
+        "sa": "ॐ दुष्कृतिघ्ने नमः ।",
+        "te": "ఓం దుష్కృతిఘ్నే నమః ।",
+        "ro": "oṃ duṣkṛtighne namaḥ ."
       },
       "meaning": {
         "en": "The Eraser of Sins",
@@ -25625,14 +26865,14 @@
       "name_te": "వీరహా",
       "name_ro": "vīrahā",
       "dative": {
-        "sa": "वीरहने",
-        "te": "వీరహనే",
-        "ro": "vīrahane"
+        "sa": "वीरघ्ने",
+        "te": "వీరఘ్నే",
+        "ro": "vīraghne"
       },
       "chant": {
-        "sa": "ॐ वीरहने नमः ।",
-        "te": "ఓం వీరహనే నమః ।",
-        "ro": "oṃ vīrahane namaḥ ."
+        "sa": "ॐ वीरघ्ने नमः ।",
+        "te": "ఓం వీరఘ్నే నమః ।",
+        "ro": "oṃ vīraghne namaḥ ."
       },
       "meaning": {
         "en": "The Cutter of Bondage",
@@ -25683,14 +26923,14 @@
       "name_te": "సన్తః",
       "name_ro": "santaḥ",
       "dative": {
-        "sa": "सन्ताय",
-        "te": "సన్తాయ",
-        "ro": "santāya"
+        "sa": "सद्भ्यो",
+        "te": "సద్భ్యో",
+        "ro": "sadbhyo"
       },
       "chant": {
-        "sa": "ॐ सन्ताय नमः ।",
-        "te": "ఓం సన్తాయ నమః ।",
-        "ro": "oṃ santāya namaḥ ."
+        "sa": "ॐ सद्भ्यो नमः ।",
+        "te": "ఓం సద్భ్యో నమః ।",
+        "ro": "oṃ sadbhyo namaḥ ."
       },
       "meaning": {
         "en": "The Soul of the Good",
@@ -25799,14 +27039,14 @@
       "name_te": "అనన్తశ్రీః",
       "name_ro": "anantaśrīḥ",
       "dative": {
-        "sa": "अनन्तश्रये",
-        "te": "అనన్తశ్రయే",
-        "ro": "anantaśraye"
+        "sa": "अनन्तश्रिये",
+        "te": "అనన్తశ్రియే",
+        "ro": "anantaśriye"
       },
       "chant": {
-        "sa": "ॐ अनन्तश्रये नमः ।",
-        "te": "ఓం అనన్తశ్రయే నమః ।",
-        "ro": "oṃ anantaśraye namaḥ ."
+        "sa": "ॐ अनन्तश्रिये नमः ।",
+        "te": "ఓం అనన్తశ్రియే నమః ।",
+        "ro": "oṃ anantaśriye namaḥ ."
       },
       "meaning": {
         "en": "The Infinite Splendor",
@@ -26037,6 +27277,16 @@
         "te_d": "",
         "sa": "अनादिः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अनादये",
+        "te": "అనాదయే",
+        "ro": "anādaye"
+      },
+      "chant": {
+        "sa": "ॐ अनादये नमः ।",
+        "te": "ఓం అనాదయే నమః ।",
+        "ro": "oṃ anādaye namaḥ ."
       }
     },
     {
@@ -26050,14 +27300,14 @@
       "name_te": "భూర్భువః",
       "name_ro": "bhūrbhuvaḥ",
       "dative": {
-        "sa": "भूर्भुवाय",
-        "te": "భూర్భువాయ",
-        "ro": "bhūrbhuvāya"
+        "sa": "भुवोभुवे",
+        "te": "భువోభువే",
+        "ro": "bhuvobhuve"
       },
       "chant": {
-        "sa": "ॐ भूर्भुवाय नमः ।",
-        "te": "ఓం భూర్భువాయ నమః ।",
-        "ro": "oṃ bhūrbhuvāya namaḥ ."
+        "sa": "ॐ भुवोभुवे नमः ।",
+        "te": "ఓం భువోభువే నమః ।",
+        "ro": "oṃ bhuvobhuve namaḥ ."
       },
       "meaning": {
         "en": "The World Tree of Three Realms",
@@ -26079,14 +27329,14 @@
       "name_te": "లక్ష్మీః",
       "name_ro": "lakṣmīḥ",
       "dative": {
-        "sa": "लक्ष्मये",
-        "te": "లక్ష్మయే",
-        "ro": "lakṣmaye"
+        "sa": "लक्ष्म्यै",
+        "te": "లక్ష్మ్యై",
+        "ro": "lakṣmyai"
       },
       "chant": {
-        "sa": "ॐ लक्ष्मये नमः ।",
-        "te": "ఓం లక్ష్మయే నమః ।",
-        "ro": "oṃ lakṣmaye namaḥ ."
+        "sa": "ॐ लक्ष्म्यै नमः ।",
+        "te": "ఓం లక్ష్మ్యై నమః ।",
+        "ro": "oṃ lakṣmyai namaḥ ."
       },
       "meaning": {
         "en": "The Splendor of Earth and Sky",
@@ -26311,14 +27561,14 @@
       "name_te": "అధాతా",
       "name_ro": "adhātā",
       "dative": {
-        "sa": "अधातने",
-        "te": "అధాతనే",
-        "ro": "adhātane"
+        "sa": "अधात्रे",
+        "te": "అధాత్రే",
+        "ro": "adhātre"
       },
       "chant": {
-        "sa": "ॐ अधातने नमः ।",
-        "te": "ఓం అధాతనే నమః ।",
-        "ro": "oṃ adhātane namaḥ ."
+        "sa": "ॐ अधात्रे नमः ।",
+        "te": "ఓం అధాత్రే నమః ।",
+        "ro": "oṃ adhātre namaḥ ."
       },
       "meaning": {
         "en": "The Independent Support",
@@ -26607,6 +27857,16 @@
         "te_d": "",
         "sa": "प्राणभर्ता",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "प्राणभृते",
+        "te": "ప్రాణభృతే",
+        "ro": "prāṇabhṛte"
+      },
+      "chant": {
+        "sa": "ॐ प्राणभृते नमः ।",
+        "te": "ఓం ప్రాణభృతే నమః ।",
+        "ro": "oṃ prāṇabhṛte namaḥ ."
       }
     },
     {
@@ -26626,6 +27886,16 @@
         "te_d": "",
         "sa": "प्राणजीवनः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "प्राणजीवनाय",
+        "te": "ప్రాణజీవనాయ",
+        "ro": "prāṇajīvanāya"
+      },
+      "chant": {
+        "sa": "ॐ प्राणजीवनाय नमः ।",
+        "te": "ఓం ప్రాణజీవనాయ నమః ।",
+        "ro": "oṃ prāṇajīvanāya namaḥ ."
       }
     },
     {
@@ -26674,6 +27944,16 @@
         "te_d": "",
         "sa": "तत्त्ववित्",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "तत्त्वविदे",
+        "te": "తత్త్వవిదే",
+        "ro": "tattvavide"
+      },
+      "chant": {
+        "sa": "ॐ तत्त्वविदे नमः ।",
+        "te": "ఓం తత్త్వవిదే నమః ।",
+        "ro": "oṃ tattvavide namaḥ ."
       }
     },
     {
@@ -26693,6 +27973,16 @@
         "te_d": "",
         "sa": "एकात्मा",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "एकात्मने",
+        "te": "ఏకాత్మనే",
+        "ro": "ekātmane"
+      },
+      "chant": {
+        "sa": "ॐ एकात्मने नमः ।",
+        "te": "ఓం ఏకాత్మనే నమః ।",
+        "ro": "oṃ ekātmane namaḥ ."
       }
     },
     {
@@ -26741,6 +28031,16 @@
         "te_d": "",
         "sa": "भूर्भुवःस्वस्तरुः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "भुर्भुवः स्वस्तरवे",
+        "te": "భుర్భువః స్వస్తరవే",
+        "ro": "bhurbhuvaḥ svastarave"
+      },
+      "chant": {
+        "sa": "ॐ भुर्भुवः स्वस्तरवे नमः ।",
+        "te": "ఓం భుర్భువః స్వస్తరవే నమః ।",
+        "ro": "oṃ bhurbhuvaḥ svastarave namaḥ ."
       }
     },
     {
@@ -26760,6 +28060,16 @@
         "te_d": "",
         "sa": "तारकः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "ताराय",
+        "te": "తారాయ",
+        "ro": "tārāya"
+      },
+      "chant": {
+        "sa": "ॐ ताराय नमः ।",
+        "te": "ఓం తారాయ నమః ।",
+        "ro": "oṃ tārāya namaḥ ."
       }
     },
     {
@@ -26773,14 +28083,14 @@
       "name_te": "సవితా",
       "name_ro": "savitā",
       "dative": {
-        "sa": "सवितने",
-        "te": "సవితనే",
-        "ro": "savitane"
+        "sa": "सवित्रे",
+        "te": "సవిత్రే",
+        "ro": "savitre"
       },
       "chant": {
-        "sa": "ॐ सवितने नमः ।",
-        "te": "ఓం సవితనే నమః ।",
-        "ro": "oṃ savitane namaḥ ."
+        "sa": "ॐ सवित्रे नमः ।",
+        "te": "ఓం సవిత్రే నమః ।",
+        "ro": "oṃ savitre namaḥ ."
       },
       "meaning": {
         "en": "The Parent of Creation",
@@ -26976,14 +28286,14 @@
       "name_te": "యజ్ఞభృత్",
       "name_ro": "yajñabhṛt",
       "dative": {
-        "sa": "यज्ञभृदे",
-        "te": "యజ్ఞభృదే",
-        "ro": "yajñabhṛde"
+        "sa": "यज्ञभृते",
+        "te": "యజ్ఞభృతే",
+        "ro": "yajñabhṛte"
       },
       "chant": {
-        "sa": "ॐ यज्ञभृदे नमः ।",
-        "te": "ఓం యజ్ఞభృదే నమః ।",
-        "ro": "oṃ yajñabhṛde namaḥ ."
+        "sa": "ॐ यज्ञभृते नमः ।",
+        "te": "ఓం యజ్ఞభృతే నమః ।",
+        "ro": "oṃ yajñabhṛte namaḥ ."
       },
       "meaning": {
         "en": "Upholder of sacrifice",
@@ -27005,14 +28315,14 @@
       "name_te": "యజ్ఞకృత్",
       "name_ro": "yajñakṛt",
       "dative": {
-        "sa": "यज्ञकृदे",
-        "te": "యజ్ఞకృదే",
-        "ro": "yajñakṛde"
+        "sa": "यज्ञकृते",
+        "te": "యజ్ఞకృతే",
+        "ro": "yajñakṛte"
       },
       "chant": {
-        "sa": "ॐ यज्ञकृदे नमः ।",
-        "te": "ఓం యజ్ఞకృదే నమః ।",
-        "ro": "oṃ yajñakṛde namaḥ ."
+        "sa": "ॐ यज्ञकृते नमः ।",
+        "te": "ఓం యజ్ఞకృతే నమః ।",
+        "ro": "oṃ yajñakṛte namaḥ ."
       },
       "meaning": {
         "en": "Performer of sacrifice",
@@ -27063,14 +28373,14 @@
       "name_te": "యజ్ఞభుగ్",
       "name_ro": "yajñabhug",
       "dative": {
-        "sa": "यज्ञभुगे",
-        "te": "యజ్ఞభుగే",
-        "ro": "yajñabhuge"
+        "sa": "यज्ञभुजे",
+        "te": "యజ్ఞభుజే",
+        "ro": "yajñabhuje"
       },
       "chant": {
-        "sa": "ॐ यज्ञभुगे नमः ।",
-        "te": "ఓం యజ్ఞభుగే నమః ।",
-        "ro": "oṃ yajñabhuge namaḥ ."
+        "sa": "ॐ यज्ञभुजे नमः ।",
+        "te": "ఓం యజ్ఞభుజే నమః ।",
+        "ro": "oṃ yajñabhuje namaḥ ."
       },
       "meaning": {
         "en": "Enjoyer of sacrifice",
@@ -27121,14 +28431,14 @@
       "name_te": "యజ్ఞాన్తకృత్",
       "name_ro": "yajñāntakṛt",
       "dative": {
-        "sa": "यज्ञान्तकृदे",
-        "te": "యజ్ఞాన్తకృదే",
-        "ro": "yajñāntakṛde"
+        "sa": "यज्ञान्तकृते",
+        "te": "యజ్ఞాన్తకృతే",
+        "ro": "yajñāntakṛte"
       },
       "chant": {
-        "sa": "ॐ यज्ञान्तकृदे नमः ।",
-        "te": "ఓం యజ్ఞాన్తకృదే నమః ।",
-        "ro": "oṃ yajñāntakṛde namaḥ ."
+        "sa": "ॐ यज्ञान्तकृते नमः ।",
+        "te": "ఓం యజ్ఞాన్తకృతే నమః ।",
+        "ro": "oṃ yajñāntakṛte namaḥ ."
       },
       "meaning": {
         "en": "Who concludes the sacrifice",
@@ -27150,14 +28460,14 @@
       "name_te": "యజ్ఞగుహ్యమ్",
       "name_ro": "yajñaguhyam",
       "dative": {
-        "sa": "यज्ञगुह्यमे",
-        "te": "యజ్ఞగుహ్యమే",
-        "ro": "yajñaguhyame"
+        "sa": "यज्ञगुह्याय",
+        "te": "యజ్ఞగుహ్యాయ",
+        "ro": "yajñaguhyāya"
       },
       "chant": {
-        "sa": "ॐ यज्ञगुह्यमे नमः ।",
-        "te": "ఓం యజ్ఞగుహ్యమే నమః ।",
-        "ro": "oṃ yajñaguhyame namaḥ ."
+        "sa": "ॐ यज्ञगुह्याय नमः ।",
+        "te": "ఓం యజ్ఞగుహ్యాయ నమః ।",
+        "ro": "oṃ yajñaguhyāya namaḥ ."
       },
       "meaning": {
         "en": "The Esoteric Secret",
@@ -27185,6 +28495,16 @@
         "te_d": "",
         "sa": "अन्नस्वरूपः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अन्नाय",
+        "te": "అన్నాయ",
+        "ro": "annāya"
+      },
+      "chant": {
+        "sa": "ॐ अन्नाय नमः ।",
+        "te": "ఓం అన్నాయ నమః ।",
+        "ro": "oṃ annāya namaḥ ."
       }
     },
     {
@@ -27204,6 +28524,16 @@
         "te_d": "",
         "sa": "अन्नादः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अन्नादाय",
+        "te": "అన్నాదాయ",
+        "ro": "annādāya"
+      },
+      "chant": {
+        "sa": "ॐ अन्नादाय नमः ।",
+        "te": "ఓం అన్నాదాయ నమః ।",
+        "ro": "oṃ annādāya namaḥ ."
       }
     },
     {
@@ -27362,14 +28692,14 @@
       "name_te": "స్రష్టా",
       "name_ro": "sraṣṭā",
       "dative": {
-        "sa": "स्रष्टने",
-        "te": "స్రష్టనే",
-        "ro": "sraṣṭane"
+        "sa": "स्रष्ट्रे",
+        "te": "స్రష్ట్రే",
+        "ro": "sraṣṭre"
       },
       "chant": {
-        "sa": "ॐ स्रष्टने नमः ।",
-        "te": "ఓం స్రష్టనే నమః ।",
-        "ro": "oṃ sraṣṭane namaḥ ."
+        "sa": "ॐ स्रष्ट्रे नमः ।",
+        "te": "ఓం స్రష్ట్రే నమః ।",
+        "ro": "oṃ sraṣṭre namaḥ ."
       },
       "meaning": {
         "en": "The Creator",
@@ -27455,6 +28785,16 @@
         "te_d": "",
         "sa": "शङ्खधारी",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "शङ्खभृते",
+        "te": "శఙ్ఖభృతే",
+        "ro": "śaṅkhabhṛte"
+      },
+      "chant": {
+        "sa": "ॐ शङ्खभृते नमः ।",
+        "te": "ఓం శఙ్ఖభృతే నమః ।",
+        "ro": "oṃ śaṅkhabhṛte namaḥ ."
       }
     },
     {
@@ -27497,14 +28837,14 @@
       "name_te": "చక్రీ",
       "name_ro": "cakrī",
       "dative": {
-        "sa": "चक्रिने",
-        "te": "చక్రినే",
-        "ro": "cakrine"
+        "sa": "चक्रिणे",
+        "te": "చక్రిణే",
+        "ro": "cakriṇe"
       },
       "chant": {
-        "sa": "ॐ चक्रिने नमः ।",
-        "te": "ఓం చక్రినే నమః ।",
-        "ro": "oṃ cakrine namaḥ ."
+        "sa": "ॐ चक्रिणे नमः ।",
+        "te": "ఓం చక్రిణే నమః ।",
+        "ro": "oṃ cakriṇe namaḥ ."
       },
       "meaning": {
         "en": "Wielder of the Discus",
@@ -27590,6 +28930,16 @@
         "te_d": "",
         "sa": "रथाङ्गपाणिः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "रथाङ्गपाणये",
+        "te": "రథాఙ్గపాణయే",
+        "ro": "rathāṅgapāṇaye"
+      },
+      "chant": {
+        "sa": "ॐ रथाङ्गपाणये नमः ।",
+        "te": "ఓం రథాఙ్గపాణయే నమః ।",
+        "ro": "oṃ rathāṅgapāṇaye namaḥ ."
       }
     },
     {
@@ -27609,6 +28959,16 @@
         "te_d": "",
         "sa": "अक्षोभ्यः",
         "sa_d": ""
+      },
+      "dative": {
+        "sa": "अक्षोभ्याय",
+        "te": "అక్షోభ్యాయ",
+        "ro": "akṣobhyāya"
+      },
+      "chant": {
+        "sa": "ॐ अक्षोभ्याय नमः ।",
+        "te": "ఓం అక్షోభ్యాయ నమః ।",
+        "ro": "oṃ akṣobhyāya namaḥ ."
       }
     },
     {
