@@ -9,7 +9,7 @@
 <link rel="manifest" href="/manifest.json">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;500&family=Noto+Serif+Devanagari:wght@400;500&display=swap">
-<link rel="stylesheet" href="/assets/css/main.css?v=40">
+<link rel="stylesheet" href="/assets/css/main.css?v=41">
 </head>
 <body>
 <div id="app">
@@ -706,7 +706,11 @@
         <div class="settings-sub"><a class="about-link" href="https://samskruti.info" target="_blank">samskruti.info ↗</a></div>
       </div>
       <div class="settings-row">
-        <button class="settings-contact-btn" id="settings-contact-btn">✉️ <span data-i18n="contact">Contact</span></button>
+        <div>
+          <div class="settings-label" data-i18n="contact_title">Contact Us</div>
+          <div class="settings-sub" data-i18n="contact_settings_sub">Feedback, corrections, questions</div>
+        </div>
+        <button class="pill active" id="settings-contact-btn">✉️ <span data-i18n="contact">Contact</span></button>
       </div>
     </div>
 
@@ -1280,10 +1284,14 @@
 </div><!-- #app -->
 
 <footer id="footer">
-  <div class="footer-links">
-    <a href="#" id="footer-contact-btn" data-i18n="contact">Contact</a>
-    <a href="https://www.youtube.com/@samskruti.info.1" target="_blank" rel="noopener" class="footer-yt">▶ YouTube</a>
-  </div>
+  <a href="#" id="footer-contact-btn" data-i18n="contact">Contact</a>
+  <a href="https://www.youtube.com/@samskruti.info.1" target="_blank" rel="noopener" class="footer-yt">
+    <svg class="footer-yt-icon" viewBox="0 0 28 20" width="20" height="14" aria-hidden="true">
+      <rect x="0" y="0" width="28" height="20" rx="6" fill="#FF0000"/>
+      <path d="M11 5.5 L20 10 L11 14.5 Z" fill="#fff"/>
+    </svg>
+    YouTube
+  </a>
 </footer>
 
 <!-- Contact Modal -->
@@ -1325,7 +1333,7 @@
 </div>
 
 <script src="/assets/js/constants.js?v=20"></script>
-<script src="/assets/js/modules/i18n.js?v=20"></script>
+<script src="/assets/js/modules/i18n.js?v=21"></script>
 <script src="/assets/js/modules/settings.js?v=21"></script>
 <script src="/assets/js/modules/share.js?v=2"></script>
 <script src="/assets/js/modules/reader.js?v=53"></script>

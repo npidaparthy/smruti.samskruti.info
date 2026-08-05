@@ -227,9 +227,9 @@ body {
 }
 #footer a { color: var(--fg3); text-decoration: none; }
 #footer a:hover { color: var(--accent); }
-.footer-links { display: flex; gap: 16px; align-items: center; }
-.footer-yt { color: var(--fg3) !important; }
+.footer-yt { color: var(--fg3) !important; display: flex; align-items: center; gap: 6px; }
 .footer-yt:hover { color: #ff0000 !important; }
+.footer-yt-icon { flex-shrink: 0; }
 #app { padding-bottom: 40px; }
 
 /* ── Contact Modal ──────────────────────────────────────── */
@@ -722,21 +722,6 @@ sup.akshara-badge {
   color: #1a3a6c;
   border-color: #a0b8d8;
 }
-.settings-contact-btn {
-  width: 100%;
-  padding: 9px 12px;
-  font-size: 13px;
-  font-weight: 500;
-  font-family: var(--font-ui);
-  color: var(--accent2);
-  background: var(--accent-bg);
-  border: 1px solid rgba(196, 99, 26, 0.25);
-  border-radius: 8px;
-  cursor: pointer;
-  text-align: center;
-}
-.settings-contact-btn:hover { background: var(--bg3); }
-
 .about-link { text-decoration: none; color: var(--accent2); }
 .about-link:hover { text-decoration: underline; }
 
