@@ -227,6 +227,7 @@ body {
 }
 #footer a { color: var(--fg3); text-decoration: none; }
 #footer a:hover { color: var(--accent); }
+#footer a.pill.active { color: #fff !important; }
 .footer-yt { color: var(--fg3) !important; display: flex; align-items: center; gap: 6px; }
 .footer-yt:hover { color: #ff0000 !important; }
 .footer-yt-icon { flex-shrink: 0; }
