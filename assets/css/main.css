@@ -204,7 +204,7 @@ body {
 .tab-btn[data-tab="search"],
 .tab-btn[data-tab="quiz"],
 .tab-btn[data-tab="calendar"],
-.tab-btn[data-tab="settings"] { flex: none; width: 38px; font-size: 18px; padding: 7px 2px; }
+.tab-btn[data-tab="settings"] { flex: none; width: 38px; height: 38px; font-size: 18px; padding: 0; line-height: 38px; display: inline-flex; align-items: center; justify-content: center; }
 
 /* Tab panels */
 .panel { display: none; flex: 1; padding: 12px; max-width: 680px; margin: 0 auto; width: 100%; }
