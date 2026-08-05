@@ -200,6 +200,7 @@ body {
 }
 
 /* Icon-only tabs: don't stretch, fixed compact width */
+.tab-btn[data-tab="daily"],
 .tab-btn[data-tab="search"],
 .tab-btn[data-tab="quiz"],
 .tab-btn[data-tab="calendar"],
