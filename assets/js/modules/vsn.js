@@ -65,7 +65,7 @@ const VsnModule = (() => {
 
     try {
       const [nm, tk, nak] = await Promise.all([
-        fetch('/data/vsn/vsn-1000-names.json?v=2').then(r => r.json()),
+        fetch(C.VSN_NAMES + '?v=3').then(r => r.json()),
         fetch('/data/vsn/vsn-verse-tokens.json').then(r => r.json()),
         fetch('/data/vsn/content/nakshatras.json').then(r => r.json()),
       ]);
@@ -182,13 +182,13 @@ ${_buildPopup()}`;
         const sd  = tok.sandhi;
         const key = sd ? (SD_KEY[sd.type]||'') : '';
         const col = COLORS[(tok.n-1) % COLORS.length];
-        const disp = nm ? tr(nm.name) : tok.vf;
+        const disp = nm ? tr(nm.name.sa) : tok.vf;
         // data-disp = rendered name (current script) for script-aware text search
         return `<span class="vsn-chip${sd?' vsn-sd':''}" style="color:${col}"
           data-n="${tok.n}" data-sd="${key}" data-color="${col}"
           data-cf="${(tok.cf||'').replace(/"/g,'&quot;')}"
           data-disp="${disp.replace(/"/g,'&quot;')}"
-          data-dev="${nm?nm.name.replace(/"/g,'&quot;'):''}"
+          data-dev="${nm?nm.name.sa.replace(/"/g,'&quot;'):''}"
           data-anta="${nm?nm.anta:''}" data-linga="${nm?nm.linga:''}">${disp}</span>`;
       }).join('');
 
@@ -434,8 +434,8 @@ ${_buildNakPanel()}
             _phon(chip.dataset.anta).includes(rawNorm) ||
             _phon(chip.dataset.linga).includes(rawNorm) ||
             (chip.dataset.sd||'').includes(raw) ||
-            (nm && _phon(nm.en).includes(rawNorm)) ||
-            (nm && (nm.te||'').toLowerCase().includes(raw))
+            (nm && _phon((nm.meaning||{}).en).includes(rawNorm)) ||
+            (nm && ((nm.meaning||{}).te||'').toLowerCase().includes(raw))
           ) { show = true; break; }
         }
       }
@@ -478,7 +478,7 @@ ${_buildNakPanel()}
     const col = color || COLORS[(n-1) % COLORS.length];
     document.getElementById('vsn-pop-num').textContent  = '#' + n;
     document.getElementById('vsn-pop-hd').style.background = col;
-    document.getElementById('vsn-pop-name').textContent = tr(nm.name);
+    document.getElementById('vsn-pop-name').textContent = tr(nm.name.sa);
     document.getElementById('vsn-pop-gram').innerHTML   =
       [nm.anta, nm.linga].filter(Boolean).map(x => `<span>${tr(x)}</span>`).join('');
     document.getElementById('vsn-pop-mantra').textContent = tr(nm.mantra);

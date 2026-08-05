@@ -6,7 +6,10 @@ const C = {
   NAKSHATRAS:    '/data/vsn/content/nakshatras.json',
   SEARCH_INDEX:  '/data/search-index.json',
   VSN_SHLOKAS:   '/data/vsn/content/vsn-shlokas.json',
-  VSN_NAMES:     '/data/vsn/content/vsn-names.json',
+  // Canonical, hand-maintained 1010-name file (dative/chant/grammar/nested
+  // meaning) — see scripts/merge-vsn-names.py. content/vsn-names.json (978
+  // names, build-time intermediate) is archived; do not resurrect its path.
+  VSN_NAMES:     '/data/vsn/vsn-1000-names.json',
   VSN_TOKENS:    '/data/vsn/vsn-verse-tokens.json',
   VSN_META:      '/data/vsn/content/vsn-meta.json',
   BG_META:       '/data/bg/content/bg-meta.json',

@@ -1,5 +1,18 @@
 #!/usr/bin/env python3
-"""Build data/vsn/vsn-1000-names.json — unified 1000+8 name list with te/en/sa meanings.
+"""
+PARKED / STALE — data/vsn/content/vsn-names.json (this script's IN_978
+source) has been archived to archive/vsn/vsn-names.json now that
+vsn-1000-names.json is the single hand-maintained canonical file (see
+scripts/merge-vsn-names.py and scripts/nest-vsn-name-field.py). Running
+this script as-is will fail to find IN_978 at its old path. If you need
+its sa-meaning-mapping logic again, point IN_978 at the archive path
+first and treat the result as a diff/reference, not something to write
+back over vsn-1000-names.json directly — see scripts/build-vsn.py's own
+diff-mode docstring for why (its dative_form() heuristic isn't reliable
+enough to drive the canonical file unsupervised).
+
+Original docstring — Build data/vsn/vsn-1000-names.json — unified
+1000+8 name list with te/en/sa meanings.
 
 Steps:
   1. Load vsn-1000-names.json (base: 1000 names, te+en meanings)
