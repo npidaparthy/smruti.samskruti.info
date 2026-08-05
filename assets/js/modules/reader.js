@@ -1175,7 +1175,7 @@ const Reader = (() => {
           const mean = n.meaning || {};
           const short = (lang === 'te' ? mean.te : lang === 'sa' ? mean.sa : mean.en) || mean.en || '';
           const detail = (lang === 'te' ? mean.te_d : lang === 'sa' ? mean.sa_d : mean.en_d) || '';
-          const m = [short, detail].filter(Boolean).join(' — ');
+          const m = mtype === 'long' ? [short, detail].filter(Boolean).join(' — ') : short;
           const row = document.createElement('div');
           row.className = 'vsn-name-meaning-row';
           row.innerHTML = `<span class="vsn-nm-name">${nameText}</span><span class="vsn-nm-sep"> = </span><span class="vsn-nm-meaning">${m || '…'}</span>`;

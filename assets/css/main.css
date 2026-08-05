@@ -592,8 +592,8 @@ sup.akshara-badge {
 }
 
 /* Word-by-word table */
-.vsn-name-meaning-row { display: flex; align-items: baseline; gap: 4px; padding: 3px 0; border-bottom: 1px solid var(--bg3); font-size: 13px; flex-wrap: wrap; }
-.vsn-nm-name    { font-family: var(--font-verse); color: var(--accent); min-width: 8ch; flex-shrink: 0; }
+.vsn-name-meaning-row { display: flex; align-items: baseline; gap: 4px; padding: 5px 0; border-bottom: 1px solid var(--bg3); font-size: 13px; }
+.vsn-nm-name    { font-family: var(--font-verse); color: var(--accent); flex-shrink: 0; }
 .vsn-nm-sep     { color: var(--fg3); flex-shrink: 0; }
 .vsn-nm-meaning { color: var(--fg1); }
 
