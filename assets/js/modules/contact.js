@@ -70,6 +70,7 @@ const Contact = (function () {
 
   function init() {
     document.getElementById('footer-contact-btn')?.addEventListener('click', e => { e.preventDefault(); open(); });
+    document.getElementById('settings-contact-btn')?.addEventListener('click', e => { e.preventDefault(); open(); });
     document.getElementById('contact-close')?.addEventListener('click', close);
     document.getElementById('contact-modal')?.addEventListener('click', e => { if (e.target.id === 'contact-modal') close(); });
     document.getElementById('contact-form')?.addEventListener('submit', submit);

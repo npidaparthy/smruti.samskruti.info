@@ -722,6 +722,21 @@ sup.akshara-badge {
   color: #1a3a6c;
   border-color: #a0b8d8;
 }
+.settings-contact-btn {
+  width: 100%;
+  padding: 9px 12px;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: var(--font-ui);
+  color: var(--accent2);
+  background: var(--accent-bg);
+  border: 1px solid rgba(196, 99, 26, 0.25);
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: center;
+}
+.settings-contact-btn:hover { background: var(--bg3); }
+
 .about-link { text-decoration: none; color: var(--accent2); }
 .about-link:hover { text-decoration: underline; }
 
