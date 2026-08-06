@@ -8,6 +8,7 @@ const Library = (() => {
 
   let activeLibFilter  = 'all';   // 'all' | 'bookmarked' | 'noted'
   let activeTextFilter = 'all';   // 'all' | 'gita' | 'vsn' | ...
+  let sortMode          = 'verse'; // 'verse' | 'recent'
   let gitaCache = {};             // ch → shlokas[]
   let vsnShlokas = null;          // s → shloka (loaded once)
 
@@ -145,12 +146,30 @@ const Library = (() => {
     let parsedList = [...ids].map(id => ({ id, parsed: parseId(id) }));
     if (activeTextFilter !== 'all') parsedList = parsedList.filter(x => x.parsed.text === activeTextFilter);
 
-    parsedList.sort((a, b) => {
-      if (a.parsed.text !== b.parsed.text) return a.parsed.text === 'gita' ? -1 : 1;
-      const ac = a.parsed.c || 0, bc = b.parsed.c || 0;
-      if (ac !== bc) return ac - bc;
-      return a.parsed.s - b.parsed.s;
-    });
+    if (sortMode === 'recent') {
+      // No real timestamps stored — approximate "recent" from each store's
+      // own insertion order (Set/object key order = save order), normalized
+      // 0..1 so bookmarks and notes lists of different lengths compare
+      // reasonably. Good enough until there's real demand for exact
+      // chronological ordering (would need an actual timestamp field).
+      const bmOrder   = [...bookmarks];
+      const noteOrder = Object.keys(notes);
+      const recencyScore = id => {
+        const bmIdx   = bmOrder.indexOf(id);
+        const noteIdx = noteOrder.indexOf(id);
+        const bmScore   = bmIdx   >= 0 ? (bmIdx + 1)   / bmOrder.length   : -1;
+        const noteScore = noteIdx >= 0 ? (noteIdx + 1) / noteOrder.length : -1;
+        return Math.max(bmScore, noteScore);
+      };
+      parsedList.sort((a, b) => recencyScore(b.id) - recencyScore(a.id));
+    } else {
+      parsedList.sort((a, b) => {
+        if (a.parsed.text !== b.parsed.text) return a.parsed.text === 'gita' ? -1 : 1;
+        const ac = a.parsed.c || 0, bc = b.parsed.c || 0;
+        if (ac !== bc) return ac - bc;
+        return a.parsed.s - b.parsed.s;
+      });
+    }
 
     if (!parsedList.length) {
       const uiLang = window._uiLang === 'en' ? 'en' : 'te';
@@ -192,6 +211,15 @@ const Library = (() => {
     $('lib-text-select')?.addEventListener('change', e => {
       activeTextFilter = e.target.value;
       render();
+    });
+
+    document.querySelectorAll('#lib-sort-group .pill').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('#lib-sort-group .pill').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        sortMode = btn.dataset.libSort;
+        render();
+      });
     });
 
     document.querySelectorAll('#lib-filter-group .pill').forEach(btn => {
