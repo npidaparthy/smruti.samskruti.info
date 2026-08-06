@@ -34,7 +34,7 @@ const Share = (() => {
     return lineY;
   }
 
-  async function buildCanvas(sh, chTitle, meaning) {
+  async function buildCanvas(sh, chTitle, meaning, isVsn) {
     const canvas = document.createElement('canvas');
     canvas.width  = W;
     canvas.height = H;
@@ -63,11 +63,13 @@ const Share = (() => {
     const ip = PAD + 30; // inner padding x
     let y = cy + 36;
 
-    // Ref badge: "Bhagavad Gītā · 2.47"
+    // Ref badge: "Bhagavad Gītā · 2.47" or "Śrī Viṣṇu Sahasranāmam · #43"
     ctx.font = 'bold 14px system-ui, sans-serif';
     ctx.fillStyle = C.amber;
     ctx.textAlign = 'left';
-    const ref = chTitle ? `Bhagavad Gītā · ${sh.c}.${sh.s} — ${chTitle}` : `Bhagavad Gītā · ${sh.c}.${sh.s}`;
+    const ref = isVsn
+      ? `Śrī Viṣṇu Sahasranāmam · #${sh.s}`
+      : (chTitle ? `Bhagavad Gītā · ${sh.c}.${sh.s} — ${chTitle}` : `Bhagavad Gītā · ${sh.c}.${sh.s}`);
     ctx.fillText(ref, ip, y);
     y += 28;
 
@@ -87,7 +89,7 @@ const Share = (() => {
     for (let i = 0; i < padas.length; i++) {
       let line = padas[i];
       if (i === 1) line += ' ।';
-      if (i === 3) line += ` ॥ ${sh.c}.${sh.s} ॥`;
+      if (i === 3) line += isVsn ? ` ॥${sh.s}॥` : ` ॥ ${sh.c}.${sh.s} ॥`;
       ctx.fillText(line, ip, y);
       y += 38;
     }
@@ -138,33 +140,35 @@ const Share = (() => {
     ctx.closePath();
   }
 
-  async function shareVerse(sh, chTitle, meaning) {
-    const canvas = await buildCanvas(sh, chTitle, meaning);
+  async function shareVerse(sh, chTitle, meaning, isVsn) {
+    const canvas = await buildCanvas(sh, chTitle, meaning, isVsn);
+    const filename = isVsn ? `vsn-${sh.s}.png` : `gita-${sh.c}-${sh.s}.png`;
+    const title    = isVsn ? `Śrī Viṣṇu Sahasranāmam #${sh.s}` : `Bhagavad Gītā ${sh.c}.${sh.s}`;
 
     // Try native share with image file
     if (navigator.canShare) {
       canvas.toBlob(async blob => {
-        const file = new File([blob], `gita-${sh.c}-${sh.s}.png`, { type: 'image/png' });
+        const file = new File([blob], filename, { type: 'image/png' });
         if (navigator.canShare({ files: [file] })) {
           try {
-            await navigator.share({ files: [file], title: `Bhagavad Gītā ${sh.c}.${sh.s}` });
+            await navigator.share({ files: [file], title });
             return;
           } catch(e) { if (e.name === 'AbortError') return; }
         }
         // Fallback: download
-        downloadCanvas(canvas, sh);
+        downloadCanvas(canvas, filename);
       }, 'image/png');
     } else {
       // Desktop fallback: open in new tab
       const url = canvas.toDataURL('image/png');
       const win = window.open();
-      win.document.write(`<img src="${url}" style="max-width:100%"><br><a download="gita-${sh.c}-${sh.s}.png" href="${url}">Download</a>`);
+      win.document.write(`<img src="${url}" style="max-width:100%"><br><a download="${filename}" href="${url}">Download</a>`);
     }
   }
 
-  function downloadCanvas(canvas, sh) {
+  function downloadCanvas(canvas, filename) {
     const a = document.createElement('a');
-    a.download = `gita-${sh.c}-${sh.s}.png`;
+    a.download = filename;
     a.href = canvas.toDataURL('image/png');
     a.click();
   }

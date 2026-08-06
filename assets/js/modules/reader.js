@@ -1577,14 +1577,19 @@ const Reader = (() => {
     shareBtn.textContent = '↗';
     focusBtn.before(shareBtn);
     shareBtn.addEventListener('click', () => {
-      if (!current || activeText !== 'gita') return;
+      if (!current) return;
+      const isVsn = activeText === 'vsn';
+      const lang  = window._meaningLang || 'en';
+      if (isVsn) {
+        Share.shareVerse(current, '', '', true);
+        return;
+      }
       const chData  = chapterCache[current.c];
       const script  = window._script || 'te';
       const titleKey = script === 'sa' ? 'sa' : script === 'ro' ? 'ro' : 'te';
       const chTitle = chData?.title?.[titleKey] || chData?.title?.en || '';
-      const lang    = window._meaningLang || 'en';
       const meaning = current.meaning?.[lang]?.short || current.meaning?.en?.short || '';
-      Share.shareVerse(current, chTitle, meaning);
+      Share.shareVerse(current, chTitle, meaning, false);
     });
 
     // Restore last visited verse, or load ch1.s1 for first-timers; then show VOTD card
