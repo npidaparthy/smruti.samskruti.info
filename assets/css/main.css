@@ -165,6 +165,7 @@ body {
 /* Tab bar — Issue #7: colorful gradient indicator */
 #tabs {
   display: flex;
+  justify-content: center;
   gap: 3px;
   padding: 6px 6px;
   border-bottom: 1px solid var(--border);

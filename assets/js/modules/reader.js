@@ -739,9 +739,11 @@ const Reader = (() => {
   }
 
   // ── Chapter / group button grid ───────────────────────────────
+  let _chGridToken = 0;
   async function buildChapterGrid() {
     const wrap = $('r-ch-wrap');
     if (!wrap) return;
+    const myToken = ++_chGridToken;
     wrap.innerHTML = '';
 
     if (activeText === 'vsn') {
@@ -779,6 +781,8 @@ const Reader = (() => {
     // Gita chapter grid
     const idx = await loadIndex();
     if (activeText !== 'gita') return;  // guard: user may have switched while loading
+    if (myToken !== _chGridToken) return;  // guard: a newer buildChapterGrid() call superseded this one
+    wrap.innerHTML = '';  // in case a superseded call already appended before we could check
     const isNoneActive = selectedChs.size === 0 && !keyVersesMode && !bookmarksMode;
 
     const allBtn = document.createElement('button');
