@@ -265,6 +265,8 @@ body {
 #footer a.pill.active { color: #fff !important; }
 .footer-yt { color: var(--fg3) !important; display: flex; align-items: center; gap: 6px; }
 .footer-yt:hover { color: #ff0000 !important; }
+.footer-guide-link { display: flex; align-items: center; gap: 4px; }
+.footer-guide-link:hover { color: var(--accent2) !important; }
 .footer-yt-icon { flex-shrink: 0; }
 #app { padding-bottom: 40px; }
 
