@@ -1576,16 +1576,25 @@ const Reader = (() => {
     shareBtn.title = 'Share verse card';
     shareBtn.textContent = '↗';
     focusBtn.before(shareBtn);
-    shareBtn.addEventListener('click', () => {
+    shareBtn.addEventListener('click', async () => {
       if (!current) return;
       const isVsn = activeText === 'vsn';
       const lang  = window._meaningLang || 'en';
+      const script = window._script || 'te';
       if (isVsn) {
-        Share.shareVerse(current, '', '', true);
+        const names = await loadVsnNames();
+        const verseNames = names.filter(n => n.sh === current.s);
+        let meaning = verseNames.map(n => {
+          const nameText = n.name[script] || n.name.ro || '';
+          const mean = n.meaning || {};
+          const short = (lang === 'te' ? mean.te : lang === 'sa' ? mean.sa : mean.en) || mean.en || '';
+          return short ? `${nameText} = ${short}` : '';
+        }).filter(Boolean).join('; ');
+        if (meaning.length > 180) meaning = meaning.slice(0, 180) + '…';
+        Share.shareVerse(current, '', meaning, true);
         return;
       }
       const chData  = chapterCache[current.c];
-      const script  = window._script || 'te';
       const titleKey = script === 'sa' ? 'sa' : script === 'ro' ? 'ro' : 'te';
       const chTitle = chData?.title?.[titleKey] || chData?.title?.en || '';
       const meaning = current.meaning?.[lang]?.short || current.meaning?.en?.short || '';

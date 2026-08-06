@@ -106,7 +106,7 @@ const Share = (() => {
 
     // Meaning
     if (meaning) {
-      ctx.font = 'italic 15px Georgia, serif';
+      ctx.font = 'italic 15px "Noto Sans Telugu", "Noto Sans Devanagari", Georgia, serif';
       ctx.fillStyle = C.sub;
       y = wrapText(ctx, `"${meaning}"`, ip, y, cw - 60, 22);
       y += 8;
