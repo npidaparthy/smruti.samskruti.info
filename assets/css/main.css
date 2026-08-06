@@ -1363,6 +1363,7 @@ mark.search-hl {
 /* ── My Library card extras ──────────────────────────── */
 .lib-note-preview   { font-size: 12px; color: var(--fg3); font-style: italic; margin-top: 6px; line-height: 1.5; }
 .lib-empty-hint      { font-size: 12px; color: var(--fg3); margin-top: 6px; }
+.lib-empty-cta        { margin-top: 16px; }
 .lib-card-actions    { display: flex; align-items: center; margin-top: 6px; }
 .lib-remove-note-btn { margin-left: 8px; background: none; border: none; font-size: 13px; color: var(--fg3); cursor: pointer; padding: 2px 4px; }
 .lib-remove-note-btn:hover { color: var(--fg1); }

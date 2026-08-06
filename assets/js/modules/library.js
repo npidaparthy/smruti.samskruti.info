@@ -159,6 +159,7 @@ const Library = (() => {
         <div class="lib-empty-hint">${uiLang === 'en'
           ? "Tap ♡ on any verse to bookmark it, or ✎ to add a note — it'll show up here."
           : 'ఏదైనా శ్లోకంపై ♡ నొక్కి బుక్‌మార్క్ చేయండి, లేదా ✎ తో గమనిక రాయండి — ఇక్కడ కనిపిస్తుంది.'}</div>
+        <button class="pill active lib-empty-cta">${uiLang === 'en' ? 'Browse Reader →' : 'పాఠం చూడండి →'}</button>
       </div>`;
       return;
     }
@@ -205,6 +206,10 @@ const Library = (() => {
     // Re-render whenever the tab is opened, so bookmarks/notes added
     // elsewhere (Reader, Avadhānam) are always reflected.
     document.querySelector('[data-tab="library"]')?.addEventListener('click', render);
+
+    $('lib-results')?.addEventListener('click', e => {
+      if (e.target.closest('.lib-empty-cta')) document.querySelector('[data-tab="reader"]')?.click();
+    });
 
     window.addEventListener('uiLangChange', () => { populateTextSelect(); render(); });
     window.addEventListener('scriptChange',  render);
