@@ -164,20 +164,24 @@ body {
 
 /* Tab bar — Issue #7: colorful gradient indicator */
 #tabs {
-  display: flex;
-  justify-content: center;
-  gap: 3px;
-  padding: 6px 6px;
   border-bottom: 1px solid var(--border);
   background: var(--bg2);
   position: sticky;
   top: 0;
   z-index: 100;
   box-shadow: var(--shadow);
+}
+#tabs-inner {
+  display: flex;
+  justify-content: center;
+  gap: 2px;
+  padding: 6px 4px;
+  max-width: 680px;
+  margin: 0 auto;
   overflow-x: auto;
   scrollbar-width: none;
 }
-#tabs::-webkit-scrollbar { display: none; }
+#tabs-inner::-webkit-scrollbar { display: none; }
 .tab-btn {
   flex: 0 0 auto;
   padding: 7px 6px;
