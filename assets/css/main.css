@@ -192,19 +192,34 @@ body {
   border: 1px solid transparent;
   border-radius: 20px;
   cursor: pointer;
-  transition: color .18s, background .18s, border-color .18s;
+  transition: color .18s, background .18s, border-color .18s, transform .12s, box-shadow .12s;
   white-space: nowrap;
 }
 .tab-btn.active {
-  color: var(--accent2);
-  background: var(--accent-bg);
-  border-color: rgba(196, 99, 26, 0.25);
+  color: #fff;
+  background: var(--accent-grd);
+  border-color: transparent;
   font-weight: 600;
 }
 .tab-btn:not(.active):hover {
   color: var(--fg2);
   background: var(--bg3);
   border-color: var(--border);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 6px rgba(0,0,0,.12);
+}
+
+/* Divider between primary section tabs (Reader/Avadhānam) and utility icons */
+.tab-btn[data-tab="daily"] { margin-left: 6px; position: relative; }
+.tab-btn[data-tab="daily"]::before {
+  content: '';
+  position: absolute;
+  left: -6px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 1px;
+  height: 20px;
+  background: var(--border);
 }
 
 /* Icon-only tabs: don't stretch, fixed compact width */
@@ -213,7 +228,17 @@ body {
 .tab-btn[data-tab="quiz"],
 .tab-btn[data-tab="calendar"],
 .tab-btn[data-tab="library"],
-.tab-btn[data-tab="settings"] { flex: none; width: 36px; height: 36px; font-size: 17px; padding: 0; line-height: 36px; display: inline-flex; align-items: center; justify-content: center; }
+.tab-btn[data-tab="settings"] {
+  flex: none; width: 36px; height: 36px; font-size: 17px; padding: 0;
+  line-height: 36px; display: inline-flex; align-items: center; justify-content: center;
+  background: var(--bg3);
+}
+.tab-btn[data-tab="daily"].active,
+.tab-btn[data-tab="search"].active,
+.tab-btn[data-tab="quiz"].active,
+.tab-btn[data-tab="calendar"].active,
+.tab-btn[data-tab="library"].active,
+.tab-btn[data-tab="settings"].active { background: var(--accent-grd); }
 
 /* Tab panels */
 .panel { display: none; flex: 1; padding: 12px; max-width: 680px; margin: 0 auto; width: 100%; }
