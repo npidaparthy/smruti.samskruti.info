@@ -692,7 +692,10 @@ const Reader = (() => {
   async function loadSelectedChapters() {
     if (activeText === 'vsn') {
       const all = await loadVsn();
-      if (vsnSelectedGroups.size === 0) {
+      if (bookmarksMode) {
+        const bms = getBookmarks();
+        pool = all.filter(s => bms.has(`vsn.${s.s}`));
+      } else if (vsnSelectedGroups.size === 0) {
         pool = [...all];
       } else {
         pool = all.filter(s =>
@@ -739,6 +742,34 @@ const Reader = (() => {
   }
 
   // ── Chapter / group button grid ───────────────────────────────
+  async function activateBookmarksFilter() {
+    await loadSelectedChapters();
+    if (!pool.length) { showEmptyBookmarksState(); return; }
+    currentPos = Math.floor(Math.random() * pool.length);
+    renderVerse(pool[currentPos]);
+  }
+
+  function showEmptyBookmarksState() {
+    pool = [];
+    const box = $('r-verse-box');
+    if (!box) return;
+    box.style.display = 'none';
+    $('r-meaning-wrap').style.display  = 'none';
+    $('r-conclusion-wrap').style.display = 'none';
+    let msg = $('r-empty-state');
+    if (!msg) {
+      msg = document.createElement('p');
+      msg.id = 'r-empty-state';
+      msg.className = 'muted';
+      msg.style.cssText = 'text-align:center;padding:24px 16px';
+      box.after(msg);
+    }
+    msg.textContent = window._uiLang === 'en'
+      ? 'No bookmarks yet. Tap ♡ on any verse to save it here.'
+      : 'ఇంకా ఏ శ్లోకమూ సేవ్ కాలేదు. ఏదైనా శ్లోకంపై ♡ నొక్కండి.';
+    msg.style.display = '';
+  }
+
   let _chGridToken = 0;
   async function buildChapterGrid() {
     const wrap = $('r-ch-wrap');
@@ -748,20 +779,37 @@ const Reader = (() => {
 
     if (activeText === 'vsn') {
       const allBtn = document.createElement('button');
-      allBtn.className = 'ch-btn all' + (vsnSelectedGroups.size === 0 ? ' active' : '');
+      allBtn.className = 'ch-btn all' + (vsnSelectedGroups.size === 0 && !bookmarksMode ? ' active' : '');
       allBtn.textContent = t('all');
       allBtn.addEventListener('click', () => {
+        bookmarksMode = false;
         vsnSelectedGroups.clear();
         updateVsnGroupBtns(wrap);
         pickRandom();
       });
       wrap.appendChild(allBtn);
+
+      // ♥ Bookmarks filter
+      const bmFilterBtn = document.createElement('button');
+      bmFilterBtn.className = 'ch-btn ch-btn-bm' + (bookmarksMode ? ' active' : '');
+      bmFilterBtn.textContent = '♥';
+      bmFilterBtn.title = window._uiLang === 'en' ? 'Bookmarks' : 'నచ్చిన శ్లోకాలు';
+      bmFilterBtn.addEventListener('click', () => {
+        bookmarksMode = !bookmarksMode;
+        if (bookmarksMode) vsnSelectedGroups.clear();
+        updateVsnGroupBtns(wrap);
+        if (bookmarksMode) activateBookmarksFilter();
+        else pickRandom();
+      });
+      wrap.appendChild(bmFilterBtn);
+
       C.VSN_GROUPS.forEach(grp => {
         const btn = document.createElement('button');
         btn.className = 'ch-btn' + (vsnSelectedGroups.has(grp.from) ? ' active' : '');
         btn.textContent = grp.label;
         btn.dataset.from = grp.from;
         btn.addEventListener('click', () => {
+          bookmarksMode = false;
           vsnSelectedGroups.has(grp.from) ? vsnSelectedGroups.delete(grp.from) : vsnSelectedGroups.add(grp.from);
           updateVsnGroupBtns(wrap);
           pickRandom();
@@ -820,29 +868,8 @@ const Reader = (() => {
       bookmarksMode = !bookmarksMode;
       if (bookmarksMode) { keyVersesMode = false; selectedChs.clear(); hideChapterSummary(); }
       updateChBtnStates();
-      if (bookmarksMode && getBookmarks().size === 0) {
-        pool = [];
-        const box = $('r-verse-box');
-        if (box) {
-          box.style.display = 'none';
-          $('r-meaning-wrap').style.display  = 'none';
-          $('r-conclusion-wrap').style.display = 'none';
-          let msg = $('r-empty-state');
-          if (!msg) {
-            msg = document.createElement('p');
-            msg.id = 'r-empty-state';
-            msg.className = 'muted';
-            msg.style.cssText = 'text-align:center;padding:24px 16px';
-            box.after(msg);
-          }
-          msg.textContent = window._uiLang === 'en'
-            ? 'No bookmarks yet. Tap ♡ on any verse to save it here.'
-            : 'ఇంకా ఏ శ్లోకమూ సేవ్ కాలేదు. ఏదైనా శ్లోకంపై ♡ నొక్కండి.';
-          msg.style.display = '';
-        }
-      } else {
-        pickRandom();
-      }
+      if (bookmarksMode) activateBookmarksFilter();
+      else pickRandom();
     });
     wrap.appendChild(bmFilterBtn);
 
@@ -923,7 +950,8 @@ const Reader = (() => {
   }
 
   function updateVsnGroupBtns(wrap) {
-    wrap.querySelector('.ch-btn.all')?.classList.toggle('active', vsnSelectedGroups.size === 0);
+    wrap.querySelector('.ch-btn.all')?.classList.toggle('active', vsnSelectedGroups.size === 0 && !bookmarksMode);
+    wrap.querySelector('.ch-btn-bm')?.classList.toggle('active', bookmarksMode);
     wrap.querySelectorAll('.ch-btn[data-from]').forEach(btn => {
       btn.classList.toggle('active', vsnSelectedGroups.has(Number(btn.dataset.from)));
     });
