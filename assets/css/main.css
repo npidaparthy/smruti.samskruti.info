@@ -165,18 +165,21 @@ body {
 /* Tab bar — Issue #7: colorful gradient indicator */
 #tabs {
   display: flex;
-  gap: 4px;
-  padding: 6px 8px;
+  gap: 3px;
+  padding: 6px 6px;
   border-bottom: 1px solid var(--border);
   background: var(--bg2);
   position: sticky;
   top: 0;
   z-index: 100;
   box-shadow: var(--shadow);
+  overflow-x: auto;
+  scrollbar-width: none;
 }
+#tabs::-webkit-scrollbar { display: none; }
 .tab-btn {
-  flex: 1;
-  padding: 7px 4px;
+  flex: 0 0 auto;
+  padding: 7px 6px;
   font-size: 12px;
   font-family: var(--font-ui);
   color: var(--fg3);
@@ -204,7 +207,8 @@ body {
 .tab-btn[data-tab="search"],
 .tab-btn[data-tab="quiz"],
 .tab-btn[data-tab="calendar"],
-.tab-btn[data-tab="settings"] { flex: none; width: 38px; height: 38px; font-size: 18px; padding: 0; line-height: 38px; display: inline-flex; align-items: center; justify-content: center; }
+.tab-btn[data-tab="library"],
+.tab-btn[data-tab="settings"] { flex: none; width: 36px; height: 36px; font-size: 17px; padding: 0; line-height: 36px; display: inline-flex; align-items: center; justify-content: center; }
 
 /* Tab panels */
 .panel { display: none; flex: 1; padding: 12px; max-width: 680px; margin: 0 auto; width: 100%; }
@@ -1350,6 +1354,13 @@ mark.search-hl {
 .srch-card-speaker { font-size: 10px; color: var(--fg3); margin-left: auto; font-style: italic; }
 .srch-card-title   { font-size: calc(15px * var(--ui-scale)); color: var(--fg); font-weight: 500; margin-bottom: 3px; }
 .srch-card-sub     { font-size: calc(12px * var(--ui-scale)); color: var(--fg2); line-height: 1.5; }
+
+/* ── My Library card extras ──────────────────────────── */
+.lib-note-preview   { font-size: 12px; color: var(--fg3); font-style: italic; margin-top: 6px; line-height: 1.5; }
+.lib-empty-hint      { font-size: 12px; color: var(--fg3); margin-top: 6px; }
+.lib-card-actions    { display: flex; align-items: center; margin-top: 6px; }
+.lib-remove-note-btn { margin-left: 8px; background: none; border: none; font-size: 13px; color: var(--fg3); cursor: pointer; padding: 2px 4px; }
+.lib-remove-note-btn:hover { color: var(--fg1); }
 
 /* ══════════════════════════════════════════
    QUIZ TAB

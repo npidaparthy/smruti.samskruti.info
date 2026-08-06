@@ -2,7 +2,7 @@
 
 (function () {
   // ── Tab routing ───────────────────────────────────────────────
-  const panels = ['reader','avadhanam','meanings','search','quiz','calendar','settings','help-panel'];
+  const panels = ['reader','avadhanam','meanings','search','quiz','calendar','library','settings','help-panel'];
   let prevTab = 'reader';
 
   function switchTab(id) {
@@ -152,6 +152,7 @@
   Calendar.init();
   Search.init();
   Quiz.init();
+  Library.init();
   Contact.init();
   NamesReview.init();
   syncHelpLang();

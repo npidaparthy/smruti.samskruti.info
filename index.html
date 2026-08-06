@@ -9,7 +9,7 @@
 <link rel="manifest" href="/manifest.json">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;500&family=Noto+Serif+Devanagari:wght@400;500&display=swap">
-<link rel="stylesheet" href="/assets/css/main.css?v=44">
+<link rel="stylesheet" href="/assets/css/main.css?v=48">
 </head>
 <body>
 <div id="app">
@@ -22,6 +22,7 @@
     <button class="tab-btn"        data-tab="search"    role="tab">🔍</button>
     <button class="tab-btn"        data-tab="quiz"      role="tab">🧠</button>
     <button class="tab-btn"        data-tab="calendar"  role="tab">📅</button>
+    <button class="tab-btn"        data-tab="library"   role="tab" aria-label="Library">🔖</button>
     <button class="tab-btn"        data-tab="settings"  role="tab">⚙️</button>
   </nav>
 
@@ -503,6 +504,26 @@
 
     <!-- Results -->
     <div id="srch-results" class="srch-results"></div>
+
+  </section>
+
+  <!-- ══════════════════════════════════════════════════════════
+       MY LIBRARY TAB (🔖 bookmarks + notes)
+  ══════════════════════════════════════════════════════════ -->
+  <section id="library" class="panel" role="tabpanel">
+
+    <div class="ctrl-row">
+      <span class="ctrl-label" data-i18n="text">గ్రంథం</span>
+      <select id="lib-text-select"></select>
+    </div>
+
+    <div class="srch-filters" id="lib-filter-group">
+      <button class="pill active" data-lib-filter="all"        data-i18n="all">అన్నీ</button>
+      <button class="pill"        data-lib-filter="bookmarked" data-i18n="lib_bookmarked">బుక్‌మార్క్‌లు</button>
+      <button class="pill"        data-lib-filter="noted"      data-i18n="lib_noted">గమనికలు</button>
+    </div>
+
+    <div id="lib-results" class="srch-results"></div>
 
   </section>
 
@@ -1333,7 +1354,7 @@
 </div>
 
 <script src="/assets/js/constants.js?v=20"></script>
-<script src="/assets/js/modules/i18n.js?v=21"></script>
+<script src="/assets/js/modules/i18n.js?v=22"></script>
 <script src="/assets/js/modules/settings.js?v=21"></script>
 <script src="/assets/js/modules/share.js?v=2"></script>
 <script src="/assets/js/modules/reader.js?v=53"></script>
@@ -1341,10 +1362,11 @@
 <script src="/assets/js/modules/calendar.js?v=12"></script>
 <script src="/assets/js/modules/search.js?v=7"></script>
 <script src="/assets/js/modules/quiz.js?v=1"></script>
+<script src="/assets/js/modules/library.js?v=1"></script>
 <script src="/assets/js/modules/contact.js?v=2"></script>
 <script src="/assets/js/modules/names-review.js?v=1"></script>
 <script src="/assets/js/modules/transliterate.js?v=1"></script>
 <script src="/assets/js/modules/vsn.js?v=19"></script>
-<script src="/assets/js/app.js?v=23"></script>
+<script src="/assets/js/app.js?v=24"></script>
 </body>
 </html>
