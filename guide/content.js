@@ -217,7 +217,16 @@ const GUIDE_CONTENT = {
           term: 'Mahāprāṇa', sub: 'Aspirated — strong breath', letters: '2nd, 4th letter of each varga + śa ṣa sa ha (kha, gha…)',
           warn: { en: 'Never soften a mahāprāṇa into an alpaprāṇa — dharma must never become darma.', te: 'మహాప్రాణాన్ని అల్పప్రాణంగా మృదువుగా చేయవద్దు — ధర్మ అనేది దర్మ కాకూడదు.' }
         }
-      ]
+      ],
+      verse2: {
+        sa: 'व्याघ्री यथा हरेत्पुत्रान्दंष्ट्राभ्यां न च पीडयेत् । भीता पतनभेदाभ्यां तद्वद्वर्णान्पीडयेत् ॥',
+        ro: 'vyāghrī yathā haretputrān daṁṣṭrābhyāṁ na ca pīḍayet | bhītā patanabhedābhyāṁ tadvad varṇān pīḍayet ||',
+        source: 'Pāṇinīya Śīkṣā, v.24 — alternate reading',
+        translation: {
+          en: 'A variant of the same verse — word order and the second line\'s ending differ from the version above, but the teaching is identical. Both readings circulate in the tradition.',
+          te: 'ఇదే శ్లోకం యొక్క మరో పాఠాంతరం — పద క్రమం, రెండవ పాదం ముగింపు పైన ఉన్నదానికంటే వేరు, కానీ బోధన ఒకటే. రెండు పాఠాంతరాలూ సంప్రదాయంలో వాడుకలో ఉన్నాయి.'
+        }
+      }
     },
 
     {
@@ -347,6 +356,93 @@ const GUIDE_CONTENT = {
         { term: 'Susvaraḥ', en: { en: 'Accurate pitch and accent.', te: 'ఖచ్చితమైన స్వరం, ఉచ్చారణ.' } },
         { term: 'Dhairyam', en: { en: 'Patience and composure.', te: 'ఓర్పు, స్థిమితం.' } },
         { term: 'Layasamartham', en: { en: 'Command over rhythm and tempo.', te: 'లయ, వేగంపై పట్టు.' } }
+      ]
+    },
+
+    {
+      id: 'common-mistakes',
+      icon: '🚫',
+      title: { en: 'Common Mistakes — With Real Examples', sa: '', te: 'సాధారణ తప్పులు — నిజమైన ఉదాహరణలతో' },
+      body: [
+        { en: 'These are errors reciters make routinely, often without realizing it — each with a concrete, verified example from texts this site already hosts.', te: 'ఇవి పఠనకర్తలు రోజూ చేసే తప్పులు, తరచుగా తెలియకుండానే — ప్రతి దానికీ ఈ సైట్‌లో ఇప్పటికే ఉన్న గ్రంథాల నుండి నిర్దిష్ట, ధృవీకరించిన ఉదాహరణ.' }
+      ],
+      items: [
+        {
+          term: 'Visarga chanted identically to "ha"',
+          en: {
+            en: 'Visarga (ः) and the letter ha are different sounds from different mechanisms — visarga is a breath-echo of the preceding vowel (see Kaṇṭha above), not a full consonant. Collapsing them into the same sound is a very common, very audible error. Best learned by ear from a teacher who knows the śāstra, not from text alone.',
+            te: 'విసర్గ (ః), హ అక్షరం — వేర్వేరు యంత్రాంగాల నుండి వచ్చే వేర్వేరు ధ్వనులు — విసర్గ ముందున్న స్వరం యొక్క ఊపిరి ప్రతిధ్వని (పైన కంఠం చూడండి), పూర్తి హల్లు కాదు. వీటిని ఒకేలా పలకడం చాలా సాధారణమైన, స్పష్టంగా వినిపించే తప్పు. శాస్త్రం తెలిసిన గురువు నుండి చెవితో నేర్చుకోవడం ఉత్తమం, పాఠం చూసి మాత్రమే కాదు.'
+          }
+        },
+        {
+          term: 'Anusvāra flattened to a generic "ma" everywhere',
+          en: {
+            en: 'The parasavarṇa rule (see Sandhi above) means an anusvāra should change its nasal quality to match the following consonant\'s class — guttural before ka, palatal before ca, and so on. Pronouncing every anusvāra as a plain "m" regardless of context is one of the most widespread habits among reciters.',
+            te: 'పరసవర్ణ నియమం (పైన సంధి చూడండి) ప్రకారం అనుస్వారం తర్వాత వచ్చే హల్లు వర్గాన్ని బట్టి తన నాసిక్య గుణాన్ని మార్చుకోవాలి — క ముందు కంఠ్యం, చ ముందు తాలవ్యం, ఇలా. సందర్భంతో సంబంధం లేకుండా ప్రతి అనుస్వారాన్నీ సాధారణ "మ"గా పలకడం పఠనకర్తలలో అత్యంత విస్తృతమైన అలవాటు.'
+          }
+        },
+        {
+          term: '"ayi" mispronounced as "ai"',
+          sub: 'Mahiṣāsura Mardini Stotram, opening line',
+          sutra: 'अयि गिरिनन्दिनि नन्दितमेदिनि',
+          en: {
+            en: 'ayi (a vocative particle, "O!") and ai (a diphthong) are different vowel sequences — collapsing "ayi giri-nandini" into "ai giri-nandini" changes the opening address of the stotra.',
+            te: 'అయి (సంబోధన అవ్యయం, "ఓ!") మరియు ఐ (ద్విస్వరం) — వేర్వేరు స్వర క్రమాలు — "అయి గిరినందిని"ని "ఐ గిరినందిని"గా కుదించడం స్తోత్రం ప్రారంభ సంబోధననే మార్చేస్తుంది.'
+          }
+        },
+        {
+          term: '"mayi" mispronounced as "my"',
+          sub: 'Bhagavad Gītā 3.30',
+          sutra: 'मयि सर्वाणि कर्माणि',
+          en: {
+            en: '"mayi" (locative, "in Me") collapsed into an English-style "my" sound loses the final short i entirely — a common drift when a reciter\'s native script/phonology doesn\'t distinguish it clearly.',
+            te: '"మయి" (సప్తమీ విభక్తి, "నాలో") అనేది ఆంగ్ల-తరహా "మై"గా కుదిస్తే చివరి హ్రస్వ ఇ పూర్తిగా పోతుంది — పఠనకర్త మాతృ లిపి/ధ్వనిశాస్త్రం దీన్ని స్పష్టంగా వేరు చేయనప్పుడు వచ్చే సాధారణ జారుడు.'
+          }
+        },
+        {
+          term: '"u" mispronounced as "vu"',
+          sub: 'Bhagavad Gītā 15.1',
+          sutra: 'ऊर्ध्वमूलमधःशाखम्',
+          en: {
+            en: 'ūrdhvamūlam starts with a pure vowel ū — not "vūrdhva". Inserting a "v" glide before a word-initial u/ū is a common habit that doesn\'t belong to the actual sound.',
+            te: 'ఊర్ధ్వమూలమ్ అనేది స్వచ్ఛమైన ఊ స్వరంతో మొదలవుతుంది — "వూర్ధ్వ" కాదు. పద-ప్రారంభ ఉ/ఊ ముందు "వ" జోడించడం సాధారణ అలవాటు, కానీ అసలు ధ్వనిలో అది లేదు.'
+          }
+        },
+        {
+          term: 'Avagraha dropped — the missing "a" that flips meaning',
+          sub: 'Lalitā Sahasranāma',
+          sutra: 'मूर्तामूर्ता नित्यतृप्ता',
+          en: {
+            en: 'This is mūrtā + amūrtā (avagraha marks the elided a) — "having form and formless" — not "mūrtā mūrtā" repeated. Dropping the avagraha doesn\'t just blur the sound, it deletes an entire word (amūrtā) and its opposite meaning.',
+            te: 'ఇది మూర్తా + అమూర్తా (అవగ్రహం లోపించిన అ ని సూచిస్తుంది) — "రూపం గలది, రూపం లేనిది" — "మూర్తా మూర్తా" పునరావృతం కాదు. అవగ్రహాన్ని వదిలేస్తే ధ్వని మసకబారడమే కాదు, ఒక పూర్తి పదాన్నే (అమూర్తా) దాని వ్యతిరేక అర్థంతో సహా తొలగించేస్తుంది.'
+          }
+        },
+        {
+          term: 'Avagraha dropped — VSN, verified against our own data',
+          sub: 'Śrī Viṣṇu Sahasranāma, śloka 6, pada 2 (names #48–49)',
+          sutra: 'पद्मनाभोऽमरप्रभुः',
+          en: {
+            en: 'This is padmanābhaḥ + amaraprabhuḥ ("lord of the immortals") sandhi-joined. Dropping the avagraha and chanting "padmanābho marprabhuḥ" loses the negating a- of amara ("immortal") — the meaning is not a minor slur, it actually changes.',
+            te: 'ఇది పద్మనాభః + అమరప్రభుః ("అమరుల ప్రభువు") సంధి కలయిక. అవగ్రహాన్ని వదిలేసి "పద్మనాభో మరప్రభుః" అని పలికితే అమర ("అమరుడు") లోని నిషేధార్థక అ- పోతుంది — ఇది చిన్న అస్పష్టత కాదు, నిజంగా అర్థమే మారుతుంది.'
+          }
+        },
+        {
+          term: 'Splitting a compound across padas for breath',
+          sub: 'Verified against our own Gītā data — every pada below is stored ending mid-compound, continuing into the next pada with no legitimate pause',
+          letters: 'BG 6.9 (suhṛnmitrāryudāsīna-) · 6.23 (taṃ vidyādduḥkhasaṃyoga-) · 17.8 (āyuḥsattvabalārogya-) · 17.9 (kaṭvamlalavaṇātyuṣṇa-) · 17.14 (devadvijaguruprājña-)',
+          en: {
+            en: 'Each of these padas ends mid-word by design — the compound only completes in the next pada. Pausing for breath at the pada-break here is exactly the arbitrary mid-compound split the Preserving Meter section above warns against — these five are concrete, checkable instances of it in the Gītā itself.',
+            te: 'ఈ పాదాలు ప్రతి ఒక్కటీ ఉద్దేశపూర్వకంగా పదం మధ్యలో ముగుస్తాయి — సమాసం తర్వాతి పాదంలోనే పూర్తవుతుంది. ఇక్కడ పాద-విరామం వద్ద ఊపిరి కోసం ఆగడం అంటే పైన ఛందస్సు రక్షణ విభాగం హెచ్చరించిన ఏకపక్ష మధ్య-సమాస విభజనే — ఇవి గీతలోనే నిర్దిష్టంగా తనిఖీ చేయగల ఐదు ఉదాహరణలు.'
+          }
+        },
+        {
+          term: 'Guru akṣara rushed instead of held',
+          tentative: true,
+          en: {
+            en: 'A positionally-guru syllable (heavy because of what follows it, not its own vowel length — see Laghu & Guru above) should carry its extra weight on the syllable itself, held slightly longer, rather than as a pause inserted at the conjunct that follows. Getting this technique right takes ear-training more than rule-reading.',
+            te: 'స్థాన కారణంగా గురువైన అక్షరం (దాని తర్వాత వచ్చేదాని వలన బరువైనది, స్వంత స్వర దైర్ఘ్యం వలన కాదు — పైన లఘు-గురు చూడండి) దాని అదనపు బరువును ఆ అక్షరం మీదే కొంచెం ఎక్కువసేపు నిలిపి మోయాలి, తర్వాత వచ్చే సంయుక్తాక్షరం వద్ద ఆగడం ద్వారా కాదు. ఈ నైపుణ్యం నియమాలు చదవడం కంటే చెవి శిక్షణ ద్వారానే వస్తుంది.'
+          }
+        }
       ]
     },
 
