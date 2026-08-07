@@ -81,8 +81,8 @@
     const sub = pick(r.sub);
     const term = pick(r.term);
     const letters = pick(r.letters);
-    return `<div class="rule-item">
-      <span class="rule-term">${term}</span>${sub ? `<span class="rule-sub">${sub}</span>` : ''}
+    return `<div class="rule-item${r.tentative ? ' tentative' : ''}">
+      <span class="rule-term">${term}</span>${sub ? `<span class="rule-sub">${sub}</span>` : ''}${r.tentative ? `<span class="tentative-tag">${lang === 'te' ? 'సమీక్ష అవసరం' : 'needs review'}</span>` : ''}
       ${r.sutra ? `<div class="rule-sutra">${r.sutra}</div>` : ''}
       ${letters ? `<div class="rule-letters">${letters}</div>` : ''}
       ${en ? `<div class="rule-en">${en}</div>` : ''}

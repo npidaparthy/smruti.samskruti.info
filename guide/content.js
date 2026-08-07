@@ -53,8 +53,27 @@ const GUIDE_CONTENT = {
         { term: 'Danta', sub: 'Teeth / Dental', sutra: 'लृतुलसानां दन्ताः', letters: 'ḷ · ta-varga (ta tha da dha na) · la · sa' },
         { term: 'Oṣṭha', sub: 'Lips / Labial', sutra: 'उपूपध्मानीयानाम् ओष्ठौ', letters: 'u, ū · pa-varga (pa pha ba bha ma) · upadhmānīya' },
         { term: 'Nāsikā', sub: 'Nasal cavity', sutra: 'ञमङणनानां नासिका च', letters: 'ña, ma, ṅa, ṇa, na — engage both their own sthāna and the nose' },
-        { term: 'Combined places', sub: '', letters: 'va = danta+oṣṭha · e, ai = kaṇṭha+tālu · o, au = kaṇṭha+oṣṭha' }
+        { term: 'Combined places', sub: '', letters: 'va = danta+oṣṭha · e, ai = kaṇṭha+tālu · o, au = kaṇṭha+oṣṭha' },
+        {
+          term: 'Jihvāmūlīya', sub: { en: 'Tongue-root — a visarga variant', te: 'జిహ్వామూలం — విసర్గ ఉపరూపం' },
+          sutra: 'क्ख इति कखाभ्यां प्रागर्धविसर्गसदृशो जिह्वामूलीयः',
+          letters: { en: 'A special half-visarga sound, articulated at the root of the tongue, that replaces a plain visarga specifically when it occurs right before क or ख (e.g. duḥkha). Distinct from the ordinary visarga used elsewhere.', te: 'నాలుక మూలం నుండి పలికే ప్రత్యేక అర్ధ-విసర్గ ధ్వని — క లేదా ఖ ముందు వచ్చిన సాధారణ విసర్గకు బదులుగా వస్తుంది (ఉదా. దుఃఖ). ఇతర చోట్ల వాడే సాధారణ విసర్గ కంటే వేరు.' }
+        },
+        {
+          term: 'Upadhmānīya', sub: { en: 'Lip-region — a visarga variant', te: 'ఓష్ఠ ప్రాంతం — విసర్గ ఉపరూపం' },
+          sutra: 'प्फ इति पफाभ्यां प्रागर्धविसर्गसदृश उपध्मानीयः',
+          letters: { en: 'The equivalent half-visarga sound before प or फ (e.g. duḥpāra) — articulated near the lips instead of the throat. Most reciters flatten both of these into a plain visarga; the tradition treats them as distinct sounds with their own sthāna.', te: 'ప లేదా ఫ ముందు వచ్చే ఇదే తరహా అర్ధ-విసర్గ ధ్వని (ఉదా. దుఃపార) — గొంతు బదులు పెదవుల దగ్గర పలుకుతారు. చాలామంది పఠనకర్తలు వీటిని రెండింటినీ సాధారణ విసర్గగానే పలుకుతారు; సంప్రదాయం వీటిని వాటి స్వంత స్థానం గల వేర్వేరు ధ్వనులుగా చూస్తుంది.' }
+        }
       ],
+      rule: {
+        sa: 'अं अः इत्यचः परावनुस्वारविसर्गौ',
+        ro: 'aṁ aḥ ityacaḥ parāvanusvāraviṣargau',
+        source: 'Śikṣā sūtras — Yogavāha classification',
+        translation: {
+          en: 'Anusvāra and visarga are classed as "following" (para) sounds of a vowel — not full vowels, not full consonants, but a distinct category called yogavāha ("that which carries the combination"). Anusvāra, visarga, jihvāmūlīya, and upadhmānīya all belong to this same category — which is why they behave differently from ordinary consonants in sandhi.',
+          te: 'అనుస్వారం, విసర్గ — స్వరం తర్వాత వచ్చే ("పర") ధ్వనులుగా వర్గీకరించబడతాయి — పూర్తి స్వరాలు కావు, పూర్తి హల్లులు కావు, "యోగవాహాః" అనే ప్రత్యేక వర్గం. అనుస్వారం, విసర్గ, జిహ్వామూలీయం, ఉపధ్మానీయం — నాలుగూ ఇదే వర్గానికి చెందుతాయి — అందుకే సంధిలో ఇవి సాధారణ హల్లుల కంటే వేరుగా ప్రవర్తిస్తాయి.'
+        }
+      },
       body2: [
         { en: 'Why this matters in practice: śa (palatal, tālavya), ṣa (retroflex, mūrdhanya) and sa (dental, dantya) are three different sthānas that sound almost identical if you\'re careless — and confusing them changes real words.', te: 'ఆచరణలో ఇది ఎందుకు ముఖ్యమో: శ (తాలవ్యం), ష (మూర్ధన్యం), స (దంత్యం) — మూడు వేర్వేరు స్థానాలు, జాగ్రత్త లేకపోతే దాదాపు ఒకేలా వినిపిస్తాయి — వీటిని తారుమారు చేస్తే నిజమైన పదాలు మారిపోతాయి.' }
       ],

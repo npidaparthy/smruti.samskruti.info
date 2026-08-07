@@ -134,6 +134,11 @@ details:not([open]) .section-head::after { transform: rotate(-90deg); }
 .rule-list { display: flex; flex-direction: column; gap: .55rem; }
 .rule-item { border-bottom: 1px solid var(--line); padding-bottom: .55rem; }
 .rule-item:last-child { border-bottom: none; padding-bottom: 0; }
+.rule-item.tentative { border-left: 2px solid #6a9fd8; padding-left: 10px; margin-left: -12px; }
+.tentative-tag {
+  display: inline-block; font-family: var(--font-ui); font-size: .62rem; color: #6a9fd8;
+  border: 1px solid #6a9fd8; border-radius: 8px; padding: 0 6px; margin-left: 6px; vertical-align: middle;
+}
 .rule-term { font-size: .95rem; color: var(--accent2); font-weight: 600; }
 .rule-sub { font-size: .74rem; color: var(--muted); font-family: var(--font-ui); margin-left: 6px; }
 .rule-sutra { font-size: .85rem; color: var(--ink); margin-top: 2px; }
