@@ -5,7 +5,7 @@
    and worked examples into it instead of a separate "step-by-step" repeat. */
 
 const GUIDE_CONTENT = {
-  title: { en: 'Chanting Rules — Śikṣā', sa: 'शिक्षा — जपनियमाः', te: 'జప నియమాలు — శిక్ష' },
+  title: { en: 'Pronunciation Rules — Śikṣā', sa: 'शिक्षा — उच्चारणनियमाः', te: 'ఉచ్చారణ నియమాలు — శిక్ష' },
   subtitle: {
     en: 'A structured guide to Sanskrit pronunciation, drawn from the Taittirīya Upaniṣad and Pāṇinīya Śīkṣā.',
     te: 'తైత్తిరీయోపనిషత్తు మరియు పాణినీయ శిక్ష ఆధారంగా సంస్కృత ఉచ్చారణకు మార్గదర్శిక.'
