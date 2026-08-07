@@ -134,6 +134,49 @@
     return el;
   }
 
+  // ── Consolidated references table ───────────────────────────
+  // Auto-collected from every verse/verse2/rule/sutra across all
+  // sections, rather than hand-duplicated, so it can't drift out of
+  // sync with the content above it.
+  function collectReferences() {
+    const rows = [];
+    const seen = new Set();
+    const add = (source, sa, note) => {
+      const key = source + '|' + sa;
+      if (!source || !sa || seen.has(key)) return;
+      seen.add(key);
+      rows.push({ source, sa, note: note || '' });
+    };
+    GUIDE_CONTENT.sections.forEach(sec => {
+      if (sec.verse) add(sec.verse.source, sec.verse.sa, sec.verse.translation);
+      if (sec.verse2) add(sec.verse2.source, sec.verse2.sa, sec.verse2.translation);
+      if (sec.rule) add(sec.rule.source, sec.rule.sa, sec.rule.translation);
+      (sec.items || []).concat(sec.items2 || []).forEach(it => {
+        if (it.sutra) add(it.sub || it.term, it.sutra, it.en);
+      });
+    });
+    return rows;
+  }
+
+  function renderReferencesSection() {
+    const rows = collectReferences();
+    const el = document.createElement('section');
+    el.className = 'section';
+    el.id = 'sec-references';
+    el.dataset.searchText = normDiacritics(JSON.stringify(rows));
+    el.innerHTML = `<div class="section-head">
+      <span class="section-icon">📚</span>
+      <span class="section-title">${lang === 'te' ? 'అనుబంధం — అన్ని ప్రామాణిక గ్రంథాలు, శ్లోకాలు' : 'References — Every Source Verse, Collected'}</span>
+    </div>
+    <div class="body-para">${lang === 'te'
+      ? 'పైన ఉన్న అన్ని విభాగాల నుండి సేకరించిన శ్లోకాలు, సూత్రాలు — ఒకే చోట త్వరిత శోధన కోసం.'
+      : 'Every cited verse and sūtra from every section above, collected in one place for quick lookup.'}</div>
+    <div class="ref-list">
+      ${rows.map(r => `<div class="ref-row"><div class="ref-source">${r.source}</div><div class="ref-sa">${r.sa}</div></div>`).join('')}
+    </div>`;
+    return el;
+  }
+
   function renderAll() {
     $('hero-title').textContent = pick(GUIDE_CONTENT.title);
     $('hero-sub').textContent = pick(GUIDE_CONTENT.subtitle);
@@ -142,11 +185,12 @@
     const main = $('guide-main');
     main.innerHTML = '';
     GUIDE_CONTENT.sections.forEach(sec => main.appendChild(renderSection(sec)));
+    main.appendChild(renderReferencesSection());
 
     const toc = $('guide-toc');
     toc.innerHTML = GUIDE_CONTENT.sections.map(sec =>
       `<a href="#sec-${sec.id}">${sec.icon || ''} ${pick(sec.title)}</a>`
-    ).join('');
+    ).join('') + `<a href="#sec-references">📚 ${lang === 'te' ? 'అనుబంధం' : 'References'}</a>`;
   }
 
   // ── Search ───────────────────────────────────────────────────

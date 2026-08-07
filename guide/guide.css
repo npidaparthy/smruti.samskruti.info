@@ -130,6 +130,12 @@ main { max-width: 680px; margin: 0 auto; padding: 0 1rem; display: flex; flex-di
 .diagram-label { font-family: var(--font-ui); font-size: 10px; fill: var(--ink2); }
 .diagram-label-strong { font-family: var(--font-ui); font-size: 11px; font-weight: 600; fill: var(--accent2); }
 
+.ref-list { display: flex; flex-direction: column; gap: 0; margin-top: .6rem; }
+.ref-row { padding: 10px 0; border-bottom: 1px solid var(--line); }
+.ref-row:last-child { border-bottom: none; }
+.ref-source { font-family: var(--font-ui); font-size: .72rem; color: var(--muted); margin-bottom: 3px; }
+.ref-sa { font-size: .92rem; line-height: 1.65; }
+
 @media (max-width: 480px) {
   .hero h1 { font-size: 1.15rem; }
 }

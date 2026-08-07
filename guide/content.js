@@ -109,6 +109,49 @@ const GUIDE_CONTENT = {
     },
 
     {
+      id: 'anunasika',
+      icon: '👃',
+      title: { en: 'Anunāsika — Nasalized vs Oral', sa: 'अनुनासिकः', te: 'అనునాసికం — నాసిక్య, నిరనునాసిక అక్షరాలు' },
+      body: [
+        { en: 'Anunāsika means "sounded through the nose [as well as the mouth]" — air passes through both passages at once. This is a different, often-confused category from anusvāra (ं), which is a nasal stop that comes after a vowel, not a nasal quality of the vowel itself — see Sandhi & Parasavarṇa above for anusvāra.', te: 'అనునాసికం అంటే — నోటితో పాటు ముక్కు గుండా కూడా ధ్వని రావడం. ఇది అనుస్వారం (ం) కంటే వేరు — అనుస్వారం స్వరం తర్వాత వచ్చే నాసిక్య ఆగివేత, స్వరం యొక్క స్వంత గుణం కాదు.' }
+      ],
+      items: [
+        { term: 'Anunāsika consonants', sub: 'The five class-nasals', letters: 'ṅa, ña, ṇa, na, ma — each already carries its own sthāna (kaṇṭha/tālu/mūrdhā/danta/oṣṭha) plus the nasal cavity, engaged together.' },
+        { term: 'Anunāsika vowels', sub: 'Nasalized vowels', letters: 'any vowel can be nasalized — marked with a candrabindu (ँ) in Devanāgarī — distinct from the plain (anunāsika-rahita / nirasita) oral vowel.' },
+        { term: 'Aduṣṭa vs Anunāsika-rahita', sub: 'The default case', letters: 'a consonant or vowel with no nasal marking is anunāsika-rahita (purely oral) — this is the default state for everything not listed above.' }
+      ],
+      rule: {
+        sa: 'यरोऽनुनासिके अनुनासिको वा',
+        ro: 'yaro\'nunāsike anunāsiko vā',
+        source: 'Pāṇini 8.4.45',
+        translation: 'A semivowel (ya, ra, la, va) immediately before a nasal consonant may optionally itself become nasalized — one of the few places Sanskrit phonetics explicitly allows a chanter\'s discretion, rather than a fixed rule.'
+      }
+    },
+
+    {
+      id: 'eighteen-a',
+      icon: '🔢',
+      title: { en: '"अ" in Eighteen Ways', sa: '', te: '"అ" — పద్దెనిమిది విధాలు' },
+      body: [
+        { en: 'This is where sthāna, mātrā, svara, and anunāsika all meet. Even the simplest vowel — अ (a) — is not one sound. It is the product of three independent choices, and getting any one of them wrong changes what you\'ve actually said.', te: 'ఇక్కడ స్థానం, మాత్ర, స్వరం, అనునాసికం — అన్నీ కలుస్తాయి. అతి సరళమైన అచ్చు — అ — కూడా ఒకే ధ్వని కాదు. ఇది మూడు స్వతంత్ర ఎంపికల ఫలితం, వాటిలో ఏదొక్కటి తప్పైనా నిజంగా పలికిన మాటే మారిపోతుంది.' }
+      ],
+      items: [
+        { term: 'Duration', sub: '3 choices', letters: 'hrasva (1 mātrā) · dīrgha (2 mātrās) · pluta (3 mātrās)' },
+        { term: 'Pitch', sub: '× 3 choices', letters: 'udātta · anudātta · svarita' },
+        { term: 'Nasality', sub: '× 2 choices', letters: 'anunāsika (nasalized) · anunāsika-rahita (oral)' }
+      ],
+      body2: [
+        { en: '3 × 3 × 2 = 18 distinct ways to pronounce a single vowel like अ — this is traditional śikṣā-paramparā teaching, following directly from the mātrā, svara, and anunāsika rules above (each individually sourced in their own sections). Not all 18 carry different meanings in ordinary speech, but in Vedic mantra recitation, where accent and nasality are both meaning-bearing, the wrong combination is a real error, not a stylistic variation.', te: '3 × 3 × 2 = 18 — ఒకే అచ్చు అ ని పలికే విధాలు — ఇది సంప్రదాయ శిక్షా బోధన, పైన చెప్పిన మాత్ర, స్వర, అనునాసిక నియమాల నుండి నేరుగా వస్తుంది. సాధారణ మాటలో అన్ని 18 వేర్వేరు అర్థాలు ఇవ్వకపోవచ్చు, కానీ వేద మంత్ర పఠనంలో — స్వరం, నాసిక్యత రెండూ అర్థాన్ని మోసుకెళ్తాయి కాబట్టి — తప్పు కలయిక నిజమైన దోషమే, శైలీ వ్యత్యాసం కాదు.' }
+      ],
+      verse2: {
+        sa: 'अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च । अहमेवाक्षयः कालो धाताहं विश्वतोमुखः ॥',
+        ro: 'akṣarāṇām akāro\'smi dvandvaḥ sāmāsikasya ca | ahamevākṣayaḥ kālo dhātāhaṁ viśvatomukhaḥ ||',
+        source: 'Bhagavad Gītā 10.33',
+        translation: 'Among letters, I am the letter A; among compounds, I am the dvandva. I alone am imperishable time; I am the sustainer, facing all directions. — Krishna names Himself with the very letter whose correct pronunciation carries this much weight.'
+      }
+    },
+
+    {
       id: 'prayatna',
       icon: '💨',
       title: { en: 'Prayatna — Effort & Aspiration', sa: 'प्रयत्नः', te: 'ప్రయత్నం — శ్రమ, ఊపిరి' },
@@ -156,6 +199,13 @@ const GUIDE_CONTENT = {
       body: [
         { en: 'When chanting continuous text (saṁhitā-pāṭha), sandhi rules must be applied smoothly across word boundaries — not read word-by-word and then artificially joined.', te: 'నిరంతర పఠనంలో (సంహితా-పాఠం), పద సంధులు సహజంగా కలవాలి — విడివిడిగా చదివి తర్వాత కృత్రిమంగా జోడించకూడదు.' }
       ],
+      items: [
+        {
+          term: 'Padānte makāraḥ bhavati',
+          sub: 'Word-final m at a pause',
+          en: 'At the true end of a pada — right before a pause or breath-break, not mid-flow — a word-final "m" is pronounced as a clear, closed makāra (म्), not softened into a vague nasal hum the way an anusvāra before a consonant often gets blurred. Example: in "...śaraṇaṁ vraja" chanted straight through, that ṁ leans nasal before v; but if that same word ended a phrase right before a pause, the m should close cleanly, lips shut, not trail off as a hum. Reciters who blur every word-final m the same way lose this distinction.'
+        }
+      ],
       rule: {
         sa: 'अनुस्वारस्य ययि परसवर्णः',
         ro: 'anusvārasya yayi parasavarṇaḥ',
@@ -172,6 +222,23 @@ const GUIDE_CONTENT = {
         text: 'karmaṇy-evādhikāras te',
         note: 'karmaṇi + eva sandhi-joins to karmaṇyevādhikāraste — chant it as one continuous unit, not "karmani ... eva ... adhikaraste" with breaks.'
       }
+    },
+
+    {
+      id: 'laghu-guru',
+      icon: '⚓',
+      title: { en: 'Laghu & Guru — Light and Heavy Syllables', sa: 'लघु-गुरु', te: 'లఘు-గురు — తేలిక, బరువైన అక్షరాలు' },
+      body: [
+        { en: 'Every syllable in a verse is classified as either laghu (light) or guru (heavy). This isn\'t about loudness — it\'s about duration, and it\'s the actual mechanism that makes a meter (chandas) recognizable when chanted. Get the laghu/guru pattern right and unfamiliar verses in a known meter start to feel predictable; get it wrong and even a memorized verse can sound "off" without anyone being able to say why.', te: 'శ్లోకంలో ప్రతి అక్షరం లఘువు లేదా గురువు అని వర్గీకరించబడుతుంది. ఇది గట్టిగా పలకడం గురించి కాదు — వ్యవధి గురించి — పఠించినప్పుడు ఛందస్సు గుర్తించదగినదిగా చేసే అసలు యంత్రాంగం ఇదే.' }
+      ],
+      items: [
+        { term: 'Laghu', sub: 'Light — 1 mātrā', letters: 'a short vowel (hrasva) NOT followed by a conjunct consonant, anusvāra, or visarga, and not at the very end of a pāda.' },
+        { term: 'Guru — by nature', sub: 'Heavy — 2 mātrās', letters: 'any long or protracted vowel (dīrgha or pluta) — ā, ī, ū, ṝ, e, ai, o, au — is guru regardless of what follows it.' },
+        { term: 'Guru — by position', sub: 'Heavy — 2 mātrās', letters: 'a short vowel becomes guru when followed by a conjunct consonant (saṁyoga), an anusvāra (ṁ), or a visarga (ḥ) — or when it falls at the end of a verse-quarter (pāda), where the last syllable is conventionally treated as guru regardless.' }
+      ],
+      body2: [
+        { en: 'Pronunciation, not just counting: a guru syllable should be audibly held for roughly twice the duration of a laghu one — this is the same mātrā unit from the Duration section above, just applied to full syllables instead of single vowels. Rushing through a "positionally guru" short vowel (e.g. the a in dharmakṣetre, heavy only because of the following conjunct kṣ) is one of the most common ways reciters flatten a meter without realizing it — the vowel itself feels short, so it gets chanted short, even though its position demands the full guru weight.', te: 'ఉచ్చారణలో — కేవలం లెక్కించడమే కాదు: గురు అక్షరాన్ని లఘువు కంటే దాదాపు రెట్టింపు కాలం వినిపించేలా పలకాలి. స్థాన కారణంగా గురువైన హ్రస్వ స్వరాన్ని (ఉదా. తర్వాత సంయుక్తాక్షరం ఉన్నందున) తొందరగా పలకడం — మీటర్‌ను తెలియకుండానే చదును చేసే అత్యంత సాధారణ మార్గాలలో ఒకటి.' }
+      ]
     },
 
     {
@@ -288,6 +355,118 @@ const GUIDE_CONTENT = {
         { term: 'State of mind', en: 'Chant with attention on the meaning, not by rote — see anarthajñaḥ above, one of the six faults.' },
         { term: 'Restricted mantras', en: 'Certain Vedic mantras traditionally require initiation (upanayana/dīkṣā) from a qualified teacher — this varies by tradition and text; when in doubt, ask a knowledgeable elder or guru rather than assuming.' },
         { term: 'Consistency over intensity', en: 'A short, steady daily practice (nitya-pāṭha) is traditionally valued over occasional long sessions.' }
+      ]
+    },
+
+    {
+      id: 'practice-method',
+      icon: '🎯',
+      title: { en: 'Practice Method — Step by Step', sa: '', te: 'అభ్యాస పద్ధతి — దశలవారీగా' },
+      body: [
+        { en: 'Written for anyone drilling verses for real accuracy — including competitive Gītā reciters (e.g. Avadhāna/gold-medal aspirants) — but every step here applies equally to VSN or any other text. The rules above are the theory; this is the order to apply them in.', te: 'ఖచ్చితత్వం కోసం శ్లోకాలు సాధన చేసే ప్రతి ఒక్కరికీ — పోటీ గీతా పఠన/అవధాన, స్వర్ణ పతక ఆకాంక్షులతో సహా — రాయబడింది; కానీ ఇక్కడి ప్రతి దశ VSN కి లేదా మరే ఇతర గ్రంథానికైనా సమానంగా వర్తిస్తుంది.' }
+      ],
+      items: [
+        {
+          term: '1. Map before speed',
+          en: 'Before attempting full speed, identify the sthāna and prayatna for every letter in the verse — especially any mahāprāṇa, mūrdhanya, or the śa/ṣa/sa you\'re prone to blur. Speed hides errors from your own ear; slow, deliberate articulation exposes them.'
+        },
+        {
+          term: '2. Unpack the sandhi first',
+          en: 'Split each pada into its individual words before you try to chant it joined. Know what "karmaṇyevādhikāraste" actually is — karmaṇi + eva + adhikāraḥ + te — before you chant it as one flowing unit. Chanting a sandhi you don\'t understand is memorizing a sound, not a sentence.'
+        },
+        {
+          term: '3. Count mātrā out loud, slow first',
+          en: 'Practice the syllable-timing (hrasva/dīrgha/pluta) at half speed before attempting performance speed. If you can\'t keep the timing slow, you can\'t keep it fast — you\'ll just be fast and wrong.'
+        },
+        {
+          term: '4. Record yourself',
+          en: 'Your tongue often can\'t feel its own mistakes, but your ear can catch them on playback — especially mahāprāṇa softening into alpaprāṇa, and sthāna drift on retroflex letters. Compare against a known-correct reciter for the same verse.'
+        },
+        {
+          term: '5. Respect the yati',
+          en: 'Practice pauses only where the meter or word-boundary allows one (see Preserving Meter above) — never invent a breath-pause mid-compound out of convenience. If you must stop, mark that spot and drill starting from the compound\'s beginning, not from where you stopped.'
+        },
+        {
+          term: '6. Get svara-checked for Vedic-adjacent material',
+          en: 'For VSN or any text with pitch accents, self-teaching accent placement from text alone is unreliable — the "indraśatruḥ" example above shows how a misplaced accent inverts meaning. Get a teacher or experienced reciter to check your svara, at least for the verses you\'ll be judged on.'
+        },
+        {
+          term: '7. Mind the food/timing rules',
+          en: 'Before a practice or performance session, follow the voice-care guidance above (snigdha-uṣṇa-laghu food, not on an undigested stomach) — this is a physical precondition for your voice holding up through a long recitation, not superstition.'
+        },
+        {
+          term: '8. Consistency beats cramming',
+          en: 'A short daily drill session compounds; a single long cram session before a competition does not fix accumulated errors — it just performs them faster. Track which specific letters/verses you personally get wrong and drill those, rather than re-practicing what you already have right.'
+        },
+        {
+          term: '9. Use Avadhānam mode here to drill recall',
+          en: 'This site\'s Avadhānam practice mode tests verse recall from a pada, verse number, or speaker cue — pair it with the pronunciation drilling above: recall is not the same skill as correct articulation, and a gold-medal-level reciter needs both.'
+        }
+      ]
+    },
+
+    {
+      id: 'guna-ahara-philosophy',
+      icon: '🪔',
+      title: { en: 'The Deeper Philosophy — Guṇa & Āhāra', sa: '', te: 'లోతైన తత్త్వం — గుణం, ఆహారం' },
+      body: [
+        { en: 'Everything above is technique. This closing section is why the tradition considers that technique sacred — the chain from what you eat, to the quality of your mind, to the fitness of your speech to carry meaning at all.', te: 'పైనున్నదంతా సాంకేతికం. ఈ చివరి విభాగం — ఆ సాంకేతికతను సంప్రదాయం ఎందుకు పవిత్రంగా చూస్తుందో చెబుతుంది — మీరు తినేది, మనసు నాణ్యత, అర్థాన్ని మోసుకెళ్ళగల వాక్కు సామర్థ్యం — ఈ గొలుసు.' }
+      ],
+      items: [
+        {
+          term: 'Akṣaraṁ brahma paramam',
+          sub: 'Bhagavad Gītā 8.3',
+          sutra: 'अक्षरं ब्रह्म परमम्',
+          en: 'The Akṣara [imperishable syllable] is the Supreme Brahman itself. The word for "letter" (akṣara) and the word for "imperishable" are the same word — not a coincidence, in this tradition\'s view. Every letter chanted purely is treated as a form of that same imperishability.'
+        },
+        {
+          term: 'Om ityekākṣaraṁ brahma',
+          sub: 'Bhagavad Gītā 8.13',
+          sutra: 'ओमित्येकाक्षरं ब्रह्म व्याहरन् मामनुस्मरन् । यः प्रयाति त्यजन् देहं स याति परमां गतिम् ॥',
+          en: 'One who departs the body while uttering the one-syllable Om — Brahman — and remembering Me, attains the supreme goal. If a single syllable, correctly uttered, carries this much weight, the case for pronunciation discipline makes itself.'
+        },
+        {
+          term: 'Annamayaṁ hi manaḥ',
+          sub: 'Chāndogya Upaniṣad 6.7.6',
+          sutra: 'अन्नमयं हि सोम्य मनः । आपोमयः प्राणः । तेजोमयी वाक् ॥',
+          en: 'Mind is made of food; breath is made of water; speech is made of fire (tejas). The Upaniṣad states, not suggests, that speech quality traces to what you eat via mind and breath — the same causal chain the Voice-Care section above draws its Āyurvedic rules from.'
+        },
+        {
+          term: 'Āhāraśuddhau sattvaśuddhiḥ',
+          sub: 'Chāndogya Upaniṣad 7.26.2',
+          sutra: 'आहारशुद्धौ सत्त्वशुद्धिः । सत्त्वशुद्धौ ध्रुवा स्मृतिः । स्मृतिलाभे सर्वग्रन्थीनां विप्रमोक्षः ॥',
+          en: 'From purity of food, purity of mind (sattva); from purity of mind, steady memory (smṛti); from attaining memory, freedom from all the knots [of the heart]. For a reciter, the middle term matters most directly: steady memory is exactly what verse-recall depends on.'
+        },
+        {
+          term: 'Sāttvika āhāra',
+          sub: 'Bhagavad Gītā 17.8',
+          sutra: 'आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः । रस्याः स्निग्धाः स्थिरा हृद्याः आहाराः सात्त्विकप्रियाः ॥',
+          en: 'Foods that increase life, vitality, strength, health, joy, and satisfaction — juicy, unctuous (snigdha), substantial, and naturally agreeable — are dear to the sāttvika person. Snigdha here is the same word the Voice-Care section\'s Aṣṭāṅga Hṛdayam citation uses for pre-recitation food.'
+        },
+        {
+          term: 'Rājasika āhāra',
+          sub: 'Bhagavad Gītā 17.9',
+          sutra: 'कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः । आहारा राजसस्येष्टा दुःखशोकामयप्रदाः ॥',
+          en: 'Foods that are bitter, sour, salty, very hot, pungent, dry (rūkṣa), and burning are dear to the rājasika person, and bring suffering, grief, and disease. Rūkṣa is the exact term the Voice-Care section cites as directly destructive to the chanting voice.'
+        },
+        {
+          term: 'Tāmasika āhāra',
+          sub: 'Bhagavad Gītā 17.10',
+          sutra: 'यातयामं गतरसं पूति पर्युषितं च यत् । उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम् ॥',
+          en: 'Food that is stale, tasteless, putrid, spoiled, leftover, and impure is dear to the tāmasika person. Traditionally read as producing a dull, sluggish mind — and a dull mind produces dull, indistinct speech (compare alpakaṇṭhaḥ, the sixth fault of a chanter, above).'
+        },
+        {
+          term: 'Vāṅmaya tapas',
+          sub: 'Bhagavad Gītā 17.15',
+          sutra: 'अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् । स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ॥',
+          en: 'Speech that causes no distress, is truthful, pleasant, and beneficial, together with regular recitation practice (svādhyāyābhyasanam) — this is called the austerity of speech. Regular practice is named here as part of the discipline itself, not separate from it.'
+        },
+        {
+          term: 'Śabdabrahmaṇi niṣṇātaḥ',
+          sub: 'Vākyapadīya (Bhartṛhari)',
+          sutra: 'शब्दब्रह्मणि निष्णातः परं ब्रह्माधिगच्छति',
+          en: 'One who is well-versed in Śabda-brahman [the Word as the Absolute] attains the Supreme Brahman. Bhartṛhari\'s foundational claim for the entire tradition of treating grammar and correct sound as a spiritual discipline, not merely a technical one.'
+        }
       ]
     }
   ]
