@@ -66,35 +66,42 @@
 
   function renderVerse(v, extraClass) {
     if (!v) return '';
+    const translation = pick(v.translation);
     return `<div class="verse-card ${extraClass || ''}">
       <div class="verse-sa">${v.sa}</div>
       <div class="verse-ro">${v.ro}</div>
       ${v.source ? `<div class="verse-source">${v.source}</div>` : ''}
-      ${v.translation ? `<div class="verse-translation">${v.translation}</div>` : ''}
+      ${translation ? `<div class="verse-translation">${translation}</div>` : ''}
     </div>`;
   }
 
   function renderRule(r) {
+    const en = pick(r.en);
+    const warn = pick(r.warn);
+    const sub = pick(r.sub);
+    const term = pick(r.term);
+    const letters = pick(r.letters);
     return `<div class="rule-item">
-      <span class="rule-term">${r.term}</span>${r.sub ? `<span class="rule-sub">${r.sub}</span>` : ''}
+      <span class="rule-term">${term}</span>${sub ? `<span class="rule-sub">${sub}</span>` : ''}
       ${r.sutra ? `<div class="rule-sutra">${r.sutra}</div>` : ''}
-      ${r.letters ? `<div class="rule-letters">${r.letters}</div>` : ''}
-      ${r.en ? `<div class="rule-en">${pick(r.en) || r.en}</div>` : ''}
-      ${r.warn ? `<div class="rule-warn">⚠ ${r.warn}</div>` : ''}
+      ${letters ? `<div class="rule-letters">${letters}</div>` : ''}
+      ${en ? `<div class="rule-en">${en}</div>` : ''}
+      ${warn ? `<div class="rule-warn">⚠ ${warn}</div>` : ''}
     </div>`;
   }
 
   function renderSection(sec) {
-    const el = document.createElement('section');
+    const el = document.createElement('details');
     el.className = 'section' + (sec.draft ? ' draft' : '');
     el.id = 'sec-' + sec.id;
+    el.open = true;
     el.dataset.searchText = normDiacritics(JSON.stringify(sec));
 
-    let html = `<div class="section-head">
+    let html = `<summary class="section-head">
       <span class="section-icon">${sec.icon || ''}</span>
       <span class="section-title">${pick(sec.title)}</span>
       ${sec.draft ? '<span class="draft-badge">DRAFT — please review</span>' : ''}
-    </div>`;
+    </summary><div class="section-body">`;
 
     if (sec.body) {
       sec.body.forEach(b => {
@@ -109,18 +116,18 @@
     if (sec.rule) {
       html += `<div class="verse-example"><div class="ref">${sec.rule.source}</div>
         <div class="text">${sec.rule.sa}</div>
-        <div class="note">${sec.rule.ro} — ${sec.rule.translation}</div></div>`;
+        <div class="note">${sec.rule.ro} — ${pick(sec.rule.translation)}</div></div>`;
     }
     if (sec.examples) {
       html += `<div class="example-row">${sec.examples.map(ex => `
         <div class="example-chip">${ex.sa}<span class="ro">${ex.ro}</span></div>
       `).join('')}</div>`;
-      html += `<div class="example-note">${sec.examples.map(ex => ex.note).join(' · ')}</div>`;
+      html += `<div class="example-note">${sec.examples.map(ex => pick(ex.note)).join(' · ')}</div>`;
     }
     if (sec.verseExample) {
-      html += `<div class="verse-example"><div class="ref">${sec.verseExample.ref}</div>
+      html += `<div class="verse-example"><div class="ref">${pick(sec.verseExample.ref)}</div>
         <div class="text">${sec.verseExample.text}</div>
-        <div class="note">${sec.verseExample.note}</div></div>`;
+        <div class="note">${pick(sec.verseExample.note)}</div></div>`;
     }
     if (sec.body2) {
       sec.body2.forEach(b => {
@@ -129,6 +136,7 @@
     }
     if (sec.verse2) html += renderVerse(sec.verse2);
     if (sec.items2) html += `<div class="rule-list">${sec.items2.map(renderRule).join('')}</div>`;
+    html += '</div>';
 
     el.innerHTML = html;
     return el;
@@ -160,19 +168,22 @@
 
   function renderReferencesSection() {
     const rows = collectReferences();
-    const el = document.createElement('section');
+    const el = document.createElement('details');
     el.className = 'section';
     el.id = 'sec-references';
+    el.open = true;
     el.dataset.searchText = normDiacritics(JSON.stringify(rows));
-    el.innerHTML = `<div class="section-head">
+    el.innerHTML = `<summary class="section-head">
       <span class="section-icon">📚</span>
       <span class="section-title">${lang === 'te' ? 'అనుబంధం — అన్ని ప్రామాణిక గ్రంథాలు, శ్లోకాలు' : 'References — Every Source Verse, Collected'}</span>
-    </div>
+    </summary>
+    <div class="section-body">
     <div class="body-para">${lang === 'te'
       ? 'పైన ఉన్న అన్ని విభాగాల నుండి సేకరించిన శ్లోకాలు, సూత్రాలు — ఒకే చోట త్వరిత శోధన కోసం.'
       : 'Every cited verse and sūtra from every section above, collected in one place for quick lookup.'}</div>
     <div class="ref-list">
       ${rows.map(r => `<div class="ref-row"><div class="ref-source">${r.source}</div><div class="ref-sa">${r.sa}</div></div>`).join('')}
+    </div>
     </div>`;
     return el;
   }
@@ -230,5 +241,31 @@
       b.addEventListener('click', () => setTheme(b.dataset.theme));
     });
     $('guide-search')?.addEventListener('input', e => applySearch(e.target.value));
+
+    // TOC links: force-open the target section before the browser's
+    // default anchor-jump, so you never land on a collapsed section.
+    $('guide-toc')?.addEventListener('click', e => {
+      const a = e.target.closest('a[href^="#"]');
+      if (!a) return;
+      const target = document.getElementById(a.getAttribute('href').slice(1));
+      if (target && target.tagName === 'DETAILS') target.open = true;
+    });
+
+    // Expand/collapse all
+    $('guide-expand-all')?.addEventListener('click', () => {
+      document.querySelectorAll('details.section').forEach(d => { d.open = true; });
+    });
+    $('guide-collapse-all')?.addEventListener('click', () => {
+      document.querySelectorAll('details.section').forEach(d => { d.open = false; });
+    });
+
+    // Back-to-top floating button
+    const topBtn = $('back-to-top');
+    if (topBtn) {
+      window.addEventListener('scroll', () => {
+        topBtn.classList.toggle('visible', window.scrollY > 400);
+      });
+      topBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+    }
   });
 })();
