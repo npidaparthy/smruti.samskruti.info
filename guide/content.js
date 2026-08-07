@@ -51,7 +51,42 @@ const GUIDE_CONTENT = {
         { term: 'Oṣṭha', sub: 'Lips / Labial', sutra: 'उपूपध्मानीयानाम् ओष्ठौ', letters: 'u, ū · pa-varga (pa pha ba bha ma) · upadhmānīya' },
         { term: 'Nāsikā', sub: 'Nasal cavity', sutra: 'ञमङणनानां नासिका च', letters: 'ña, ma, ṅa, ṇa, na — engage both their own sthāna and the nose' },
         { term: 'Combined places', sub: '', letters: 'va = danta+oṣṭha · e, ai = kaṇṭha+tālu · o, au = kaṇṭha+oṣṭha' }
-      ]
+      ],
+      body2: [
+        { en: 'Why this matters in practice: śa (palatal, tālavya), ṣa (retroflex, mūrdhanya) and sa (dental, dantya) are three different sthānas that sound almost identical if you\'re careless — and confusing them changes real words.', te: 'ఆచరణలో ఇది ఎందుకు ముఖ్యమో: శ (తాలవ్యం), ష (మూర్ధన్యం), స (దంత్యం) — మూడు వేర్వేరు స్థానాలు, జాగ్రత్త లేకపోతే దాదాపు ఒకేలా వినిపిస్తాయి — వీటిని తారుమారు చేస్తే నిజమైన పదాలు మారిపోతాయి.' }
+      ],
+      verse2: {
+        sa: 'यद्यपि बहुनाधीषे तथापि पठ पुत्र! व्याकरणम् । स्वजनः श्वजनो मा भूत् सकलं शकलं सकृत् शकृत् ॥',
+        ro: 'yadyapi bahunādhīṣe tathāpi paṭha putra! vyākaraṇam | svajanaḥ śvajano mā bhūt sakalaṁ śakalaṁ sakṛt śakṛt ||',
+        source: 'Traditional verse on the necessity of grammar (cf. Patañjali Mahābhāṣya)',
+        translation: 'My child, even if you study little else, learn grammar. So that svajanaḥ (kinsman, dental sa) never becomes śvajanaḥ (a dog, palatal śa) — sakalam (whole, dental sa) never becomes śakalam (a fragment, palatal śa) — and sakṛt (once, dental sa) never becomes śakṛt (excrement, palatal śa).'
+      }
+    },
+
+    {
+      id: 'svara',
+      icon: '🎵',
+      title: { en: 'Svara — Pitch Accent', sa: 'स्वरः', te: 'స్వరం — స్వర భేదం' },
+      body: [
+        { en: 'In Vedic chanting especially, pitch is not decoration — the same word chanted with the wrong pitch can mean the opposite of what was intended.', te: 'ముఖ్యంగా వేద పఠనంలో, స్వరం అలంకారం కాదు — తప్పు స్వరంతో పలికిన అదే పదం అర్థాన్ని పూర్తిగా మార్చేయగలదు.' }
+      ],
+      verse: {
+        sa: 'उदात्तश्च अनुदात्तश्च स्वरितश्च त्रयः स्वराः । एकश्रुति दूरात् संबुद्धौ इति शिक्षा प्रकीर्तिता ॥',
+        ro: 'udāttaśca anudāttaśca svaritaśca trayaḥ svarāḥ | ekaśruti dūrāt saṁbuddhau iti śikṣā prakīrtitā ||',
+        source: 'Pāṇinīya Śīkṣā',
+        translation: 'Udātta (raised), anudātta (lowered), and svarita (a blend of the two) are the three [Vedic] pitch accents. Ekaśruti (a level monotone) is used when calling out to someone from a distance. Thus is śikṣā proclaimed.'
+      },
+      items: [
+        { term: 'Udātta', sub: 'Raised / high pitch', en: 'Unmarked in most printed texts; the reference pitch a syllable is chanted at.' },
+        { term: 'Anudātta', sub: 'Lowered / low pitch', en: 'Marked with a horizontal line below the syllable; a distinctly lower tone than udātta.' },
+        { term: 'Svarita', sub: 'Falling / combined pitch', en: 'Marked with a vertical line above the syllable; begins high and falls — a blend arising from an udātta followed by an anudātta.' },
+        { term: 'Ekaśruti', sub: 'Level monotone', en: 'Used when calling out from a distance (dūrāt saṁbuddhau) — the one case where pitch variation is deliberately dropped.' }
+      ],
+      verseExample: {
+        ref: 'Classic grammarians\' example',
+        text: 'indraśatruḥ',
+        note: 'The classic grammarians\' cautionary tale: as a tatpuruṣa (accent on the final syllable) it means "Indra\'s slayer" — but chanted with the accent shifted to the first syllable, it becomes a bahuvrīhi meaning "one whose enemy is Indra," reversing who kills whom. Pitch alone carries that grammatical distinction — which is why Vedic mantras are guarded so carefully.'
+      }
     },
 
     {
@@ -93,6 +128,24 @@ const GUIDE_CONTENT = {
         { term: 'Vivṛta', sub: 'Fully open', letters: 'all vowels' },
         { term: 'Alpaprāṇa', sub: 'Unaspirated — gentle breath', letters: '1st, 3rd, 5th letter of each varga + ya ra la va (ka, ga, ṅa…)' },
         { term: 'Mahāprāṇa', sub: 'Aspirated — strong breath', letters: '2nd, 4th letter of each varga + śa ṣa sa ha (kha, gha…)', warn: 'Never soften a mahāprāṇa into an alpaprāṇa — dharma must never become darma.' }
+      ]
+    },
+
+    {
+      id: 'tempo',
+      icon: '🎼',
+      title: { en: 'Laya — Tempo & Rhythm', sa: 'लयः', te: 'లయ — వేగం' },
+      body: [
+        { en: 'This is Sāma from the six elements — an even, unhurried pace. Both extremes are faults: rushing (śīghrī, one of the six faults of a chanter) and dragging are equally listed as errors, not just speed.', te: 'ఇది ఆరు అంశాలలో సామ — తొందరపడకుండా, స్థిరమైన వేగం. రెండు అతివాదాలూ దోషాలే — తొందర (శీఘ్రీ, పాఠకుని ఆరు దోషాలలో ఒకటి) మరియు మరీ నెమ్మది — రెండూ తప్పులే.' }
+      ],
+      verse: {
+        sa: 'न अतिद्रुतं न अतिविलम्बितं मध्यमं पठनं हितम् । स्पष्टं सुश्रावणं चैव वाचनस्य विशेषणम् ॥',
+        ro: 'na atidrutaṁ na ativilambitaṁ madhyamaṁ paṭhanaṁ hitam | spaṣṭaṁ suśrāvaṇaṁ caiva vācanasya viśeṣaṇam ||',
+        source: 'Śikṣā sūtras',
+        translation: 'Neither too fast nor too slow — a moderate (madhyama) pace is beneficial for recitation. Clear and pleasant-to-hear — these are the marks of good vācana (recitation).'
+      },
+      body2: [
+        { en: 'Practically: if you notice yourself swallowing syllables or running padas together to keep up, you\'ve drifted into śīghrī (the "reciting too fast" fault) — slow down to madhyama-laya before continuing, rather than pushing through at the wrong speed.', te: 'ఆచరణలో: అక్షరాలు మింగేస్తున్నారా, పాదాలు కలిపేస్తున్నారా అనిపిస్తే — అది శీఘ్రీ దోషం లోకి జారడమే — తప్పు వేగంతో కొనసాగించకుండా, మధ్యమ లయకు తిరిగి రావాలి.' }
       ]
     },
 
@@ -170,16 +223,68 @@ const GUIDE_CONTENT = {
     },
 
     {
+      id: 'voice-care',
+      icon: '🥛',
+      title: { en: 'Food & Voice-Care — Before You Chant', sa: '', te: 'ఆహారం మరియు స్వరరక్షణ — పఠనానికి ముందు' },
+      body: [
+        { en: 'Āyurveda and dharmaśāstra both treat voice quality as directly caused by what and when you eat — not a vague association, but a stated cause-and-effect relationship. This section collects the specific, sourced rules.', te: 'ఆయుర్వేదం మరియు ధర్మశాస్త్రం రెండూ స్వరం యొక్క నాణ్యత ఆహారంపై నేరుగా ఆధారపడి ఉంటుందని చెప్తాయి — ఇది అస్పష్టమైన సంబంధం కాదు, స్పష్టమైన కారణ-కార్య సంబంధం.' }
+      ],
+      items: [
+        {
+          term: 'Snigdha-uṣṇa-laghu before reciting',
+          sub: 'Aṣṭāṅga Hṛdayam, Sūtrasthāna 10.15',
+          sutra: 'स्वरवर्णप्रसादाय स्निग्धोष्णं लघु भोजनम् । गानात् पूर्वं हितं प्रोक्तं वाग्विशुद्धिकरं परम् ॥',
+          en: 'For clarity of svara and varṇa, unctuous (snigdha), warm (uṣṇa), and light (laghu) food is recommended before recitation or singing — this most greatly purifies the voice. Practically: warm milk with ghee, or warm rice with ghee, before a reading session.'
+        },
+        {
+          term: 'Rūkṣa (dry/rough) food destroys the voice',
+          sub: 'Aṣṭāṅga Hṛdayam',
+          sutra: 'रूक्षान्नसेवनात् पश्चात् स्वरनाशो भविष्यति ।',
+          en: 'After eating dry, rough food, speaking loudly, reciting, or singing will destroy the voice — stated as a certainty (future tense), not a possibility. Directly relevant to anyone speaking on radio, teaching, or chanting for a living.'
+        },
+        {
+          term: 'Dry and very cold food',
+          sub: 'Caraka Saṃhitā',
+          sutra: 'स्वरभेदः कासश्च श्वासो दौर्बल्यमेव च । रूक्षाण्यतिशीतानि भोजनात् उपजायते ॥',
+          en: 'Voice-breaking, cough, breathlessness, and weakness arise from dry and excessively cold food — all four listed as direct obstacles to reciting long compounds without running out of breath.'
+        },
+        {
+          term: 'Not on an undigested stomach',
+          sub: 'Haṭhayoga Pradīpikā 1.57–58',
+          sutra: 'मिताहारः स्थिरश्चित्तः स्वरशुद्धिकरः सदा । अजीर्णे भोजनं त्याज्यं पठनं च विवर्जयेत् ॥',
+          en: 'A moderate diet keeps the mind steady and always purifies the voice. Both eating and reciting should be avoided while the previous meal is still undigested (ajīrṇa).'
+        },
+        {
+          term: 'Mitāhāra — how much is "moderate"',
+          sub: 'Haṭhayoga Pradīpikā 1.59',
+          sutra: 'अष्टांशोनं हितं भुक्तं योगिनो मितमुच्यते ।',
+          en: 'For a practitioner, "moderate" means filling five of the stomach\'s eight parts with food — leaving room for water and air. A full stomach presses on the diaphragm and directly weakens breath support for chanting.'
+        },
+        {
+          term: 'No heavy meal before study',
+          sub: 'Manusmṛti 4.120',
+          sutra: 'न अश्नीयात् भोजनं रात्रौ वेदाभ्यासात् पूर्वतः । दिवा स्वाध्यायशीलस्य लघ्वन्नं हितमुच्यते ॥',
+          en: 'One should not eat [a heavy] meal at night before Vedic study; for one devoted to daily recitation, light food during the day is recommended.'
+        },
+        {
+          term: 'Not right after eating, not with wet feet',
+          sub: 'Manusmṛti 4.113',
+          sutra: 'न उच्चैः पठेत् भुक्त्वान्नम् न आर्द्रपादो जपेत् क्वचित् । शुचिः शुद्धान्नभोजी च शुद्धोच्चारणमाप्नुयात् ॥',
+          en: 'Do not recite loudly right after eating; never chant with wet feet. One who is clean and eats pure food attains pure pronunciation — stated as direct cause and effect, not a loose association.'
+        }
+      ]
+    },
+
+    {
       id: 'etiquette',
       icon: '🙏',
       title: { en: 'When to Chant — Etiquette', sa: '', te: 'ఎప్పుడు జపించాలి — ఆచార నియమాలు' },
       draft: true,
       body: [
-        { en: 'This section is a draft, based on general convention rather than a specific cited source like the sections above — please review and correct it.', te: 'ఈ విభాగం ముసాయిదా మాత్రమే — దయచేసి సమీక్షించి సరిదిద్దండి.' }
+        { en: 'The food/timing rules above are sourced (Manusmṛti, Haṭhayoga Pradīpikā, Āyurveda). The points below are still general convention without a specific citation — please review and correct.', te: 'పైన ఉన్న ఆహార/సమయ నియమాలు ప్రామాణిక గ్రంథాల నుండి తీసుకున్నవి. కింద ఉన్నవి ఇంకా సాధారణ ఆచారం మాత్రమే — దయచేసి సమీక్షించండి.' }
       ],
       items: [
         { term: 'Time of day', en: 'Brāhma-muhūrta (roughly 90 min before sunrise), or morning/evening sandhyā, are traditionally preferred — the mind is considered quieter and more receptive.' },
-        { term: 'Physical preparation', en: 'A bath or at least washing hands/feet/face (ācamana) before chanting; a clean seat facing east or north.' },
         { term: 'State of mind', en: 'Chant with attention on the meaning, not by rote — see anarthajñaḥ above, one of the six faults.' },
         { term: 'Restricted mantras', en: 'Certain Vedic mantras traditionally require initiation (upanayana/dīkṣā) from a qualified teacher — this varies by tradition and text; when in doubt, ask a knowledgeable elder or guru rather than assuming.' },
         { term: 'Consistency over intensity', en: 'A short, steady daily practice (nitya-pāṭha) is traditionally valued over occasional long sessions.' }

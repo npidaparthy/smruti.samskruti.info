@@ -98,7 +98,7 @@
 
     if (sec.body) {
       sec.body.forEach(b => {
-        html += `<div class="body-para">${b.en}${lang === 'te' && b.te ? `<span class="te">${b.te}</span>` : ''}</div>`;
+        html += `<div class="body-para">${lang === 'te' && b.te ? b.te : b.en}</div>`;
       });
     }
     if (sec.verse) html += renderVerse(sec.verse);
@@ -121,6 +121,11 @@
       html += `<div class="verse-example"><div class="ref">${sec.verseExample.ref}</div>
         <div class="text">${sec.verseExample.text}</div>
         <div class="note">${sec.verseExample.note}</div></div>`;
+    }
+    if (sec.body2) {
+      sec.body2.forEach(b => {
+        html += `<div class="body-para">${lang === 'te' && b.te ? b.te : b.en}</div>`;
+      });
     }
     if (sec.verse2) html += renderVerse(sec.verse2);
     if (sec.items2) html += `<div class="rule-list">${sec.items2.map(renderRule).join('')}</div>`;
