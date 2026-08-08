@@ -30,7 +30,7 @@ const GUIDE_CONTENT = {
       ],
       items: [
         { term: 'Varṇa', sub: 'Letter', en: { en: 'Every phoneme articulated accurately from its correct place of origin (sthāna).', te: 'ప్రతి అక్షరాన్ని దాని సరైన స్థానం నుండి ఖచ్చితంగా పలకడం.' } },
-        { term: 'Svara', sub: 'Accent / Pitch', en: { en: 'Udātta (high), anudātta (low), svarita (falling) — in Vedic chanting, wrong pitch can change meaning.', te: 'ఉదాత్తం (ఎత్తు), అనుదాత్తం (తగ్గు), స్వరితం (దిగు) — వేద పఠనంలో తప్పు స్వరం అర్థాన్నే మార్చేయగలదు.' } },
+        { term: 'Svara', sub: 'Accent / Pitch', en: { en: 'Udātta (raised), anudātta (lowered), and svarita (falling) — three Vedic pitch accents. In actual Vedic recitation, if the pitch is mispronounced or shifted to a different syllable, the meaning can change completely, or even flip to its opposite.', te: 'ఉదాత్తం, అనుదాత్తం, స్వరితం అనే మూడు వేద స్వరభేదాలు ఉన్నాయి. నిజమైన వేద పఠనంలో స్వరం తప్పుగా పలికినా లేదా వేరే అక్షరానికి మారినా, పలికిన మాట అర్థం పూర్తిగా మారిపోవచ్చు, కొన్నిసార్లు సరిగ్గా వ్యతిరేక అర్థం కూడా రావచ్చు.' } },
         { term: 'Mātrā', sub: 'Duration', en: { en: 'Short, long, and protracted vowels held for their exact, strict count of beats.', te: 'హ్రస్వ, దీర్ఘ, ప్లుత స్వరాలను వాటి ఖచ్చితమైన కాల ప్రమాణంతో పలకడం.' } },
         { term: 'Bala', sub: 'Effort', en: { en: 'Internal (tongue/lip contact) and external (breath) effort — covered under Prayatna below.', te: 'అంతః ప్రయత్నం (నాలుక/పెదవుల స్పర్శ) మరియు బాహ్య ప్రయత్నం (ఊపిరి) — దిగువ ప్రయత్నం విభాగంలో వివరణ.' } },
         { term: 'Sāma', sub: 'Evenness', en: { en: 'A constant tempo and smooth rhythm, without rushing, dragging, or emotional distortion.', te: 'తొందరపడకుండా, జాప్యం చేయకుండా, భావావేశం లేకుండా — స్థిరమైన వేగం, సాఫీ లయ.' } },
@@ -93,7 +93,8 @@ const GUIDE_CONTENT = {
       icon: '🎵',
       title: { en: 'Svara — Pitch Accent', sa: 'स्वरः', te: 'స్వరం — స్వర భేదం' },
       body: [
-        { en: 'In Vedic chanting especially, pitch is not decoration — the same word chanted with the wrong pitch can mean the opposite of what was intended.', te: 'ముఖ్యంగా వేద పఠనంలో, స్వరం అలంకారం కాదు — తప్పు స్వరంతో పలికిన అదే పదం అర్థాన్ని పూర్తిగా మార్చేయగలదు.' }
+        { en: 'In Vedic chanting especially, pitch is not decoration — if a syllable is chanted with the wrong pitch, or the accent lands on the wrong syllable, the meaning can change completely, sometimes even flipping to the exact opposite of what was intended.', te: 'ముఖ్యంగా వేద పఠనంలో స్వరం కేవలం అలంకారం కాదు — ఒక అక్షరాన్ని తప్పు స్వరంతో పలికినా, లేదా స్వరం వేరే అక్షరం మీద పడినా, అర్థం పూర్తిగా మారిపోవచ్చు, కొన్నిసార్లు ఉద్దేశించిన దానికి సరిగ్గా వ్యతిరేకంగా కూడా మారిపోవచ్చు.' },
+        { en: 'Where this actually applies: the Bhagavad Gītā is smṛti, not chanted with these formal Vedic pitch accents the way Veda mantras are — so this section is most relevant if you also recite VSN or other Vedic-tradition material. Getting svara right is not something to self-teach from text; it genuinely needs a qualified guru\'s ear.', te: 'ఇది నిజంగా ఎక్కడ వర్తిస్తుందంటే: భగవద్గీత స్మృతి గ్రంథం — వేద మంత్రాల్లా ఈ లాంఛనప్రాయమైన వేద స్వరాలతో పఠించరు. కాబట్టి మీరు VSN లేదా ఇతర వేద-సంబంధ గ్రంథాలు కూడా పఠిస్తుంటే ఈ విభాగం మీకు ఎక్కువ వర్తిస్తుంది. స్వరాన్ని పాఠం చూసి స్వయంగా నేర్చుకోదగినది కాదు — దీనికి నిజంగా అర్హత గల గురువు చెవి అవసరం.' }
       ],
       verse: {
         sa: 'उदात्तश्च अनुदात्तश्च स्वरितश्च त्रयः स्वराः । एकश्रुति दूरात् संबुद्धौ इति शिक्षा प्रकीर्तिता ॥',
@@ -101,14 +102,14 @@ const GUIDE_CONTENT = {
         source: 'Pāṇinīya Śīkṣā',
         translation: {
           en: 'Udātta (raised), anudātta (lowered), and svarita (a blend of the two) are the three [Vedic] pitch accents. Ekaśruti (a level monotone) is used when calling out to someone from a distance. Thus is śikṣā proclaimed.',
-          te: 'ఉదాత్తం, అనుదాత్తం, స్వరితం — ఇవి మూడు వేద స్వరాలు. దూరం నుండి పిలిచేటప్పుడు ఏకశ్రుతి (ఒకే స్థాయి స్వరం) వాడతారు. ఇదే శిక్షా శాస్త్రం చెప్పేది.'
+          te: 'ఉదాత్తం, అనుదాత్తం, స్వరితం అని మూడు వేద స్వరభేదాలు ఉన్నాయి. ఎవరినైనా దూరం నుండి పిలిచేటప్పుడు మాత్రం ఏకశ్రుతి అంటే ఒకే స్థాయిలో స్వరం వాడతారు. ఇదే శిక్షా శాస్త్రం బోధించేది.'
         }
       },
       items: [
-        { term: 'Udātta', sub: 'Raised / high pitch', en: { en: 'Unmarked in most printed texts; the reference pitch a syllable is chanted at.', te: 'చాలా ముద్రిత గ్రంథాలలో గుర్తు లేకుండానే ఉంటుంది; అక్షరం పలికే ప్రాథమిక స్థాయి.' } },
-        { term: 'Anudātta', sub: 'Lowered / low pitch', en: { en: 'Marked with a horizontal line below the syllable; a distinctly lower tone than udātta.', te: 'అక్షరం కింద అడ్డగీతతో గుర్తించబడుతుంది; ఉదాత్తం కంటే స్పష్టంగా తక్కువ స్వరం.' } },
-        { term: 'Svarita', sub: 'Falling / combined pitch', en: { en: 'Marked with a vertical line above the syllable; begins high and falls — a blend arising from an udātta followed by an anudātta.', te: 'అక్షరం పైన నిలువుగీతతో గుర్తించబడుతుంది; ఎత్తుగా మొదలై దిగుతుంది — ఉదాత్తం తర్వాత అనుదాత్తం కలయిక వలన వస్తుంది.' } },
-        { term: 'Ekaśruti', sub: 'Level monotone', en: { en: 'Used when calling out from a distance (dūrāt saṁbuddhau) — the one case where pitch variation is deliberately dropped.', te: 'దూరం నుండి పిలిచేటప్పుడు వాడతారు — స్వర వైవిధ్యాన్ని ఉద్దేశపూర్వకంగా వదిలేసే ఏకైక సందర్భం.' } }
+        { term: 'Udātta', sub: { en: 'Raised / high pitch', te: 'ఎత్తైన స్వరం' }, en: { en: 'Unmarked in most printed texts; the reference pitch a syllable is chanted at.', te: 'చాలా ముద్రిత గ్రంథాలలో దీనికి ప్రత్యేక గుర్తు ఉండదు; మిగతా స్వరాలను దీనితో పోల్చుకుంటారు.' } },
+        { term: 'Anudātta', sub: { en: 'Lowered / low pitch', te: 'తగ్గిన స్వరం' }, en: { en: 'Marked with a horizontal line below the syllable; a distinctly lower tone than udātta.', te: 'అక్షరం కింద అడ్డగీత గుర్తుతో చూపిస్తారు; ఉదాత్తం కంటే స్పష్టంగా తక్కువ స్థాయిలో ఉంటుంది.' } },
+        { term: 'Svarita', sub: { en: 'Falling / combined pitch', te: 'దిగే స్వరం' }, en: { en: 'Marked with a vertical line above the syllable; begins high and falls — a blend arising from an udātta followed by an anudātta.', te: 'అక్షరం పైన నిలువుగీత గుర్తుతో చూపిస్తారు; ఎత్తుగా మొదలై కిందికి దిగుతుంది — ఉదాత్తం తర్వాత వెంటనే అనుదాత్తం వచ్చినప్పుడు ఏర్పడే కలయిక ఇది.' } },
+        { term: 'Ekaśruti', sub: { en: 'Level monotone', te: 'ఒకే స్థాయి స్వరం' }, en: { en: 'Used when calling out from a distance (dūrāt saṁbuddhau) — the one case where pitch variation is deliberately dropped.', te: 'ఎవరినైనా దూరం నుండి పిలిచేటప్పుడు వాడతారు — స్వర వైవిధ్యాన్ని ఉద్దేశపూర్వకంగా వదిలేసే ఏకైక సందర్భం ఇది.' } }
       ],
       verseExample: {
         ref: { en: 'Classic grammarians\' example', te: 'ప్రసిద్ధ వ్యాకరణ ఉదాహరణ' },
