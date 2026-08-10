@@ -160,7 +160,7 @@
       if (sec.verse2) add(sec.verse2.source, sec.verse2.sa, sec.verse2.translation);
       if (sec.rule) add(sec.rule.source, sec.rule.sa, sec.rule.translation);
       (sec.items || []).concat(sec.items2 || []).forEach(it => {
-        if (it.sutra) add(it.sub || it.term, it.sutra, it.en);
+        if (it.sutra) add(pick(it.sub) || pick(it.term), it.sutra, it.en);
       });
     });
     return rows;

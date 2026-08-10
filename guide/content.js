@@ -53,16 +53,25 @@ const GUIDE_CONTENT = {
         { term: 'Danta', sub: 'Teeth / Dental', sutra: 'लृतुलसानां दन्ताः', letters: 'ḷ · ta-varga (ta tha da dha na) · la · sa' },
         { term: 'Oṣṭha', sub: 'Lips / Labial', sutra: 'उपूपध्मानीयानाम् ओष्ठौ', letters: 'u, ū · pa-varga (pa pha ba bha ma) · upadhmānīya' },
         { term: 'Nāsikā', sub: 'Nasal cavity', sutra: 'ञमङणनानां नासिका च', letters: 'ña, ma, ṅa, ṇa, na — engage both their own sthāna and the nose' },
-        { term: 'Combined places', sub: '', letters: 'va = danta+oṣṭha · e, ai = kaṇṭha+tālu · o, au = kaṇṭha+oṣṭha' },
+        { term: 'Combined places', sub: '', letters: 'va = danta+oṣṭha · e, ai = kaṇṭha+tālu · o, au = kaṇṭha+oṣṭha — these diphthongs are themselves vowel-combinations: e = a+i, ai = ā+ī, o = a+u, au = ā+ū' },
+        {
+          term: 'Hakāra after a nasal — a Telugu print convention',
+          sub: { en: 'Not a sandhi rule, but a common orthographic pattern', te: 'సంధి నియమం కాదు, ముద్రణలో కనిపించే సాధారణ ధోరణి' },
+          tentative: true,
+          letters: {
+            en: 'In some Telugu-script printings, a conjunct ending in ḍha/hma before ha-adjacent letters is respelled with the class-nasal (ṇ/n/m) directly before ha — e.g. prauḍha appears as prauṇha, vahni as vanhi, brahma as bramha. This is a print/orthography habit noted in traditional teaching notes rather than a Pāṇinian sandhi rule; the correct chanted sound is still the original aspirate (ḍha/hma), not the respelled nasal+ha. Flagged here for awareness — check with a teacher before treating this as a pronunciation instruction.',
+            te: 'కొన్ని తెలుగు ముద్రణలలో, హ-సమీప అక్షరాల ముందు ఢ/హ్మ తో ముగిసే సంయుక్తాక్షరాన్ని నేరుగా వర్గ-నాసిక్యంతో (ణ/న/మ) హ ముందు మళ్ళీ రాస్తారు — ఉదా. ప్రౌఢ → ప్రౌణ్హ, వహ్ని → వన్హి, బ్రహ్మ → బ్రమ్హ. ఇది పాణినీయ సంధి నియమం కాదు — సంప్రదాయ బోధనా నోట్సులలో కనిపించే ముద్రణ/రచనా అలవాటు మాత్రమే; నిజంగా పలకవలసిన ధ్వని ఇప్పటికీ మూల మహాప్రాణమే (ఢ/హ్మ), తిరిగి రాసిన నాసిక్యం+హ కాదు. అవగాహన కోసం ఇక్కడ గుర్తించాం — దీన్ని ఉచ్చారణ సూచనగా తీసుకునే ముందు గురువును సంప్రదించండి.'
+          }
+        },
         {
           term: 'Jihvāmūlīya', sub: { en: 'Tongue-root — a visarga variant', te: 'జిహ్వామూలం — విసర్గ ఉపరూపం' },
           sutra: 'क्ख इति कखाभ्यां प्रागर्धविसर्गसदृशो जिह्वामूलीयः',
-          letters: { en: 'A special half-visarga sound, articulated at the root of the tongue, that replaces a plain visarga specifically when it occurs right before क or ख (e.g. duḥkha). Distinct from the ordinary visarga used elsewhere.', te: 'నాలుక మూలం నుండి పలికే ప్రత్యేక అర్ధ-విసర్గ ధ్వని — క లేదా ఖ ముందు వచ్చిన సాధారణ విసర్గకు బదులుగా వస్తుంది (ఉదా. దుఃఖ). ఇతర చోట్ల వాడే సాధారణ విసర్గ కంటే వేరు.' }
+          letters: { en: 'A special half-visarga sound, articulated at the root of the tongue, that replaces a plain visarga specifically when it occurs right before ka or kha. Example, Bhagavad Gītā 1.35: "hetoḥ kiṃ nu mahīkṛte" — the visarga in hetoḥ, right before kiṃ, takes this tongue-root sound, not a plain "ha".', te: 'నాలుక మూలం నుండి పలికే ప్రత్యేక అర్ధ-విసర్గ ధ్వని — క లేదా ఖ ముందు వచ్చిన సాధారణ విసర్గకు బదులుగా వస్తుంది. ఉదాహరణ, భగవద్గీత 1.35: "హేతోః కిం ను మహీకృతే" — ఇందులో హేతోః తర్వాత కిం రావడంతో ఆ విసర్గ ఈ నాలుక-మూల ధ్వనిగా పలకాలి, సాధారణ "హ" లా కాదు.' }
         },
         {
           term: 'Upadhmānīya', sub: { en: 'Lip-region — a visarga variant', te: 'ఓష్ఠ ప్రాంతం — విసర్గ ఉపరూపం' },
           sutra: 'प्फ इति पफाभ्यां प्रागर्धविसर्गसदृश उपध्मानीयः',
-          letters: { en: 'The equivalent half-visarga sound before प or फ (e.g. duḥpāra) — articulated near the lips instead of the throat. Most reciters flatten both of these into a plain visarga; the tradition treats them as distinct sounds with their own sthāna.', te: 'ప లేదా ఫ ముందు వచ్చే ఇదే తరహా అర్ధ-విసర్గ ధ్వని (ఉదా. దుఃపార) — గొంతు బదులు పెదవుల దగ్గర పలుకుతారు. చాలామంది పఠనకర్తలు వీటిని రెండింటినీ సాధారణ విసర్గగానే పలుకుతారు; సంప్రదాయం వీటిని వాటి స్వంత స్థానం గల వేర్వేరు ధ్వనులుగా చూస్తుంది.' }
+          letters: { en: 'The equivalent half-visarga sound before pa or pha — articulated near the lips instead of the throat. Example, Bhagavad Gītā 1.1, the very opening line: "māmakāḥ pāṇḍavāścaiva" — the visarga in māmakāḥ, right before pāṇḍavāḥ, takes this lip-region sound. Most reciters flatten both this and the jihvāmūlīya into a plain visarga; the tradition treats them as distinct sounds with their own sthāna.', te: 'ప లేదా ఫ ముందు వచ్చే ఇదే తరహా అర్ధ-విసర్గ ధ్వని — గొంతు బదులు పెదవుల దగ్గర పలుకుతారు. ఉదాహరణ, భగవద్గీతలో మొదటి పాదమే — 1.1: "మామకాః పాండవాశ్చైవ" — ఇందులో మామకాః తర్వాత పాండవాః రావడంతో ఆ విసర్గ ఈ పెదవి-ప్రాంత ధ్వనిగా పలకాలి. చాలామంది పఠనకర్తలు దీన్నీ, జిహ్వామూలీయాన్నీ రెండింటినీ సాధారణ విసర్గగానే పలుకుతారు; సంప్రదాయం వీటిని వాటి స్వంత స్థానం గల వేర్వేరు ధ్వనులుగా చూస్తుంది.' }
         }
       ],
       rule: {
@@ -109,7 +118,8 @@ const GUIDE_CONTENT = {
         { term: 'Udātta', sub: { en: 'Raised / high pitch', te: 'ఎత్తైన స్వరం' }, en: { en: 'Unmarked in most printed texts; the reference pitch a syllable is chanted at.', te: 'చాలా ముద్రిత గ్రంథాలలో దీనికి ప్రత్యేక గుర్తు ఉండదు; మిగతా స్వరాలను దీనితో పోల్చుకుంటారు.' } },
         { term: 'Anudātta', sub: { en: 'Lowered / low pitch', te: 'తగ్గిన స్వరం' }, en: { en: 'Marked with a horizontal line below the syllable; a distinctly lower tone than udātta.', te: 'అక్షరం కింద అడ్డగీత గుర్తుతో చూపిస్తారు; ఉదాత్తం కంటే స్పష్టంగా తక్కువ స్థాయిలో ఉంటుంది.' } },
         { term: 'Svarita', sub: { en: 'Falling / combined pitch', te: 'దిగే స్వరం' }, en: { en: 'Marked with a vertical line above the syllable; begins high and falls — a blend arising from an udātta followed by an anudātta.', te: 'అక్షరం పైన నిలువుగీత గుర్తుతో చూపిస్తారు; ఎత్తుగా మొదలై కిందికి దిగుతుంది — ఉదాత్తం తర్వాత వెంటనే అనుదాత్తం వచ్చినప్పుడు ఏర్పడే కలయిక ఇది.' } },
-        { term: 'Ekaśruti', sub: { en: 'Level monotone', te: 'ఒకే స్థాయి స్వరం' }, en: { en: 'Used when calling out from a distance (dūrāt saṁbuddhau) — the one case where pitch variation is deliberately dropped.', te: 'ఎవరినైనా దూరం నుండి పిలిచేటప్పుడు వాడతారు — స్వర వైవిధ్యాన్ని ఉద్దేశపూర్వకంగా వదిలేసే ఏకైక సందర్భం ఇది.' } }
+        { term: 'Ekaśruti', sub: { en: 'Level monotone', te: 'ఒకే స్థాయి స్వరం' }, en: { en: 'Used when calling out from a distance (dūrāt saṁbuddhau) — the one case where pitch variation is deliberately dropped.', te: 'ఎవరినైనా దూరం నుండి పిలిచేటప్పుడు వాడతారు — స్వర వైవిధ్యాన్ని ఉద్దేశపూర్వకంగా వదిలేసే ఏకైక సందర్భం ఇది.' } },
+        { term: 'Dīrgha-svarita', sub: { en: 'A fourth accent — extended svarita', te: 'నాలుగవ స్వరం — దీర్ఘ స్వరితం' }, en: { en: 'An extended, higher-held variant of svarita, marked with two vertical strokes above the syllable instead of one — used at the end of a sentence, or on a dīrgha vowel immediately before a conjunct consonant. Named in the Rules of Chanting in Saṁskṛtam (Swamini Svatmabodhananda Saraswati) alongside the standard three; not always taught as a separate accent in shorter treatments.', te: 'స్వరితం యొక్క పొడిగించిన, ఎక్కువసేపు ఎత్తులో నిలిచే రూపం — అక్షరం పైన ఒక నిలువుగీతకు బదులు రెండు గీతలతో సూచిస్తారు — వాక్యాంతంలో, లేదా సంయుక్తాక్షరం ముందు వచ్చిన దీర్ఘ స్వరంపై వాడతారు. Rules of Chanting in Saṁskṛtam (స్వామినీ స్వాత్మబోధానంద సరస్వతి) గ్రంథంలో మిగతా మూడు స్వరాలతో పాటు పేర్కొనబడింది; తక్కువ లోతైన బోధనలలో దీన్ని ప్రత్యేక స్వరంగా చెప్పకపోవచ్చు.' } }
       ],
       verseExample: {
         ref: { en: 'Classic grammarians\' example', te: 'ప్రసిద్ధ వ్యాకరణ ఉదాహరణ' },
@@ -217,6 +227,14 @@ const GUIDE_CONTENT = {
         {
           term: 'Mahāprāṇa', sub: 'Aspirated — strong breath', letters: '2nd, 4th letter of each varga + śa ṣa sa ha (kha, gha…)',
           warn: { en: 'Never soften a mahāprāṇa into an alpaprāṇa — dharma must never become darma.', te: 'మహాప్రాణాన్ని అల్పప్రాణంగా మృదువుగా చేయవద్దు — ధర్మ అనేది దర్మ కాకూడదు.' }
+        },
+        {
+          term: 'Repha (र्) before a sibilant',
+          sub: { en: 'Rules of Chanting in Saṁskṛtam, Swamini Svatmabodhananda Saraswati', te: 'Rules of Chanting in Saṁskṛtam, స్వామినీ స్వాత్మబోధానంద సరస్వతి' },
+          en: {
+            en: 'When "r" is immediately followed by one of the ūṣmāṇaḥ (śa, ṣa, sa, ha), it should carry a little more stress than an ordinary r — a small but deliberate emphasis, not a full stop or a rolled trill. Reciters who treat every r identically miss this distinction.',
+            te: 'ర్ తర్వాత వెంటనే ఊష్మాక్షరాలలో ఒకటి (శ, ష, స, హ) వస్తే, ఆ రేఫాన్ని సాధారణ ర కంటే కొంచెం ఎక్కువ ఒత్తితో పలకాలి — చిన్నదైనా ఉద్దేశపూర్వకమైన ఒత్తిడి, పూర్తి ఆపు కాదు, దొర్లే ధ్వనీ కాదు. ప్రతి రను ఒకేలా పలికేవారు ఈ భేదాన్ని కోల్పోతారు.'
+          }
         }
       ],
       verse2: {
@@ -256,6 +274,7 @@ const GUIDE_CONTENT = {
       icon: '🔗',
       title: { en: 'Sandhi & Parasavarṇa — Flow', sa: 'सन्तानः', te: 'సంధి — స్వరాల కలయిక' },
       body: [
+        { en: 'An anusvāra (ం) has no independent sound of its own — unlike every other letter, its pronunciation always depends entirely on the consonant that follows it. That is exactly what the parasavarṇa rule below specifies.', te: 'అనుస్వారానికి (ం) సొంతమైన స్వతంత్ర ఉచ్చారణ లేదు — మిగతా ప్రతి అక్షరం లాగా కాకుండా, దాని పలుకుబడి పూర్తిగా తర్వాత వచ్చే హల్లుపై ఆధారపడి ఉంటుంది. కింద ఉన్న పరసవర్ణ నియమం సరిగ్గా దీన్నే నిర్దేశిస్తుంది.' },
         { en: 'When chanting continuous text (saṁhitā-pāṭha), sandhi rules must be applied smoothly across word boundaries — not read word-by-word and then artificially joined.', te: 'నిరంతర పఠనంలో (సంహితా-పాఠం), పద సంధులు సహజంగా కలవాలి — విడివిడిగా చదివి తర్వాత కృత్రిమంగా జోడించకూడదు.' }
       ],
       items: [
@@ -265,6 +284,38 @@ const GUIDE_CONTENT = {
           en: {
             en: 'At the true end of a pada — right before a pause or breath-break, not mid-flow — a word-final "m" is pronounced as a clear, closed makāra (म्), not softened into a vague nasal hum the way an anusvāra before a consonant often gets blurred. Example: in "...śaraṇaṁ vraja" chanted straight through, that ṁ leans nasal before v; but if that same word ended a phrase right before a pause, the m should close cleanly, lips shut, not trail off as a hum. Reciters who blur every word-final m the same way lose this distinction.',
             te: 'పదం నిజంగా ముగిసేచోట — ఆగే ముందు, మధ్యలో కాదు — పద-చివరి "మ్" స్పష్టమైన, మూసిన మకారంగా (म्) పలకాలి, హల్లు ముందు అనుస్వారం తరచుగా అస్పష్టమైనట్టు మసకగా కాదు. ఉదాహరణ: "...శరణం వ్రజ" నిరంతరంగా పఠిస్తే, ఆ ం వ ముందు నాసిక్యంగా ఉంటుంది; అదే పదం ఆగే ముందు ముగిస్తే, మ్ పెదవులు మూసుకుని స్పష్టంగా ముగియాలి, హమ్‌గా సాగకూడదు. ప్రతి పద-చివరి మ్‌నూ ఒకేలా అస్పష్టం చేసేవారు ఈ భేదాన్ని కోల్పోతారు.'
+          }
+        },
+        {
+          term: 'Anusvāra before ya–ha',
+          sub: { en: 'A special case of parasavarṇa', te: 'పరసవర్ణ నియమంలో ఒక ప్రత్యేక సందర్భం' },
+          en: {
+            en: 'When an anusvāra is followed by one of ya, ra, la, va, śa, ṣa, sa, or ha — letters that have no nasal of their own class — it is pronounced as a closed, lip-shut m (म्) rather than left as a vague nasal hum. Example, Bhagavad Gītā 2.61: "tāni sarvāṇi saṃyamya" — the ṃ in saṃyamya, right before ya, closes as a clear m, giving sam-yamya rather than a nasalized "sāṃyamya."',
+            te: 'అనుస్వారం తర్వాత య, ర, ల, వ, శ, ష, స, హ — వీటికి సొంత వర్గపు నాసిక్యం లేనందున — ఆ అనుస్వారాన్ని స్పష్టమైన, మూసిన మ్‌గా పలకాలి, అస్పష్ట నాసిక్య ధ్వనిగా కాదు. ఉదాహరణ, భగవద్గీత 2.61: "తాని సర్వాణి సంయమ్య" — ఇందులో సంయమ్య లోని ం, య ముందు రావడంతో స్పష్టమైన మ్‌గా మూసుకుపోవాలి, సమ్-యమ్య అని పలకాలి, అస్పష్టమైన "సాంయమ్య" అని కాదు.'
+          }
+        },
+        {
+          term: 'Visarga before kṣa',
+          sub: { en: 'No change — visarga stays as-is', te: 'మార్పు లేదు — విసర్గ యథాతథం' },
+          en: {
+            en: 'Unlike before ka/kha (jihvāmūlīya) or pa/pha (upadhmānīya), a visarga right before a word beginning with kṣa does not change or sandhi away — it is simply held as a plain visarga. Example, Bhagavad Gītā 2.32: "sukhinaḥ kṣatriyāḥ pārtha" — the ḥ in sukhinaḥ stays a visarga going into kṣatriyāḥ, with no merge and no substitution.',
+            te: 'క/ఖ (జిహ్వామూలీయం) లేదా ప/ఫ (ఉపధ్మానీయం) ముందు మాదిరిగా కాకుండా, క్ష-తో మొదలయ్యే పదం ముందు వచ్చిన విసర్గ మారదు, సంధి చెందదు — సాధారణ విసర్గగానే నిలుస్తుంది. ఉదాహరణ, భగవద్గీత 2.32: "సుఖినః క్షత్రియాః పార్థ" — ఇందులో సుఖినః లోని విసర్గ క్షత్రియాః ముందు ఎలాంటి మార్పు లేకుండా అలాగే నిలుస్తుంది.'
+          }
+        },
+        {
+          term: 'Visarga at the end of a sentence',
+          sub: { en: 'Must be pronounced, not silent — Rules of Chanting in Saṁskṛtam, Swamini Svatmabodhananda Saraswati', te: 'తప్పనిసరిగా పలకాలి, మౌనం కాదు — Rules of Chanting in Saṁskṛtam, స్వామినీ స్వాత్మబోధానంద సరస్వతి' },
+          en: {
+            en: 'A visarga at the true end of a sentence or verse-quarter (not one that sandhi-merges with what follows) must still be audibly pronounced — it is an aspirate, not a silent mark that only matters in writing. Reciters who trail off before the final ḥ, or drop it silently, are skipping a real sound.',
+            te: 'వాక్యం లేదా పాదం నిజంగా ముగిసేచోట వచ్చిన విసర్గ (తర్వాతి పదంతో సంధి చెందనిది) కూడా వినిపించేలా పలకాలి — ఇది కేవలం రాతలో మాత్రమే ఉండే మౌన గుర్తు కాదు, ఒక ఘోష (aspirate) ధ్వని. చివరి ః ముందు స్వరం సన్నగిల్లిపోయేవారు, లేదా దాన్ని మౌనంగా వదిలేసేవారు నిజమైన ధ్వనిని దాటవేస్తున్నారు.'
+          }
+        },
+        {
+          term: 'Visarga before śa/ṣa/sa',
+          sub: { en: 'Doubles into the following sibilant', te: 'తర్వాతి ఊష్మాక్షరంతో ద్విత్వం అవుతుంది' },
+          en: {
+            en: 'A visarga right before a word beginning with śa, ṣa, or sa is not dropped or left as-is — it merges into a doubled sibilant (śś, ṣṣ, or ss). Example, Bhagavad Gītā 8.28: "vedeṣu yajñeṣu tapassu caiva" — this is tapaḥ + su, and the printed form itself already shows the visarga becoming a doubled "ss": tapassu, not tapaḥsu.',
+            te: 'శ, ష, స — వీటితో మొదలయ్యే పదం ముందు వచ్చిన విసర్గ వదిలేయబడదు, మార్పు లేకుండా కూడా ఉండదు — తర్వాతి ఊష్మాక్షరంతో ద్విత్వంగా (శ్శ, ష్ష, స్స) కలుస్తుంది. ఉదాహరణ, భగవద్గీత 8.28: "వేదేషు యజ్ఞేషు తపస్సు చైవ" — ఇది తపః + సు, ముద్రిత రూపంలోనే విసర్గ ద్విత్వ "స్స్"గా మారడం కనిపిస్తుంది: తపస్సు, తపఃసు కాదు.'
           }
         }
       ],
@@ -278,9 +329,10 @@ const GUIDE_CONTENT = {
         }
       },
       examples: [
-        { sa: 'शान्त', ro: 'śāṁ + ta → śānta', note: { en: 'dental n, because ta is dental', te: 'దంత్య న, ఎందుకంటే త దంత్యం' } },
-        { sa: 'सङ्कल्प', ro: 'saṁ + kalpa → saṅkalpa', note: { en: 'guttural ṅ, because ka is guttural', te: 'కంఠ్య ఙ, ఎందుకంటే క కంఠ్యం' } },
-        { sa: 'सञ्चय', ro: 'saṁ + caya → sañcaya', note: { en: 'palatal ñ, because ca is palatal', te: 'తాలవ్య ఞ, ఎందుకంటే చ తాలవ్యం' } }
+        { sa: 'उपसङ्गम्य', ro: 'upa+saṁ+gamya → upasaṅgamya (BG 1.2)', note: { en: 'guttural ṅ, because ga is guttural', te: 'కంఠ్య ఙ, ఎందుకంటే గ కంఠ్యం' } },
+        { sa: 'सञ्जय', ro: 'saṁ+jaya → sañjaya (BG 1.1)', note: { en: 'palatal ñ, because ja is palatal', te: 'తాలవ్య ఞ, ఎందుకంటే జ తాలవ్యం' } },
+        { sa: 'शान्त', ro: 'śāṁ + ta → śānta (traditional example)', note: { en: 'dental n, because ta is dental', te: 'దంత్య న, ఎందుకంటే త దంత్యం' } },
+        { sa: 'सम्बन्धिनः', ro: 'saṁ+bandhinaḥ → sambandhinaḥ (BG 1.34)', note: { en: 'labial m, because ba is labial', te: 'ఓష్ఠ్య మ, ఎందుకంటే బ ఓష్ఠ్యం' } }
       ],
       verseExample: {
         ref: 'Bhagavad Gītā 2.47',
@@ -316,7 +368,8 @@ const GUIDE_CONTENT = {
       body: [
         { en: 'A long compound word (samasta-pada) carries one combined meaning. Breaking it mid-word for breath destroys both the meaning (artha-bhaṅga) and the meter (chando-bhaṅga).', te: 'పొడవైన సమాసపదం ఒకే అర్థాన్ని కలిగి ఉంటుంది. ఊపిరి కోసం మధ్యలో ఆపడం అర్థాన్నీ, ఛందస్సునూ రెండింటినీ దెబ్బతీస్తుంది.' },
         { en: 'If you must pause, pause only at a recognized word-boundary (pada-chheda) or a prescribed metrical caesura (yati) — never arbitrarily. If a mid-compound pause is unavoidable, backtrack to the start of that compound before continuing.', te: 'ఆగవలసి వస్తే, గుర్తించిన పద విభజన (పద-ఛేద) వద్ద లేదా నిర్దేశిత యతి వద్ద మాత్రమే ఆగాలి — ఇష్టం వచ్చినట్టు కాదు. మధ్యలో ఆగక తప్పకపోతే, కొనసాగించే ముందు ఆ సమాసం మొదటికి తిరిగి వెళ్ళాలి.' },
-        { en: 'A short vowel (hrasva, 1 mātrā) counts as heavy (guru, 2 mātrās) in the meter when followed by a conjunct consonant, an anusvāra, a visarga, or when it ends a verse quarter (pāda) — give it the weight the meter needs, even though it\'s "short" in isolation.', te: 'హ్రస్వ స్వరం తర్వాత సంయుక్తాక్షరం, అనుస్వారం, విసర్గ ఉంటే లేదా అది పాదాంతంలో ఉంటే — ఛందస్సులో అది గురువుగా లెక్కించబడుతుంది.' }
+        { en: 'A short vowel (hrasva, 1 mātrā) counts as heavy (guru, 2 mātrās) in the meter when followed by a conjunct consonant, an anusvāra, a visarga, or when it ends a verse quarter (pāda) — give it the weight the meter needs, even though it\'s "short" in isolation.', te: 'హ్రస్వ స్వరం తర్వాత సంయుక్తాక్షరం, అనుస్వారం, విసర్గ ఉంటే లేదా అది పాదాంతంలో ఉంటే — ఛందస్సులో అది గురువుగా లెక్కించబడుతుంది.' },
+        { en: 'This isn\'t limited to compounds: as a general rule, a word beginning with a conjunct consonant should be chanted joined to the previous word with no pause between them, for the same sāma (evenness) reason — it just happens most visibly with the five specific never-split compounds cited above.', te: 'ఇది సమాసాలకే పరిమితం కాదు — సాధారణ నియమంగా, సంయుక్తాక్షరంతో మొదలయ్యే పదాన్ని ముందు పదంతో కలిపి, మధ్యలో ఆగకుండా పఠించాలి, అదే సామ (సమతూకం) కారణంతో — పైన ఉదహరించిన ఐదు "ఎప్పుడూ విడగొట్టని" సమాసాలలో ఇది అత్యంత స్పష్టంగా కనిపిస్తుంది అంతే.' }
       ],
       verseExample: {
         ref: 'Bhagavad Gītā 18.66',
@@ -437,6 +490,29 @@ const GUIDE_CONTENT = {
           }
         },
         {
+          term: 'Phakāra (ఫ) mispronounced as English "F"',
+          en: {
+            en: 'ఫ (pha) is an aspirated labial stop (mahāprāṇa pa) — lips fully close, then release with a burst of breath. English "F" is a fricative made with the teeth on the lower lip, a completely different mechanism, with no full lip-closure at all. Reciters who learned Sanskrit through English transliteration often default to the familiar F sound. The correct kṣa and jña conjuncts also have traditional pronunciations best picked up by ear from a teacher, not inferred from spelling.',
+            te: 'ఫ (అనగా మహాప్రాణ ప) అనేది పెదవులు పూర్తిగా మూసుకుని, తర్వాత ఊపిరి తాకిడితో విడుదలయ్యే ధ్వని. ఆంగ్ల "F" అనేది పళ్ళు కింది పెదవిపై తాకి వచ్చే ఘర్షణ ధ్వని — పూర్తిగా వేరే యంత్రాంగం, పెదవులు అసలు మూసుకోవు. ఆంగ్ల లిప్యంతరీకరణ ద్వారా సంస్కృతం నేర్చుకున్నవారు తరచుగా పరిచయమైన F ధ్వనికే మొగ్గు చూపుతారు. క్ష, జ్ఞ సంయుక్తాక్షరాల సరైన ఉచ్చారణ కూడా సంప్రదాయబద్ధంగా గురువు నుండి చెవితో నేర్చుకోవాలి, స్పెల్లింగు నుండి ఊహించకూడదు.'
+          }
+        },
+        {
+          term: 'ṛ (vowel) confused with ra (consonant), ḷ (vowel) with la (consonant)',
+          sub: { en: 'Rules of Chanting in Saṁskṛtam, Swamini Svatmabodhananda Saraswati', te: 'Rules of Chanting in Saṁskṛtam, స్వామినీ స్వాత్మబోధానంద సరస్వతి' },
+          en: {
+            en: 'ṛ is a short vowel (as in kṛṣṇa) pronounced with the tongue curled at the mūrdhā, distinct from the consonant ra even though they look and sound superficially similar to an untrained ear. The same confusion happens with the rare vowel ḷ versus the consonant la. Treating either vowel as its look-alike consonant is a real sthāna error, not a harmless simplification.',
+            te: 'ఋ అనేది హ్రస్వ స్వరం (ఉదా. కృష్ణ లో), నాలుక మూర్ధా వద్ద వంపు తిప్పి పలికేది — ర హల్లుకు వేరు, రెండూ శిక్షణ లేని చెవికి పైపైన ఒకేలా అనిపించినా. అరుదైన స్వరం ఌ, హల్లు ల మధ్య కూడా ఇదే గందరగోళం వస్తుంది. ఏ స్వరాన్నైనా దాన్ని పోలిన హల్లుగా పలకడం నిజమైన స్థాన తప్పే, హానిలేని సరళీకరణ కాదు.'
+          }
+        },
+        {
+          term: 'Reading a conjunct without knowing its components',
+          sub: { en: 'e.g. padma, nissaigunya', te: 'ఉదా. పద్మ, నిస్సైగుణ్య' },
+          en: {
+            en: 'A conjunct consonant (saṁyuktākṣara) is written by stacking its component letters, but must be pronounced as the sequence they represent — padma is written as a single stacked glyph but chanted as pa+d+ma; nissaigunya unpacks as nis+t+raigunya. Guessing the pronunciation from the visual shape of an unfamiliar conjunct, instead of unpacking it into its actual letters first, is a common source of error — see "Unpack the sandhi first" in Practice Method above for the same discipline applied to sandhi.',
+            te: 'సంయుక్తాక్షరాన్ని దాని ఘటక అక్షరాలను పేర్చి రాస్తారు, కానీ అవి సూచించే అక్షర క్రమంగానే పలకాలి — పద్మ అనేది ఒకే పేర్చిన గుర్తుగా రాసినా ప+ద్+మ గా పలకాలి; నిస్సైగుణ్య అనేది నిస్+త్+రైగుణ్యగా విడిపోతుంది. కొత్త సంయుక్తాక్షరాన్ని విడగొట్టకుండా, దాని ఆకారాన్ని చూసి ఉచ్చారణను ఊహించడం సాధారణ తప్పుకు మూలం — ఇదే క్రమశిక్షణను సంధికి వర్తింపజేయడం కోసం పైన అభ్యాస పద్ధతిలో "ముందు సంధిని విడగొట్టండి" చూడండి.'
+          }
+        },
+        {
           term: 'Guru akṣara rushed instead of held',
           tentative: true,
           en: {
@@ -533,7 +609,23 @@ const GUIDE_CONTENT = {
         { term: { en: 'Time of day', te: 'రోజులో సమయం' }, en: { en: 'Brāhma-muhūrta (roughly 90 min before sunrise), or morning/evening sandhyā, are traditionally preferred — the mind is considered quieter and more receptive.', te: 'బ్రాహ్మ ముహూర్తం (సూర్యోదయానికి సుమారు 90 నిమిషాల ముందు), లేదా ఉదయం/సాయంత్రం సంధ్య — సాంప్రదాయికంగా ఇష్టపడేవి — మనసు నిశ్శబ్దంగా, స్వీకరించడానికి సిద్ధంగా ఉంటుందని భావన.' } },
         { term: { en: 'State of mind', te: 'మనఃస్థితి' }, en: { en: 'Chant with attention on the meaning, not by rote — see anarthajñaḥ above, one of the six faults.', te: 'యాంత్రికంగా కాకుండా అర్థంపై శ్రద్ధతో పఠించాలి — పైన అనర్థజ్ఞః దోషం చూడండి.' } },
         { term: { en: 'Restricted mantras', te: 'నియంత్రిత మంత్రాలు' }, en: { en: 'Certain Vedic mantras traditionally require initiation (upanayana/dīkṣā) from a qualified teacher — this varies by tradition and text; when in doubt, ask a knowledgeable elder or guru rather than assuming.', te: 'కొన్ని వేద మంత్రాలకు అర్హత గల గురువు నుండి ఉపనయనం/దీక్ష సాంప్రదాయికంగా అవసరం — ఇది సంప్రదాయాన్ని బట్టి మారుతుంది; సందేహం ఉంటే తెలిసినవారిని లేదా గురువును అడగాలి, ఊహించకూడదు.' } },
-        { term: { en: 'Consistency over intensity', te: 'తీవ్రత కంటే స్థిరత్వం' }, en: { en: 'A short, steady daily practice (nitya-pāṭha) is traditionally valued over occasional long sessions.', te: 'అప్పుడప్పుడు పొడవైన సాధన కంటే, చిన్నదైనా స్థిరమైన నిత్య పాఠం సాంప్రదాయికంగా విలువైనది.' } }
+        { term: { en: 'Consistency over intensity', te: 'తీవ్రత కంటే స్థిరత్వం' }, en: { en: 'A short, steady daily practice (nitya-pāṭha) is traditionally valued over occasional long sessions.', te: 'అప్పుడప్పుడు పొడవైన సాధన కంటే, చిన్నదైనా స్థిరమైన నిత్య పాఠం సాంప్రదాయికంగా విలువైనది.' } },
+        {
+          term: { en: 'Posture (Gambhīratā)', te: 'ఆసనం (గాంభీర్యం)' },
+          sub: { en: 'Rules of Chanting in Saṁskṛtam, Swamini Svatmabodhananda Saraswati', te: 'Rules of Chanting in Saṁskṛtam, స్వామినీ స్వాత్మబోధానంద సరస్వతి' },
+          en: {
+            en: 'Sit with head, neck, and back in one straight line, without unnecessary movement or fidgeting (ceṣṭā). This directly complements the śiraḥkampī fault above (unnecessary head-shaking) — steady posture is the positive practice, not just the absence of that fault.',
+            te: 'తల, మెడ, వెన్ను ఒకే సరళరేఖలో ఉండేలా కూర్చోవాలి, అనవసర కదలికలు (చేష్ట) లేకుండా. ఇది పైన ఉన్న శిరఃకమ్పీ దోషానికి (అనవసరంగా తల ఊపడం) సరిగ్గా పూరకం — స్థిరమైన ఆసనం అనేది ఆ దోషం లేకపోవడమే కాదు, దానికి తోడైన సానుకూల అభ్యాసం.'
+          }
+        },
+        {
+          term: { en: 'Volume', te: 'స్వర పరిమాణం' },
+          sub: { en: 'Rules of Chanting in Saṁskṛtam, Swamini Svatmabodhananda Saraswati', te: 'Rules of Chanting in Saṁskṛtam, స్వామినీ స్వాత్మబోధానంద సరస్వతి' },
+          en: {
+            en: 'Loud when chanting in a group, medium volume while practicing alone, and a soft murmur (upāṁśu) when chanting privately — three distinct, appropriate volumes for three different settings, not one fixed loudness for every occasion.',
+            te: 'సమూహంలో పఠించేటప్పుడు గట్టిగా, ఒంటరిగా సాధన చేసేటప్పుడు మధ్యస్థంగా, ప్రైవేటుగా జపించేటప్పుడు మెల్లని గుసగుస (ఉపాంశు)గా — మూడు వేర్వేరు సందర్భాలకు మూడు తగిన స్వర పరిమాణాలు, అన్ని సందర్భాలకూ ఒకే స్థిరమైన గట్టితనం కాదు.'
+          }
+        }
       ]
     },
 
