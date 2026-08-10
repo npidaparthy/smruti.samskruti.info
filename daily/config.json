@@ -71,7 +71,7 @@
       "telegram": {
         "enabled": true,
         "chatIds": ["-1001666111648"],
-        "testChatIds": ["-5353301493"],
+        "testChatIds": ["-1004269667567"],
         "lang": "te"
       },
       "variants": [
@@ -122,8 +122,8 @@
       "archivePath": "smruti/vsn",
       "telegram": {
         "enabled": true,
-        "chatIds": ["-5353301493"],
-        "testChatIds": ["-5353301493"],
+        "chatIds": ["-1004269667567"],
+        "testChatIds": ["-1004269667567"],
         "lang": "te"
       },
       "variants": [
@@ -181,8 +181,8 @@
       "archivePath": "smruti/sl",
       "telegram": {
         "enabled": true,
-        "chatIds": ["-5353301493"],
-        "testChatIds": ["-5353301493"],
+        "chatIds": ["-1004269667567"],
+        "testChatIds": ["-1004269667567"],
         "lang": "te"
       },
       "variants": [
