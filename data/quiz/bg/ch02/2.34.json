@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-34-q1",
+    "verse": { "c": 2, "s": 34 },
+    "concept": ["Verse Meaning & Infamy Worse Than Death"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.34?\n\n“akīrtiṃ cāpi bhūtāni kathayiṣyanti te'vyayām | saṃbhāvitasya cākīrtirmaraṇādatiricyate”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అకీర్తిం చాపి భూతాని కథయిష్యంతి తేఽవ్యయామ్ | సంభావితస్య చాకీర్తిర్మరణాదతిరిచ్యతే”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — People will recount your everlasting infamy for all time; and for a respected person of honorable stature, dishonor is worse than death.",
+        "te": "శ్రీభగవానుడు పలికెను — లోకులు (సమస్త ప్రాణులు) నీ శాశ్వతమైన అకీర్తిని (అపకీర్తిని) ఎల్లప్పుడూ చెప్పుకుంటారు; సమాజంలో గౌరవించబడిన పూజ్యుడైన మానవునికి అపకీర్తి మరణం కంటే చాలా భయంకరమైనది (బాధాకరమైనది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Infamy can be wiped away easily through charity, making physical death the only true calamity to be feared.",
+        "te": "శ్రీభగవానుడు పలికెను — దానధర్మాల ద్వారా అపకీర్తిని సులభంగా తుడిచిపెట్టవచ్చు, కాబట్టి శారీరక మరణం మాత్రమే భయపడవలసిన ఏకైక నిజమైన విపత్తు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — People quickly forget the dishonor of a warrior who flees from battle, while his soul reaches high celestial realms.",
+        "te": "శ్రీభగవానుడు పలికెను — రణరంగం నుండి పారిపోయిన యోధుని అపమానాన్ని ప్రజలు త్వరగా మరిచిపోతారు, అతని ఆత్మ ఉన్నత స్వర్గలోకాలను చేరుకుంటుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Dishonor affects only the physical body, leaving the reputation of an honorable hero untouched across centuries.",
+        "te": "శ్రీభగవానుడు పలికెను — అపమానమనేది కేవలం భౌతిక శరీరాన్ని మాత్రమే ప్రభావితం చేస్తుంది, శతాబ్దాల తరబడి గౌరవనీయుడైన వీరుని కీర్తిని తాకకుండా ఉంచుతుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Akīrtiṃ cāpi bhūtāni kathayiṣyanti te 'vyayām / saṃbhāvitasya cākīrtir maraṇād atiricyate.\" Krishna appeals to Arjuna's sense of Kshatriya honor. If Arjuna abandons his duty, society will attribute his withdrawal to cowardice rather than compassion, conferring perpetual dishonor ('akīrtiṃ avyayām'). For a noble leader ('saṃbhāvita'), loss of honor is far more painful than physical death ('maraṇād atiricyate'). — Bhagavad Gita (2.34)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ అర్జునుడి స్వధర్మ గౌరవాన్ని, సామాజిక మర్యాదను తలపిస్తున్నాడు. కర్తవ్యాన్ని త్యజిస్తే ప్రజలు దాన్ని కరుణగా కాక పిరికితనంగా భావించి నిరంతరం అపకీర్తిని ('అకీర్తిమ్ అవ్యయామ్') కట్టిపెడతారు. సమాజంలో పూజింపబడే సత్పురుషునికి ('సంభావితస్య') అపకీర్తి అనేది మరణం కంటే కూడా అత్యంత భయంకరమైనది ('మరణాద్ అతిరిచ్యతే'). — భగవద్గీత (2.34)"
+    }
+  },
+  {
+    "id": "bg-2-34-q2",
+    "verse": { "c": 2, "s": 34 },
+    "concept": ["Psychological Axiom - Akīrtir Maraṇād Atiricyate"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What fundamental moral and psychological truth about a noble person ('saṃbhāvita') is established in verse 2.34?",
+      "te": "2.34 శ్లోకంలో ఉదాత్తమైన వ్యక్తిని ('సంభావితః') ఉద్దేశించి ఏ ప్రాథమిక నైతిక, మానసిక సత్యం ప్రతిపాదించబడింది?"
+    },
+    "choices": [
+      {
+        "en": "For an individual of high moral character, integrity, and social status, living with unearned infamy and cowardice is psychologically worse and more painful than physical death.",
+        "te": "ఉన్నతమైన నైతిక విలువలు, గౌరవ ప్రతిష్ఠలు ఉన్న వ్యక్తికి అపకీర్తితో, పిరికిపంద అనే నిందతో బతకడం అనేది శారీరకంగా మరణించడం కంటే మానసికంగా అత్యంత బాధాకరమైనది, భయంకరమైనది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "A noble warrior should seek physical death in battle to avoid paying financial debts.",
+        "te": "ఆర్థిక అప్పులను చెల్లించకుండా తప్పించుకోవడానికి పూజ్యుడైన యోధుడు రణరంగంలో శారీరక మరణాన్ని కోరుకోవాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Social reputation is a worldly illusion that has no bearing on a Kshatriya's conduct.",
+        "te": "సామాజిక కీర్తి అనేది కేవలం లౌకిక భ్రాంతి మాత్రమే, క్షత్రియుని ప్రవర్తనతో దానికి ఏ సంబంధమూ లేదు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Death in battle automatically grants a person higher moral character than living peacefully.",
+        "te": "యుద్ధంలో మరణించడం అనేది ప్రశాంతంగా జీవించడం కంటే స్వయంసిద్ధంగా మనిషికి ఉన్నత నైతిక రూపాన్ని అందిస్తుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The aphorism 'akīrtir maraṇād atiricyate' expresses that for a 'saṃbhāvita' (one held in high esteem), loss of honor ruins the purpose of living. Physical death ends the body once, but dishonor tortures the mind continuously as long as memory persists. — Bhagavad Gita (2.34)",
+      "te": "'అకీర్తిర్మరణాదతిరిచ్యతే' అనేది సత్పురుషుల జీవిత నియమం. 'సంభావితః' (గౌరవనీయుడైన వ్యక్తి) కి మరణం శరీరాన్ని ఒకేసారి ముగిస్తుంది, కానీ అపకీర్తి బతికి ఉన్నంత కాలం అతడి మనస్సును నిరంతరం దహించివేస్తూ మరణం కంటే ఎక్కువ బాధను కలిగిస్తుంది. — భగవద్గీత (2.34)"
+    }
+  },
+  {
+    "id": "bg-2-34-q3",
+    "verse": { "c": 2, "s": 34 },
+    "concept": ["Meaning of Character Terms - Saṃbhāvita & Avyayā Akīrti"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the terms 'Saṃbhāvitasya' and 'Avyayām Akīrtim' mean in verse 2.34?",
+      "te": "2.34 శ్లోకంలోని 'సంభావితస్య' మరియు 'అవ్యయామ్ అకీర్తిమ్' అనే సంస్కృత పదాల ప్రత్యేక అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Saṃbhāvitasya = Of a person honored / respected / held in high esteem; Avyayām Akīrtim = Everlasting / undiminishing infamy (dishonor that endures through generations).",
+        "te": "సంభావితస్య = గౌరవించబడిన / సమాజంలో పూజ్యత పొందిన వానికి; అవ్యయామ్ అకీర్తిమ్ = తరతరాలు చెరిగిపోని నిత్య అపకీర్తి / శాశ్వత అవమానము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Saṃbhāvitasya = Of a rich merchant; Avyayām Akīrtim = Temporary loss of money.",
+        "te": "సంభావితస్య = సంపన్నుడైన వైశ్యునికి; అవ్యయామ్ అకీర్తిమ్ = తాత్కాలిక ధన నష్టము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Saṃbhāvitasya = Of a cowardly soldier; Avyayām Akīrtim = Divine glory.",
+        "te": "సంభావితస్య = పిరికి సైనికునికి; అవ్యయామ్ అకీర్తిమ్ = దివ్యమైన కీర్తి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Saṃbhāvitasya = Of a ritual priest; Avyayām Akīrtim = Heavenly reward.",
+        "te": "సంభావితస్య = వేద యాజ్ఞికునికి; అవ్యయామ్ అకీర్తిమ్ = స్వర్గలోక ఫలము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Saṃbhāvita' comes from root 'bhū' with 'sam' (well-thought-of / highly honored). Genitive singular: 'saṃbhāvitasya' (of an honored man). 'Avyaya' means inexhaustible/undiminishing; 'Avyayām akīrtim' means an infamy that will not fade over time. — Bhagavad Gita (2.34)",
+      "te": "'సమ్' ఉపసర్గతో 'భూ' ధాతువు నుండి వచ్చిన 'సంభావిత' అనగా సమాజంలో ఉన్నతమైన గౌరవ సత్కారాలు పొందినవాడు (షష్ఠీ ఏకవచనం: సంభావితస్య). 'అవ్యయ' అనగా క్షయము లేనిది; 'అవ్యయామ్ అకీర్తిమ్' అనగా కాలక్రమేణా చెరిగిపోని నిత్య అపకీర్తి. — భగవద్గీత (2.34)"
+    }
+  },
+  {
+    "id": "bg-2-34-q4",
+    "verse": { "c": 2, "s": 34 },
+    "concept": ["Sanskrit Vocabulary - Infamy & Surpassing Death"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'kathayiṣyanti' and 'atiricyate' mean in verse 2.34?",
+      "te": "2.34 శ్లోకంలోని 'కథయిష్యంతి' మరియు 'అతిరిచ్యతే' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Kathayiṣyanti = They will recount / speak of / narrate; Atiricyate = Surpasses / is far worse than / exceeds.",
+        "te": "కథయిష్యంతి = (లోకులు) చెప్పుకుంటారు / వర్ణిస్తారు; అతిరిచ్యతే = (మరణాన్ని) మించిపోతుంది / దానికంటే భయంకరమైనదిగా ఉండును.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kathayiṣyanti = They will forget; Atiricyate = Is equal to.",
+        "te": "కథయిష్యంతి = వారు మరిచిపోతారు; అతిరిచ్యతే = సమానమైనది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kathayiṣyanti = They will praise; Atiricyate = Decreases slowly.",
+        "te": "కథయిష్యంతి = వారు ప్రశంసిస్తారు; అతిరిచ్యతే = మెల్లగా తగ్గుతుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kathayiṣyanti = They will conceal; Atiricyate = Is beneficial.",
+        "te": "కథయిష్యంతి = వారు దాచిపెడతారు; అతిరిచ్యతే = ప్రయోజనకరమైనది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kathayiṣyanti' is the 3rd person plural future tense of root 'kath' (to tell / recount). 'Atiricyate' is 3rd person singular present indicative passive/middle of prefix 'ati-' + root 'ric' (to exceed / surpass / go beyond). — Bhagavad Gita (2.34)",
+      "te": "'కథ్' (చెప్పు) ధాతువు భవిష్యత్కాల ప్రథమ పురుష బహువచనం 'కథయిష్యంతి' (చెప్పుకుంటారు). 'అతి' ఉపసర్గతో కూడిన 'రిచ్' (మించు/మిగిలియుండు) ధాతువు వర్తమానకాల రూపం 'అతిరిచ్యతే' (మించిపోతుంది/మిక్కిలి బాధాకరంగా ఉంటుంది). — భగవద్గీత (2.34)"
+    }
+  },
+  {
+    "id": "bg-2-34-q5",
+    "verse": { "c": 2, "s": 34 },
+    "concept": ["Sanskrit Grammar - Future Tense 'Kathayiṣyanti' & Verb 'Atiricyate'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical forms of 'kathayiṣyanti' and 'atiricyate' in verse 2.34:",
+      "te": "2.34 శ్లోకంలోని 'కథయిష్యంతి' మరియు 'అతిరిచ్యతే' అనే క్రియాపదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Kathayiṣyanti = 3rd person plural Simple Future tense Parasmaipada (Lṛṭ-lakāra) from root 'kath' (they will narrate); Atiricyate = 3rd person singular Present tense Passive/Ātmanepada (Laṭ-lakāra) from root 'ric' with prefix 'ati' (it exceeds / surpasses).",
+        "te": "కథయిష్యంతి = 'కథ్' (వర్ణించు/చెప్పు) ధాతువు లృట్ లకార (భవిష్యత్కాల) ప్రథమ పురుష బహువచన పరస్మైపద రూపం ('వారు చెప్పుకుంటారు'); అతిరిచ్యతే = 'అతి' ఉపసర్గతో 'రిచ్' ధాతువు లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ఏకవచన ఆత్మనేపద/కర్మణి రూపం ('మిక్కిలి ఎక్కువగా ఉండును/మించిపోవును').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kathayiṣyanti = 1st person singular present verb; Atiricyate = Past tense participle.",
+        "te": "కథయిష్యంతి = ఉత్తమ పురుష ఏకవచన వర్తమాన క్రియ; అతిరిచ్యతే = భూతకాల విశేషణం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kathayiṣyanti = Imperative command verb; Atiricyate = Future active verb.",
+        "te": "కథయిష్యంతి = ఆజ్ఞార్థక క్రియ; అతిరిచ్యతే = భవిష్యత్కాల కర్తరి క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kathayiṣyanti = Past tense plural verb; Atiricyate = Infinitive verb form.",
+        "te": "కథయిష్యంతి = భూతకాల బహువచన క్రియ; అతిరిచ్యతే = తుమున్నంత క్రియ.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kathayiṣyanti' agrees with plural subject 'bhūtāni' (people/beings will recount). 'Atiricyate' agrees with singular subject 'akīrtiḥ' (infamy surpasses [death]). — Bhagavad Gita (2.34)",
+      "te": "'భూతాని' (లోకులు) అనే బహువచన కర్తతో 'కథయిష్యంతి' (చెప్పుకుంటారు) చేరింది. 'అకీర్తిః' (అపకీర్తి) అనే ఏకవచన కర్తతో 'అతిరిచ్యతే' (మరణాన్ని మించిపోతుంది) అనే క్రియ సిద్ధించింది. — భగవద్గీత (2.34)"
+    }
+  },
+  {
+    "id": "bg-2-34-q6",
+    "verse": { "c": 2, "s": 34 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'te'vyayām' and 'maraṇādatiricyate' in verse 2.34:",
+      "te": "2.34 శ్లోకంలోని 'తేఽవ్యయామ్' మరియు 'మరణాదతిరిచ్యతే' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Te + avyayām -> te 'vyayām (Pūrvarūpa Sandhi: e + a -> e'); maraṇāt + atiricyate -> maraṇād atiricyate (Jasdtva Sandhi: 't' -> 'd' before vowel 'a').",
+        "te": "తే + అవ్యామ్ -> తేఽవ్యయామ్ (పూర్వరూప సంధి: 'ఏ' తర్వాత ఉన్న 'అ' అవగ్రహంగా మారినది); మరణాత్ + అతిరిచ్యతే -> మరణాదతిరిచ్యతే (జశ్త్వ సంధి: అచ్చు ముందు పొల్లు 'త్' స్థానంలో 'ద్' వచ్చినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Te + avyayām -> tavyayām; maraṇā + atiricyate -> maraṇātiricyate",
+        "te": "తే + అవ్యామ్ -> తవ్యయామ్; మరణా + అతిరిచ్యతే -> మరణాతిరిచ్యతే",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Ten + avyayām -> tenavyayām; maraṇān + atiricyate -> maraṇānatiricyate",
+        "te": "తేన్ + అవ్యామ్ -> తేనవ్యయామ్; మరణాన్ + అతిరిచ్యతే -> మరణానతిరిచ్యతే",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Teḥ + avyayām -> tehavyayām; maraṇāḥ + atiricyate -> maraṇāhatiricyate",
+        "te": "తేః + అవ్యామ్ -> తేహవ్యయామ్; మరణాః + అతిరిచ్యతే -> మరణాహతిరిచ్యతే",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Te' (your) + 'avyayām' (inexhaustible/everlasting): initial 'a' after 'e' transforms into Avagraha via Pūrvarūpa Sandhi -> 'te 'vyayām'. 2. 'Maraṇāt' (Ablative singular = than death) + 'atiricyate' (surpasses): unvoiced stop 't' becomes voiced stop 'd' via Jasdtva Sandhi before short vowel 'a' -> 'maraṇād atiricyate'. — Bhagavad Gita (2.34)",
+      "te": "1. 'తే' + 'అవ్యయామ్' లలో 'ఏ' తర్వాత ఉన్న 'అ' స్థానంలో పూర్వరూప సంధి ద్వారా అవగ్రహం వచ్చి 'తేఽవ్యయామ్' అయినది. 2. 'మరణాత్' + 'అతిరిచ్యతే' లలో అచ్చు ముందు శ్వాస వర్ణం పొల్లు 'త్' స్థానంలో 'ద్' రావడం వల్ల (జశ్త్వ సంధి) 'మరణాదతిరిచ్యతే' అని రూపం సిద్ధించింది. — భగవద్గీత (2.34)"
+    }
+  }
+]
