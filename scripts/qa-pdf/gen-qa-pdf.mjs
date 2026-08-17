@@ -141,7 +141,11 @@ async function main() {
   const outPath = args.out || path.join(args.repo, `qa/pdf/bg-ch${pad2(args.chapter)}-te.pdf`);
   fs.mkdirSync(path.dirname(outPath), { recursive: true });
 
-  const browser = await puppeteer.launch({ executablePath: args.chrome, headless: 'new' });
+  const browser = await puppeteer.launch({
+    executablePath: args.chrome,
+    headless: 'new',
+    args: ['--no-sandbox', '--disable-setuid-sandbox']
+  });
   try {
     const page = await browser.newPage();
     await page.setContent(html, { waitUntil: 'networkidle0' });
@@ -152,8 +156,10 @@ async function main() {
       displayHeaderFooter: true,
       headerTemplate: '<span></span>',
       footerTemplate: `
-        <div style="width:100%; font-size:8px; font-family:sans-serif; color:#8a6d34; text-align:center; padding-top:2px;">
-          smruti.samskruti.info &nbsp;·&nbsp; samskruti.info@gmail.com &nbsp;·&nbsp; <span class="pageNumber"></span>/<span class="totalPages"></span>
+        <div style="width:100%; font-size:8px; font-family:sans-serif; color:#8a6d34; padding:2px 16mm 0; display:flex; justify-content:space-between;">
+          <span>smruti.samskruti.info</span>
+          <span>samskruti.info@gmail.com</span>
+          <span><span class="pageNumber"></span>/<span class="totalPages"></span></span>
         </div>`
     });
   } finally {
