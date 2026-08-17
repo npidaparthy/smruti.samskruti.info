@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-32-q1",
+    "verse": { "c": 2, "s": 32 },
+    "concept": ["Verse Meaning & Open Door to Heaven"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.32?\n\n“yadṛcchayā copapannaṃ svargadvāramapāvṛtam | sukhinaḥ kṣatriyāḥ pārtha labhante yuddhamīdṛśam”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యదృచ్ఛయా చోపపన్నం స్వర్గద్వారమపావృతమ్ | సుఖినః క్షత్రియాః పార్థ లభంతే యుద్ధమీదృశమ్”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — O Partha, happy indeed are those Kshatriyas who obtain such a righteous war, which comes unsought as an open gateway to heaven.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! తమంతట తామే లభించినది, తెరిచిన స్వర్గ ద్వారాము వంటిది అయిన ఇటువంటి ధర్మయుద్ధాన్ని ఏ క్షత్రియులైతే పొందుతారో, ఆ క్షత్రియులు నిజంగా అదృష్టవంతులు (సుఖులు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — O Partha, a warrior who seeks war for personal fame and earthly kingdom easily opens the gates of heaven.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! స్వయం కీర్తి, భౌతిక రాజ్యం కోసం యుద్ధాన్ని కోరుకునే యోధుడు స్వర్గ ద్వారాలను సులభంగా తెరుస్తాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — O Partha, Kshatriyas who renounce warfare and practice silent austerity in solitude achieve eternal happiness.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! యుద్ధాన్ని త్యజించి ఏకాంతంలో మౌన తపస్సును ఆచరించే క్షత్రియులు శాశ్వత సుఖాన్ని పొందుతారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — O Partha, righteous wars are created by the gods only when human rulers fail to perform Vedic sacrifices.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! మానవ పాలకులు వేద యజ్ఞాలను నిర్వర్తించడంలో విఫలమైనప్పుడు మాత్రమే దేవతలు ధర్మయుద్ధాలను సృష్టిస్తారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Yadṛcchayā copapannaṃ svarga-dvāram apāvṛtam / sukhinaḥ kṣatriyāḥ pārtha labhante yuddham īdṛśam.\" Krishna explains that Arjuna has not sought this conflict out of malice; it has presented itself naturally ('yadṛcchayā upapannam'). Such an unprovoked, righteous war is described as an open door to heaven ('svarga-dvāram apāvṛtam'), making the warriors who fight it truly fortunate ('sukhinaḥ'). — Bhagavad Gita (2.32)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ రణరంగ అవకాశాన్ని అత్యంత అరుదైన అదృష్టంగా వర్ణించాడు. అర్జునుడు స్వయంగా కోరుకోకుండానే ప్రాప్తించిన ('యదృచ్ఛయా ఉపపన్నమ్') ఈ ధర్మయుద్ధము సాక్షాత్తు తెరిచిన స్వర్గ ద్వారము ('స్వర్గద్వారమ్ అపావృతమ్') వంటిది. ఇటువంటి అవకాశాన్ని పొందే క్షత్రియులు ధన్యులు ('సుఖినః'). — భగవద్గీత (2.32)"
+    }
+  },
+  {
+    "id": "bg-2-32-q2",
+    "verse": { "c": 2, "s": 32 },
+    "concept": ["Metaphorical Concept - Svargadvāram Apāvṛtam"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the metaphor 'svarga-dvāram apāvṛtam' signify in the context of verse 2.32?",
+      "te": "2.32 శ్లోక సందర్భంలో 'స్వర్గద్వారమ్ అపావృతమ్' అనే రూపక పదబంధానికి ప్రత్యేక ఆధ్యాత్మిక భావం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "That participating in an unsought, righteous war provides a direct, unhindered pathway to heavenly liberation and heroic honor without the need for elaborate rituals.",
+        "te": "అయాచితంగా లభించిన ధర్మయుద్ధంలో పాల్గొనడం ద్వారా ప్రత్యేకమైన సుదీర్ఘమైన యజ్ఞయాగాదులతో పనిలేకుండానే, సూటిగా వీర స్వర్గాన్ని, పుణ్య లోకాలను పొందే అనర్గళమైన ద్వారము తెరవబడిందని భావం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "That a physical doorway made of gold opens up in the sky during battle.",
+        "te": "యుద్ధ సమయంలో ఆకాశంలో స్వర్ణమయమైన భౌతిక తలుపులు తెరవబడతాయని.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "That only those who die by arrow wounds can enter the heavenly realm.",
+        "te": "కేవలం బాణాల గాయాల వల్ల మరణించినవారు మాత్రమే స్వర్గంలోకి ప్రవేశించగలరని.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "That the gods physically descend to take living warriors into heaven before the war ends.",
+        "te": "యుద్ధం ముగియక ముందే బతికి ఉన్న యోధులను స్వర్గానికి తీసుకెళ్లడానికి దేవతలు ప్రత్యక్షంగా దిగివస్తారని.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Svarga' (heaven) + 'dvāram' (door) + 'apāvṛtam' (uncovered / open). A Kshatriya who performs his righteous duty without cowardice receives immediate spiritual elevation, as if entering an already wide-open gateway. — Bhagavad Gita (2.32)",
+      "te": "'స్వర్గ' + 'ద్వారమ్' (తలుపు) + 'అపావృతమ్' (తెరువబడినది). పిరికితనాన్ని విడిచిపెట్టి స్వధర్మాన్ని నెరవేర్చే క్షత్రియునికి మోక్ష/స్వర్గ మార్గం ముందే తెరిచి ఉంచబడినట్లుగా సులభంగా సిద్ధగిస్తుంది. — భగవద్గీత (2.32)"
+    }
+  },
+  {
+    "id": "bg-2-32-q3",
+    "verse": { "c": 2, "s": 32 },
+    "concept": ["Philosophical Concept - Yadṛcchā (Spontaneous Providence)"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why is the word 'Yadṛcchayā' spiritually significant in verse 2.32?",
+      "te": "2.32 శ్లోకంలో 'యదృచ్ఛయా' (తనంతట తానే/అయాచితంగా) అనే పదం ఆధ్యాత్మికంగా ఎందుకు ప్రాముఖ్యత కలిగినది?"
+    },
+    "choices": [
+      {
+        "en": "Because it emphasizes that the Pandavas did not engineer or greedily instigate the war, but rather it came naturally as a providence of destiny after all peaceful efforts failed.",
+        "te": "పాండవులు దురాశతో గానీ, ద్వేషంతో గానీ ఈ యుద్ధాన్ని పన్ని సృష్టించలేదని, సమస్త శాంతి ప్రయత్నాలు విఫలమైన తర్వాత దైవ సంకల్పంతో అయాచితంగా ప్రాప్తించిన ధర్మ కర్తవ్యం ఇదని ఎత్తిచూపడానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because it implies that war is a random accident without any connection to Karma.",
+        "te": "యుద్ధం అనేది కర్మతో సంబంధం లేని ఒక యాదృచ్ఛిక ప్రమాదం అని చూపడానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because it means warriors can fight whenever they feel bored with peace.",
+        "te": "ప్రశాంతత విసిగించినప్పుడు యోధులు ఎప్పుడు పడితే అప్పుడు పోరాడవచ్చని అర్ధం ఇవ్వడానికి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because it shows that Arjuna fought many similar wars in his previous lifetimes.",
+        "te": "అర్జునుడు పూర్వ జన్మలలో కూడా ఇటువంటి అనేక యుద్ధాలు చేశాడని నిరూపించడానికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yadṛcchayā' means spontaneously, unsought, or by its own accord. A duty that arrives without egoic plotting or aggressive instigation carries divine sanction, making its performance purely karmically elevating. — Bhagavad Gita (2.32)",
+      "te": "'యదృచ్ఛయా' అనగా అయాచితంగా/తనంతట తానే సిద్ధించినది. అహంకారంతో కుట్రలు పన్ని చేయని, ధర్మ రక్షణార్థం దైవికంగా లభించిన కర్తవ్యాన్ని నిర్వర్తించడం ఎల్లప్పుడూ పుణ్యప్రదమే అవుతుంది. — భగవద్గీత (2.32)"
+    }
+  },
+  {
+    "id": "bg-2-32-q4",
+    "verse": { "c": 2, "s": 32 },
+    "concept": ["Sanskrit Vocabulary - Fortunate Warriors & Open Door"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit terms 'sukhinaḥ' and 'apāvṛtam' mean in verse 2.32?",
+      "te": "2.32 శ్లోకంలోని 'సుఖినః' మరియు 'అపావృతమ్' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Sukhinaḥ = Happy / fortunate / blessed; Apāvṛtam = Open / uncovered / wide-open.",
+        "te": "సుఖినః = సుఖసంతోషాలు గలవారు / ధన్యులు / అదృష్టవంతులు; అపావృతమ్ = తెరువబడినది / అవరోధం లేనిది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sukhinaḥ = Wealthy kings; Apāvṛtam = Closed tightly.",
+        "te": "సుఖినః = సంపన్న రాజులు; అపావృతమ్ = గట్టిగా మూయబడినది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sukhinaḥ = Defeated warriors; Apāvṛtam = Hidden in darkness.",
+        "te": "సుఖినః = ఓడిపోయిన యోధులు; అపావృతమ్ = చీకటిలో దాచబడినది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sukhinaḥ = Peaceful ascetics; Apāvṛtam = Golden-colored.",
+        "te": "సుఖినః = శాంతమూర్తులైన మునులు; అపావృతమ్ = సువర్ణ రంగు గలది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sukhin' (possessing happiness/good fortune) in Nominative Plural Masculine is 'sukhinaḥ' (blessed/happy ones). 'Āvṛta' means covered/closed; with prefix 'apa-' (removing), 'apāvṛta' means uncovered/wide open. — Bhagavad Gita (2.32)",
+      "te": "'సుఖిన్' శబ్దానికి ప్రథమా బహువచనం 'సుఖినః' (ధన్యులు/సుఖవంతులు). 'ఆవృత' అనగా కప్పబడినది/మూయబడినది; 'అప' ఉపసర్గ చేరగా 'అపావృత' అనగా తొలగించబడిన కప్పు గలది/తెరువబడినది. — భగవద్గీత (2.32)"
+    }
+  },
+  {
+    "id": "bg-2-32-q5",
+    "verse": { "c": 2, "s": 32 },
+    "concept": ["Sanskrit Grammar - Verb 'Labhante'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of the verb 'labhante' in verse 2.32:",
+      "te": "2.32 శ్లోకంలోని 'లభంతే' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person plural present tense Ātmanepada (Laṭ-lakāra) from root 'labh' (to obtain / attain / receive), agreeing with subject 'kṣatriyāḥ' ('Kshatriyas obtain...').",
+        "te": "'లభ్' (పొందు/లభించు) అనే ధాతువు యొక్క లట్ లకార (వర్తమానకాల) ప్రథమ పురుష బహువచన ఆత్మనేపద రూపం — 'క్షత్రియాః' (క్షత్రియులు) అనే బహువచన కర్తకు అనుగుణంగా 'క్షత్రియులు పొందుతారు' అని అర్థమిస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1st person singular future tense verb.",
+        "te": "ఉత్తమ పురుష ఏకవచన భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "3rd person singular past tense verb.",
+        "te": "ప్రథమ పురుష ఏకవచన భూతకాల క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb form.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Labhate' (singular), 'labhete' (dual), 'labhante' (plural). 'Labhante' is 3rd person plural present indicative Ātmanepada of root 'labh'. Subject is 'kṣatriyāḥ sukhinaḥ': 'sukhinaḥ kṣatriyāḥ labhante' = 'happy Kshatriyas obtain...'. — Bhagavad Gita (2.32)",
+      "te": "'లభతే' (ఏకవచనం), 'లభేతే' (ద్వివచనం), 'లభంతే' (బహువచనం). 'క్షత్రియాః' అనే ప్రథమా బహువచన కర్తతో చేరి 'లభంతే' (పొందుచున్నారు) అనే ఆత్మనేపద బహువచన క్రియ సిద్ధించింది. — భగవద్గీత (2.32)"
+    }
+  },
+  {
+    "id": "bg-2-32-q6",
+    "verse": { "c": 2, "s": 32 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'copapannaṃ' and 'svargadvāramapāvṛtam' in verse 2.32:",
+      "te": "2.32 శ్లోకంలోని 'చోపపన్నమ్' మరియు 'స్వర్గద్వారమపావృతమ్' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Ca + upapannam -> copapannaṃ (Guṇa Sandhi: a + u -> o); svargadvāram + apāvṛtam -> svargadvāramapāvṛtam (consonant 'm' combining directly with initial vowel 'a').",
+        "te": "చ + ఉపపన్నమ్ -> చోపపన్నమ్ (గుణ సంధి: అ + ఉ -> ఓ); స్వర్గద్వారమ్ + అపావృతమ్ -> స్వర్గద్వారమపావృతమ్ (పొల్లు 'మ్' అచ్చు 'అ' తో సూటిగా కలయుట).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Ca + apapannam -> cāpapannam; svargadvāra + apāvṛtam -> svargadvārapāvṛtam",
+        "te": "చ + అపపన్నమ్ -> చాపపన్నమ్; స్వర్గద్వార + అపావృతమ్ -> స్వర్గద్వారపావృతమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Co + upapannam -> copapannam; svargadvāran + apāvṛtam -> svargadvāranapāvṛtam",
+        "te": "చో + ఉపపన్నమ్ -> చోపపన్నమ్; స్వర్గద్వారన్ + అపావృతమ్ -> స్వర్గద్వారనపావృతమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Cai + upapannam -> copapannam; svargadvāraḥ + apāvṛtam -> svargadvārahapāvṛtam",
+        "te": "చై + ఉపపన్నమ్ -> చోపపన్నమ్; స్వర్గద్వారః + అపావృతమ్ -> స్వర్గద్వారహపావృతమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Ca' (and) + 'upapannam' (arrived/obtained): 'a' + 'u' merges into 'o' via Guṇa Sandhi, yielding 'copapannaṃ'. 2. 'Svargadvāram' (gate of heaven) + 'apāvṛtam' (uncovered/open): final consonant 'm' joins initial vowel 'a' to form 'ma', yielding 'svargadvāramapāvṛtam'. — Bhagavad Gita (2.32)",
+      "te": "1. 'చ' + 'ఉపపన్నమ్' లలో 'అ' + 'ఉ' కలసి గుణ సంధి ద్వారా 'ఓ' గా మారి 'చోపపన్నమ్' అయినది. 2. 'స్వర్గద్వారమ్' + 'అపావృతమ్' లలో పొల్లు 'మ్' అచ్చు 'అ' తో కలసి 'స్వర్గద్వారమపావృతమ్' అని నిరాటంకంగా ఏర్పడింది. — భగవద్గీత (2.32)"
+    }
+  }
+]

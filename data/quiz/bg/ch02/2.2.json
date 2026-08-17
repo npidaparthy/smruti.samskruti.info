@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-2-q1",
+    "verse": { "c": 2, "s": 2 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.2?\n\n“śrībhagavānuvāca | kutastvā kaśmalamidaṃ viṣame samupasthitam | anāryajuṣṭamasvargyamakīrtikaramarjuna”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“శ్రీభగవానువాచ | కుతస్త్వా కశ్మలమిదం విషమే సముపస్థితమ్ | అనాక్యజుష్టమస్వర్గ్యమకీర్తికరుమర్జున”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — O Arjuna, whence has this delusion come upon you at this critical moment? It is not practiced by noble men (Aryans), it leads not to heaven, and it causes dishonor.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ అర్జునా! ఆపత్కాలంలో నీకు ఈ మోహము (మానసిక బలహీనత) ఎక్కడి నుండి వచ్చింది? ఇది ఆర్య శ్రేష్ఠులకు తగినది కాదు, స్వర్గాన్ని ఇచ్చేది కాదు, పైగా అపకీర్తిని కలిగిస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — O Arjuna, your compassion for your elders is praiseworthy and demonstrates true spiritual nobility.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ అర్జునా! నీ పెద్దల పట్ల నీకున్న ఈ దయాగుణం ప్రశంసనీయమైనది మరియు ఉత్కృష్టమైన ధర్మానికి ప్రతీక.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Put down your weapons and retreat into the forest to practice tapas until your mind becomes calm.",
+        "te": "శ్రీభగవానుడు పలికెను — నీ మనస్సు ప్రశాంతమయ్యే వరకు ఆయుధాలను పక్కన పడేసి అడవులకు వెళ్లి తపస్సు చేసుకో.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — O Arjuna, the Kauravas have used black magic to confuse your intellect before battle.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ అర్జునా! యుద్ధానికి ముందు నీ బుద్ధిని బ్రమంపరచడానికి కౌరవులు మాయోపాయాలను ప్రయోగించారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Śrī-bhagavān uvāca — kutas tvā kaśmalam idaṃ viṣame samupasthitam / anārya-juṣṭam asvargyam akīrti-karam arjuna.\" Lord Krishna inaugurates His divine discourse by diagnosing Arjuna's grief not as virtue, but as ignoble delusion ('kaśmalam') that blocks both earthly reputation ('akīrti-karam') and heavenly attainment ('asvargyam'). — Bhagavad Gita (2.2)",
+      "te": "శ్రీకృష్ణ భగవానుడు తన మొదటి బోధనలో అర్జునుని శోకాన్ని ధర్మంగా కాక వివేకహీనమైన 'కశ్మలము' (మోహము) గా తేల్చాడు. ఇది శ్రేష్ఠులైన ఆర్య పురుషులకు తగదని, స్వర్గానికి గాని, కీర్తికి గాని దోహదపడదని గద్దించాడు. — భగవద్గీత (2.2)"
+    }
+  },
+  {
+    "id": "bg-2-2-q2",
+    "verse": { "c": 2, "s": 2 },
+    "concept": ["Threefold Condemnation of Delusion"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which three negative traits does Lord Krishna attribute to Arjuna's despondency in verse 2.2?",
+      "te": "2.2 శ్లోకంలో అర్జునుని నిరాశను ఖండిస్తూ శ్రీకృష్ణుడు దానిని ఏ మూడు దుర్గుణాలుగా వర్ణించాడు?"
+    },
+    "choices": [
+      {
+        "en": "1. Anārya-juṣṭam (not practiced/befitting noble spiritual persons), 2. Asvargyam (not leading to heavenly worlds), 3. Akīrti-karam (causing ill-fame / dishonor)",
+        "te": "1. అనాక్యజుష్టమ్ (ఆర్య శ్రేష్ఠులకు అనుచితమైనది), 2. అస్వర్గ్యమ్ (స్వర్గ లోక ప్రాప్తిని అడ్డుకునేది), 3. అకీర్తికరమ్ (అపకీర్తిని ప్రసాదించేది)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1. Bhaya-pradam (causing fear), 2. Dāridrya-karam (causing poverty), 3. Duḥkha-dāyakam (giving sorrow)",
+        "te": "1. భయప్రదమ్ (భయాన్ని ఇచ్చేది), 2. దారిద్ర్యకరమ్ (పేదరికాన్ని ఇచ్చేది), 3. దుఃఖదాయకమ్ (విచారాన్ని కలిగిచేది)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1. Śatru-priyam (pleasing to enemies), 2. Mitra-śokadam (grieving friends), 3. Rajya-nāśakam (destroying kingdom)",
+        "te": "1. శత్రుప్రియమ్ (శత్రువులకు ఆనందం ఇచ్చేది), 2. మిత్రశోకదమ్ (మిత్రులకు దుఃఖం ఇచ్చేది), 3. రాజ్యనాశకమ్ (రాజ్యాన్ని కూల్చేది)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1. Pāpa-janakam (generating sin), 2. Dharma-dveṣam (hating righteousness), 3. Krodha-vardhakam (increasing anger)",
+        "te": "1. పాపజనకమ్ (పాపాన్ని పుట్టించేది), 2. ధర్మద్వేషమ్ (ధర్మాన్ని ద్వేషించేది), 3. క్రోధవర్ధకమ్ (కోపాన్ని పెంచేది)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Krishna critiques Arjuna's weakness on three levels: 1. Ethical/Cultural level ('anāryajuṣṭam' = unfit for a noble cultured mind), 2. Other-worldly level ('asvargyam' = deprives one of Svarga), and 3. Worldly level ('akīrtikaram' = destroys honor and Kshatriya status). — Bhagavad Gita (2.2)",
+      "te": "కృష్ణుడు అర్జునుని దుఃఖాన్ని మూడు కోణాలలో విమర్శించాడు: 1. నైతిక/సంస్కార కోణం (ఆర్య శ్రేష్ఠులకు తగదు), 2. ఆముష్మిక కోణం (స్వర్గానికి చేర్చదు), 3. లౌకిక కోణం (సమాజంలో అపకీర్తి తెస్తుంది). — భగవద్గీత (2.2)"
+    }
+  },
+  {
+    "id": "bg-2-2-q3",
+    "verse": { "c": 2, "s": 2 },
+    "concept": ["Ethical Terminology - Anāryajuṣṭam"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the word 'Ārya' mean in the compound 'anāryajuṣṭam' in verse 2.2?",
+      "te": "2.2 శ్లోకంలోని 'అనాక్యజుష్టమ్' అనే పదంలో 'ఆర్య' శబ్దానికి సరైన ఆధ్యాత్మిక/నైతిక అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Ārya = A person of noble conduct, high character, and spiritual values (not a racial or linguistic term); hence 'anāryajuṣṭam' means 'unbecoming of a noble mind'.",
+        "te": "ఆర్య = శ్రేష్ఠమైన నడవడిక, సత్ప్రవర్తన, ఆధ్యాత్మిక విలువలు గల ఉత్కృష్ట మానవుడు (ఇది ఏ రకమైన జాతిపదం కాదు); అందువల్ల 'అనాక్యజుష్టమ్' అనగా 'ఉత్తములకు తగనిది'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Ārya = A specific geographic tribe belonging to the northern mountains.",
+        "te": "ఆర్య = ఉత్తర పర్వత ప్రాంతానికి చెందిన ఒక నిర్దిష్ట జాతి సమూహం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Ārya = A wealthy merchant who trades in pure gold.",
+        "te": "ఆర్య = పసిడి వ్యాపారం చేసే ధనిక వర్తకుడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Ārya = A warrior who uses celestial nuclear weapons.",
+        "te": "ఆర్య = దివ్యాస్త్రాలను ప్రయోగించే యోధుడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Sanskrit and Vedic literature, 'Ārya' denotes a person who understands higher spiritual duty and acts with moral righteousness. 'Anārya-juṣṭam' means an action cherished or practiced only by spiritually degraded or ignoble individuals. — Bhagavad Gita (2.2)",
+      "te": "సంస్కృత వైదిక వాఙ్మయంలో 'ఆర్య' అంటే శ్రేష్ఠమైన ధర్మాన్ని పాటించే గుణవంతుడు అని అర్థం. 'అనాక్యజుష్టమ్' అనగా అజ్ఞానులు, వివేకహీనులు మాత్రమే ఆచరించే నీచమైన ప్రవర్తన. — భగవద్గీత (2.2)"
+    }
+  },
+  {
+    "id": "bg-2-2-q4",
+    "verse": { "c": 2, "s": 2 },
+    "concept": ["Sanskrit Vocabulary - Delusion & Critical Hour"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'kaśmalam' and 'viṣame' mean in verse 2.2?",
+      "te": "2.2 శ్లోకంలోని 'కశ్మలమ్' మరియు 'విషమే' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Kaśmalam = Delusion / filth of mind / despairing impurity; Viṣame = In a critical crisis / perilous situation / hour of danger.",
+        "te": "కశ్మలమ్ = మోహము / మానసిక మలినము / అజ్ఞానము; విషమే = క్లిష్ట సమయంలో / ఆపత్కాలంలో / సంక్షోభ సమయంలో.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kaśmalam = Physical poison; Viṣame = On uneven ground.",
+        "te": "కశ్మలమ్ = విషము; విషమే = మెరక నేలపైన.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kaśmalam = Armor; Viṣame = In peace.",
+        "te": "కశ్మలమ్ = కవచము; విషమే = ప్రశాంతమైన సమయంలో.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kaśmalam = Royal crown; Viṣame = In a palace.",
+        "te": "కశ్మలమ్ = రాజ కిరీటము; విషమే = రాజప్రసాదంలో.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kaśmalam' means mental impurity, delusion, or filth that clouds judgment. 'Viṣame' is Locative singular of 'viṣama' (difficult/perilous predicament). Krishna asks why such weakness has gripped Arjuna in the heat of battle ('viṣame'). — Bhagavad Gita (2.2)",
+      "te": "'కశ్మలమ్' అనగా మనస్సును కమ్మేసే మలినము లేదా మోహము. 'విషమే' అనగా సంక్షోభ సమయం/ఆపత్కాలము. యుద్ధ రంగంలో ఇటువంటి మోహం రావడం తగదని కృష్ణుడి నిలదీత. — భగవద్గీత (2.2)"
+    }
+  },
+  {
+    "id": "bg-2-2-q5",
+    "verse": { "c": 2, "s": 2 },
+    "concept": ["Sanskrit Grammar - Interrogative Clause 'Kutas tvā'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical breakdown and rhetorical tone of 'kutas tvā' in verse 2.2:",
+      "te": "2.2 శ్లోకంలోని 'కుతస్త్వా' (కుతః త్వా) అనే పదబంధం యొక్క వ్యాకరణ స్వరూపం మరియు వాగర్థ భావం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Kutaḥ (interrogative adverb = 'from where?') + tvā (accusative singular of yuṣmad = 'upon you'), forming a sharp rhetorical question implying 'this delusion is totally alien and unexpected from a hero like you'.",
+        "te": "కుతః (ఎక్కడి నుండి?) + త్వా (నిన్ను/నీకు - ద్వితీయా ఏకవచనం). నీ వంటి శూరునికి ఇటువంటి దేహమోహం రావడం అసంభావ్యమని నిలదీసే ఆక్షేపణాత్మక ప్రశ్న.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kutaḥ (why?) + tvā (instrumental = by you), forming a gentle praise.",
+        "te": "కుతః + త్వా — మృదువైన ప్రశంస రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kutaḥ (where?) + tvā (nominative = you), forming a locator verb.",
+        "te": "కుతః + త్వా — స్థానాన్ని తెలిపే క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kutaḥ (when?) + tvā (genitive = your), forming a time modifier.",
+        "te": "కుతః + త్వా — కాలాన్ని సూచించే పదం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kutaḥ' (whence / from where) + 'tvā' (you). Combined with 'kaśmalam idaṃ samupasthitam' (this delusion has come), it expresses astonishment and stern rebuke: 'From where has this unworthy dirt of confusion overcome you?' — Bhagavad Gita (2.2)",
+      "te": "'కుతః' (ఎక్కడి నుండి) + 'త్వా' (నిన్ను/నీకు). 'నీ వంటి పరాక్రమవంతుడికి ఈ ఆపత్కాలంలో ఇంతటి అజ్ఞానము ఎక్కడి నుండి ఊడిపడింది?' అని శ్రీకృష్ణుడు గద్దిస్తున్న సంబోధన. — భగవద్గీత (2.2)"
+    }
+  },
+  {
+    "id": "bg-2-2-q6",
+    "verse": { "c": 2, "s": 2 },
+    "concept": ["Sanskrit Grammar - Compound Analysis 'Anāryajuṣṭam'"],
+    "yoga": "Arjuna Visada Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Tatpurusha compound 'anāryajuṣṭam' in verse 2.2:",
+      "te": "2.2 శ్లోకంలోని 'అనాక్యజుష్టమ్' అనే సమాసాన్ని విడదీసి వ్యాకరణ విశ్లేషణను చెప్పండి:"
+    },
+    "choices": [
+      {
+        "en": "Na-Ārya (Nañ-tatpurusha = non-noble) + juṣṭam (practiced / cherished / frequented = 3rd Tatpurusha: 'anāryaiḥ juṣṭam' = practiced by non-nobles).",
+        "te": "న-ఆర్య (నఞ్-తత్పురుష = ఆర్యుడు కానివాడు) + జుష్టమ్ (ఆచరించబడినది) -> తృతీయ తత్పురుష సమాసము: 'అనార్యైః జుష్టమ్' = ఆర్య శ్రేష్ఠులు కానివారిచేత ఆచరించబడినది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Anārya + juṣṭam (Dvandva compound = non-noble and practiced).",
+        "te": "అనార్య + జుష్టమ్ (ద్వంద్వ సమాసము).",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Anāryasya + juṣṭam (6th Tatpurusha = non-noble's practice).",
+        "te": "అనార్యస్య + జుష్టమ్ (షష్ఠీ తత్పురుష సమాసము).",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Anāryāt + juṣṭam (5th Tatpurusha = came from non-noble).",
+        "te": "అనార్యాత్ + జుష్టమ్ (పంచమీ తత్పురుష సమాసము).",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Na āryaḥ' = 'Anāryaḥ' (Nañ-tatpurusha). Then 'Anāryaiḥ juṣṭam' (past passive participle from root 'juṣ' = to relish/practice) forms a Tṛtīyā-tatpurusha compound: 'that which is practiced or reposed in by ignoble persons'. — Bhagavad Gita (2.2)",
+      "te": "'న ఆర్యః' = అనార్యః (నఞ్ తత్పురుష). 'అనార్యైః జుష్టమ్' (అజ్ఞానులచేత ఆచరించబడినది) అనేది తృతీయ తత్పురుష సమాసము. ఇది 'కశ్మలమ్' అనే పదానికి విశేషణంగా పనిచేస్తోంది. — భగవద్గీత (2.2)"
+    }
+  }
+]

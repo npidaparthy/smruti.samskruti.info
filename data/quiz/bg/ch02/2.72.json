@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-72-q1",
+    "verse": { "c": 2, "s": 72 },
+    "concept": ["Verse Meaning & Brāhmī Sthiti / Brahma-Nirvāṇam"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.72?\n\n“eṣā brāhmī sthitiḥ pārtha naināṃ prāpya vimuhyati | sthitvāsyāmantakāle'pi brahmanirvāṇamṛcchati”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“ఏషా బ్రాహ్మీ స్థితిః పార్థ నైనాం ప్రాప్య విముహ్యతి | స్థిత్వాస్యామంతకాలేఽపి బ్రహ్మనిర్వాణమృచ్ఛతి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — O Partha, this is the divine state of Brahman-realization (Brāhmī Sthiti). Having attained this, a person is never deluded again. By being established in this state even at the time of death, one attains liberation into the Supreme Brahman (Brahma-Nirvāṇam).",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! ఇది బ్రాహ్మీ స్థితి (బ్రహ్మము నందు స్థిరపడిన దివ్య జ్ఞాన స్థితి). దీనిని పొందిన తర్వాత మానవుడు తిరిగి ఎన్నటికీ మోహంలో (అజ్ఞానంలో) పడడు. జీవిత చరమదశలో (మరణ సమయమందైనా) ఈ బ్రాహ్మీ స్థితి యందు నిలిచియున్నచో అతడు పరిపూర్ణ బ్రహ్మనిర్వాణాన్ని (మోక్షాన్ని) పొందుతాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Brāhmī Sthiti is a temporary state of trance achieved during sacrificial rituals that must be renewed every morning.",
+        "te": "శ్రీభగవానుడు పలికెను — బ్రాహ్మీ స్థితి అనేది యజ్ఞయాగాలలో లభించే తాత్కాలిక సమాధి స్థితి, దాన్ని ప్రతిరోజూ ఉదయం తిరిగి పునరుద్ధరించుకోవాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Remaining in Brāhmī Sthiti at the time of death guarantees rebirth as a wealthy king in the next life.",
+        "te": "శ్రీభగవానుడు పలికెను — మరణ సమయంలో బ్రాహ్మీ స్థితిలో ఉండటం వల్ల తర్వాతి జన్మలో ధనవంతమైన రాజకుటుంబంలో జన్మించడం ఖాయం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — O Partha, Brahma-Nirvāṇam can only be attained by those who spend their entire lives practicing physical austerities in the forest.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! జీవితాంతం అరణ్యాలలో శారీరక తపస్సులు ఆచరించే వారికి మాత్రమే బ్రహ్మనిర్వాణం లభిస్తుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Eṣā brāhmī sthitiḥ pārtha naināṃ prāpya vimuhyati / sthitvāsyām anta-kāle 'pi brahma-nirvāṇam ṛcchati.\" Krishna concludes the discourse on the Sthitaprajña by giving a ultimate name to this state: 'Brāhmī Sthiti' (abidance in Brahman). Once achieved, illusion ('moha') vanishes forever ('naināṃ prāpya vimuhyati'). Even if a seeker establishes himself in this awareness at the final moment of life ('anta-kāle 'pi'), he attains 'Brahma-Nirvāṇam'—absolute liberation and absorption into Brahman. — Bhagavad Gita (2.72)",
+      "te": "శ్రీకృష్ణుడు స్థితప్రజ్ఞుని అధ్యాయానికి ముగింపుగా ఆ జ్ఞాన స్థితికి 'బ్రాహ్మీ స్థితి' (బ్రహ్మాత్మ ఐక్య స్థితి) అని పేరు పెట్టాడు. ఈ స్థితి సిద్ధించిన తర్వాత అజ్ఞాన భ్రాంతి ('మోహము') శాశ్వతంగా తొలగిపోతుంది. జీవితపు చివరి క్షణంలో నైనా ('అంతకాలే అపి') మనిషి ఈ ఆత్మజ్ఞానంలో స్థిరపడితే అతడు 'బ్రహ్మనిర్వాణాన్ని' (పరిపూర్ణ మోక్షాన్ని) పొందుతాడు. — భగవద్గీత (2.72)"
+    }
+  },
+  {
+    "id": "bg-2-72-q2",
+    "verse": { "c": 2, "s": 72 },
+    "concept": ["Philosophical Definition - Brāhmī Sthiti & Brahma-Nirvāṇam"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the technical terms 'Brāhmī Sthitiḥ' and 'Brahma-Nirvāṇam' denote in verse 2.72?",
+      "te": "2.72 శ్లోకంలో ప్రయోగించబడిన 'బ్రాహ్మీ స్థితిః' మరియు 'బ్రహ్మనిర్వాణమ్' అనే సాంకేతిక వేదాంత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Brāhmī Sthitiḥ = Absolute abidance in Brahman / Self-realized consciousness; Brahma-Nirvāṇam = Supreme liberation consisting of the dissolution of the individual ego into the infinite bliss of Brahman.",
+        "te": "బ్రాహ్మీ స్థితిః = బ్రహ్మాత్మ ఏకత్వంలో నిలిచియుండే దివ్య జీవన్ముక్తి స్థితి; బ్రహ్మనిర్వాణమ్ = అహంకారం నశించి పరబ్రహ్మము యందు పరిపూర్ణ ఐక్యతను పొందే అత్యున్నత మోక్షానందము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Brāhmī Sthitiḥ = The social caste status of a priest; Brahma-Nirvāṇam = Extinction of physical body in water.",
+        "te": "బ్రాహ్మీ స్థితిః = పూజారి యొక్క వర్ణ స్థితి; బ్రహ్మనిర్వాణమ్ = జలంలో శరీరాన్ని త్యజించడం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Brāhmī Sthitiḥ = Posture used in physical yoga; Brahma-Nirvāṇam = Residence in the heavenly planet of Creator Brahma.",
+        "te": "బ్రాహ్మీ స్థితిః = యోగాసన పోశ్చర్; బ్రహ్మనిర్వాణమ్ = బ్రహ్మలోకంలో నివాసము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Brāhmī Sthitiḥ = Royal coronation ceremony; Brahma-Nirvāṇam = Victory over enemy kingdoms.",
+        "te": "బ్రాహ్మీ స్థితిః = పట్టాభిషేక మహోత్సవము; బ్రహ్మనిర్వాణమ్ = శత్రు రాజ్యాలపై విజయం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Brāhmī sthitiḥ' refers to being firmly grounded in Brahman while living in the world (Jīvanmukti). 'Brahma-Nirvāṇam' (literally 'extinction into Brahman') refers to Videhamukti—where the limit of individual ego dissolves into the unconditioned Infinite Reality upon bodily death. — Bhagavad Gita (2.72)",
+      "te": "'బ్రాహ్మీ స్థితి' అనగా సశరీరంగా ఉంటూనే నిరంతరం బ్రహ్మానుభూతిలో జీవించడం (జీవన్ముక్తి). 'బ్రహ్మనిర్వాణమ్' అనగా జీవుడి ప్రారబ్ద దేహపాతానంతరం అజ్ఞాన అహంకారం నశించి అఖండ బ్రహ్మస్వరూపంలో ఐక్యమవ్వడం (విదేహముక్తి). — భగవద్గీత (2.72)"
+    }
+  },
+  {
+    "id": "bg-2-72-q3",
+    "verse": { "c": 2, "s": 72 },
+    "concept": ["Liberation at Death - Anta-kāle 'pi Sthitvā"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What encouragement is conveyed by the phrase 'Anta-kāle 'pi sthitvā' in verse 2.72?",
+      "te": "2.72 శ్లోకంలోని 'అంతకాలే 'పి స్థిత్వా' అనే పదబంధం ద్వారా సాధకునికి ఇవ్వబడిన దివ్యమైన ఆశ మరియు ప్రోత్సాహం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Even if a seeker has spent a major portion of life in ignorance, if he manages to anchor his consciousness in Self-knowledge even at the very moment of death ('anta-kāle'), he attains complete spiritual liberation.",
+        "te": "ఒక సాధకుడు తన జీవితంలో ఎక్కువ భాగం అజ్ఞానంలో గడిపినప్పటికీ... మరణించే చివరి క్షణంలోనైనా ('అంతకాలే') తన చైతన్యాన్ని దివ్య ఆత్మజ్ఞానంలో నిశ్చలంగా నిలపగలిగితే, అతడు సంపూర్ణ మోక్షాన్ని సాధించగలడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "That one should postpone spiritual practice entirely until the last day of life.",
+        "te": "ఆధ్యాత్మిక సాధనను జీవితం యొక్క చివరి రోజు వరకు వాయిదా వేయవచ్చని దీని అర్థం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "That physical death is required before anyone can begin understanding scriptures.",
+        "te": "శాస్త్రాలను అర్థం చేసుకోవడం ప్రారంభించడానికి ముందే శారీరక మరణం అవసరమని ఇది సూచిస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "That liberation is limited only to those who die on the battlefield.",
+        "te": "మోక్షం కేవలం రణరంగంలో మరణించిన వారికి మాత్రమే పరిమితమని దీని భావం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Anta-kāle' (at the final time / death) + 'api' (even) + 'sthitvā' (having remained). If establishing oneself in Truth even in the final moments guarantees Moksha, how much more certain is the liberation of one who practices Brāhmī Sthiti throughout life! It assures seekers that it is never too late to wake up to the Truth. — Bhagavad Gita (2.72)",
+      "te": "'అంతకాలే' (మరణ సమయంలో) + 'అపి' (అయిననూ) + 'స్థిత్వా' (నిలిచియుండి). చివరి ఘడియలోనైనా ఆత్మసత్యంలో స్థిరపడితే మోక్షం లభిస్తుందంటే... జీవితాంతం ఆ స్థితిని అభ్యసించే సాధకుడి ముక్తికి సందేహమేముంది! ఆధ్యాత్మిక జాగృతికి కాలం ఎన్నటికీ మించిపోలేదని ఇది అభయమిస్తోంది. — భగవద్గీత (2.72)"
+    }
+  },
+  {
+    "id": "bg-2-72-q4",
+    "verse": { "c": 2, "s": 72 },
+    "concept": ["Sanskrit Vocabulary - Having Attained, Deluded, Reaches"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'prāpya', 'vimuhyati', and 'ṛcchati' mean in verse 2.72?",
+      "te": "2.72 శ్లోకంలోని 'ప్రాప్య', 'విముహ్యతి', మరియు 'ఋచ్ఛతి' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Prāpya = Having attained / reached; Vimuhyati = Is deluded / bewildered; Ṛcchati = Attains / achieves / goes into.",
+        "te": "ప్రాప్య = పొంది / సాధించి; విముహ్యతి = మోహము చెందును / భ్రాంతిలో పడును; ఋచ్ఛతి = పొందును / చేరుకొనును.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Prāpya = Leaving behind; Vimuhyati = Wakes up; Ṛcchati = Loses.",
+        "te": "ప్రాప్య = విడిచిపెట్టి; విముహ్యతి = మేల్కొనును; ఋచ్ఛతి = కోల్పోవును.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Prāpya = Forgetting; Vimuhyati = Fights; Ṛcchati = Sleeps.",
+        "te": "ప్రాప్య = మరిచిపోయి; విముహ్యతి = పోరాడును; ఋచ్ఛతి = నిద్రపోవును.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Prāpya = Praising; Vimuhyati = Runs away; Ṛcchati = Cries.",
+        "te": "ప్రాప్య = ప్రశంసించి; విముహ్యతి = పారిపోవును; ఋచ్ఛతి = ఏడుచును.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Prāpya' is Lyap-gerund of root 'āp' with prefix 'pra' (having obtained). 'Vi' + 'muhyati' is 3rd person singular Present active of root 'muh' (becomes deluded -> 'na vimuhyati' = is not deluded). 'Ṛcchati' is 3rd person singular Present active indicative of root 'ṛ' (attains/gains). — Bhagavad Gita (2.72)",
+      "te": "'ప్ర' + 'ఆప్' ధాతు ల్యబంత రూపం 'ప్రాప్య' (పొంది). 'వి' + 'ముహ్' ధాతు రూపం 'విముహ్యతి' (మోహం చెందును). 'ఋ' (పొందు) ధాతు రూపం 'ఋచ్ఛతి' (పొందును/ప్రాప్తించును). — భగవద్గీత (2.72)"
+    }
+  },
+  {
+    "id": "bg-2-72-q5",
+    "verse": { "c": 2, "s": 72 },
+    "concept": ["Sanskrit Grammar - Absolutive 'Sthitvā' & Verb 'Ṛcchati'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'sthitvā' and 'ṛcchati' in verse 2.72:",
+      "te": "2.72 శ్లోకంలోని 'స్థిత్వా' మరియు 'ఋచ్ఛతి' అనే పదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Sthitvā = Ktvā-gerund / Absolutive form from root 'sthā' (having stood / remained established); Ṛcchati = 3rd person singular Present active indicative (Laṭ-lakāra) from root 'ṛ' (he attains / reaches).",
+        "te": "స్థిత్వా = 'స్థా' (నిలుచు) ధాతువు యొక్క క్త్వాంత (Absolutive) రూపం ('స్థిరపడి / నిలిచియుండి'); ఋచ్ఛతి = 'ఋ' (పొందు) ధాతువు లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ఏకవచన పరస్మైపద క్రియ ('పొందును').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sthitvā = Future tense verb; Ṛcchati = Past tense verb.",
+        "te": "స్థిత్వా = భవిష్యత్కాల క్రియ; ఋచ్ఛతి = భూతకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sthitvā = Imperative verb; Ṛcchati = Present active participle.",
+        "te": "స్థిత్వా = ఆజ్ఞార్థక క్రియ; ఋచ్ఛతి = వర్తమాన విశేషణం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sthitvā = Genitive Noun; Ṛcchati = Passive verb.",
+        "te": "స్థిత్వా = షష్ఠీ విభక్తి నామవాచకం; ఋచ్ఛతి = కర్మణి క్రియ.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sthitvā' indicates the prior mental stance ('having remained anchored in Brāhmī Sthiti'). 'Ṛcchati' is the primary action verb completing the statement: 'sthitvā brahma-nirvāṇam ṛcchati' = 'having remained established [in it], he attains liberation in Brahman'. — Bhagavad Gita (2.72)",
+      "te": "'స్థిత్వా' (బ్రాహ్మీ స్థితి యందు స్థిరపడి) అనేది పూర్వకాల క్రియ. 'ఋచ్ఛతి' (పొందును) అనేది వాక్యాన్ని పూర్తి చేసే క్రియ: 'స్థిత్వా బ్రహ్మనిర్వాణమ్ ఋచ్ఛతి' (ఆ స్థితిలో నిలిచి బ్రహ్మనిర్వాణాన్ని పొందుతున్నాడు). — భగవద్గీత (2.72)"
+    }
+  },
+  {
+    "id": "bg-2-72-q6",
+    "verse": { "c": 2, "s": 72 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'naināṃ', 'sthitvāsyāmantakāle'pi', and 'brahmanirvāṇamṛcchati' in verse 2.72:",
+      "te": "2.72 శ్లోకంలోని 'నైనామ్', 'స్థిత్వాస్యామంతకాలేఽపి', మరియు 'బ్రహ్మనిర్వాణమృచ్ఛతి' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Na + enām -> nainām (Vṛddhi Sandhi: a + e -> ai); sthitvā + asyām -> sthitvāsyām (Savarna-dirgha Sandhi); asyām + anta-kāle -> asyām anta-kāle (consonant 'm' + vowel 'a'); anta-kāle + api -> anta-kāle 'pi (Pūrvarūpa Sandhi); brahma-nirvāṇam + ṛcchati -> brahma-nirvāṇam ṛcchati (consonant 'm' + vowel 'ṛ').",
+        "te": "న + ఏనామ్ -> నైనామ్ (వృద్ధి సంధి: అ + ఏ -> ఐ); స్థిత్వా + అస్యామ్ -> స్థిత్వాస్యామ్ (సవర్ణదీర్ఘ సంధి: ఆ + అ -> ఆ); అస్యామ్ + అంతకాలే -> అస్యామంతకాలే (పొల్లు 'మ్' అచ్చు 'అ' తో కలయుట); అంతకాలే + అపి -> అంతకాలేఽపి (పూర్వరూప సంధి: ఏ + అ -> ఏఽ); బ్రహ్మనిర్వాణమ్ + ఋచ్ఛతి -> బ్రహ్మనిర్వాణమృచ్ఛతి (పొల్లు 'మ్' అచ్చు 'ఋ' తో సంయోగము).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Na + enām -> nenām; sthitvā + asyām -> sthitvasyām; anta-kāle + api -> anta-kālāpi",
+        "te": "న + ఏనామ్ -> నేనామ్; స్థిత్వా + అస్యామ్ -> స్థిత్వస్యామ్; అంతకాలే + అపి -> అంతకాలాపి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nam + enām -> namenām; sthitvām + asyām -> sthitvāmasyām; anta-kālem + api -> anta-kālemapi",
+        "te": "నమ్ + ఏనామ్ -> నమేనామ్; స్థిత్వామ్ + అస్యామ్ -> స్థిత్వామస్యామ్; అంతకాలేమ్ + అపి -> అంతకాలేమపి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Ne + enām -> ne'nām; sthitve + asyām -> sthitve'syām; anta-kālai + api -> anta-kālāpi",
+        "te": "నే + ఏనామ్ -> నేఽనామ్; స్థిత్త్వే + అస్యామ్ -> స్థిత్వేఽస్యామ్; అంతకాలై + అపి -> అంతకాలాపి",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Na' + 'enām': 'a' + 'e' -> Vṛddhi vowel 'ai' -> 'nainām'. 2. 'Sthitvā' + 'asyām': 'ā' + 'a' -> 'ā' via Savarna-dirgha -> 'sthitvāsyām'. 3. 'Anta-kāle' + 'api': 'e' + 'a' -> 'e' with Avagraha ' 'pi' via Pūrvarūpa Sandhi -> 'anta-kāle 'pi'. 4. 'Brahma-nirvāṇam' + 'ṛcchati': nasal stop 'm' combines with vocalic vowel 'ṛ' -> 'brahma-nirvāṇam ṛcchati'. — Bhagavad Gita (2.72)",
+      "te": "1. 'న' + 'ఏనామ్' = నైనామ్ (వృద్ధి సంధి). 2. 'స్థిత్వా' + 'అస్యామ్' = స్థిత్వాస్యామ్ (సవర్ణదీర్ఘ సంధి). 3. 'అంతకాలే' + 'అపి' = అంతకాలేఽపి (పూర్వరూప సంధి). 4. 'బ్రహ్మనిర్వాణమ్' + 'ఋచ్ఛతి' = బ్రహ్మనిర్వాణమృచ్ఛతి. — భగవద్గీత (2.72)"
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-12-q1",
+    "verse": { "c": 2, "s": 12 },
+    "concept": ["Verse Meaning & Eternal Existence"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.12?\n\n“na tvevāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ | na caiva na bhaviṣyāmaḥ sarve vayamataḥ param”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“న త్వేవాహం జాతు నాసం న త్వం నేమే జనాధిపాః | న చైవ న భవిష్యామః సర్వే వయమతః పరమ్”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Never was there a time when I did not exist, nor you, nor all these kings; nor indeed shall any of us ever cease to be in the future.",
+        "te": "శ్రీభగవానుడు పలికెను — నేను ఏ కాలంలోనూ లేకుండపోలేదు; నీవు గానీ, ఈ రాజులు గానీ లేని కాలమంటూ ఏదీ లేదు; అలాగే మనమందరం ఇకముందు భవిష్యత్తులో కూడా లేకుండా పోము (శాశ్వతంగా ఉంటాము).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Physical bodies are created at birth and completely annihilated at death, along with all individual consciousness.",
+        "te": "శ్రీభగవానుడు పలికెను — భౌతిక దేహాలు జననంతో సృష్టించబడి, మరణంతో సమస్త వ్యక్తిగత చైతన్యంతో సహా సంపూర్ణంగా నశించిపోతాయి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Only kings and great warriors possess eternal souls, whereas ordinary living beings undergo temporary cycles.",
+        "te": "శ్రీభగవానుడు పలికెను — కేవలం రాజులు, గొప్ప యోధులు మాత్రమే శాశ్వత ఆత్మలను కలిగి ఉంటారు, సాధారణ జీవులు తాత్కాలిక చక్రాలకు లోనవుతారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Before this universe was created, only the Supreme Being existed, and all individual souls were created newly.",
+        "te": "శ్రీభగవానుడు పలికెను — ఈ విశ్వం సృష్టించబడక ముందు కేవలం పరమాత్మ మాత్రమే ఉన్నాడు, తక్కిన జీవాత్మలన్నీ కొత్తగా సృష్టించబడ్డాయి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Na tv evāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ / na caiva na bhaviṣyāmaḥ sarve vayam ataḥ param.\" Krishna establishes the core principle of Atma-Tattva: spiritual existence transcends time. The soul never comes into being nor ceases to be; past, present, and future non-existence are completely negated. — Bhagavad Gita (2.12)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ ఆత్మతత్త్వం యొక్క ప్రాథమిక సూత్రాన్ని ప్రతిపాదించాడు. భూత, వర్తమాన, భవిష్యత్ కాలాలలో ఆత్మ యొక్క అస్తిత్వం నిరంతరం ఉంటుంది. కృష్ణుడు, అర్జునుడు, అక్కడ ఉన్న రాజులందరూ ఎల్లప్పుడూ ఉన్నవారే, ఇకముందూ ఉంటారు. — భగవద్గీత (2.12)"
+    }
+  },
+  {
+    "id": "bg-2-12-q2",
+    "verse": { "c": 2, "s": 12 },
+    "concept": ["Philosophical Doctrine - Eternality across Three Times"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "How does verse 2.12 refute the concept of total annihilation (death of the self) at body dissolution?",
+      "te": "2.12 శ్లోకం దేహ వినాశనంతో ఆత్మ కూడా అంతమైపోతుందనే (శూన్యవాద/భౌతికవాద) భావనను ఏ విధంగా ఖండిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "By double negation in all three periods of time (past, present, future), proving that conscious self-existence is uncreated and indestructible.",
+        "te": "త్రైకాలికంగా (భూత, వర్తమాన, భవిష్యత్ కాలాలలో) డబుల్ నెగేషన్ (రెండు ప్రతికూల పదాల కలయిక) ద్వారా చైతన్య ఆత్మ యొక్క అస్తిత్వము శాశ్వతమైనదని నిరూపించడం ద్వారా.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "By promising that warriors who die on the battlefield will be reborn with physical immortality.",
+        "te": "యుద్ధంలో మరణించే యోధులు భౌతిక అమరత్వంతో మళ్లీ జన్మిస్తారని వాగ్దానం చేయడం ద్వారా.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "By explaining that memory survives death while the soul dissolves into primordial nature.",
+        "te": "ఆత్మ ప్రకృతిలో లీనమైనప్పటికీ జ్ఞాపకాలు మరణం తర్వాత కూడా మిగిలి ఉంటాయని చెప్పడం ద్వారా.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "By stating that only Lord Krishna Himself is eternal while all other beings are illusory manifestations.",
+        "te": "కేవలం శ్రీకృష్ణుడు మాత్రమే శాశ్వతుడని, తక్కిన జీవులందరూ మాయా కల్పితాలని చెప్పడం ద్వారా.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Krishna uses emphatic double negations ('na tv eva... na āsam', 'na ca eva na bhaviṣyāmaḥ') across past and future tenses. In Vedantic logic, two negatives create an absolute positive statement: existence is permanent and inescapable for all souls. — Bhagavad Gita (2.12)",
+      "te": "కృష్ణుడు ఈ శ్లోకంలో 'న... నాసమ్' (లేకుండా లేదు), 'న... న భవిష్యామః' (లేకుండా పోము) అని భూత, భవిష్యత్ కాలాలలో రెండేసి ప్రతికూల పదాలను వాడి 'నిశ్చితమైన శాశ్వత అస్తిత్వాన్ని' స్థిరపరిచాడు. — భగవద్గీత (2.12)"
+    }
+  },
+  {
+    "id": "bg-2-12-q3",
+    "verse": { "c": 2, "s": 12 },
+    "concept": ["Ontological Universality - Aham, Tvam, Janādhipāḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which three categories of entities does Lord Krishna explicitly include in the truth of eternal existence in verse 2.12?",
+      "te": "2.12 శ్లోకంలో శ్రీకృష్ణుడు శాశ్వత అస్తిత్వ సత్యంలో ఏ మూడు వర్గాల ప్రాణులను/వ్యక్తులను స్పష్టంగా చేర్చాడు?"
+    },
+    "choices": [
+      {
+        "en": "1. Ahaṃ (Myself / the Supreme / Avatara), 2. Tvam (You / Arjuna / the seeker), 3. Ime janādhipāḥ (All these kings / all living beings).",
+        "te": "1. అహమ్ (నేను / భగవంతుడు / అవతారమూర్తి), 2. త్వమ్ (నీవు / అర్జునుడు / సాధకుడు), 3. ఇమే జనాధిపాః (ఈ రాజులందరూ / సమస్త జీవరాశి).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1. Gods in heaven, 2. Humans on earth, 3. Demons in the underworld.",
+        "te": "1. స్వర్గంలోని దేవతలు, 2. భూమిపై ఉన్న మనుష్యులు, 3. పాతాళంలోని అసురులు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1. Sages of the past, 2. Warriors of the present, 3. Kings of the future.",
+        "te": "1. గడిచిన మునులు, 2. ప్రస్తుత యోధులు, 3. రాబోయే రాజులు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1. The Pandavas, 2. The Kauravas, 3. The Yadavas.",
+        "te": "1. పాండవులు, 2. కౌరవులు, 3. యాదవులు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Aham' (the Divine Speaker), 'Tvam' (the listening soul), and 'Ime janādhipāḥ' (all the surrounding rulers/souls). By citing all three, Krishna demonstrates that eternality is not a special privilege of God alone, but the intrinsic nature of every individual Ātman. — Bhagavad Gita (2.12)",
+      "te": "'అహమ్' (పరమాత్మయైన కృష్ణుడు), 'త్వమ్' (జీవాత్మయైన అర్జునుడు), 'ఇమే జనాధిపాః' (అక్కడున్న సకల జీవులు). ఈ మూడింటినీ చెప్పడం ద్వారా అమరత్వం అనేది కేవలం ఈశ్వరునికి మాత్రమే కాక, సమస్త ఆత్మలకూ సహజ లక్షణమని కృష్ణుడు స్పష్టం చేశాడు. — భగవద్గీత (2.12)"
+    }
+  },
+  {
+    "id": "bg-2-12-q4",
+    "verse": { "c": 2, "s": 12 },
+    "concept": ["Sanskrit Vocabulary - Kings & Temporal Terms"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit phrases 'janādhipāḥ' and 'ataḥ param' mean in verse 2.12?",
+      "te": "2.12 శ్లోకంలోని 'జనాధిపాః' మరియు 'అతః పరమ్' అనే సంస్కృత పదబంధాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Janādhipāḥ = Kings / rulers of men (Jana + adhipa); Ataḥ param = Hereafter / beyond this time / in the future.",
+        "te": "జనాధిపాః = ప్రజాపతులు / రాజులు (జన + అధిప); అతః పరమ్ = ఇకముందు / దీని తదనంతర కాలంలో / భవిష్యత్తులో.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Janādhipāḥ = Common citizens; Ataḥ param = In the past.",
+        "te": "జనాధిపాః = సామాన్య ప్రజలు; అతః పరమ్ = పూర్వకాలంలో.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Janādhipāḥ = Vedic priests; Ataḥ param = On this earth.",
+        "te": "జనాధిపాః = వేద పురోహితులు; అతః పరమ్ = ఈ భూమిపై.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Janādhipāḥ = Chariot horses; Ataḥ param = In heaven.",
+        "te": "జనాధిపాః = రథ గుర్రాలు; అతః పరమ్ = స్వర్గంలో.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Jana' (people) + 'adhipāḥ' (lords/rulers) = 'janādhipāḥ' (kings/rulers of men). 'Ataḥ param' means 'hereafter / beyond this present state'. — Bhagavad Gita (2.12)",
+      "te": "'జన' (ప్రజలకు) + 'అధిపాః' (ప్రభువులు/పాలకులు) = జనాధిపాః (రాజులు). 'అతః పరమ్' అనగా 'ఇకముందు/ఈ కాలం తర్వాత వర్తించే భవిష్యత్తులో' అని అర్థం. — భగవద్గీత (2.12)"
+    }
+  },
+  {
+    "id": "bg-2-12-q5",
+    "verse": { "c": 2, "s": 12 },
+    "concept": ["Sanskrit Grammar - Future Verb 'Bhaviṣyāmaḥ'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'bhaviṣyāmaḥ' in verse 2.12:",
+      "te": "2.12 శ్లోకంలోని 'భవిష్యామః' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "1st person plural Future tense (Lṛṭ-lakāra) Parasmaipada from root 'bhū' (to be / to exist), agreeing with subject 'sarve vayam' ('we all shall be / exist').",
+        "te": "'భూ' (ఉండుట/అవుట) అనే ధాతువు యొక్క లృట్ లకార (భవిష్యత్కాల) ఉత్తమ పురుష బహువచన పరస్మైపద రూపం — 'సర్వే వయమ్' (మనుమందరము) అనే కర్తకు అనుగుణంగా 'మనం ఉంటాము' అనే అర్థాన్ని ఇస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person singular present tense verb.",
+        "te": "ప్రథమ పురుష ఏకవచన వర్తమానకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Past tense verb meaning 'we existed in the past'.",
+        "te": "భూతకాలంలో 'మనం ఉంటిమి' అనే రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb form.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Bhaviṣyāmaḥ' is the 1st person plural Lṛṭ-lakāra (future tense) of root 'bhū' (bhaviṣyati, bhaviṣyataḥ, bhaviṣyanti ... bhaviṣyāmaḥ). Combined with 'na ca eva na', it translates to 'nor indeed shall we cease to exist'. — Bhagavad Gita (2.12)",
+      "te": "'భవిష్యామః' అనేది 'భూ' ధాతువు యొక్క లృట్ లకార (భవిష్యత్కాల) ఉత్తమ పురుష బహువచన రూపం. 'న చైవ న భవిష్యామః సర్వే వయమ్' అనగా 'మనమందరం ఇకముందు లేకుండా పోము (ఖచ్చితంగా ఉంటాము)'. — భగవద్గీత (2.12)"
+    }
+  },
+  {
+    "id": "bg-2-12-q6",
+    "verse": { "c": 2, "s": 12 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'tvevāhaṃ' and 'naiva' in verse 2.12:",
+      "te": "2.12 శ్లోకంలోని 'త్వేవాహమ్' మరియు 'నైవ' అనే పదాలను విడదీసి సంధి స్వరూపాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Tu + eva -> tveva (Yan Sandhi: 'u' -> 'v'); tveva + aham -> tvevāham (Savarna-dirgha Sandhi: a + a -> ā); na + eva -> naiva (Vṛddhi Sandhi: a + e -> ai).",
+        "te": "తు + ఏవ -> త్వేవ (యణాదేశ సంధి: 'ఉ' కారం 'వ్' గా మారినది); త్వేవ + అహమ్ -> త్వేవాహమ్ (సవర్ణదీర్ఘ సంధి: అ + అ -> ఆ); న + ఏవ -> నైవ (వృద్ధి సంధి: అ + ఏ -> ఐ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Tva + eva -> tveva; na + iva -> naiva",
+        "te": "త్వ + ఏవ; న + ఇవ",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Tvai + eva -> tveva; no + eva -> naiva",
+        "te": "త్వై + ఏవ; నో + ఏవ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Tvam + eva -> tveva; nai + va -> naiva",
+        "te": "త్వమ్ + ఏవ; నై + వ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Tu' (indeed) + 'eva' (only) = 'tveva' (Yan Sandhi where 'u' becomes semi-vowel 'v'). 2. 'Tveva' + 'aham' (I) = 'tvevāham' (Savarna-dirgha Sandhi where 'a' + 'a' becomes long 'ā'). 3. 'Na' (not) + 'eva' (certainly) = 'naiva' (Vṛddhi Sandhi where 'a' + 'e' becomes 'ai'). — Bhagavad Gita (2.12)",
+      "te": "1. 'తు' + 'ఏవ' లలో యణాదేశ సంధి జరిగి 'త్వేవ' అయినది. 2. 'త్వేవ' + 'అహమ్' లలో సవర్ణదీర్ఘ సంధి జరిగి 'త్వేవాహమ్' అయినది. 3. 'న' + 'ఏవ' లలో వృద్ధి సంధి జరిగి 'నైవ' అయినది. — భగవద్గీత (2.12)"
+    }
+  }
+]

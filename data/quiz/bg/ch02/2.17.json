@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-17-q1",
+    "verse": { "c": 2, "s": 17 },
+    "concept": ["Verse Meaning & The Imperishable Consciousness"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.17?\n\n“avināśi tu tadviddhi yena sarvamidaṃ tatam | vināśamavyayasyāsya na kaścit kartumarhati”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అవినాశి తు తద్విద్ధి యేన సర్వమిదం తతమ్ | వినాశమవ్యయస్యాస్య న కశ్చిత్ కర్తుమర్హతి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Know That to be imperishable by which all this universe is pervaded. No one is capable of bringing about the destruction of this imperishable Reality.",
+        "te": "శ్రీభగవానుడు పలికెను — దేనిచేతనైతే ఈ సమస్త విశ్వము వ్యాపించబడి ఉన్నదో, దానిని నాశనము లేనిదిగా (అవినాశిగా) తెలుసుకో. నాశనము లేని ఆ అనాది తత్త్వాన్ని (ఆత్మను) నాశనం చేయడానికి ఎవ్వరూ సమర్థులు కారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — The physical body is pervaded by biological life-force which can be preserved indefinitely through yogic practices.",
+        "te": "శ్రీభగవానుడు పలికెను — భౌతిక దేహము జైవిక ప్రాణశక్తిచేత వ్యాపించబడి ఉన్నది, యోగాభ్యాసాల ద్వారా దానిని ఎంతకాలమైనా కాపాడుకోవచ్చు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Only the cosmic form of God pervades the universe, while individual human souls are destroyed at death.",
+        "te": "శ్రీభగవానుడు పలికెను — కేవలం భగవంతుని విశ్వరూపం మాత్రమే జగత్తునంతా వ్యాపించి ఉంటుంది, కానీ వ్యక్తిగత మానవ ఆత్మలు మరణంతో నశిస్తాయి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Weapons created by gods have the power to destroy even the imperishable Brahman.",
+        "te": "శ్రీభగవానుడు పలికెను — దేవతలచే సృష్టించబడిన దివ్యాస్త్రాలకు నాశనం లేని బ్రహ్మాన్ని కూడా ధ్వంసం చేసే శక్తి ఉంటుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Avināśi tu tad viddhi yena sarvam idaṃ tatam / vināśam avyayasyāsya na kaścit kartum arhati.\" Krishna defines the nature of the Supreme Reality (Ātman/Brahman): it is all-pervading ('yena sarvam idaṃ tatam') and inexhaustible ('avyaya'). Being subtle and cause of all, nothing in existence possesses the power to destroy it ('na kaścit kartum arhati'). — Bhagavad Gita (2.17)",
+      "te": "పరమాత్మ/ఆత్మ తత్త్వం యొక్క అవినాశిత్వాన్ని కృష్ణుడు ఇక్కడ నిరూపిస్తున్నాడు. ఏది సమస్త ప్రపంచాన్నీ వ్యాపించి ఉందో ('యేన సర్వమిదం తతమ్') అది నాశనము లేనిది ('అవినాశి'). అవ్యయమైన ఆ ఆత్మను వినాశనం చేసే శక్తి ఈ సృష్టిలో ఏ దానికి లేదు. — భగవద్గీత (2.17)"
+    }
+  },
+  {
+    "id": "bg-2-17-q2",
+    "verse": { "c": 2, "s": 17 },
+    "concept": ["Metaphysical Attribute - Sarvam Idaṃ Tatam"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the phrase 'yena sarvam idaṃ tatam' reveal about the fundamental nature of Ātman/Consciousness in verse 2.17?",
+      "te": "2.17 శ్లోకంలో 'యేన సర్వమిదం తతమ్' అనే పదబంధం ఆత్మ/చైతన్య స్వరూపాన్ని గురించి ఏ ప్రాథమిక సత్యాన్ని వెల్లడిస్తోంది?"
+    },
+    "choices": [
+      {
+        "en": "Consciousness/Ātman is all-pervading (omnipresent) like space; because it pervades everything, it cannot be contained, divided, or cut by any physical object.",
+        "te": "ఆత్మ/చైతన్యము ఆకాశం వలె సమస్తంలోనూ నిండి (సర్వవ్యాపియై) ఉన్నది; అంతటా వ్యాపించి ఉన్న పదార్థాన్ని ఏ భౌతిక వస్తువూ ఛేదించలేదు లేదా నాశనం చేయలేదు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Atman is a localized atomic particle situated inside the physical heart of human beings.",
+        "te": "ఆత్మ అనేది మానవుల భౌతిక హృదయంలో కొలువై ఉండే ఒక పరిమిత అణు ప్రమాణ కణము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The universe creates Consciousness through physical combinations of material elements.",
+        "te": "భౌతిక మూలకాల కలయిక ద్వారా ఈ విశ్వమే చైతన్యాన్ని పుట్టిస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Atman expands and contracts according to the size of the physical body it inhabits.",
+        "te": "ఆత్మ తాను ప్రవేశించే భౌతిక శరీరం పరిమాణాన్ని బట్టి సాగుతూ, కుంచుకుపోతూ ఉంటుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yena' (by which) + 'sarvam idam' (all this universe) + 'tatam' (is pervaded/woven). In Vedantic logic, the pervading entity (Pervader/Consciousness) is subtler and more real than the pervaded world of matter. A subtle pervader cannot be destroyed by the gross entities it enlivens. — Bhagavad Gita (2.17)",
+      "te": "'యేన' (దేనిచేత) + 'సర్వమ్ ఇదమ్' (ఈ సమస్తమూ) + 'తతమ్' (అల్లుబడి/వ్యాపించి ఉన్నదో). వ్యాపకమైన పదార్థం (ఆత్మ) వ్యాప్యమైన పదార్థం (ప్రపంచం) కంటే అత్యంత సూక్ష్మమైనది. సూక్ష్మమైన చైతన్యాన్ని స్థూలమైన భౌతిక పదార్థాలు ఏవీ నాశనం చేయలేవు. — భగవద్గీత (2.17)"
+    }
+  },
+  {
+    "id": "bg-2-17-q3",
+    "verse": { "c": 2, "s": 17 },
+    "concept": ["Absolute Indestructibility - Avyaya"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why is the term 'Avyaya' used for the Self in verse 2.17, and what does it mean?",
+      "te": "2.17 శ్లోకంలో ఆత్మను వర్ణించడానికి 'అవ్యయ' అనే పదాన్ని ఎందుకు ఉపయోగించారు, దాని ప్రత్యేక అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Avyaya = Inexhaustible / immutable / free from decay or expenditure; it means the Self undergoes no loss of parts, reduction of strength, or degradation of nature over time.",
+        "te": "అవ్యయ = నశించనిది / తగ్గుదల లేనిది / క్షయము లేనిది; కాలక్రమేణా ఆత్మ తన అవయవాలను గానీ, శక్తిని గానీ, సహజ స్వభావాన్ని గానీ ఏ మాత్రమూ కోల్పోదు అని భావం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Avyaya = Invisible to physical eyes during daytime.",
+        "te": "అవ్యయ = పగటిపూట భౌతిక కళ్లకు కనిపించనిది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avyaya = Possessing unlimited material wealth.",
+        "te": "అవ్యయ = అపరిమితమైన భౌతిక సంపద గలది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avyaya = Bound by the laws of karma and destiny.",
+        "te": "అవ్యయ = కర్మ నియమాలకు, విధికి కట్టుబడి ఉండేది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Na vyeti iti avyayam'—that which undergoes no 'vyaya' (loss, diminution, or change). Matter continually decays ('vyaya'), but Consciousness/Self is 'avyaya'—changeless and indestructible in its essence. — Bhagavad Gita (2.17)",
+      "te": "'న వ్యేతి ఇతి అవ్యయమ్' — ఏ దానికి వ్యయము (తగ్గుదల, క్షయము, వికారము) ఉండదో అది అవ్యయము. భౌతిక పదార్థాలు నిరంతరం క్షీణిస్తాయి, కానీ చైతన్య ఆత్మ ఎన్నటికీ క్షీణించని అవ్యయ తత్త్వము. — భగవద్గీత (2.17)"
+    }
+  },
+  {
+    "id": "bg-2-17-q4",
+    "verse": { "c": 2, "s": 17 },
+    "concept": ["Sanskrit Vocabulary - Imperishable & Pervaded"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'avināśi' and 'tatam' mean in verse 2.17?",
+      "te": "2.17 శ్లోకంలోని 'అవినాశి' మరియు 'తతమ్' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Avināśi = Imperishable / indestructible; Tatam = Pervaded / stretched / woven across.",
+        "te": "అవినాశి = నాశనము లేనిది / అవ్యయమైనది; తతమ్ = నిండియున్నది / వ్యాపించియున్నది / అల్లుబడియున్నది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Avināśi = Unborn body; Tatam = Created recently.",
+        "te": "అవినాశి = పుట్టని దేహము; తతమ్ = ఈ మధ్యనే సృష్టించబడినది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avināśi = Mighty warrior; Tatam = Defeated in battle.",
+        "te": "అవినాశి = పరాక్రమవంతమైన యోధుడు; తతమ్ = యుద్ధంలో ఓడిపోయినది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avināśi = Celestial weapon; Tatam = Broken into pieces.",
+        "te": "అవినాశి = దివ్యాస్త్రము; తతమ్ = ముక్కలైపోయినది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Na vināśaḥ asya astి iti' = 'Avināśi' (that which has no destruction). 'Tatam' is the past passive participle of root 'tan' (to stretch/pervade), meaning 'pervaded / spread throughout'. — Bhagavad Gita (2.17)",
+      "te": "'వినాశము లేనిది' కాబట్టి 'అవినాశి'. 'తన్' (వ్యాపించు/సాగు) ధాతువు నుండి వచ్చిన 'తతమ్' అనగా సమస్తంలోనూ సంపూర్ణంగా వ్యాపించి ఉన్నది. — భగవద్గీత (2.17)"
+    }
+  },
+  {
+    "id": "bg-2-17-q5",
+    "verse": { "c": 2, "s": 17 },
+    "concept": ["Sanskrit Grammar - Modal Verb 'Kartum Arhati'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form and meaning of 'kartum arhati' in verse 2.17:",
+      "te": "2.17 శ్లోకంలోని 'కర్తుమర్హతి' అనే పదబంధం యొక్క వ్యాకరణ విశ్లేషణ మరియు భావం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Infinitive 'kartum' (from root 'kṛ' = to do) + 3rd person singular present tense 'arhati' (from root 'arh' = to be able / capable), with negation 'na kaścit' = 'no one is capable of bringing about [destruction]'.",
+        "te": "'కృ' ధాతువు యొక్క ఇన్ఫినిటివ్ రూపం 'కర్తుమ్' (చేయుటకు) + 'అర్హ్' ధాతువు లట్ లకార ప్రథమ పురుష ఏకవచనం 'అర్హతి' (సమర్థుడవును). 'న కశ్చిత్ కర్తుమర్హతి' అనగా 'ఎవ్వరూ నాశనం చేయడానికి సమర్థులు కారు'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Past tense verb meaning 'he destroyed in the past'.",
+        "te": "భూతకాలంలో 'అతడు నాశనం చేశాడు' అనే రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Future tense verb meaning 'no one will fight'.",
+        "te": "భవిష్యత్కాలంలో 'ఎవ్వరూ పోరాడరు' అనే రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb form.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kartum' is the Tumun-ending infinitive of root 'kṛ' ('to cause / to do'). 'Arhati' is 3rd person singular present indicative of 'arh' ('to be capable / fit'). Combined with 'na kaścit' (no one at all): 'na kaścit vināśaṃ kartum arhati' = 'no one is able to effect its destruction'. — Bhagavad Gita (2.17)",
+      "te": "'కర్తుమ్' (చేయుటకు - తుమున్నంతం) + 'అర్హతి' (తగియుండును/సమర్థుడవును). 'న కశ్చిత్' అనే నిషేధార్థక పదంతో చేరి 'దాని వినాశనాన్ని కలిగించడానికి ఎవ్వరికీ సాధ్యపడదు' అని స్పష్టపరిచింది. — భగవద్గీత (2.17)"
+    }
+  },
+  {
+    "id": "bg-2-17-q6",
+    "verse": { "c": 2, "s": 17 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'sarvamidaṃ' and 'vināśamavyayasyāsya' in verse 2.17:",
+      "te": "2.17 శ్లోకంలోని 'సర్వమిదమ్' మరియు 'వినాశమవ్యయస్యాస్య' అనే పదాలను విడదీసి సంధి స్వరూపాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Sarvam + idam -> sarvamidaṃ (consonant 'm' joins 'i'); vināśam + avyayasya + asya -> vināśamavyayasyāsya (combining 'm' + 'a' -> 'ma', and Savarna-dirgha Sandhi: avyayasya + asya -> avyayasyāsya).",
+        "te": "సర్వమ్ + ఇదమ్ -> సర్వమిదమ్ (పొల్లు 'మ్' అచ్చు 'ఇ' తో కలయుట); వినాశమ్ + అవ్యయస్య + అస్య -> వినాశమవ్యయస్యాస్య ('మ్' + 'అ' కలయుట, మరియు 'అవ్యయస్య' + 'అస్య' లలో సవర్ణదీర్ఘ సంధి: అ + అ -> ఆ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sarva + midam; vināśama + vyayasya + sya",
+        "te": "సర్వ + మిదమ్; వినాశమ + వ్యయస్య +స్య",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sarvan + idam; vināśān + avyayasyāsya",
+        "te": "సర్వన్ + ఇదమ్; వినాశాన్ + అవ్యయస్యాస్య",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sarvaḥ + idam; vināśaḥ + avyayasyāsya",
+        "te": "సర్వః + ఇదమ్; వినాశః + అవ్యయస్యాస్య",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Sarvam' (accusative neuter singular = all) + 'idam' (this) = 'sarvamidam'. 2. 'Vināśam' (destruction) + 'avyayasya' (of the imperishable) = 'vināśamavyayasya'. 3. 'Avyayasya' + 'asya' (of this) = 'avyayasyāsya' via Savarna-dirgha Sandhi ('a' + 'a' -> 'ā'). Combined: 'vināśamavyayasyāsya'. — Bhagavad Gita (2.17)",
+      "te": "1. 'సర్వమ్' + 'ఇదమ్' = 'సర్వమిదమ్'. 2. 'వినాశమ్' + 'అవ్యయస్య' = 'వినాశమవ్యయస్య'. 3. 'అవ్యయస్య' + 'అస్య' లలో 'అ' + 'అ' కలయికతో సవర్ణదీర్ఘ సంధి జరిగి 'అవ్యయస్యాస్య' అయినది. సమగ్రంగా 'వినాశమవ్యయస్యాస్య'. — భగవద్గీత (2.17)"
+    }
+  }
+]

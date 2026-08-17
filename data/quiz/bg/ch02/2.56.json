@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-56-q1",
+    "verse": { "c": 2, "s": 56 },
+    "concept": ["Verse Meaning & The Three Emotional Pillars of Sthitadhīḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.56?\n\n“duḥkheṣvanudvignamanāḥ sukheṣu vigataspṛhaḥ | vītarāgabhayakrodhaḥ sthitadhīrmunirucyate”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“దుఃఖేష్వనుద్విగ్నమనాః సుఖేషు విగతస్పృహః | వీతరాగభయక్రోధః స్థితధీర్మునిరుచ్యతే”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — One whose mind is unagitated amidst sorrows, who is free from longing amidst pleasures, and from whom attachment, fear, and anger have vanished, is called a sage of steady wisdom (Sthitadhīḥ Muni).",
+        "te": "శ్రీభగవానుడు పలికెను — దుఃఖాలు ప్రాప్తించినప్పుడు మనస్సునందు ఏమాత్రం కలత చెందనివాడు, సుఖాలు కలిగినప్పుడు అనుభవింపవలెననే ఆకాంక్ష (తృష్ణ) లేనివాడు, మరియు రాగము (అనురాగం/మోహం), భయము, క్రోధము (కోపం) ల నుండి సంపూర్ణంగా విముక్తుడైనవాడు 'స్థితధీ ముని' (స్థిరమైన వివేక బుద్ధి గల ముని) అని పిలువబడును.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — A sage of steady wisdom is one who grieves intensely during sorrows and celebrates lavishly during worldly pleasures to express natural emotions.",
+        "te": "శ్రీభగవానుడు పలికెను — దుఃఖాలు వచ్చినప్పుడు తీవ్రంగా విలపించడం, లౌకిక సుఖాలు లభించినప్పుడు ఆడంబరంగా వేడుక చేసుకోవడమే స్థితధీ ముని యొక్క నైజం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Attachment, fear, and anger are useful qualities that a warrior must cultivate to defeat enemies on the battlefield.",
+        "te": "శ్రీభగవానుడు పలికెను — రణరంగంలో శత్రువులను జయించడానికి యోధుడు మోహం, భయం, కోపం అనే గుణాలను పెంచుకోవాలి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — A person becomes a Muni only after fleeing to the forest to avoid all physical contact with other human beings.",
+        "te": "శ్రీభగవానుడు పలికెను — ఇతరులతో ఎలాంటి సంబంధమూ లేకుండా అరణ్యాలకు పారిపోయినప్పుడు మాత్రమే మనిషి మునిగా మారుతాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Duḥkheṣv anudvigna-manāḥ sukheṣu vigata-spṛhaḥ / vīta-rāga-bhaya-krodhaḥ sthitadhīr munir ucyate.\" Krishna defines the emotional mastery of a sage ('munih'): 1. 'Anudvigna-manāḥ' (unshaken by painful experiences), 2. 'Vigata-spṛhaḥ' (free from craving for worldly pleasures), 3. 'Vīta-rāga-bhaya-krodhaḥ' (totally liberated from attachment, fear, and anger). Such a person is termed a 'Sthitadhīḥ' (one of steady intellect). — Bhagavad Gita (2.56)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ 'స్థితధీ ముని' యొక్క అంతరంగ మానసిక సమతను వివరిస్తున్నాడు: 1. దుఃఖాలు ఎదురైనప్పుడు చిత్త విక్షేపం చెందక పోవడం ('అనుద్విగ్నమనాః'), 2. సుఖభోగాలు సిద్ధించినప్పుడు తృష్ణ లేదా ఆసక్తి లేకపోవడం ('విగతస్పృహః'), 3. రాగము (మమకారము), భయము, క్రోధము (కోపము) ల నుండి విడుదల పొందడం ('వీతరాగభయక్రోధః'). ఈ లక్షణాలు ఉన్నవాడే స్థిరబుద్ధి గల ముని. — భగవద్గీత (2.56)"
+    }
+  },
+  {
+    "id": "bg-2-56-q2",
+    "verse": { "c": 2, "s": 56 },
+    "concept": ["Psychological Triad - Vīta-rāga-bhaya-krodhaḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "How are the three negative emotions—Rāga (attachment), Bhaya (fear), and Krodha (anger)—psychologically interconnected in verse 2.56?",
+      "te": "2.56 శ్లోకంలోని రాగము (అటాచ్‌మెంట్), భయము (ఫియర్), మరియు క్రోధము (యాంగర్) అనే మూడు ప్రతికూల భావనలు మానసికంగా ఒకదానితో ఒకటి ఎలా ముడిపడి ఉన్నాయి?"
+    },
+    "choices": [
+      {
+        "en": "Rāga (attachment to objects/persons) generates Bhaya (fear of losing them) when threatened, and Krodha (anger) when an obstacle prevents their attainment; freeing oneself from Rāga automatically eliminates Bhaya and Krodha.",
+        "te": "రాగము (వస్తువుల/వ్యక్తుల పట్ల మోహం) అనేది అవి ఎక్కడ దూరమవుతాయోననే భయానికి ('భయమ్'), లేదా వాటి ప్రాప్తికి అడ్డంకి కలిగినప్పుడు కలిగే ఆగ్రహానికి ('క్రోధమ్') మూలం; రాగాన్ని జయించినప్పుడు భయక్రోధాలు స్వయంగా నశిస్తాయి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Bhaya produces Rāga, which in turn causes physical fever in the body.",
+        "te": "భయము నుండి రాగము పుడుతుంది, తద్వారా శరీరంలో జ్వరం ఏర్పడుతుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Krodha is positive, while Rāga and Bhaya are neutral states of meditation.",
+        "te": "క్రోధము అనేది మంచిది, రాగభయాలు ధ్యానంలో సాధారణ స్థితులు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "They are unrelated emotions that occur in three completely different lifetimes.",
+        "te": "అవి ఒకదానితో ఒకటి సంబంధం లేకుండా మూడు వేర్వేరు జన్మలలో సంభవించే భావనలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedantic psychology, Rāga (attachment/desire) is the parent emotion. When an attached object is threatened, Bhaya (fear) arises. When a person or circumstance blocks the fulfillment of attachment, Krodha (anger) arises. A Sthitadhīḥ is 'vīta' (gone beyond/free from) this entire causal chain. — Bhagavad Gita (2.56)",
+      "te": "వేదాంతంలో సమస్త వికారాలకు మోహమే (రాగమే) మూలం. ప్రేమించిన/కోరిన వస్తువుకి ముప్పు వస్తే భయమూ, దానికి అవరోధం కలిగిస్తే క్రోధమూ కలుగుతాయి. ఈ రెండింటికీ మూలమైన రాగాన్ని వదిలించుకున్నవాడే 'వీత-రాగ-భయ-క్రోధః' (ఈ మూడింటినీ అధిగమించినవాడు). — భగవద్గీత (2.56)"
+    }
+  },
+  {
+    "id": "bg-2-56-q3",
+    "verse": { "c": 2, "s": 56 },
+    "concept": ["Equanimity in Dualities - Anudvigna-manāḥ & Vigata-spṛhaḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the key functional difference between being 'Anudvigna-manāḥ' in sorrows and 'Vigata-spṛhaḥ' in pleasures in verse 2.56?",
+      "te": "2.56 శ్లోకంలో దుఃఖాలలో 'అనుద్విగ్నమనాః' గా ఉండటానికి, సుఖాలలో 'విగతస్పృహః' గా ఉండటానికి మధ్య గల వ్యత్యాసం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Anudvigna-manāḥ = Refers to passive endurance without mental anxiety during inevitable painful experiences; Vigata-spṛhaḥ = Refers to active non-craving/non-addiction when agreeable pleasures arrive.",
+        "te": "అనుద్విగ్నమనాః = అనివార్యంగా దుఃఖాలు వచ్చినప్పుడు కలత/తాపత్రయం చెందకుండా స్థిరంగా ఉండటం; విగతస్పృహః = అనుకూల సుఖభోగాలు అందుబాటులోకి వచ్చినప్పుడు వాటి పట్ల తృష్ణ (క్రేవింగ్) లేదా దాస్యభావం లేకపోవడం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Anudvigna-manāḥ means escaping physical pain; Vigata-spṛhaḥ means eating simple food.",
+        "te": "అనుద్విగ్నమనాః అనగా శారీరక బాధ నుండి తప్పించుకోవడం; విగతస్పృహః అనగా సాత్వికాహారాన్ని తినడం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Anudvigna-manāḥ applies only to ascetics; Vigata-spṛhaḥ applies only to householders.",
+        "te": "అనుద్విగ్నమనాః కేవలం సన్యాసులకు మాత్రమే వర్తిస్తుంది; విగతస్పృహః కేవలం గృహస్థులకు మాత్రమే వర్తిస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Anudvigna-manāḥ means rejecting scriptures; Vigata-spṛhaḥ means engaging in war.",
+        "te": "అనుద్విగ్నమనాః అనగా శాస్త్రాలను నిరాకరించడం; విగతస్పృహః అనగా యుద్ధంలో పాల్గొనడం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Pārabdha karma brings both pain ('duḥkha') and pleasure ('sukha'). 'Anudvigna-manāḥ' ensures the mind does not sink into depression or agony during pain. 'Vigata-spṛhaḥ' ensures the mind does not get intoxicated or greedy during pleasure. Together, they form complete mental poise. — Bhagavad Gita (2.56)",
+      "te": "ప్రారబ్ధ కర్మ వల్ల అనివార్యంగా దుఃఖాలు, సుఖాలు వస్తూ ఉంటాయి. దుఃఖం వచ్చినప్పుడు గుండె లబోదిబోమని విలపించకపోవడం 'అనుద్విగ్నమనాః'; సుఖం వచ్చినప్పుడు గర్వంతో మైమరచిపోకపోవడం 'విగతస్పృహః'. ఈ రెండూ కలిస్తేనే పరిపూర్ణ చిత్తసమత. — భగవద్గీత (2.56)"
+    }
+  },
+  {
+    "id": "bg-2-56-q4",
+    "verse": { "c": 2, "s": 56 },
+    "concept": ["Sanskrit Vocabulary - Unagitated, Free from Craving, Sage"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'anudvigna', 'spṛhā', and 'muniḥ' mean in verse 2.56?",
+      "te": "2.56 శ్లోకంలోని 'అనుద్విగ్న', 'స్పృహా', మరియు 'మునిః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Anudvigna = Unagitated / undisturbed / calm; Spṛhā = Eager desire / craving / longing; Muniḥ = Silent introspective sage / contemplative seeker.",
+        "te": "అనుద్విగ్న = కలత చెందని / అశాంతి లేని; స్పృహా = ఆకాంక్ష / తృష్ణ / కోరిక; మునిః = నిరంతరం మననము/ఆత్మ విచారణ చేసే జ్ఞాని/ముని.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Anudvigna = Angry; Spṛhā = Wealth; Muniḥ = Chariot driver.",
+        "te": "అనుద్విగ్న = కోపంతో ఉన్న; స్పృహా = సంపద; మునిః = రథసారథి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Anudvigna = Sleepy; Spṛhā = Weapon; Muniḥ = King.",
+        "te": "అనుద్విగ్న = నిద్రమత్తులో ఉన్న; స్పృహా = ఆయుధము; మునిః = రాజు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Anudvigna = Victorious; Spṛhā = Fear; Muniḥ = Enemy.",
+        "te": "అనుద్విగ్న = విజయం సాధించిన; స్పృహా = భయము; మునిః = శత్రువు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'An-' (not) + 'udvigna' (agitated/distressed). 'Spṛhā' is intense craving or yearning for enjoyment. 'Muni' derives from 'manana' (inward reflection/contemplation) or 'mauna' (silence)—one who constantly reflects on Truth. — Bhagavad Gita (2.56)",
+      "te": "'అన్' (లేని) + 'ఉద్విగ్న' (తాపత్రయం/బాధ). 'స్పృహా' అనగా భోగాలను పొంది అనుభవించాలనే తీవ్రమైన ఆరాటం. 'మౌనము' లేదా 'మననము' (ఆత్మ విచారణ) చేసేవాడే 'ముని'. — భగవద్గీత (2.56)"
+    }
+  },
+  {
+    "id": "bg-2-56-q5",
+    "verse": { "c": 2, "s": 56 },
+    "concept": ["Sanskrit Grammar - Bahuvrīhi Compounds & Passive Verb 'Ucyate'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical compound structures of 'anudvigna-manāḥ' and 'vīta-rāga-bhaya-krodhaḥ' in verse 2.56:",
+      "te": "2.56 శ్లోకంలోని 'అనుద్విగ్నమనాః' మరియు 'వీతరాగభయక్రోధః' అనే సమాస పదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Both are Bahuvrīhi (Attributive) Bahuvrīhi Compounds modifying the subject 'muniḥ': 'anudvignaṃ manaḥ yasya saḥ' (he whose mind is unagitated) and 'vītāḥ rāgaḥ bhayaṃ krodhaḥ yasmāt saḥ' (he from whom attachment, fear, and anger have departed).",
+        "te": "ఈ రెండూ 'మునిః' అనే నామవాచకానికి విశేషణాలుగా ఉన్న బహువ్రీహి సమాసాలు: 'అనుద్విగ్నం మనః యస్య సః' = అనుద్విగ్నమనాః (ఎవని మనస్సు కలత చెందదో అతడు); 'వీతాః రాగః భయం క్రోధః యస్మాత్ సః' = వీతరాగభయక్రోధః (ఎవని నుండి రాగ భయ క్రోధాలు తొలగిపోయాయో అతడు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Tatpuruṣa compounds modifying 'duḥkheṣu'.",
+        "te": "'దుఃఖేషు' అనే పదానికి విశేషణమైన తత్పురుష సమాసాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Dvandva compounds acting as verbs.",
+        "te": "క్రియలుగా పనిచేసే ద్వంద్వ సమాసాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avyayībhāva adverbs modifying 'ucyate'.",
+        "te": "'ఉచ్యతే' అనే క్రియను వర్ణించే అవ్యయీభావ సమాసాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Bahuvrīhi compounds point to a third entity possessing the described qualities. 'Anudvigna-manāḥ' (Nominative Singular Masculine) = one whose mind is undisturbed. 'Vīta-rāga-bhaya-krodhaḥ' (Nominative Singular Masculine) = one who has cast away attachment, fear, and anger. Both describe the 'Sthitadhīḥ Muniḥ'. — Bhagavad Gita (2.56)",
+      "te": "బహువ్రీహి సమాసం అనేది అన్యపద ప్రధానమైనది. 'అనుద్విగ్నమనాః' అనగా ప్రశాంత మనస్సు కల వ్యక్తి (ముని). 'వీతరాగభయక్రోధః' అనగా రాగభయక్రోధాలు నశించిన వ్యక్తి (ముని). ఇవి రెండూ స్థితధీ ముని యొక్క అంతరంగ స్వరూపాన్ని వర్ణిస్తున్నాయి. — భగవద్గీత (2.56)"
+    }
+  },
+  {
+    "id": "bg-2-56-q6",
+    "verse": { "c": 2, "s": 56 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'duḥkheṣvanudvigna' and 'sthitadhīrmunirucyate' in verse 2.56:",
+      "te": "2.56 శ్లోకంలోని 'దుఃఖేష్వనుద్విగ్న' మరియు 'స్థితధీర్మునిరుచ్యతే' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Duḥkheṣu + anudvigna -> duḥkheṣv anudvigna (Yan Sandhi: 'u' before 'a' -> 'v'); sthitadhīḥ + muniḥ -> sthitadhīr muniḥ (Visarga Rutva Sandhi: visarga after 'ī' -> 'r'); muniḥ + ucyate -> munir ucyate (Visarga Rutva Sandhi: visarga after 'i' -> 'r').",
+        "te": "దుఃఖేషు + అనుద్విగ్న -> దుఃఖేష్వనుద్విగ్న (యణాదేశ సంధి: 'ఉ' -> 'వ్'); స్థితధీః + మునిః -> స్థితధీర్మునిః (విసర్గ రుత్త్వ సంధి: 'ఈ' తర్వాత విసర్గ 'ర్' గా మారినది); మునిః + ఉచ్యతే -> మునిరుచ్యతే (విసర్గ రుత్త్వ సంధి: 'ఇ' తర్వాత విసర్గ 'ర్' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Duḥkheṣa + anudvigna -> duḥkheṣānudvigna; sthitadhī + muniḥ -> sthitadhīmuniḥ",
+        "te": "దుఃఖేష + అనుద్విగ్న -> దుఃఖేషానుద్విగ్న; స్థితధీ + మునిః -> స్థితధీమునిః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Duḥkheṣum + anudvigna -> duḥkheṣumanudvigna; sthitadhīn + muniḥ -> sthitadhīnmuniḥ",
+        "te": "దుఃఖేషుమ్ + అనుద్విగ్న -> దుఃఖేషుమనుద్విగ్న; స్థితధీన్ + మునిః -> స్థితధీన్మునిః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Duḥkheṣe + anudvigna -> duḥkheṣe'nudvigna; sthitadhīḥ + muniḥ -> sthitadhīhmuniḥ",
+        "te": "దుఃఖేషే + అనుద్విగ్న -> దుఃఖేషేఽనుద్విగ్న; స్థితధీః + మునిః -> స్థితధీహమునిః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Duḥkheṣu' (in sorrows) + 'anudvigna': 'u' -> 'v' via Yan Sandhi -> 'duḥkheṣv anudvigna'. 2. 'Sthitadhīḥ' + 'muniḥ': visarga after 'ī' transforms to 'r' before voiced consonant 'm' -> 'sthitadhīr muniḥ'. 3. 'Muniḥ' + 'ucyate': visarga after 'i' transforms to 'r' before vowel 'u' -> 'munir ucyate'. — Bhagavad Gita (2.56)",
+      "te": "1. 'దుఃఖేషు' + 'అనుద్విగ్న' లలో 'ఉ' కారానికి 'వ్' వచ్చి (యణాదేశ సంధి) 'దుఃఖేష్వనుద్విగ్న' అయినది. 2. 'స్థితధీః' + 'మునిః' లలో విసర్గ 'ర్' గా మారి (విసర్గ రుత్త్వ సంధి) 'స్థితధీర్మునిః' అయినది. 3. 'మునిః' + 'ఉచ్యతే' లలో విసర్గ 'ర్' గా మారి 'మునిరుచ్యతే' అని సిద్ధించింది. — భగవద్గీత (2.56)"
+    }
+  }
+]

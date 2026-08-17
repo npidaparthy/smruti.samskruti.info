@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-30-q1",
+    "verse": { "c": 2, "s": 30 },
+    "concept": ["Verse Meaning & Grand Conclusion of Atma-Tattva"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.30?\n\n“dehī nityamavadhyo'yaṃ dehe sarvasya bhārata | tasmātsarvāṇi bhūtāni na tvaṃ śocitumarhasi”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“దేహీ నిత్యమవధ్యోఽయం దేహే సర్వస్య భారత | తస్మాత్సర్వాణి భూతాని న త్వం శోచితుమర్హసి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — O descendant of Bharata, this embodied Soul dwelling in the body of everyone is eternally indestructible. Therefore, you ought not to grieve for any living being.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ భారతా (అర్జునా)! అందరి శరీరాలలోనూ నివసించే ఈ దేహి (ఆత్మ) ఎల్లప్పుడూ చంపబడలేనిది (నాశనం లేనిది). కావున సమస్త ప్రాణుల కోసం నీవు విచారించకూడదు (శోకించతగవు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — The soul is indestructible only in holy kings, whereas common beings must be grieved for when they die.",
+        "te": "శ్రీభగవానుడు పలికెను — కేవలం పవిత్రులైన రాజులలో మాత్రమే ఆత్మ నాశనం లేనిది, కానీ సామాన్య ప్రాణులు మరణించినప్పుడు వారి కోసం తప్పక శోకించాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — By completing religious rites for all creatures, a warrior ensures that their bodies become invulnerable to weapons.",
+        "te": "శ్రీభగవానుడు పలికెను — సమస్త ప్రాణుల కోసం పవిత్ర కర్మలను నిర్వర్తించడం ద్వారా యోధుడు వారి శరీరాలను ఆయుధాలు ఛేదించలేనివిగా మారుస్తాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Grieving for enemies is permitted during war, but grieving for relatives is a sin that must be avoided.",
+        "te": "శ్రీభగవానుడు పలికెను — యుద్ధ సమయంలో శత్రువుల కోసం విలపించడం ధర్మసమ్మతమే, కానీ బంధువుల కోసం విలపించడం పాపము కావున వర్జించాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Dehī nityam avadhyo 'yaṃ dehe sarvasya bhārata / tasmāt sarvāṇi bhūtāni na tvaṃ śocitum arhasi.\" Verse 2.30 serves as the formal summary and conclusion of Krishna's teaching on Atma-Jnana (verses 11-30). Because the indwelling Soul ('dehī') in all bodies ('sarvasya dehe') is forever inviolable ('nityam avadhyaḥ'), grief for any entity ('sarvāṇi bhūtāni') is logically and spiritually unfounded. — Bhagavad Gita (2.30)",
+      "te": "11వ శ్లోకం నుండి ప్రారంభమైన ఆత్మజ్ఞాన బోధకు శ్రీకృష్ణుడు ఈ 30వ శ్లోకంతో ముగింపు ఇచ్చాడు. సమస్త ప్రాణుల దేహాలలో ఉన్న దేహియైన ఆత్మ ఎన్నటికీ చంపబడలేనిది ('నిత్యమ్ అవధ్యః') కాబట్టి ఏ ప్రాణి కోసమూ ('సర్వాణి భూతాని') విచారించకూడదని పరమోత్తమ నిర్ణయం చేశాడు. — భగవద్గీత (2.30)"
+    }
+  },
+  {
+    "id": "bg-2-30-q2",
+    "verse": { "c": 2, "s": 30 },
+    "concept": ["Universal Scope - Dehe Sarvasya & Sarvāṇi Bhūtāni"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "How does verse 2.30 universalize the teaching of the immortal Soul beyond just Bhishma and Drona?",
+      "te": "2.30 శ్లోకంలో కేవలం భీష్మ ద్రోణులకే కాకుండా అమరమైన ఆత్మతత్త్వాన్ని సమస్త జగత్తుకు ఏ విధంగా శ్రీకృష్ణుడు అన్వయించాడు?"
+    },
+    "choices": [
+      {
+        "en": "By using the universal terms 'dehe sarvasya' (in the body of EVERYONE) and 'sarvāṇi bhūtāni' (ALL living beings), extending the principle of soul-indestructibility to every creature without exception.",
+        "te": "'దేహే సర్వస్య' (అందరి దేహము నందు) మరియు 'సర్వాణి భూతాని' (సమస్త ప్రాణులు) అనే వ్యాపక పదాలను వాడటం ద్వారా... మినహాయింపు లేకుండా సకల జీవులకు ఆత్మ అమరత్వ నియమాన్ని అన్వయించడం ద్వారా.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "By listing all the royal dynasties participating in the Kurukshetra war individually.",
+        "te": "కురుక్షేత్ర యుద్ధంలో పాల్గొంటున్న సమస్త రాజ వంశాలను విడివిడిగా జాబితా చేయడం ద్వారా.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "By declaring that only warriors fighting on the Pandava side possess immortal souls.",
+        "te": "కేవలం పాండవుల పక్షాన పోరాడే యోధులకు మాత్రమే శాశ్వత ఆత్మలు ఉన్నాయని ప్రకటించడం ద్వారా.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "By promising that physical bodies of all fallen soldiers will be resurrected.",
+        "te": "మరణించిన సైనికుల భౌతిక శరీరాలన్నీ మళ్లీ పునరుజ్జీవింపబడతాయని వాగ్దానం చేయడం ద్వారా.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna's initial grief in Chapter 1 was restricted to his relatives and revered elders. In 2.30, Krishna expands the philosophical horizon: the Self is inviolable not just in saintly gurus or loved ones, but in 'sarvasya dehe' (all bodies)—friends, foes, humans, animals, and all beings ('sarvāṇi bhūtāni'). — Bhagavad Gita (2.30)",
+      "te": "మొదటి అధ్యాయంలో అర్జునుని శోకం కేవలం తన బంధువులకు, గురువులకు మాత్రమే పరిమితమైంది. కృష్ణుడు 2.30 శ్లోకంలో ఆ జ్ఞాన పరిధిని విస్తరించాడు: ఆత్మ కేవలం శ్రేయోభిలాషులలోనే కాదు, 'దేహే సర్వస్య' — శత్రువులు, మిత్రులు, సమస్త ప్రాణులలోనూ ('సర్వాణి భూతాని') అమరమైనదే అని నిరూపించాడు. — భగవద్గీత (2.30)"
+    }
+  },
+  {
+    "id": "bg-2-30-q3",
+    "verse": { "c": 2, "s": 30 },
+    "concept": ["Summary Attribute - Avadhyaḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the specific term 'Avadhyaḥ' mean in verse 2.30, and why is it used as the conclusive summary of Ātman?",
+      "te": "2.30 శ్లోకంలో వాడబడిన 'అవధ్యః' అనే ప్రత్యేక పదానికి అర్థం ఏమిటి? ఆత్మ తత్త్వానికి ముగింపు సారాంశంగా ఈ పదాన్ని ఎందుకు ఉపయోగించారు?"
+    },
+    "choices": [
+      {
+        "en": "Avadhyaḥ = Inviolable / incapable of being slain / unslayable; it summarizes all previous terms (acchedya, adāhya, akledya, aśoṣya) into one decisive declaration of absolute invulnerability.",
+        "te": "అవధ్యః = వధించబడనిది / చంపడానికి శక్యము కానిది; అంతకుముందు శ్లోకాలలో చెప్పిన అచ్ఛేద్య, అదాహ్య, అక్లేద్య, అశోష్య అనే విశేషణాలన్నింటినీ ఒకే ఒక్క నిశ్చయాత్మక పదంలో 'వధించ శక్యం కానిది' అని క్రోడీకరించడం జరిగింది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Avadhyaḥ = Invisible to human eyes during battle.",
+        "te": "అవధ్యః = యుద్ధ సమయంలో మానవ కళ్లకు కనిపించనిది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avadhyaḥ = Worthy of worship through rituals.",
+        "te": "అవధ్యః = యజ్ఞాల ద్వారా ఆరాధించడానికి తగినది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avadhyaḥ = Bound to physical rebirth.",
+        "te": "అవధ్యః = భౌతిక పునర్జన్మకు కట్టుబడి ఉండేది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vadhya' means fit/capable of being killed; with negative prefix 'a-', 'A-vadhya' means completely unkillable/inviolable. By declaring 'dehī nityam avadhyaḥ' (the embodied Soul is eternally unslayable), Krishna provides the ultimate logical foundation for concluding 'na tvaṃ śocitum arhasi'. — Bhagavad Gita (2.30)",
+      "te": "'వధ్య' అనగా చంపడానికి వీలైనది; దానికి వ్యతిరేక పదం 'అవధ్యః' (చంపడానికి ఏ రకంగానూ వీలుకానిది). 'దేహీ నిత్యమ్ అవధ్యః' (ఆత్మ ఎల్లప్పుడూ వధించ శక్యం కానిది) అని చెప్పడం ద్వారా శోకించవద్దనే ఆదేశానికి బలమైన తార్కిక ముగింపునిచ్చాడు. — భగవద్గీత (2.30)"
+    }
+  },
+  {
+    "id": "bg-2-30-q4",
+    "verse": { "c": 2, "s": 30 },
+    "concept": ["Sanskrit Vocabulary - The Embodied Soul & All Beings"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit phrases 'dehī' and 'sarvāṇi bhūtāni' mean in verse 2.30?",
+      "te": "2.30 శ్లోకంలోని 'దేహీ' మరియు 'సర్వాణి భూతాని' అనే సంస్కృత పదబంధాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Dehī = The embodied Soul (indweller of the body); Sarvāṇi bhūtāni = All created living beings / all creatures.",
+        "te": "దేహీ = దేహము నందు వసించే ఆత్మ (దేహ స్వామి); సర్వాణి భూతాని = సమస్త ప్రాణులు / సకల జీవరాశి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dehī = Physical body; Sarvāṇi bhūtāni = Five gross elements.",
+        "te": "దేహీ = భౌతిక దేహము; సర్వాణి భూతాని = పంచభూతములు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Dehī = Sovereign king; Sarvāṇi bhūtāni = Enemy soldiers.",
+        "te": "దేహీ = సార్వభౌమ రాజు; సర్వాణి భూతాని = శత్రు సైనికులు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dehī = Mind; Sarvāṇi bhūtāni = Thoughts.",
+        "te": "దేహీ = మనస్సు; సర్వాణి భూతాని = ఆలోచనలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Deha' (body) + possessive suffix '-in' = 'dehī' (the possessor/indweller of the body, i.e., Ātman). 'Sarvāṇi' (all) + 'bhūtāni' (beings/creatures) refers to the totality of sentient existence. — Bhagavad Gita (2.30)",
+      "te": "'దేహ' + 'ఇన్' = దేహి (దేహాన్ని ధరించిన ఆత్మ). 'సర్వాణి' (సమస్తమైన) + 'భూతాని' (ప్రాణులు/జీవులు) అనగా సృష్టిలోని ప్రతీ జీవరాశి అని భావం. — భగవద్గీత (2.30)"
+    }
+  },
+  {
+    "id": "bg-2-30-q5",
+    "verse": { "c": 2, "s": 30 },
+    "concept": ["Sanskrit Grammar - Infinitive 'Śocitum Arhasi'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical construction 'na tvaṃ śocitum arhasi' in verse 2.30:",
+      "te": "2.30 శ్లోకంలోని 'న త్వం శోచితుమర్హసి' అనే వాక్య నిర్మాణం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Subject 'tvam' (2nd person singular pronoun) + Infinitive 'śocitum' (from root 'śuc' = to grieve) + 2nd person singular verb 'arhasi' (from root 'arh') negated by 'na', meaning 'you ought not to grieve'.",
+        "te": "'త్వమ్' (మధ్యమ పురుష ఏకవచన సర్వనామం) + 'శోచితుమ్' ('శుచ్' ధాతువు తుమున్నంత/Infinitive రూపం) + 'అర్హసి' ('అర్హ్' ధాతువు లట్ లకార మధ్యమ పురుష ఏకవచన క్రియ) 'న' అనే నిషేధార్థక పదంతో చేరి 'నీవు శోకించకూడదు / విచారించతగవు' అని అర్థమిస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person plural future tense command phrase.",
+        "te": "ప్రథమ పురుష బహువచన భవిష్యత్కాల వాక్యం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1st person singular past tense active verb.",
+        "te": "ఉత్తమ పురుష ఏకవచన భూతకాల క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Passive participle phrase.",
+        "te": "కర్మణి విశేషణ వాక్యం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Śocitum' is the Tumun-infinitive of root 'śuc' (to mourn). 'Arhasi' is 2nd person singular present indicative of 'arh' (to be fit/bound). Combined with 'na' and 'tvam': 'na tvaṃ śocitum arhasi' = 'you do not deserve to grieve / you ought not to mourn'. — Bhagavad Gita (2.30)",
+      "te": "'శోచితుమ్' ('శుచ్' ధాతువు ఇన్ఫినిటివ్ రూపం) + 'అర్హసి' (తగియున్నావు). 'న త్వమ్ శోచితుమ్ అర్హసి' అనగా 'నీవు శోకించడానికి తగినవాడవు కావు / నీవు విచారించకూడదు'. — భగవద్గీత (2.30)"
+    }
+  },
+  {
+    "id": "bg-2-30-q6",
+    "verse": { "c": 2, "s": 30 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'nityamavadhyo'yam' and 'tasmātsarvāṇi' in verse 2.30:",
+      "te": "2.30 శ్లోకంలోని 'నిత్యమవధ్యోఽయమ్' మరియు 'తస్మాత్సర్వాణి' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Nityam + avadhyaḥ -> nityamavadhyaḥ (consonant 'm' + 'a'); avadhyaḥ + ayam -> avadhyo 'yam (Visarga Uttva & Pūrvarūpa Sandhi); tasmāt + sarvāṇi -> tasmātsarvāṇi (Sattva / Consonant combination: 't' before 's' remains 't').",
+        "te": "నిత్యమ్ + అవధ్యః -> నిత్యమవధ్యః (పొల్లు 'మ్' అచ్చు 'అ' తో కలయుట); అవధ్యః + అయమ్ -> అవధ్యోఽయమ్ (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు); తస్మాత్ + సర్వాణి -> తస్మాత్సర్వాణి (పొల్లు 'త్' వర్గం 'స' ముందు పొల్లు 'త్' గానే నిలుచుట).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nitya + mavadhyaḥ -> nityamavadhyaḥ; tasmā + sarvāṇi -> tasmāsarvāṇi",
+        "te": "నిత్య + మవధ్యః -> నిత్యమవధ్యః; తస్మా + సర్వాణి -> తస్మాసర్వాణి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nityan + avadhyaḥ -> nityamavadhyaḥ; tasmān + sarvāṇi -> tasmānsarvāṇi",
+        "te": "నిత్యన్ + అవధ్యః -> నిత్యమవధ్యః; తస్మాన్ + సర్వాణి -> తస్మాన్సర్వాణి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nitye + avadhyaḥ -> nityevadhyaḥ; tasmāḥ + sarvāṇi -> tasmāhsarvāṇi",
+        "te": "నిత్యే + అవధ్యః -> నిత్యేవధ్యః; తస్మాః + సర్వాణి -> తస్మాహసర్వాణి",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Nityam' (eternally) + 'avadhyaḥ' (unslayable) = 'nityamavadhyaḥ'. 2. 'Avadhyaḥ' + 'ayam' (this): visarga converts to 'o' and initial 'a' becomes Avagraha -> 'avadhyo 'yam'. 3. 'Tasmāt' (therefore) + 'sarvāṇi' (all): unvoiced dental stop 't' remains unchanged before unvoiced sibilant 's', yielding 'tasmātsarvāṇi'. — Bhagavad Gita (2.30)",
+      "te": "1. 'నిత్యమ్' + 'అవధ్యః' = 'నిత్యమవధ్యః'. 2. 'అవధ్యః' + 'అయమ్' లలో విసర్గ ఉత్త్వ, పూర్వరూప సంధుల ద్వారా 'అవధ్యోఽయమ్' అయినది. 3. 'తస్మాత్' + 'సర్వాణి' లలో పొల్లు 'త్' శ్వాస ఊష్మ వర్ణం 'స' ముందు 'త్' గానే నిలిచి 'తస్మాత్సర్వాణి' అయినది. — భగవద్గీత (2.30)"
+    }
+  }
+]

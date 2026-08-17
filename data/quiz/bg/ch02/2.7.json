@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-7-q1",
+    "verse": { "c": 2, "s": 7 },
+    "concept": ["Verse Meaning & Surrender"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.7?\n\n“kārpaṇyadoṣopahatasvabhāvaḥ pṛcchāmi tvāṃ dharmasammūḍhacetāḥ | yacchreyaḥ syānniścitaṃ brūhi tanme śiṣyaste'haṃ śādhi māṃ tvāṃ prapannam”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“కార్పణ్యదోషోపహతస్వభావః పృచ్ఛామి త్వాం ధర్మసమ్మూఢచేతాః | యచ్ఛ్రేయః స్యాన్నిశ్చితం బ్రూహి తన్మే శిష్యస్తేఽహం శాధి మాం త్వాం ప్రపన్నమ్”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — Now I am confused about my duty and have lost all composure because of miserly weakness. In this condition I am asking You to tell me clearly what is best for me. Now I am Your disciple, and a soul surrendered unto You. Please instruct me.",
+        "te": "అర్జునుడు పలికెను — పిరికితనమనే లోపంచేత నా స్వభావం దెబ్బతిన్నది, ధర్మవిషయంలో నా మనస్సు మురిసిపోయి (స్తంభించి) గందరగోళంలో పడింది. కావున నాకేది నిశ్చితమైన శ్రేయస్సో దానిని నాకు స్పష్టంగా చెప్పండి. ఇప్పుడు నేను నీ శిష్యుడను, నిన్ను శరణు వేడినవాడను. నాకు ఉపదేశించండి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — O Krishna, I have analyzed all scriptural duties and concluded that leaving the battlefield to become an ascetic is my true calling.",
+        "te": "అర్జునుడు పలికెను — ఓ కృష్ణా! నేను సమస్త శాస్త్ర ధర్మాలను పరిశీలించి, రణరంగాన్ని విడిచిపెట్టి సన్యాసిగా మారడమే నా అసలైన ధర్మమని నిశ్చయించుకున్నాను.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — As Your equal friend and comrade, I ask You to give me advice on how to convince Yudhishthira to call off this war.",
+        "te": "అర్జునుడు పలికెను — నీ సమాన మిత్రుడిగా, ఈ యుద్ధాన్ని విరమించుకునేలా యుధిష్ఠిరుడిని ఒప్పించడానికి నాకు తగిన సలహా ఇవ్వమని కోరుతున్నాను.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — If You promise to fight by my side with weapons, I shall surrender my doubts and enter the conflict.",
+        "te": "అర్జునుడు పలికెను — నీవు ఆయుధాలు పట్టి నా పక్షాన పోరాడతానని మాటిస్తే, నా అనుమానాలను విడిచిపెట్టి యుద్ధంలో దిగుతాను.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Kārpaṇya-doṣopahata-svabhāvaḥ pṛcchāmi tvāṃ dharma-sammūḍha-cetāḥ / yac chreyaḥ syān niścitaṃ brūhi tan me śiṣyas te 'haṃ śādhi māṃ tvāṃ prapannam.\" This verse marks the transition of Arjuna from Krishna's friend to His disciple ('śiṣyas te 'ham'), fully surrendering ('prapannam') and seeking conclusive spiritual guidance ('yac chreyaḥ syāt'). — Bhagavad Gita (2.7)",
+      "te": "ఈ శ్లోకంతో అర్జునుడు కృష్ణుని మిత్రుని స్థాయి నుండి 'శిష్యుని' ('శిష్యస్తేఽహమ్') స్థాయికి మారి, సంపూర్ణంగా శరణాగతి ('ప్రపన్నమ్') చేసి తనకు ఏది నిశ్చితమైన శ్రేయస్సో ('యచ్ఛ్రేయః స్యాత్') దానిని బోధించమని ప్రార్థిస్తున్నాడు. — భగవద్గీత (2.7)"
+    }
+  },
+  {
+    "id": "bg-2-7-q2",
+    "verse": { "c": 2, "s": 7 },
+    "concept": ["Philosophical Turning Point - Śreyaḥ vs Preyaḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "In verse 2.7, Arjuna explicitly asks Krishna for 'Śreyaḥ' rather than 'Preyaḥ'. What is the Vedic spiritual distinction between these two concepts?",
+      "te": "2.7 శ్లోకంలో అర్జునుడు 'ప్రేయస్సు' కాకుండా 'శ్రేయస్సు' (శ్రేయః) కావాలని కృష్ణుడిని అడిగాడు. వైదిక ప్రస్థానంలో ఈ రెంటి మధ్య ఉన్న ఆధ్యాత్మిక వ్యత్యాసం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Śreyaḥ = Ultimate, permanent spiritual good / liberation; Preyaḥ = Immediate, temporary material pleasure or comfort.",
+        "te": "శ్రేయస్సు = శాశ్వతమైన అత్యున్నత ఆధ్యాత్మిక క్షేమము / మోక్షము; ప్రేయస్సు = తాత్కాలికమైన లౌకిక సుఖము లేదా ఆనందము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Śreyaḥ = Physical strength on the battlefield; Preyaḥ = Intellectual knowledge of scriptures.",
+        "te": "శ్రేయస్సు = రణరంగంలో లభించే శారీరక బలము; ప్రేయస్సు = వేద శాస్త్రాల బుద్ధి జ్ఞానము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Śreyaḥ = Renunciation of all actions; Preyaḥ = Performance of daily Vedic rituals.",
+        "te": "శ్రేయస్సు = సకల కర్మల త్యాగము; ప్రేయస్సు = నిత్య వైదిక కర్మకాండల ఆచరణ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Śreyaḥ = Royal kingdom on earth; Preyaḥ = Entry into heavenly planets.",
+        "te": "శ్రేయస్సు = భూమిపై పొందే రాజ్యాధికారము; ప్రేయస్సు = స్వర్గలోక ప్రాప్తి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "As articulated in the Katha Upanishad and Gita commentaries, 'Preyaḥ' is that which is immediately pleasant to the senses, whereas 'Śreyaḥ' is that which brings ultimate spiritual perfection. Arjuna stops asking for immediate solutions and asks for 'niścitaṃ śreyaḥ' (ultimate, unequivocal good). — Bhagavad Gita (2.7)",
+      "te": "కఠోపనిషత్తు మరియు గీతా వ్యాఖ్యానాల ప్రకారం... మనస్సుకూ ఇంద్రియాలకూ తక్షణ ఆనందాన్ని ఇచ్చేది 'ప్రేయస్సు'; ఆత్మకు శాశ్వత శ్రేయస్సును ఇచ్చేది 'శ్రేయస్సు'. అర్జునుడు ఇక్కడ తక్షణ ఉపశమనాన్ని కాక నిశ్చితమైన 'శ్రేయస్సును' కోరుతున్నాడు. — భగవద్గీత (2.7)"
+    }
+  },
+  {
+    "id": "bg-2-7-q3",
+    "verse": { "c": 2, "s": 7 },
+    "concept": ["Guru-Śiṣya Relationship - Formal Surrender"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which Sanskrit phrase in verse 2.7 marks the formal establishment of the Guru-Disciple relationship between Krishna and Arjuna?",
+      "te": "2.7 శ్లోకంలో శ్రీకృష్ణార్జునుల మధ్య అధికారిక గురు-శిష్య సంబంధం ఏర్పడటాన్ని సూచించే సంస్కృత పదబంధం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Śiṣyas te 'haṃ śādhi māṃ tvāṃ prapannam ('I am Your disciple, instruct me who has taken refuge in You')",
+        "te": "శిష్యస్తేఽహం శాధి మాం త్వాం ప్రపన్నమ్ ('నేను నీ శిష్యుడను, నిన్ను శరణుజొచ్చిన నన్ను అనుగ్రహించి శాసించు/బోధించు')",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kārpaṇya-doṣopahata-svabhāvaḥ ('My nature is stricken by the flaw of miserliness')",
+        "te": "కార్పణ్యదోషోపహతస్వభావః ('పిరికితనమనే లోపంతో నా స్వభావం చెడిపోయింది')",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Dharma-sammūḍha-cetāḥ ('My mind is bewildered about duty')",
+        "te": "ధర్మసమ్మూఢచేతాః ('ధర్మం విషయంలో నా మనస్సు మురిసిపోయింది/గందరగోళపడింది')",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yac chreyaḥ syān niścitaṃ brūhi tan me ('Tell me conclusively what is best for me')",
+        "te": "యచ్ఛ్రేయః స్యాన్నిశ్చితం బ్రూహి తన్మే ('నాకు ఏది నిశ్చితమైన శ్రేయస్సో దానిని చెప్పు')",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Until verse 2.7, Krishna and Arjuna conversed as cousins and friends. With 'Śiṣyas te 'haṃ śādhi māṃ tvāṃ prapannam', Arjuna explicitly accepts discipleship ('śiṣyaḥ') and surrenders ('prapannam'), authorizing Krishna to act as his Master/Guru ('śādhi' = command/teach). — Bhagavad Gita (2.7)",
+      "te": "2.7 శ్లోకానికి ముందు వరకు కృష్ణార్జునులు మిత్రులుగా మాట్లాడారు. కానీ 'శిష్యస్తేఽహం శాధి మాం త్వాం ప్రపన్నమ్' అని చెప్పడం ద్వారా అర్జునుడు తనను శిష్యుడిగా స్వీకరించమని, శరణాగతుడైన తనను శాసించి బోధించమని కృష్ణుడిని జగద్గురువుగా ఆశ్రయించాడు. — భగవద్గీత (2.7)"
+    }
+  },
+  {
+    "id": "bg-2-7-q4",
+    "verse": { "c": 2, "s": 7 },
+    "concept": ["Psychological Diagnosis - Kārpaṇya-doṣa"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit compound 'kārpaṇya-doṣopahata-svabhāvaḥ' literally mean in verse 2.7?",
+      "te": "2.7 శ్లోకంలోని 'కార్పణ్యదోషోపహతస్వభావః' అనే సంస్కృత సమాస పదానికి ప్రత్యక్ష అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "One whose essential warrior nature (svabhāva) has been impaired/clouded (upahata) by the defect (doṣa) of miserliness / weak-hearted helplessness (kārpaṇya)",
+        "te": "ఎవరి క్షాత్ర స్వభావమైతే (స్వభావః) లోభత్వము/పిరికితనము అనే లోపము చేత (కార్పణ్యదోష) దెబ్బతిని/నశించిపోయిందో (ఉపహత) అటువంటివాడు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "One who has given away all his material wealth in charity to beggars",
+        "te": "తన దగ్గర ఉన్న ధనమంతటినీ యాచకులకు దానధర్మాలు చేసినవాడు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "One whose mind is filled with intense anger toward enemies",
+        "te": "శత్రువులపై తీవ్రమైన క్రోధంతో నిండిన మనస్సు గలవాడు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "One who is completely free from all karmic reactions and flaws",
+        "te": "సమస్త కర్మ దోషాల నుండి సంపూర్ణంగా విముక్తుడైనవాడు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kārpaṇya' comes from 'kṛpaṇa' (miser / one who fails to utilize human potential for spiritual liberation). 'Kārpaṇya-doṣa' is the flaw of spiritual miserliness or helpless weakness. 'Upahata' (overwhelmed/stricken) + 'svabhāva' (nature). — Bhagavad Gita (2.7)",
+      "te": "'కృపణ' అనగా లోభి/తన ఆత్మజ్ఞాన శక్తిని ఉపయోగించుకోలేని అల్పుడు. 'కార్పణ్య దోషము' అనగా ఆత్మధర్మాన్ని మరచిపోయి లొంగిపోయే దౌర్బల్యము. దీనివల్ల తన క్షాత్ర స్వభావము చెడిపోయిందని అర్జునుడు గ్రహించాడు. — భగవద్గీత (2.7)"
+    }
+  },
+  {
+    "id": "bg-2-7-q5",
+    "verse": { "c": 2, "s": 7 },
+    "concept": ["Sanskrit Grammar - Imperative Verb 'Śādhi'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical form of the verb 'śādhi' in verse 2.7:",
+      "te": "2.7 శ్లోకంలోని 'శాధి' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "2nd person singular Imperative mood (Lot-lakāra) from root 'śās' (to instruct / govern / command / teach), meaning 'instruct / command Thou me!'.",
+        "te": "'శాస్' (శాసించు/బోధించు/ఉపదేశించు) అనే ధాతువు యొక్క లోట్ లకార (ఆజ్ఞార్థక) మధ్యమ పురుష ఏకవచన రూపం — 'నీవు నన్ను శాసించుము / నాకు ఉపదేశించుము!'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1st person singular present tense verb from root 'śā'.",
+        "te": "ఉత్తమ పురుష ఏకవచన వర్తమానకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Past tense verb meaning 'You instructed me in the past'.",
+        "te": "భూతకాలంలో 'నీవు నాకు ఉపదేశించావు' అనే రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Future tense verb meaning 'You will instruct me later'.",
+        "te": "భవిష్యత్కాల రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Śādhi' is the 2nd person singular imperative (Loṭ-lakāra) of root 'śās' (to teach/rule). It is a direct prayer from a student to a master: 'Instruct me!' / 'Govern me!'. — Bhagavad Gita (2.7)",
+      "te": "'శాధి' అనేది 'శాస్' (ఆదేశించు/బోధించు) ధాతువు యొక్క లోట్ లకార (ఆజ్ఞార్థక) మధ్యమ పురుష ఏకవచన రూపం. 'శరణుజొచ్చిన నన్ను అనుగ్రహించి ఉపదేశించు' అని గురువును వేడుకునే రూపం ఇది. — భగవద్గీత (2.7)"
+    }
+  },
+  {
+    "id": "bg-2-7-q6",
+    "verse": { "c": 2, "s": 7 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'yacchreyaḥ' and 'śiṣyaste'haṃ' in verse 2.7:",
+      "te": "2.7 శ్లోకంలోని 'యచ్ఛ్రేయః' మరియు 'శిష్యస్తేఽహమ్' అనే పదాలను విడదీసి సంధి స్వరూపాన్ని చెప్పండి:"
+    },
+    "choices": [
+      {
+        "en": "Yat + śreyaḥ -> yacchreyaḥ (Ścutva & Chatva Sandhi: 't' + 'ś' -> 'c' + 'ch'); śiṣyaḥ + te -> śiṣyaste (Visarga Sattva Sandhi); te + aham -> te 'ham (Pūrvarūpa Sandhi).",
+        "te": "యత్ + శ్రేయః -> యచ్ఛ్రేయః (శ్చుత్వ మరియు ఛత్వ సంధి నియమాలు); శిష్యః + తే -> శిష్యస్తే (విసర్గ సత్త్వ సంధి); తే + అహమ్ -> తేఽహమ్ (పూర్వరూప సంధి).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Yad + śreyaḥ; śiṣyam + te + aham",
+        "te": "యద్ + శ్రేయః; శిష్యమ్ + తే + అహమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Yaccḥa + reyaḥ; śiṣyas + teham",
+        "te": "యచ్ఛ + రేయః; శిష్యస్ + తేహమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yati + śreyaḥ; śiṣye + te + aham",
+        "te": "యతి + శ్రేయః; శిష్యే + తే + అహమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Yat' + 'śreyaḥ': dental 't' becomes palatal 'c', and initial 'ś' becomes 'ch', yielding 'yacchreyaḥ'. 2. 'Śiṣyaḥ' + 'te': visarga 'ḥ' before 't' becomes 's' -> 'śiṣyaste'. 3. 'Te' + 'aham': 'e' + 'a' merges into 'e' with Avagraha (apostrophe) -> 'te 'ham'. Combined: 'śiṣyaste'haṃ'. — Bhagavad Gita (2.7)",
+      "te": "1. 'యత్' + 'శ్రేయః' లలో శ్చుత్వ మరియు ఛత్వ సంధుల ద్వారా 'యచ్ఛ్రేయః' అయినది. 2. 'శిష్యః' + 'తే' లలో విసర్గ 'స' గా మారి 'శిష్యస్తే' అయినది. 3. 'తే' + 'అహమ్' లలో పూర్వరూప సంధి ద్వారా 'అ' కారానికి అవగ్రహం వచ్చి 'తేఽహమ్' అయినది. — భగవద్గీత (2.7)"
+    }
+  }
+]

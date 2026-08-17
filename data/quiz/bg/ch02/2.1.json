@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-1-q1",
+    "verse": { "c": 2, "s": 1 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.1?\n\n“sañjaya uvāca | taṃ tathā kṛpayāviṣṭamaśrupūrṇākulekṣaṇam | viṣīdantamidaṃ vākyamuvāca madhusūdanaḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“సంజయ ఉవాచ | తం తథా కృపయావిష్టమశ్రుపూర్ణాకులేక్షణమ్ | విషీదంతమిదం వాక్యమువాచ మధుసూదనః”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — To him (Arjuna), who was thus overwhelmed with pity, whose eyes were filled with tears and full of distress, and who was despairing, Madhusudana (Krishna) spoke these words.",
+        "te": "సంజయుడు పలికెను — ఆ విధంగా కరుణతో (జాలితో) నిండిపోయినవాడు, కన్నీళ్లతో చెమర్చిన కలతబారిన కళ్లు గలవాడు మరియు దుఃఖిస్తున్నవాడైన అర్జునుడితో మధుసూదనుడు (శ్రీకృష్ణుడు) ఈ మాటలు పలికెను.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — Seeing Arjuna ready with his weapons, Madhusudana praised his bravery and urged him to launch the attack.",
+        "te": "సంజయుడు పలికెను — ఆయుధాలతో సిద్ధంగా ఉన్న అర్జునుడిని చూసి, మధుసూదనుడు అతని ధైర్యాన్ని మెచ్చుకుని దాడిని ప్రారంభించమని కోరాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — Hearing Dhritarashtra's question, Madhusudana blew his conch shell to comfort the grieving Pandavas.",
+        "te": "సంజయుడు పలికెను — ధృతరాష్ట్రుని ప్రశ్న విని, దుఃఖిస్తున్న పాండవులను ఓదార్చడానికి మధుసూదనుడు తన శంఖాన్ని పూరించాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — Arjuna, having overcome his grief, stepped out of his chariot and bowed before Lord Krishna.",
+        "te": "సంజయుడు పలికెను — అర్జునుడు తన దుఃఖాన్ని అధిగమించి, రథం దిగి శ్రీకృష్ణునికి ప్రణామం చేశాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Sañjaya uvāca — taṃ tathā kṛpayāviṣṭam aśru-pūrṇākulekṣaṇam / viṣīdantam idaṃ vākyam uvāca madhusūdanaḥ.\" Sanjaya describes Arjuna's sorrowful state—overwhelmed with compassion ('kṛpayāviṣṭam'), tearful ('aśru-pūrṇa'), distressed ('ākulekṣaṇam'), and despairing ('viṣīdantam')—before Lord Krishna begins His teaching. — Bhagavad Gita (2.1)",
+      "te": "శ్రీకృష్ణ భగవానుడు తన భగవద్గీతా బోధనను ప్రారంభించడానికి ముందు అర్జునుని పరిస్థితిని సంజయుడు ధృతరాష్ట్రుడికి వివరిస్తున్నాడు. కరుణతో నిండి, కన్నీళ్లు కారుస్తూ, తీవ్రమైన విచారంలో మునిగి ఉన్న అర్జునుడితో మధుసూదనుడు మాట్లాడటం ప్రారంభించాడు. — భగవద్గీత (2.1)"
+    }
+  },
+  {
+    "id": "bg-2-1-q2",
+    "verse": { "c": 2, "s": 1 },
+    "concept": ["Psychological State - Arjuna's Agony"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which three descriptive terms does Sanjaya use in verse 2.1 to vividly depict Arjuna's mental and physical condition?",
+      "te": "2.1 శ్లోకంలో అర్జునుని మానసిక, శారీరక స్థితిని వర్ణించడానికి సంజయుడు ఉపయోగించిన మూడు విశేషణ పదాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "1. Kṛpayāviṣṭam (overwhelmed with pity), 2. Aśru-pūrṇākulekṣaṇam (eyes full of tears and distressed), 3. Viṣīdantam (despairing / lamenting)",
+        "te": "1. కృపయావిష్టమ్ (కరుణతో/ జాలితో నిండినవాడు), 2. అశ్రుపూర్ణాకులేక్షణమ్ (కన్నీళ్లతో నిండి కలతబారిన కళ్లు గలవాడు), 3. విషీదంతమ్ (దుఃఖిస్తున్నవాడు)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1. Śastrapāṇim (holding weapons), 2. Vege sthitam (standing with speed), 3. Hṛṣṭa-mānasam (joyful mind)",
+        "te": "1. శస్త్రపాణిమ్ (చేతిలో ఆయుధం గలవాడు), 2. వేగే స్థితమ్ (వేగంతో నిలిచినవాడు), 3. హృష్టమానసమ్ (సంతోషకరమైన మనస్సు గలవాడు)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1. Krodhāviṣṭam (filled with anger), 2. Dhairya-saṃyuktam (united with courage), 3. Yuddhodyatam (ready for battle)",
+        "te": "1. క్రోధావిష్టమ్ (కోపంతో నిండినవాడు), 2. ధైర్యసంయుక్తమ్ (ధైర్యంతో కూడినవాడు), 3. యుద్దోద్యతమ్ (యుద్ధానికి పూనుకున్నవాడు)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1. Jñāna-saṃpannam (endowed with wisdom), 2. Śānta-mānasam (peaceful mind), 3. Mukta-saṅgam (free from attachment)",
+        "te": "1. జ్ఞానసంపన్నమ్ (జ్ఞానంతో నిండినవాడు), 2. శాంతమానసమ్ (శాంతమైన మనస్సు గలవాడు), 3. ముక్తసంగమ్ (ఆసక్తి లేనివాడు)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Sanjaya uses three accusative modifiers for Arjuna ('tam'): 'kṛpayāviṣṭam' (overcome by misdirected compassion), 'aśru-pūrṇākulekṣaṇam' (eyes overflowing with tears of grief), and 'viṣīdantam' (sinking in despondency). — Bhagavad Gita (2.1)",
+      "te": "2.1 శ్లోకంలో అర్జునుడి స్థితిని సూచించే మూడు ద్వితీయ విభక్తి విశేషణాలు ఉన్నాయి: 'కృపయావిష్టమ్' (వ్యామోహంతో కూడిన దయతో నిండినవాడు), 'అశ్రుపూర్ణాకులేక్షణమ్' (కన్నీళ్లతో నిండి కలతచెందిన కన్నులు గలవాడు), 'విషీదంతమ్' (నిరాశా నిస్పృహలలో మునిగినవాడు). — భగవద్గీత (2.1)"
+    }
+  },
+  {
+    "id": "bg-2-1-q3",
+    "verse": { "c": 2, "s": 1 },
+    "concept": ["Epithet Context - Madhusudana"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Why does Sanjaya refer to Lord Krishna as 'Madhusūdanaḥ' in verse 2.1 at the beginning of Chapter 2?",
+      "te": "2వ అధ్యాయం ప్రారంభంలో (2.1 శ్లోకంలో) సంజయుడు శ్రీకృష్ణుడిని 'మధుసూదనః' అని ఎందుకు వ్యవహరించాడు?"
+    },
+    "choices": [
+      {
+        "en": "To highlight Krishna as the slayer of the demon Madhu, suggesting He is about to destroy Arjuna's inner demon of delusion and grief.",
+        "te": "మధు అనే రాక్షసుడిని సంహరించిన శ్రీకృష్ణుడు, ఇప్పుడు అర్జునుని మనస్సును కమ్మేసిన మోహమనే అంతర్గత రాక్షసుడిని (శత్రువును) నాశనం చేయబోతున్నాడని సూచించడానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "To remind King Dhritarashtra that Krishna was raised in the forest of Vrindavan.",
+        "te": "శ్రీకృష్ణుడు బృందావన అడవులలో పెరిగాడని ధృతరాష్ట్ర మహారాజుకు గుర్తుచేయడానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "To show that Krishna was acting solely as a diplomatic ambassador of peace.",
+        "te": "శ్రీకృష్ణుడు కేవలం శాంతి రాయబారిగా మాత్రమే వ్యవహరిస్తున్నాడని చూపించడానికి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "To indicate that Krishna was preparing sweet offerings for the battlefield.",
+        "te": "శ్రీకృష్ణుడు రణరంగంలో నివేదనలు సిద్ధం చేస్తున్నాడని తెలపడానికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Madhusūdana' means 'Slayer of the demon Madhu'. In philosophical commentary, Madhu represents the demon of delusion/ignorance. Using this epithet here signals that Krishna is stepping in as the Supreme Teacher to destroy Arjuna's mental confusion. — Bhagavad Gita (2.1)",
+      "te": "'మధుసూదన' అనగా మధు అనే రాక్షసుడిని సంహరించినవాడు. వ్యాఖ్యానాలలో 'మధు' అనే రాక్షసుడు అజ్ఞానానికి, వ్యామోహానికి సంకేతం. అర్జునుని మానసిక అజ్ఞానాన్ని, శోకాన్ని తరిమికొట్టే జగద్గురువుగా శ్రీకృష్ణుడు నిలుస్తున్నాడని ఈ నామం సూచిస్తుంది. — భగవద్గీత (2.1)"
+    }
+  },
+  {
+    "id": "bg-2-1-q4",
+    "verse": { "c": 2, "s": 1 },
+    "concept": ["Sanskrit Vocabulary - Tearful & Distressed Eyes"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What does the Sanskrit compound 'aśrupūrṇākulekṣaṇam' mean in verse 2.1?",
+      "te": "2.1 శ్లోకంలోని 'అశ్రుపూర్ణాకులేక్షణమ్' అనే సమాస పదానికి శాబ్దిక అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "One whose eyes (īkṣaṇa) are filled (pūrṇa) with tears (aśru) and troubled/distressed (ākula)",
+        "te": "ఎవరి నేత్రములు (ఈక్షణ) కన్నీళ్లతో (అశ్రు) నిండి (పూర్ణ) కలతచెంది/కలవరపడి (ఆకుల) ఉన్నాయో అటువంటి వాడు",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "One whose eyes are shining with radiant divine light",
+        "te": "దివ్యమైన కాంతితో మెరిసిపోతున్న కన్నులు కలవాడు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "One who is looking at the sky with wide opened eyes",
+        "te": "విశాలమైన కళ్లతో ఆకాశం వైపు చూస్తున్నవాడు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "One whose eyes are closed in deep meditation",
+        "te": "తీవ్ర ధ్యానంలో కళ్లు మూసుకున్నవాడు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Aśru' (tears) + 'pūrṇa' (full) + 'ākula' (distressed/agitated) + 'īkṣaṇam' (eyes). It forms a detailed compound describing Arjuna's physical expression of grief. — Bhagavad Gita (2.1)",
+      "te": "'అశ్రు' (కన్నీళ్లు) + 'పూర్ణ' (నిండిన) + 'ఆకుల' (కలవరపడిన) + 'ఈక్షణమ్' (కన్నులు గలవాడు). అర్జునుని బాహ్యమైన శోక రూపాన్ని వర్ణించే సమాస పదం ఇది. — భగవద్గీత (2.1)"
+    }
+  },
+  {
+    "id": "bg-2-1-q5",
+    "verse": { "c": 2, "s": 1 },
+    "concept": ["Sanskrit Grammar - Compound Analysis 'Aśrupūrṇākulekṣaṇam'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What type of Sanskrit compound (Samāsa) is 'aśrupūrṇākulekṣaṇam' in verse 2.1?",
+      "te": "2.1 శ్లోకంలోని 'అశ్రుపూర్ణాకులేక్షణమ్' అనేది ఏ రకమైన సంస్కృత సమాసము?"
+    },
+    "choices": [
+      {
+        "en": "Bahuvrīhi Samāsa (possessive compound: 'he whose eyes are filled with tears and distressed'), in Accusative Singular Masculine modifying 'tam' (Arjuna).",
+        "te": "బహువ్రీహి సమాసము ('అశ్రువులతో నిండి ఆకులమైన ఈక్షణములు కలవాడు ఎవడో వాడు' - ద్వితీయా విభక్తి ఏకవచనంలో 'తమ్' అనే పదానికి విశేషణం).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dvandva Samāsa combining four independent nouns.",
+        "te": "నాలుగు స్వతంత్ర నామవాచకాలను కలిపే ద్వంద్వ సమాసము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avyayībhāva Samāsa functioning as an adverb.",
+        "te": "అవ్యయీభావ సమాసము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dvigu Samāsa starting with a number.",
+        "te": "ద్విగు సమాసము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Aśrubhiḥ pūrṇe ākule īkṣaṇe yasya saḥ' = 'Aśrupūrṇākulekṣaṇaḥ'. In Accusative Singular Masculine, it becomes 'aśrupūrṇākulekṣaṇam', modifying the direct object 'tam' (referring to Arjuna). Thus it is a Bahuvrīhi Samāsa. — Bhagavad Gita (2.1)",
+      "te": "'అశ్రుభిః పూర్ణే ఆకులే ఈక్షణే యస్య సహః' = అశ్రుపూర్ణాకులేక్షణః. ద్వితీయా ఏకవచనంలో 'అశ్రుపూర్ణాకులేక్షణమ్' అయి 'తమ్' (అర్జునుడిని) విశేషిస్తున్నందున ఇది బహువ్రీహి సమాసము. — భగవద్గీత (2.1)"
+    }
+  },
+  {
+    "id": "bg-2-1-q6",
+    "verse": { "c": 2, "s": 1 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'kṛpayāviṣṭam' and 'pūrṇākulekṣaṇam' in verse 2.1:",
+      "te": "2.1 శ్లోకంలోని 'కృపయావిష్టమ్' మరియు 'పూర్ణాకులేక్షణమ్' అనే పదాలను విడదీసి సంధి నియమాలను చెప్పండి:"
+    },
+    "choices": [
+      {
+        "en": "Kṛpayā + āviṣṭam (Savarna-dirgha Sandhi: ā + ā -> ā); Pūrṇa + ākulekṣaṇam (Savarna-dirgha Sandhi: a + ā -> ā; and ākula + īkṣaṇam -> ākulekṣaṇam via Guṇa Sandhi: a + ī -> e)",
+        "te": "కృపయా + ఆవిష్టమ్ (సవర్ణదీర్ఘ సంధి: ఆ + ఆ -> ఆ); పూర్ణ + ఆకులేక్షణమ్ (సవర్ణదీర్ఘ సంధి: అ + ఆ -> ఆ; మరియు ఆకుల + ఈక్షణమ్ -> ఆకులేక్షణమ్ గుణ సంధి ద్వారా: అ + ఈ -> ఏ)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kṛpaya + aviṣṭam; Pūrṇā + kulekṣaṇam",
+        "te": "కృపయ + అవిష్టమ్; పూర్ణా + కులేక్షణమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kṛpayā + viṣṭam; Pūrṇam + akulekṣaṇam",
+        "te": "కృపయా + విష్టమ్; పూర్ణమ్ + అకులేక్షణమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kṛpayai + āviṣṭam; Pūrṇai + ākulekṣaṇam",
+        "te": "కృపయై + ఆవిష్టమ్; పూర్ణై + ఆకులేక్షణమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Kṛpayā' + 'āviṣṭam' = 'kṛpayāviṣṭam' (Savarna-dirgha Sandhi). 2. 'Pūrṇa' + 'ākula' = 'pūrṇākula' (Savarna-dirgha Sandhi). 3. 'Ākula' + 'īkṣaṇam' = 'ākulekṣaṇam' (Guṇa Sandhi where 'a' + 'ī' becomes 'e'). Combined: 'pūrṇākulekṣaṇam'. — Bhagavad Gita (2.1)",
+      "te": "1. 'కృపయా' + 'ఆవిష్టమ్' = 'కృపయావిష్టమ్' (సవర్ణదీర్ఘ సంధి). 2. 'పూర్ణ' + 'ఆకుల' = 'పూర్ణాకుల' (సవర్ణదీర్ఘ సంధి). 3. 'ఆకుల' + 'ఈక్షణమ్' = 'ఆకులేక్షణమ్' ('అ' + 'ఈ' కలయికతో 'ఏ' వచ్చే గుణ సంధి). సమగ్రంగా 'పూర్ణాకులేక్షణమ్'. — భగవద్గీత (2.1)"
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-54-q1",
+    "verse": { "c": 2, "s": 54 },
+    "concept": ["Verse Meaning & Four Diagnostic Questions of Sthitaprajña"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.54?\n\n“arjuna uvāca | sthitaprajñasya kā bhāṣā samādhisthasya keśava | sthitadhīḥ kiṃ prabhāṣeta kimāsīta vrajeta kim”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అర్జున ఉవాచ | స్థితప్రజ్ఞస్య కా భాషా సమాధిస్థస్య కేశవ | స్థితధీః కిం ప్రభాషేక కిమాసీత వ్రజేత కిమ్”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — O Keshava, what is the description of a person of steady wisdom who is established in Samadhi? How does the man of steady intellect speak, how does he sit, and how does he walk/act?",
+        "te": "అర్జునుడు పలికెను — ఓ కేశవా! సమాధి యందు స్థిరపడిన స్థితప్రజ్ఞుని యొక్క లక్షణములు (భాష) ఏమిటి? స్థిరమైన వివేక బుద్ధి గలవాడు ఏ విధంగా మాట్లాడతాడు, ఏ విధంగా కూర్చుంటాడు, మరియు ఏ విధంగా సంచరిస్తాడు (నడుచుకుంటాడు)?",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — O Keshava, what language does a warrior speak when entering Samadhi, and what physical postures must he practice during battle?",
+        "te": "అర్జునుడు పలికెను — ఓ కేశవా! యోధుడు సమాధిలోకి ప్రవేశించేటప్పుడు ఏ భాష మాట్లాడతాడు, మరియు యుద్ధ సమయంలో ఏ శారీరక ఆసనాలను అభ్యసించాలి?",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — O Keshava, how can a person of steady wisdom control his speech to command armies and sit on a royal throne?",
+        "te": "అర్జునుడు పలికెను — ఓ కేశవా! స్థితప్రజ్ఞుడు సైన్యాలను నడిపించడానికి తన ప్రసంగాన్ని ఎలా నియంత్రించాలి, మరియు రాజసింహాసనంపై ఎలా ఆసీనుడు కావాలి?",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — O Keshava, why do people of steady wisdom walk away from the battlefield and sit in solitary mountain caves?",
+        "te": "అర్జునుడు పలికెను — ఓ కేశవా! స్థితప్రజ్ఞులు రణரంగాన్ని విడిచిపెట్టి ఏకాంత పర్వత గుహలలో ఎందుకు కూర్చుంటారు?",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Arjuna uvāca / sthitaprajñasya kā bhāṣā samādhisthasya keśava / sthitadhīḥ kiṃ prabhāṣeta kim āsīta vrajeta kim.\" Having heard Krishna define Yoga as mental steadiness, Arjuna asks four fundamental questions to identify a liberated sage ('sthitaprajña'): 1. What is his description/definition ('kā bhāṣā')? 2. How does he speak ('kiṃ prabhāṣeta')? 3. How does he sit/rest amidst sense objects ('kim āsīta')? 4. How does he walk/interact with the world ('vrajeta kim')? — Bhagavad Gita (2.54)",
+      "te": "కృష్ణుడు సమత్వ యోగాన్ని వివరించిన తర్వాత, ఆచరణలో స్థితప్రజ్ఞుడి లక్షణాలు ఎలా ఉంటాయో తెలుసుకోవడానికి అర్జునుడు నాలుగు ప్రాథమిక ప్రశ్నలు వేశాడు: 1. సమాధిస్థుడైన స్థితప్రజ్ఞుని యొక్క నిర్వచనం/లక్షణాలు ఏమిటి ('కా భాషా')? 2. స్థిరబుద్ధి గలవాడు ఎలా మాట్లాడతాడు ('కిమ్ ప్రభాషేక')? 3. ఇంద్రియ విషయాల మధ్య అతను ఎలా ప్రశాంతంగా కూర్చుంటాడు/నిశ్చలంగా ఉంటాడు ('కిమ్ ఆసీత')? 4. భౌతిక ప్రపంచంలో ఎలా సంచరిస్తాడు/ప్రవర్తిస్తాడు ('వ్రజేత కిమ్')? — భగవద్గీత (2.54)"
+    }
+  },
+  {
+    "id": "bg-2-54-q2",
+    "verse": { "c": 2, "s": 54 },
+    "concept": ["Philosophical Definition - Meaning of Sthitaprajña & Sthitadhīḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the technical terms 'Sthitaprajña' and 'Sthitadhīḥ' mean in the context of verse 2.54?",
+      "te": "2.54 శ్లోక సందర్భంలో 'స్థితప్రజ్ఞః' మరియు 'స్థితధీః' అనే సాంకేతిక పదాల ఖచ్చితమైన అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Sthitaprajña = One whose wisdom/consciousness is perfectly rooted and unshakably established in the Self; Sthitadhīḥ = One whose intellect/mind is firmly poised and free from illusion.",
+        "te": "స్థితప్రజ్ఞః = ఎవరి ప్రజ్ఞ/చైతన్యం అయితే ఆత్మసత్యం నందు నిశ్చలముగా, అచలముగా స్థిరపడిందో అట్టి ముక్త పురుషుడు; స్థితధీః = స్థిరమైన వివేక బుద్ధి గల సాధకుడు/జ్ఞాని.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sthitaprajña = One who remains physically still without breathing; Sthitadhīḥ = One who has memorized all scriptures.",
+        "te": "స్థితప్రజ్ఞః = శ్వాస తీసుకోకుండా శారీరకంగా నిశ్చలంగా ఉండేవాడు; స్థితధీః = సమస్త శాస్త్రాలను కంఠస్థం చేసినవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sthitaprajña = A king who sits permanently on a throne; Sthitadhīḥ = A warrior who never retreats.",
+        "te": "స్థితప్రజ్ఞః = శాశ్వతంగా సింహాసనంపై కూర్చునే రాజు; స్థితధీః = యుద్ధం నుండి పారిపోని యోధుడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sthitaprajña = An astrologer who knows the future; Sthitadhīḥ = A priest who performs rituals.",
+        "te": "స్థితప్రజ్ఞః = భవిష్యత్తును తెలిసిన జ్యోతిష్కుడు; స్థితధీః = యజ్ఞ క్రతువులను ఆచరించే పూజారి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sthitā' (firmly established) + 'prajñā' (transcendental wisdom/awareness) = 'Sthitaprajña' (the enlightened sage of steady wisdom). 'Sthitā' + 'dhīḥ' (intellect/mind) = 'Sthitadhīḥ' (one of calm, balanced intellect). Both terms describe a Jīvanmukta—one liberated while living in the body. — Bhagavad Gita (2.54)",
+      "te": "'స్థితా' (స్థిరపడిన) + 'ప్రజ్ఞా' (దివ్య జ్ఞానము/చైతన్యము) = స్థితప్రజ్ఞః (ఆత్మజ్ఞానంలో నిలకడ చెందిన జీవన్ముక్తుడు). 'స్థితా' + 'ధీః' (బుద్ధి/మనస్సు) = స్థితధీః (ప్రశాంత, సమబుద్ధి గల జ్ఞాని). ఈ రెండు పదాలూ భౌతిక దేహంలో ఉంటూనే ముక్తి పొందిన ఆత్మజ్ఞాని స్థితిని తెలుపుతాయి. — భగవద్గీత (2.54)"
+    }
+  },
+  {
+    "id": "bg-2-54-q3",
+    "verse": { "c": 2, "s": 54 },
+    "concept": ["Structural Analysis - Metaphorical Depth of Arjuna's Questions"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do Arjuna's behavioral questions—'Prabhāṣeta' (speak), 'Āsīta' (sit), and 'Vrajeta' (walk)—symbolize in Vedantic commentary?",
+      "te": "వేదాంత వ్యాఖ్యానాలలో అర్జునుడి ప్రశ్నలైన 'ప్రభాషేక' (మాట్లాడుట), 'ఆసీత' (కూర్చోవుట), మరియు 'వ్రజేత' (సంచరించుట/నడుచుట) అనే పదాలు దేనికి ప్రతీకలు?"
+    },
+    "choices": [
+      {
+        "en": "They represent the complete range of human interaction: how a sage responds to outer stimuli/words ('prabhāṣeta'), how his mind remains inward and unagitated amidst sense objects ('āsīta'), and how he moves and conducts himself in active worldly life ('vrajeta').",
+        "te": "ఇవి మానవ జీవన వ్యవహారాల సమగ్ర స్వరూపానికి ప్రతీకలు: జ్ఞాని బాహ్య ప్రేరణలకు/మాటలకు ఎలా ప్రతిస్పందిస్తాడు ('ప్రభాషేక'), ఇంద్రియ విషయాల మధ్య అతడి మనస్సు అంతర్ముఖమై ఎలా నిశ్చలంగా ఉంటుంది ('ఆసీత'), మరియు భౌతిక ప్రపంచంలో సత్కర్మలు చేస్తూ ఎలా సంచరిస్తాడు ('వ్రజేత').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "They represent literal physical rules regarding speech pitch, seating arrangements, and walking speed on the battlefield.",
+        "te": "ఇవి రణరంగంలో మాట్లాడే శబ్ద శృతి, కూర్చునే సీటింగ్ ఏర్పాట్లు, మరియు నడిచే వేగానికి సంబంధించిన అక్షరాలా శారీరక నియమాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "They represent three physical postures taught in Hatha Yoga for curing diseases.",
+        "te": "ఇవి రోగాలను నయం చేయడానికి హఠయోగంలో బోధించే మూడు శారీరక ఆసనాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "They represent ceremonial rites required for entering royal palaces.",
+        "te": "ఇవి రాజప్రాసాదాలలోకి ప్రవేశించడానికి కావలసిన ఆచార క్రతువులు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna asks for tangible, practical indicators of an intangible inner state. In Vedantic commentaries (e.g., Shankara), 'speaking' signifies self-expression/reaction, 'sitting' signifies mental restraint/rest, and 'walking' signifies external action and worldly movement. — Bhagavad Gita (2.54)",
+      "te": "అంతరంగంలో ఉండే అగోచర ఆధ్యాత్మిక స్థితి యొక్క బాహ్య అనుభవపూర్వక సూచికలను అర్జునుడు అడుగుతున్నాడు. శంకరాచార్యాది వ్యాఖ్యానాల ప్రకారం... 'మాట్లాడటం' అనగా స్పందన/వ్యక్తీకరణ, 'కూర్చోవడం' అనగా అంతర్ముఖ నిశ్చలత్వము/ఇంద్రియ నిగ్రహము, 'సంచరించడం' అనగా బాహ్య ప్రపంచంలో ఆచరించే కర్మాచరణము. — భగవద్గీత (2.54)"
+    }
+  },
+  {
+    "id": "bg-2-54-q4",
+    "verse": { "c": 2, "s": 54 },
+    "concept": ["Sanskrit Vocabulary - Description, Seating, Movement"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit phrases 'kā bhāṣā', 'samādhisthasya', and 'kim āsīta' mean in verse 2.54?",
+      "te": "2.54 శ్లోకంలోని 'కా భాషా', 'సమాధిస్థస్య', మరియు 'కిమ్ ఆసీత' అనే సంస్కృత పదబంధాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Kā bhāṣā = What is the description / definition / mark?; Samādhisthasya = Of one established in Samadhi (deep spiritual absorption); Kim āsīta = How does he sit / rest / remain poised?",
+        "te": "కా భాషా = లక్షణములు (వివరణ/నిర్వచనము) ఏమిటి?; సమాధిస్థస్య = సమాధి యందు స్థిరపడినవానికి; కిమ్ ఆసీత = ఏ విధంగా ఆసీనుడవుతాడు / నిశ్చలంగా ఉంటాడు?",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kā bhāṣā = What mother tongue?; Samādhisthasya = Of one who dies; Kim āsīta = What food does he eat?",
+        "te": "కా భాషా = ఏ మాతృభాష?; సమాధిస్థస్య = మరణించినవానికి; కిమ్ ఆసీత = ఏ ఆహారం తింటాడు?",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kā bhāṣā = What secret code?; Samādhisthasya = Of a king; Kim āsīta = Where does he sleep?",
+        "te": "కా భాషా = ఏ రహస్య కోడ్?; సమాధిస్థస్య = రాజు యొక్క; కిమ్ ఆసీత = ఎక్కడ నిద్రపోతాడు?",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kā bhāṣā = What song?; Samādhisthasya = Of a warrior; Kim āsīta = How does he fight?",
+        "te": "కా భాషా = ఏ పాట?; సమాధిస్థస్య = యోధుని యొక్క; కిమ్ ఆసీత = ఎలా పోరాడతాడు?",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kā' (what) + 'bhāṣā' (description/definition/speech). 'Samādhi' (spiritual concentration) + 'sthasya' (of one situated in). 'Kim' (how/what) + 'āsīta' (would he sit/remain). Arjuna is inquiring about the defining characteristics of a sage. — Bhagavad Gita (2.54)",
+      "te": "'కా' (ఏమిటి) + 'భాషా' (భాషింపబడునది/వివరణ/నిర్వచనము). 'సమాధి' + 'స్థస్య' (సమాధిలో నిలిచినవానికి). 'కిమ్' (ఏ విధముగా) + 'ఆసీత' (కూర్చుండును/ఉండును). ఆత్మజ్ఞాని యొక్క స్వరూప లక్షణాలను అర్జునుడు ప్రశ్నిస్తున్నాడు. — భగవద్గీత (2.54)"
+    }
+  },
+  {
+    "id": "bg-2-54-q5",
+    "verse": { "c": 2, "s": 54 },
+    "concept": ["Sanskrit Grammar - Potential Optative Mood Verbs (Vidhilin)"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical form of the verbs 'prabhāṣeta', 'āsīta', and 'vrajeta' in verse 2.54:",
+      "te": "2.54 శ్లోకంలోని 'ప్రభాషేక', 'ఆసీత', మరియు 'వ్రజేత' అనే క్రియాపదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person singular Potential / Optative mood (Vidhi-liṅ) forms: 'prabhāṣeta' (Ātmanepada from root 'bhāṣ' with 'pra' = how would he speak?), 'āsīta' (Ātmanepada from root 'ās' = how would he sit?), and 'vrajeta' (Parasmaipada from root 'vraj' = how would he walk/move?).",
+        "te": "విధిలింగ్ లకార (Potential mood / సంభావనార్థక) ప్రథమ పురుష ఏకవచన క్రియా రూపాలు: 'ప్రభాషేక' ('ప్ర'+'భాష్' ఆత్మనేపద = 'ఎలా మాట్లాడగలడు?'), 'ఆసీత' ('ఆస్' ఆత్మనేపద = 'ఎలా ఆసీనుడు కాగలడు?'), 'వ్రజేత' ('వ్రజ్' పరస్మైపద = 'ఎలా సంచరించగలడు?').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person plural Imperative mood forms.",
+        "te": "ప్రథమ పురుష బహువచన ఆజ్ఞార్థక క్రియా రూపాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1st person singular Future tense forms.",
+        "te": "ఉత్తమ పురుష ఏకవచన భవిష్యత్కాల క్రియా రూపాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Past passive participle forms.",
+        "te": "భూతకాల కర్మణి విశేషణ రూపాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "All three verbs are in the Vidhi-liṅ (Optative/Potential mood), which is used for hypothetical questions ('how would/should a wise person act?'): 'prabhāṣeta' (would speak), 'āsīta' (would sit), 'vrajeta' (would walk). — Bhagavad Gita (2.54)",
+      "te": "ఈ మూడు క్రియలూ విధిలింగ్ లకారంలో (సంభావనార్థంలో/అనుమానార్థక ప్రశ్నల్లో) ఉన్నాయి: 'ప్రభాషేక' (ఏ విధంగా మాట్లాడగలడు?), 'ఆసీత' (ఏ విధంగా ఉండగలడు?), 'వ్రజేత' (ఏ విధంగా నడుచుకోగలడు?). — భగవద్గీత (2.54)"
+    }
+  },
+  {
+    "id": "bg-2-54-q6",
+    "verse": { "c": 2, "s": 54 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'kimāsīta' and 'vrajeta kim' in verse 2.54:",
+      "te": "2.54 శ్లోకంలోని 'కిమాసీత' మరియు 'ప్రభాషేక కిమాసీత' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Kim + āsīta -> kimāsīta (consonant 'm' combining directly with initial vowel 'ā'); prabhāṣeta + kim -> prabhāṣeta kim (direct placement without vowel modification).",
+        "te": "కిమ్ + ఆసీత -> కిమాసీత (పొల్లు 'మ్' అచ్చు 'ఆ' తో సూటిగా కలయుట); ప్రభాషేక + కిమ్ -> ప్రభాషేక కిమ్ (మామూలు పద సంయోగము).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kiṃ + āsīta -> kiṃsīta; prabhāṣeta + kim -> prabhāṣetakim",
+        "te": "కిం + ఆసీత -> కింసీత; ప్రభాషేక + కిమ్ -> ప్రభాషేకకిమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kina + āsīta -> kināsīta; prabhāṣetam + kim -> prabhāṣetamkim",
+        "te": "కిన + ఆసీత -> కినాసీత; ప్రభాషేకమ్ + కిమ్ -> ప్రభాషేకమ్కిమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kih + āsīta -> kihāsīta; prabhāṣetaḥ + kim -> prabhāṣetahkim",
+        "te": "కిః + ఆసీత -> కిహాసీత; ప్రభాషేకః + కిమ్ -> ప్రభాషేకహకిమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Kim' (how/what) + 'āsīta' (would sit): unvoiced nasal stop 'm' combines seamlessly with vowel 'ā' -> 'kimāsīta'. 2. 'Prabhāṣeta' + 'kim': 'prabhāṣeta' ends in 'a' and 'kim' begins with consonant 'k', leaving no phonetic change. — Bhagavad Gita (2.54)",
+      "te": "1. 'కిమ్' + 'ఆసీత' లలో పొల్లు 'మ్' అచ్చు 'ఆ' తో కలసి 'కిమాసీత' అయినది. 2. 'ప్రభాషేక' + 'కిమ్' లలో ఎలాంటి వర్ణ వికారము లేదు. — భగవద్గీత (2.54)"
+    }
+  }
+]

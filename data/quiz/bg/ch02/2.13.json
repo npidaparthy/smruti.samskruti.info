@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-13-q1",
+    "verse": { "c": 2, "s": 13 },
+    "concept": ["Verse Meaning & Transmigration Analogy"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.13?\n\n“dehino'smin yathā dehe kaumāraṃ yauvanaṃ jarā | tathā dehāntaraprāptirdhīrastatra na muhyati”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“దేహినోఽస్మిన్ యథా దేహే కౌమారం యౌవనం జరా | తథా దేహాంతరప్రాప్తిర్ధీరస్తత్ర న ముహ్యతి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Just as the embodied soul continuously passes in this body through childhood, youth, and old age, similarly it attains another body at death. The sober, wise person is not deluded by this.",
+        "te": "శ్రీభగవానుడు పలికెను — దేహికి (ఆత్మకు) ఈ దేహంలో బాల్యము, యౌవనము, ముసలితనము ఏ విధంగా కలుగుతున్నాయో, అలాగే మరణానంతరం మరొక దేహాన్ని పొందడం కూడా జరుగుతుంది. ధీరుడైన పండితుడు ఈ మార్పుకు మోహపడడు (ప్రమాదపడడు/విచారించడు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Childhood, youth, and old age are the three eternal states of the soul itself, which never change even after bodily death.",
+        "te": "శ్రీభగవానుడు పలికెను — బాల్యము, యౌవనము, వృద్ధాప్యము అనేవి ఆత్మ యొక్క శాశ్వత స్థితులు, భౌతిక దేహ మరణం తర్వాత కూడా ఇవి మారవు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — By maintaining strict physical discipline during youth and old age, one can prevent the soul from entering a new body.",
+        "te": "శ్రీభగవానుడు పలికెను — యౌవనంలో, ముసలితనంలో శారీరక క్రమశిక్షణను పాటించడం ద్వారా ఆత్మ మరొక కొత్త దేహంలోకి ప్రవేశించకుండా నిరోధించవచ్చు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Just as a person changes garments during childhood, the soul is created anew when the body reaches old age.",
+        "te": "శ్రీభగవానుడు పలికెను — మనిషి బాల్యంలో వస్త్రాలను మార్చుకున్నట్లే, దేహము వృద్ధాప్యానికి చేరినప్పుడు ఆత్మ కొత్తగా సృష్టించబడుతుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Dehino 'smin yathā dehe kaumāraṃ yauvanaṃ jarā / tathā dehāntara-prāptir dhīras tatra na muhyati.\" Krishna uses the seamless, experiential transition between childhood, youth, and old age within a single lifetime to explain reincarnation ('dehāntara-prāptiḥ'). A wise person ('dhīraḥ') recognizes that the true Self remains unchanging throughout all physical shifts. — Bhagavad Gita (2.13)",
+      "te": "ఒకే జీవితంలో ఒకే దేహంలో బాల్య, యౌవన, వృద్ధాప్యాలు ఎలా మారుతున్నాయో, ఆత్మ దేహాంతరాన్ని (మరొక దేహాన్ని) పొందుట కూడా అటువంటి సహజ పరిణామమేనని శ్రీకృష్ణుడు వర్ణించాడు. ఆత్మ వికార రహితమైనదని ఎరిగిన ధీరుడు ('ధీరః') దేహ మార్పులకు చలించడు. — భగవద్గీత (2.13)"
+    }
+  },
+  {
+    "id": "bg-2-13-q2",
+    "verse": { "c": 2, "s": 13 },
+    "concept": ["Definition of the Sober Wise - Dhīra"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the specific spiritual characteristic of a 'Dhīra' as described in verse 2.13?",
+      "te": "2.13 శ్లోకంలో వర్ణించబడిన 'ధీరః' (ధీరుడు) యొక్క ప్రాథమిక ఆధ్యాత్మిక లక్షణం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "One established in steady wisdom who understands that the soul is distinct from bodily changes, and therefore is not deluded ('tatra na muhyati') by physical death/reincarnation.",
+        "te": "ఆత్మ దేహ వికారాల కంటే వేరైనదని ఎరిగి, స్థిరమైన వివేకంతో నిలిచి దేహాంతర ప్రాప్తి (మరణము/పునర్జన్మ) పట్ల వ్యామోహం చెందనివాడు ('తత్ర న ముహ్యతి').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "A fearless physical warrior who can withstand enemy attacks without flinching.",
+        "te": "శత్రువుల దాడులకు భయపడకుండా తట్టుకోగలిగిన శారీరక బలం కలిగిన యోధుడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "An ascetic who performs severe austerities during boyhood and youth.",
+        "te": "బాల్యంలో, యౌవనంలో కఠినమైన తపస్సు ఆచరించే సన్యాసి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "A king who rules his subjects equally through old age.",
+        "te": "వృద్ధాప్యం వరకు ప్రజలను సమంగా పరిపాలించే రాజు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Dhīra' comes from 'dhī' (intellect/spiritual wisdom). A Dhīra is a person of undisturbed, discriminate intellect who observes physical shifts (childhood to old age, life to death) without being confused or overcome by grief ('tatra na muhyati'). — Bhagavad Gita (2.13)",
+      "te": "'ధీ' (బుద్ధి/వివేకము) గలవాడే 'ధీరుడు'. దేహానికి కలిగే బాల్యాది వికారాలను, అలాగే దేహాంతర ప్రాప్తిని సమానంగా చూస్తూ మోహానికి లోనుకాని ధీర చిత్తుడే నిజమైన ఆత్మజ్ఞాని. — భగవద్గీత (2.13)"
+    }
+  },
+  {
+    "id": "bg-2-13-q3",
+    "verse": { "c": 2, "s": 13 },
+    "concept": ["Analogy Breakdown - Three Stages of Body"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which three bodily stages does Lord Krishna enumerate in verse 2.13 to illustrate the soul's continuous presence through physical change?",
+      "te": "2.13 శ్లోకంలో దేహం మారినా ఆత్మ నిరంతరం ఉంటుందని నిరూపించడానికి శ్రీకృష్ణుడు వర్ణించిన దేహం యొక్క మూడు దశలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "1. Kaumāraṃ (Boyhood / childhood), 2. Yauvanaṃ (Youth), 3. Jarā (Old age / decrepitude).",
+        "te": "1. కౌమారమ్ (బాల్య దశ), 2. యౌవనమ్ (యౌవన దశ), 3. జరా (వృద్ధాప్య దశ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1. Janma (Birth), 2. Sthiti (Maintenance), 3. Laya (Dissolution).",
+        "te": "1. జన్మ (పుట్టుక), 2. స్థితి (ఉండుట), 3. లయ (నాశనము).",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1. Jāgrat (Waking state), 2. Svapna (Dream state), 3. Suṣupti (Deep sleep state).",
+        "te": "1. జాగ్రత్ (మెలకువ దశ), 2. స్వప్న (కలల దశ), 3. సుషుప్తి (గాఢ నిద్ర దశ).",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1. Satta (Purity), 2. Rajas (Passion), 3. Tamas (Ignorance).",
+        "te": "1. సత్త్వ గుణము, 2. రజో గుణము, 3. తమో గుణము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kaumāram' (childhood), 'Yauvanam' (youth), and 'Jarā' (old age). Just as the conscious subject ('dehi') remains identical while the body changes from child to youth to elderly, the same conscious entity moves into 'dehāntara' (another body). — Bhagavad Gita (2.13)",
+      "te": "'కౌమారమ్' (బాల్యము), 'యౌవనమ్' (జవ్వనము), 'జరా' (వృద్ధాప్యము). దేహి (ఆత్మ) మారకుండానే దేహము ఈ మూడు దశలను దాటిపోతుంది. మరణంలో జరిగే 'దేహాంతర ప్రాప్తి' కూడా అటువంటి మార్పే. — భగవద్గీత (2.13)"
+    }
+  },
+  {
+    "id": "bg-2-13-q4",
+    "verse": { "c": 2, "s": 13 },
+    "concept": ["Sanskrit Vocabulary - Embodied Soul & Reincarnation"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit compounds 'dehinam' and 'dehāntara-prāptiḥ' mean in verse 2.13?",
+      "te": "2.13 శ్లోకంలోని 'దేహిన్' (దేహినః) మరియు 'దేహాంతరప్రాప్తిః' అనే పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Dehī = The possessor of the body (the embodied Soul / Atman); Dehāntara-prāptiḥ = The attainment of another physical body (reincarnation / transmigration).",
+        "te": "దేహీ = దేహమును కలిగినవాడు (ఆత్మ / జీవాత్మ); దేహాంతరప్రాప్తిః = మరొక దేహమును పొందుట (పునర్జన్మ / సంసార గమనం).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dehī = The material universe; Dehāntara-prāptiḥ = Liberation from all bodies.",
+        "te": "దేహీ = భౌతిక విశ్వము; దేహాంతరప్రాప్తిః = సకల శరీరాల నుండి ముక్తి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Dehī = The king; Dehāntara-prāptiḥ = Crown coronation ceremony.",
+        "te": "దేహీ = రాజు; దేహాంతరప్రాప్తిః = పట్టాభిషేక మహోత్సవము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dehī = The mind; Dehāntara-prāptiḥ = Memory loss.",
+        "te": "దేహీ = మనస్సు; దేహాంతరప్రాప్తిః = జ్ఞాపకశక్తి కోల్పోవుట.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Deha' (body) + possessive suffix '-in' = 'dehī' (the owner/indweller of the body, i.e., the Soul). 'Deha' + 'antara' (another/different) + 'prāptiḥ' (acquisition/attainment) = 'dehāntara-prāptiḥ' (attaining a new body). — Bhagavad Gita (2.13)",
+      "te": "'దేహ' (శరీరము) + 'ఇన్' (కలిగినవాడు) = దేహి (ఆత్మ/జీవుడు). 'దేహ' + 'అంతర' (మరొక) + 'ప్రాప్తిః' (పొందుట) = దేహాంతరప్రాప్తిః (మరొక దేహంలోకి ప్రవేశించుట). — భగవద్గీత (2.13)"
+    }
+  },
+  {
+    "id": "bg-2-13-q5",
+    "verse": { "c": 2, "s": 13 },
+    "concept": ["Sanskrit Grammar - Present Verb 'Muhyati'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'muhyati' in verse 2.13:",
+      "te": "2.13 శ్లోకంలోని 'ముహ్యతి' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person singular present tense Parasmaipada (Laṭ-lakāra) from root 'muh' (to be deluded / confused / bewildered), agreeing with subject 'dhīraḥ' (negated by 'na').",
+        "te": "'ముహ్' (మోహపడు/భ్రాంతిచెందు) అనే ధాతువు యొక్క లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ఏకవచన పరస్మైపద రూపం — 'న' అనే నిషేధార్థక పదంతో చేరి 'ధీరుడు మోహపడడు' ('న ముహ్యతి') అని అర్థమిస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1st person plural future tense verb form.",
+        "te": "ఉత్తమ పురుష బహువచన భవిష్యత్కాల రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Past tense passive verb meaning 'he was deluded'.",
+        "te": "భూతకాల కర్మణి రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb meaning 'do not be deluded'.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Muhyati' is 3rd person singular Laṭ-lakāra (present indicative) of 4th class root 'muh' (muhyati, muhyataḥ, muhyanti). Combined with 'na' (not) and subject 'dhīraḥ': 'dhīras tatra na muhyati' = 'the wise person is not deluded in that regard'. — Bhagavad Gita (2.13)",
+      "te": "'ముహ్యతి' అనేది 'ముహ్' ధాతువు యొక్క వర్తమానకాల ప్రథమ పురుష ఏకవచన రూపం (ముహ్యతి, ముహ్యతః, ముహ్యంతి). 'ధీరః తత్ర న ముహ్యతి' అనగా 'ధీరుడు ఆ దేహ మార్పుల విషయంలో మోహపడడు'. — భగవద్గీత (2.13)"
+    }
+  },
+  {
+    "id": "bg-2-13-q6",
+    "verse": { "c": 2, "s": 13 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'dehino'smin' and 'dhīrastatra' in verse 2.13:",
+      "te": "2.13 శ్లోకంలోని 'దేహినోఽస్మిన్' మరియు 'ధీరస్తత్ర' అనే పదాలను విడదీసి సంధి స్వరూపాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Dehinaḥ + asmin -> dehino 'smin (Visarga Uttva & Pūrvarūpa Sandhi: visarga + a -> o, initial 'a' becomes Avagraha); dhīraḥ + tatra -> dhīrastatra (Visarga Sattva Sandhi: visarga before 't' converts to 's').",
+        "te": "దేహినః + అస్మిన్ -> దేహినోఽస్మిన్ (విసర్గ ఉత్త్వ మరియు పూర్వరూప సంధులు); ధీరః + తత్ర -> ధీరస్తత్ర (విసర్గ సత్త్వ సంధి: శ్వాస పరుషమైన 'త' ముందు విసర్గ 'స' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dehina + asmin; dhīra + tatra",
+        "te": "దేహిన + అస్మిన్; ధీర + తత్ర",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Dehinam + asmin; dhīran + tatra",
+        "te": "దేహినమ్ + అస్మిన్; ధీరన్ + తత్ర",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dehine + asmin; dhīre + tatra",
+        "te": "దేహినే + అస్మిన్; ధీరే + తత్ర",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Dehinaḥ' (Genitive singular of 'dehin') + 'asmin' (in this): visarga 'ḥ' preceded by 'a' and followed by short 'a' becomes 'o', and initial 'a' converts to Avagraha ('smin) -> 'dehino 'smin'. 2. 'Dhīraḥ' (nominative singular) + 'tatra' (there): visarga 'ḥ' before dental 't' converts to 's' -> 'dhīrastatra'. — Bhagavad Gita (2.13)",
+      "te": "1. 'దేహినః' + 'అస్మిన్' లలో విసర్గ 'ఓ' గా మారి, 'అ' కారానికి అవగ్రహం వచ్చి 'దేహినోఽస్మిన్' (పూర్వరూప సంధి) అయినది. 2. 'ధీరః' + 'తత్ర' లలో విసర్గ 'త్' ముందు 'స' గా మారి 'ధీరస్తత్ర' (విసర్గ సత్త్వ సంధి) అయినది. — భగవద్గీత (2.13)"
+    }
+  }
+]

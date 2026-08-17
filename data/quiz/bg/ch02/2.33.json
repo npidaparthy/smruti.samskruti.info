@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-33-q1",
+    "verse": { "c": 2, "s": 33 },
+    "concept": ["Verse Meaning & Consequences of Neglecting Duty"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.33?\n\n“atha cettsvamimaṃ dharmyaṃ saṅgrāmaṃ na kariṣyasi | tataḥ svadharmaṃ kīrtiṃ ca hitvā pāpamavāpsyasi”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అథ చేత్త్వమిమం ధర్మ్యం సంగ్రామం న కరిష్యసి | తతః స్వధర్మం కీర్తిం చ హిత్వా పాపమవాప్స్యసి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — But if you do not engage in this righteous war, then, having forfeited your own religious duty and honor, you will incur sin.",
+        "te": "శ్రీభగవానుడు పలికెను — ఒకవేళ నీవు ధర్మబద్ధమైన ఈ యుద్ధాన్ని చేయకపోయినట్లయితే, నీ స్వధర్మాన్ని మరియు కీర్తిని విడిచిపెట్టి పాపాన్ని పొందుతావు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — If you withdraw from the battle out of compassion, you will attain spiritual peace and avoid incurring any karmic reaction.",
+        "te": "శ్రీభగవానుడు పలికెను — కరుణతో నీవు యుద్ధం నుండి విరమించుకుంటే, నీవు ఆధ్యాత్మిక శాంతిని పొంది ఎలాంటి కర్మపాపాన్ని మూటగట్టుకోకుండా తప్పుకుంటావు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — By abandoning this war, you protect your fame as a righteous prince while fulfilling the highest vows of non-violence.",
+        "te": "శ్రీభగవానుడు పలికెను — ఈ యుద్ధాన్ని త్యజించడం ద్వారా, నీవు అహింస అనే పరమోత్తమ వ్రతాన్ని నెరవేరుస్తూ ధర్మాత్ముడైన রাজకుమారుడిగా నీ కీర్తిని కాపాడుకుంటావు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Refusing to fight in a righteous war incurs only social dishonor, but carries no spiritual or karmic guilt.",
+        "te": "శ్రీభగవానుడు పలికెను — ధర్మయుద్ధంలో పోరాడటానికి నిరాకరించడం వల్ల కేవలం సామాజిక అవమానం మాత్రమే కలుగుతుంది, కానీ ఆధ్యాత్మికంగా ఎలాంటి పాపము అంటదు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Atha cet tvam imaṃ dharmyaṃ saṅgrāmaṃ na kariṣyasi / tataḥ sva-dharmaṃ kīrtiṃ ca hitvā pāpam avāpsyasi.\" Krishna presents the flip side of duty: abandoning an obligatory righteous war ('dharmyaṃ saṅgrāmam') means relinquishing both one's prescribed duty ('sva-dharma') and earned reputation ('kīrti'), which directly results in incurring sin ('pāpam'). — Bhagavad Gita (2.33)",
+      "te": "కర్తవ్య నిర్లక్ష్యం వల్ల కలిగే దుష్పరిణామాలను శ్రీకృష్ణుడు ఇక్కడ వివరిస్తున్నాడు. ధర్మయుద్ధాన్ని ('ధర్మ్యం సంగ్రామమ్') త్యజించడం వల్ల తన స్వధర్మాన్ని ('స్వధర్మమ్'), ఆర్జించిన యశస్సును ('కీర్తిమ్') కోల్పోవడమే కాకుండా ప్రత్యక్షంగా పాపాన్ని ('పాపమ్') మూటగట్టుకుంటావు అని హెచ్చరిస్తున్నాడు. — భగవద్గీత (2.33)"
+    }
+  },
+  {
+    "id": "bg-2-33-q2",
+    "verse": { "c": 2, "s": 33 },
+    "concept": ["Karmic Consequence - Why Refusing Duty Incurs Sin (Pāpam)"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why does Lord Krishna state that Arjuna will incur sin ('pāpam avāpsyasi') if he refuses to fight in verse 2.33?",
+      "te": "2.33 శ్లోకంలో యుద్ధం చేయడానికి నిరాకరిస్తే అర్జునుడు పాపాన్ని పొందుతాడని ('పాపమవాప్స్యసి') శ్రీకృష్ణుడు ఎందుకు పలికాడు?"
+    },
+    "choices": [
+      {
+        "en": "Because abandoning an obligatory duty (Vihi-ta-karma-tyāga) prescribed for one's station out of delusion or fear constitutes a breach of cosmic/social order (Dharma), which inherently produces negative karma.",
+        "te": "మోహం లేదా భయంతో తన వర్ణాశ్రమ స్వధర్మాన్ని (విహిత కర్మను) విడిచిపెట్టడం (కర్తవ్య విముఖత) అనేది ధర్మానికి విరుద్ధమైన కర్మభ్రష్టత కాబట్టి, అది ప్రత్యక్షంగా పాపాన్ని ప్రసాదిస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because he disobeyed the royal decrees issued by King Dhritarashtra.",
+        "te": "ధృతరాష్ట్ర మహారాజు జారీ చేసిన రాజశాసనాలను ఉల్లంఘించాడు కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because refusing to fight forces his brothers to forfeit their personal weapons.",
+        "te": "పోరాడటానికి నిరాకరించడం వల్ల తన సోదరులు తమ వ్యక్తిగత ఆయుధాలను విడిచిపెట్టాల్సి వస్తుంది కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because sins are incurred whenever a Kshatriya speaks gently on the battlefield.",
+        "te": "రణరంగంలో క్షత్రియుడు మృదువుగా మాట్లాడినప్పుడల్లా పాపం అంటుకుంటుంది కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedic ethics, sin arises not only from doing prohibited acts (Niṣiddha karma) but also from failing to perform obligatory duties (Akaraṇaṃ vihita-karmaṇaḥ). For a warrior, stepping away from a righteous battle is an omission of duty that yields Adharma/Pāpa. — Bhagavad Gita (2.33)",
+      "te": "వేద ధర్మశాస్త్రాలలో నిషేధించిన కర్మలు చేయడం వల్ల మాత్రమే కాకుండా, చేయవలసిన విహిత కర్తవ్యాన్ని విడిచిపెట్టడం వల్ల కూడా పాపం వస్తుంది. క్షత్రియునికి ధర్మయుద్ధం విహిత కర్మ కావున దాన్ని వదిలేస్తే అధర్మము/పాపము సంభవిస్తాయి. — భగవద్గీత (2.33)"
+    }
+  },
+  {
+    "id": "bg-2-33-q3",
+    "verse": { "c": 2, "s": 33 },
+    "concept": ["Twofold Loss - Swadharma & Kīrti"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which two vital assets does Krishna warn Arjuna he will lose ('hitvā') if he avoids this battle in verse 2.33?",
+      "te": "2.33 శ్లోకంలో ఈ యుద్ధాన్ని నివారించడం ద్వారా అర్జునుడు ఏ రెండు కీలకమైన సంపదలను పోగొట్టుకుంటాడని ('హిత్వా') కృష్ణుడు హెచ్చరిస్తున్నాడు?"
+    },
+    "choices": [
+      {
+        "en": "1. Sva-dharma (Inherent spiritual and social duty), 2. Kīrti (Honor, fame, and righteous reputation).",
+        "te": "1. స్వధర్మమ్ (తన జన్మసిద్ధమైన, ధార్మికమైన కర్తవ్యం), 2. కీర్తిమ్ (గౌరవం, యశస్సు, మరియు పరాక్రమ ఖ్యాతి).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1. Physical strength, 2. Material wealth.",
+        "te": "1. శారీరక బలం, 2. భౌతిక సంపద.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1. Kingdom of Hastinapur, 2. Divine weapons.",
+        "te": "1. హస్తినాపుర రాజ్యం, 2. దివ్యాస్త్రాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1. Love of his brothers, 2. Blessing of ancestors.",
+        "te": "1. సోదరుల అనురాగం, 2. పితృదేవతల ఆశీస్సులు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Hitvā' (having cast aside / lost): Krishna points out a double loss. First, a spiritual loss—forsaking Swadharma; second, a worldly loss—destroying the vast heroic reputation ('kīrti') built through decades of valorous deeds. — Bhagavad Gita (2.33)",
+      "te": "'హిత్వా' అనగా విడిచిపెట్టి/పోగొట్టుకొని. ఇక్కడ అర్జునునికి రెండు రకాల నష్టం జరుగుతుందని కృష్ణుడు చెబుతున్నాడు: మొదటిది ఆధ్యాత్మిక నష్టం (స్వధర్మాన్ని కోల్పోవడం), రెండవది లౌకిక నష్టం (జీవితాంతం సంపాదించిన వీర కీర్తిని పోగొట్టుకోవడం). — భగవద్గీత (2.33)"
+    }
+  },
+  {
+    "id": "bg-2-33-q4",
+    "verse": { "c": 2, "s": 33 },
+    "concept": ["Sanskrit Vocabulary - Conditional Clause & Forfeiture"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit phrases 'atha cet' and 'pāpam avāpsyasi' mean in verse 2.33?",
+      "te": "2.33 శ్లోకంలోని 'అథ చేత్' మరియు 'పాపమవాప్స్యసి' అనే సంస్కృత పదబంధాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Atha cet = But if / on the other hand if; Pāpam avāpsyasi = You will incur / obtain sin.",
+        "te": "అథ చేత్ = ఒకవేళ / అట్లుకాక నీవు; పాపమ్ అవాప్స్యసి = పాపాన్ని పొందుతావు / పాపభాగుడవు అవుతావు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Atha cet = Therefore; Pāpam avāpsyasi = You will achieve liberation.",
+        "te": "అథ చేత్ = అందువల్ల; పాపమ్ అవాప్స్యసి = నీవు మోక్షాన్ని పొందుతావు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Atha cet = Without doubt; Pāpam avāpsyasi = You will win the battle.",
+        "te": "అథ చేత్ = నిస్సందేహంగా; పాపమ్ అవాప్స్యసి = నీవు యుద్ధంలో గెలుస్తావు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Atha cet = Formerly; Pāpam avāpsyasi = You will gain vast wealth.",
+        "te": "అథ చేత్ = పూర్వము; పాపమ్ అవాప్స్యసి = నీవు అపార సంపదను పొందుతావు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Atha' (now / on the other hand) + 'cet' (if) forms a conditional clause introducing the negative scenario. 'Pāpam' (sin/degrade) + 'avāpsyasi' (2nd person singular future tense = you will acquire/incur). — Bhagavad Gita (2.33)",
+      "te": "'అథ' (ఇక/అట్లుకాక) + 'చేత్' (ఒకవేళ) అనేవి విపరీత పరిణామాన్ని తెలిపే సంభావనార్థక పదాలు. 'పాపమ్' (పాపమును) + 'అవాప్స్యసి' (పొందగలవు - భవిష్యత్ కాల రూపం). — భగవద్గీత (2.33)"
+    }
+  },
+  {
+    "id": "bg-2-33-q5",
+    "verse": { "c": 2, "s": 33 },
+    "concept": ["Sanskrit Grammar - Future Tense Verbs 'Kariṣyasi' & 'Avāpsyasi'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of the verbs 'kariṣyasi' and 'avāpsyasi' in verse 2.33:",
+      "te": "2.33 శ్లోకంలోని 'కరిష్యసి' మరియు 'అవాప్స్యసి' అనే క్రియాపదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "2nd person singular Simple Future tense Parasmaipada (Lṛṭ-lakāra) forms: 'kariṣyasi' from root 'kṛ' (you will do); 'avāpsyasi' from root 'āp' with prefix 'ava' (you will incur/obtain).",
+        "te": "లృట్ లకార (సాధారణ భవిష్యత్కాల) మధ్యమ పురుష ఏకవచన పరస్మైపద రూపాలు: 'కృ' (చేయు) ధాతువు నుండి 'కరిష్యసి' (నీవు చేయుదువు); 'అవ' ఉపసర్గతో కూడిన 'ఆప్' (పొందు) ధాతువు నుండి 'అవాప్స్యసి' (నీవు పొందుదువు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1st person plural present tense verbs.",
+        "te": "ఉత్తమ పురుష బహువచన వర్తమానకాల క్రియలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "3rd person singular past tense verbs.",
+        "te": "ప్రథమ పురుష ఏకవచన భూతకాల క్రియలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verbs.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Both verbs are in Lṛṭ-lakāra (future tense) 2nd person singular (matching 'tvam'): 1. 'Na kariṣyasi' = 'if you will not do'. 2. 'Avāpsyasi' = 'you will acquire/reap'. — Bhagavad Gita (2.33)",
+      "te": "'త్వమ్' అనే మధ్యమ పురుష ఏకవచన కర్తకు అనుగుణంగా ఈ రెండు క్రియలూ లృట్ లకార (భవిష్యత్కాల) మధ్యమ పురుష ఏకవచనంలో ఉన్నాయి: 1. 'న కరిష్యసి' (చేయకపోతే), 2. 'అవాప్స్యసి' (పొందగలవు). — భగవద్గీత (2.33)"
+    }
+  },
+  {
+    "id": "bg-2-33-q6",
+    "verse": { "c": 2, "s": 33 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'atha cet tvaṃ' and 'pāpamavāpsyasi' in verse 2.33:",
+      "te": "2.33 శ్లోకంలోని 'అథ చేత్ త్వమ్' (అథ చేత్త్వమ్) మరియు 'పాపమవాప్స్యసి' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Atha + cet -> atha cet; cet + tvam -> cet tvam -> cettsvam (Consonant Assimilation: 't' + 't' -> 'tt', 'tv' -> 'tsv'); pāpam + avāpsyasi -> pāpamavāpsyasi (consonant 'm' combining with initial vowel 'a').",
+        "te": "అథ + చేత్ -> అథ చేత్; చేత్ + త్వమ్ -> చేత్త్వమ్ (ద్విత్వ వ్యంజన సంధి: 'త్' + 'త్' -> 'త్త్'); పాపమ్ + అవాప్స్యసి -> పాపమవాప్స్యసి (పొల్లు 'మ్' అచ్చు 'అ' తో సూటిగా కలయుట).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Atha + cetvam -> atha cetvam; pāpa + avāpsyasi -> pāpāvāpsyasi",
+        "te": "అథ + చేత్వమ్ -> అథ చేత్వమ్; పాప + అవాప్స్యసి -> పాపావాప్స్యసి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Athān + cet -> athān cet; pāpan + avāpsyasi -> pāpanavāpsyasi",
+        "te": "అథాన్ + చేత్ -> అథాన్ చేత్; పాపన్ + అవాప్స్యసి -> పాపనవాప్స్యసి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Athaḥ + cet -> athahcet; pāpaḥ + avāpsyasi -> pāpohavāpsyasi",
+        "te": "అథః + చేత్ -> అథహచేత్; పాపః + అవాప్స్యasi -> పాపోహవాప్స్యసి",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Cet' (if) + 'tvam' (you): the final dental 't' of 'cet' combines with initial 't' of 'tvam', doubling the dental stop ('cet-tvam' / 'cettsvam'). 2. 'Pāpam' (sin) + 'avāpsyasi' (will incur): the anusvāra/consonant 'm' merges directly with short vowel 'a' to form 'ma', yielding 'pāpamavāpsyasi'. — Bhagavad Gita (2.33)",
+      "te": "1. 'చేత్' + 'త్వమ్' లలో పొల్లు 'త్' తర్వాత 'త్' రావడం వల్ల ద్విత్వ తకారం ఏర్పడి 'చేత్త్వమ్' అయినది. 2. 'పాపమ్' + 'అవాప్స్యసి' లలో పొల్లు 'మ్' అచ్చు 'అ' తో కలసి 'పాపమవాప్స్యసి' అని నిరాటంకంగా రూపుదిద్దుకుంది. — భగవద్గీత (2.23)"
+    }
+  }
+]

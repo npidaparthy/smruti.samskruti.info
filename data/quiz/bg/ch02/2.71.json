@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-71-q1",
+    "verse": { "c": 2, "s": 71 },
+    "concept": ["Verse Meaning & Freedom from Egoism and Possessiveness"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.71?\n\n“vihāya kāmānyaḥ sarvānpumāṃścarati niḥspṛhaḥ | nirmamo nirahaṅkāraḥ sa śāntimadhigacchati”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“విహాయ కామాన్ యః సర్వాన్ పుమాంశ్చరతి నిఃస్పృహః | నిర్మమో నిరహంకారః స శాంతిమధిగచ్ఛతి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — That person who, giving up all desires, moves about free from craving, without possessiveness ('mine'), and without egoism ('I'), attains supreme peace.",
+        "te": "శ్రీభగవానుడు పలికెను — ఏ మానవుడైతే సమస్త కామములను (కోరికలను) విడిచిపెట్టి, స్పృహా రహితుడై (ఆశ/తృష్ణ లేనివాడై), 'నాది' అను మమకారము (నిర్మమః) మరియు 'నేను' అను అహంకారము (నిరహంకారః) లేనివాడై జీవితంలో సంచరిస్తాడో... అతడు పరమ శాంతిని పొందుతాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — One who abandons physical desires but retains mental pride and sense of ownership attains lasting peace.",
+        "te": "శ్రీభగవానుడు పలికెను — శారీరక కోరికలను విడిచిపెట్టి అంతరంగంలో అహంకారాన్ని, మమకారాన్ని కాపాడుకునేవాడు శాశ్వత శాంతిని పొందుతాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Giving up desires means abandoning one's family and physical duties to wander in mountain caves without eating food.",
+        "te": "శ్రీభగవానుడు పలికెను — కోరికలను విడిచిపెట్టడమంటే కుటుంబ బాధ్యతలను విడిచిపెట్టి అరణ్యాలలో ఆహారం లేకుండా తిరగడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Peace is attained by acquiring all material wealth while asserting strong individual ego and ownership over one's domain.",
+        "te": "శ్రీభగవానుడు పలికెను — తన సామ్రాజ్యంపై బలమైన అహంకారాన్ని, యాజమాన్యాన్ని ప్రదర్శిస్తూ సమస్త భౌతిక సంపదను సంపాదించడం ద్వారా శాంతి లభిస్తుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Vihāya kāmān yaḥ sarvān pumāṃś carati niḥspṛhaḥ / nirmamo nirahaṅkāraḥ sa śāntim adhigacchati.\" Krishna summarizes the four spiritual pillars of liberation: 1. 'Vihāya sarvān kāmān' (abandoning all desires), 2. 'Niḥspṛhaḥ' (moving without lingering craving), 3. 'Nirmamaḥ' (devoid of the illusion of ownership/'mine'), 4. 'Nirahaṅkāraḥ' (devoid of false ego/'I'). Such a person alone attains 'Śānti' (peace). — Bhagavad Gita (2.71)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ మోక్షానికి కావలసిన నాలుగు ప్రధాన ఆధ్యాత్మిక స్తంభాలను వర్ణించాడు: 1. 'విహాయ సర్వాన్ కామాన్' (సమస్త కామ్య కోరికలను త్యజించడం), 2. 'నిఃస్పృహః' (తృష్ణ లేదా ఆరాటం లేకపోవడం), 3. 'నిర్మమః' ('నాది' అనే మమకారపు భ్రాంతి లేకపోవడం), 4. 'నిరహంకారః' ('నేను' అనే అహంకారం లేకపోవడం). ఈ నాలుగు లక్షణాలు ఉన్న సాధకుడే శాంతిని పొందుతాడు. — భగవద్గీత (2.71)"
+    }
+  },
+  {
+    "id": "bg-2-71-q2",
+    "verse": { "c": 2, "s": 71 },
+    "concept": ["Philosophical Pillars - Nirmamaḥ and Nirahaṅkāraḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the distinction between 'Nirmamaḥ' and 'Nirahaṅkāraḥ' in verse 2.71?",
+      "te": "2.71 శ్లోకంలో చెప్పబడిన 'నిర్మమః' మరియు 'నిరహంకారః' అను పదాల మధ్య గల అంతరార్థ వ్యత్యాసం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Nirmamaḥ = Devoid of 'Mamatā' (the sense of possessiveness or claiming 'this is mine'); Nirahaṅkāraḥ = Devoid of 'Ahaṅkāra' (the false identification with the body-mind complex as 'I am the doer/enjoyer').",
+        "te": "నిర్మమః = మమకార రహితుడు ('ఇది నాది' అనే భౌతిక స్వామిత్వపు భ్రాంతి లేనివాడు); నిరహంకారః = అహంకార రహితుడు (దేహమనోబుద్ధులను 'నేను' అని భావించే అజ్ఞానపు అహంభావం లేనివాడు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nirmamaḥ = Being physically poor; Nirahaṅkāraḥ = Being silent during conversation.",
+        "te": "నిర్మమః = శారీరకంగా పేదవాడై ఉండటం; నిరహంకారః = సంభాషణ సమయంలో మౌనంగా ఉండటం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nirmamaḥ = Having no children; Nirahaṅkāraḥ = Having no house.",
+        "te": "నిర్మమః = పిల్లలు లేకపోవడం; నిరహంకారః = ఇల్లు లేకపోవడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nirmamaḥ = Hating enemies; Nirahaṅkāraḥ = Fearing defeat in war.",
+        "te": "నిర్మమః = శత్రువులను ద్వేషించడం; నిరహంకారః = యుద్ధంలో ఓటమికి భయపడటం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Ahaṅkāra' (I-ness) is the primary root illusion ('I am this body/doer'). 'Mamakāra' (Mine-ness) is the secondary illusion extended outward ('these objects/people belong to me'). A liberated soul destroys both root causes, becoming 'Nirahaṅkāraḥ' (free from I-ness) and 'Nirmamaḥ' (free from Mine-ness). — Bhagavad Gita (2.71)",
+      "te": "'అహంకారం' ('నేను దేహాన్ని/కర్తను' అనే ప్రాథమిక అజ్ఞాన భ్రాంతి) ప్రాథమికమైనది. దాని నుండి జనించిన 'మమకారం' ('ఈ వస్తువులు/వ్యక్తులు నావి' అనే అనుబంధ భ్రాంతి) ద్వితీయాంశం. జీవన్ముక్తుడు ఈ రెండింటినీ నశింపజేసుకుని నిరహంకారుడై, నిర్మముడై జీవిస్తాడు. — భగవద్గీత (2.71)"
+    }
+  },
+  {
+    "id": "bg-2-71-q3",
+    "verse": { "c": 2, "s": 71 },
+    "concept": ["Spiritual Living - Pumāṃś Carati Niḥspṛhaḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the expression 'Pumāṃś carati niḥspṛhaḥ' signify regarding a sage's lifestyle in verse 2.71?",
+      "te": "2.71 శ్లోకంలోని 'పుమాంశ్చరతి నిఃస్పృహః' అనే వాక్యాంశం ఆత్మజ్ఞాని యొక్క జీవన విధానం గురించి ఏమి తెలుపుతోంది?"
+    },
+    "choices": [
+      {
+        "en": "It means the sage continues to move and act in the active world ('carati') to fulfill necessary physical and societal duties, but functions completely free from lingering attachment or desire ('niḥspṛhaḥ').",
+        "te": "ఆత్మజ్ఞాని శారీరక, సామాజిక కర్తవ్యాలను నిర్వర్తించడానికి ప్రపంచంలో సంచరిస్తూనే ఉంటాడు ('చరతి'); కానీ అంతరంగంలో ఏ లౌకిక భోగాశ లేదా తృష్ణ లేనివాడై ('నిఃస్పృహః') ప్రవర్తిస్తాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It means a sage must wander aimlessly without any goal or destination in life.",
+        "te": "జ్ఞాని జీవితంలో ఎలాంటి లక్ష్యమూ లేకుండా అటుఇటు దిక్కుతోచకుండా తిరగాలని దీని అర్థం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It indicates that a sage must walk on foot across the entire country to preach religion.",
+        "te": "మతాన్ని ప్రబోధించడానికి జ్ఞాని దేశమంతటా కాలినడకన ప్రయాణించాలని ఇది సూచిస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It suggests that spiritual liberation is possible only for men and not women.",
+        "te": "ఆధ్యాత్మిక ముక్తి కేవలం పురుషులకు మాత్రమే సాధ్యమని, స్త్రీలకు కాదని ఇది సూచిస్తుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Pumān' (person/seeker) + 'carati' (moves/acts) + 'niḥspṛhaḥ' (without craving). Enlightenment does not require cessation of physical movement or action; it requires the cessation of 'Spṛhā' (eager craving/longing) while carrying out designated duties. — Bhagavad Gita (2.71)",
+      "te": "'పుమాన్' (మానవుడు) + 'చరతి' (సంచరించును/జీవించును) + 'నిఃస్పృహః' (తృష్ణ లేనివాడై). జ్ఞానమనేది శారీరక కర్మలను నిలిపివేయడం కాదు; కర్తవ్యాలు నిర్వహిస్తున్నప్పుడు అంతరంగంలో 'స్పృహ' (ఆరాటపు తృష్ణ) లేకుండా ఉండటమే నిజమైన జ్ఞానం. — భగవద్గీత (2.71)"
+    }
+  },
+  {
+    "id": "bg-2-71-q4",
+    "verse": { "c": 2, "s": 71 },
+    "concept": ["Sanskrit Vocabulary - Giving Up, Free from Craving, Ego-free"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'vihāya', 'niḥspṛhaḥ', 'nirmamaḥ', and 'nirahaṅkāraḥ' mean in verse 2.71?",
+      "te": "2.71 శ్లోకంలోని 'విహాయ', 'నిఃస్పృహః', 'నిర్మమః', మరియు 'నిరహంకారః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Vihāya = Abandoning / giving up; Niḥspṛhaḥ = Free from yearning / desireless; Nirmamaḥ = Free from possessiveness ('mine'); Nirahaṅkāraḥ = Free from egoism ('I').",
+        "te": "విహాయ = విడిచిపెట్టి / త్యజించి; నిఃస్పృహః = ఆరాటము/తృష్ణ లేనివాడు; నిర్మమః = మమకారము ('నాది' అను అనుబంధము) లేనివాడు; నిరహంకారః = అహంకారము ('నేను' అను అజ్ఞానము) లేనివాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Vihāya = Remembering; Niḥspṛhaḥ = Greedy; Nirmamaḥ = Rich; Nirahaṅkāraḥ = Powerful.",
+        "te": "విహాయ = గుర్తుంచుకొని; నిఃస్పృహః = దురాశ గలవాడు; నిర్మమః = ధనవంతుడు; నిరహంకారః = బలాఢ్యుడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Vihāya = Destroying; Niḥspṛhaḥ = Fearful; Nirmamaḥ = Homeless; Nirahaṅkāraḥ = Illiterate.",
+        "te": "విహాయ = నాశనం చేసి; నిఃస్పృహః = భయపడినవాడు; నిర్మమః = ఇల్లు లేనివాడు; నిరహంకారః = చదువురానివాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vihāya = Praising; Niḥspṛhaḥ = Sleeping; Nirmamaḥ = Defeated; Nirahaṅkāraḥ = Silent.",
+        "te": "విహాయ = ప్రశంసించి; నిఃస్పృహః = నిద్రపోతున్నవాడు; నిర్మమః = ఓడిపోయినవాడు; నిరహంకారః = మౌనంగా ఉన్నవాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vi' + 'hāya' (Lyap-gerund of root 'hā' = having abandoned). 'Niḥ' (without) + 'spṛhā' (longing) = 'Niḥspṛhaḥ'. 'Nir' (without) + 'mamā' (mine) = 'Nirmamaḥ'. 'Nir' (without) + 'ahaṅkāra' (ego) = 'Nirahaṅkāraḥ'. — Bhagavad Gita (2.71)",
+      "te": "'వి' + 'హా' ధాతు ల్యబంత రూపం 'విహాయ' (విడిచిపెట్టి). 'నిః' + 'స్పృహా' = నిఃస్పృహః. 'నిర్' + 'మమ' = నిర్మమః. 'నిర్' + 'అహంకార' = నిరహంకారః. — భగవద్గీత (2.71)"
+    }
+  },
+  {
+    "id": "bg-2-71-q5",
+    "verse": { "c": 2, "s": 71 },
+    "concept": ["Sanskrit Grammar - Bahuvrīhi Nominals & Gerund 'Vihāya'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical compound structures of 'niḥspṛhaḥ', 'nirmamaḥ', and 'nirahaṅkāraḥ' in verse 2.71:",
+      "te": "2.71 శ్లోకంలోని 'నిఃస్పృహః', 'నిర్మమః', మరియు 'నిరహంకారః' అనే పదాల వ్యాకరణ సమాస విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "All three are Bahuvrīhi (Attributive) Compounds qualifying the subject 'pumāṁs' (person): 'nirgatā spṛhā yasmāt saḥ' (one from whom yearning has departed), 'nirgatā mamatā yasya saḥ' (one who has no possessiveness), and 'nirgatam ahaṅkāram yasya saḥ' (one who has no false ego).",
+        "te": "ఈ మూడూ 'పుమాన్స్' అనే కర్తకు విశేషణాలుగా ఉన్న బహువ్రీహి సమాసాలు: 'నిర్గతా స్పృహా యస్మాత్ సః' = నిఃస్పృహః; 'నిర్గతా మమతా యస్య సః' = నిర్మమః; 'నిర్గతమ్ అహంకారం యస్య సః' = నిరహంకారః.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Tatpuruṣa compounds modifying 'śāntim'.",
+        "te": "'శాంతిమ్' అనే పదానికి విశేషణమైన తత్పురుష సమాసాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Dvandva compounds acting as verbs.",
+        "te": "క్రియలుగా పనిచేసే ద్వంద్వ సమాసాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avyayībhāva adverbs modifying 'adhigacchati'.",
+        "te": "'అధిగచ్ఛతి' అనే క్రియను వర్ణించే అవ్యయీభావ సమాసాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The three Bahuvrīhi compounds ('Niḥspṛhaḥ', 'Nirmamaḥ', 'Nirahaṅkāraḥ') all take Nominative Singular Masculine form to describe the liberated seeker ('pumāṁs') who 'adhigacchati' (attains) peace. — Bhagavad Gita (2.71)",
+      "te": "ఈ మూడు బహువ్రీహి సమాస పదాలూ ప్రథమా విభక్తి ఏకవచన పుంలింగంలో ఉండి, పరమ శాంతిని పొందే ముక్త పురుషుడి ('పుమాన్స్') అంతరంగ స్థితులను విశేషణాలుగా వర్ణిస్తున్నాయి. — భగవద్గీత (2.71)"
+    }
+  },
+  {
+    "id": "bg-2-71-q6",
+    "verse": { "c": 2, "s": 71 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'kāmānyaḥ', 'pumāṃścarati', and 'śāntimadhigacchati' in verse 2.71:",
+      "te": "2.71 శ్లోకంలోని 'కామాన్ యః', 'పుమాంశ్చరతి', మరియు 'శాంతిమధిగచ్ఛతి' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Kāmān + yaḥ -> kāmān yaḥ (no phonetic change); pumān + carati -> pumāṃś carati (Anusvāra & Ścutva Sandhi: nasal 'n' before palatal 'c' becomes Anusvāra 'ṃ' + 'ś'); śāntim + adhigacchati -> śāntim adhigacchati (consonant 'm' combining with vowel 'a').",
+        "te": "కామాన్ + యః -> కామాన్ యః (మార్పు లేదు); పుమాన్ + చరతి -> పుమాంశ్చరతి (అనుస్వార, శ్చుత్త్వ సంధులు: 'చ' వర్ణం ముందు పొల్లు 'న్' అనుస్వారముగాను, తాలవ్య 'శ్' గాను మారినది); శాంతిమ్ + అధిగచ్ఛతి -> శాంతిమధిగచ్ఛతి (పొల్లు 'మ్' అచ్చు 'అ' తో సంయోగము).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kāmām + yaḥ -> kāmāmyaḥ; pumān + carati -> pumāncarati",
+        "te": "కామామ్ + యః -> కామామ్యః; పుమాన్ + చరతి -> పుమాన్చరతి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kāmāḥ + yaḥ -> kāmāhyaḥ; pumān + carati -> pumānscarati",
+        "te": "కామాః + యః -> కామాహ్యః; పుమాన్ + చరతి -> పుమాన్స్చరతి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kāmāne + yaḥ -> kāmāne'yaḥ; pumān + carati -> pumārcarati",
+        "te": "కామానే + యః -> కామానేఽయః; పుమాన్ + చరతి -> పుమార్చరతి",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Kāmān' + 'yaḥ': dental nasal 'n' remains unchanged before semi-vowel 'y'. 2. 'Pumān' + 'carati': dental nasal 'n' transforms to Anusvāra 'ṃ' and inserts palatal sibilant 'ś' before voiceless palatal stop 'c' via Ścutva Sandhi -> 'pumāṃś carati'. 3. 'Śāntim' + 'adhigacchati': nasal consonant 'm' combines directly with initial short vowel 'a' -> 'śāntim adhigacchati'. — Bhagavad Gita (2.71)",
+      "te": "1. 'కామాన్' + 'యః' లలో ఎలాంటి వర్ణ వికారము లేదు. 2. 'పుమాన్' + 'చరతి' లలో 'చ' వర్ణం ముందు పొల్లు 'న్' శ్చుత్త్వ సంధి ద్వారా అనుస్వారము మరియు 'శ్' గా మారి 'పుమాంశ్చరతి' అయినది. 3. 'శాంతిమ్' + 'అధిగచ్ఛతి' లలో పొల్లు 'మ్' అచ్చు 'అ' తో సూటిగా కలసి 'శాంతిమధిగచ్ఛతి' అని సిద్ధించింది. — భగవద్గీత (2.71)"
+    }
+  }
+]

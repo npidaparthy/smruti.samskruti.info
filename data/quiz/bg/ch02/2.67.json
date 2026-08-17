@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-67-q1",
+    "verse": { "c": 2, "s": 67 },
+    "concept": ["Verse Meaning & The Analogy of the Boat Swept by Wind"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.67?\n\n“indriyāṇāṃ hi caratāṃ yanmano'nuvidhīyate | tadasya harati prajñāṃ vāyurnāvamivāmbhasi”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“ఇంద్రియాణాం హి చరతాం యన్ మనోఽనువిధీయతే | తదస్య హరతి ప్రజ్ఞాం వాయుర్ నావమివాంభసి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Just as a strong wind sweeps away a boat upon the waters, so even one of the wandering senses that the mind yields to carries away a person's discriminative wisdom.",
+        "te": "శ్రీభగవానుడు పలికెను — ప్రచండమైన గాలి నీటిలో తేలియాడే పడవను (నావను) దారి తప్పించి కొట్టుకపోయేలా చేసినట్లే... విషయాలలో సంచరించే ఇంద్రియాల వెంట మనస్సు ఎప్పుడైతే వెళ్తుందో (లొంగిపోతుందో), అప్పుడు ఆ ఒక్క ఇంద్రియమే మనిషి యొక్క వివేక ప్రజ్ఞను హరించివేస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — The wind sweeps away a boat only when sailors stop rowing, just as a warrior loses wisdom when he abandons physical weapons.",
+        "te": "శ్రీభగవానుడు పలికెను — నావికులు తెడ్లు వేయడం మానేసినప్పుడు మాత్రమే గాలి నావను కొట్టుకెళ్తుంది, అలాగే యోధుడు ఆయుధాలను త్యజించినప్పుడు వివేకాన్ని కోల్పోతాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — All five senses must wander together simultaneously to destroy wisdom, whereas a single roaming sense poses no spiritual danger.",
+        "te": "శ్రీభగవానుడు పలికెను — ఐదు ఇంద్రియాలు ఒకేసారి విషయాల వెంట పరుగెత్తినప్పుడు మాత్రమే ప్రజ్ఞ నశిస్తుంది, ఒక్క ఇంద్రియం వల్ల ఎలాంటి ఆధ్యాత్మిక ప్రమాదమూ ఉండదు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — A mind that follows the senses is like a strong ship that easily navigates through stormy ocean waters.",
+        "te": "శ్రీభగవానుడు పలికెను — ఇంద్రియాలను అనుసరించే మనస్సు సముద్ర తుఫానులను కూడా సులభంగా దాటే బలమైన ఓడ లాంటిది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Indriyāṇāṃ hi caratāṃ yan mano 'nuvidhīyate / tad asya harati prajñāṃ vāyur nāvam ivāmbhasi.\" Krishna provides a graphic metaphor ('nāv-āmbhasi-dṛṣṭānta') illustrating how vulnerable the mind is. If the mind ('manaḥ') yields to or follows ('anuvidhīyate') even one roaming sense organ ('caratām indriyāṇām'), that single uncurbed sense carries away ('harati') the seeker's discriminating intellect ('prajñām'), just as a strong wind ('vāyuḥ') blows a boat ('nāvam') off course in water ('āmbhasi'). — Bhagavad Gita (2.67)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ అత్యంత ప్రసిద్ధమైన నావ-సముద్ర దృష్టాంతాన్ని ఇస్తున్నాడు: మనస్సు ('మనః') విషయాలలో తిరిగే ('చరతామ్') ఇంద్రియాలలో ఏ ఒక్కదాని వెంట లొంగిపోయినా ('అనువిధీయతే')... నీటిపై ('అంభసి') ప్రయాణించే నావను ('నావమ్') బలమైన తుఫాను గాలి ('వాయుః') దారి తప్పించినట్లు, ఆ ఒక్క ఇంద్రియమే సాధకుని వివేక ప్రజ్ఞను ('ప్రజ్ఞామ్') హరించివేస్తుంది ('హరతి'). — భగవద్గీత (2.67)"
+    }
+  },
+  {
+    "id": "bg-2-67-q2",
+    "verse": { "c": 2, "s": 67 },
+    "concept": ["Philosophical Analogy - The Boat and Gale Metaphor"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "In the nautical metaphor of verse 2.67, what do the 'Boat' (Nāvam), 'Water' (Āmbhasi), and 'Wind' (Vāyuḥ) respectively symbolize?",
+      "te": "2.67 శ్లోకంలోని సముద్ర ప్రయాణ రూపకంలో 'నావ' (పడవ), 'అంభసి' (నీరు/సముద్రం), మరియు 'వాయుః' (గాలి) వరుసగా వేటికి ప్రతీకలు?"
+    },
+    "choices": [
+      {
+        "en": "Nāvam = Discriminative intellect (Prajñā) or the seeker's spiritual journey; Āmbhasi = Worldly Samsara or mental plane; Vāyuḥ = A single uncontrolled sense organ pursuing sensory objects.",
+        "te": "నావ = సాధకుని వివేక ప్రజ్ఞ / ఆధ్యాత్మిక జీవిత ప్రయాణము; అంభసి = లౌకిక సంసారము / మానసిక జగత్తు; వాయుః = విషయాల వెంట పరుగెత్తే అదుపులేని ఇంద్రియ ప్రవాహము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nāvam = The physical body; Āmbhasi = Battle dust; Vāyuḥ = Chariot horses.",
+        "te": "నావ = భౌతిక దేహము; అంభసి = యుద్ధరంగాన దుమ్ము; వాయుః = రథపు గుర్రాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nāvam = Royal throne; Āmbhasi = Treasury; Vāyuḥ = Enemy words.",
+        "te": "నావ = రాజసింహాసనము; అంభసి = ఖజానా; వాయుః = శత్రువుల మాటలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nāvam = Vedic scriptural book; Āmbhasi = Sacrificial fire; Vāyuḥ = Priestly mantras.",
+        "te": "నావ = వేద శాస్త్ర గ్రంథము; అంభసి = యజ్ఞగుండము; వాయుః = పూజారుల మంత్రాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The spiritual seeker is navigating the ocean of Samsara ('āmbhasi') using the boat of discriminative wisdom ('prajñā/nāvam'). The uncontrolled roaming senses act like a violent gale ('vāyuḥ') that capsize or blow the boat away from its destination (Self-realization). — Bhagavad Gita (2.67)",
+      "te": "సాధకుడు సంసార సముద్రాన్ని ('అంభసి') తన వివేక ప్రజ్ఞ అనే పడవ సహాయంతో ('నావమ్/ప్రజ్ఞా') దాటుతున్నాడు. కానీ అదుపులేని ఇంద్రియాలు అనే తుఫాను గాలి ('వాయుః') ఆ పడవను ముంచివేసి లేదా మోక్షమనే లక్ష్య స్థానం నుండి దూరంగా కొట్టుకుపోయేలా చేస్తుంది. — భగవద్గీత (2.67)"
+    }
+  },
+  {
+    "id": "bg-2-67-q3",
+    "verse": { "c": 2, "s": 67 },
+    "concept": ["Psychological Mechanism - Yan Mano 'Nuvidhīyate"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What psychological vulnerability is highlighted by the clause 'Yan mano 'nuvidhīyate' in verse 2.67?",
+      "te": "2.67 శ్లోకంలోని 'యన్ మనో 'నువిధీయతే' అనే వాక్యాంశం మానసిక బలహీనతకు సంబంధించి ఏ నిజాన్ని బయటపెడుతోంది?"
+    },
+    "choices": [
+      {
+        "en": "It shows that the intellect is ruined not merely when senses perceive objects, but when the mind surrenders to, aligns with, or obeys ('anuvidhīyate') the pull of a wandering sense organ.",
+        "te": "కేవలం ఇంద్రియాలు విషయాలను గ్రహించడం వల్ల ప్రజ్ఞ నశించదు; ఇంద్రియం చూపుతున్న ఆకర్షణకు మనస్సు లొంగిపోయి, దాని వెంట ప్రయాణించినప్పుడు ('అనువిధీయతే') మాత్రమే ప్రజ్ఞ హరించబడుతుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It proves that the mind is always passive and can never be disciplined by intellect.",
+        "te": "మనస్సు ఎప్పుడూ నిష్క్రియాత్మకంగా ఉంటుందని, బుద్ధి దానిని ఎప్పటికీ క్రమశిక్షణలో పెట్టలేదని ఇది నిరూపిస్తుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It means the mind should follow every sensory whim to exhaust karma quickly.",
+        "te": "కర్మను త్వరగా క్షయం చేసుకోవడానికి మనస్సు ఇంద్రియాల ప్రతి కోరికనూ అనుసరించాలని దీని అర్థం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It indicates that physical eyes are the sole organ capable of destroying spiritual wisdom.",
+        "te": "కేవలం శారీరక కళ్ళు మాత్రమే ఆధ్యాత్మిక జ్ఞానాన్ని నాశనం చేయగల ఏకైక ఇంద్రియమని ఇది తెలుపుతుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yat' (whichever sense) + 'manaḥ' (mind) + 'anuvidhīyate' (yields to / follows / conforms to). The senses themselves are inanimate instruments; the real damage occurs when the mind lends its attention to a straying sense, allowing that sense to hijack the discriminating intellect. — Bhagavad Gita (2.67)",
+      "te": "'యత్' (ఏ ఇంద్రియానికైతే) + 'మనః' (మనస్సు) + 'అనువిధీయతే' (లొంగిపోతుందో/అనుసరిస్తుందో). ఇంద్రియాలు కేవలం సాధనాలు మాత్రమే; చెదిరిపోయే ఇంద్రియానికి మనస్సు తన దృష్టిని జతచేసి దానికి లొంగిపోయినప్పుడే వివేక ప్రజ్ఞ అపహరించబడుతుంది. — భగవద్గీత (2.67)"
+    }
+  },
+  {
+    "id": "bg-2-67-q4",
+    "verse": { "c": 2, "s": 67 },
+    "concept": ["Sanskrit Vocabulary - Wandering Senses, Sweeps Away, Water"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'caratām', 'harati', 'nāvam', and 'āmbhasi' mean in verse 2.67?",
+      "te": "2.67 శ్లోకంలోని 'చరతామ్', 'హరతి', 'నావమ్', మరియు 'అంభసి' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Caratām = Of the wandering / roaming senses; Harati = Sweeps away / steals / destroys; Nāvam = Boat / ship; Āmbhasi = In the water / ocean.",
+        "te": "చరతామ్ = విషయాలలో తిరిగే/సంచరించే ఇంద్రియములలో; హరతి = అపహరించును / హరించివేయును; నావమ్ = పడవను / ఓడను; అంభసి = నీటి యందు / సముద్రంలో.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Caratām = Of the dead; Harati = Protects; Nāvam = Chariot; Āmbhasi = Fire.",
+        "te": "చరతామ్ = మరణించిన వారి; హరతి = రక్షించును; నావమ్ = రథము; అంభసి = అగ్ని.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Caratām = Of kings; Harati = Praises; Nāvam = Sword; Āmbhasi = Mountain.",
+        "te": "చరతామ్ = రాజుల; హరతి = ప్రశంసించును; నావమ్ = ఖడ్గము; అంభసి = పర్వతము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Caratām = Of scholars; Harati = Gives; Nāvam = Wealth; Āmbhasi = Sky.",
+        "te": "చరతామ్ = పండితుల; హరతి = ఇచ్చును; నావమ్ = సంపద; అంభసి = ఆకాశము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Caratām' is Genitive Plural Present Participle of root 'car' (of the roaming ones). 'Harati' is 3rd person singular Present tense of root 'hṛ' (steals/carries away). 'Nāvam' is Accusative Singular Feminine of 'nau' (boat). 'Āmbhasi' is Locative Singular Neuter of 'ambhas' (water). — Bhagavad Gita (2.67)",
+      "te": "'చర్' (సంచరించు) ధాతు వర్తమాన విశేషణ షష్ఠీ బహువచనం 'చరతామ్'. 'హృ' (హరించు) ధాతు వర్తమాన ప్రథమ పురుష ఏకవచనం 'హరతి'. 'నౌ' శబ్ద ద్వితీయా ఏకవచనం 'నావమ్' (పడవను). 'అంభస్' శబ్ద సప్తమీ ఏకవచనం 'అంభసి' (నీటిలో). — భగవద్గీత (2.67)"
+    }
+  },
+  {
+    "id": "bg-2-67-q5",
+    "verse": { "c": 2, "s": 67 },
+    "concept": ["Sanskrit Grammar - Passive/Reflexive Verb 'Anuvidhīyate'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'anuvidhīyate' in verse 2.67:",
+      "te": "2.67 శ్లోకంలోని 'అనువిధీయతే' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person singular Present Passive indicative (Laṭ-lakāra) from root 'dhā' with prefixes 'anu' and 'vi' (it is governed by / yields to / conforms to), agreeing with subject 'manaḥ' (mind).",
+        "te": "'అను' + 'వి' ఉపసర్గలతో 'ధా' (ధరించు/చేయు) ధాతువు లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ఏకవచన కర్మణి/ఆత్మనేపద క్రియ ('లొంగిపోవును/అనుసరించును') — ఇది 'మనః' అనే కర్తతో అన్వయిస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person plural Past tense Parasmaipada verb.",
+        "te": "ప్రథమ పురుష బహువచన భూతకాల పరస్మైపద క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Imperative command verb form.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Future tense active verb form.",
+        "te": "భవిష్యత్కాల కర్తరి క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Anuvidhīyate' (is led by / conforms to) describes how the mind allows itself to be dragged along by whichever sense organ is active ('yan mano 'nuvidhīyate'). The subject is 'manaḥ' (mind). — Bhagavad Gita (2.67)",
+      "te": "'అనువిధీయతే' అనగా అనుసరింపబడును / లొంగిపోవును. విషయాల వెంట తిరిగే ఇంద్రియం వెనుక మనస్సు ఎలా లొంగిపోతుందో ఈ క్రియ వివరిస్తోంది ('యత్ మనః అనువిధీయతే'). కర్త: మనః (మనస్సు). — భగవద్గీత (2.67)"
+    }
+  },
+  {
+    "id": "bg-2-67-q6",
+    "verse": { "c": 2, "s": 67 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'yanmano'nuvidhīyate' and 'vāyurnāvamivāmbhasi' in verse 2.67:",
+      "te": "2.67 శ్లోకంలోని 'యన్ మనోఽనువిధీయతే' మరియు 'వాయుర్ నావమివాంభసి' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Yat + manaḥ -> yan manaḥ (Anunāsika Sandhi: unvoiced 't' becomes nasal 'n' before nasal 'm'); manaḥ + anuvidhīyate -> mano 'nuvidhīyate (Visarga Uttva & Pūrvarūpa Sandhi); vāyuḥ + nāvam -> vāyur nāvam (Visarga Rutva Sandhi); nāvam + iva -> nāvam iva (consonant 'm' + vowel 'i'); iva + āmbhasi -> ivāmbhasi (Savarna-dirgha Sandhi: a + ā -> ā).",
+        "te": "యత్ + మనః -> యన్ మనః (అనునాసిక సంధి: అనునాసిక వర్ణం 'మ' ముందు పొల్లు 'త్' స్థానంలో 'న్' వచ్చినది); మనః + అనువిధీయతే -> మనోఽనువిధీయతే (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు); వాయుః + నావమ్ -> వాయుర్ నావమ్ (విసర్గ రుత్త్వ సంధి: 'ఉ' తర్వాత విసర్గ 'ర్' గా మారినది); నావమ్ + ఇవ -> నావమివ (పొల్లు 'మ్' అచ్చు 'ఇ' తో కలయుట); ఇవ + అంభసి -> ఇవాంభసి (సవర్ణదీర్ఘ సంధి: అ + అ -> ఆ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Yat + manaḥ -> yatmanaḥ; vāyuḥ + nāvam -> vāyuhnāvam; iva + āmbhasi -> ive'mbhasi",
+        "te": "యత్ + మనః -> యత్మనః; వాయుః + నావమ్ -> వాయుహ్నావమ్; ఇవ + అంభసి -> ఇవేఽంభసి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Yam + manaḥ -> yammanaḥ; vāyum + nāvam -> vāyumnāvam; ivam + āmbhasi -> ivamāmbhasi",
+        "te": "యమ్ + మనః -> యమ్మనః; వాయుమ్ + నావమ్ -> వాయుమ్నావమ్; ఇవమ్ + అంభసి -> ఇవమఅంభసి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yaḥ + manaḥ -> yaḥmanaḥ; vāyus + nāvam -> vāyusnāvam; ivā + āmbhasi -> ivāmbhasi",
+        "te": "యః + మనః -> యఃమనః; వాయుస్ + నావమ్ -> వాయుస్నావమ్; ఇవా + అంభసి -> ఇవాంబసి",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Yat' + 'manaḥ': dental stop 't' transforms to nasal 'n' before nasal 'm' via Anunāsika Sandhi -> 'yan manaḥ'. 2. 'Manaḥ' + 'anuvidhīyate': visarga -> 'o' and initial 'a' -> Avagraha via Visarga Uttva and Pūrvarūpa Sandhi -> 'mano 'nuvidhīyate'. 3. 'Vāyuḥ' + 'nāvam': visarga after 'u' converts to 'r' before voiced 'n' via Visarga Rutva Sandhi -> 'vāyur nāvam'. 4. 'Iva' + 'āmbhasi': 'a' + 'ā' -> 'ā' via Savarna-dirgha Sandhi -> 'ivāmbhasi'. — Bhagavad Gita (2.67)",
+      "te": "1. 'యత్' + 'మనః' = యన్ మనః (అనునాసిక సంధి). 2. 'మనః' + 'అనువిధీయతే' = మనోఽనువిధీయతే (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు). 3. 'వాయుః' + 'నావమ్' = వాయుర్ నావమ్ (విసర్గ రుత్త్వ సంధి). 4. 'ఇవ' + 'అంభసి' = ఇవాంభసి (సవర్ణదీర్ఘ సంధి). — భగవద్గీత (2.67)"
+    }
+  }
+]

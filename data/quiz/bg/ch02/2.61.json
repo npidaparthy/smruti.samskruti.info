@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-61-q1",
+    "verse": { "c": 2, "s": 61 },
+    "concept": ["Verse Meaning & Divine Anchor for Sense Control"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.61?\n\n“tāni sarvāṇi saṃyamya yukta āsīta matparaḥ | vaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“తాని సర్వాణి సంయమ్య యుక్త ఆసీత మత్పరః | వశే హి యస్యేంద్రియాణి తస్య ప్రజ్ఞా ప్రతిష్ఠితా”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Having brought all senses under complete control, one should sit absorbed in contemplation, taking Me as the Supreme Goal. For he whose senses are under mastery, his wisdom is firmly established.",
+        "te": "శ్రీభగవానుడు పలికెను — సాధకుడు సమస్త ఇంద్రియాలను నియంత్రించి (సంయమనం చేసి), నన్నే పరమ లక్ష్యంగా భావిస్తూ (మత్పరుడై), ఏకాగ్ర మనస్సుతో ధ్యానంలో ఆసీనుడు కావలెను. ఎవరి ఇంద్రియాలైతే స్వాధీనంలో ఉంటాయో, అతని ప్రజ్ఞ (వివేక బుద్ధి) స్థిరంగా నిలిచియుంటుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Bringing senses under control is impossible through divine devotion, so a seeker must rely purely on physical suppression.",
+        "te": "శ్రీభగవానుడు పలికెను — భగవద్భక్తి ద్వారా ఇంద్రియాలను అదుపు చేయడం అసాధ్యం, కాబట్టి సాధకుడు కేవలం శారీరక అణచివేతపై మాత్రమే ఆధారపడాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Taking Me as the Supreme Goal means abandoning all warfare and retreating permanently into mountain caves.",
+        "te": "శ్రీభగవానుడు పలికెను — నన్నే పరమ లక్ష్యంగా భావించడమంటే సమస్త యుద్ధాన్ని విడిచిపెట్టి శాశ్వతంగా పర్వత గుహలకు వెళ్లడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Wisdom is established when a person lets his senses wander freely among sensory objects while reciting Vedic mantras.",
+        "te": "శ్రీభగవానుడు పలికెను — వేద మంత్రాలను పఠిస్తూ ఇంద్రియాలను స్వేచ్ఛగా విషయాల వైపు తిరగనిచ్చినప్పుడు మనిషి ప్రజ్ఞ స్థిరపడుతుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Tāni sarvāṇi saṃyamya yukta āsīta mat-paraḥ / vaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā.\" Having exposed the danger of turbulent senses in 2.60, Krishna presents the antidote: mastering the senses ('tāni sarvāṇi saṃyamya') by focusing the mind on Me as the Supreme Pivot ('mat-paraḥ'). When devotion provides the higher taste, sense mastery becomes natural ('vaśe hi yasya indriyāṇi'), establishing wisdom firmly ('tasya prajñā pratiṣṭhitā'). — Bhagavad Gita (2.61)",
+      "te": "2.60 లో చెప్పిన ఇంద్రియాల ప్రమాదానికి శ్రీకృష్ణుడు ఇక్కడ దివ్యౌషధాన్ని ఉపదేశించాడు: సమస్త ఇంద్రియాలను నిగ్రహించి ('తాని సర్వాణి సంయమ్య'), పరమాత్మనైన నన్నే పరమ ప్రాప్యంగా చేసుకుని ('మత్పరః') ధ్యానంలో స్థిరపడాలి ('యుక్త ఆసీత'). భగవదనుసంధానము ద్వారా ఇంద్రియాలు వశమైనప్పుడే ('వశే హి యస్యేంద్రియాణి') సాధకుడి వివేక ప్రజ్ఞ నిశ్చలంగా స్థిరపడుతుంది ('తస్య ప్రజ్ఞా ప్రతిష్ఠితా'). — భగవద్గీత (2.61)"
+    }
+  },
+  {
+    "id": "bg-2-61-q2",
+    "verse": { "c": 2, "s": 61 },
+    "concept": ["Philosophical Anchor - Meaning of Mat-paraḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the crucial spiritual shift introduced by the compound 'Mat-paraḥ' in verse 2.61?",
+      "te": "2.61 శ్లోకంలోని 'మత్పరః' అనే పదం ద్వారా ప్రవేశపెట్టబడిన అత్యంత కీలకమైన ఆధ్యాత్మిక పరిణామం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "It shifts sense-control from mere stoic willpower to Bhakti (devotion)—making Ishvara (the Supreme Lord) the conscious higher anchor and supreme refuge of the mind.",
+        "te": "ఇది ఇంద్రియ నిగ్రహాన్ని కేవలం శారీరక సంకల్ప బలం నుండి భక్తి మార్గానికి మళ్లిస్తుంది — పరమాత్మయైన ఈశ్వరుడినే మనస్సుకు అత్యున్నత దివ్య ఆలంబనగా, పరమ గమ్యంగా నిలబెడుతుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It instructs Arjuna to surrender his weapons to enemy kings.",
+        "te": "తన ఆయుధాలను శత్రు రాజులకు అప్పగించమని అర్జునుడిని ఆదేశిస్తుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It means prioritizing material wealth above all spiritual knowledge.",
+        "te": "ఆధ్యాత్మిక జ్ఞానం కంటే భౌతిక సంపదకే అగ్రతాంబూలం ఇవ్వాలని తెలుపుతుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It refers to worshiping celestial demigods for temporary worldly boons.",
+        "te": "తాత్కాలిక లౌకిక వరాల కోసం దేవతలను ఆరాధించడాన్ని సూచిస్తుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Mat-paraḥ' = 'Aham' (Krishna/Supreme Self) + 'paraḥ' (supreme goal/refuge). Pure self-effort fails against turbulent senses (2.60) unless fueled by devotion to the Supreme. By placing Krishna at the center of awareness, lower material attractions lose their grip effortlessly. — Bhagavad Gita (2.61)",
+      "te": "'మత్పరః' అనగా నన్నే (శ్రీకృష్ణుడిని/పరమాత్మను) పరమ గతిగా పొందినవాడు. కేవలం స్వయంకృషితో ఇంద్రియాలను జయించడం కష్టం; కానీ మనస్సును భగవంతునిపై లగ్నం చేసినప్పుడు (భక్తియోగం) బాహ్య విషయాల పట్ల ఆకర్షణ స్వయంచాలకంగా నశిస్తుంది. — భగవద్గీత (2.61)"
+    }
+  },
+  {
+    "id": "bg-2-61-q3",
+    "verse": { "c": 2, "s": 61 },
+    "concept": ["Prerequisite for Steady Wisdom - Vaśe Hī Yasya Indriyāṇi"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the cause-and-effect relationship between sense mastery and established wisdom described in 'Vaśe hi yasya indriyāṇi tasya prajñā pratiṣṭhitā'?",
+      "te": "2.61 శ్లోకంలోని 'వశే హి యస్యేంద్రియాణి తస్య ప్రజ్ఞా ప్రతిష్ఠితా' అను వాక్యాంశంలో ఇంద్రియ నిగ్రహానికి, స్థిరమైన ప్రజ్ఞకు మధ్య ఉన్న కార్యకారణ సంబంధం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Sense mastery ('Vaśe indriyāṇi') is the indispensable condition (cause), without which spiritual wisdom cannot remain stable or established (effect) in the practitioner's consciousness.",
+        "te": "ఇంద్రియాలు సంపూర్ణంగా తన ఆధీనంలో ఉండటమే ('వశే ఇంద్రియాణి') కారణం; అది లేనిదే సాధకుడి చైతన్యంలో ఆధ్యాత్మిక వివేక ప్రజ్ఞ నిలకడగా స్థిరపడలేదు ('ప్రజ్ఞా ప్రతిష్ఠితా' - కార్యము).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Established wisdom comes first, which then automatically destroys physical sight and hearing.",
+        "te": "ముందుగా స్థిర ప్రజ్ఞ లభిస్తుంది, అది ఆ తర్వాత శారీరక దృష్టిని, వినికిడిని సంపూర్ణంగా నాశనం చేస్తుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sensory mastery and wisdom are independent qualities that never influence each other.",
+        "te": "ఇంద్రియ నిగ్రహము, వివేక ప్రజ్ఞ అనేవి ఒకదానితో ఒకటి సంబంధం లేని స్వతంత్ర గుణాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Senses are controlled only after physical death of the practitioner.",
+        "te": "సాధకుడి భౌతిక మరణం తర్వాత మాత్రమే ఇంద్రియాలు నిగ్రహించబడతాయి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vaśe' (under control/mastery) + 'yasya' (whose) + 'indriyāṇi' (senses) -> 'tasya' (his) + 'prajñā' (wisdom) + 'pratiṣṭhitā' (is firmly established). Krishna re-emphasizes that no matter how elevated one's intellectual knowledge is, wisdom remains shaky until the senses are firmly subjugated. — Bhagavad Gita (2.61)",
+      "te": "ఎవరి ఇంద్రియాలైతే తన స్వాధీనంలో ఉంటాయో ('వశే యస్యేంద్రియాణి'), అతని ప్రజ్ఞ మాత్రమే స్థిరపడుతుంది ('తస్య ప్రజ్ఞా ప్రతిష్ఠితా'). మనిషి ఎంత గొప్ప పండితుడైనప్పటికీ ఇంద్రియ నిగ్రహం లేకపోతే అతని జ్ఞానం ఊగిసలాడుతూనే ఉంటుందని భావం. — భగవద్గీత (2.61)"
+    }
+  },
+  {
+    "id": "bg-2-61-q4",
+    "verse": { "c": 2, "s": 61 },
+    "concept": ["Sanskrit Vocabulary - Restraining, Absorbed, Control"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'saṃyamya', 'yuktaḥ', and 'vaśe' mean in verse 2.61?",
+      "te": "2.61 శ్లోకంలోని 'సంయమ్య', 'యుక్తః', మరియు 'వశే' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Saṃyamya = Having thoroughly controlled / restrained; Yuktaḥ = United / absorbed in contemplation; Vaśe = Under control / in subjection / mastered.",
+        "te": "సంయమ్య = బాగుగా నిగ్రహించి / అదుపుచేసి; యుక్తః = ఏకాగ్రత గలవాడై / భగవదనుసంధానంలో ఉన్నవాడై; వశే = స్వాధీనము నందు / వశము నందు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Saṃyamya = Having destroyed; Yuktaḥ = Disconnected; Vaśe = In secret.",
+        "te": "సంయమ్య = నాశనం చేసి; యుక్తః = విడిపోయినవాడై; వశే = రహస్యంలో.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Saṃyamya = Having forgotten; Yuktaḥ = Sleeping; Vaśe = In battle.",
+        "te": "సంయమ్య = మరిచిపోయి; యుక్తః = నిద్రపోతున్నవాడై; వశే = యుద్ధంలో.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Saṃyamya = Having praised; Yuktaḥ = Fearful; Vaśe = In pain.",
+        "te": "సంయమ్య = ప్రశంసించి; యుక్తః = భయపడినవాడై; వశే = బాధలో.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Saṃyamya' is Lyap-gerund from root 'yam' with prefix 'sam-' (having fully restrained). 'Yukta' is Past Passive Participle of root 'yuj' (harmonized/absorbed). 'Vaśe' is Locative Singular of 'vaśa' (under mastery/subjection). — Bhagavad Gita (2.61)",
+      "te": "'సమ్' + 'యమ్' ధాతు ల్యబంత రూపం 'సంయమ్య' (బాగా నిగ్రహించి). 'యుజ్' ధాతు క్తాంత రూపం 'యుక్తః' (ఏకాగ్రుడై). 'వశ' శబ్ద సప్తమీ ఏకవచనం 'వశే' (స్వాధీనంలో). — భగవద్గీత (2.61)"
+    }
+  },
+  {
+    "id": "bg-2-61-q5",
+    "verse": { "c": 2, "s": 51 },
+    "concept": ["Sanskrit Grammar - Potential/Optative Imperative 'Āsīta'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'āsīta' in verse 2.61:",
+      "te": "2.61 శ్లోకంలోని 'ఆసీత' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person singular Potential/Optative mood Ātmanepada (Vidhi-liṅ) from root 'ās' (to sit / abide), functioning as a spiritual directive: 'one should sit / remain absorbed'.",
+        "te": "'ఆస్' (కూర్చొను/ఉండు) ధాతువు యొక్క విధిలింగ్ లకార (Optative/Potential mood) ప్రథమ పురుష ఏకవచన ఆత్మనేపద రూపం — 'సాధకుడు ఆసీనుడు కావలెను / స్థిరపడవలెను' అను ఆధ్యాత్మిక విధి ప్రత్యయాన్ని సూచిస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person plural Past tense verb form.",
+        "te": "ప్రథమ పురుష బహువచన భూతకాల క్రియా రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1st person singular Future tense verb form.",
+        "te": "ఉత్తమ పురుష ఏకవచన భవిష్యత్కాల క్రియా రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Present active participle form.",
+        "te": "వర్తమాన కర్తరి విశేషణ రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Āsīta' (Vidhi-liṅ) expresses an injunction or prescription ('yuktaḥ āsīta = one should sit/abide in divine concentration'). Subject is the implicit seeker / practitioner ('saḥ'). — Bhagavad Gita (2.61)",
+      "te": "'ఆసీత' అనే విధిలింగ్ రూపం సాధకునికి శ్రేయోదాయకమైన కార్యాచరణను ఉపదేశిస్తోంది ('యుక్తః ఆసీత' = సాధకుడు భగవదనుసంధానంలో నిశ్చలంగా ఉండాలి). — భగవద్గీత (2.61)"
+    }
+  },
+  {
+    "id": "bg-2-61-q6",
+    "verse": { "c": 2, "s": 61 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'yasyendriyāṇi' in verse 2.61:",
+      "te": "2.61 శ్లోకంలోని 'యస్యేంద్రియాణి' (యస్య + ఇంద్రియాణి) అనే పదం యొక్క సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Yasya + indriyāṇi -> yasyendriyāṇi (Guṇa Sandhi: short 'a' + short 'i' merges into 'e').",
+        "te": "యస్య + ఇంద్రియాణి -> యస్యేంద్రియాణి (గుణ సంధి: 'అ' కారానికి 'ఇ' కారం పరమైనప్పుడు 'ఏ' కారము ఆదేశమైనది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Yasya + indriyāṇi -> yasyaindriyāṇi",
+        "te": "యస్య + ఇంద్రియాణి -> యస్యైంద్రియాణి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Yasyam + indriyāṇi -> yasyamindriyāṇi",
+        "te": "యస్యమ్ + ఇంద్రియాణి -> యస్యమింద్రియాణి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yasyaḥ + indriyāṇi -> yasya hindriyāṇi",
+        "te": "యస్యః + ఇంద్రియాణి -> యస్య హింద్రియాణి",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yasya' (whose) + 'indriyāṇi' (senses): final short vowel 'a' of 'yasya' merges with initial short vowel 'i' of 'indriyāṇi' into Guṇa vowel 'e' via Guṇa Sandhi -> 'yasyendriyāṇi'. — Bhagavad Gita (2.61)",
+      "te": "'యస్య' + 'ఇంద్రియాణి' లలో 'అ' కారానికి 'ఇ' కారం పరమై గుణ సంధి ద్వారా 'ఏ' కారము వచ్చి 'యస్యేంద్రియాణి' అని సిద్ధించింది. — భగవద్గీత (2.61)"
+    }
+  }
+]

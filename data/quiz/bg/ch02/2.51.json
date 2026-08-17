@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-51-q1",
+    "verse": { "c": 2, "s": 51 },
+    "concept": ["Verse Meaning & The Path to Anāmaya Padam"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.51?\n\n“karmajaṃ buddhiyuktā hi phalaṃ tyaktvā manīṣiṇaḥ | janmabandhavinirmuktāḥ padaṃ gacchantyanāmayam”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“కర్మజం బుద్ధియుక్తా హి ఫలం త్యక్త్వా మనీషిణః | జన్మబంధవినిర్ముక్తాః పదం గచ్ఛంత్యనామయమ్”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — The wise endowed with equanimous wisdom, having abandoned the fruits born of action and freed themselves from the bondage of rebirth, attain that supreme state beyond all sorrow (Anāmaya Padam).",
+        "te": "శ్రీభగవానుడు పలికెను — సమత్వ బుద్ధితో కూడిన జ్ఞానులు (మనీషులు) కర్మ వలన జనించే ఫలాల పట్ల ఆసక్తిని త్యజించి, జన్మరూప బంధాల నుండి సంపూర్ణంగా విముక్తులై... సమస్త దుఃఖ/వికార రహితమైన పరమ పదాన్ని (మోక్షాన్ని) పొందుతారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Performing actions for physical rewards ensures that a warrior reaches heavenly abodes while remaining tied to earthly birth.",
+        "te": "శ్రీభగవానుడు పలికెను — భౌతిక ఫలాల కోసం కర్మలు చేయడం వల్ల యోధుడు భూమిపై పునర్జన్మ పొందుతూనే స్వర్గలోకాలను చేరుకుంటాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Wise men avoid all physical duties to escape the bondage of birth, as physical work always creates disease.",
+        "te": "శ్రీభగవానుడు పలికెను — జన్మబంధం నుండి తప్పించుకోవడానికి జ్ఞానులు సమస్త భౌతిక కర్తవ్యాలను విడిచిపెడతారు, ఎందుకంటే భౌతిక పని ఎల్లప్పుడూ రోగాలను సృష్టిస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Rebirth can be ended only by performing royal sacrifices continuously for many lifetimes.",
+        "te": "శ్రీభగవానుడు పలికెను — అనేక జన్మల పాటు వరుసగా రాజస యజ్ఞాలను నిర్వర్తించడం ద్వారా మాత్రమే పునర్జన్మను నిరోధించవచ్చు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Karma-jaṃ buddhi-yuktā hi phalaṃ tyaktvā manīṣiṇaḥ / janma-bandha-vinirmuktāḥ padaṃ gacchanty anāmayam.\" Krishna outlines the sequence of Moksha: 1. Acting with equanimity ('buddhi-yuktāḥ'), 2. Relinquishing desire for action-born fruits ('karma-jaṃ phalaṃ tyaktvā'), 3. Becoming 'manīṣiṇaḥ' (wise sages), 4. Liberation from the shackles of rebirth ('janma-bandha-vinirmuktāḥ'), culminating in 5. Attaining the disease-free, sorrowless state of Brahman ('padaṃ anāmayam'). — Bhagavad Gita (2.51)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ మోక్ష ప్రాప్తి క్రమాన్ని వివరించాడు: 1. సమత్వ బుద్ధితో పనిచేయడం ('బుద్ధియుక్తాః'), 2. కర్మజన్య ఫలాల పట్ల మమకారాన్ని త్యజించడం ('కర్మజమ్ ఫలమ్ త్యక్త్వా'), 3. తద్వారా జ్ఞానులుగా ('మనీషిణః') మారడం, 4. పునర్జన్మ బంధాల నుండి విముక్తి పొందడం ('జన్మబంధవినిర్ముక్తాః'), 5. అంతిమంగా దుఃఖరహితమైన బ్రహ్మపదాన్ని/మోక్షాన్ని ('పదమ్ అనామయమ్') సాధించడం. — భగవద్గీత (2.51)"
+    }
+  },
+  {
+    "id": "bg-2-51-q2",
+    "verse": { "c": 2, "s": 51 },
+    "concept": ["Philosophical Destination - Padaṃ Anāmayam"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the expression 'Padaṃ Anāmayam' specifically signify in verse 2.51?",
+      "te": "2.51 శ్లోకంలోని 'పదమ్ అనామయమ్' అనే పదబంధం వేదాంతంలో దేనికి ప్రతీక?"
+    },
+    "choices": [
+      {
+        "en": "The ultimate spiritual abode or state of Liberation (Moksha/Brahman), which is completely free from all 'āmaya' (afflictions, sorrow, delusion, disease, and rebirth).",
+        "te": "సమస్త 'ఆమయ' (శారీరక-మానసిక వ్యాధులు, దుఃఖాలు, సంసార తాపాలు, పునర్జన్మలు) లేనటువంటి అత్యున్నత మోక్ష స్థితి / బ్రహ్మపదము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "A healthy physical body that is immune to physical sickness on the battlefield.",
+        "te": "రణరంగంలో శారీరక రోగాలు అంటని ఆరోగ్యకరమైన భౌతిక శరీరము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "A temporary celestial planet where righteous kings enjoy sensory pleasures.",
+        "te": "పుణ్యాత్ములైన రాజులు ఇంద్రియ సుఖాలను అనుభవించే తాత్కాలిక స్వర్గలోక గ్రహము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The royal throne of Hastinapur won through military victory.",
+        "te": "సైనిక విజయం ద్వారా కైవసం చేసుకునే హస్తినాపుర రాజసింహాసనము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Āmaya' means disease, pain, or affliction. With the negative prefix 'an-', 'An-āmaya' means entirely free from pain, disease, or mortal limitations. 'Pada' means state, realm, or destination. 'Padaṃ anāmayam' is the sorrowless, imperishable realm of Moksha (Self-realization). — Bhagavad Gita (2.51)",
+      "te": "'ఆమయ' అనగా వ్యాధి, దుఃఖము, లేదా సంసార పరిమితులు. వ్యతిరేక ఉపసర్గ చేరి 'అనామయ' అనగా సమస్త దుఃఖములు/వికారములు లేనిది. 'పదమ్' అనగా పరమ స్థితి లేదా స్థానము. 'పదమ్ అనామయమ్' అనగా క్షయము లేని నిత్య మోక్ష సామ్రాజ్యము. — భగవద్గీత (2.51)"
+    }
+  },
+  {
+    "id": "bg-2-51-q3",
+    "verse": { "c": 2, "s": 51 },
+    "concept": ["Causality of Samsara - Janma-bandha"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why does Lord Krishna describe physical rebirth as a 'Janma-bandha' (bondage of birth) in verse 2.51?",
+      "te": "2.51 శ్లోకంలో భౌతిక జన్మను శ్రీకృష్ణుడు 'జన్మబంధము' అని ఎందుకు అభివర్ణించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Because physical birth binds the immortal Self to the limitations of body and mind, subjecting it to repeated cycle of pain, aging, and death in Samsara.",
+        "te": "ఎందుకంటే భౌతిక జన్మ అనేది అమరమైన ఆత్మను శరీర-మనస్సుల పరిమితులకు బంధించి, సంసారంలో నిరంతర దుఃఖాలు, వృద్ధాప్యం, మరణాల చక్రంలో చిక్కుకునేలా చేస్తుంది కాబట్టి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because birth binds a warrior to obey the royal commands of his parents.",
+        "te": "జన్మ అనేది యోధుడిని తన తల్లిదండ్రుల రాజశాసనాలను మాత్రమే పాటించేలా బంధిస్తుంది కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because physical birth requires a person to pay taxes to earthly kings.",
+        "te": "భౌతిక జన్మ ఎత్తిన ప్రతి ఒక్కరూ భూరాజులకు పన్నులు చెల్లించాల్సి వస్తుంది కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because birth is a bondage created solely by enemy curses.",
+        "te": "జన్మ అనేది కేవలం శత్రువుల శాపాల వల్ల మాత్రమే సంభవించే ఒక బంధము కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Janma' (birth) is 'bandha' (shackle/bondage) because desire-driven karma forces the jīva into successive mortal bodies. By renouncing desire for 'karma-jaṃ phalam' (action-born fruits), the seed of future births is destroyed, yielding 'janma-bandha-vinirmuktaḥ' (complete freedom from birth-bondage). — Bhagavad Gita (2.51)",
+      "te": "'జన్మ' అనగా పుట్టుక అనే 'బంధము'. స్వార్థ కర్మఫలాలు జీవుడిని శరీరాల మార్పిడి చక్రంలో బంధిస్తాయి. కర్మజన్య ఫలాపేక్షను వదలడం వల్ల పునర్జన్మ బీజం దగ్ధమై, జీవుడు 'జన్మబంధవినిర్ముక్తః' (జన్మ సంకెళ్ల నుండి సంపూర్ణంగా విముక్తుడు) అవుతాడు. — భగవద్గీత (2.51)"
+    }
+  },
+  {
+    "id": "bg-2-51-q4",
+    "verse": { "c": 2, "s": 51 },
+    "concept": ["Sanskrit Vocabulary - Action-born Fruits & Wise Sages"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'karma-jam', 'manīṣiṇaḥ', and 'vinirmuktāḥ' mean in verse 2.51?",
+      "te": "2.51 శ్లోకంలోని 'కర్మజమ్', 'మనీషిణః', మరియు 'వినిర్ముక్తాః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Karma-jam = Born of action / produced by work; Manīṣiṇaḥ = Wise thinkers / enlightened sages; Vinirmuktāḥ = Completely liberated / freed from.",
+        "te": "కర్మజమ్ = కర్మల నుండి జనించినది (కర్మఫలము); మనీషిణః = వివేకవంతులైన జ్ఞానులు / మనీషులు; వినిర్ముక్తాః = సంపూర్ణంగా విముక్తి పొందినవారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Karma-jam = Destroyed by work; Manīṣiṇaḥ = Royal rulers; Vinirmuktāḥ = Defeated in battle.",
+        "te": "కర్మజమ్ = పని ద్వారా నాశనమైనది; మనీషిణః = రాజ పాలకులు; వినిర్ముక్తాః = యుద్ధంలో ఓడిపోయినవారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Karma-jam = Born of nature; Manīṣiṇaḥ = Chariot drivers; Vinirmuktāḥ = Bound tightly.",
+        "te": "కర్మజమ్ = ప్రకృతి నుండి పుట్టినది; మనీషిణః = రథసారథులు; వినిర్ముక్తాః = గట్టిగా బంధించబడినవారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Karma-jam = Divine weapons; Manīṣiṇaḥ = Heavenly gods; Vinirmuktāḥ = Forgotten.",
+        "te": "కర్మజమ్ = దివ్యాస్త్రాలు; మనీషిణః = స్వర్గపు దేవతలు; వినిర్ముక్తాః = మరిచిపోబడినవారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Karma' (action) + 'ja' (born/produced) = 'Karma-jam' (action-born). 'Manīṣin' (from 'manīṣā' = wisdom/intellect) in Nominative Plural is 'manīṣiṇaḥ' (the wise ones). 'Vi-nir-muktāḥ' = prefix 'vi-' + 'nir-' + 'mukta' (thoroughly released/liberated). — Bhagavad Gita (2.51)",
+      "te": "'కర్మ' + 'జ' (పుట్టినది) = కర్మజమ్ (కర్మ ద్వారా ఉత్పన్నమైన ఫలము). 'మనీషా' (వివేక బుద్ధి) గలవాని ప్రథమా బహువచనం 'మనీషిణః' (జ్ఞానులు). 'వి' + 'నిర్' + 'ముక్త' = వినిర్ముక్తాః (బాగా విముక్తులైనవారు). — భగవద్గీత (2.51)"
+    }
+  },
+  {
+    "id": "bg-2-51-q5",
+    "verse": { "c": 2, "s": 51 },
+    "concept": ["Sanskrit Grammar - Present Verb 'Gacchanti' & Participle 'Tyaktvā'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'tyaktvā' and 'gacchanti' in verse 2.51:",
+      "te": "2.51 శ్లోకంలోని 'త్యక్త్వా' మరియు 'గచ్ఛంతి' అనే పదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Tyaktvā = Ktvā-gerund / Absolutive form from root 'tyaj' (having abandoned / relinquishing); Gacchanti = 3rd person plural Present indicative Parasmaipada (Laṭ-lakāra) from root 'gam' (they go / attain).",
+        "te": "త్యక్త్వా = 'త్యజ్' (విడిచిపెట్టు/త్యజించు) ధాతువు యొక్క క్త్వాంత (Absolutive) రూపం ('విడిచిపెట్టి/త్యజించి'); గచ్ఛంతి = 'గమ్' (వెళ్లు/పొందు) ధాతువు లట్ లకార (వర్తమానకాల) ప్రథమ పురుష బహువచన పరస్మైపద రూపం ('వారు పొందుదురు/ చేరుకుందురు').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Tyaktvā = Future tense verb; Gacchanti = Past tense verb.",
+        "te": "త్యక్త్వా = భవిష్యత్కాల క్రియ; గచ్ఛంతి = భూతకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Tyaktvā = Imperative verb; Gacchanti = Present participle.",
+        "te": "త్యక్త్వా = ఆజ్ఞార్థక క్రియ; గచ్ఛంతి = వర్తమాన విశేషణం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Tyaktvā = Infinitive form; Gacchanti = Noun form.",
+        "te": "త్యక్త్వా = తుమున్నంత రూపం; గచ్ఛంతి = నామవాచక రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Tyaktvā' (having renounced) describes the prior mental action. 'Gacchanti' agrees with plural subject 'manīṣiṇaḥ' (the wise ones attain): 'manīṣiṇaḥ padaṃ gacchanty anāmayam' = 'the wise sages attain the sorrowless state'. — Bhagavad Gita (2.51)",
+      "te": "'త్యక్త్వా' (త్యజించి) అనేది పూర్వకాల సమాపక క్త్వాంత క్రియ. 'గచ్ఛంతి' అనేది 'మనీషిణః' (జ్ఞానులు) అనే ప్రథమా బహువచన కర్తతో చేరి 'మనీషిణః అనామయం పదం గచ్ఛంతి' (జ్ఞానులు దుఃఖరహిత పదాన్ని పొందుతున్నారు) అని నిలిచింది. — భగవద్గీత (2.51)"
+    }
+  },
+  {
+    "id": "bg-2-51-q6",
+    "verse": { "c": 2, "s": 51 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'gacchantyanāmayam' in verse 2.51:",
+      "te": "2.51 శ్లోకంలోని 'గచ్ఛంత్యనామయమ్' అనే పదం యొక్క సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Gacchanti + anāmayam -> gacchanty anāmayam (Yan Sandhi: 'i' before vowel 'a' becomes 'y').",
+        "te": "గచ్ఛంతి + అనామయమ్ -> గచ్ఛంత్యనామయమ్ (యణాదేశ సంధి: అచ్చు 'అ' ముందు ఉన్న 'ఇ' కారం 'య్' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Gagchanta + anāmayam -> gacchantānamayam",
+        "te": "గచ్ఛంత + అనామయమ్ -> గచ్ఛంతానామయమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Gacchantim + anāmayam -> gacchantimanāmayam",
+        "te": "గచ్ఛంతిమ్ + అనామయమ్ -> గచ్ఛంతిమనామయమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Gacchante + anāmayam -> gacchante'nāmayam",
+        "te": "గచ్ఛంతే + అనామయమ్ -> గచ్ఛంతేఽనామయమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Gacchanti' (they attain) + 'anāmayam' (sorrowless/disease-free): final short 'i' of 'gacchanti' converts to semi-vowel 'y' before initial 'a' of 'anāmayam' via Yan Sandhi -> 'gacchanty anāmayam'. — Bhagavad Gita (2.51)",
+      "te": "'గచ్ఛంతి' + 'అనామయమ్' లలో 'ఇ' కారానికి అచ్చు పరమైనప్పుడు యణాదేశ సంధి ద్వారా 'య్' ఆదేశమై 'గచ్ఛంత్యనామయమ్' అని రూపం సిద్ధించింది. — భగవద్గీత (2.51)"
+    }
+  }
+]

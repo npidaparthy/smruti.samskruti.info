@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-39-q1",
+    "verse": { "c": 2, "s": 39 },
+    "concept": ["Verse Meaning & Transition from Sankhya to Buddhi Yoga"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.39?\n\n“eṣā te'bhihitā sāṅkhye buddhiryoge tvimāṃ śṛṇu | buddhyā yukto yayā pārtha karmabandhaṃ prahāsyasi”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యేషా తేఽభిహితా సాంఖ్యే బుద్ధిర్యోగే త్వీమాం శృణు | బుద్ధ్యా యుక్తో యయా పార్థ కర్మబంధం ప్రహాస్యసి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Thus far I have explained to you the wisdom of Sānkhya (analytical knowledge of the Self). Now listen to the wisdom of Yoga (action without selfish desire), endowed with which, O Partha, you shall completely cast off the bondage of Karma.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! ఇప్పటివరకు నీకు ఆత్మతత్త్వ విశ్లేషణారూపమైన 'సాంఖ్య' బుద్ధి (జ్ఞానము) ఉపదేశించబడింది. ఇకపై కర్మయోగంలో (కార్యాచరణ జ్ఞానంలో) ఈ బుద్ధి ఏ విధంగా పనిచేస్తుందో వినుము. ఈ వివేక బుద్ధితో కూడినవాడవై నీవు కర్మబంధాన్ని సంపూర్ణంగా తోసిపుచ్చుతావు (తెంచుకుంటావు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Sānkhya wisdom is superior to Yoga wisdom; therefore, abandon all physical actions and remain seated in meditation.",
+        "te": "శ్రీభగవానుడు పలికెను — యోగ బుద్ధి కంటే సాంఖ్య బుద్ధి శ్రేష్ఠమైనది; కాబట్టి సమస్త భౌతిక కర్మలను విడిచిపెట్టి ధ్యానంలో కూర్చోండి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — By practicing physical postures of Yoga, a warrior becomes immune to physical fatigue and battle injuries.",
+        "te": "శ్రీభగవానుడు పలికెను — యోగాసనాలను అభ్యసించడం ద్వారా యోధుడు రణరంగంలో శారీరక అలసట, గాయాల నుండి రక్షణ పొందుతాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Karma-bandha can only be broken by performing animal sacrifices prescribed in the early portions of the Vedas.",
+        "te": "శ్రీభగవానుడు పలికెను — వేదాలలోని పూర్వభాగంలో చెప్పబడిన యజ్ఞయాగాదులు చేయడం ద్వారా మాత్రమే కర్మబంధం తెగిపోతుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Eṣā te 'bhihitā sāṅkhye buddhir yoge tv imāṃ śṛṇu / buddhyā yukto yayā pārtha karma-bandhaṃ prahāsyasi.\" Verse 2.39 marks the formal pivot of Chapter 2. Having taught the direct knowledge of the Self ('sāṅkhye buddhiḥ', verses 11-38), Krishna now introduces 'Yoge buddhiḥ' (Buddhi Yoga / Karma Yoga). Endowed with this attitude of action without attachment, one shatters the fetters of Karma ('karma-bandhaṃ prahāsyasi'). — Bhagavad Gita (2.39)",
+      "te": "2వ అధ్యాయంలో ఇది అత్యంత కీలకమైన మలుపు శ్లోకము. 11 నుండి 38 వరకు ఆత్మజ్ఞాన విశ్లేషణను ('సాంఖ్యే బుద్ధిః') అందించిన శ్రీకృష్ణుడు, ఇప్పుడు కర్మ యోగాచరణను ('యోగే బుద్ధిః') ప్రారంభించాడు. ఫలితాసక్తి లేని ఈ విశుద్ధ బుద్ధితో పనిచేసినప్పుడు మనిషి కర్మబంధాల నుండి ('కర్మబంధమ్') విముక్తి పొందుతాడని అభయమిస్తున్నాడు. — భగవద్గీత (2.39)"
+    }
+  },
+  {
+    "id": "bg-2-39-q2",
+    "verse": { "c": 2, "s": 39 },
+    "concept": ["Philosophical Transition - Sānkhye Buddhi vs Yoge Buddhi"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the distinction between 'Sānkhye Buddhiḥ' and 'Yoge Buddhiḥ' in verse 2.39?",
+      "te": "2.39 శ్లోకంలో 'సాంఖ్యే బుద్ధిః' మరియు 'యోగే బుద్ధిః' అనే రెండు పదాల మధ్య గల తత్త్వ వ్యత్యాసం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Sānkhye Buddhiḥ = Intellectual/theoretical conviction regarding the immutable, immortal nature of the Ātman; Yoge Buddhiḥ = Practical wisdom applied in daily action (Karma Yoga) to act without selfish desire.",
+        "te": "సాంఖ్యే బుద్ధిః = ఆత్మతత్త్వం యొక్క నిత్యత్వాన్ని, అమరత్వాన్ని గ్రహించే పారమార్థిక జానము; యోగే బుద్ధిః = అనుదిన కర్మాచరణలో స్వార్థ ఫలాపేక్ష లేకుండా పనిచేసే ప్రాక్టికల్ వివేకము (కర్మయోగము).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sānkhye Buddhiḥ = Knowledge of numbers; Yoge Buddhiḥ = Knowledge of physical exercises.",
+        "te": "సాంఖ్యే బుద్ధిః = సంఖ్యల జ్ఞానము; యోగే బుద్ధిః = శారీరక వ్యాయామాల జ్ఞానము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sānkhye Buddhiḥ = Devotional singing; Yoge Buddhiḥ = Royal administration.",
+        "te": "సాంఖ్యే బుద్ధిః = భక్తి సంకీర్తనము; యోగే బుద్ధిః = రాజ పరిపాలన.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sānkhye Buddhiḥ = Knowledge of weapons; Yoge Buddhiḥ = Knowledge of chariot driving.",
+        "te": "సాంఖ్యే బుద్ధిః = ఆయుధాల జ్ఞానము; యోగే బుద్ధిః = రథసారథ్య జ్ఞానము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sānkhya' refers to direct discrimination between Self and non-Self (Jnana Yoga). 'Yoga' refers to Buddhi Yoga or Karma Yoga—the practical technique of acting in the world while maintaining inner mental poise, thereby bridging theory and practice. — Bhagavad Gita (2.39)",
+      "te": "'సాంఖ్య' అనగా ఆత్మానాత్మ వివేకం ద్వార సిద్ధించే జ్ఞానమార్గము. 'యోగ' అనగా భౌతిక ప్రపంచంలో సత్కర్మలు చేస్తూనే చిత్తసమతను కాపాడుకునే కర్మయోగాచరణ మార్గము. సిద్ధాంతాన్ని ఆచరణలోకి తెచ్చే వంతెన ఇది. — భగవద్గీత (2.39)"
+    }
+  },
+  {
+    "id": "bg-2-39-q3",
+    "verse": { "c": 2, "s": 39 },
+    "concept": ["Goal of Buddhi Yoga - Karma-bandhaṃ Prahāsyasi"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What ultimate spiritual outcome is promised to one who acquires this 'Yoge Buddhi' in verse 2.39?",
+      "te": "2.39 శ్లోకంలో ఈ 'యోగ బుద్ధి' ని పొందిన సాధకునికి శ్రీకృష్ణుడు వాగ్దానం చేసిన ఆధ్యాత్మిక ఫలము ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "“Karma-bandhaṃ prahāsyasi” — You will completely cast off, destroy, and break free from the binding shackles of Karma (cause-and-effect bondage).",
+        "te": "“కర్మబంధం ప్రహాస్యసి” — కర్మ ఫలితాల బంధం (పునర్జన్మలకు హేతువయ్యే కర్మ సంకెళ్లు) నుండి సంపూర్ణంగా విముక్తుడవై దాన్ని తెంచివేస్తావు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "You will gain control over all kings and rule the entire world.",
+        "te": "నీవు సమస్త రాజులను లొంగదీసుకొని భౌతిక ప్రపంచాన్ని ఏలుతావు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "You will obtain supernatural physical invulnerability against arrows.",
+        "te": "నీవు బాణాలకు లొంగని దివ్య శారీరక బలాన్ని పొందుతావు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "You will be reborn in the highest celestial heavens for thousands of years.",
+        "te": "నీవు వేలాది సంవత్సరాలు స్వర్గలోకాలలో పునర్జన్మ పొందుతావు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Karma-bandha' means the bondage created by impression-forming, desire-driven actions that trap the jīva in Samsara. 'Prahāsyasi' (from pra + hā = to thoroughly discard/destroy) promises that Buddhi Yoga neutralizes action's binding power. — Bhagavad Gita (2.39)",
+      "te": "'కర్మబంధము' అనగా ఫలాపేక్షతో చేసే కర్మలు జీవుడిని సంసార చక్రంలో బంధించే ప్రక్రియ. 'ప్రహాస్యసి' (సమూలంగా త్యజించెదవు) అనే పదం ద్వారా కర్మయోగాచరణ కర్మబంధాలను నిష్ఫలం చేస్తుందని కృష్ణుడు నిరూపిస్తున్నాడు. — భగవద్గీత (2.39)"
+    }
+  },
+  {
+    "id": "bg-2-39-q4",
+    "verse": { "c": 2, "s": 39 },
+    "concept": ["Sanskrit Vocabulary - Explanation & Rejection of Bondage"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'abhihitā' and 'prahāsyasi' mean in verse 2.39?",
+      "te": "2.39 శ్లోకంలోని 'అభిహితా' మరియు 'ప్రహాస్యసి' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Abhihitā = Explained / declared / expounded; Prahāsyasi = You shall completely cast off / shatter / be freed from.",
+        "te": "అభిహితా = ఉపదేశించబడినది / చెప్పబడినది / వివరింపబడినది; ప్రహాస్యసి = సంపూర్ణంగా విడిచిపెట్టగలవు / తెంచుకోగలవు / విముక్తుడవవుతావు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Abhihitā = Hidden; Prahāsyasi = You will suffer.",
+        "te": "అభిహితా = దాచబడినది; ప్రహాస్యసి = నీవు దుఃఖిస్తావు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Abhihitā = Written in books; Prahāsyasi = You will laugh.",
+        "te": "అభిహితా = గ్రంథాలలో రాయబడినది; ప్రహాస్యసి = నీవు నవ్వుతావు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Abhihitā = Forgotten; Prahāsyasi = You will accumulate.",
+        "te": "అభిహితా = మరిచిపోబడినది; ప్రహాస్యసి = నీవు కూడబెడతావు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Abhihitā' is past passive participle of prefix 'abhi-' + root 'dhā' (expounded/declared). 'Prahāsyasi' is 2nd person singular Simple Future of prefix 'pra-' + root 'hā' (to abandon/cast off). — Bhagavad Gita (2.39)",
+      "te": "'అభి' ఉపసర్గతో 'ధా' (చెప్పు/ఉపదేశించు) ధాతువు క్తాంత రూపం 'అభిహితా' (ఉపదేశించబడింది). 'ప్ర' ఉపసర్గతో 'హా' (త్యజించు/విడిచిపెట్టు) ధాతువు లృట్ లకార రూపం 'ప్రహాస్యసి' (తెంపివేయుదువు). — భగవద్గీత (2.39)"
+    }
+  },
+  {
+    "id": "bg-2-39-q5",
+    "verse": { "c": 2, "s": 39 },
+    "concept": ["Sanskrit Grammar - Future Tense 'Prahāsyasi' & Imperative 'Śṛṇu'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'śṛṇu' and 'prahāsyasi' in verse 2.39:",
+      "te": "2.39 శ్లోకంలోని 'శృణు' మరియు 'ప్రహాస్యసి' అనే క్రియాపదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Śṛṇu = 2nd person singular Imperative mood Parasmaipada (Loṭ-lakāra) from root 'śru' (listen! / hear!); Prahāsyasi = 2nd person singular Simple Future Parasmaipada (Lṛṭ-lakāra) from root 'hā' with prefix 'pra' (you shall cast off).",
+        "te": "శృణు = 'శ్రు' (విను) ధాతువు లోట్ లకార (ఆజ్ఞార్థక) మధ్యమ పురుష ఏకవచన పరస్మైపద రూపం ('వినుము!'); ప్రహాస్యసి = 'ప్ర' ఉపసర్గతో 'హా' (త్యజించు) ధాతువు లృట్ లకార (భవిష్యత్కాల) మధ్యమ పురుష ఏకవచన పరస్మైపద రూపం ('నీవు తెంచివేయుదువు').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Śṛṇu = Past tense verb; Prahāsyasi = Present tense verb.",
+        "te": "శృణు = భూతకాల క్రియ; ప్రహాస్యసి = వర్తమానకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Śṛṇu = Noun form; Prahāsyasi = Adjective form.",
+        "te": "శృణు = నామవాచకం; ప్రహాస్యసి = విశేషణం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Śṛṇu = Present participle; Prahāsyasi = Infinitive verb.",
+        "te": "శృణు = వర్తమాన విశేషణం; ప్రహాస్యసి = తుమున్నంతం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Śṛṇu' is Krishna's direct imperative 'listen [to this next teaching]!'. 'Prahāsyasi' is the future result guaranteed to Arjuna once he acts with this wisdom. — Bhagavad Gita (2.39)",
+      "te": "'శృణు' అనేది 'ఇప్పుడు నేను చెప్పే యోగ బుద్ధిని వినుము' అని కృష్ణుడి ఆజ్ఞార్థక క్రియ. 'ప్రహాస్యసి' అనేది ఆ యోగ బుద్ధితో పనిచేస్తే అర్జునునికి లభించే భవిష్యత్ ఫలితాన్ని తెలిపే క్రియ. — భగవద్గీత (2.39)"
+    }
+  },
+  {
+    "id": "bg-2-39-q6",
+    "verse": { "c": 2, "s": 39 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'te'bhihitā' and 'tvimāṃ' in verse 2.39:",
+      "te": "2.39 శ్లోకంలోని 'తేఽభిహితా' మరియు 'త్వీమామ్' (తు+ఇమామ్) అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Te + abhihitā -> te 'bhihitā (Pūrvarūpa Sandhi: e + a -> e'); tu + imām -> tvimām (Yan Sandhi: 'u' before vowel 'i' becomes 'v').",
+        "te": "తే + అభిహితా -> తేఽభిహితా (పూర్వరూప సంధి: 'ఏ' తర్వాత ఉన్న 'అ' అవగ్రహంగా మారినది); తు + ఇమామ్ -> త్వీమామ్ / త్వమామ్ (యణాదేశ సంధి: అచ్చు 'ఇ' ముందు 'ఉ' కారం 'వ్' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Te + abhihitā -> tabhihitā; tu + imām -> tuimām",
+        "te": "తే + అభిహితా -> తభిహితా; తు + ఇమామ్ -> తుఇమామ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Ten + abhihitā -> tenabhihitā; tun + imām -> tunimām",
+        "te": "తేన్ + అభిహితా -> తేనభిహితా; తున్ + ఇమామ్ -> తునిమామ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Teḥ + abhihitā -> tehabhihitā; tuḥ + imām -> tuhimām",
+        "te": "తేః + అభిహితా -> తేహభిహితా; తుః + ఇమామ్ -> తుహిమామ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Te' (to you) + 'abhihitā' (expounded): initial 'a' after 'e' transforms into Avagraha via Pūrvarūpa Sandhi -> 'te 'bhihitā'. 2. 'Tu' (but/now) + 'imām' (this): final vowel 'u' of 'tu' converts to semi-vowel 'v' via Yan Sandhi before 'i', yielding 'tv imām'. — Bhagavad Gita (2.39)",
+      "te": "1. 'తే' + 'అభిహితా' లలో 'ఏ' తర్వాత ఉన్న 'అ' స్థానంలో పూర్వరూప సంధి ద్వారా అవగ్రహం వచ్చి 'తేఽభిహితా' అయినది. 2. 'తు' + 'ఇమామ్' లలో 'ఇ' అచ్చు ముందు 'ఉ' కారానికి 'వ్' వచ్చే యణాదేశ సంధి జరిగి 'త్వీమామ్' అని సిద్ధించింది. — భగవద్గీత (2.39)"
+    }
+  }
+]

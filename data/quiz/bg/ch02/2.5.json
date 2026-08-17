@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-5-q1",
+    "verse": { "c": 2, "s": 5 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.5?\n\n“gurūnahatvā hi mahānubhāvān śreyo bhoktuṃ bhaikṣamapīha loke | hatvārthakāmāṃstu gurūnihaiva bhuñjīya bhogān rudhirapradigdhān”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“గురూనహత్వా హి మహానుభావాన్ శ్రేయో భోక్తుం భైక్షమపీహ లోకే | హత్వార్థకామాంస్తు గురూనిహైవ భుఞ్జీయ భోగాన్ రుధిరప్రదిగ్ధాన్”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — It is better to live in this world even by begging than to slay these noble elders and gurus. For if I kill them, all the wealth and pleasures enjoyed in this world will be tainted with their blood.",
+        "te": "అర్జునుడు పలికెను — మహానుభావులైన గురువులను సంహరించకుండా ఈ లోకంలో బిచ్చమెత్తుకుని జీవించడమైనా శ్రేయస్కరమే; ఎందుకంటే వారిని చంపి అనుభవించే ధనము, కామము, భోగములన్నీ వారి రక్తంతో తడిసినవే అవుతాయి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — Gurus who join the side of unrighteousness lose their noble status and must be slain in battle without hesitation.",
+        "te": "అర్జునుడు పలికెను — అధర్మ పక్షాన నిలిచిన గురువులు తమ మహానుభావత్వాన్ని కోల్పోతారు, కాబట్టి వారిని సంకోచం లేకుండా యుద్ధంలో చంపాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — Living on alms is a duty prescribed only for renunciates, whereas Kshatriyas must conquer wealth at all costs.",
+        "te": "అర్జునుడు పలికెను — బిచ్చమెత్తుకుని జీవించడం కేవలం సన్యాసుల విధి, కానీ క్షత్రియులు ఏది ఏమైనా సంపదను జయించి తీరాలి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — By offering our kingdom to our gurus, we can wipe away the bloodstains of past sins and attain heaven.",
+        "te": "అర్జునుడు పలికెను — మన రాజ్యాన్ని గురువులకు అర్పించడం ద్వారా, మనం పూర్వ పాపాల రక్తపు మరకలను కడిగివేసుకుని స్వర్గాన్ని పొందవచ్చు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Gurūn ahatvā hi mahānubhāvān śreyo bhoktuṃ bhaikṣam apīha loke / hatvārtha-kāmāṃs tu gurūn ihaiva bhuñjīya bhogān rudhira-pradigdhān.\" Arjuna prefers mendicancy/begging ('bhaikṣam') over slaying his great-souled gurus ('mahānubhāvān gurūn'), arguing that earthly enjoyments purchased through their blood are morally polluted. — Bhagavad Gita (2.5)",
+      "te": "మహానుభావులైన గురువులను చంపే కంటే బిచ్చమెత్తుకుని బతకడమే ('భైక్షమపి') మేలని, ఒకవేళ రాజ్యాధికారం కోసం వారిని సంహరిస్తే దక్కే భోగాలన్నీ రక్తసిక్తమైనవే ('రుధిరప్రదిగ్ధాన్') అవుతాయని అర్జునుడు విలపిస్తున్నాడు. — భగవద్గీత (2.5)"
+    }
+  },
+  {
+    "id": "bg-2-5-q2",
+    "verse": { "c": 2, "s": 5 },
+    "concept": ["Ethical Choice - Begging vs Slaying Gurus"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What stark alternative does Arjuna propose in verse 2.5 as being spiritually better ('śreyaḥ') than killing his teachers?",
+      "te": "2.5 శ్లోకంలో తన గురువులను సంహరించడం కంటే ఏ ప్రత్యామ్నాయ మార్గం ఆధ్యాత్మికంగా మేలైనదని ('శ్రేయః') అర్జునుడు ప్రతిపాదిస్తున్నాడు?"
+    },
+    "choices": [
+      {
+        "en": "Bhoktuṃ bhaikṣam (living by begging / taking alms in this world)",
+        "te": "భోక్తుం భైక్షమ్ (ఈ లోకంలో బిచ్చమెత్తుకుని / భిక్షాటన చేసి జీవించడం)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Retreating to heaven through yogic meditation",
+        "te": "యోగాభ్యాసం ద్వారా నేరుగా స్వర్గానికి వెళ్ళడం",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Surrendering as a political prisoner to Duryodhana",
+        "te": "దుర్యోధనునికి రాజకీయా ఖైదీగా లొంగిపోవడం",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Performing a 100-year Rajasuya sacrifice",
+        "te": "వంద సంవత్సరాల రాజసూయ యజ్ఞాన్ని ఆచరించడం",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Even though begging ('bhaikṣam') is traditionally forbidden for the warrior/Kshatriya class, Arjuna considers it far superior ('śreyaḥ') to committing guru-hatyā (slaying gurus) for material wealth. — Bhagavad Gita (2.5)",
+      "te": "క్షత్రియులకు భిక్షాటన ('భైక్షమ్') నిషేధించబడినప్పటికీ, గురువధ చేసి రాజ్యాన్ని పొందడం కంటే అడుక్కుని బతకడమే ఎంతో మేలైనదని ('శ్రేయః') అర్జునుడు భావిస్తున్నాడు. — భగవద్గీత (2.5)"
+    }
+  },
+  {
+    "id": "bg-2-5-q3",
+    "verse": { "c": 2, "s": 5 },
+    "concept": ["Descriptive Imagery - Blood-Stained Pleasures"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which Sanskrit compound in verse 2.5 vividly describes the material enjoyments gained after war as being 'stained with blood'?",
+      "te": "2.5 శ్లోకంలో యుద్ధానంతరం లభించే లౌకిక భోగాలను 'రక్తంతో తడిసినవి/సంతృప్తమైనవి' అని వర్ణించే సంస్కృత సమాస పదం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Rudhirapradigdhān (stained / smeared with blood)",
+        "te": "రుధిరప్రదిగ్ధాన్ (రక్తంతో తడిసినట్టి / రక్తసిక్తమైనట్టి)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mahānubhāvān (great-souled / noble elders)",
+        "te": "మహానుభావాన్ (మహానుభావులైన / ఉదాత్తమైన)",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arthagāmān (wealth and worldly desires)",
+        "te": "ార్థకామాన్ (సంపద మరియు కామములు)",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Bhaikṣamapīha (living even on begging)",
+        "te": "భైక్షమపీహ (భిక్షాటనైనా ఆచరించి)",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Rudhira' (blood) + 'pradigdhān' (smeared/stained/soaked). Arjuna emphasizes that royal luxuries ('bhogān') derived from slaying beloved elders will be morally ruined, soaked in the blood of those he reveres. — Bhagavad Gita (2.5)",
+      "te": "'రుధిర' (రక్తము) + 'ప్రదిగ్ధాన్' (తడిసినట్టి/లేపనము చేయబడినట్టి). పూజ్యులైన గురువులను సంహరించి పొందే రాజ్య భోగాలన్నీ రక్తసిక్తమైనవే అని అర్జునుని బాధాగర్భిత వ్యాఖ్య. — భగవద్గీత (2.5)"
+    }
+  },
+  {
+    "id": "bg-2-5-q4",
+    "verse": { "c": 2, "s": 5 },
+    "concept": ["Sanskrit Vocabulary - Great-Souled Gurus"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit terms 'mahānubhāvān' and 'arthakāmān' mean in verse 2.5?",
+      "te": "2.5 శ్లోకంలోని 'మహానుభావాన్' మరియు 'అర్థకామాన్' అనే పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Mahānubhāvān = Noble / exalted / great-souled; Arthakāmān = Pursuers of wealth and desires (or gain-seeking).",
+        "te": "మహానుభావాన్ = ఉదాత్త స్వభావము గల పవిత్రులు / గొప్ప మహిమ గలవారు; అర్థకామాన్ = ధనము, భోగములను కోరుకునేవారు (లేదా అర్థ కామ రూపమైన గురువులు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mahānubhāvān = Cruel rulers; Arthakāmān = Sages in exile.",
+        "te": "మహానుభావాన్ = క్రూరులైన పాలకులు; అర్థకామాన్ = అడవుల్లో ఉండే మునులు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Mahānubhāvān = Mercenary soldiers; Arthakāmān = Heavenly gods.",
+        "te": "మహానుభావాన్ = జీతగాళ్లైన సైనికులు; అర్థకామాన్ = స్వర్గలోక దేవతలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Mahānubhāvān = Chariot drivers; Arthakāmān = Renunciates.",
+        "te": "మహానుభావాన్ = రథసారథులు; అర్థకామాన్ = సన్యాసులు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Mahānubhāvān' (accusative plural) means those of majestic stature / noble souls. 'Artha-kāmān' means driven by/desirous of wealth and desire (referring either to the nature of the enjoyments or the worldly motivations binding elders to the Kauravas). — Bhagavad Gita (2.5)",
+      "te": "'మహానుభావాన్' అనగా గొప్ప ప్రభావము, మహత్వము గల గురువులు (ద్వితీయా బహువచనం). 'అర్థకామాన్' అనగా అర్థము (ధనము), కామము (కోరికలు) అనే ప్రయోజనములతో ముడిపడినవారు. — భగవద్గీత (2.5)"
+    }
+  },
+  {
+    "id": "bg-2-5-q5",
+    "verse": { "c": 2, "s": 5 },
+    "concept": ["Sanskrit Grammar - Potential Mood Verb 'Bhuñjīya'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical form of 'bhuñjīya' in verse 2.5:",
+      "te": "2.5 శ్లోకంలోని 'భుఞ్జీయ' (భుంజీయ) అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "1st person singular Potential/Optative mood Ātmanepada (Vidhi-liṅ) from root 'bhuj' (to enjoy / eat), meaning 'I would have to enjoy / I should consume'.",
+        "te": "'భుజ్' (అనుభవించు/భుజించు) అనే ధాతువు యొక్క విధి-లిఙ్ (సంభావనార్థక) ఆత్మనేపద ఉత్తమ పురుష ఏకవచన రూపం — 'నేను అనుభవించవలసి వస్తుంది / భుజించాల్సి వస్తుంది'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person plural present tense verb.",
+        "te": "ప్రథమ పురుష బహువచన వర్తమానకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Past tense verb meaning 'I enjoyed in the past'.",
+        "te": "భూతకాలంలో 'నేను అనుభవించాను' అనే రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb meaning 'enjoy now'.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Bhuñjīya' is 1st person singular Vidhi-liṅ (potential mood) Ātmanepada of 7th class root 'bhuj' (to enjoy/eat). It conveys Arjuna's hypothetical hesitation: 'Even if I win, I would be forced to enjoy blood-stained pleasures'. — Bhagavad Gita (2.5)",
+      "te": "'భుఞ్జీయ' అనేది 'భుజ్' ధాతువు యొక్క ఉత్తమ పురుష ఏకవచన విధి-లిఙ్ రూపం. 'నేను అటువంటి రక్తసిక్తమైన భోగాలను ఏ విధంగా అనుభవించగలను?' అని సంభావితమైన బాధను తెలుపుతోంది. — భగవద్గీత (2.5)"
+    }
+  },
+  {
+    "id": "bg-2-5-q6",
+    "verse": { "c": 2, "s": 5 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'gurūnahatvā' and 'bhaikṣamapīha' in verse 2.5:",
+      "te": "2.5 శ్లోకంలోని 'గురూనహత్వా' మరియు 'భైక్షమపీహ' అనే పదాలను విడదీసి సంధి స్వరూపాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Gurūn + ahatvā -> gurūnahatvā (combining final consonant 'n' with vowel 'a'); bhaikṣam + api + iha -> bhaikṣamapīha (combining 'm' + 'a' -> 'ma', and Savarna-dirgha Sandhi: api + iha -> apīha).",
+        "te": "గురూన్ + అహత్వా -> గురూనహత్వా (పొల్లు 'న్' అనునాసికం అచ్చు 'అ' తో కలయుట); భైక్షమ్ + అపి + ఇహ -> భైక్షమపీహ ('మ్' + 'అ' కలయుట, మరియు 'అపి' + 'ఇహ' లలో సవర్ణదీర్ఘ సంధి: ఇ + ఇ -> ఈ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Gurūḥ + ahatvā; bhaikṣa + mapīha",
+        "te": "గురూః + అహత్వా; భైక్ష + మపీహ",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Gurūm + ahatvā; bhaikṣān + apīha",
+        "te": "గురూమ్ + అహత్వా; భైక్షాన్ + అపీహ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Gurū + nahatvā; bhaikṣama + pīha",
+        "te": "గురూ + నహత్వా; భైక్షమ + పీహ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Gurūn' (accusative plural of 'guru') + 'ahatvā' (not killing) combines directly to form 'gurūnahatvā'. 2. 'Bhaikṣam' (alms) + 'api' (even) = 'bhaikṣamapi'. 3. 'Api' + 'iha' (in this world) = 'apīha' via Savarna-dirgha Sandhi ('i' + 'i' -> 'ī'). Combined: 'bhaikṣamapīha'. — Bhagavad Gita (2.5)",
+      "te": "1. 'గురూన్' (ద్వితీయా బహువచనం) + 'అహత్వా' (చంపకుండా) సూటిగా చేరి 'గురూనహత్వా' అయినది. 2. 'భైక్షమ్' + 'అపి' = 'భైక్షమపి'. 3. 'అపి' + 'ఇహ' లలో సవర్ణదీర్ఘ సంధి జరిగి 'అపీహ' అయినది. సమగ్రంగా 'భైక్షమపీహ'. — భగవద్గీత (2.5)"
+    }
+  }
+]

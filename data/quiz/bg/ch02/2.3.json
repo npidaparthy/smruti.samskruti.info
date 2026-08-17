@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-3-q1",
+    "verse": { "c": 2, "s": 3 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.3?\n\n“klaibyaṃ mā sma gamaḥ pārtha naitattvayyupapadyate | kṣudraṃ hṛdayadaurbalyaṃ tyaktvottiṣṭha parantapa”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“క్లైబ్యం మా స్మ గమః పార్థ నైతత్త్వయ్యుపపద్యతే | క్షుద్రం హృదయదౌర్బల్యం త్యక్త్వోత్తిష్ఠ పరంపత”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Do not yield to unmanliness, O Partha; it does not befit you. Cast off this petty weakness of heart and arise, O scorcher of enemies!",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! క్లైబ్యాన్ని (నపుంసకత్వాన్ని/పిరికితనాన్ని) పొంద‌కు; ఇది నీకు తగినది కాదు. హృదయానికి సంబంధించిన ఈ క్షుద్రమైన బలహీనతను విడిచిపెట్టి, యుద్ధానికి లెమ్ము ఓ పరంతపా!",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — O Partha, take time to reflect upon your family duties and wait until the enemy makes the first move.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! నీ కుటుంబ ధర్మాలను గురించి ఆలోచించడానికి సమయం తీసుకో, శత్రువు మొదటి అడుగు వేసే వరకు వేచి ఉండు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — O Partha, if your heart feels weak, you should sit down and meditate on the eternal Atman.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! నీ హృదయం బలహీనంగా అనిపిస్తే, కూర్చుని శాశ్వతమైన ఆత్మను ధ్యానించు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — O Partha, he who surrenders his weapons on the battlefield is freed from all karmic reactions.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! రణరంగంలో ఆయుధాలను విడిచిపెట్టేవాడు సకల కర్మ బంధాల నుండి విముక్తుడవుతాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Klaibyaṃ mā sma gamaḥ pārtha naitat tvayy upapadyate / kṣudraṃ hṛdaya-daurbalyaṃ tyaktvottiṣṭha parantapa.\" Lord Krishna commands Arjuna to cast off petty heart-weakness ('kṣudraṃ hṛdaya-daurbalyam') and arise ('uttiṣṭha') to fulfill his Kshatriya duty. — Bhagavad Gita (2.3)",
+      "te": "పిరికితనాన్ని ('క్లైబ్యమ్'), హృదయపు క్షుద్ర బలహీనతను ('క్షుద్రం హృదయదౌర్బల్యమ్') త్యజించి, యుద్ధం కోసం లేచి నిలబడమని ('ఉత్తిష్ఠ') శ్రీకృష్ణుడు అర్జునుడిని దివ్యంగా ఆదేశిస్తున్నాడు. — భగవద్గీత (2.3)"
+    }
+  },
+  {
+    "id": "bg-2-3-q2",
+    "verse": { "c": 2, "s": 3 },
+    "concept": ["Name Analysis - Partha & Parantapa"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why does Lord Krishna address Arjuna as both 'Pārtha' and 'Parantapa' in verse 2.3?",
+      "te": "2.3 శ్లోకంలో శ్రీకృష్ణుడు అర్జునుడిని 'పార్థా' మరియు 'పరంతపా' అని రెండు నామాలతో ఎందుకు సంబోధించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Pārtha = Son of Pritha (Kunti), reminding him of his noble lineage; Parantapa = Scorcher of enemies, reminding him of his hero's prowess to inspire him to fight.",
+        "te": "పార్థ = పృథ (కుంతి) యొక్క కుమారుడు, ఉన్నతమైన వంశ వీరత్వాన్ని గుర్తుచేస్తూ; పరంతప = శత్రువులను తపింపజేసే వీరుడు, అతని రణ పరాక్రమాన్ని గుర్తుచేసి ఉత్తేజపరచడానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Pārtha = Ruler of Earth; Parantapa = Master of archery bow.",
+        "te": "పార్థ = భూమికి అధిపతి; పరంతప = విలువిద్యలో నిపుణుడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Pārtha = Disciple of Drona; Parantapa = Chariot warrior.",
+        "te": "పార్థ = ద్రోణుని శిష్యుడు; పరంతప = రథ యోధుడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Pārtha = Brother of Yudhishthira; Parantapa = Friend of Yadavas.",
+        "te": "పార్థ = యుధిష్ఠిరుని సోదరుడు; పరంతప = యాదవుల మిత్రుడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Addressing him as 'Pārtha' invokes his heritage as Kunti's son (Kunti being Krishna's aunt, establishing intimacy and noble warrior duty). Addressing him as 'Parantapa' ('chastiser/scorcher of foes') highlights his proven ability to defeat enemies, contrasting with his current weakness. — Bhagavad Gita (2.3)",
+      "te": "'పార్థా' అని పిలవడం ద్వారా కుంతీదేవి కుమారునిగా అతని క్షాత్ర ధర్మాన్ని గుర్తుచేశాడు. 'పరంతపా' (శత్రువులను భయపెట్టేవాడా) అని పిలవడం ద్వారా అతని పూర్వ వీరత్వాన్ని తలపింపజేసి, ప్రసుతం ఆవహించిన నిరాశ నుండి బయటకు తేవడానికి ప్రయత్నించాడు. — భగవద్గీత (2.3)"
+    }
+  },
+  {
+    "id": "bg-2-3-q3",
+    "verse": { "c": 2, "s": 3 },
+    "concept": ["Psychological Diagnosis - Klaibyam & Hṛdayadaurbalyam"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "How does Lord Krishna categorize Arjuna's grief and refusal to fight in verse 2.3?",
+      "te": "2.3 శ్లోకంలో అర్జునుని శోకాన్ని మరియు యుద్ధ విముఖతను శ్రీకృష్ణుడు ఏ విధంగా వర్గీకరించాడు?"
+    },
+    "choices": [
+      {
+        "en": "As 'Klaibyam' (unmanliness / impotence) and 'Kṣudraṃ hṛdaya-daurbalyam' (petty weakness of heart), rather than true saintliness or Ahimsa.",
+        "te": "అది నిజమైన అహింస లేదా వైరాగ్యం కాదని, కేవలం 'క్లైబ్యమ్' (నపుంసకత్వము/పిరికితనము) మరియు 'క్షుద్రం హృదయదౌర్బల్యమ్' (హృదయానికి చెందిన తుచ్ఛమైన బలహీనత) అని తేల్చిచెప్పాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "As supreme spiritual enlightenment (Jnana) that transcends worldly warfare.",
+        "te": "లౌకిక యుద్ధానికి అతీతమైన అత్యున్నత ఆధ్యాత్మిక జ్ఞానంగా ప్రశంసించాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "As righteous adherence to Kshatriya vows of non-violence during family conflicts.",
+        "te": "కుటుంబ కలహాలలో పాటించవలసిన ధర్మబద్ధమైన అహింసా వ్రతంగా గుర్తించాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "As a temporary physical disease caused by battlefield fatigue.",
+        "te": "యుద్ధరంగంలో వచ్చిన అలసట వల్ల కలిగిన తాత్కాలిక శారీరక రుగ్మతగా భావించాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna mistook his emotional collapse for higher compassion and virtue. Krishna directly debunks this delusion, exposing it as 'klaibyam' (impotence/unmanliness) and 'kṣudraṃ hṛdaya-daurbalyam' (petty weakness of heart) that must be cast off. — Bhagavad Gita (2.3)",
+      "te": "తన బలహీనతను అర్జునుడు ధర్మంగా, దయగా భ్రమపడ్డాడు. కానీ కృష్ణుడు ఆ భ్రమను పటాపంచలు చేస్తూ... ఇది దయ కాదు, పిరికితనము ('క్లైబ్యమ్') మరియు హృదయపు అల్పమైన బలహీనత ('క్షుద్రం హృదయదౌర్బల్యమ్') అని గద్దించాడు. — భగవద్గీత (2.3)"
+    }
+  },
+  {
+    "id": "bg-2-3-q4",
+    "verse": { "c": 2, "s": 3 },
+    "concept": ["Sanskrit Vocabulary - Action Command 'Uttiṣṭha'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'tyaktvā' and 'uttiṣṭha' mean in verse 2.3?",
+      "te": "2.3 శ్లోకంలోని 'త్యక్త్వా' మరియు 'ఉత్తిష్ఠ' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Tyaktvā = Having abandoned / cast off; Uttiṣṭha = Stand up / arise!",
+        "te": "త్యక్త్వా = విడిచిపెట్టి / త్యజించి; ఉత్తిష్ఠ = లెమ్ము / నిలబడుము!",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Tyaktvā = Having meditated; Uttiṣṭha = Sit down!",
+        "te": "త్యక్త్వా = ధ్యానించి; ఉత్తిష్ఠ = కూర్చోము!",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Tyaktvā = Having fought; Uttiṣṭha = Retreat!",
+        "te": "త్యక్త్వా = పోరాడి; ఉత్తిష్ఠ = వెనక్కి తగ్గుము!",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Tyaktvā = Having acquired; Uttiṣṭha = Sleep!",
+        "te": "త్యక్త్వా = పొంది; ఉత్తిష్ఠ = నిద్రపోము!",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Tyaktvā' is a gerund/absolutive meaning 'having abandoned / casting off'. 'Uttiṣṭha' is an imperative command verb from 'ud' + 'sthā' meaning 'stand up! / arise!'. Together they form Krishna's clarion call to spiritual and physical action. — Bhagavad Gita (2.3)",
+      "te": "'త్యక్త్వా' అనగా క్త్వా ప్రత్యయాంత రూపం — 'విడిచిపెట్టి'. 'ఉత్తిష్ఠ' అనేది ఆజ్ఞార్థకంలో 'లేచి నిలబడు!' అని అర్థం ఇచ్చే క్రియాపదం. బలహీనతను విడిచిపెట్టి కార్యోన్ముఖుడవు కమ్మని కృష్ణుడి సింహగర్జన. — భగవద్గీత (2.3)"
+    }
+  },
+  {
+    "id": "bg-2-3-q5",
+    "verse": { "c": 2, "s": 3 },
+    "concept": ["Sanskrit Grammar - Prohibitive Clause 'Mā sma gamaḥ'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical construction of 'mā sma gamaḥ' in verse 2.3:",
+      "te": "2.3 శ్లోకంలోని 'మా స్మ గమః' అనే పదబంధం యొక్క వ్యాకరణ నిర్మాణం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Prohibitive imperative construction: 'mā' (negative particle) + 'sma' (emphatic) + 'gamaḥ' (aorist 2nd person singular of root 'gam' without augment), meaning 'do not yield to / do not attain!'.",
+        "te": "నిషేధాత్మక ఆజ్ఞార్థక నిర్మాణం: 'మా' (వద్దు) + 'స్మ' (నొక్కిచెప్పే పదం) + 'గమః' ('గమ్' ధాతువు యొక్క లుఙ్ లకార ద్వితీయ పురుష ఏకవచనం) — 'నీవు పొందవద్దు / లొంగిపోవద్దు!'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Future tense active verb meaning 'you will go in future'.",
+        "te": "భవిష్యత్కాలంలో 'నీవు వెళ్తావు' అనే రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Past tense passive construction meaning 'it was obtained by you'.",
+        "te": "భూతకాల కర్మణి రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Optative potential mood meaning 'you might go'.",
+        "te": "విధి-లిఙ్ సంభావనార్థక రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Mā' used with aorist verb forms (Luṅ-lakāra without augment 'a-', e.g., 'gamaḥ' from root 'gam') creates the classical Sanskrit prohibitive command: 'mā gamaḥ' = 'do not go / do not yield!'. 'Sma' adds emphatic force: 'Do not yield under any circumstances!'. — Bhagavad Gita (2.3)",
+      "te": "'మా' అనే నిషేధార్థక అవ్యయంతో పాటు అంగారహిత లుఙ్ లకార క్రియాపదం 'గమః' కలసి 'మా గమః' (పొందవద్దు) అనే నిష్కర్షయైన ఆదేశాన్ని ఏర్పరిచింది. 'స్మ' చేరడం వల్ల 'ఎట్టి పరిస్థితుల్లోనూ క్లైబ్యానికి లొంగవద్దు' అని బలమైన హెచ్చరిక అవుతుంది. — భగవద్గీత (2.3)"
+    }
+  },
+  {
+    "id": "bg-2-3-q6",
+    "verse": { "c": 2, "s": 3 },
+    "concept": ["Sanskrit Grammar - Sandhi Analysis"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'naitattvayyupapadyate' and 'tyaktvottiṣṭha' in verse 2.3:",
+      "te": "2.3 శ్లోకంలోని 'నైతత్త్వయ్యుపపద్యతే' మరియు 'త్యక్త్వోత్తిష్ఠ' అనే పదాలను విడదీసి సంధి స్వరూపాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Na + etat -> naitat (Vṛddhi Sandhi); etat + tvayi -> etattvayi; tvayi + upapadyate -> tvayyupapadyate (Yan Sandhi); tyaktvā + uttiṣṭha -> tyaktvottiṣṭha (Guṇa Sandhi).",
+        "te": "న + ఏతత్ -> నైతత్ (వృద్ధి సంధి); ఏతత్ + త్వయి -> ఏతత్త్వయి; త్వయి + ఉపపద్యతే -> త్వయ్యుపపద్యతే (యణాదేశ సంధి); త్యక్త్వా + ఉత్తిష్ఠ -> త్యక్త్వోత్తిష్ఠ (గుణ సంధి).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Na + itat -> naitat; tvaya + upapadyate -> tvayupapadyate",
+        "te": "న + ఇతత్; త్వయ + ఉపపద్యతే",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "No + etat -> naitat; tyaktve + uttiṣṭha -> tyaktvottiṣṭha",
+        "te": "నో + ఏతత్; త్యక్త్వే + ఉత్తిష్ఠ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nai + tat -> naitat; tyaktvān + uttiṣṭha -> tyaktvottiṣṭha",
+        "te": "నై + తత్; త్యక్త్వాన్ + ఉత్తిష్ఠ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Na' + 'etat' = 'naitat' (Vṛddhi Sandhi). 2. 'Tvayi' + 'upapadyate' = 'tvayyupapadyate' (Yan Sandhi: 'i' becomes 'y' before 'u'). 3. 'Tyaktvā' + 'uttiṣṭha' = 'tyaktvottiṣṭha' (Guṇa Sandhi: 'ā' + 'u' becomes 'o'). — Bhagavad Gita (2.3)",
+      "te": "1. 'న' + 'ఏతత్' = 'నైతత్' (వృద్ధి సంధి). 2. 'త్వయి' + 'ఉపపద్యతే' = 'త్వయ్యుపపద్యతే' ('ఇ' స్థానంలో 'య్' వచ్చే యణాదేశ సంధి). 3. 'త్యక్త్వా' + 'ఉత్తిష్ఠ' = 'త్యక్త్వోత్తిష్ఠ' ('ఆ' + 'ఉ' కలయికతో 'ఓ' వచ్చే గుణ సంధి). — భగవద్గీత (2.3)"
+    }
+  }
+]

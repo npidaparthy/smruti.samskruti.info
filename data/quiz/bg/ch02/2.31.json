@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-31-q1",
+    "verse": { "c": 2, "s": 31 },
+    "concept": ["Verse Meaning & Warrior Swadharma"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.31?\n\n“svadharmamapi cāvekṣya na vikampitumarhasi | dharmyāddhi yuddhācchreyo'nyatkṣatriyasya na vidyate”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“స్వధర్మమపి చావేక్ష్య న వికంపితమర్హసి | ధర్మ్యాద్ధి యుద్దాచ్ఛ్రేయోఽన్యత్క్షత్రియస్య న విద్యతే”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Considering your own specific duty as a Kshatriya, you ought not to waver; for there is no higher good for a warrior than a righteous war.",
+        "te": "శ్రీభగవానుడు పలికెను — నీ స్వధర్మాన్ని (క్షాత్రధర్మాన్ని) దృష్టిలో ఉంచుకొని చూసినా నీవు చలించకూడదు (భయపడకూడదు); ఎందుకంటే క్షత్రియునికి ధర్మయుద్ధము కంటే శ్రేయస్కరమైనది వేరొకటి ఏదీ లేదు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — A warrior should avoid righteous war if it causes harm to revered teachers and family members.",
+        "te": "శ్రీభగవానుడు పలికెను — పూజ్యులైన గురువులకు, బంధువులకు హాని కలిగించేదిగా ఉంటే యోధుడు ధర్మయుద్ధాన్ని వర్జించాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Swadharma means abandoning physical battles to practice silent meditation in the forest.",
+        "te": "శ్రీభగవానుడు పలికెను — స్వధర్మం అనగా భౌతిక యుద్ధాలను విడిచిపెట్టి అరణ్యంలో మౌన ధ్యానాన్ని ఆచరించడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Victory in battle guarantees worldly kingdom, but righteous war does not bring spiritual elevation.",
+        "te": "శ్రీభగవానుడు పలికెను — యుద్ధ విజయం లౌకిక రాజ్యాన్ని అందిస్తుంది, కానీ ధర్మయుద్ధం ఆధ్యాత్మిక ఉన్నతిని ప్రసాదించదు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Sva-dharmam api cāvekṣya na vikampitum arhasi / dharmyād dhi yuddhāc chreyo 'nyat kṣatriyasya na vidyate.\" Krishna shifts from universal spiritual truth (Ātman) to contextual duty (Swadharma). For a Kshatriya whose societal role is protecting righteousness, engaging in a righteous war ('dharmya yuddha') is the highest duty ('śreyas'). — Bhagavad Gita (2.31)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ ఆత్మతత్త్వం నుండి స్వధర్మ ఆచరణకు మారాడు. సమాజంలో ధర్మాన్ని రక్షించే బాధ్యత గల క్షత్రియునికి ధర్మయుద్ధంలో పాల్గొనడం కంటే మిగిలినది ఏదీ శ్రేయస్స్కరం ('శ్రేయః') కాదని బోధిస్తున్నాడు. — భగవద్గీత (2.31)"
+    }
+  },
+  {
+    "id": "bg-2-31-q2",
+    "verse": { "c": 2, "s": 31 },
+    "concept": ["Duty Concept - Swadharma & Dharmya Yuddha"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the term 'Dharmya Yuddha' signify for a Kshatriya in verse 2.31?",
+      "te": "2.31 శ్లోకంలో క్షత్రియునికి సంబంధించి 'ధర్మ్య యుద్ధము' అనగా ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "A righteous war fought not for personal greed or malice, but for upholding order, justice, and protecting society against unrighteousness.",
+        "te": "స్వార్థం లేదా ద్వేషంతో కాకుండా... అధర్మం నుండి సమాజాన్ని కాపాడటానికి, న్యాయాన్ని, ధర్మాన్ని పునఃప్రతిష్ఠించడానికి చేసే పవిత్ర పోరాటం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Any aggressive war aimed at expanding political boundaries and capturing foreign kingdoms.",
+        "te": "రాజకీయ సరిహద్దులను విస్తరించడానికి, విదేశీ రాజ్యాలను జయించడానికి చేసే ఏ రకమైన దాడి యుద్ధమైనా.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "A ritual battle fought purely with spiritual mantras inside a temple.",
+        "te": "దేవాలయం లోపల కేవలం ఆధ్యాత్మిక మంత్రాలతో చేసే కర్మకాండల పోరాటం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "A wrestling competition held during royal festivals.",
+        "te": "రాజోత్సవాల సమయంలో నిర్వహించే కుస్తీ పోటీ.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Dharma' (righteousness) + suffix '-ya' = 'Dharmya' (in accordance with virtue/duty). 'Dharmya Yuddha' is a war waged for righteous cause after peaceful resolution attempts have failed, served as a mandatory obligation for the warrior class. — Bhagavad Gita (2.31)",
+      "te": "'ధర్మ' + 'య' = ధర్మ్య (ధర్మానికి అనుకూలమైనది). శాంతియుత ప్రయత్నాలన్నీ విఫలమైన తర్వాత ధర్మ రక్షణార్థం చేసే పోరాటమే 'ధర్మ్య యుద్ధము'. ఇది క్షత్రియునికి పరమ కర్తవ్యం. — భగవద్గీత (2.31)"
+    }
+  },
+  {
+    "id": "bg-2-31-q3",
+    "verse": { "c": 2, "s": 31 },
+    "concept": ["Practical Virtue - Non-waivering (Na Vikampitum)"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the key exhortation expressed by 'na vikampitum arhasi' in verse 2.31?",
+      "te": "2.31 శ్లోకంలోని 'న వికంపితమర్హసి' అనే పదబంధం ద్వారా కృష్ణుడు అర్జునుడికి ఇచ్చిన ప్రధాన ఉపదేశం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "You ought not to waver or hesitate in performing your prescribed duty due to fear, doubt, or emotional weakness.",
+        "te": "భయము, సందిగ్ధము లేదా మానసిక దౌర్బల్యం వల్ల నీకు నిర్దేశించబడిన స్వధర్మాన్ని ఆచరించడంలో నీవు చలించకూడదు/సంకోచించకూడదు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "You should not shake your physical body during archery practice.",
+        "te": "ధనుర్విద్య అభ్యసించేటప్పుడు శారీరకంగా కదలకూడదు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "You should not speak loudly in front of elders on the battlefield.",
+        "te": "యుద్ధభూమిలో పెద్దల ముందు బిగ్గరగా మాట్లాడకూడదు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "You ought not to ask any further questions about the Atman.",
+        "te": "ఆత్మను గురించి ఇకపై ఏ విధమైన ప్రశ్నలూ అడగకూడదు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vi-' (prefix for agitation/wavering) + root 'kamp' (to shake/tremble) -> 'vikampitum' (to waver/tremble). 'Na vikampitum arhasi' means 'it is not fitting for you to tremble or falter from your sworn duty'. — Bhagavad Gita (2.31)",
+      "te": "'వి' + 'కంప్' (వణుకు/చలించు) -> వికంపితమ్ (చలించడం/వణకడం). 'న వికంపితమర్హసి' అనగా 'నీ స్వధర్మ మార్గం నుండి విచలనం పొందడం నీకు తగదు'. — భగవద్గీత (2.31)"
+    }
+  },
+  {
+    "id": "bg-2-31-q4",
+    "verse": { "c": 2, "s": 31 },
+    "concept": ["Sanskrit Vocabulary - Swadharma & Śreyas"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit terms 'sva-dharmam' and 'śreyas' mean in verse 2.31?",
+      "te": "2.31 శ్లోకంలోని 'స్వధర్మమ్' మరియు 'శ్రేయః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Sva-dharmam = One's own inherent social/individual duty; Śreyas = Ultimate good / highest welfare.",
+        "te": "స్వధర్మమ్ = తన వర్ణ ఆశ్రమ గుణాలకు తగిన నిత్య విధాయక ధర్మము; శ్రేయః = అత్యున్నత శుభము / పరమ శ్రేయస్సు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sva-dharmam = Personal wealth; Śreyas = Fame.",
+        "te": "స్వధర్మమ్ = వ్యక్తిగత సంపద; శ్రేయః = కీర్తి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sva-dharmam = Religious sacrifice; Śreyas = Victory in game.",
+        "te": "స్వధర్మమ్ = ధార్మిక యజ్ఞం; శ్రేయః = ఆటలో విజయం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sva-dharmam = Royal throne; Śreyas = Long life.",
+        "te": "స్వధర్మమ్ = రాజ సింహాసనం; శ్రేయః = దీర్ఘాయువు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sva' (own) + 'dharma' (duty/virtue) = 'Sva-dharma' (duty aligned with one's psychophysical nature). 'Śreyas' means that which brings spiritual elevation and highest ultimate good (as opposed to 'Preyas' or immediate pleasant pleasure). — Bhagavad Gita (2.31)",
+      "te": "'స్వ' (తన యొక్క) + 'ధర్మ' (కర్తవ్యం) = స్వధర్మం. 'శ్రేయః' అనగా ఆత్మను ఊర్థ్వగతికి తీసుకెళ్లే పరమ మంగళం (క్షణిక సుఖాన్నిచ్చే 'ప్రేయస్సు' కంటే వేరైనది). — భగవద్గీత (2.31)"
+    }
+  },
+  {
+    "id": "bg-2-31-q5",
+    "verse": { "c": 2, "s": 31 },
+    "concept": ["Sanskrit Grammar - Infinitive 'Vikampitum'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'vikampitum' in verse 2.31:",
+      "te": "2.31 శ్లోకంలోని 'వికంపితమ్' (వికంపిత్యుమ్) అనే పదానికి ఉన్న వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Infinitive form (Tumun-pratyaya) from root 'kamp' (to shake / waver) with prefix 'vi', meaning 'to waver / to tremble' (governed by 'na arhasi' = 'you ought not to waver').",
+        "te": "'కంప్' (చలించు/వణుకు) అనే ధాతువుకు 'వి' ఉపసర్గ చేరిన తుమున్నంత (Infinitive) రూపం — 'న వికంపితమర్హసి' ('నీవు చలించతగవు') అనే వాక్యంలో 'చలించుటకు' అనే అర్థాన్ని ఇస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person plural past tense verb form.",
+        "te": "ప్రథమ పురుష బహువచన భూతకాల రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nominative Singular noun form.",
+        "te": "ప్రథమా విభక్తి ఏకవచన నామవాచకం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Future active participle form.",
+        "te": "భవిష్యత్కాల వర్తమాన విశేషణ రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vikampitum' is the Tumun-infinitive of prefix 'vi' + root 'kamp' (to shake). Joined with 'na arhasi': 'na vikampitum arhasi' = 'you ought not to falter/waver'. — Bhagavad Gita (2.31)",
+      "te": "'వి' + 'కంప్' ధాతువుకు 'తుమున్' (Infinitive) प्रत्यయం చేరగా 'వికంపితమ్' (చలించుటకు) అనే రూపమేర్పడింది. 'న అర్హసి' తో చేరి 'నీవు చలించకూడదు' అని ఆదేశిస్తోంది. — భగవద్గీత (2.31)"
+    }
+  },
+  {
+    "id": "bg-2-31-q6",
+    "verse": { "c": 2, "s": 31 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'dharmyāddhi' and 'yuddhācchreyo'nyat' in verse 2.31:",
+      "te": "2.31 శ్లోకంలోని 'ధర్మ్యాద్ధి' మరియు 'యుద్ధాచ్ఛ్రేయోఽన్యత్' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Dharmyāt + hi -> dharmyād dhi (Jasdtva Sandhi: 't' -> 'd'); yuddhāt + śreyaḥ -> yuddhāc chreyaḥ (Ścutva & Chhatva Sandhi: 't' -> 'c', 'ś' -> 'ch'); śreyaḥ + anyat -> śreyo 'nyat (Visarga Uttva & Pūrvarūpa Sandhi).",
+        "te": "ధర్మ్యాత్ + హి -> ధర్మ్యాద్ధి (జశ్త్వ సంధి: 'త్' -> 'ద్'); యుద్ధాత్ + శ్రేయః -> యుద్ధాచ్ఛ్రేయః (శ్చుత్వ, ఛత్వ సంధులు: 'త్' -> 'చ్', 'శ్' -> 'ఛ్'); శ్రేయః + అన్యత్ -> శ్రేయోఽన్యత్ (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dharmyā + hi -> dharmyāhi; yuddhā + śreyaḥ -> yuddhāśreyaḥ",
+        "te": "ధర్మ్యా + హి -> ధర్మ్యాహి; యుద్ధా + శ్రేయః -> యుద్ధాశ్రేయః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Dharmyām + hi -> dharmyāmhi; yuddhām + śreyaḥ -> yuddhāmśreyaḥ",
+        "te": "ధర్మ్యామ్ + హి -> ధర్మ్యామ్హి; యుద్ధామ్ + శ్రేయః -> యుద్ధామ్శ్రేయః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dharmye + hi -> dharmyehi; yuddhe + śreyaḥ -> yuddheśreyaḥ",
+        "te": "ధర్మే + హి -> ధర్మేహి; యుద్ధే + శ్రేయః -> యుద్ధేశ్రేయః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Dharmyāt' (Ablative singular = than a righteous war) + 'hi' (indeed): 't' converts to 'd' via Jasdtva Sandhi -> 'dharmyād dhi'. 2. 'Yuddhāt' + 'śreyaḥ': 't' before 'ś' becomes 'c' via Ścutva, and 'ś' becomes 'ch' via Chhatva Sandhi -> 'yuddhāc chreyaḥ'. 3. 'Śreyaḥ' + 'anyat': visarga converts to 'o' and 'a' becomes Avagraha -> 'śreyo 'nyat'. — Bhagavad Gita (2.31)",
+      "te": "1. 'ధర్మ్యాత్' + 'హి' లలో 'త్' స్థానంలో 'ద్' వచ్చి 'ధర్మ్యాద్ధి' (జశ్త్వ సంధి) అయినది. 2. 'యుద్ధాత్' + 'శ్రేయః' లలో శ్చుత్వ, ఛత్వ సంధుల ద్వారా 'యుద్ధాచ్ఛ్రేయః' అయినది. 3. 'శ్రేయః' + 'అన్యత్' లలో విసర్గ ఉత్త్వ, పూర్వరూప సంధుల ద్వారా 'శ్రేయోఽన్యత్' అయినది. — భగవద్గీత (2.31)"
+    }
+  }
+]

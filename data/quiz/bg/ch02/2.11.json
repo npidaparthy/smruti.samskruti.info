@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-11-q1",
+    "verse": { "c": 2, "s": 11 },
+    "concept": ["Verse Meaning & First Teaching"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.11?\n\n“śrībhagavānuvāca | aśocyānanvasocastvaṃ prajñāvādāṃśca bhāṣase | gatāsūnagatāsūṃśca nānuśocanti paṇḍitāḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“శ్రీభగవానువాచ | అశోచ్యానన్వశోచస్త్వం ప్రజ్ఞావాదాంశ్చ భాషసే | గతాసూనగతాసూంశ్చ నానుశోచంతి పండితాః”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — You grieve for those who should not be grieved for, yet you speak words of apparent wisdom. The truly wise mourn neither for the living nor for the dead.",
+        "te": "శ్రీభగవానుడు పలికెను — దుఃఖించకూడని వారి కోసం నీవు శోకిస్తున్నావు, పైగా జ్ఞానివలె పెద్ద పెద్ద మాటలు మాట్లాడుతున్నావు. నిజమైన పండితులు (ఆత్మజ్ఞానులు) మరణించిన వారి కోసం గానీ, జీవించి ఉన్న వారి కోసం గానీ దుఃఖించరు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Grief is natural for every warrior, but speaking scriptural wisdom on the battlefield purifies all previous sins.",
+        "te": "శ్రీభగవానుడు పలికెను — ప్రతి యోధునికి దుఃఖం సహజమే, కానీ రణరంగంలో శాస్త్ర జ్ఞానాన్ని మాట్లాడటం వల్ల పూర్వ పాపాలన్నీ తొలగిపోతాయి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Wise scholars mourn only for those who die in battle without achieving liberation.",
+        "te": "శ్రీభగవానుడు పలికెను — మోక్షాన్ని పొందకుండా యుద్ధంలో మరణించిన వారి కోసం మాత్రమే పండితులు దుఃఖిస్తారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — You should mourn for your relatives now, so that after the war you can perform your duties without remorse.",
+        "te": "శ్రీభగవానుడు పలికెను — యుద్ధం తర్వాత పశ్చాత్తాపం లేకుండా విధులను నిర్వర్తించడానికి నీవు ఇప్పుడే నీ బంధువుల కోసం దుఃఖించు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Śrī-bhagavān uvāca — aśocyān anvaśocas tvaṃ prajñā-vādāṃś ca bhāṣase / gatāsūn agatāsūṃś ca nānuśocanti paṇḍitāḥ.\" Krishna inaugurates His spiritual instruction by highlighting Arjuna's contradiction: speaking high philosophical words ('prajñā-vādān') while weeping for the perishable body ('aśocyān'). The enlightened ('paṇḍitāḥ') never grieve for bodies, whether living or dead. — Bhagavad Gita (2.11)",
+      "te": "శ్రీకృష్ణ భగవానుడు తన మొదటి ఆత్మజ్ఞాన బోధను ఇక్కడ ప్రారంభించాడు. అర్జునుడు ధర్మపన్నులైన పండితుడిలా పెద్ద మాటలు 'ప్రజ్ఞావాదాలు' చెబుతూనే, దుఃఖించకూడని ('అశోచ్యాన్') దేహాల కోసం విలపిస్తున్నాడని సూచించాడు. ఆత్మసత్యం తెలిసిన వివేకులు ('పండితాః') చనిపోయిన వారి కోసం గానీ, బతికి ఉన్న వారి కోసం గానీ శోకించరని స్పష్టం చేశాడు. — భగవద్గీత (2.11)"
+    }
+  },
+  {
+    "id": "bg-2-11-q2",
+    "verse": { "c": 2, "s": 11 },
+    "concept": ["Definition of the Wise - Paṇḍita"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the true Vedantic definition of a 'Paṇḍita' as presented by Lord Krishna in verse 2.11?",
+      "te": "2.11 శ్లోకంలో శ్రీకృష్ణుడు వర్ణించిన ప్రకారం 'పండితుడు' అనే పదానికి నిజమైన ఆధ్యాత్మిక వివేచనాత్మక అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "One who possesses self-realized spiritual wisdom (Paṇḍā = Atma-Jnana) and therefore does not grieve for the living or the dead ('nānuśocanti').",
+        "te": "ఆత్మజ్ఞానము/స్వరూప జ్ఞానము ('పండా') కలిగి ఉన్నవాడు; కావున జీవించి ఉన్నవారి కోసం గానీ, మరణించినవారి కోసం గానీ శోకించనివాడు ('నానుశోచంతి').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "One who has memorized all four Vedas and can debate ritualistic sacrifices.",
+        "te": "చతుర్వేదాలను కంఠస్థం చేసి యజ్ఞ యాగాదులపై చర్చలు చేయగల విద్వాంసుడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "One who uses clever logic to avoid fighting in difficult wars.",
+        "te": "కష్టమైన యుద్ధాల నుండి తప్పించుకోవడానికి తెలివైన తర్కాన్ని వాడేవాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "One who strictly adheres to physical family lineages and social laws.",
+        "te": "కేవలం లౌకిక సమాజ చట్టాలను, వంశ నియమాలను కఠినంగా పాటించేవాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Etymologically, 'Paṇḍā' refers to the intuitive wisdom of the Self (Ātmā). A 'Paṇḍita' is not merely an academic scholar, but one established in Atma-Jnana. Because they know the Atman is immortal and the body is temporary, they do not mourn ('nānuśocanti'). — Bhagavad Gita (2.11)",
+      "te": "'పండా' అనగా ఆత్మవిషయకమైన నిశ్చయాత్మక జ్ఞానము. ఆత్మజ్ఞానము గలవాడే 'పండితుడు'. దేహాలు అనిత్యములని, ఆత్మ శాశ్వతమైనదని ఎరిగినవాడు కాబట్టి అతడు దేహ వినాశనానికి శోకించడు. — భగవద్గీత (2.11)"
+    }
+  },
+  {
+    "id": "bg-2-11-q3",
+    "verse": { "c": 2, "s": 11 },
+    "concept": ["Psychological Irony - Prajñāvāda"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What irony does Lord Krishna expose in Arjuna's behavior by using the phrase 'prajñā-vādāṃś ca bhāṣase' in verse 2.11?",
+      "te": "2.11 శ్లోకంలో 'ప్రజ్ఞావాదాంశ్చ భాషసే' అనే పదబంధం ద్వారా అర్జునుని ప్రవర్తనలోని ఏ ఐరనీని (వైరుధ్యాన్ని) శ్రీకృష్ణుడు ఎత్తిచూపాడు?"
+    },
+    "choices": [
+      {
+        "en": "Arjuna speaks words that sound intellectually profound ('prajñā-vāda'), yet acts out of elementary emotional confusion and physical delusion.",
+        "te": "అర్జునుడు మాట్లాడేటప్పుడు పండితుడిలా ఉత్కృష్ట జ్ఞాన వాక్యాలు ('ప్రజ్ఞావాదాలు') చెబుతున్నాడు, కానీ ఆచరణలో మాత్రం అజ్ఞానజనితమైన శోకానికి, వ్యామోహానికి లొంగిపోతున్నాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna is insulting Krishna's knowledge of the scriptures.",
+        "te": "అర్జునుడు కృష్ణుని శాస్త్ర పరిజ్ఞానాన్ని అవమానిస్తున్నాడని భావం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna is quoting enemy war strategies accurately.",
+        "te": "అర్జునుడు శత్రువుల యుద్ధ వ్యూహాలను కచ్చితంగా ఉటంకిస్తున్నాడని భావం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna is pretending to be a silent ascetic while holding weapons.",
+        "te": "చేతుల్లో ఆయుధాలు పట్టుకుని మౌనమునిలా నటిస్తున్నాడని భావం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Prajñā' (wisdom/intellect) + 'vādān' (arguments/statements). Arjuna cited dharma and lineage destruction in Chapter 1 as if he were a wise philosopher. Krishna exposes this hypocritical gap: true wisdom generates peace and detachment, not grief and paralysis. — Bhagavad Gita (2.11)",
+      "te": "'ప్రజ్ఞా' (బుద్ధి/జ్ఞానము) + 'వాదాన్' (మాటలు/తర్కములు). 1వ అధ్యాయంలో అర్జునుడు జ్ఞానివలె సంస్కారాల గురించి పెద్ద మాటలు చెప్పాడు. నిజమైన జ్ఞానము దుఃఖాన్ని పోగొడుతుంది గానీ శోకాన్ని పెంచదని కృష్ణుడు ఈ వైరుధ్యాన్ని బయటపెట్టాడు. — భగవద్గీత (2.11)"
+    }
+  },
+  {
+    "id": "bg-2-11-q4",
+    "verse": { "c": 2, "s": 11 },
+    "concept": ["Sanskrit Vocabulary - Living vs Dead"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit compounds 'gatāsūn' and 'agatāsūn' mean in verse 2.11?",
+      "te": "2.11 శ్లోకంలోని 'గతాసూన్' మరియు 'అగతాసూన్' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Gatāsūn = Those whose life-forces have departed (the dead); Agatāsūn = Those whose life-forces have not departed (the living).",
+        "te": "గతాసూన్ = ప్రాణములు పోయినవారు (మరణించినవారు); అగతాసూన్ = ప్రాణములు పోనివారు (జీవించి ఉన్నవారు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Gatāsūn = Those who have attained heaven; Agatāsūn = Those who have fallen to hell.",
+        "te": "గతాసూన్ = స్వర్గాన్ని పొందినవారు; అగతాసూన్ = నరకానికి పడిపోయినవారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Gatāsūn = Wise sages; Agatāsūn = Ignorant men.",
+        "te": "గతాసూన్ = జ్ఞానులైన మునులు; అగతాసూన్ = అజ్ఞానులైన మనుషులు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Gatāsūn = Victorious warriors; Agatāsūn = Defeated soldiers.",
+        "te": "గతాసూన్ = విజయం సాధించిన యోధులు; అగతాసూన్ = ఓడిపోయిన సైనికులు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Asu' means breath or life-force. 'Gata-asu' (whose breath has gone = dead). 'A-gata-asu' (whose breath has not gone = living). Krishna states that the wise mourn for neither state, knowing the Soul is beyond physical life and death. — Bhagavad Gita (2.11)",
+      "te": "'అసు' అనగా ప్రాణము/శ్వాస. 'గత-అసు' అనగా ప్రాణము పోయినవారు (మృతులు). 'అగత-అసు' అనగా ప్రాణములు ఇంకనూ పోనివారు (జీవితులు). భౌతికమైన ఈ రెండు స్థితులకూ ఆత్మజ్ఞాని విచారించడు. — భగవద్గీత (2.11)"
+    }
+  },
+  {
+    "id": "bg-2-11-q5",
+    "verse": { "c": 2, "s": 11 },
+    "concept": ["Sanskrit Grammar - Verb 'Anvaśocaḥ'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'anvaśocaḥ' in verse 2.11:",
+      "te": "2.11 శ్లోకంలోని 'అన్వశోచః' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "2nd person singular Past tense (Laṅ-lakāra) from root 'śuc' (to grieve / mourn) with prefix 'anu', meaning 'you have grieved / you are lamenting'.",
+        "te": "'శుచ్' (దుఃఖించు/శోకించు) అనే ధాతువుకు 'అను' అనే ఉపసర్గ చేరిన లఙ్ లకార (భూతకాల) మధ్యమ పురుష ఏకవచన రూపం — 'నీవు శోకిస్తున్నావు / దుఃఖించితివి'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1st person singular present tense active verb.",
+        "te": "ఉత్తమ పురుష ఏకవచన వర్తమానకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "3rd person plural future tense verb form.",
+        "te": "ప్రథమ పురుష బహువచన భవిష్యత్కాల రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb form.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Anu' + 'aśocaḥ' (2nd person singular imperfect/past of root 'śuc') = 'anvaśocaḥ' ('you grieved'). Combined with 'tvaṃ' (you): 'anvaśocas tvaṃ' = 'you have been grieving for those unworthy of grief'. — Bhagavad Gita (2.11)",
+      "te": "'అను' + 'అశోచః' (మధ్యమ పురుష ఏకవచన లఙ్ లకార రూపం) = 'అన్వశోచః'. 'త్వమ్' అనే పదంతో కూడి 'నీవు శోకించకూడని వారి కోసం శోకిస్తున్నావు' అనే అర్థాన్ని ఇస్తుంది. — భగవద్గీత (2.11)"
+    }
+  },
+  {
+    "id": "bg-2-11-q6",
+    "verse": { "c": 2, "s": 11 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'aśocyānanvaśocastvaṃ' in verse 2.11:",
+      "te": "2.11 శ్లోకంలోని 'అశోచ్యానన్వశోచస్త్వమ్' అనే పద సమాసాన్ని విడదీసి సంధి స్వరూపాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Aśocyān + anvaśocaḥ -> aśocyānanvaśocaḥ (consonant 'n' joins 'a'); anvaśocaḥ + tvam -> anvaśocas tvam (Visarga Sattva Sandhi: visarga 'ḥ' converts to 's' before unvoiced dental 't').",
+        "te": "అశోచ్యాన్ + అన్వశోచః -> అశోచ్యానన్వశోచః (పొల్లు 'న్' అచ్చు 'అ' తో కలయుట); అన్వశోచః + త్వమ్ -> అన్వశోచస్ త్వమ్ (విసర్గ సత్త్వ సంధి: శ్వాస పరుషమైన 'త' ముందు విసర్గ 'స' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Aśocyā + nanvaśoca + stvam",
+        "te": "అశోచ్యా + నన్వశోచ + స్త్వమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Aśocyām + anvaśo + castvam",
+        "te": "అశోచ్యామ్ + అన్వశో + చస్త్వమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Aśocyāt + anvaśocāt + tvam",
+        "te": "అశోచ్యాత్ + అన్వశోచాత్ + త్వమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Aśocyān' (accusative plural = those not to be grieved for) + 'anvaśocaḥ' (you grieved) = 'aśocyānanvaśocaḥ'. 2. 'Anvaśocaḥ' + 'tvam': visarga 'ḥ' before 't' converts to 's' via Visarga Sattva Sandhi, yielding 'anvaśocas tvam'. Combined: 'aśocyānanvaśocastvaṃ'. — Bhagavad Gita (2.11)",
+      "te": "1. 'అశోచ్యాన్' (ద్వితీయా బహువచనం) + 'అన్వశోచః' కలసి 'అశోచ్యానన్వశోచః' అయినది. 2. 'అన్వశోచః' + 'త్వమ్' లలో 'త్' ముందు ఉన్న విసర్గ 'స' గా మారడం వల్ల (విసర్గ సత్త్వ సంధి) 'అన్వశోచస్ త్వమ్' అయినది. సమగ్రంగా 'అశోచ్యానన్వశోచస్త్వమ్'. — భగవద్గీత (2.11)"
+    }
+  }
+]

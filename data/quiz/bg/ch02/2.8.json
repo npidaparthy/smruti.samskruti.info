@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-8-q1",
+    "verse": { "c": 2, "s": 8 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.8?\n\n“na hi prapaśyāmi mamāpanudyād yacchokamucchoṣaṇamindriyāṇām | avāpya bhūmāv-asapatnamṛddhaṃ rājyaṃ surāṇāmapi cādhipatyam”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“న హి ప్రపశ్యామి మమాపనుద్యాద్ యచ్ఛోకముచ్ఛోషణమింద్రియాణామ్ | అవాప్య భూమావసపత్నమృద్ధం రాజ్యం సురాణామపి చాధిపత్యమ్”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — I can find no means to drive away this grief which is drying up my senses. I will not be able to dispel it even if I win an unrivaled, prosperous kingdom on earth or lordship over the gods in heaven.",
+        "te": "అర్జునుడు పలికెను — నా ఇంద్రియాలను ఎండిపోచేస్తున్న నా ఈ శోకాన్ని పోగొట్టేదేదో నాకు కనిపించడం లేదు. భూమిపై శత్రురహితమైన ఐశ్వర్యవంతమైన రాజ్యాన్ని పొందినా, లేదా దేవతలపై ఆధిపత్యాన్ని సంపాదించినా ఈ దుఃఖం తొలగిపోదు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — By gaining sovereignty over the gods in heaven, I shall easily overcome the grief caused by the destruction of my family line.",
+        "te": "అర్జునుడు పలికెను — స్వర్గంలో దేవతలపై ఆధిపత్యాన్ని పొందడం ద్వారా, నా వంశ నాశనం వల్ల కలిగిన శోకాన్ని నేను సులభంగా అధిగమిస్తాను.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — If Lord Krishna grants me celestial weapons, I can conquer both earth and heaven without committing any sin.",
+        "te": "అర్జునుడు పలికెను — శ్రీకృష్ణుడు నాకు దివ్యమైన ఆయుధాలను అనుగ్రహిస్తే, నేను ఎటువంటి పాపం చేయకుండానే భూమిని, స్వర్గాన్ని జయించగలను.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — The pleasures of earth are temporary, but the kingdom of heaven guarantees permanent freedom from all sorrow.",
+        "te": "అర్జునుడు పలికెను — భూమిపై ఉండే భోగాలు తాత్కాలికమైనవి, కానీ స్వర్గరాజ్యం సమస్త దుఃఖాల నుండి శాశ్వత విముక్తికి హామీ ఇస్తుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Na hi prapaśyāmi mamāpanudyād yac chokam ucchoṣaṇam indriyāṇām / avāpya bhūmāv asapatnam ṛddhaṃ rājyaṃ surāṇām api cādhipatyam.\" Arjuna confesses the total inadequacy of material achievements—whether earthly empire ('asapatnam ṛddham rājyam') or heavenly lordship ('surāṇām adhipatyam')—to cure fundamental spiritual sorrow ('śokam ucchoṣaṇam indriyāṇām'). — Bhagavad Gita (2.8)",
+      "te": "కేవలం లౌకిక విజయాలైన భూరాజ్యం గానీ ('అసపత్నమృద్ధం రాజ్యమ్'), స్వర్గాధిపత్యం గానీ ('సురాణామాధిపత్యమ్') తన ఇంద్రియాలను ఎండబెడుతున్న లోతైన ఆధ్యాత్మిక శోకాన్ని ('శోకముచ్ఛోషణమింద్రియాణామ్') పోగొట్టలేవని అర్జునుడు స్పష్టం చేస్తున్నాడు. — భగవద్గీత (2.8)"
+    }
+  },
+  {
+    "id": "bg-2-8-q2",
+    "verse": { "c": 2, "s": 8 },
+    "concept": ["Psychological State - Senses-Drying Grief"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which Sanskrit phrase in verse 2.8 metaphorically expresses how grief is physically and mentally scorching Arjuna's faculties?",
+      "te": "2.8 శ్లోకంలో శోకం తన మానసిక, శారీరక ఇంద్రియాలను ఏ విధంగా ఎండబెడుతుందో/వాడిపోయేలా చేస్తుందో తెలిపే సంస్కృత పదబంధం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Yac chokam ucchoṣaṇam indriyāṇām ('Grief which is completely drying up / scorching my senses')",
+        "te": "యచ్ఛోకముచ్ఛోషణమింద్రియాణామ్ ('నా ఇంద్రియాలను సంపూర్ణంగా ఎండబెడుతున్న/వడిలిపోయేలా చేస్తున్న శోకము')",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Avāpya bhūmāv asapatnam ṛddham ('Obtaining an unrivaled prosperous kingdom on earth')",
+        "te": "అవాప్య భూమావసపత్నమృద్ధమ్ ('భూమిపై శత్రురహితమైన సంపన్న రాజ్యాన్ని పొందినా')",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Rājyaṃ surāṇām api cādhipatyam ('Kingdom and lordship over the gods themselves')",
+        "te": "రాజ్యం సురాణామపి చాధిపత్యమ్ ('దేవతలపై రాజ్యాధికారాన్ని, ఆధిపత్యాన్ని పొందినా')",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Na hi prapaśyāmi mama apanudyāt ('I do not see what can dispel for me')",
+        "te": "న హి ప్రపశ్యామి మమాపనుద్యాత్ ('నా శోకాన్ని తొలగించేదేదో నాకు కనిపించడం లేదు')",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Śokam' (grief) + 'ucchoṣaṇam' (drying up / scorching utterly) + 'indriyāṇām' (of the senses). Arjuna uses the imagery of intense drought/heat scorching bodily senses to convey that his sorrow is beyond mere emotional sadness—it is paralyzing his vital life-force. — Bhagavad Gita (2.8)",
+      "te": "'శోకమ్' (విచారము) + 'ఉచ్ఛోషణమ్' (ఎండిపోయేలా చేయుట) + 'ఇంద్రియాణామ్' (ఇంద్రియముల యొక్క). తీవ్రమైన ఎండ మొక్కలను ఎండబెట్టినట్లు, తన శోకం తన ఇంద్రియ శక్తులను పీల్చివేస్తోందని అర్జునుని ఆవేదన. — భగవద్గీత (2.8)"
+    }
+  },
+  {
+    "id": "bg-2-8-q3",
+    "verse": { "c": 2, "s": 8 },
+    "concept": ["Inadequacy of Material Wealth"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What two highest attainments (one terrestrial and one celestial) does Arjuna declare insufficient to solve his inner grief in verse 2.8?",
+      "te": "2.8 శ్లోకంలో తన అంతర్గత శోకాన్ని పోగొట్టడానికి చాలవని అర్జునుడు తిరస్కరించిన రెండు అత్యున్నత పదవులు/భోగాలు (ఒకటి ఐహికం, మరొకటి ఆముష్మికం) ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "1. Terrestrial: 'Bhūmāv asapatnam ṛddhaṃ rājyam' (An unrivaled, prosperous kingdom on earth), 2. Celestial: 'Surāṇām adhipatyam' (Lordship/sovereignty over the gods in heaven).",
+        "te": "1. ఐహికం: 'భూమావసపత్నమృద్ధం రాజ్యమ్' (భూమిపై శత్రురహితమైన ఐశ్వర్యవంతమైన రాజ్యం), 2. ఆముష్మికం: 'సురాణామాధిపత్యమ్' (స్వర్గంలో దేవతలపై ఆధిపత్యం).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1. Terrestrial: Mastery over all martial arts, 2. Celestial: Immortality granted by Brahma.",
+        "te": "1. ఐహికం: సమస్త విలువిద్యలలో ప్రావీణ్యం, 2. ఆముష్మికం: బ్రహ్మదేవుని నుండి అమరత్వ ప్రాప్తి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1. Terrestrial: Unending gold reserves, 2. Celestial: Marriage to heavenly nymphs.",
+        "te": "1. ఐహికం: అపరిమితమైన సువర్ణ సంపద, 2. ఆముష్మికం: అప్సరసలతో భోగాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1. Terrestrial: Slaying Duryodhana in single combat, 2. Celestial: Entering Brahmaloka.",
+        "te": "1. ఐహికం: ద్వంద్వ యుద్ధంలో దుర్యోధనుడిని చంపడం, 2. ఆముష్మికం: బ్రహ్మలోక ప్రవేశం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna addresses both realms of material desire: 'Bhūmau rājyam' (earthly reign) and 'Surāṇām adhipatyam' (celestial reign). By rejecting both as remedies for his grief, he sets the stage for Vedantic self-knowledge as the only true liberation. — Bhagavad Gita (2.8)",
+      "te": "మానవులు కోరుకునే అత్యున్నత భోగాలు రెండింటినీ అర్జునుడు పేర్కొన్నాడు — భూమిపై తిరుగులేని రాజ్యం, స్వర్గంలో దేవతల ఆధిపత్యం. ఇవి రెండూ తన ఆత్మ శోకాన్ని తీర్చలేవని గ్రహించడమే ఆత్మజ్ఞానానికి అర్హత. — భగవద్గీత (2.8)"
+    }
+  },
+  {
+    "id": "bg-2-8-q4",
+    "verse": { "c": 2, "s": 8 },
+    "concept": ["Sanskrit Vocabulary - Unrivaled Kingdom"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit words 'asapatnam' and 'ṛddham' mean in verse 2.8?",
+      "te": "2.8 శ్లోకంలోని 'అసపత్నమ్' మరియు 'ఋద్ధమ్' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Asapatnam = Without rivals / free from enemies; Ṛddham = Prosperous / flourishing / wealthy.",
+        "te": "అసపత్నమ్ = శత్రువులు లేనిది / పోటీదారులు లేనిది; ఋద్ధమ్ = ఐశ్వర్యవంతమైనది / సమృద్ధిగలది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Asapatnam = Without weapons; Ṛddham = Ancient.",
+        "te": "అసపత్నమ్ = ఆయుధాలు లేనిది; ఋద్ధమ్ = సనాతనమైనది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Asapatnam = Eternal; Ṛddham = Small.",
+        "te": "అసపత్నమ్ = శాశ్వతమైనది; ఋద్ధమ్ = చిన్నదైనది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Asapatnam = Heavenly; Ṛddham = Sinful.",
+        "te": "అసపత్నమ్ = దివ్యమైనది; ఋద్ధమ్ = పాపభూయిష్టమైనది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sapatna' means rival/enemy; 'A-sapatnam' means having no rivals/foes. 'Ṛddham' means wealthy, thriving, or opulent. 'Asapatnam ṛddham rājyam' thus describes a prosperous kingdom completely unchallenged by enemies. — Bhagavad Gita (2.8)",
+      "te": "'సపత్న' అనగా శత్రువు/సమాన యోధుడు. 'అసపత్నమ్' అనగా ఎదురులేనిది/శత్రురహితమైనది. 'ఋద్ధమ్' అనగా సుభిక్షమైనది/ఐశ్వర్యవంతమైనది. శత్రువుల బెడద లేని నిశ్చల సంపన్న రాజ్యాన్ని ఇది సూచిస్తుంది. — భగవద్గీత (2.8)"
+    }
+  },
+  {
+    "id": "bg-2-8-q5",
+    "verse": { "c": 2, "s": 8 },
+    "concept": ["Sanskrit Grammar - Potential Verb 'Apanudyāt'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical form of 'apanudyāt' in verse 2.8:",
+      "te": "2.8 శ్లోకంలోని 'అపనుద్యాత్' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person singular Potential/Optative mood (Vidhi-liṅ) from root 'nud' (to drive away / dispel) with prefix 'apa', meaning 'which could dispel / drive away'.",
+        "te": "'నుద్' (తొలగించు/తరిమివేయు) అనే ధాతువుకు 'అప' అనే ఉపసర్గ చేరగా ఏర్పడిన విధి-లిఙ్ (సంభావనార్థక) ప్రథమ పురుష ఏకవచన రూపం — 'ఏది పోగొట్టగలదో/తొలగించగలదో'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1st person singular present tense active verb.",
+        "te": "ఉత్తమ పురుష ఏకవచన వర్తమానకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Past tense verb meaning 'it dispelled in the past'.",
+        "te": "భూతకాలంలో 'అది తొలగించింది' అనే రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb meaning 'dispel now!'.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Apa' (away) + 'nud' (to push/drive) in Vidhi-liṅ (potential mood) 3rd person singular gives 'apanudyāt' ('which might dispel/drive away'). Combined with 'mama śokam': 'which could dispel my grief'. — Bhagavad Gita (2.8)",
+      "te": "'అప' (దూరంగా) + 'నుద్' (తోసివేయు) ధాతువు యొక్క విధి-లిఙ్ ప్రథమ పురుష ఏకవచన రూపం 'అపనుద్యాత్'. 'నా శోకాన్ని పోగొట్టగల ఉపాయం నాకు కనిపించడం లేదు' అని భావం. — భగవద్గీత (2.8)"
+    }
+  },
+  {
+    "id": "bg-2-8-q6",
+    "verse": { "c": 2, "s": 8 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'mamāpanudyādyacchokam' in verse 2.8:",
+      "te": "2.8 శ్లోకంలోని 'మమాపనుద్యాద్యచ్ఛోకమ్' అనే పద సమాసాన్ని విడదీసి సంధి స్వరూపాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Mama + apanudyāt (Savarna-dirgha Sandhi: a + a -> ā -> mamāpanudyāt); apanudyāt + yat -> apanudyād yat (Jasdtva Sandhi: t -> d); yat + śokam -> yacchokam (Ścutva & Chatva Sandhi: t -> c, ś -> ch).",
+        "te": "మమ + అపనుద్యాత్ (సవర్ణదీర్ఘ సంధి: అ + అ -> ఆ -> మమాపనుద్యాత్); అపనుద్యాత్ + యత్ -> అపనుద్యాద్ యత్ (జశ్త్వ సంధి: త్ -> ద్); యత్ + శోకమ్ -> యచ్ఛోకమ్ (శ్చుత్వ, ఛత్వ సంధులు: త్ -> చ్, శ్ -> ఛ్).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mama + panudyāt; yat + sokam",
+        "te": "మమ + పనుద్యాత్; యత్ + సోకమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Mamā + apanudyā + tyacchokam",
+        "te": "మమా + అపనుద్యా + త్యాచ్ఛోకమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Mami + apanudyāt + śokam",
+        "te": "మమి + అపనుద్యాత్ + శోకమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Mama' + 'apanudyāt' = 'mamāpanudyāt' (Savarna-dirgha Sandhi). 2. 'Apanudyāt' + 'yat' = 'apanudyād yat' (Jasdtva Sandhi where unvoiced 't' becomes voiced 'd'). 3. 'Yat' + 'śokam' = 'yacchokam' (dental 't' turns to palatal 'c', and 'ś' becomes aspirated 'ch'). Joined together: 'mamāpanudyādyacchokam'. — Bhagavad Gita (2.8)",
+      "te": "1. 'మమ' + 'అపనుద్యాత్' = 'మమాపనుద్యాత్' (సవర్ణదీర్ఘ సంధి). 2. 'అపనుద్యాత్' + 'యత్' = 'అపనుద్యాద్ యత్' (జశ్త్వ సంధి). 3. 'యత్' + 'శోకమ్' = 'యచ్ఛోకమ్' (శ్చుత్వ, ఛత్వ సంధులు). ఇవన్నీ కలసి 'మమాపనుద్యాద్యచ్ఛోకమ్' గా మారాయి. — భగవద్గీత (2.8)"
+    }
+  }
+]

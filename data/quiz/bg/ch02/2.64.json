@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-64-q1",
+    "verse": { "c": 2, "s": 64 },
+    "concept": ["Verse Meaning & The Path to Inner Tranquility (Prasāda)"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.64?\n\n“rāgadveṣaviyuktaistu viṣayānindriyaiścaran | ātmavaśyairvidheyātmā prasādamadhigacchati”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“రాగద్వేష విముక్తైస్తు విషయాన్ ఇంద్రియైశ్చరన్ | ఆత్మవశ్యైర్ విధేయాత్మా ప్రసాదమ్ అధిగచ్ఛతి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — But a self-controlled person, moving among sense objects with senses that are free from attraction and aversion, and subject to the control of the Self, attains divine purity and inner peace (Prasāda).",
+        "te": "శ్రీభగవానుడు పలికెను — కానీ జితచిత్తుడైన (మనస్సును స్వాధీనంలో ఉంచుకున్న) సాధకుడు రాగద్వేషాల నుండి విముక్తమై, తన వశంలో ఉన్న ఇంద్రియాల ద్వారా విషయాలలో సంచరించినప్పటికీ... పరిశుద్ధమైన మానసిక ప్రశాంతతను/ప్రసాదాన్ని (ప్రసన్నతను) పొందుతాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Inner peace is achieved only by completely avoiding all physical contact with sense objects, as even controlled senses cause bondage.",
+        "te": "శ్రీభగవానుడు పలికెను — నిగ్రహించిన ఇంద్రియాలు కూడా బంధనాన్ని కలిగిస్తాయి కాబట్టి, భౌతిక విషయాల నుండి సంపూర్ణంగా దూరంగా ఉండటం ద్వారా మాత్రమే శాంతి లభిస్తుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — A person who indulges freely in attraction and aversion attains divine grace when performing ritual sacrifices.",
+        "te": "శ్రీభగవానుడు పలికెను — రాగద్వేషాలకు లోనై యజ్ఞయాగాలు ఆచరించే వ్యక్తికి భగవదనుగ్రహం ప్రాప్తిస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Prasāda means physical food offered to gods, which must be consumed to achieve control over the mind.",
+        "te": "శ్రీభగవానుడు పలికెను — ప్రసాదం అనగా దేవతలకు నివేదించే భౌతిక ఆహారము, మనస్సును అదుపు చేయడానికి దాన్ని మాత్రమే భుజించాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Rāga-dveṣa-viyuktais tu viṣayān indriyaiś caran / ātmavaśyair vidheyātmā prasādam adhigacchati.\" After warning of spiritual downfall through sensory attraction in 2.62–63, Krishna reveals the positive technique of Karma Yoga: a seeker of controlled mind ('vidheyātmā') does not need to flee the world. He can interact with sense objects ('viṣayān caran') using senses that are controlled ('ātma-vaśyaiḥ') and stripped of liking and disliking ('rāga-dveṣa-viyuktaiḥ'), thereby attaining 'prasādam' (unshakable inner peace and purity). — Bhagavad Gita (2.64)",
+      "te": "2.62–63 శ్లోకాలలో పతన క్రమాన్ని వివరించిన కృష్ణుడు, ఇక్కడ కర్మయోగ సాధన రహస్యాన్ని తెలిపాడు: జితచిత్తుడైన సాధకుడు ('విధేయాత్మా') ప్రపంచాన్ని వదిలి పారిపోనవసరం లేదు. అతడు తన స్వాధీనంలో ఉన్న ('ఆత్మవశ్యైః'), రాగద్వేష రహితమైన ('రాగద్వేషవిముక్తైః') ఇంద్రియాలతో విషయాల మధ్య సంచరిస్తూనే ('విషయాన్ చరన్') పరమ ప్రశాంతతను/ప్రసాదాన్ని ('ప్రసాదమ్') పొందుతాడు. — భగవద్గీత (2.64)"
+    }
+  },
+  {
+    "id": "bg-2-64-q2",
+    "verse": { "c": 2, "s": 64 },
+    "concept": ["Philosophical Concept - Meaning of Prasāda"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the technical Vedantic meaning of the term 'Prasādam' in verse 2.64?",
+      "te": "2.64 శ్లోకంలో ప్రయోగించబడిన 'ప్రసాదమ్' అనే సాంకేతిక వేదాంత పదం యొక్క అంతరార్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "A state of supreme mental tranquility, clarity, and inner purity wherein the mind becomes transparent, serene, and unruffled by external dualities.",
+        "te": "బాహ్య ద్వంద్వాల చేత కలత చెందని, పరిశుద్ధమైన, ప్రశాంతమైన మరియు ప్రసన్నమైన మానసిక స్థితి (చిత్త ప్రసన్నత/ఆంతరంగిక శాంతి).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Physical sanctified food distributed after a temple ritual.",
+        "te": "దేవాలయాలలో పూజ అనంతరం పంచిపెట్టే పవిత్రమైన భౌతిక ఆహారము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Royal gifts of gold and land presented by a king.",
+        "te": "రాజు ఇచ్చే పసిడి, భూమి మొదలైన రాజబహుమానాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "A temporary state of deep, dreamless sleep.",
+        "te": "కలలు లేని గాఢ నిద్ర యొక్క తాత్కాలిక స్థితి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedantic terminology, 'Prasāda' does not merely mean food offering. It derives from root 'sad' with prefix 'pra-' (to settle down / become tranquil). It signifies 'Chitta-prasāda'—a luminous, calm, transparent purity of intellect where all mental agitation (Rajas) and dullness (Tamas) subside. — Bhagavad Gita (2.64)",
+      "te": "వేదాంత శాస్త్రంలో 'ప్రసాదమ్' అనగా కేవలం ఆహారం కాదు. 'ప్ర' + 'సద్' (ప్రశాంతమగుట/స్థిరపడుట) అనే ధాతువు నుండి వచ్చిన ఈ పదం 'చిత్త ప్రసన్నత' ను సూచిస్తుంది — రజో తమో గుణాల అలజడి తగ్గి, మనస్సు అద్దంలాంటి పవిత్రతను, నిశ్చల శాంతిని సంతరించుకునే స్థితి ఇది. — భగవద్గీత (2.64)"
+    }
+  },
+  {
+    "id": "bg-2-64-q3",
+    "verse": { "c": 2, "s": 64 },
+    "concept": ["Practical Mastery - Rāga-dveṣa-viyuktaiḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "How does a 'Vidheyātmā' (self-controlled person) interact with sense objects without getting bound, according to verse 2.64?",
+      "te": "2.64 శ్లోకం ప్రకారం, 'విధేయాత్మా' (జితచిత్తుడైన సాధకుడు) కర్మబంధాల్లో చిక్కుకోకుండా విషయాల మధ్య ఎలా వ్యవహరిస్తాడు?"
+    },
+    "choices": [
+      {
+        "en": "By employing senses that are 'Rāga-dveṣa-viyukta'—operating without emotional compulsion (craving/liking) or emotional resistance (hatred/disliking), keeping the senses subservient to the Self.",
+        "te": "రాగద్వేషాలు లేని ('రాగద్వేషవిముక్త') ఇంద్రియాల ద్వారా — అనగా ఇష్టమైన వాటి పట్ల తృష్ణ (మోహం), అయిష్టమైన వాటి పట్ల ద్వేషం లేకుండా, ఇంద్రియాలను తన అదుపులో ఉంచుకుని నడుచుకుంటాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "By physically destroying sensory organs so that objects cannot be perceived.",
+        "te": "విషయాలు కనిపించకుండా ఇంద్రియ అవయవాలను శారీరకంగా నాశనం చేసుకోవడం ద్వారా.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "By accepting only agreeable objects while violently reacting against disagreeable ones.",
+        "te": "కేవలం ఇష్టమైన విషయాలను స్వీకరిస్తూ, అయిష్టమైన వాటిని తీవ్రంగా ద్వేషించడం ద్వారా.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "By mentally fantasizing about sense enjoyment while pretending to be detached externally.",
+        "te": "బాహ్యంగా వైరాగ్యం నటగిస్తూ అంతరంగంలో భోగాల గురించి కల్పనలు చేసుకోవడం ద్వారా.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Bondage is caused not by the sense objects ('viṣayāḥ'), nor by the sense organs ('indriyāṇi'), but by 'Rāga' (attraction) and 'Dveṣa' (aversion) attached to sensory experience. When these two drivers are removed ('viyuktaiḥ'), the senses become obedient servants ('ātma-vaśyaiḥ') rather than dictatorial masters. — Bhagavad Gita (2.64)",
+      "te": "బంధనానికి కారణం విషయాలు ('విషయాః') లేదా ఇంద్రియాలు ('ఇంద్రియాణి') కావు; ఆ ఇంద్రియ అనుభవాలకు అంటుకునే 'రాగద్వేషాలు'. ఆ రెండింటినీ తొలగించినప్పుడు ('వియుక్తైః'), ఇంద్రియాలు సాధకునికి విధేయమైన దాసులుగా మారతాయి ('ఆత్మవశ్యైః'). — భగవద్గీత (2.64)"
+    }
+  },
+  {
+    "id": "bg-2-64-q4",
+    "verse": { "c": 2, "s": 64 },
+    "concept": ["Sanskrit Vocabulary - Freed from Dualities, Moving, Self-controlled"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit compounds 'rāga-dveṣa-viyuktaiḥ', 'vidheyātmā', and 'adhigacchati' mean in verse 2.64?",
+      "te": "2.64 శ్లోకంలోని 'రాగద్వేషవిముక్తైః', 'విధేయాత్మా', మరియు 'అధిగచ్ఛతి' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Rāga-dveṣa-viyuktaiḥ = Freed from attraction and aversion; Vidheyātmā = One whose mind/self is controlled/obedient; Adhigacchati = Attains / achieves / moves toward.",
+        "te": "రాగద్వేషవిముక్తైః = రాగము (అనురాగం) మరియు ద్వేషము ల నుండి విముక్తమైనట్టి; విధేయాత్మా = వశపరచుకున్న/విధేయమైన మనస్సు గలవాడు; అధిగచ్ఛతి = పొందును / సాధించును.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Rāga-dveṣa-viyuktaiḥ = Full of anger; Vidheyātmā = Uncontrolled person; Adhigacchati = Loses.",
+        "te": "రాగద్వేషవిముక్తైః = కోపంతో నిండిన; విధేయాత్మా = అదుపులేని వ్యక్తి; అధిగచ్ఛతి = కోల్పోవును.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Rāga-dveṣa-viyuktaiḥ = Bound tightly; Vidheyātmā = King of the realm; Adhigacchati = Sleeps.",
+        "te": "రాగద్వేషవిముక్తైః = గట్టిగా బంధించబడిన; విధేయాత్మా = రాజ్యానికి రాజు; అధిగచ్ఛతి = నిద్రపోవును.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Rāga-dveṣa-viyuktaiḥ = Beautiful forms; Vidheyātmā = Chariot driver; Adhigacchati = Runs away.",
+        "te": "రాగద్వేషవిముక్తైః = అందమైన రూపాలు; విధేయాత్మా = రథసారథి; అధిగచ్ఛతి = పారిపోవును.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Rāga' (attachment) + 'dveṣa' (aversion) + 'viyukta' (separated/freed from) in Instrumental Plural = 'rāga-dveṣa-viyuktaiḥ'. 'Vidheya' (obedient/submissive) + 'ātmā' (mind/self) = 'Vidheyātmā' (one of controlled mind). 'Adhi' + 'gacchati' = 'Adhigacchati' (attains/realizes). — Bhagavad Gita (2.64)",
+      "te": "'రాగ' + 'ద్వేష' + 'వియుక్త' శబ్ద తృతీయా బహువచన రూపం 'రాగద్వేషవియుక్తైః'. 'విధేయ' (అధీనంలో ఉన్న) + 'ఆత్మా' (మనస్సు గలవాడు) = విధేయాత్మా (జితచిత్తుడు). 'అధి' + 'గచ్ఛతి' = అధిగచ్ఛతి (పొందును). — భగవద్గీత (2.64)"
+    }
+  },
+  {
+    "id": "bg-2-64-q5",
+    "verse": { "c": 2, "s": 64 },
+    "concept": ["Sanskrit Grammar - Present Participle 'Caran' & Compound Analysis"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'caran' and its agreement in verse 2.64:",
+      "te": "2.64 శ్లోకంలోని 'చరన్' అనే పదం యొక్క వ్యాకరణ విశ్లేషణ మరియు వాక్య అన్వయం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Nominative Singular Masculine Present Active Participle (Śatṛ-pratyaya) from root 'car' (moving / operating), qualifying the subject 'vidheyātmā' (a self-controlled person moving among sense objects).",
+        "te": "'చర్' (సంచరించు) ధాతువు యొక్క శతృ ప్రత్యయాంత (Present Participle) ప్రథమా విభక్తి ఏకవచన పుంలింగ రూపం ('సంచరించుచున్నవాడై') — ఇది 'విధేయాత్మా' అనే కర్తకు విశేషణంగా నిలిచింది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Past passive participle modifying 'viṣayān'.",
+        "te": "'విషయాన్' అనే పదాన్ని వర్ణించే భూతకాల కర్మణి విశేషణం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "3rd person plural Future tense verb.",
+        "te": "ప్రథమ పురుష బహువచన భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Infinitive form modifying 'prasādam'.",
+        "te": "'ప్రసాదమ్' అనే పదాన్ని వర్ణించే తుమున్నంత రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Caran' (moving/operating) describes the ongoing action of the practitioner while in the world. Subject: 'Vidheyātmā' (the self-controlled sage). Object: 'Viṣayān' (sense objects). Instrument: 'Indriyaiḥ' (by means of senses). Manner: 'Rāga-dveṣa-viyuktaiḥ' and 'Ātma-vaśyaiḥ'. Result: 'Prasādam adhigacchati'. — Bhagavad Gita (2.64)",
+      "te": "'చరన్' అనగా విషయాలలో సంచరిస్తూ. కర్త: విధేయాత్మా (జితచిత్తుడైన సాధకుడు). కర్మ: విషయాన్ (విషయ భోగాలు). కరణం: ఇంద్రియైః (ఇంద్రియాల ద్వారా). విధం: రాగద్వేషవిముక్తైః, ఆత్మవశ్యైః. ఫలం: ప్రసాదమ్ అధిగచ్ఛతి. — భగవద్గీత (2.64)"
+    }
+  },
+  {
+    "id": "bg-2-64-q6",
+    "verse": { "c": 2, "s": 64 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'viṣayānindriyaiścaran' and 'prasādamadhigacchati' in verse 2.64:",
+      "te": "2.64 శ్లోకంలోని 'విషయాన్ ఇంద్రియైశ్చరన్' మరియు 'ప్రసాదమ్ అధిగచ్ఛతి' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Viṣayān + indriyaiḥ -> viṣayān indriyaiḥ (direct combination of dental nasal 'n' with vowel 'i'); indriyaiḥ + caran -> indriyaiś caran (Visarga Ścutva Sandhi: visarga before palatal 'c' becomes 'ś'); prasādam + adhigacchati -> prasādam adhigacchati (consonant 'm' combining with vowel 'a').",
+        "te": "విషయాన్ + ఇంద్రియైః -> విషయాన్ ఇంద్రియైః (పొల్లు 'న్' అచ్చు 'ఇ' తో సంయోగం); ఇంద్రియైః + చరన్ -> ఇంద్రియైశ్చరన్ (విసర్గ శ్చుత్త్వ సంధి: తాలవ్య 'చ' ముందు విసర్గ 'శ్' గా మారినది); ప్రసాదమ్ + అధిగచ్ఛతి -> ప్రసాదమధిగచ్ఛతి (పొల్లు 'మ్' అచ్చు 'అ' తో కలయుట).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Viṣayām + indriyaiḥ -> viṣayāmindriyaiḥ; indriyaiḥ + caran -> indriyaihcaran",
+        "te": "విషయామ్ + ఇంద్రియైః -> విషయామింద్రియైః; ఇంద్రియైః + చరన్ -> ఇంద్రియైహచరన్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Viṣayāḥ + indriyaiḥ -> viṣayāhindriyaiḥ; indriyaiḥ + caran -> indriyaiscaran",
+        "te": "విషయాః + ఇంద్రియైః -> విషయాహింద్రియైః; ఇంద్రియైః + చరన్ -> ఇంద్రియైసచరన్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Viṣayāne + indriyaiḥ -> viṣayāne'ndriyaiḥ; indriyaiḥ + caran -> indriyaircaran",
+        "te": "విషయానే + ఇంద్రియైః -> విషయానేఽంద్రియైః; ఇంద్రియైః + చరన్ -> ఇంద్రియైరచరన్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Viṣayān' + 'indriyaiḥ': dental nasal 'n' joins short vowel 'i' -> 'viṣayān indriyaiḥ'. 2. 'Indriyaiḥ' + 'caran': visarga preceded by 'ai' transforms to palatal sibilant 'ś' before voiceless palatal stop 'c' via Ścutva Sandhi -> 'indriyaiś caran'. 3. 'Prasādam' + 'adhigacchati': nasal consonant 'm' combines with short vowel 'a' -> 'prasādam adhigacchati'. — Bhagavad Gita (2.64)",
+      "te": "1. 'విషయాన్' + 'ఇంద్రియైః' లలో పొల్లు 'న్' అచ్చు 'ఇ' తో కలసి 'విషయాన్ ఇంద్రియైః' అయినది. 2. 'ఇంద్రియైః' + 'చరన్' లలో 'చ' వర్ణం ముందు విసర్గ 'శ్' గా మారి శ్చుత్త్వ సంధి ద్వారా 'ఇంద్రియైశ్చరన్' అయినది. 3. 'ప్రసాదమ్' + 'అధిగచ్ఛతి' లలో పొల్లు 'మ్' అచ్చు 'అ' తో సూటిగా కలసి 'ప్రసాదమధిగచ్ఛతి' అని సిద్ధించింది. — భగవద్గీత (2.64)"
+    }
+  }
+]

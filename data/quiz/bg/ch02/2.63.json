@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-63-q1",
+    "verse": { "c": 2, "s": 63 },
+    "concept": ["Verse Meaning & The Complete Chain of Spiritual Downfall"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.63?\n\n“krodhādbhavati saṃmohaḥ saṃmohātsmṛtivibhramaḥ | smṛtibhraṃśādbuddhināśo buddhināśātpraṇaśyati”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“క్రోధాద్భవతి సంమోహః సంమోహాత్స్మృతివిభ్రమః | స్మృతిభ్రంశాద్బుద్ధినాశో బుద్ధినాశాత్ప్రణశ్యతి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — From anger arises complete delusion; from delusion comes loss of memory; from loss of memory comes the destruction of intellect (discriminative wisdom); and from destruction of intellect, a person perishes completely.",
+        "te": "శ్రీభగవానుడు పలికెను — క్రోధం (కోపం) వలన సంమోహము (అజ్ఞాన మోహము/మూర్ఖత్వము) కలుగుతుంది; సంమోహం వలన స్మృతి విభ్రమం (జ్ఞాపకశక్తి/వివేక స్మృతి నశించడం) సంభవిస్తుంది; స్మృతి భ్రంశం వలన బుద్ధినాశము (విచక్షణా బుద్ధి నాశనమవడం) జరుగుతుంది; బుద్ధి నాశనమవ్వడం వలన మానవుడు సంపూర్ణంగా నశించిపోతాడు (పతనమవుతాడు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Anger sharpens the intellect and strengthens memory, enabling a seeker to overcome delusion quickly.",
+        "te": "శ్రీభగవానుడు పలికెను — కోపం అనేది బుద్ధిని పదునుపెడుతుంది, జ్ఞాపకశక్తిని పెంచుతుంది, తద్వారా సాధకుడు మోహాన్ని సులభంగా జయించగలడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Delusion and loss of memory are physical diseases that can be cured by performing daily fire sacrifices.",
+        "te": "శ్రీభగవానుడు పలికెను — మోహము, జ్ఞాపకశక్తి కోల్పోవడం అనేవి శారీరక వ్యాధులు, నిత్యం అగ్నిహోత్రం నిర్వర్తించడం ద్వారా వాటిని నయం చేయవచ్చు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Destruction of intellect is necessary for a warrior to forget fear and achieve physical immortality on the battlefield.",
+        "te": "శ్రీభగవానుడు పలికెను — యోధుడు భయాన్ని మరిచిపోయి రణరంగంలో శారీరక అమరత్వాన్ని సాధించడానికి బుద్ధి నాశనం కావాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Krodhād bhavati saṃmohaḥ saṃmohāt smṛti-vibhramaḥ / smṛti-bhraṃśād buddhi-nāśo buddhināśāt praṇaśyati.\" Krishna completes the psychology of spiritual destruction: 1. Krodha (anger) leads to Saṃmoha (clouded judgment/delusion), 2. Saṃmoha leads to Smṛti-vibhrama (forgetfulness of scriptural values/teachings), 3. Smṛti-bhraṃśa leads to Buddhi-nāśa (loss of the higher discriminating faculty), 4. Buddhi-nāśa results in Praṇaśyati (total spiritual ruin). — Bhagavad Gita (2.63)",
+      "te": "మానవ ఆధ్యాత్మిక పతన క్రమాన్ని శ్రీకృష్ణుడు ఇక్కడ పూర్తి చేశాడు: 1. క్రోధము (కోపం) -> సంమోహము (అవివేక భ్రాంతి) కలగడం, 2. సంమోహము -> స్మృతి విభ్రమం (శాస్త్రోపదేశాలను, వివేక జ్ఞాపకాలను మర్చిపోవడం), 3. స్మృతి భ్రంశము -> బుద్ధి నాశనము (ఆత్మానాత్మ విచక్షణ నాశనం కావడం), 4. బుద్ధినాశము -> సంపూర్ణ పతనము ('ప్రణశ్యతి'). — భగవద్గీత (2.63)"
+    }
+  },
+  {
+    "id": "bg-2-63-q2",
+    "verse": { "c": 2, "s": 63 },
+    "concept": ["Philosophical Concept - Smṛti-vibhrama to Buddhi-nāśa"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the specific spiritual terms 'Smṛti' and 'Buddhi' represent in the causal link 'Smṛti-bhraṃśād buddhi-nāśaḥ' in verse 2.63?",
+      "te": "2.63 శలోకంలోని 'స్మృతిభ్రంశాద్బుద్ధినాశః' అను వాక్యాంశంలో 'స్మృతి' మరియు 'బుద్ధి' అనే పదాలు వేదాంతపరంగా దేనికి సూచికలు?"
+    },
+    "choices": [
+      {
+        "en": "Smṛti = Memory of scriptural wisdom, moral teachings, and spiritual identity; Buddhi = The capacity for higher moral discrimination; when spiritual memory is forgotten, the discriminating intellect is destroyed.",
+        "te": "స్మృతి = సాధకుడు అభ్యసించిన శాస్త్ర వివేకము, నైతిక గుణములు, ఆధ్యాత్మిక స్వరూప జ్ఞాపకము; బుద్ధి = శ్రేయస్సును, ప్రేయస్సును వేరుచేసి చూపే ఉచ్ఛ విచక్షణా శక్తి. శాస్త్రోపదేశాల జ్ఞాపకం కోల్పోగానే (స్మృతిభ్రంశం), సదసద్వివేక బుద్ధి నశిస్తుంది (బుద్ధినాశం).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Smṛti = Memory of childhood friends; Buddhi = Physical brain tissues.",
+        "te": "స్మృతి = చిన్ననాటి స్నేహితుల జ్ఞాపకాలు; బుద్ధి = శారీరక మెదడు యొక్క కణజాలం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Smṛti = Ability to spell Sanskrit words; Buddhi = Ability to speak fast.",
+        "te": "స్మృతి = సంస్కృత పదాల అక్షరక్రమ జ్ఞాపకం; బుద్ధి = వేగంగా మాట్లాడే సామర్థ్యం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Smṛti = Remembrance of enemies; Buddhi = Desire for royal power.",
+        "te": "స్మృతి = శత్రువులను గుర్తుంచుకోవడం; బుద్ధి = రాజ్యాధికారంపై ఆశ.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedantic psychology, 'Smṛti' is not mere factual recall, but the active awareness of spiritual identity and ethical lessons ('I am Ātman, not body'). When delusion ('saṃmoha') obscures this memory, the intellect ('buddhi') loses its standard of judgment, leading to 'buddhi-nāśa' (incapacity to discern right from wrong). — Bhagavad Gita (2.63)",
+      "te": "వేదాంత శాస్త్రంలో 'స్మృతి' అంటే కేవలం లౌకిక జ్ఞాపకం కాదు; 'నేను ఆత్మను, దేహాన్ని కాను' అనే ఆధ్యాత్మిక ఆత్మస్మరణ. సంమోహం కమ్మివేసినప్పుడు ఈ ఆత్మస్మరణ నశిస్తుంది (స్మృతిభ్రంశం). స్మృతి నశించగానే మంచి చెడులను విచారించే వివేక బుద్ధి కూలిపోతుంది (బుద్ధినాశం). — భగవద్గీత (2.63)"
+    }
+  },
+  {
+    "id": "bg-2-63-q3",
+    "verse": { "c": 2, "s": 63 },
+    "concept": ["Final Climax - Meaning of Praṇaśyati"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the true spiritual meaning of 'Praṇaśyati' (he perishes) at the conclusion of verse 2.63?",
+      "te": "2.63 శ్లోకం ముగింపులో వర్ణించబడిన 'ప్రణశ్యతి' (నశించిపోవును/పతనమవును) అనే పదం యొక్క ఖచ్చితమైన ఆధ్యాత్మిక అంతరార్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "The spiritual ruination of human life—where a seeker loses his eligibility for liberation (Puruṣārtha) and falls back into the endless, painful cycle of birth and death (Samsara).",
+        "te": "మానవ జన్మ యొక్క ఆధ్యాత్మిక పతనము — సాధకుడు తన మోక్షార్హతను (పురుషార్థాన్ని) కోల్పోయి, తిరిగి అజ్ఞానపు సంసార పునర్జన్మ చక్రంలో కూరుకుపోవడం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The immediate physical destruction of the physical body on the battlefield.",
+        "te": "రణరంగంలో భౌతిక శరీరం తక్షణమే నాశనమవడం/మరణించడం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The loss of material gold and financial assets in business.",
+        "te": "వ్యాపారంలో భౌతిక బంగారం, ఆర్థిక ఆస్తులు పోవడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The death of one's physical parents and family members.",
+        "te": "తల్లిదండ్రులు, కుటుంబ సభ్యులు శారీరకంగా మరణించడం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Shankara's commentary, 'buddhi-nāśāt praṇaśyati' means 'one becomes unfit for any human goal (Puruṣārtha)'. The destruction of Buddhi renders a human equivalent to a brute animal spiritually, forfeiting the rare opportunity of human birth to realize Brahman. — Bhagavad Gita (2.63)",
+      "te": "శంకరాచార్యుల వ్యాఖ్యానం ప్రకారం 'బుద్ధినాశాత్ ప్రణశ్యతి' అనగా మానవుడు తన ఉన్నత పురుషార్థమైన మోక్షాన్ని సాధించే అర్హతను సంపూర్ణంగా కోల్పోవడం. వివేక బుద్ధి నశించిన మనిషి ఆధ్యాత్మికంగా పశువుతో సమానమై, దుర్లభమైన మానవ జన్మ ప్రయోజనాన్ని వ్యర్థం చేసుకుంటాడు. — భగవద్గీత (2.63)"
+    }
+  },
+  {
+    "id": "bg-2-63-q4",
+    "verse": { "c": 2, "s": 63 },
+    "concept": ["Sanskrit Vocabulary - Delusion, Confusion, Destruction"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'saṃmohaḥ', 'vibhramaḥ', and 'praṇaśyati' mean in verse 2.63?",
+      "te": "2.63 శ్లోకంలోని 'సంమోహః', 'విభ్రమః', మరియు 'ప్రణశ్యతి' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Saṃmohaḥ = Complete delusion / clouded judgment; Vibhramaḥ = Confusion / loss / wandering away; Praṇaśyati = Is ruined / perishes / is ruined spiritually.",
+        "te": "సంమోహః = అవివేక భ్రాంతి / అజ్ఞాన మోహము; విభ్రమః = చలించిపోవుట / విభ్రమము / కోల్పోవుట; ప్రణశ్యతి = సంపూర్ణంగా పతనమవును / నాశనమవును.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Saṃmohaḥ = Clarity; Vibhramaḥ = Sharp memory; Praṇaśyati = Reaches heaven.",
+        "te": "సంమోహః = స్పష్టత; విభ్రమః = పదునైన జ్ఞాపకం; ప్రణశ్యతి = స్వర్గాన్ని చేరుకొనును.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Saṃmohaḥ = Victory; Vibhramaḥ = Courage; Praṇaśyati = Wins a kingdom.",
+        "te": "సంమోహః = విజయము; విభ్రమః = ధైర్యము; ప్రణశ్యతి = రాజ్యాన్ని గెలుచుకొనును.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Saṃmohaḥ = Sleep; Vibhramaḥ = Dream; Praṇaśyati = Awakens.",
+        "te": "సంమోహః = నిద్ర; విభ్రమః = కల; ప్రణశ్యతి = మేల్కొనును.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sam' + 'moha' = 'Saṃmohaḥ' (intense delusion/bewilderment where right and wrong are confused). 'Vi' + 'bhrama' = 'Vibhramaḥ' (wandering away/loss). 'Pra' + 'naś' (to perish) = 'Praṇaśyati' (is totally ruined). — Bhagavad Gita (2.63)",
+      "te": "'సమ్' + 'మోహ' = సంమోహః (కర్తవ్యాకర్తవ్య వివేకం నశించే గందరగోళ మోహం). 'వి' + 'భ్రమ' = విభ్రమః (చలించిపోవడం/తప్పిపోవడం). 'ప్ర' + 'నశ్' = ప్రణశ్యతి (సంపూర్ణంగా నశించిపోవును). — భగవద్గీత (2.63)"
+    }
+  },
+  {
+    "id": "bg-2-63-q5",
+    "verse": { "c": 2, "s": 63 },
+    "concept": ["Sanskrit Grammar - Ablative Chains (Hetau Pañcamī)"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical construction of the sequential Ablative chain in verse 2.63:\n('krodhāt', 'saṃmohāt', 'smṛti-bhraṃśāt', 'buddhi-nāśāt')",
+      "te": "2.63 శ్లోకంలో వరసగా వాడబడిన పంచమీ విభక్తి శ్రేణి యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?\n('క్రోధాత్', 'సంమోహాత్', 'స్మృతిభ్రంశాత్', 'బుద్ధినాశాత్')"
+    },
+    "choices": [
+      {
+        "en": "Continuous Ablative Singular Masculine/Neuter forms of origin/cause (Pañcamī vibhakti), creating a step-by-step causal chain where each stage becomes the cause of the next degradation.",
+        "te": "హేతువును తెలిపే నిరంతర పంచమీ విభక్తి ఏకవచన శ్రేణి — ఈ వరుసక్రమంలో ఒక హేతువు (కారణము) దాని తర్వాతి పతన స్థాయికి మూలమవుతూ, పతన గొలుసుకట్టు ప్రక్రియను ఏర్పరుస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Locative forms denoting places where the fall occurs.",
+        "te": "పతనం సంభవించే స్థలాలను తెలిపే సప్తమీ విభక్తి రూపాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Instrumental forms denoting physical tools.",
+        "te": "భౌతిక పరికరాలను తెలిపే తృతీయా విభక్తి రూపాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Genitive forms denoting ownership.",
+        "te": "యాజమాన్యాన్ని తెలిపే షష్ఠీ విభక్తి రూపాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The entire verse is a masterpiece of Sanskrit Ablative (Pañcamī) causal chain: Krodhāt (from anger) -> Saṃmohaḥ; Saṃmohāt (from delusion) -> Smṛti-vibhramaḥ; Smṛti-bhraṃśāt (from loss of memory) -> Buddhi-nāśaḥ; Buddhi-nāśāt (from loss of intellect) -> Praṇaśyati. — Bhagavad Gita (2.63)",
+      "te": "ఈ శ్లోకం సంస్కృత పంచమీ విభక్తి కార్యకారణ శ్రేణికి అద్భుతమైన నిదర్శనం: క్రోధాత్ (క్రోధం నుండి) -> సంమోహం; సంమోహాత్ (సంమోహం నుండి) -> స్మృతి విభ్రమం; స్మృతిభ్రంశాత్ (స్మృతి భ్రంశం నుండి) -> బుద్ధినాశం; బుద్ధినాశాత్ (బుద్ధినాశం నుండి) -> ప్రణశ్యతి. — భగవద్గీత (2.63)"
+    }
+  },
+  {
+    "id": "bg-2-63-q6",
+    "verse": { "c": 2, "s": 63 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'krodhādbhavati' and 'buddhināśātpraṇaśyati' in verse 2.63:",
+      "te": "2.63 శ్లోకంలోని 'క్రోధాద్భవతి' మరియు 'బుద్ధినాశాత్ప్రణశ్యతి' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Krodhāt + bhavati -> krodhād bhavati (Jasdtva Sandhi: unvoiced 't' becomes voiced 'd' before voiced 'bh'); buddhināśāt + praṇaśyati -> buddhināśāt praṇaśyati (direct consonant combination without change).",
+        "te": "క్రోధాత్ + భవతి -> క్రోధాద్భవతి (జశ్త్వ సంధి: ఘోష వ్యంజనమైన 'భ' ముందు పొల్లు 'త్' స్థానంలో 'ద్' వచ్చినది); బుద్ధినాశాత్ + ప్రణశ్యతి -> బుద్ధినాశాత్ప్రణశ్యతి (పొల్లు 'త్' వర్ణం 'ప్ర' తో సూటిగా కలయుట).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Krodhān + bhavati -> krodhānbhavati; buddhināśān + praṇaśyati -> buddhināśāmpraṇaśyati",
+        "te": "క్రోధాన్ + భవతి -> క్రోధాన్భవతి; బుద్ధినాశాన్ + ప్రణశ్యతి -> బుద్ధినాశామ్ప్రణశ్యతి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Krodhām + bhavati -> krodhāmbhavati; buddhināśām + praṇaśyati -> buddhināśāmpraṇaśyati",
+        "te": "క్రోధామ్ + భవతి -> క్రోధామ్భవతి; బుద్ధినాశామ్ + ప్రణశ్యతి -> బుద్ధినాశామ్ప్రణశ్యతి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Krodhāḥ + bhavati -> krodhāhbhavati; buddhināśāḥ + praṇaśyati -> buddhināśāhpraṇaśyati",
+        "te": "క్రోధాః + భవతి -> క్రోధాహభవతి; బుద్ధినాశాః + ప్రణశ్యతి -> బుద్ధినాశాహప్రణశ్యతి",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Krodhāt' (from anger) + 'bhavati' (becomes): unvoiced dental stop 't' transforms to voiced dental stop 'd' before voiced stop 'bh' via Jasdtva Sandhi -> 'krodhād bhavati'. 2. 'Buddhināśāt' + 'praṇaśyati': dental stop 't' remains unchanged before conjunct 'pr' -> 'buddhināśāt praṇaśyati'. — Bhagavad Gita (2.63)",
+      "te": "1. 'క్రోధాత్' + 'భవతి' లలో ఘోష వర్ణమైన 'భ' ముందు ఉన్న 'త్' జశ్త్వ సంధి ద్వారా 'ద్' గా మారి 'క్రోధాద్భవతి' అయినది. 2. 'బుద్ధినాశాత్' + 'ప్రణశ్యతి' లలో మార్పు లేకుండా సూటి సంయోగము జరిగింది. — భగవద్గీత (2.63)"
+    }
+  }
+]

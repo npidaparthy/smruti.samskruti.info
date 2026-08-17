@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-36-q1",
+    "verse": { "c": 2, "s": 36 },
+    "concept": ["Verse Meaning & The Agony of Enemy Ridicule"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.36?\n\n“avācyavādāṃśca bahūn vadiṣyanti tavāhitāḥ | nindantastava sāmarthyaṃ tato duḥkhataraṃ nu kim”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అవాచ్యవాదాంశచ బహూన్ వదిష్యంతి తవాహితాః | నిందంతస్తవ సామర్థ్యం తతో దుఃఖతరం ను కిమ్”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Your enemies will speak many unspeakable words, insulting and ridiculing your prowess. What could be more painful than that?",
+        "te": "శ్రీభగవానుడు పలికెను — నీ శత్రువులు (అహితాః) నీ సామర్థ్యాన్ని నిందిస్తూ, పలుకాడరాని (అనాగరికమైన) మాటలెన్నో అంటారు. అంతకంటే ఎక్కువ దుఃఖకరమైనది ఇంకేముంటుంది?",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Enemies will praise your generosity if you lay down your weapons and leave the battlefield peacefully.",
+        "te": "శ్రీభగవానుడు పలికెను — నీవు నీ ఆయుధాలను పక్కన పడేసి ప్రశాంతంగా వెళ్ళిపోతే శత్రువులు నీ దాతృత్వాన్ని ప్రశంసిస్తారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Unspeakable words spoken by enemies have no impact on a Kshatriya who practices silent meditation in battle.",
+        "te": "శ్రీభగవానుడు పలికెను — యుద్ధంలో మౌన ధ్యానం చేసే క్షత్రియునిపై శత్రువుల అవాచ్య మాటలు ఎలాంటి ప్రభావాన్నీ చూపలేవు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Ridicule from enemies is a sacred vow that purifies all past bad karma of a warrior.",
+        "te": "శ్రీభగవానుడు పలికెను — శత్రువుల నిందా వాక్యాలను అనుభవించడం అనేది యోధుని పూర్వ పాపాలన్నింటినీ ప్రక్షాళన చేసే ఒక పవిత్ర వ్రతము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Avācya-vādāṃś ca bahūn vadiṣyanti tavāhitāḥ / nindantas tava sāmarthyaṃ tato duḥkhataraṃ nu kim.\" Krishna confronts Arjuna with the practical psychological agony of retreating: enemies like Karna and Duryodhana will hurl abusive, improper taunts ('avācya-vādān') insulting his martial strength ('sāmarthyam'). For a proud champion, such verbal humiliation is more agonizing than death ('tato duḥkhataraṃ nu kim'). — Bhagavad Gita (2.36)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ అర్జునుడి రణరంగ గౌరవానికి జరగబోయే భంగకరమైన నిందలను కళ్లముందుంచుతున్నాడు. అర్జునుడు తప్పుకుంటే కర్ణ దుర్యోధనాది శత్రువులు అతడి యుద్ధ నైపుణ్యాన్ని ('సామర్థ్యమ్') నిందిస్తూ, నోటితో అనకూడనటువంటి నిందా వాక్యాలను ('అవాచ్య వాదాన్') అంటారు. వీరాధివీరుడైన అర్జునునికి ఆ మాటలను వినడం కంటే పరమ దుఃఖకరమైనది ('తతో దుఃఖతరమ్ ను కిమ్') వేరొకటి ఉండదని హితవు పలుకుతున్నాడు. — భగవద్గీత (2.36)"
+    }
+  },
+  {
+    "id": "bg-2-36-q2",
+    "verse": { "c": 2, "s": 36 },
+    "concept": ["Psychological Question - Tato Duḥkhataraṃ Nu Kim"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the force of the rhetorical question 'tato duḥkhataraṃ nu kim' in verse 2.36?",
+      "te": "2.36 శ్లోకంలో 'తతో దుఃఖతరం ను కిమ్' (అంతకంటే ఎక్కువ దుఃఖకరమైనది ఇంకేముంటుంది?) అనే ప్రశ్నా వాక్యం యొక్క భావ తీవ్రత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "It asserts that for a world-renowned hero, facing the malicious taunts and insults of enemies mocking his weakness is the absolute pinnacle of mental suffering, exceeding even physical death.",
+        "te": "లోకప్రసిద్ధుడైన వీరునికి తన పరాక్రమాన్ని శత్రువులు చిన్నచూపు చూస్తూ నిందించడం, పరిహసించడం అనేది శారీరక మరణం కంటే కూడా భరించలేని అత్యంత తీవ్రమైన మానసిక వేదన అని నొక్కిచెప్పడం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It asks Arjuna to choose which physical injury causes the greatest pain during archery practice.",
+        "te": "ధనుర్విద్య అభ్యసించేటప్పుడు ఏ రకమైన శారీరక గాయం ఎక్కువ బాధను కలిగిస్తుందో ఎంచుకోమని అర్జునుడిని అడగడం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It implies that physical wounds caused by arrows are far more painful than spoken words.",
+        "te": "మాట్లాడే మాటల కంటే బాణాల వల్ల కలిగే శారీరక గాయాలే చాలా బాధాకరమైనవని సూచించడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It inquires whether losing physical wealth causes more sorrow than losing friends.",
+        "te": "మిత్రులను కోల్పోవడం కంటే భౌతిక సంపదను కోల్పోవడమే ఎక్కువ శోకానికి కారణమవుతుందా అని ఆరా తీయడం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Tatas' (than that) + 'duḥkhataram' (more painful) + 'nu' (indeed) + 'kim' (what?). Krishna drives home the point that while physical wounds heal, unmerited insults against one's core competence ('sāmarthyam') cause perpetual emotional agony to a Kshatriya. — Bhagavad Gita (2.36)",
+      "te": "'తతః' (దానికంటే) + 'దుఃఖతరమ్' (మిక్కిలి బాధాకరమైనది) + 'ను కిమ్' (ఏమి ఉండును?). శారీరక గాయాలైనా మానుతాయి కానీ, తన శౌర్య సామర్థ్యాలపై పడే నిందా వాక్యాలు క్షత్రియుని హృదయంలో ఆరిపోని వేదనను రగిలిస్తాయని కృష్ణుడి ఉద్దేశం. — భగవద్గీత (2.36)"
+    }
+  },
+  {
+    "id": "bg-2-36-q3",
+    "verse": { "c": 2, "s": 36 },
+    "concept": ["Meaning of Key Expressions - Avācyavādān & Ahitāḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit expressions 'Avācya-vādān' and 'Ahitāḥ' mean in verse 2.36?",
+      "te": "2.36 శ్లోకంలోని 'అవాచ్య వాదాన్' మరియు 'అహితాః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Avācya-vādān = Unspeakable / improper / abusive words or insults; Ahitāḥ = Enemies / ill-wishers / adversaries.",
+        "te": "అవాచ్య వాదాన్ = నోటితో అనకూడనటువంటి / అనాగరికమైన / అవమానకరమైన నిందా వాక్యాలు; అహితాః = శత్రువులు / కీడు కోరేవారు / విరోధులు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Avācya-vādān = Sacred mantras; Ahitāḥ = Well-wishing friends.",
+        "te": "అవాచ్య వాదాన్ = పవిత్రమైన మంత్రాలు; అహితాః = మేలు కోరే మిత్రులు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avācya-vādān = Praises of victory; Ahitāḥ = Kings of neutral kingdoms.",
+        "te": "అవాచ్య వాదాన్ = విజయ ప్రశంసలు; అహితాః = తటస్థ రాజ్యాల రాజులు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avācya-vādān = Whispers of fear; Ahitāḥ = Heavenly gods.",
+        "te": "అవాచ్య వాదాన్ = భయంతో కూడిన రహస్య మాటలు; అహితాః = స్వర్గపు దేవతలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Avācya' (that which ought not to be spoken) + 'vāda' (words/arguments) = 'Avācya-vāda' (abusive taunts). 'Hita' means well-wisher; with negative 'a-', 'A-hita' means enemy or adversary. — Bhagavad Gita (2.36)",
+      "te": "'వక్తుమ్ అयोग्यమ్' = అవాచ్య (అనరానిది/నోటరాకూడనిది) + 'వాద' (మాటలు). 'అవాచ్య వాదాన్' అనగా దూషణతో కూడిన నిందా వాక్యాలు. 'హిత' (మేలు కోరేవాడు) కి వ్యతిరేక పదం 'అహితః' (అశుభం కోరే శత్రువు). — భగవద్గీత (2.36)"
+    }
+  },
+  {
+    "id": "bg-2-36-q4",
+    "verse": { "c": 2, "s": 36 },
+    "concept": ["Sanskrit Vocabulary - Capability & Ridicule"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit terms 'nindantaḥ' and 'sāmarthyam' mean in verse 2.36?",
+      "te": "2.36 శ్లోకంలోని 'నిందంతః' మరియు 'సామర్థ్యమ్' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Nindantaḥ = Ridiculing / mocking / disparaging; Sāmarthyam = Prowess / military strength / capability.",
+        "te": "నిందంతః = నిందిస్తూ / పరిహసిస్తూ / హేళన చేస్తూ; సామర్థ్యమ్ = పరాక్రమ శక్తి / యుద్ధ నైపుణ్యము / సమర్థత.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nindantaḥ = Praising highly; Sāmarthyam = Physical wealth.",
+        "te": "నిందంతః = మిక్కిలి ప్రశంసిస్తూ; సామర్థ్యమ్ = భౌతిక సంపద.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nindantaḥ = Fearing secretly; Sāmarthyam = Royal chariot.",
+        "te": "నిందంతః = రహస్యంగా భయపడుతూ; సామర్థ్యమ్ = రాజ రథము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nindantaḥ = Listening attentively; Sāmarthyam = Spiritual devotion.",
+        "te": "నిందంతః = శ్రద్ధగా వింటూ; సామర్థ్యమ్ = ఆధ్యాత్మిక భక్తి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Nindat' is the Present Active Participle of root 'nind' (to blame/scorn); Nominative Plural Masculine: 'nindantaḥ' (while insulting/ridiculing). 'Sāmarthya' (from 'samartha' = competent) means prowess, strength, or capability. — Bhagavad Gita (2.36)",
+      "te": "'నింద్' (నిందించు) ధాతువు వర్తమానకాల కర్తరి విశేషణం 'నిందత్'. దాని ప్రథమా బహువచనం 'నిందంతః' (నిందిస్తూ). 'సమర్థ' నుండి వచ్చిన 'సామర్థ్యమ్' అనగా శౌర్య శక్తి, రణ నైపుణ్యము. — భగవద్గీత (2.36)"
+    }
+  },
+  {
+    "id": "bg-2-36-q5",
+    "verse": { "c": 2, "s": 36 },
+    "concept": ["Sanskrit Grammar - Present Participle 'Nindantaḥ' & Future Verb 'Vadiṣyanti'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'nindantaḥ' and 'vadiṣyanti' in verse 2.36:",
+      "te": "2.36 శ్లోకంలోని 'నిందంతః' మరియు 'వదిష్యంతి' అనే పదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Nindantaḥ = Nominative Plural Masculine Present Active Participle (Śatṛ-pratyaya) from root 'nind' (while ridiculing); Vadiṣyanti = 3rd person plural Simple Future tense Parasmaipada (Lṛṭ-lakāra) from root 'vad' (they will speak).",
+        "te": "నిందంతః = 'నింద్' (నిందించు) ధాతువు యొక్క ప్రథమా విభక్తి బహువచన శతృ ప్రత్యయాంత (వర్తమాన కర్తరి విశేషణ) రూపం ('నిందిస్తూ'); వదిష్యంతి = 'వద్' (పలుకు/మాట్లాడు) ధాతువు లృట్ లకార (భవిష్యత్కాల) ప్రథమ పురుష బహువచన పరస్మైపద రూపం ('వారు మాట్లాడగలరు/అంటారు').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nindantaḥ = Past passive participle; Vadiṣyanti = Present tense singular verb.",
+        "te": "నిందంతః = భూతకాల కర్మణి విశేషణం; వదిష్యంతి = వర్తమానకాల ఏకవచన క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nindantaḥ = Imperative verb; Vadiṣyanti = Past tense plural verb.",
+        "te": "నిందంతః = ఆజ్ఞార్థక క్రియ; వదిష్యంతి = భూతకాల బహువచన క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nindantaḥ = Infinitive form; Vadiṣyanti = Causal verb form.",
+        "te": "నిందంతః = తుమున్నంత రూపం; వదిష్యంతి = ణిజంత క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Both words agree with plural subject 'tavāhitāḥ' (your enemies): 'Ahitāḥ nindantaḥ [tava sāmarthyaṃ] bahūn avācyavādān vadiṣyanti' = 'Your enemies, while ridiculing your prowess, will speak many unspeakable words'. — Bhagavad Gita (2.36)",
+      "te": "'తవాహితాః' (నీ శత్రువులు) అనే బహువచన కర్తకు అనుగుణంగా 'నిందంతః' (నిందిస్తూ) అనే విశేషణము, 'వదిష్యంతి' (చెప్పుకుంటారు) అనే భవిష్యత్కాల క్రియ సరిపోయాయి. — భగవద్గీత (2.36)"
+    }
+  },
+  {
+    "id": "bg-2-36-q6",
+    "verse": { "c": 2, "s": 36 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'avācyavādāṃśca' and 'tavāhitāḥ' in verse 2.36:",
+      "te": "2.36 శ్లోకంలోని 'అవాచ్యవాదాంశచ' మరియు 'తవాహితాః' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Avācyavādān + ca -> avācyavādāṃśca (Anusvāra & Ścutva Sandhi: 'n' before 'c' converts to Anusvāra + palatal 'ś'); tava + ahitāḥ -> tavāhitāḥ (Savarna-dirgha Sandhi: a + a -> ā).",
+        "te": "అవాచ్యవాదాన్ + చ -> అవాచ్యవాదాంశచ (అనుస్వార, శ్చుత్వ సంధులు: 'చ' ముందు పొల్లు 'న్' అనుస్వారము మరియు శకారంగా మారినది); తవ + అహితాః -> తవాహితాః (సవర్ణదీర్ఘ సంధి: అ + అ -> ఆ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Avācyavādā + ca -> avācyavādāca; tava + hitāḥ -> tavahitāḥ",
+        "te": "అవాచ్యవాదా + చ -> అవాచ్యవాదాచ; తవ + హితాః -> తవహితాః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avācyavādām + ca -> avācyavādāmca; tavam + ahitāḥ -> tavamahitāḥ",
+        "te": "అవాచ్యవాదామ్ + చ -> అవాచ్యవాదామ్చ; తవమ్ + అహితాః -> తవమహితాః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avācyavādāḥ + ca -> avācyavādāhca; tave + ahitāḥ -> tavehitāḥ",
+        "te": "అవాచ్యవాదాః + చ -> అవాచ్యవాదాహచ; తవే + అహితాః -> తవేహితాః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Avācyavādān' (Accusative plural masculine = unspeakable words) + 'ca' (and): dental 'n' before unvoiced palatal 'c' turns into Anusvāra + palatal sibilant 'ś' -> 'avācyavādāṃśca'. 2. 'Tava' (your) + 'ahitāḥ' (enemies): short 'a' + short 'a' merges into long 'ā' via Savarna-dirgha Sandhi -> 'tavāhitāḥ'. — Bhagavad Gita (2.36)",
+      "te": "1. 'అవాచ్యవాదాన్' + 'చ' లలో 'చ' వర్ణం ముందు పొల్లు 'న్' అనుస్వారం మరియు 'శ్' గా మారి 'అవాచ్యవాదాంశచ' అయినది. 2. 'తవ' + 'అహితాః' లలో 'అ' + 'అ' కలసి సవర్ణదీర్ఘ సంధి ద్వారా 'తవాహితాః' అని రూపుదిద్దుకుంది. — భగవద్గీత (2.36)"
+    }
+  }
+]

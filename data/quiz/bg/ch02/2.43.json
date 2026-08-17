@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-43-q1",
+    "verse": { "c": 2, "s": 43 },
+    "concept": ["Verse Meaning & The Trap of Fruitive Rituals"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.43?\n\n“kāmātmānaḥ svargaparā janmakarmaphalapradām | kriyāviśeṣabahulāṃ bhogaiśvaryagatiṃ prati”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“కామాత్మానః స్వర్గపరా జన్మకర్మఫలప్రదామ్ | క్రియావిశేషబహులాం భోగైశ్వర్యగతిం ప్రతి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Being full of desires and regarding heaven as their highest goal, they perform various elaborate rituals that promise good rebirth as the fruit of action, aiming solely for sensory enjoyment and worldly power.",
+        "te": "శ్రీభగవానుడు పలికెను — వారు కామభోగాసక్తులు (కోరికలతో నిండిన మనస్సు గలవారు), స్వర్గమే పరమ పురుషార్థమని నమ్మేవారు. వారు భోగాలను, ఐశ్వర్యాలను పొందడం కోసమే పునర్జన్మను, కర్మఫలాలను ప్రసాదించే రకరకాల విస్తృత కామ్య కర్మకాండలను (యజ్ఞవిధులను) ఆచరిస్తారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Those who desire heaven must perform elaborate Vedic rites to ensure their physical body reaches the abode of the gods without undergoing death.",
+        "te": "శ్రీభగవానుడు పలికెను — స్వర్గాన్ని కోరుకునేవారు మరణం పొందకుండానే తమ భౌతిక శరీరంతో దేవతల లోకానికి చేరుకోవడానికి విస్తృత వేద క్రతువులను నిర్వర్తించాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Performing specific rituals for enjoyment and power guarantees instant liberation from the cycle of birth and death.",
+        "te": "శ్రీభగవానుడు పలికెను — భోగాలు, ఐశ్వర్యాల కోసం ప్రత్యేక యజ్ఞాలను ఆచరించడం వల్ల జన్మమరణ చక్రం నుండి తక్షణ ముక్తి లభిస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — The Vedas prescribe elaborate desire-driven actions only for kings on the battlefield to attain victory over enemy armies.",
+        "te": "శ్రీభగవానుడు పలికెను — శత్రు సైన్యాలపై విజయం సాధించడానికి రణరంగంలో ఉన్న రాజుల కోసం మాత్రమే వేదాలు ఇటువంటి విస్తృత కామ్య కర్మలను విధిస్తున్నాయి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Kāmātmānaḥ svarga-parā janma-karma-phala-pradām / kriyā-viśeṣa-bahulāṃ bhoga-aiśvarya-gatiṃ prati.\" Krishna exposes the spiritual limitation of Vedic karma-kāṇḍa when performed for personal desire: those whose minds are driven by desire ('kāmātmānaḥ') and who view heavenly enjoyment as ultimate ('svarga-parāḥ') perform complex rituals ('kriyā-viśeṣa-bahulām'). These rituals merely yield rebirth as their karmic fruit ('janma-karma-phala-pradām') rather than eternal liberation. — Bhagavad Gita (2.43)",
+      "te": "కామ్య కర్మకాండల ఆధ్యాత్మిక పరిమితిని శ్రీకృష్ణుడు ఇక్కడ ఎత్తిచూపుతున్నాడు. కామభోగాసక్తులైనవారు ('కామాత్మానః'), స్వర్గమే పరమ లక్ష్యంగా గలవారు ('స్వర్గపరాః') అనేక రకాల సంక్లిష్ట యజ్ఞకాండలను ('క్రియావిశేషబహులామ్') ఆచరిస్తారు. ఇవి కేవలం భోగైశ్వర్యాల కోసమే ఉద్దేశించబడి, అంతిమంగా పునర్జన్మలనే కర్మఫలంగా ('జన్మకర్మఫలప్రదామ్') ప్రసాదిస్తాయి తప్ప మోక్షాన్ని ఇవ్వలేవు. — భగవద్గీత (2.43)"
+    }
+  },
+  {
+    "id": "bg-2-43-q2",
+    "verse": { "c": 2, "s": 43 },
+    "concept": ["Psychological Mindset - Kāmātmānaḥ & Svargaparāḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What internal disposition of the materialist ritualist is denoted by the compounds 'Kāmātmānaḥ' and 'Svarga-parāḥ' in verse 2.43?",
+      "te": "2.43 శ్లోకంలోని 'కామాత్మానః' మరియు 'స్వర్గపరాః' అనే పదాల ద్వారా కామ్య కర్మపరుల ఏ అంతరంగిక మానసిక స్థితి వ్యక్తమవుతోంది?"
+    },
+    "choices": [
+      {
+        "en": "Kāmātmānaḥ = Those whose very nature/mind is identified with and consumed by worldly desire; Svarga-parāḥ = Those who regard heavenly sense-pleasure as their supreme and ultimate goal of life.",
+        "te": "కామాత్మానః = మనస్సు నిండా స్వార్థ కామ్య కోరికలతో నిండియున్నవారు; స్వర్గపరాః = స్వర్గలోక భోగాలే తమ జీవితానికి పరమావధి అని భావించేవారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kāmātmānaḥ = Those who have mastered their desires; Svarga-parāḥ = Those who have already reached heaven.",
+        "te": "కామాత్మానః = తమ కోరికలను జయించినవారు; స్వర్గపరాః = ఇప్పటికే స్వర్గాన్ని చేరుకున్నవారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kāmātmānaḥ = Sages who perform selfless sacrifice; Svarga-parāḥ = Kings who protect the earth.",
+        "te": "కామాత్మానః = నిష్కామ యజ్ఞం చేసే మహర్షులు; స్వర్గపరాః = భూమిని కాపాడే రాజులు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kāmātmānaḥ = Devotees of Lord Krishna; Svarga-parāḥ = Those who study Upanishadic wisdom.",
+        "te": "కామాత్మానః = శ్రీకృష్ణుని భక్తులు; స్వర్గపరాః = ఉపనిషత్తులను అధ్యయనం చేసేవారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kāma' (desire) + 'ātmānaḥ' (whose nature is) = those whose identity is entirely shaped by desires. 'Svarga' (heaven) + 'parāḥ' (supreme goal) = those for whom heavenly enjoyment is the highest pursuit. Both terms highlight a mind trapped in temporal sensory pursuits rather than seeking eternal Truth. — Bhagavad Gita (2.43)",
+      "te": "'కామ' (కోరికలు) + 'ఆత్మానః' (స్వభావంగా గలవారు) = కామాత్మానః (కోరికల ప్రవాహంలో కొట్టుకుపోయే మనస్సు గలవారు). 'స్వర్గ' + 'పరాః' (పరమ ప్రాప్యంగా గలవారు) = స్వర్గపరాః (స్వర్గ సుఖాలే అత్యున్నతమైనవని భావించేవారు). ఆధ్యాత్మిక సత్యాన్ని విడిచిపెట్టి అశాశ్వత భోగాల వెంట పడే అజ్ఞాన మనోస్థితి ఇది. — భగవద్గీత (2.43)"
+    }
+  },
+  {
+    "id": "bg-2-43-q3",
+    "verse": { "c": 2, "s": 43 },
+    "concept": ["Karmic Consequence - Janma-karma-phala-pradām"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why does Lord Krishna characterize these desire-driven Vedic rituals as 'Janma-karma-phala-pradām' in verse 2.43?",
+      "te": "2.43 శ్లోకంలో ఇటువంటి కామ్య యజ్ఞాలను శ్రీకృష్ణుడు 'జన్మకర్మఫలప్రదామ్' అని ఎందుకు అభివర్ణించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Because actions performed for personal enjoyment create karma-phala that forces the soul back into the cycle of physical rebirth (Samsara) to experience those fruits.",
+        "te": "స్వార్థ భోగాల కోసం చేసే కర్మలు కర్మఫలాలను సృష్టించి, ఆ ఫలాలను అనుభవించడానికి ఆత్మను మరల మరల భౌతిక జన్మల చక్రంలోకి (సంసారంలోకి) నెట్టివేస్తాయి కాబట్టి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because such rituals grant immediate liberation from the physical body upon completion.",
+        "te": "ఇటువంటి యజ్ఞాలు పూర్తయిన వెంటనే భౌతిక శరీరం నుండి తక్షణ మోక్షాన్ని అందిస్తాయి కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because they burn away all past bad karma from previous lifetimes without generating new fruits.",
+        "te": "అవి క్రొత్త ఫలాలను సృష్టించకుండా పూర్వ జన్మల పాపాలన్నింటినీ దగ్ధం చేస్తాయి కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because they transform the human practitioner directly into a celestial god in their current body.",
+        "te": "అవి సాధకుడిని ప్రస్తుత శరీరంతోనే సూటిగా దివ్య దేవతగా మారుస్తాయి కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Janma' (birth) + 'karma' (action) + 'phala' (fruit) + 'pradām' (yielding/granting). Desire-prompted actions produce 'Karma-phala' which binds the jīva, ensuring future births ('janma') to reap those consequences. Thus, fruitive rituals perpetuate Samsara rather than breaking it. — Bhagavad Gita (2.43)",
+      "te": "'జన్మ' + 'కర్మ' + 'ఫల' + 'ప్రదామ్' (జన్మకు కారణమయ్యే కర్మఫలాలను ఇచ్చేది). కామ్య కర్మలు జీవుడిని బంధించే కర్మఫలాలను ఉత్పన్నం చేస్తాయి. ఆ ఫలభోగం కోసం జీవుడు మళ్లీ మళ్లీ జన్మలు ఎత్తాల్సి వస్తుంది కాబట్టి ఇవి సంసార చక్రాన్ని కొనసాగిస్తాయి తప్ప ముక్తిని ఇవ్వవు. — భగవద్గీత (2.43)"
+    }
+  },
+  {
+    "id": "bg-2-43-q4",
+    "verse": { "c": 2, "s": 43 },
+    "concept": ["Sanskrit Vocabulary - Ritual Mechanics & Goals"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit phrases 'kriyā-viśeṣa-bahulām' and 'bhoga-aiśvarya-gatim' mean in verse 2.43?",
+      "te": "2.43 శ్లోకంలోని 'క్రియావిశేషబహులామ్' మరియు 'భోగైశ్వర్యగతిమ్' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Kriyā-viśeṣa-bahulām = Abounding in various specific pompous rituals/procedures; Bhoga-aiśvarya-gatim = Attainment of sense-enjoyment and worldly power/opulence.",
+        "te": "క్రియావిశేషబహులామ్ = అనేక రకాల విస్తృత/సంక్లిష్ట యజ్ఞ విధులతో నిండియున్నది; భోగైశ్వర్యగతిమ్ = భౌతిక భోగాలను, ఐశ్వర్యాలను (అధికారాన్ని) పొందే మార్గము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kriyā-viśeṣa-bahulām = Free from all actions; Bhoga-aiśvarya-gatim = Renunciation of wealth.",
+        "te": "క్రియావిశేషబహులామ్ = సమస్త కర్మల నుండి విముక్తమైనది; భోగైశ్వర్యగతిమ్ = సంపదలను త్యజించడం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kriyā-viśeṣa-bahulām = Simple silent meditation; Bhoga-aiśvarya-gatim = Spiritual wisdom.",
+        "te": "క్రియావిశేషబహులామ్ = సరళమైన మౌన ధ్యానము; భోగైశ్వర్యగతిమ్ = ఆధ్యాత్మిక జ్ఞానము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kriyā-viśeṣa-bahulām = Weapons practice; Bhoga-aiśvarya-gatim = Military victory.",
+        "te": "క్రియావిశేషబహులామ్ = ఆయుధ అభ్యాసము; భోగైశ్వర్యగతిమ్ = సైనిక విజయము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kriyā' (rites) + 'viśeṣa' (specific/elaborate) + 'bahulām' (abundant in). 'Bhoga' (sensory enjoyment) + 'aiśvarya' (opulence/power) + 'gati' (attainment/path). The verse describes how ritualistic materialists use ostentatious rites to achieve earthly and heavenly wealth. — Bhagavad Gita (2.43)",
+      "te": "'క్రియా' (యజ్ఞ కర్మలు) + 'విశేష' (ప్రత్యేకమైనవి/విస్తృతమైనవి) + 'బహులామ్' (అధికంగా గలది). 'భోగ' (ఇంద్రియ సుఖము) + 'ఐశ్వర్య' (అధికారము/సంపద) + 'గతిమ్' (పొందే మార్గము). భౌతిక భోగాలు, సంపదల కోసం చేసే వైభవపూరిత కామ్య యజ్ఞాల స్వభావాన్ని ఇది వర్ణిస్తోంది. — భగవద్గీత (2.43)"
+    }
+  },
+  {
+    "id": "bg-2-43-q5",
+    "verse": { "c": 2, "s": 43 },
+    "concept": ["Sanskrit Grammar - Compound Modifiers of 'Vācam'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "In the syntax spanning verses 2.42 and 2.43, what noun do 'janma-karma-phala-pradām' and 'kriyā-viśeṣa-bahulām' modify?",
+      "te": "2.42 మరియు 2.43 శ్లోకాల వాక్య నిర్మాణంలో 'జన్మకర్మఫలప్రదామ్' మరియు 'క్రియావిశేషబహులామ్' అనే విశేషణ సమాస పదాలు ఏ నామవాచకానికి విశేషణాలుగా ఉన్నాయి?"
+    },
+    "choices": [
+      {
+        "en": "Accusative Singular Feminine adjectives modifying 'vācam' (the flowery speech) from verse 2.42 (“yām imāṃ puṣpitāṃ vācam...”).",
+        "te": "2.42 శ్లోకంలోని 'వాచమ్' (పుష్పితాం వాచమ్ - అలంకారిక వాక్కును) అనే ద్వితీయా విభక్తి ఏకవచన నపుంసక/స్త్రీలింగ కర్మార్థక నామవాచకానికి విశేషణాలుగా ఉన్నాయి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nominative Plural Masculine adjectives modifying 'kāmātmānaḥ'.",
+        "te": "'కామాత్మానః' అనే ప్రథమా బహువచన నామవాచకానికి విశేషణాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Genitive Singular Feminine adjectives modifying 'buddhiḥ'.",
+        "te": "'బుద్ధిః' అనే షష్ఠీ ఏకవచన నామవాచకానికి విశేషణాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Locative Singular Masculine adjectives modifying 'sānkhye'.",
+        "te": "'సాంఖ్యే' అనే సప్తమీ ఏకవచన నామవాచకానికి విశేషణాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verses 2.42-2.44 form a single continuous grammatical sentence. 'Yām imāṃ puṣpitāṃ vācam... janma-karma-phala-pradām... kriyā-viśeṣa-bahulām...' All these are Accusative Singular Feminine forms modifying 'vācam' (the flowery speech that unwise men speak). — Bhagavad Gita (2.43)",
+      "te": "2.42 నుండి 2.44 వరకు ఉన్న శ్లోకాలు ఒకే సుదీర్ఘమైన వాక్య నిర్మాణం. 'యామిమాం పుష్పితాం వాచమ్... జన్మకర్మఫలప్రదామ్... క్రియావిశేషబహులామ్...' అనే పదాలన్నీ 2.42 లోని 'వాచమ్' (అలంకారిక వాక్కును) అనే ద్వితీయా ఏకవచన శబ్దానికి విశేషణ రూపాలు. — భగవద్గీత (2.43)"
+    }
+  },
+  {
+    "id": "bg-2-43-q6",
+    "verse": { "c": 2, "s": 43 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'bhogaiśvarya' in verse 2.43:",
+      "te": "2.43 శ్లోకంలోని 'భోగైశ్వర్య' అనే పదం యొక్క సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Bhoga + aiśvarya -> bhogaiśvarya (Vṛddhi Sandhi: a + ai -> ai).",
+        "te": "భోగ + ఐశ్వర్య -> భోగైశ్వర్య (వృద్ధి సంధి: అ + ఐ -> ఐ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Bhoga + eśvarya -> bhogaiśvarya",
+        "te": "భోగ + ఏశ్వర్య -> భోగైశ్వర్య",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bhogam + aiśvarya -> bhogamaiśvarya",
+        "te": "భోగమ్ + ఐశ్వర్య -> భోగమైశ్వర్య",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Bhoge + aiśvarya -> bhoge'iśvarya",
+        "te": "భోగే + ఐశ్వర్య -> భోగేఽఐశ్వర్య",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Bhoga' (sensory enjoyment) + 'aiśvarya' (opulence/power): short vowel 'a' followed by diphthong 'ai' merges into Vṛddhi vowel 'ai' via Vṛddhi Sandhi, yielding 'bhogaiśvarya'. — Bhagavad Gita (2.43)",
+      "te": "'భోగ' (ఇంద్రియ సుఖము) + 'ఐశ్వర్య' (అధికారము) లలో 'అ' కారానికి 'ఐ' కారం పరమైనప్పుడు వృద్ధి సంధి ద్వారా 'ఐ' ఆదేశమై 'భోగైశ్వర్య' అని రూపం సిద్ధించింది. — భగవద్గీత (2.43)"
+    }
+  }
+]

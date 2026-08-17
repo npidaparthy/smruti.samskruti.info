@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-44-q1",
+    "verse": { "c": 2, "s": 44 },
+    "concept": ["Verse Meaning & Obstacle to Resolute Intellect"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.44?\n\n“bhogaiśvaryaprasaktānāṃ tayāpahṛtacetasām | vyavasāyātmikā buddhiḥ samādhau na vidhīyate”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“భోగైశ్వర్యప్రసక్తానాం తయాపహృతచేతసామ్ | వ్యవసాయాత్మికా బుద్ధిః సమాధౌ న విధీయతే”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — In the minds of those who are deeply attached to worldly enjoyment and power, and whose discrimination has been stolen away by flowery words, the resolute, single-pointed intellect is never established in Samadhi (deep contemplation/God-realization).",
+        "te": "శ్రీభగవానుడు పలికెను — భౌతిక భోగములలో, ఐశ్వర్యములో (అధికారములో) మిక్కిలి ఆసక్తులై ఉన్నవారికి, అలంకారిక (పుష్పిత) వాక్కుల చేత వివేకము అపహరించబడినవారికి... ఆ పరమాత్మ యందు స్థిరంగా నిలిచే ఏకాగ్రమైన 'వ్యవసాయాత్మిక బుద్ధి' (సమాధి స్థితి) సిద్ధించదు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Those who seek enjoyment and power through Vedic sacrifices easily attain Samadhi through the blessings of heavenly gods.",
+        "te": "శ్రీభగవానుడు పలికెను — వేద యజ్ఞాల ద్వారా భోగాలను, ఐశ్వర్యాలను కోరుకునేవారు దేవతల అనుగ్రహంతో సులభంగా సమాధి స్థితిని పొందుతారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Resolute intellect in Samadhi can be purchased through rich monetary gifts given during sacrificial ceremonies.",
+        "te": "శ్రీభగవానుడు పలికెను — యజ్ఞ యాగాల సమయంలో సమర్పించే విరివియైన ధన దక్షిణల ద్వారా సమాధిలో నిలిచే స్థిర బుద్ధిని కొనుగోలు చేయవచ్చు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Attachment to power and luxury is necessary for Kshatriyas to maintain mental focus during battle.",
+        "te": "శ్రీభగవానుడు పలికెను — రణరంగంలో మనస్సును ఏకాగ్రం చేసుకోవడానికి క్షత్రియులకు అధికారం, భోగాల పట్ల ఆసక్తి తప్పనిసరి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Bhogaiśvarya-prasaktānāṃ tayāpahṛta-cetasām / vyavasāyātmikā buddhiḥ samādhau na vidhīyate.\" Krishna completes his critique of fruitive materialism. When one's mind is glued to worldly enjoyment and opulence ('bhogaiśvarya-prasaktānām') and deluded by attractive promises ('tayā apahṛta-cetasām'), the mind loses focus. Consequently, 'vyavasāyātmikā buddhi' (determinate, single-pointed wisdom) can never be anchored in Samadhi (the concentrated intellect/Self). — Bhagavad Gita (2.44)",
+      "te": "2.42-43 లలో చెప్పబడిన కర్మకాండీయుల ముగింపు వ్యాఖ్య ఇది. లౌకిక సుఖాలలో, ఐశ్వర్యంలో మునిగిపోయినవారికి ('భోగైశ్వర్యప్రసక్తానామ్'), ఆకర్షణీయ వాక్కుల మోహంలో వివేకం అపహరించబడినవారికి ('తయాపహృతచేతసామ్') చిత్తము విక్షేపం చెందుతుంది. దానివల్ల మోక్షదాయకమైన 'వ్యవసాయాత్మికా బుద్ధి' (ఏకాగ్ర నిశ్చయ బుద్ధి) సమాధిలో (పరమాత్మ ధ్యానంలో) రూఢి కానేరదు. — భగవద్గీత (2.44)"
+    }
+  },
+  {
+    "id": "bg-2-44-q2",
+    "verse": { "c": 2, "s": 44 },
+    "concept": ["Psychological Mechanism - Tayā Apahṛta-cetasām"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What psychological state is described by the phrase 'Tayā apahṛta-cetasām' in verse 2.44?",
+      "te": "2.44 శ్లోకంలోని 'తయాపహృతచేతసామ్' అనే సంస్కృత సమాస పదం ద్వారా మానవుల ఏ మానసిక స్థితి వర్ణించబడింది?"
+    },
+    "choices": [
+      {
+        "en": "Those whose power of discrimination (Citta / Intellect) has been hijacked or stolen away by 'tayā' (the flowery, desire-promising words of 2.42), leaving them incapable of objective spiritual judgment.",
+        "te": "'తయా' (2.42 లో చెప్పబడిన పూలతో నిండిన అలంకారిక మాటల) చేత ఎవరి వివేక మనస్సు అయితే అపహరించబడిందో (భ్రాంతికి గురైందో), ఆత్మానాత్మ విచక్షణను కోల్పోయిన ఆ మనుషుల స్థితి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Those whose physical wealth has been stolen by enemy soldiers on the battlefield.",
+        "te": "రాత్రీవేళ రణరంగంలో శత్రు సైనికుల చేత భౌతిక సంపదను దోచుకోబడినవారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Those who have given away all their material possessions voluntarily to spiritual gurus.",
+        "te": "తమ భౌతిక సంపదనంతటినీ గురువులకు స్వచ్ఛందంగా దానం చేసిన సాధకులు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Those whose memory is erased by physical old age and disease.",
+        "te": "వృద్ధాప్యము, వ్యాధుల వల్ల జ్ఞాపకశక్తిని కోల్పోయిన వ్యక్తులు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Tayā' (by that flowery speech of 2.42) + 'apahṛta' (stolen / hijacked) + 'cetasām' (of those whose minds/intellects). When enticing words promising heavenly pleasures hijack the mind's higher faculties, objective spiritual discrimination disappears, making steady meditation impossible. — Bhagavad Gita (2.44)",
+      "te": "'తయా' (2.42 లో చెప్పిన పుష్పిత వాక్కుల చేత) + 'అపహృత' (దోచుకోబడిన) + 'చేతసామ్' (మనస్సు/వివేకము గలవారికి). స్వర్గ భోగాలను వాగ్దానం చేసే ఆకర్షణీయమైన మాటలు మనిషి వివేకాన్ని అపహరించినప్పుడు, అతను ఆధ్యాత్మిక సత్యాసత్యాలను గ్రహించే శక్తినే కోల్పోతాడు. — భగవద్గీత (2.44)"
+    }
+  },
+  {
+    "id": "bg-2-44-q3",
+    "verse": { "c": 2, "s": 44 },
+    "concept": ["Meaning of Samādhi - Samādhau Na Vidhīyate"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does 'Samādhi' mean in the specific context of verse 2.44 ('samādhau na vidhīyate')?",
+      "te": "2.44 శ్లోకంలో ('సమాధౌ న విధీయతే') 'సమాధి' అనే పదానికి గల ప్రత్యేకమైన వేదాంతార్థము ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "The concentrated, firmly balanced intellect focused on the Supreme Self (Ātman/Brahman); also the tranquil mind where all doubts are resolved.",
+        "te": "ఆత్మ/పరమాత్మ యందు స్థిరంగా నిలకడ చెందిన ఏకాగ్ర వివేక బుద్ధి (చిత్తైకాగ్రత / సమాహిత మనస్సు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "A physical tomb built for a departed king or sage.",
+        "te": "మరణించిన రాజులకు లేదా మునులకు నిర్మించే భౌతిక సమాధి మందిరం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The final ritual ablution at the end of a Vedic sacrifice.",
+        "te": "వేద యజ్ఞ ముగింపులో చేసే అవభృథ స్నానము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "A state of unconsciousness induced by extreme battle fatigue.",
+        "te": "యుద్ధంలో తీవ్రమైన అలసట వల్ల కలిగే స్పృహతప్పిన స్థితి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedantic terminology, 'Samādhi' (from sam-ā-dhā) signifies the intellect ('buddhi') when perfectly gathered, integrated, and placed in the Self ('samyag ādhiyate asmin ātmā-tattvam iti samādhiḥ'). For minds distracted by desire, such fixed spiritual absorption ('vyavasāyātmikā buddhiḥ') is never formed ('na vidhīyate'). — Bhagavad Gita (2.44)",
+      "te": "'సమ్' + 'ఆ' + 'ధా' (బాగా నిలబెట్టుట) నుండి 'సమాధి' అనే పదం సిద్ధించింది. 'సమ్యక్ ఆధీయతే అస్మిన్ ఆత్మతత్త్వమ్ ఇతి సమాధిః' — ఆత్మతత్త్వం యందు నిలకడ చెందిన బుద్ధియే సమాధి. కామ్య భోగాసక్తుల చిత్తంలో ఇటువంటి నిశ్చయాత్మకమైన ఏకాగ్రత ('వ్యవసాయాత్మికా బుద్ధిః') కలగనే కలగదు. — భగవద్గీత (2.44)"
+    }
+  },
+  {
+    "id": "bg-2-44-q4",
+    "verse": { "c": 2, "s": 44 },
+    "concept": ["Sanskrit Vocabulary - Attached to Enjoyment & Unestablished"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit phrases 'bhoga-aiśvarya-prasaktānām' and 'na vidhīyate' mean in verse 2.44?",
+      "te": "2.44 శ్లోకంలోని 'భోగైశ్వర్యప్రసక్తానామ్' మరియు 'న విధీయతే' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Bhoga-aiśvarya-prasaktānām = Of those who are deeply attached / addicted to worldly pleasure and power; Na vidhīyate = Is not established / does not take place / is not formed.",
+        "te": "భోగైశ్వర్యప్రసక్తానామ్ = భౌతిక భోగములలో, ఐశ్వర్యమునందు (అధికారమునందు) మిక్కిలి ఆసక్తులైనవారికి; న విధీయతే = (సమాధిలో స్థిరంగా) నిలకడ చెందదు / ఏర్పడదు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Bhoga-aiśvarya-prasaktānām = Of those who have renounced luxury; Na vidhīyate = Is prescribed in scriptures.",
+        "te": "భోగైశ్వర్యప్రసక్తానామ్ = భోగాలను త్యజించినవారికి; న విధీయతే = శాస్త్రాలలో విధించబడినది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bhoga-aiśvarya-prasaktānām = Of victorious kings; Na vidhīyate = Is praised by gods.",
+        "te": "భోగైశ్వర్యప్రసక్తానామ్ = విజేతలైన రాజులకు; న విధీయతే = దేవతలచే ప్రశంసించబడినది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Bhoga-aiśvarya-prasaktānām = Of those who study Upanishads; Na vidhīyate = Destroys sin.",
+        "te": "భోగైశ్వర్యప్రసక్తానామ్ = ఉపనిషత్తులను చదివేవారికి; న విధీయతే = పాపాన్ని నశింపజేస్తుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Bhoga' (pleasure) + 'aiśvarya' (opulence) + 'prasakta' (deeply attached) in Genitive Plural = 'bhogaiśvarya-prasaktānām'. 'Na' (not) + 'vidhīyate' (is ordained / established / fixed) = 'is not established'. — Bhagavad Gita (2.44)",
+      "te": "'భోగ' (సుఖము) + 'ఐశ్వర్య' (అధికారము) + 'ప్రసక్త' (మిక్కిలి ఆసక్తి గలవారు) శబ్దానికి షష్ఠీ బహువచనం 'భోగైశ్వర్యప్రసక్తానామ్'. 'న' (లేదు) + 'విధీయతే' (ఏర్పడుట/నిలబడుట) = స్థిరంగా ఏర్పడదు. — భగవద్గీత (2.44)"
+    }
+  },
+  {
+    "id": "bg-2-44-q5",
+    "verse": { "c": 2, "s": 44 },
+    "concept": ["Sanskrit Grammar - Genitive Plural & Passive Verb 'Vidhīyate'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'prasaktānām' and 'vidhīyate' in verse 2.44:",
+      "te": "2.44 శ్లోకంలోని 'ప్రసక్తానామ్' మరియు 'విధీయతే' అనే పదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Prasaktānām = Genitive Plural Masculine Past Passive Participles (Kta-pratyaya) from root 'sañj' with prefix 'pra' (of those who are attached); Vidhīyate = 3rd person singular Present Passive (Laṭ-lakāra) from root 'dhā' with prefix 'vi' (it is established / ordained).",
+        "te": "ప్రసక్తానామ్ = 'ప్ర' ఉపసర్గతో 'సంజ్' (అంటిపెట్టుకొనియుండు) ధాతువు క్తాంత షష్ఠీ విభక్తి బహువచన పుంలింగ రూపం ('మిక్కిలి ఆసక్తులైనవారి యొక్క'); విధీయతే = 'వి' ఉపసర్గతో 'ధా' (ఉంచు/స్థాపించు) ధాతువు లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ఏకవచన కర్మణి రూపం ('ఏర్పడును/నిలబడును').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Prasaktānām = Nominative singular noun; Vidhīyate = Future active verb.",
+        "te": "ప్రసక్తానామ్ = ప్రథమా ఏకవచన నామవాచకం; విధీయతే = భవిష్యత్కాల కర్తరి క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Prasaktānām = Imperative command verb; Vidhīyate = Past tense active verb.",
+        "te": "ప్రసక్తానామ్ = ఆజ్ఞార్థక క్రియ; విధీయతే = భూతకాల కర్తరి క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Prasaktānām = Infinitive form; Vidhīyate = Present active participle.",
+        "te": "ప్రసక్తానామ్ = తుమున్నంత రూపం; విధీయతే = వర్తమాన కర్తరి విశేషణం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Prasakta' (from pra + sañj + kta) in Genitive Plural Masculine is 'prasaktānām' (modifying 'cetasām' / people). 'Vidhīyate' is the 3rd person singular present passive of root 'dhā' with prefix 'vi-'. Subject is 'vyavasāyātmikā buddhiḥ': 'buddhiḥ samādhau na vidhīyate' = 'resolute intellect is not established in Samadhi'. — Bhagavad Gita (2.44)",
+      "te": "'ప్ర' + 'సంజ్' + క్త -> 'ప్రసక్త'. దాని షష్ఠీ బహువచనం 'ప్రసక్తానామ్'. 'వి' + 'ధా' ధాతువు వర్తమాన కర్మణి ప్రథమ పురుష ఏకవచనం 'విధీయతే'. 'వ్యవసాయాత్మికా బుద్ధిః' అనే కర్తతో చేరి 'బుద్ధిః సమాధౌ న విధీయతే' (బుద్ధి సమాధి యందు నిలకడ చెందదు) అని వాక్యం పూర్తయింది. — భగవద్గీత (2.44)"
+    }
+  },
+  {
+    "id": "bg-2-44-q6",
+    "verse": { "c": 2, "s": 44 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'tayāpahṛtacetasām' in verse 2.44:",
+      "te": "2.44 శ్లోకంలోని 'తయాపహృతచేతసామ్' అనే పదం యొక్క సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Tayā + apahṛtacetasām -> tayāpahṛtacetasām (Savarna-dirgha Sandhi: ā + a -> ā).",
+        "te": "తయా + అపహృతచేతసామ్ -> తయాపహృతచేతసామ్ (సవర్ణదీర్ఘ సంధి: ఆ + అ -> ఆ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Taya + apahṛtacetasām -> tayāpahṛtacetasām",
+        "te": "తయ + అపహృతచేతసామ్ -> తయాపహృతచేతసామ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Tayām + apahṛtacetasām -> tayāmapahṛtacetasām",
+        "te": "తయామ్ + అపహృతచేతసామ్ -> తయామపహృతచేతసామ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Tayai + apahṛtacetasām -> tayai'pahṛtacetasām",
+        "te": "తయై + అపహృతచేతసామ్ -> తయైఽపహృతచేతసామ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Tayā' (by that [flowery speech]) + 'apahṛtacetasām' (of those whose minds are stolen): long 'ā' + short 'a' merges into long 'ā' via Savarna-dirgha Sandhi, yielding 'tayāpahṛtacetasām'. — Bhagavad Gita (2.44)",
+      "te": "'తయా' (ఆ మాటల చేత) + 'అపహృతచేతసామ్' (అపహరించబడిన వివేక చిత్తము గలవారికి) లలో 'ఆ' + 'అ' కలసి సవర్ణదీర్ఘ సంధి ద్వారా 'తయాపహృతచేతసామ్' అయినది. — భగవద్గీత (2.44)"
+    }
+  }
+]

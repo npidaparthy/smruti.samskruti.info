@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-16-q1",
+    "verse": { "c": 2, "s": 16 },
+    "concept": ["Verse Meaning & The Real vs Unreal"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.16?\n\n“nāsato vidyate bhāvo nābhāvo vidyate sataḥ | ubhayorapi dṛṣṭo'ntastvanayostattvadarśibhiḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“నాసతో విద్యతే భావో నాభావో విద్యతే సతః | ఉభయోరపి దృష్టోఽంతస్త్వనయోస్తత్త్వదర్శిభిః”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — The unreal (non-existent/perishable body) has no true existence, and the Real (eternal Atman) never ceases to exist. The ultimate truth/underlying reality of both has been perceived by the seers of Truth.",
+        "te": "శ్రీభగవానుడు పలికెను — అసత్తునకు (అశాశ్వతమైన దేహము/ప్రకృతికి) అస్తిత్వము (ఉనికి) లేదు; సత్తునకు (శాశ్వతమైన ఆత్మకు) లేకుండపోవడమనేది (అభావము) లేదు. ఈ రెంటి యొక్క తత్త్వాన్ని (నిజమైన గీటురాయిని) తత్త్వదర్శులు (జ్ఞానులు) చూచియున్నారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Both the physical body and the Atman undergo birth and death in cyclical patterns, as observed by Vedic seers.",
+        "te": "శ్రీభగవానుడు పలికెను — భౌతిక దేహము మరియు ఆత్మ రెండూ వేద మునులు గమనించినట్లుగా చక్రకార విధానంలో జనన మరణాలను పొందుతాయి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — That which is perceived by the human senses is the only reality, while everything unperceivable is non-existent.",
+        "te": "శ్రీభగవానుడు పలికెను — మానవ ఇంద్రియాలకు కనిపించేది మాత్రమే నిజమైన సత్యము, కనిపించనిదంతా అసత్తు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Seers of truth have concluded that performance of ritual sacrifices turns the unreal body into an immortal entity.",
+        "te": "శ్రీభగవానుడు పలికెను — యజ్ఞ యగాదులను ఆచరించడం ద్వారా అశాశ్వతమైన దేహాన్ని అమరమైనదిగా మార్చవచ్చని తత్త్వదర్శులు ముగించారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Nāsato vidyate bhāvo nābhāvo vidyate sataḥ / ubhayor api dṛṣṭo 'ntas tv anayos tattva-darśibhiḥ.\" Krishna sets down the core ontological axiom: 'Asat' (the changing, non-Self) lacks genuine existence ('na bhāvo vidyate'), while 'Sat' (the unchanging Ātman) never ceases to be ('na abhāvo vidyate'). Seers of Truth ('tattva-darśinaḥ') have realized this definitive boundary ('antaḥ'). — Bhagavad Gita (2.16)",
+      "te": "వేదాంత తత్త్వశాస్త్రానికి అత్యంత ప్రామాణికమైన శ్లోకమిది. 'అసత్తు' అనగా అశాశ్వతమైన దేహము/ప్రకృతి, దానికి పారమార్థికంగా అస్తిత్వము ('భావః') లేదు. 'సత్తు' అనగా నిత్యమైన ఆత్మ, దానికి ఏ కాలంలోనూ అభావము ('లేకపోవడము') లేదు. ఈ పరమ సత్యాన్ని తత్త్వదర్శులు ('తత్త్వదర్శిభిః') దర్శించారు. — భగవద్గీత (2.16)"
+    }
+  },
+  {
+    "id": "bg-2-16-q2",
+    "verse": { "c": 2, "s": 16 },
+    "concept": ["Epistemological Criteria - Sat vs Asat"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "How does Indian philosophy (Vedanta) define 'Sat' (the Real) and 'Asat' (the Unreal) based on verse 2.16?",
+      "te": "2.16 శ్లోకం ఆధారంగా వేదాంత దర్శనంలో 'సత్తు' (సత్యము) మరియు 'అసత్తు' (అసత్యము/అశాశ్వతము) లను ఏ విధంగా నిర్వచించారు?"
+    },
+    "choices": [
+      {
+        "en": "Sat = That which exists changelessly in all three periods of time (uncreated, indestructible Ātman); Asat = That which is subject to modification, beginning, and end (body/mind/duality).",
+        "te": "సత్తు = త్రైకాలాలలోనూ వికారము లేకుండా శాశ్వతంగా ఉండేది (అనాది, అవ్యయమైన ఆత్మ); అసత్తు = మార్పులకు, జనన మరణాలకు లోనయ్యే అశాశ్వతమైనది (దేహము/మనస్సు/ద్వంద్వాలు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sat = Material objects that can be touched; Asat = Mental thoughts and emotions that cannot be seen.",
+        "te": "సత్తు = తాకగలిగే భౌతిక వస్తువులు; అసత్తు = చూడలేని మానసిక ఆలోచనలు, భావోద్వేగాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sat = Good deeds that yield virtue; Asat = Evil deeds that produce sin.",
+        "te": "సత్తు = పుణ్యాన్ని ఇచ్చే మంచి కార్యాలు; అసత్తు = పాపాన్ని పుట్టించే చెడు కార్యాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sat = Heavenly worlds populated by gods; Asat = Earthly realm inhabited by mortals.",
+        "te": "సత్తు = దేవతలు ఉండే స్వర్గలోకాలు; అసత్తు = మనుష్యులు నివసించే భూలోకము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedantic definition (as elaborated by Shankaracharya), 'Sat' is that whose knowledge never varies (Trikāla-abādhitam - uncontradicted across past, present, future). 'Asat' is that which is subject to change and negation (like body or sensory experiences). — Bhagavad Gita (2.16)",
+      "te": "శంకరాచార్యుల వ్యాఖ్యానం ప్రకారం... మూడు కాలాలలోనూ ఏ విధమైన మార్పూ లేక శాశ్వతంగా ప్రకాశించేది 'సత్తు' (ఆత్మ). కారణ కార్యాత్మకంగా మారుతూ, కొంతకాలం ఉండి నశించిపోయేది 'అసత్తు' (దేహాదులు). — భగవద్గీత (2.16)"
+    }
+  },
+  {
+    "id": "bg-2-16-q3",
+    "verse": { "c": 2, "s": 16 },
+    "concept": ["Qualifications of Seers - Tattvadarśinaḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the term 'Tattvadarśibhiḥ' mean in verse 2.16, and what have they perceived ('dṛṣṭo 'ntaḥ')?",
+      "te": "2.16 శ్లోకంలోని 'తత్త్వదర్శిభిః' అనే పదానికి అర్థం ఏమిటి? వారు ఏ 'అంతాన్ని' (నిర్ణయాన్ని/నిజమైన గీటురాయిని) దర్శించారు?"
+    },
+    "choices": [
+      {
+        "en": "By seers of Truth / Knowers of Ultimate Reality; they have perceived the conclusive boundary and nature of both the Real (Sat) and the Unreal (Asat).",
+        "te": "తత్త్వదర్శుల చేత / పరమార్థ సత్యాన్ని గ్రహించిన జ్ఞానుల చేత; వారు సత్తు-అసత్తులు రెండింటి యొక్క నైజమును, అంతిమ నిర్ణయాన్ని ప్రత్యక్షంగా దర్శించారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "By astrologers; they have calculated the end date of the physical universe.",
+        "te": "జ్యోతిష్కుల చేత; వారు ఈ భౌతిక విశ్వం యొక్క ముగింపు కాలాన్ని లెక్కించారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "By ritual priests; they have discovered the exact method to perform Vedic sacrifices.",
+        "te": "యాజ్ఞికుల చేత; వారు యజ్ఞాలు చేసే కచ్చితమైన విధానాన్ని కనుగొన్నారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "By military strategists; they have foreseen the final result of the Kurukshetra war.",
+        "te": "యుద్ధ వ్యూహకర్తల చేత; వారు కురుక్షేత్ర యుద్ధ అంతిమ పరిణామాన్ని ముందుగానే ఊహించారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Tattva' (thatness / underlying reality of Brahman/Atman) + 'darśibhiḥ' (by the seers - Instrumental plural). 'Dṛṣṭaḥ antaḥ' refers to the final conclusive realization ('anta') regarding the non-reality of the body and the absolute reality of the Soul. — Bhagavad Gita (2.16)",
+      "te": "'తత్త్వ' (సత్యము/ఆత్మస్వరూపము) + 'దర్శిభిః' (గాంచినవారిచేత - తృతీయా బహువచనం). 'దృష్టః అంతః' అనగా సదసత్తుల నిజమైన యథార్థ నిర్ణయాన్ని మోహరహితులైన ఆత్మజ్ఞానులు అనుభవపూర్వకంగా తెలుసుకున్నారని భావం. — భగవద్గీత (2.16)"
+    }
+  },
+  {
+    "id": "bg-2-16-q4",
+    "verse": { "c": 2, "s": 16 },
+    "concept": ["Sanskrit Vocabulary - Existence & Non-Existence"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit philosophical terms 'bhāvaḥ' and 'abhāvaḥ' mean in verse 2.16?",
+      "te": "2.16 శ్లోకంలోని 'భావః' మరియు 'అభావః' అనే సంస్కృత తత్త్వశాస్త్ర పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Bhāvaḥ = Genuine existence / reality / state of being; Abhāvaḥ = Non-existence / absence / cessation of being.",
+        "te": "భావః = యథార్థ అస్తిత్వము / ఉనికి / ఉండటము; అభావః = అస్తిత్వము లేకపోవడము / లేకుండపోవుట / నాశనము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Bhāvaḥ = Devotional feeling; Abhāvaḥ = Lack of emotion.",
+        "te": "భావః = భక్తి భావన; అభావః = భావన లేకపోవడము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bhāvaḥ = Material wealth; Abhāvaḥ = Poverty.",
+        "te": "భావః = లౌకిక సంపద; అభావః = పేదరికము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Bhāvaḥ = Happiness; Abhāvaḥ = Sorrow.",
+        "te": "భావః = ఆనందము; అభావః = దుఃఖము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Bhāva' comes from root 'bhū' (to be) and means existence/being. 'A-bhāva' means non-being or absence of existence. 'Nāsato vidyate bhāvaḥ' = 'there is no true existence for the unreal'. 'Nābhāvo vidyate sataḥ' = 'there is no non-existence for the Real'. — Bhagavad Gita (2.16)",
+      "te": "'భూ' (ఉండుట) ధాతువు నుండి 'భావః' (ఉనికి/అస్తిత్వము) వచ్చింది. 'అభావః' అనగా ఉనికి లేకపోవుట. అశాశ్వతమైన దేహానికి నిజమైన అస్తిత్వము ఉండదని, శాశ్వతమైన ఆత్మకు అభావము (మరణము) ఉండదని దీని అర్థం. — భగవద్గీత (2.16)"
+    }
+  },
+  {
+    "id": "bg-2-16-q5",
+    "verse": { "c": 2, "s": 16 },
+    "concept": ["Sanskrit Grammar - Genitive Case 'Sataḥ' & 'Asataḥ'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'asataḥ' and 'sataḥ' in verse 2.16:",
+      "te": "2.16 శ్లోకంలోని 'అసతః' మరియు 'సతః' అనే పదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Genitive Singular Masculine/Neuter Present Participle forms from root 'as' (to be): 'asataḥ' = 'of the unreal / non-existent'; 'sataḥ' = 'of the Real / existent'.",
+        "te": "'అస్' (ఉండుట) అనే ధాతువు శతృ ప్రత్యయాంత వర్తమానకాల విశేషణాల షష్ఠీ విభక్తి ఏకవచన రూపాలు: 'అసతః' = 'అసత్తు యొక్క / అశాశ్వతమైనదాని యొక్క'; 'సతః' = 'సత్తు యొక్క / శాశ్వతమైన సత్యము యొక్క'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nominative Plural nouns.",
+        "te": "ప్రథమా విభక్తి బహువచన నామవాచకాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Ablative Singular verbs.",
+        "te": "పంచమీ విభక్తి క్రియా రూపాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command particles.",
+        "te": "ఆజ్ఞార్థక అవ్యయాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sat' is the present participle of root 'as' (to be). Its Genitive Singular is 'sataḥ' ('of the existent'). 'Asat' is its negation, and its Genitive Singular is 'asataḥ' ('of the non-existent'). — Bhagavad Gita (2.16)",
+      "te": "'అస్' ధాతువు నుండి వచ్చిన 'సత్' అనే శతృ ప్రత్యయాంత పదానికి షష్ఠీ ఏకవచన రూపం 'సతః' (సత్తు యొక్క). దాని వ్యతిరేక పదం 'అసత్' షష్ఠీ ఏకవచనం 'అసతః' (అసత్తు యొక్క). — భగవద్గీత (2.16)"
+    }
+  },
+  {
+    "id": "bg-2-16-q6",
+    "verse": { "c": 2, "s": 16 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'nāsato' and 'nābhāvo' in verse 2.16:",
+      "te": "2.16 శ్లోకంలోని 'నాసతో' మరియు 'నాభావో' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Na + asataḥ -> nāsataḥ (Savarna-dirgha Sandhi: a + a -> ā); nāsataḥ + vidyate -> nāsato vidyate (Visarga Uttva Sandhi: visarga 'ḥ' after 'a' becomes 'o' before voiced 'v'); na + abhāvaḥ -> nābhāvaḥ -> nābhāvo vidyate (Savarna-dirgha & Visarga Uttva Sandhi).",
+        "te": "న + అసతః -> నాసతః (సవర్ణదీర్ఘ సంధి: అ + అ -> ఆ); నాసతః + విద్యతే -> నాసతో విద్యతే (విసర్గ ఉత్త్వ సంధి: ఘోష వ్యంజనం 'వ' ముందు విసర్గ 'ఓ' గా మారినది); న + అభావః -> నాభావః -> నాభావో విద్యతే (సవర్ణదీర్ఘ, విసర్గ ఉత్త్వ సంధులు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Na + sato -> nāsato; na + bhāvo -> nābhāvo",
+        "te": "న + సతో; న + భావో",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "No + asato -> nāsato; no + abhāvo -> nābhāvo",
+        "te": "నో + అసతో; నో + అభావో",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nai + asato -> nāsato; nai + abhāvo -> nābhāvo",
+        "te": "నై + అసతో; నై + అభావో",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Na' (not) + 'asataḥ' (of the unreal) = 'nāsataḥ' (Savarna-dirgha Sandhi). 2. 'Nāsataḥ' + 'vidyate': visarga 'ḥ' preceded by 'a' and followed by voiced consonant 'v' transforms to 'o' via Visarga Uttva Sandhi, yielding 'nāsato vidyate'. 3. Same rule applies to 'na' + 'abhāvaḥ' + 'vidyate' -> 'nābhāvo vidyate'. — Bhagavad Gita (2.16)",
+      "te": "1. 'న' + 'అసతః' లలో సవర్ణదీర్ఘ సంధి జరిగి 'నాసతః' అయినది. 2. 'నాసతః' + 'విద్యతే' లలో విసర్గ ఘోష వ్యంజనం 'వ' ముందు 'ఓ' గా మారడం వల్ల (విసర్గ ఉత్త్వ సంధి) 'నాసతో విద్యతే' అయినది. 3. ఇదే నియమం 'న' + 'అభావః' + 'విద్యతే' లలో జరిగి 'నాభావో విద్యతే' అయినది. — భగవద్గీత (2.16)"
+    }
+  }
+]

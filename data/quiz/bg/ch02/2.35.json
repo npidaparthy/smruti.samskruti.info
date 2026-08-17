@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-35-q1",
+    "verse": { "c": 2, "s": 35 },
+    "concept": ["Verse Meaning & Misinterpretation of Retreat"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.35?\n\n“bhayādraṇāduparataṃ maṃsyante tvāṃ mahārathāḥ | yeṣāṃ ca tvaṃ bahumato bhūtvā yāsyasi lāghavam”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“భయాద్రణాదుపరతం మంస్యంతే త్వాం మహారథాః | యేషాం చ త్వం బహుమతో భూత్వా యాస్యసి లాఘవమ్”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — The great chariot-warriors will think that you have retreated from the battle out of fear; and having been held in high esteem by them, you will fall into insignificance.",
+        "te": "శ్రీభగవానుడు పలికెను — గొప్ప మహారథులు నీవు భయం వల్లనే యుద్ధం నుండి విరమించుకున్నావని భావిస్తారు; ఎవరి దృష్టిలో అయితే నీవు ఇప్పటివరకు గొప్ప గౌరవ మర్యాదలు కలిగి ఉన్నావో, వారి దృష్టిలోనే నీవు అత్యంత తేలికయినవాడవు (అల్పజ్ఞుడవు/లఘువు) అయిపోతావు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — The great warriors will praise your noble compassion for withdrawing from the war, elevating your spiritual prestige across all kingdoms.",
+        "te": "శ్రీభగవానుడు పలికెను — యుద్ధం నుండి విరమించుకున్నందుకు మహారథులు నీ ఉదాత్తమైన కరుణను ప్రశంసిస్తారు, ఇది సమస్త రాజ్యాలలో నీ ఆధ్యాత్మిక ప్రతిష్ఠను పెంచుతుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Retreating from battle out of fear is considered a valid tactical maneuver for a Maharatha seeking to preserve his army.",
+        "te": "శ్రీభగవానుడు పలికెను — తన సైన్యాన్ని కాపాడుకోవడానికి ప్రయత్నించే మహారథునికి భయంతో యుద్ధభూమి నుండి తప్పుకోవడం సరైన వ్యూహాత్మక చర్యగానే భావించబడుతుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Enemies will fear you even more if you lay down your bow and walk away from the battlefield.",
+        "te": "శ్రీభగవానుడు పలికెను — నీవు నీ విల్లును పక్కన పడేసి యుద్ధభూమి నుండి వెళ్లిపోతే శత్రువులు నీకు మరింతగా భయపడతారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Bhayād raṇād uparataṃ maṃsyante tvāṃ mahārathāḥ / yeṣāṃ ca tvaṃ bahu-mato bhūtvā yāsyasi lāghavam.\" Krishna points out the stark social reality of battle: Arjuna's withdrawal springs from inner grief and misguided compassion, but his martial peers (Drona, Karna, Duryodhana) will misinterpret it as cowardice ('bhayāt'). Consequently, his standing among those who once held him in high esteem ('bahu-mataḥ') will collapse into contempt ('lāghavam'). — Bhagavad Gita (2.35)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ రణరంగపు లౌకిక సత్యాన్ని అర్జునునికి గుర్తుచేస్తున్నాడు. అర్జునుడు ధర్మ సంకటంతో, శోకంతో వైదొలుగుతున్నప్పటికీ... శత్రుపక్షాన ఉన్న ద్రోణ, కర్ణ, దుర్యోధనాది 'మహారథులు' అతడు భయం వల్లే ('భయాత్') పారిపోయాడని భావిస్తారు. ఇప్పటివరకు అతడిని పూజ్యుడిగా చూసినవారి దృష్టిలోనే అతడు చౌకబారువాడిగా, అల్పుడిగా ('లాఘవమ్') దిగజారిపోతాడని హెచ్చరిస్తున్నాడు. — భగవద్గీత (2.35)"
+    }
+  },
+  {
+    "id": "bg-2-35-q2",
+    "verse": { "c": 2, "s": 35 },
+    "concept": ["Psychological Misinterpretation - Compassion vs Cowardice"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What psychological trap regarding public perception does Lord Krishna highlight in verse 2.35?",
+      "te": "2.35 శ్లోకంలో ప్రజల/శత్రువుల గ్రహణ శక్తికి సంబంధించి ఏ రకమైన సామాజిక-మానసిక వాస్తవాన్ని శ్రీకృష్ణుడు ఎత్తిచూపాడు?"
+    },
+    "choices": [
+      {
+        "en": "That noble internal motives (like compassion) cannot be verified by worldly observers, who will judge outer action (retreat) through their own cynical framework (cowardice).",
+        "te": "మనిషి అంతరంగంలోని ఉదాత్తమైన భావాలను (కరుణను) బయటి ప్రపంచం గ్రహించలేదని; కేవలం బాహ్య క్రియను (యుద్ధ విరమణను) చూసి తమ స్వంత దైన్య ఆలోచనలకు అనుగుణంగా దానికి పిరికితనమనే ముద్ర వేస్తారని.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "That great warriors always understand and respect the moral dilemmas of their opponents.",
+        "te": "గొప్ప యోధులు ఎల్లప్పుడూ తమ శత్రువుల నైతిక సందేహాలను అర్థం చేసుకుని గౌరవిస్తారని.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "That retreating from war automatically turns a Kshatriya into a spiritual saint.",
+        "te": "యుద్ధం నుండి తప్పుకోవడం అనేది స్వయంసిద్ధంగా క్షత్రియుడిని ఒక ఆధ్యాత్మిక సాధువుగా మారుస్తుందని.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "That one's reputation can be easily restored by explaining motives after the war ends.",
+        "te": "యుద్ధం ముగిసిన తర్వాత తన ఉద్దేశాలను వివరించడం ద్వారా పడిపోయిన ప్రతిష్ఠను సులభంగా పునరుద్ధరించుకోవచ్చని.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna believes his withdrawal is an act of high moral compassion. Krishna exposes the delusion: worldly combatants judge actions by martial standards. To them, a champion's retreat is 'bhayāt' (out of fear). The higher one's past stature ('bahu-mataḥ'), the steeper and more shameful the fall into contempt ('lāghavam'). — Bhagavad Gita (2.35)",
+      "te": "తాను కరుణతో తప్పుకుంటున్నానని అర్జునుడు అనుకుంటున్నాడు. కానీ లోకం బాహ్య చర్యలనే చూస్తుంది. ఒక వీరుడు యుద్ధభూమి నుండి వైదొలిగితే క్షాత్ర ప్రపంచం దానిని 'భయాత్' (భయం వల్లే) అని ముద్రిస్తుంది. ఎంతగా పూజించబడిన వీరుడైతే ('బహుమతః'), అతడి పతనం అంతగా అవమానకరమైనదిగా ('లాఘవమ్') మారుతుంది. — భగవద్గీత (2.35)"
+    }
+  },
+  {
+    "id": "bg-2-35-q3",
+    "verse": { "c": 2, "s": 35 },
+    "concept": ["Martial Rank - Maharatha & Fall to Lāghavam"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the terms 'Mahārathāḥ' and 'Lāghavam' denote in verse 2.35?",
+      "te": "2.35 శ్లోకంలోని 'మహారథాః' మరియు 'లాఘవమ్' అనే పదాల విశేష అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Mahārathāḥ = Master warriors capable of commanding 11,000 archers simultaneously; Lāghavam = Insignificance / lightness / loss of respect / contempt.",
+        "te": "మహారథాః = ఒకేసారి 11,000 మంది విలుకాండ్రతో ఒంటరిగా పోరాడగల సమర్థులైన అత్యున్నత యోధులు; లాఘవమ్ = అల్పత్వము / తేలికభావము / అవమానము / చౌకబారుతనము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mahārathāḥ = Chariot drivers; Lāghavam = Physical speed in running.",
+        "te": "మహారథాః = రథసారథులు; లాఘవమ్ = పరుగెత్తడంలో శారీరక వేగము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Mahārathāḥ = Royal kings; Lāghavam = Lightness of weapons.",
+        "te": "మహారథాః = రాజవంశపు రాజులు; లాఘవమ్ = ఆయుధాల తేలికపాటి బరువు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Mahārathāḥ = Divine gods; Lāghavam = Heavenly bliss.",
+        "te": "మహారథాః = దివ్య దేవతలు; లాఘవమ్ = స్వర్గలోక ఆనందము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Mahāratha' is a specific military rank in ancient Indian warfare for a warrior who can fight ten thousand bowmen single-handedly. 'Lāghava' comes from 'laghu' (light/small); 'yāsyasi lāghavam' means 'you will fall into utter lightness/insignificance in their eyes'. — Bhagavad Gita (2.35)",
+      "te": "'మహారథః' అనేది ప్రాచీన రణతంత్రంలో 10,000 మంది యోధులతో ఏకకాలంలో పోరాడగల అత్యున్నత రథిక శ్రేణి. 'లఘు' (తేలికైనది/చిన్నది) శబ్దం నుండి వచ్చిన 'లాఘవమ్' అనగా వారి దృష్టిలో అత్యంత తేలికయినవాడిగా, అల్పుడిగా మారిపోవడం. — భగవద్గీత (2.35)"
+    }
+  },
+  {
+    "id": "bg-2-35-q4",
+    "verse": { "c": 2, "s": 35 },
+    "concept": ["Sanskrit Vocabulary - High Esteem to Contempt"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit phrases 'bhayād raṇāt uparatam' and 'bahumataḥ' mean in verse 2.35?",
+      "te": "2.35 శ్లోకంలోని 'భయాత్ రణాత్ ఉపరతమ్' మరియు 'బహుమతః' అనే సంస్కృత పదబంధాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Bhayād raṇāt uparatam = Retreated / withdrawn from battle out of fear; Bahumataḥ = Highly esteemed / greatly respected.",
+        "te": "భయాత్ రణాత్ ఉపరతమ్ = భయం వల్ల యుద్ధం నుండి విరమించుకున్నవాడు; బహుమతః = ఎంతగానో పూజించబడినవాడు / గొప్ప గౌరవ మర్యాదలు పొందినవాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Bhayād raṇāt uparatam = Killed in battle by fear; Bahumataḥ = Possessing many opinions.",
+        "te": "భయాత్ రణాత్ ఉపరతమ్ = భయంతో యుద్ధంలో చనిపోయినవాడు; బహుమతః = అనేక అభిప్రాయాలు గలవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bhayād raṇāt uparatam = Fought bravely against fear; Bahumataḥ = Wealthy prince.",
+        "te": "భయాత్ రణాత్ ఉపరతమ్ = భయాన్ని జయించి ధైర్యంగా పోరాడినవాడు; బహుమతః = సంపన్నుడైన రాజకుమారుడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Bhayād raṇāt uparatam = Protected by fear; Bahumataḥ = Commander of army.",
+        "te": "భయాత్ రణాత్ ఉపరతమ్ = భయం చేత రక్షించబడినవాడు; బహుమతః = సైన్యాధ్యక్షుడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Bhayāt' (Ablative singular = out of fear) + 'raṇāt' (Ablative singular = from battle) + 'uparatam' (withdrawn/desisted). 'Bahu' (greatly) + 'mata' (thought of/esteemed) = 'bahumataḥ' (one held in immense respect). — Bhagavad Gita (2.35)",
+      "te": "'భయాత్' (భయం వలన) + 'రణాత్' (యుద్ధభూమి నుండి) + 'ఉపరతమ్' (విరమించుకున్నవానిగా). 'బహు' (మిక్కిలి) + 'మత' (సమ్మతించబడిన/గౌరవించబడిన) = 'బహుమతః' (గొప్ప గౌరవ ప్రతిష్ఠలు ఉన్నవాడు). — భగవద్గీత (2.35)"
+    }
+  },
+  {
+    "id": "bg-2-35-q5",
+    "verse": { "c": 2, "s": 35 },
+    "concept": ["Sanskrit Grammar - Future Verbs 'Maṃsyante' & 'Yāsyasi'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of the verbs 'maṃsyante' and 'yāsyasi' in verse 2.35:",
+      "te": "2.35 శ్లోకంలోని 'మంస్యంతే' మరియు 'యాస్యసి' అనే క్రియాపదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Maṃsyante = 3rd person plural Simple Future tense Ātmanepada (Lṛṭ-lakāra) from root 'man' (they will think); Yāsyasi = 2nd person singular Simple Future tense Parasmaipada (Lṛṭ-lakāra) from root 'yā' (you will go/fall into).",
+        "te": "మంస్యంతే = 'మన్' (భావించు/తలంచు) ధాతువు లృట్ లకార (భవిష్యత్కాల) ప్రథమ పురుష బహువచన ఆత్మనేపద రూపం ('వారు అనుకుంటారు'); యాస్యసి = 'యా' (వెళ్లు/పొందు) ధాతువు లృట్ లకార (భవిష్యత్కాల) మధ్యమ పురుష ఏకవచన పరస్మైపద రూపం ('నీవు పొందగలవు/అయిపోతావు').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Maṃsyante = Present tense singular verb; Yāsyasi = Past tense plural verb.",
+        "te": "మంస్యంతే = వర్తమానకాల ఏకవచన క్రియ; యాస్యసి = భూతకాల బహువచన క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Maṃsyante = Imperative command verb; Yāsyasi = Infinitive verb form.",
+        "te": "మంస్యంతే = ఆజ్ఞార్థక క్రియ; యాస్యసి = తుమున్నంత క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Maṃsyante = Past passive participle; Yāsyasi = Present active participle.",
+        "te": "మంస్యంతే = భూతకాల కర్మణి విశేషణం; యాస్యసి = వర్తమాన కర్తరి విశేషణం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Maṃsyante' agrees with subject 'mahārathāḥ' (the Maharathas will think). 'Yāsyasi' agrees with subject 'tvam' (you will attain/reach). Both are in Lṛṭ-lakāra (future tense). — Bhagavad Gita (2.35)",
+      "te": "'మహారథాః' అనే ప్రథమా బహువచన కర్తకు 'మంస్యంతే' (తలంచుదురు) అనే లృట్ లకార బహువచన క్రియ, 'త్వమ్' అనే మధ్యమ పురుష ఏకవచన కర్తకు 'యాస్యసి' (పొందగలవు) అనే లృట్ లకార ఏకవచన క్రియ సరిపోలాయి. — భగవద్గీత (2.35)"
+    }
+  },
+  {
+    "id": "bg-2-35-q6",
+    "verse": { "c": 2, "s": 35 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'bhayādraṇād' and 'tvāṃ mahārathāḥ' in verse 2.35:",
+      "te": "2.35 శ్లోకంలోని 'భయాద్రణాత్' (భయాద్రణాదుపరతమ్) మరియు 'త్వాం మహారథాః' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Bhayāt + raṇāt -> bhayād raṇāt (Jasdtva Sandhi: 't' -> 'd'); raṇāt + uparatam -> raṇād uparatam (Jasdtva Sandhi: 't' -> 'd'); tvām + mahārathāḥ -> tvāṃ mahārathāḥ (Anusvāra Sandhi: 'm' before consonant 'm' becomes Anusvāra).",
+        "te": "భయాత్ + రణాత్ -> భయాద్రణాత్ (జశ్త్వ సంధి: 'త్' -> 'ద్'); రణాత్ + ఉపరతమ్ -> రణాదుపరతమ్ (జశ్త్వ సంధి: అచ్చు ముందు 'త్' -> 'ద్'); త్వామ్ + మహారథాః -> త్వాం మహారథాః (అనుస్వార సంధి: వ్యంజనం ముందు పొల్లు 'మ్' అనుస్వారంగా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Bhayā + raṇā -> bhayāraṇā; tvān + mahārathāḥ -> tvānmahārathāḥ",
+        "te": "భయా + రణా -> భయారణా; త్వాన్ + మహారథాః -> త్వాన్మహారథాః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Bhayām + raṇām -> bhayāmraṇām; tvāḥ + mahārathāḥ -> tvāhmahārathāḥ",
+        "te": "భయామ్ + రణామ్ -> భయామ్రణామ్; త్వాః + మహారథాః -> త్వాహమహారథాః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Bhayāḥ + raṇāḥ -> bhayāhraṇāḥ; tvā + mahārathāḥ -> tvāmahārathāḥ",
+        "te": "భయాః + రణాః -> భయాహరణాః; త్వా + మహారథాః -> త్వామహారథాః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Bhayāt' (out of fear) + 'raṇāt' (from battle): unvoiced dental 't' becomes voiced dental 'd' before voiced semi-vowel 'r' via Jasdtva Sandhi -> 'bhayād raṇāt'. 2. 'Raṇāt' + 'uparatam': 't' becomes 'd' before vowel 'u' -> 'raṇād uparatam'. 3. 'Tvām' (you) + 'mahārathāḥ': final 'm' becomes Anusvāra 'ṃ' before consonant 'm' -> 'tvāṃ mahārathāḥ'. — Bhagavad Gita (2.35)",
+      "te": "1. 'భయాత్' + 'రణాత్' లలో ఘోష వ్యంజనం ముందు పొల్లు 'త్' స్థానంలో 'ద్' (జశ్త్వ సంధి) వచ్చి 'భయాద్రణాత్' అయినది. 2. 'రణాత్' + 'ఉపరతమ్' లలో అచ్చు ముందు 'త్' స్థానంలో 'ద్' వచ్చి 'రణాదుపరతమ్' అయినది. 3. 'త్వామ్' + 'మహారథాః' లలో వ్యంజనం ముందు పొల్లు 'మ్' అనుస్వారంగా మారి 'త్వాం మహారథాః' అయినది. — భగవద్గీత (2.35)"
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-66-q1",
+    "verse": { "c": 2, "s": 66 },
+    "concept": ["Verse Meaning & The Negative Chain of Uncontrolled Mind"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.66?\n\n“nāsti buddhirayuktasya na cāyuktasya bhāvanā | na cābhāvayataḥ śāntiraśāntasya kutaḥ sukham”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“నాస్తి బుద్ధిరయుక్తస్య న చాయుక్తస్య భావనా | న చాభావయతః శాంతిరశాంతస్య కుతః సుఖమ్”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — For one whose mind is uncontrolled, there is no steady intellect, nor is there capacity for meditation/contemplation. For one without contemplation, there is no peace; and for one without peace, how can there be happiness?",
+        "te": "శ్రీభగవానుడు పలికెను — ఇంద్రియ నిగ్రహము/చిత్తైకాగ్రత లేనివానికి (అయుక్తునికి) నిశ్చలాత్మకమైన బుద్ధి ఉండదు; అటువంటివానికి ఆత్మచింతన/ధ్యానభావన ఉండదు; ఆత్మచింతన లేనివానికి శాంతి లభించదు; శాంతి లేనివానికి సుఖము ఎక్కడి నుండి వస్తుంది?",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Happiness is achievable without peace of mind, provided a person accumulates enough wealth and sensory enjoyment.",
+        "te": "శ్రీభగవానుడు పలికెను — మనిషి తగినంత సంపదను, ఇంద్రియ భోగాలను పొందినంత కాలం ప్రశాంతత లేకపోయినా సుఖాన్ని సాధించవచ్చు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Contemplation and steady intellect are natural gifts that belong to every human being regardless of sense control.",
+        "te": "శ్రీభగవానుడు పలికెను — ఇంద్రియ నిగ్రహంతో సంబంధం లేకుండా ప్రతి మానవుడికీ ధ్యానభావన, స్థిరమైన బుద్ధి సహజంగానే లభిస్తాయి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Peace is reserved for warriors who defeat their enemies in battle, while uncontrolled seekers gain happiness in heaven.",
+        "te": "శ్రీభగవానుడు పలికెను — ప్రశాంతత అనేది కేవలం రణరంగంలో శత్రువులను ఓడించిన యోధులకు మాత్రమే దక్కుతుంది, ఇంద్రియ నిగ్రహం లేనివారు స్వర్గంలో సుఖపడతారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Nāsti buddhir ayuktasya na cāyuktasya bhāvanā / na cābhāvayataḥ śāntir aśāntasya kutaḥ sukham.\" Krishna lays out a logical sequence showing the impossibility of true joy without mind control: 1. Ayukta (uncontrolled mind) -> No Buddhi (no steady spiritual intellect), 2. No Buddhi -> No Bhāvanā (no capacity for Self-contemplation), 3. No Bhāvanā -> No Śānti (no inner peace), 4. No Śānti -> No Sukham (no genuine happiness). — Bhagavad Gita (2.66)",
+      "te": "ఇంద్రియ నిగ్రహం లేకపోతే సుఖము అసాధ్యమని శ్రీకృష్ణుడు ఒక తార్కిక శ్రేణిని ఇక్కడ వివరించాడు: 1. అయుక్తునికి (చిత్త ఏకాగ్రత లేనివానికి) -> బుద్ధి (స్థిరమైన ఆత్మజ్ఞానం) ఉండదు, 2. బుద్ధి లేనివానికి -> భావన (ఆత్మధ్యానము) ఉండదు, 3. భావన లేనివానికి -> శాంతి ఉండదు, 4. శాంతి లేనివానికి -> సుఖము ఎక్కడి నుండి వస్తుంది? — భగవద్గీత (2.66)"
+    }
+  },
+  {
+    "id": "bg-2-66-q2",
+    "verse": { "c": 2, "s": 66 },
+    "concept": ["Philosophical Paradox - Aśāntasya Kutaḥ Sukham"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What fundamental Vedantic truth regarding happiness is established by the rhetorical question 'Aśāntasya kutaḥ sukham?' in verse 2.66?",
+      "te": "2.66 శ్లోకంలోని 'అశాంతస్య కుతః సుఖమ్?' (శాంతి లేనివానికి సుఖము ఎక్కడ?) అను ప్రశ్న ద్వారా వేదాంతం ప్రతిపాదించే ప్రాథమిక సత్యం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "That genuine happiness (Sukham) is not a product of external sensory pleasures, but an inherent nature of the Self that can only be experienced when the mind reaches absolute tranquility (Śānti).",
+        "te": "నిజమైన సుఖము (సుఖమ్) అనేది బాహ్య ఇంద్రియ భోగాల నుండి వచ్చేది కాదు; అది ఆత్మ యొక్క సహజ స్వరూపము. మనస్సు సంపూర్ణ ప్రశాంతతను (శాంతిని) పొందినప్పుడు మాత్రమే ఆ ఆనందం అనుభవంలోకి వస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "That happiness can be bought with money even when the mind is constantly agitated.",
+        "te": "మనస్సు ఎప్పుడూ అశాంతిగా ఉన్నప్పటికీ డబ్బుతో సుఖాన్ని కొనుగోలు చేయవచ్చు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "That peace and happiness are mutually exclusive states.",
+        "te": "శాంతి, సుఖము అనేవి ఒకదానికొకటి పరస్పర విరుద్ధమైన స్థితులు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "That a person without peace can achieve happiness by working harder in the material world.",
+        "te": "శాంతి లేని వ్యక్తి భౌతిక ప్రపంచంలో మరింత కష్టపడి పనిచేయడం ద్వారా సుఖాన్ని పొందవచ్చు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "People constantly seek happiness ('sukham') while neglecting inner peace ('śānti'). Krishna declares that peace is the prerequisite for happiness. As long as the mind is agitated by desires and sensory cravings, it remains 'aśānta' (restless), and a restless mind can never experience true bliss. — Bhagavad Gita (2.66)",
+      "te": "మానవులు అంతరంగ శాంతిని ('శాంతిః') విస్మరించి నిరంతరం భౌతిక సుఖం ('సుఖమ్') కోసం ఆరాటపడుతుంటారు. ప్రశాంతతయే సుఖానికి పునాది అని శ్రీకృష్ణుడు స్పష్టం చేశాడు. కోరికలతో మనస్సు అశాంతంగా ('అశాంతః') ఉన్నంత కాలం ఎలాంటి నిజమైన ఆనందమూ సాధ్యం కాదు. — భగవద్గీత (2.66)"
+    }
+  },
+  {
+    "id": "bg-2-66-q3",
+    "verse": { "c": 2, "s": 66 },
+    "concept": ["Psychological Causality - Meaning of Bhāvanā"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the term 'Bhāvanā' denote in the context of verse 2.66?",
+      "te": "2.66 శ్లోక సందర్భంలో 'భావనా' అను పదం దేనిని సూచిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "Deep, unbroken meditation, intent contemplation, or pursuit of Self-knowledge (Jñāna-niṣṭhā / Ātma-dhyāna).",
+        "te": "గాఢమైన, నిరంతరమైన ఆత్మధ్యానము / పరమాత్మ చింతన / జ్ఞాననిష్ఠ.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Emotional daydreams and romantic fantasies about worldly life.",
+        "te": "లౌకిక జీవితం గురించిన భావోద్వేగ పగటికలలు, కల్పనలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Physical exercise performed in a gymnasium.",
+        "te": "వ్యాయామశాలలో చేసే శారీరక వ్యాయామము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The mechanical recitation of ritualistic incantations.",
+        "te": "యంత్రవత్తుగా చేసే కర్మకాండల మంత్ర పఠనము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedantic commentaries (e.g., Shankara), 'Bhāvanā' means 'Ātma-jñāna-abhiniveśaḥ'—the earnest application of mind toward Self-realization. An 'Ayukta' (one lacking mental integration) cannot sustain this inward focus, leading to the absence of peace. — Bhagavad Gita (2.66)",
+      "te": "శంకరాచార్యుల వ్యాఖ్యానం ప్రకారం 'భావనా' అనగా ఆత్మజ్ఞాన నిష్ఠ / నిరంతర ఆత్మచింతన. ఇంద్రియ నిగ్రహం లేని అయుక్తునికి ఇటువంటి అంతర్ముఖ ధ్యానభావన కుదరదు, తద్వారా శాంతి లభించదు. — భగవద్గీత (2.66)"
+    }
+  },
+  {
+    "id": "bg-2-66-q4",
+    "verse": { "c": 2, "s": 66 },
+    "concept": ["Sanskrit Vocabulary - Unintegrated, Contemplation, Restless"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'ayuktasya', 'bhāvanā', 'śāntiḥ', and 'aśāntasya' mean in verse 2.66?",
+      "te": "2.66 శ్లోకంలోని 'అయుక్తస్య', 'భావనా', 'శాంతిః', మరియు 'అశాంతస్య' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Ayuktasya = Of the unintegrated / uncontrolled person; Bhāvanā = Contemplation / meditation; Śāntiḥ = Peace / calmness; Aśāntasya = Of the restless / peaceless person.",
+        "te": "అయుక్తస్య = ఇంద్రియ నిగ్రహం/చిత్తైకాగ్రత లేనివానికి; భావనా = ఆత్మచింతన/ధ్యానభావన; శాంతిః = ప్రశాంతత; అశాంతస్య = ప్రశాంతత లేని అశాంత హృదయునికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Ayuktasya = Of the victorious king; Bhāvanā = Building; Śāntiḥ = Wealth; Aśāntasya = Of the dead man.",
+        "te": "అయుక్తస్య = విజయవంతమైన రాజుకి; భావనా = భవనము; శాంతిః = సంపద; అశాంతస్య = మరణించిన వానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Ayuktasya = Of the scholar; Bhāvanā = Speech; Śāntiḥ = Food; Aśāntasya = Of the child.",
+        "te": "అయుక్తస్య = పండితునికి; భావనా = ప్రసంగము; శాంతిః = ఆహారము; అశాంతస్య = బాలునికి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Ayuktasya = Of the enemy; Bhāvanā = Weapon; Śāntiḥ = War; Aśāntasya = Of the strong man.",
+        "te": "అయుక్తస్య = శత్రువుకి; భావనా = ఆయుధము; శాంతిః = యుద్ధము; అశాంతస్య = బలవంతునికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'A-' (not) + 'yukta' (integrated/disciplined) in Genitive Singular = 'Ayuktasya' (of the undisciplined). 'Bhāvanā' = inner meditation/contemplation. 'Śāntiḥ' = inner peace. 'Aśāntasya' = Genitive Singular of 'aśānta' (of one without peace). — Bhagavad Gita (2.66)",
+      "te": "'అ' + 'యుక్త' శబ్ద షష్ఠీ ఏకవచనం 'అయుక్తస్య' (ఇంద్రియ నిగ్రహం లేనివానికి). 'భావనా' అనగా అంతర్ముఖ ధ్యానము. 'శాంతిః' అనగా ప్రశాంతత. 'అశాంత' శబ్ద షష్ఠీ ఏకవచనం 'అశాంతస్య' (శాంతి లేనివానికి). — భగవద్గీత (2.66)"
+    }
+  },
+  {
+    "id": "bg-2-66-q5",
+    "verse": { "c": 2, "s": 66 },
+    "concept": ["Sanskrit Grammar - Negative Participles & Interrogative Kutaḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical role of 'abhāvayataḥ' and 'kutaḥ' in verse 2.66:",
+      "te": "2.66 శ్లోకంలోని 'అభావయతః' మరియు 'కుతః' అనే పదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Abhāvayataḥ = Genitive Singular Masculine of negative Present Active Participle 'abhāvayat' (of one who does not contemplate); Kutaḥ = Interrogative adverb of origin/source derived from 'kim' with suffix 'tasil' (from where? / how can there be?).",
+        "te": "అభావయతః = 'అ' + 'భావయత్' అనే వ్యతిరేక వర్తమాన విశేషణ షష్ఠీ ఏకవచన పుంలింగ రూపం ('ఆత్మచింతన చేయనివానికి'); కుతః = 'కిమ్' శబ్దానికి 'తసిల్' ప్రత్యయం చేరగా ఏర్పడిన ప్రశ్నార్థక వ్యయ రూపం ('ఎక్కడి నుండి? / ఎలా సాధ్యం?').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Abhāvayataḥ = Nominative Plural Noun; Kutaḥ = Verb in imperative mood.",
+        "te": "అభావయతః = ప్రథమా బహువచన నామవాచకం; కుతః = ఆజ్ఞార్థక క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Abhāvayataḥ = Instrumental Singular Noun; Kutaḥ = Past tense verb.",
+        "te": "అభావయతః = తృతీయా ఏకవచన నామవాచకం; కుతః = భూతకాల క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Abhāvayataḥ = Future participle; Kutaḥ = Adjective.",
+        "te": "అభావయతః = భవిష్యత్కాల విశేషణం; కుతః = విశేషణము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Abhāvayataḥ' is the Genitive Singular of the negative present active participle 'abhāvayat' (from 'bhāvi' / 'bhū' causal: of one who does not cultivate meditation). 'Kutaḥ' is an interrogative adverb meaning 'whence / from where', emphatically denying the possibility of happiness for an unpeaceful mind. — Bhagavad Gita (2.66)",
+      "te": "'అభావయత్' అనే నిరాకరణాత్మక వర్తమాన విశేషణ షష్ఠీ ఏకవచనం 'అభావయతః' (ధ్యానం చేయనివానికి). 'కుతః' అనే ప్రశ్నార్థక అవ్యయం 'ఎక్కడి నుండి వస్తుంది?' అంటూ అశాంత చిత్తునికి సుఖం అసాధ్యమని నొక్కిచెబుతోంది. — భగవద్గీత (2.66)"
+    }
+  },
+  {
+    "id": "bg-2-66-q6",
+    "verse": { "c": 2, "s": 66 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'nāsti', 'buddhirayuktasya', and 'śāntiraśāntasya' in verse 2.66:",
+      "te": "2.66 శ్లోకంలోని 'నాస్తి', 'బుద్ధిరయుక్తస్య', మరియు 'శాంతిరశాంతస్య' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Na + asti -> nāsti (Savarna-dirgha Sandhi); buddhiḥ + ayuktasya -> buddhir ayuktasya (Visarga Rutva Sandhi); śāntiḥ + aśāntasya -> śāntir aśāntasya (Visarga Rutva Sandhi).",
+        "te": "న + అస్తి -> నాస్తి (సవర్ణదీర్ఘ సంధి); బుద్ధిః + అయుక్తస్య -> బుద్ధిరయుక్తస్య (విసర్గ రుత్త్వ సంధి: 'ఇ' తర్వాత విసర్గ 'ర్' గా మారినది); శాంతిః + అశాంతస్య -> శాంతిరశాంతస్య (విసర్గ రుత్త్వ సంధి: 'ఇ' తర్వాత విసర్గ 'ర్' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Na + asti -> nesti; buddhi + ayuktasya -> buddhiayuktasya; śānti + aśāntasya -> śāntiaśāntasya",
+        "te": "న + అస్తి -> నేస్తి; బుద్ధి + అయుక్తస్య -> బుద్ధిఅయుక్తస్య; శాంతి + అశాంతస్య -> శాంతిఅశాంతస్య",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nam + asti -> namasti; buddhim + ayuktasya -> buddhimayuktasya; śāntim + aśāntasya -> śāntimaśāntasya",
+        "te": "నమ్ + అస్తి -> నమస్తి; బుద్ధిమ్ + అయుక్తస్య -> బుద్ధిమయుక్తస్య; శాంతిమ్ + అశాంతస్య -> శాంతిమశాంతస్య",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Ne + asti -> ne'sti; buddhe + ayuktasya -> buddhe'yuktasya; śānte + aśāntasya -> śānte'śāntasya",
+        "te": "నే + అస్తి -> నేఽస్తి; బుద్ధే + అయుక్తస్య -> బుద్ధేఽయుక్తస్య; శాంతే + అశాంతస్య -> శాంతేఽశాంతస్య",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Na' + 'asti': 'a' + 'a' -> 'ā' via Savarna-dirgha Sandhi -> 'nāsti'. 2. 'Buddhiḥ' + 'ayuktasya': visarga converts to 'r' before vowel 'a' via Visarga Rutva Sandhi -> 'buddhir ayuktasya'. 3. 'Śāntiḥ' + 'aśāntasya': visarga converts to 'r' before vowel 'a' via Visarga Rutva Sandhi -> 'śāntir aśāntasya'. — Bhagavad Gita (2.66)",
+      "te": "1. 'న' + 'అస్తి' = నాస్తి (సవర్ణదీర్ఘ సంధి). 2. 'బుద్ధిః' + 'అయుక్తస్య' = బుద్ధిరయుక్తస్య (విసర్గ రుత్త్వ సంధి). 3. 'శాంతిః' + 'అశాంతస్య' = శాంతిరశాంతస్య (విసర్గ రుత్త్వ సంధి). — భగవద్గీత (2.66)"
+    }
+  }
+]

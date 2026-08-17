@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-59-q1",
+    "verse": { "c": 2, "s": 59 },
+    "concept": ["Verse Meaning & Suppression vs Supreme Realization"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.59?\n\n“viṣayā vinivartante nirāhārasya dehinaḥ | rasavarjaṃ raso'pyasya paraṃ dṛṣṭvā nivartate”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“విషయా వినివర్తంతే నిరాహారస్య దేహినః | రసవర్జం రసోఽప్యస్య పరం దృష్ట్వా నివర్తతే”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — The objects of sense enjoyment recede from an embodied soul who abstains from sensory intake, but the subtle taste (inner longing) for them remains. However, even this subtle taste vanishes upon realizing the Supreme.",
+        "te": "శ్రీభగవానుడు పలికెను — విషయ భోగాలను ఆస్వాదించడం మానివేసిన (నిరాహారియైన) దేహి నుండి భౌతిక విషయాలు తొలగిపోతాయి గానీ, వాటిపట్ల ఉండే సూక్ష్మమైన 'రసము' (అంతర్గత అనురాగము/తృష్ణ) మాత్రం నశించదు. కానీ పరమాత్మను (పరబ్రహ్మమును) దర్శించిన తర్వాత/అనుభవించిన తర్వాత ఆ అంతర్గత రసము (తృష్ణ) కూడా పూర్తిగా నశించిపోతుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Physical fasting automatically destroys all inner desires, so a seeker needs no higher spiritual realization.",
+        "te": "శ్రీభగవానుడు పలికెను — శారీరక ఉపవాసం అనేది మనస్సులోని సమస్త కోరికలను స్వయంచాలకంగా నాశనం చేస్తుంది, కాబట్టి సాధకుడికి ఎలాంటి ఆత్మసాక్షాత్కారమూ అవసరం లేదు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Beholding the Supreme Paramatman increases one's craving for material sense enjoyments rather than destroying it.",
+        "te": "శ్రీభగవానుడు పలికెను — పరమాత్మను దర్శించడం వల్ల భౌతిక ఇంద్రియ భోగాల పట్ల ఆరాటం నశించకపోగా మరింత పెరుగుతుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Sense objects never recede from any living person, even after attaining Moksha.",
+        "te": "శ్రీభగవానుడు పలికెను — మోక్షాన్ని సాధించిన తర్వాత కూడా జీవుడి నుండి విషయ భోగాలు ఏనాటికీ తొలగిపోవు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Viṣayā vinivartante nirāhārasya dehinaḥ / rasa-varjaṃ raso 'py asya paraṃ dṛṣṭvā nivartate.\" Krishna explains the psychological difference between forced physical abstinence ('nirāhāra') and true spiritual liberation. Forcible restraint causes sense objects ('viṣayāḥ') to turn away, but the latent mental craving ('rasaḥ') persists. Only when the individual beholds the Supreme Reality ('paraṃ dṛṣṭvā') does this residual inner desire drop away permanently ('raso 'pi nivartate'). — Bhagavad Gita (2.59)",
+      "te": "బలవంతపు శారీరక నిగ్రహానికి ('నిరాహారస్య'), నిజాత్మ సాక్షాత్కారానికి గల మానసిక వ్యత్యాసాన్ని శ్రీకృష్ణుడు ఇక్కడ స్పష్టం చేశాడు. భౌతికంగా విషయాలను వదిలేసినప్పుడు విషయాలు ('విషయాః') దూరమవుతాయి గానీ, మనస్సులో ఉండే లోతైన తృష్ణ లేదా ఆరాటము ('రసః') అలానే ఉండిపోతుంది. పరమాత్మ అనుభూతి ('పరమ్ దృష్ట్వా') పొందినప్పుడు మాత్రమే ఆ సూక్ష్మ రసము కూడా శాశ్వతంగా తొలగిపోతుంది ('రసోఽపి నివర్తతే'). — భగవద్గీత (2.59)"
+    }
+  },
+  {
+    "id": "bg-2-59-q2",
+    "verse": { "c": 2, "s": 59 },
+    "concept": ["Philosophical Concept - Rasa (Subtle Craving/Taste)"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the technical Vedantic term 'Rasaḥ' signify in verse 2.59?",
+      "te": "2.59 శ్లోకంలో ప్రయోగించబడిన 'రసః' అనే సాంకేతిక వేదాంత పదం యొక్క విశేష అంతరార్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "The latent mental impression (Samskara/Attachment), subtle craving, or psychological taste for sense enjoyment that lingers even after outer physical contact has stopped.",
+        "te": "బాహ్యంగా శారీరక అనుభవాన్ని విడిచిపెట్టినప్పటికీ... అంతరంగంలో (మనస్సులో) మిగిలి ఉండే ఇంద్రియ భోగాల పట్ల గల సూక్ష్మ తృష్ణ, అనురాగము, లేదా మానసిక సంస్కారము/చాపల్యము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The physical taste buds on the human tongue used for tasting food.",
+        "te": "ఆహారాన్ని రుచి చూడటానికి నాలుకపై ఉండే భౌతిక రుచి గ్రంథులు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The sweet liquid or juice extracted from fruits during Vedic rituals.",
+        "te": "వేద యజ్ఞాలలో పండ్ల నుండి తీసే తీపి రసము లేదా ద్రవము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Poetic sentiment used in theatrical performances.",
+        "te": "నాటక ప్రదర్శనలలో ఉపయోగించే కావ్య రసము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Gita terminology, 'Rasa' refers to subtle inner attachment (Rāga / Vāsanā). Physical fasting or restraint ('nirāhāra') creates 'rasa-varjam'—leaving this subtle taste behind. Only the higher spiritual taste of Brahman ('paraṃ dṛṣṭvā') can completely displace and dissolve this lower material taste. — Bhagavad Gita (2.59)",
+      "te": "గీతా పరిభాషలో 'రసః' అనగా మనస్సులోని సూక్ష్మ మమకారము / రాగము / వాసన. కేవలం ఉపవాసం లేదా ఇంద్రియ నిగ్రహం చేసినప్పుడు 'రసవర్జమ్' జరుగుతుంది (సూక్ష్మ రసము మిగిలిపోతుంది). బ్రహ్మానంద అనుభూతి అనే అత్యున్నత రసము ('పరమ్ దృష్ట్వా') లభించినప్పుడు మాత్రమే ఈ తక్కువ స్థాయి భౌతిక రసము పూర్తిగా తొలగిపోతుంది. — భగవద్గీత (2.59)"
+    }
+  },
+  {
+    "id": "bg-2-59-q3",
+    "verse": { "c": 2, "s": 59 },
+    "concept": ["Epistemic Process - Paraṃ Dṛṣṭvā Nivartate"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What spiritual truth is conveyed by the phrase 'Paraṃ dṛṣṭvā nivartate' in verse 2.59?",
+      "te": "2.59 శ్లోకంలోని 'పరం దృష్ట్వా నివర్తతే' అనే ప్రసిద్ధ వాక్యాంశం ద్వారా ఏ ఆధ్యాత్మిక సత్యం బోధించబడింది?"
+    },
+    "choices": [
+      {
+        "en": "That lower worldly cravings drop away permanently not by mere willpower or suppression, but by experiencing the infinitely superior bliss (Param) of the Supreme Self.",
+        "te": "కేవలం సంకల్ప బలంతో లేదా అణచివేతతో కాకుండా... పరమాత్మ యొక్క నిరతిశయ, అత్యున్నత ఆనందాన్ని ('పరమ్') అనుభవపూర్వకంగా దర్శించినప్పుడు మాత్రమే లౌకిక నీచ కోరికలు శాశ్వతంగా నశిస్తాయి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "That looking at physical gods in temples removes all bodily diseases.",
+        "te": "దేవాలయాలలో భౌతిక దేవతా విగ్రహాలను చూడటం వల్ల శారీరక రోగాలన్నీ నశిస్తాయి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "That seeing the enemy army on the battlefield makes a warrior retreat.",
+        "te": "రణరంగంలో శత్రు సైన్యాన్ని చూడగానే యోధుడు వెనక్కి తిరిగి పారిపోతాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "That reading scriptures once is enough to grant physical immortality.",
+        "te": "ఒక్కసారి శాస్త్రాలను చదవడం వల్ల భౌతిక అమరత్వం లభిస్తుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Para' means the Supreme (Ātman/Brahman); 'dṛṣṭvā' means having directly experienced/realized. The human mind drops a lesser pleasure only when it experiences a far higher pleasure. When the infinite bliss of Brahman is realized, lower worldly attachments ('rasaḥ') wither away effortlessly ('nivartate'). — Bhagavad Gita (2.59)",
+      "te": "'పర' అనగా అత్యున్నతమైన పరమాత్మ; 'దృష్ట్వా' అనగా ప్రత్యక్షంగా అనుభవించి/దర్శించి. మనిషి మనస్సు ఒక అల్ప సుఖాన్ని వదలాలంటే దానికంటే అత్యున్నతమైన ఆనందం లభించాలి. అనంతమైన బ్రహ్మానందం సిద్ధించినప్పుడు, అల్ప భౌతిక కోరికలు ('రసః') స్వయంచాలకంగా విడిపోతాయి ('నివర్తతే'). — భగవద్గీత (2.59)"
+    }
+  },
+  {
+    "id": "bg-2-59-q4",
+    "verse": { "c": 2, "s": 59 },
+    "concept": ["Sanskrit Vocabulary - Abstain, Objects, Turn Away"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit phrases 'nirāhārasya', 'vinivartante', and 'rasa-varjam' mean in verse 2.59?",
+      "te": "2.59 శ్లోకంలోని 'నిరాహారస్య', 'వినివర్తంతే', మరియు 'రసవర్జమ్' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Nirāhārasya = Of the embodied soul who abstains from sensory intake / food; Vinivartante = Turn away / recede; Rasa-varjam = Excluding the subtle taste / except the inner longing.",
+        "te": "నిరాహారస్య = ఇంద్రియ ఆహారాన్ని/విషయాలను ఆస్వాదించని నిరాహారియైన దేహికి; వినివర్తంతే = సంపూర్ణంగా తొలగిపోవును/వెనక్కి తగ్గును; రసవర్జమ్ = సూక్ష్మమైన రుచి/ఆరాటము తప్పించి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nirāhārasya = Of a king; Vinivartante = Increase; Rasa-varjam = Full of juice.",
+        "te": "నిరాహారస్య = రాజు యొక్క; వినివర్తంతే = పెరుగును; రసవర్జమ్ = రసంతో నిండినది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nirāhārasya = Of a warrior; Vinivartante = Attack; Rasa-varjam = Poisonous.",
+        "te": "నిరాహారస్య = యోధుని యొక్క; వినివర్తంతే = దాడి చేయును; రసవర్జమ్ = విషపూరితమైనది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nirāhārasya = Of an ignorant person; Vinivartante = Sleep; Rasa-varjam = Bitter taste.",
+        "te": "నిరాహారస్య = అజ్ఞాని యొక్క; వినివర్తంతే = నిద్రపోవును; రసవర్జమ్ = చేదు రుచి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Nir-' (without) + 'āhāra' (intake/food) in Genitive Singular = 'Nirāhārasya' (of one who refrains from sensory intake). 'Vi-' + 'ni-' + 'vartante' = 'Vinivartante' (recede completely). 'Rasa' (taste/longing) + 'varjam' (excluding) = 'Rasa-varjam' (leaving the subtle craving behind). — Bhagavad Gita (2.59)",
+      "te": "'నిర్' (లేని) + 'ఆహార' (స్వీకరణ) శబ్ద షష్ఠీ ఏకవచనం 'నిరాహారస్య' (ఇంద్రియ విషయాలను స్వీకరించనివానికి). 'వి' + 'ని' + 'వర్తంతే' = వినివర్తంతే (తొలగిపోవును). 'రస' (తృష్ణ) + 'వర్జమ్' (మినహాయించి) = రసవర్జమ్ (సూక్ష్మ తృష్ణ తప్పించి). — భగవద్గీత (2.59)"
+    }
+  },
+  {
+    "id": "bg-2-59-q5",
+    "verse": { "c": 2, "s": 59 },
+    "concept": ["Sanskrit Grammar - Absolutive Participle 'Dṛṣṭvā' & Verb 'Nivartate'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'dṛṣṭvā' and 'nivartate' in verse 2.59:",
+      "te": "2.59 శ్లోకంలోని 'దృష్ట్వా' మరియు 'నివర్తతే' అనే పదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Dṛṣṭvā = Ktvā-gerund / Absolutive form from root 'dṛś' (having seen / realized); Nivartate = 3rd person singular Present indicative Ātmanepada (Laṭ-lakāra) from root 'vṛt' with prefix 'ni' (it ceases / turns away).",
+        "te": "దృష్ట్వా = 'దృశ్' (చూచు/దర్శించు) ధాతువు యొక్క క్త్వాంత (Absolutive) రూపం ('సందర్శించి/అనుభూతి చెంది'); నివర్తతే = 'ని' ఉపసర్గతో 'వృత్' (వర్తించు/ఉండు) ధాతువు లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ఏకవచన ఆత్మనేపద రూపం ('తొలగిపోవును/నశించును').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dṛṣṭvā = Future verb; Nivartate = Past tense verb.",
+        "te": "దృష్ట్వా = భవిష్యత్కాల క్రియ; నివర్తతే = భూతకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Dṛṣṭvā = Imperative verb; Nivartate = Present participle.",
+        "te": "దృష్ట్వా = ఆజ్ఞార్థక క్రియ; నివర్తతే = వర్తమాన విశేషణం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dṛṣṭvā = Infinitive form; Nivartate = Passive verb.",
+        "te": "దృష్ట్వా = తుమున్నంత రూపం; నివర్తతే = కర్మణి క్రియ.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Dṛṣṭvā' (having perceived/realized) is the prior condition. 'Nivartate' agrees with subject 'rasaḥ' (the subtle taste turns away/ceases): 'paraṃ dṛṣṭvā raso 'pi nivartate' = 'having realized the Supreme, even the subtle craving turns away'. — Bhagavad Gita (2.59)",
+      "te": "'దృష్ట్వా' (దర్శించిన తర్వాత) అనేది పూర్వకాల క్రియ. 'నివర్తతే' అనేది 'రసః' (సూక్ష్మ తృష్ణ) అనే ప్రథమా ఏకవచన కర్తతో చేరి 'పరం దృష్ట్వా రసః అపి నివర్తతే' (పరమాత్మను దర్శించగానే ఆ తృష్ణ కూడా తొలగిపోతుంది) అని నిలిచింది. — భగవద్గీత (2.59)"
+    }
+  },
+  {
+    "id": "bg-2-59-q6",
+    "verse": { "c": 2, "s": 59 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'raso'pyasya' in verse 2.59:",
+      "te": "2.59 శ్లోకంలోని 'రసోఽప్యస్య' (రసః + అపి + అస్య) అనే పదం యొక్క సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Rasaḥ + api -> raso 'pi (Visarga Uttva & Pūrvarūpa Sandhi); api + asya -> apyasya (Yan Sandhi: 'i' before 'a' -> 'y').",
+        "te": "రసః + అపి -> రసోఽపి (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు); అపి + అస్య -> అప్యస్య (యణాదేశ సంధి: 'ఇ' కారానికి అచ్చు 'అ' పరమైనప్పుడు 'య్' ఆదేశమైనది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Rasa + api -> rasāpi; api + asya -> apāsya",
+        "te": "రస + అపి -> రసాపి; అపి + అస్య -> అపాస్య",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Rasam + api -> rasamapi; api + asya -> apimasya",
+        "te": "రసమ్ + అపి -> రసమపి; అపి + అస్య -> అపిమస్య",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Rase + api -> rase'pi; api + asya -> ape'sya",
+        "te": "రసే + అపి -> రసేఽపి; అపి + అస్య -> అపేఽస్య",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Rasaḥ' (subtle taste) + 'api' (even): visarga preceded by 'a' transforms to 'o' and initial 'a' becomes Avagraha via Visarga Uttva and Pūrvarūpa Sandhi -> 'raso 'pi'. 2. 'Api' + 'asya' (of him): final short 'i' transforms to 'y' before initial 'a' via Yan Sandhi -> 'apyasya'. Combined: 'raso 'py asya'. — Bhagavad Gita (2.59)",
+      "te": "1. 'రసః' + 'అపి' లలో 'అ' తర్వాత ఉన్న విసర్గ ఉత్త్వ, పూర్వరూప సంధుల ద్వారా 'రసోఽపి' అయినది. 2. 'అపి' + 'అస్య' లలో అచ్చు 'అ' ముందు 'ఇ' కారానికి 'య్' వచ్చి (యణాదేశ సంధి) 'అప్యస్య' అయినది. రెండూ కలసి 'రసోఽప్యస్య' అని సిద్ధించింది. — భగవద్గీత (2.59)"
+    }
+  }
+]

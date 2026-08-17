@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-22-q1",
+    "verse": { "c": 2, "s": 22 },
+    "concept": ["Verse Meaning & The Garment Analogy"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.22?\n\n“vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro'parāṇi | tathā śarīrāṇi vihāya jīrṇānyanyāni saṃyāti navāni dehī”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“వాసాంసి జీర్ణాని యథా విహాయ నవాని గృహ్ణాతి నరోఽపరాణి | తథా శరీరాణి విహాయ జీర్ణాల్యాన్యాని సంయాతి నవాని దేహీ”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Just as a person casts off worn-out garments and puts on other new ones, so the embodied Soul casts off worn-out bodies and enters into other new ones.",
+        "te": "శ్రీభగవానుడు పలికెను — మనుష్యుడు చిరిగిపోయిన (పాతబడిన) వస్త్రాలను విడిచిపెట్టి కొత్త వస్త్రాలను ఏ విధంగా ధరిస్తాడో, అలాగే దేహియైన ఆత్మ కూడా శిథిలమైపోయిన పాత శరీరాలను వదిలిపెట్టి కొత్త శరీరాలను ప్రవేశిస్తుంది (ధరిస్తుంది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — A person who changes his physical clothes daily achieves spiritual purity and avoids entering new physical bodies.",
+        "te": "శ్రీభగవానుడు పలికెను — రోజువారీగా భౌతిక వస్త్రాలను మార్చుకునే మనుష్యుడు ఆధ్యాత్మిక పవిత్రతను పొంది, కొత్త భౌతిక శరీరాలలోకి ప్రవేశించకుండా తప్పుకుంటాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Just as garments decay when exposed to weather, the Soul gradually degrades and loses its light across multiple births.",
+        "te": "శ్రీభగవానుడు పలికెను — వాతావరణానికి గురైనప్పుడు దుస్తులు క్షీణించినట్లే, అనేక జన్మల ద్వారా ఆత్మ క్రమంగా క్షీణించి తన తేజస్సును కోల్పోతుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Physical bodies are eternal garments given by the Supreme Soul, which are renewed only after achieving liberation.",
+        "te": "శ్రీభగవానుడు పలికెను — భౌతిక శరీరాలు పరమాత్మ ఇచ్చిన శాశ్వతమైన వస్త్రాలు, అవి మోక్షం సాధించిన తర్వాత మాత్రమే పునరుద్ధరించబడతాయి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro 'parāṇi / tathā śarīrāṇi vihāya jīrṇāny anyāni saṃyāti navāni dehī.\" Krishna compares the physical body to outer clothing ('vāsāṃsi'). Death is merely the discarding of worn-out garments ('jīrṇāni śarīrāṇi'), while rebirth is the assumption of new attire ('navāni śarīrāṇi') by the constant, unaffected indweller ('dehī'). — Bhagavad Gita (2.22)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ శరీరాన్ని పై తొడుగు వస్త్రంతో ('వాసాంసి') పోల్చాడు. మరణం అనేది జీర్ణమైపోయిన పాత వస్త్రాన్ని త్యజించడం ('జీర్ణాని శరీరాణి విహాయ') మాత్రమే; పునర్జన్మ అనేది ఆత్మ ('దేహీ') కొత్త వస్త్రాన్ని ప్రవేశించడం ('నవాని సంయాతి') వంటిదే. — భగవద్గీత (2.22)"
+    }
+  },
+  {
+    "id": "bg-2-22-q2",
+    "verse": { "c": 2, "s": 22 },
+    "concept": ["Philosophical Analogy - Body as Clothes"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What fundamental spiritual truth about death and rebirth is conveyed through the garment metaphor ('vāsāṃsi') in verse 2.22?",
+      "te": "2.22 శ్లోకంలో వస్త్రాల ఉపమానం ('వాసాంసి') ద్వారా మరణము, పునర్జన్మల గురించి ఏ ప్రాథమిక ఆధ్యాత్మిక సత్యం వెల్లడించబడింది?"
+    },
+    "choices": [
+      {
+        "en": "That the Soul is completely distinct from the physical body; shedding a body does not alter or destroy the wearer (Ātman) any more than changing clothes alters the person.",
+        "te": "ఆత్మ భౌతిక దేహం కంటే సంపూర్ణంగా వేరైనదని; వస్త్రాలు మార్చడం వల్ల మనిషికి ఎటువంటి వికారం కలగనట్లే, శరీరం నశించడం వల్ల దేహియైన ఆత్మకు ఎటువంటి నాశనమూ ఉండదని.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "That one should focus on asceticism and wear only discarded rags to achieve spiritual enlightenment.",
+        "te": "ఆధ్యాత్మిక జ్ఞానాన్ని పొందడానికి సన్యాస ధర్మాన్ని పాటిస్తూ కేవలం పాత వస్త్రాలను మాత్రమే ధరించాలని.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "That the type of new body one receives is determined randomly without any connection to past actions.",
+        "te": "పూర్వ కర్మలతో సంబంధం లేకుండా కొత్త శరీరం యాదృచ్ఛికంగా లభిస్తుందని.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "That the Soul changes its form six times every day just as humans change clothes for different activities.",
+        "te": "మనుష్యులు పనులను బట్టి బట్టలు మార్చుకున్నట్లే ఆత్మ కూడా ప్రతిరోజూ ఆరుసార్లు తన రూపాన్ని మార్చుకుంటుందని.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The garment analogy establishes the non-identity of the Ātman with the body. Clothes are external, temporary, removable, and subject to wear and tear. The wearer remains unchanged throughout the change of garments. Similarly, the Ātman remains untouched through physical birth and death. — Bhagavad Gita (2.22)",
+      "te": "వస్త్రము బాహ్యమైనది, తాత్కాలికమైనది, తొలగించదగినది. వస్త్రం మారినంత మాత్రాన ధరించిన వ్యక్తి మారడు. అలాగే దేహాలు మారుతున్నప్పటికీ లోపల ఉన్న దేహియైన ఆత్మ ఎల్లప్పుడూ వికారరహితంగా, మార్పులేకుండా ఉంటుంది. — భగవద్గీత (2.22)"
+    }
+  },
+  {
+    "id": "bg-2-22-q3",
+    "verse": { "c": 2, "s": 22 },
+    "concept": ["Structural Correlation - Metaphor Alignment"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "In verse 2.22, how do the terms in the first half of the metaphor correspond to the terms in the second half?",
+      "te": "2.22 శ్లోకంలో పూర్వార్ధంలో చెప్పిన ఉపమాన పదాలు ఉత్తరార్ధంలోని ఏ తత్త్వ పదాలతో సరిగ్గా సరిపోలుతాయి?"
+    },
+    "choices": [
+      {
+        "en": "Vāsāṃsi (Garments) = Śarīrāṇi (Bodies); Naraḥ (Person/wearer) = Dehī (Embodied Soul); Vihāya (Discarding) = Vihāya (Casting off); Navāni (New ones) = Navāni (New bodies).",
+        "te": "వాసాంసి (వస్త్రాలు) = శరీరాణి (దేహాలు); నరః (ధరించిన మనిషి) = దేహీ (ఆత్మ); విహాయ (త్యజించి) = విహాయ (విడిచిపెట్టి); నవాని (కొత్తవి) = నవాని (కొత్త దేహాలు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Vāsāṃsi = Minds; Naraḥ = Gods; Vihāya = Meditating; Navāni = Heavens.",
+        "te": "వాసాంసి = మనస్సులు; నరః = దేవతలు; విహాయ = ధ్యానించి; నవాని = స్వర్గాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Vāsāṃsi = Actions; Naraḥ = Kings; Vihāya = Fighting; Navāni = Kingdoms.",
+        "te": "వాసాంసి = కర్మలు; నరః = రాజులు; విహాయ = పోరాడి; నవాని = రాజ్యాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vāsāṃsi = Weapons; Naraḥ = Warriors; Vihāya = Shooting; Navāni = Targets.",
+        "te": "వాసాంసి = ఆయుధాలు; నరః = యోధులు; విహాయ = ప్రయోగించి; నవాని = లక్ష్యాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The verse is constructed with flawless parallel symmetry: 'vāsāṃsi jīrṇāni' (worn-out clothes) mirrors 'śarīrāṇi jīrṇāni' (worn-out bodies); 'naraḥ' (the human subject) mirrors 'dehī' (the Soul); 'gṛhṇāti navāni' (accepts new ones) mirrors 'saṃyāti navāni' (enters new ones). — Bhagavad Gita (2.22)",
+      "te": "ఈ శ్లోకంలో అద్భుతమైన సమాంతర అమరిక ఉంది: 'వాసాంసి జీర్ణాని' (పాత బట్టలు) = 'శరీరాణి జీర్ణాని' (పాత శరీరాలు); 'నరః' (మనిషి) = 'దేహీ' (ఆత్మ); 'గృహ్ణాతి నవాని' (కొత్తవి ధరించుట) = 'సంయాతి నవాని' (కొత్త వాటిలో ప్రవేశించుట). — భగవద్గీత (2.22)"
+    }
+  },
+  {
+    "id": "bg-2-22-q4",
+    "verse": { "c": 2, "s": 22 },
+    "concept": ["Sanskrit Vocabulary - Garments & Transmigration"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'jīrṇāni' and 'saṃyāti' mean in verse 2.22?",
+      "te": "2.22 శ్లోకంలోని 'జీర్ణాని' మరియు 'సంయాతి' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Jīrṇāni = Worn-out / decayed / old; Saṃyāti = Enters thoroughly / transitions into / acquires fully.",
+        "te": "జీర్ణాని = చిరిగిపోయినవి / పాతబడినవి / శిథిలమైనవి; సంయాతి = చక్కగా ప్రవేశించును / పొందును / గమనం చేయును.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Jīrṇāni = Clean / washed; Saṃyāti = Destroys.",
+        "te": "జీర్ణాని = ఉతికిన శుభ్రమైనవి; సంయాతి = నాశనం చేయును.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Jīrṇāni = Royal / golden; Saṃyāti = Flees away.",
+        "te": "జీర్ణాని = రాజసమైనవి/సువర్ణమయమైనవి; సంయాతి = పారిపోవును.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Jīrṇāni = Sacred; Saṃyāti = Mourns loudly.",
+        "te": "జీర్ణాని = పవిత్రమైనవి; సంయాతి = బిగ్గరగా శోకించును.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Jīrṇa' is the past participle of root 'jṝ' (to age/decay/wear out). Neuter plural: 'jīrṇāni' (worn-out clothes/bodies). 'Saṃyāti' is 'sam' (completely) + 'yāti' (goes/enters from root 'yā') = 'enters fully into'. — Bhagavad Gita (2.22)",
+      "te": "'జౄ' (వయసు మళ్లు/క్షీణించు) ధాతువు క్తాంత రూపం 'జీర్ణ'. దాని నపుంసకలింగ బహువచనం 'జీర్ణాని' (శిథిలమైనవి). 'సమ్' + 'యాతి' = సంయాతి (పూర్తిగా ప్రవేశించును). — భగవద్గీత (2.22)"
+    }
+  },
+  {
+    "id": "bg-2-22-q5",
+    "verse": { "c": 2, "s": 22 },
+    "concept": ["Sanskrit Grammar - Absolutive Gerund 'Vihāya'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of the word 'vihāya' in verse 2.22:",
+      "te": "2.22 శ్లోకంలో రెండుసార్లు వాడబడిన 'విహాయ' అనే పదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Indeclinable Gerund / Absolutive (Lyap-pratyaya) from root 'hā' (to leave / abandon / discard) with prefix 'vi', meaning 'having discarded / having cast off'.",
+        "te": "'హా' (విడిచిపెట్టు/త్యజించు) అనే ధాతువుకు 'వి' అనే ఉపసర్గ చేరగా ఏర్పడిన ల్యబంత రూపం (అవ్యయ క్త్వాంత/ల్యబంత క్రియా విశేషణం) — 'విడిచిపెట్టి / త్యజించి'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person singular present tense verb.",
+        "te": "ప్రథమ పురుష ఏకవచన వర్తమానకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nominative Singular noun.",
+        "te": "ప్రథమా విభక్తి ఏకవచన నామవాచకం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Future active participle.",
+        "te": "భవిష్యత్కాల వర్తమాన విశేషణం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vihāya' is a Lyap-anta indeclinable gerund formed from prefix 'vi' + root 'hā' (to abandon/discard). Because of the prefix 'vi-', the suffix 'ktvā' changes to 'ya' (Lyap), yielding 'vihāya' = 'having abandoned / after leaving'. — Bhagavad Gita (2.22)",
+      "te": "'వి' ఉపసర్గతో కూడిన 'హా' (త్యజించు) ధాతువుకు 'ల్యప్' प्रत्यయం చేరడం వల్ల 'విహాయ' (విడిచిపెట్టి) అనే అవ్యయ రూపం ఏర్పడింది. సమాస పూర్వ క్రియను సూచించడానికి ఇది వాడబడింది. — భగవద్గీత (2.22)"
+    }
+  },
+  {
+    "id": "bg-2-22-q6",
+    "verse": { "c": 2, "s": 22 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'naro'parāṇi' and 'jīrṇānyanyāni' in verse 2.22:",
+      "te": "2.22 శ్లోకంలోని 'నరోఽపరాణి' మరియు 'జీర్ణాల్యాన్యాని' (జీర్ణాన్యాన్యాని) అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Naraḥ + aparāṇi -> naro 'parāṇi (Visarga Uttva & Pūrvarūpa Sandhi); jīrṇāni + anyāni -> jīrṇāny anyāni (Yan Sandhi: 'i' before vowel 'a' becomes 'y').",
+        "te": "నరః + అపరాణి -> నరోఽపరాణి (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు); జీర్ణాని + అన్యాని -> జీర్ణాన్యాన్యాని (యణాదేశ సంధి: అచ్చు 'అ' ముందు 'ఇ' కారం 'య్' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nara + aparāṇi -> narāparāṇi; jīrṇāna + anyāni -> jīrṇānānyāni",
+        "te": "నర + అపరాణి -> నరాపరాణి; జీర్ణాన + అన్యాని -> జీర్ణానాన్యాని",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Naram + aparāṇi -> naramaparāṇi; jīrṇām + anyāni -> jīrṇāmanyāni",
+        "te": "నరమ్ + అపరాణి -> నరమపరాణి; జీర్ణామ్ + అన్యాని -> జీర్ణామన్యాని",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nare + aparāṇi -> nareparāṇi; jīrṇe + anyāni -> jīrṇe'nyāni",
+        "te": "నరే + అపరాణి -> నరేపరాణి; జీర్ణే + అన్యాని -> జీర్ణేఽన్యాని",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Naraḥ' (human being) + 'aparāṇi' (others): visarga preceded by 'a' and followed by 'a' becomes 'o', with initial 'a' converting to Avagraha -> 'naro 'parāṇi'. 2. 'Jīrṇāni' (worn-out ones) + 'anyāni' (others): final vowel 'i' converts to semi-vowel 'y' via Yan Sandhi before non-homogeneous vowel 'a', yielding 'jīrṇāny anyāni'. — Bhagavad Gita (2.22)",
+      "te": "1. 'నరః' + 'అపరాణి' లలో విసర్గ 'ఓ' గా మారి, పూర్వరూప సంధి ద్వారా అవగ్రహం వచ్చి 'నరోఽపరాణి' అయినది. 2. 'జీర్ణాని' + 'అన్యాని' లలో 'ఇ' కారం స్థానంలో 'య్' వచ్చే యణాదేశ సంధి జరిగి 'జీర్ణాన్యాన్యాని' అయినది. — భగవద్గీత (2.22)"
+    }
+  }
+]

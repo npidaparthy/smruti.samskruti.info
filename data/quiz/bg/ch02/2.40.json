@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-40-q1",
+    "verse": { "c": 2, "s": 40 },
+    "concept": ["Verse Meaning & The Safety of Buddhi Yoga"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.40?\n\n“nehābhikramanāśo'sti pratyavāyo na vidyate | svalpamapyasya dharmasya trāyate mahato bhayāt”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“నేహాభిక్రమనాశోఽస్తి ప్రత్యవాయో న విద్యతే | స్వల్పమప్యస్య ధర్మస్య త్రాయతే మహతో భయాత్”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — In this path of Karma Yoga, there is no loss of effort, nor is there any adverse result or sin incurred; even a tiny practice of this Dharma protects a person from the greatest fear.",
+        "te": "శ్రీభగవానుడు పలికెను — ఈ నిష్కామ కర్మయోగ మార్గంలో ప్రారంభించిన ప్రయత్నానికి నాశనమంటూ ఉండదు; విపరీతమైన పాపఫలము (ప్రత్యవాయము) కూడా కలగదు; ఈ ధర్మము కొద్దిగా ఆచరించబడినా అది మనుష్యుని మహా భయం (సంసార భయం/మరణ భయం) నుండి రక్షిస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Ritual sacrifices performed without correct Vedic pronunciation cause severe reverse results and spiritual degradation.",
+        "te": "శ్రీభగవానుడు పలికెను — సరియైన వేద మంత్రోచ్ఛారణ లేకుండా చేసే కామ్య యజ్ఞాలు తీవ్రమైన విపరీత ఫలితాలను, ఆధ్యాత్మిక పతనాన్ని కలిగిస్తాయి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — A warrior must complete the entire war to receive any spiritual merit, as partial effort yields zero results.",
+        "te": "శ్రీభగవానుడు పలికెను — యోధుడు ఆధ్యాత్మిక పుణ్యాన్ని పొందడానికి సమగ్ర యుద్ధాన్ని పూర్తి చేయాలి, ఎందుకంటే పాక్షిక ప్రయత్నం సున్నా ఫలితాన్ని ఇస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Fear on the battlefield is completely eliminated by worshipping physical weapons prior to engaging the enemy.",
+        "te": "శ్రీభగవానుడు పలికెను — శత్రువుతో పోరాడటానికి ముందు భౌతిక ఆయుధాలను పూజించడం ద్వారా రణరంగంలోని భయం పూర్తిగా తొలగిపోతుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Nehābhikrama-nāśo 'sti pratyavāyo na vidyate / svalpam apy asya dharmasya trāyate mahato bhayāt.\" Unlike ritualistic actions (Kāmya Karma), which fail completely if interrupted or produce sin if misperformed, Karma Yoga ('asya dharmasya') never wastes any effort ('na abhikrama-nāśaḥ') and has no negative side-effects ('pratyavāyo na vidyate'). Even a fraction of selfless practice rescues one from the great terror of Samsara ('mahato bhayāt'). — Bhagavad Gita (2.40)",
+      "te": "ఫలాపేక్షతో చేసే కామ్య కర్మలతో పోలిస్తే నిష్కామ కర్మయోగం ('అస్య ధర్మస్య') అత్యంత సురక్షితమైనది. కామ్య కర్మలలో భంగం వాటిల్లితే ఫలితం శూన్యమవుతుంది లేదా తప్పులు జరిగితే పాపం (ప్రత్యవాయం) వస్తుంది. కానీ కర్మయోగంలో చేసినంత వరకు పుణ్యఫలం స్థిరంగా ఉంటుంది ('న అభిక్రమ నాశః'). కొద్దిపాటి ఆచరణ కూడా భయంకరమైన సంసార భయాన్ని ('మహతో భయాత్') పోగొడుతుంది. — భగవద్గీత (2.40)"
+    }
+  },
+  {
+    "id": "bg-2-40-q2",
+    "verse": { "c": 2, "s": 40 },
+    "concept": ["Philosophical Distinction - Abhikrama-nāśa & Pratyavāya"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the technical Vedantic terms 'Abhikrama-nāśaḥ' and 'Pratyavāyaḥ' signify in verse 2.40?",
+      "te": "2.40 శ్లోకంలో సాంకేతిక వేదాంత పదాలైన 'అభిక్రమ నాశః' మరియు 'ప్రత్యవాయః' అనువాదాల ప్రత్యేక భావం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Abhikrama-nāśaḥ = Loss or cancellation of initial effort (like a half-built house being destroyed); Pratyavāyaḥ = Opposite / adverse karmic reaction or sin resulting from flaws in ritual execution.",
+        "te": "అభిక్రమ నాశః = ప్రారంభించిన ప్రయత్నం వ్యర్థమై నాశనం కావడం (పాక్షిక ప్రయత్నం వృథా కాకపోవడం); ప్రత్యవాయః = క్రతువులలో లోపాల వల్ల లేదా విపరీత ఫలితం వల్ల సంభవించే పాపము/దుష్ఫలితము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Abhikrama-nāśaḥ = Physical death in battle; Pratyavāyaḥ = Loss of worldly kingdom.",
+        "te": "అభిక్రమ నాశః = రణరంగంలో శారీరక మరణం; ప్రత్యవాయః = భౌతిక రాజ్యాన్ని కోల్పోవడం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Abhikrama-nāśaḥ = Forgetfulness of scriptures; Pratyavāyaḥ = Lack of physical strength.",
+        "te": "అభిక్రమ నాశః = శాస్త్రాలను మరిచిపోవడం; ప్రత్యవాయః = శారీరక బలం లేకపోవడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Abhikrama-nāśaḥ = Breaking of bowstrings; Pratyavāyaḥ = Defeat by enemy forces.",
+        "te": "అభిక్రమ నాశః = వింటినారి తెగిపోవడం; ప్రత్యవాయః = శత్రు సైన్యాల చేతిలో ఓటమి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedic ritualism (Sankalpa-based Karma), an incomplete ritual yields zero benefit ('abhikrama-nāśaḥ') and ritual errors produce sin ('pratyavāyaḥ'). In Karma Yoga, however, every selfless act accumulates spiritual Samskāra that is never lost, and because there is no egoic desire, no sin can ever be generated. — Bhagavad Gita (2.40)",
+      "te": "కామ్య యజ్ఞాలలో క్రతువు సగంలో ఆగిపోతే ఫలితం సున్నా అవుతుంది ('అభిక్రమ నాశః'). తప్పులు దొర్లితే పాపం ('ప్రత్యవాయః') వస్తుంది. కానీ కర్మయోగంలో ఏ కొద్ది ప్రయత్నం చేసినా అది సాధకుడి అకౌంట్‌లో పవిత్ర సంస్కారంగా నిలిచిపోతుంది తప్ప వీసమెత్తు కూడా వృథా కాదు, పాపాన్నీ తీసుకురాదు. — భగవద్గీత (2.40)"
+    }
+  },
+  {
+    "id": "bg-2-40-q3",
+    "verse": { "c": 2, "s": 30 },
+    "concept": ["Samsara Deliverance - Mahato Bhayāt"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the 'Mahat Bhayam' (great fear) from which even a small practice of Karma Yoga protects the practitioner in verse 2.40?",
+      "te": "2.40 శ్లోకంలో కర్మయోగాన్ని కొద్దిగా ఆచరించినా కూడా సాధకుడిని ఏ 'మహత్ భయమ్' (గొప్ప భయం) నుండి రక్షిస్తుందని భగవంతుడు అభయమిచ్చాడు?"
+    },
+    "choices": [
+      {
+        "en": "The terrifying, endless cycle of repeated birth, aging, disease, and death in the ocean of Samsara.",
+        "te": "సంసార చక్రంలో మరల మరలా సంభవించే జనన మరణ వృద్ధాప్య వ్యాధులనే అత్యంత భయంకరమైన సంసార భయం నుండి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The fear of losing material wealth and royal power to enemy armies.",
+        "te": "శత్రు సైన్యాల వల్ల భౌతిక సంపదను, రాజ్యాధికారాన్ని కోల్పోతామనే భయం నుండి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The fear of physical pain caused by enemy arrows during battle.",
+        "te": "యుద్ధ సమయంలో శత్రువుల బాణాల వల్ల కలిగే శారీరక గాయాల భయం నుండి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The fear of social dishonor and bad public reputation.",
+        "te": "సామాజిక అవమానము, దుష్కీర్తి కలుగుతుందేమోననే భయం నుండి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedantic commentaries (e.g., Shankara, Ramanuja), 'Mahat Bhayam' refers specifically to the fear of Samsara—the dark cycle of repeated transmigration. Even a small amount ('svalpam api') of Karma Yoga purifies the mind, setting the seeker firmly on the path to ultimate liberation. — Bhagavad Gita (2.40)",
+      "te": "వ్యాఖ్యానాల ప్రకారం... 'మహత్ భయమ్' అనగా అత్యంత భయానకమైన పునర్జన్మ సంసార చక్రము. నిష్కామ కర్మయోగాన్ని ఏ కొద్దిగా ('స్వల్పమపి') ఆచరించినా అది చిత్తశుద్ధిని కలిగించి, జీవుడిని భవబంధాల నుండి ముక్తి మార్గంలో నిలబెడుతుంది. — భగవద్గీత (2.40)"
+    }
+  },
+  {
+    "id": "bg-2-40-q4",
+    "verse": { "c": 2, "s": 40 },
+    "concept": ["Sanskrit Vocabulary - Effort, Reverse Effect & Protection"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit phrases 'svalpam api' and 'trāyate' mean in verse 2.40?",
+      "te": "2.40 శ్లోకంలోని 'స్వల్పమ్ అపి' మరియు 'త్రాయతే' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Svalpam api = Even a tiny bit / even a fraction; Trāyate = Protects / delivers / saves.",
+        "te": "స్వల్పమ్ అపి = కొద్దిపాటిదైనప్పటికీ / లేశమాత్రమైనా; త్రాయతే = రక్షిస్తుంది / కాపాడుతుంది / రక్షణనిస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Svalpam api = Extremely difficult; Trāyate = Destroys.",
+        "te": "స్వల్పమ్ అపి = అత్యంత కష్టమైనది; త్రాయతే = నాశనం చేస్తుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Svalpam api = Full of wealth; Trāyate = Delays.",
+        "te": "స్వల్పమ్ అపి = సంపదతో నిండినది; త్రాయతే = ఆలస్యం చేస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Svalpam api = Royal sacrifice; Trāyate = Punishes.",
+        "te": "స్వల్పమ్ అపి = రాజసమైన యజ్ఞం; త్రాయతే = శిక్షిస్తుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Su' (very) + 'alpam' (small) + 'api' (even) = 'Svalpam api' (even the smallest portion). 'Trāyate' is 3rd person singular present indicative Ātmanepada of root 'trā' (to protect/save). — Bhagavad Gita (2.40)",
+      "te": "'సు' (అత్యంత) + 'అల్పమ్' (తక్కువ) + 'అపి' (ఐనను) = 'స్వల్పమపి' (అత్యంత లేశమాత్రమైనా). 'త్రై/త్రా' (రక్షించు) ధాతువు వర్తమానకాల ప్రథమ పురుష ఏకవచన ఆత్మనేపద రూపం 'త్రాయతే' (కాపాడుతుంది). — భగవద్గీత (2.40)"
+    }
+  },
+  {
+    "id": "bg-2-40-q5",
+    "verse": { "c": 2, "s": 40 },
+    "concept": ["Sanskrit Grammar - Verb 'Trāyate' & Negative Particle 'Na'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of the verb 'trāyate' in verse 2.40:",
+      "te": "2.30 శ్లోకంలోని 'త్రాయతే' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person singular Present tense Ātmanepada (Laṭ-lakāra) from root 'trā' / 'trai' (to protect / preserve / deliver), agreeing with subject 'svalpam dharmasya' ('even a little of this Dharma protects').",
+        "te": "'త్రై' లేదా 'త్రా' (రక్షించు/కాపాడు) అనే ధాతువు యొక్క లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ఏకవచన ఆత్మనేపద రూపం — 'ఈ ధర్మం యొక్క కొద్దిపాటి ఆచరణ కాపాడుతుంది' అని అర్థం ఇస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1st person singular future tense active verb.",
+        "te": "ఉత్తమ పురుష ఏకవచన భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "3rd person plural past tense verb.",
+        "te": "ప్రథమ పురుష బహువచన భూతకాల క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb form.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Trāyate' is 3rd person singular present indicative Ātmanepada of root 'trai' (trāyate, trāyete, trāyante). The subject is 'svalpam api asya dharmasya' (even a little of this righteous discipline): 'svalpam trāyate' = 'even a little protects'. — Bhagavad Gita (2.40)",
+      "te": "'త్రై' ధాతువు ఆత్మనేపద లట్ లకార రూపం 'త్రాయతే'. 'స్వల్పమ్ అపి అస్య ధర్మస్య' (ఈ ధర్మం యొక్క కొద్ది భాగమైనా) అనేది కర్తగా ఉండి 'త్రాయతే' (కాపాడును) అనే క్రియతో అన్వయించబడింది. — భగవద్గీత (2.40)"
+    }
+  },
+  {
+    "id": "bg-2-40-q6",
+    "verse": { "c": 2, "s": 40 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'nehābhikramanāśo'sti' and 'svalpamapyasya' in verse 2.40:",
+      "te": "2.40 శ్లోకంలోని 'నేహాభిక్రమనాశోఽస్తి' మరియు 'స్వల్పమప్యస్య' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Na + iha -> neha (Guṇa Sandhi: a + i -> e); iha + abhikrama -> ihābhikrama (Savarna-dirgha Sandhi: a + a -> ā); nāśaḥ + asti -> nāśo 'sti (Visarga Uttva & Pūrvarūpa Sandhi); svalpam + api -> svalpamapi; api + asya -> apyasya (Yan Sandhi: 'i' before 'a' -> 'y').",
+        "te": "న + ఇహ -> నేహ (గుణ సంధి: అ + ఇ -> ఏ); ఇహ + అభిక్రమ -> ఇహాభిక్రమ (సవర్ణదీర్ఘ సంధి: అ + అ -> ఆ); నాశః + అస్తి -> నాశోఽస్తి (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు); స్వల్పమ్ + అపి -> స్వల్పమపి; అపి + అస్య -> అప్యస్య (యణాదేశ సంధి: 'ఇ' కారం 'య్' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Na + iha -> naiha; abhikrama + nāśaḥ -> abhikramānāśaḥ; api + asya -> apāsya",
+        "te": "న + ఇహ -> నైహ; అభిక్రమ + నాశః -> అభిక్రమానాశః; అపి + అస్య -> అపాస్య",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "No + iha -> neha; nāśam + asti -> nāśamasti; apam + asya -> apamasya",
+        "te": "నో + ఇహ -> నేహ; నాశమ్ + అస్తి -> నాశమస్తి; అపమ్ + అస్య -> అపమస్య",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Ne + iha -> neha; nāśah + asti -> nāśahasti; ape + asya -> ape'sya",
+        "te": "నే + ఇహ -> నేహ; నాశః + అస్తి -> నాశహస్తి; అపే + అస్య -> అపేఽస్య",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Na' (not) + 'iha' (here in this path): 'a' + 'i' merges into 'e' via Guṇa Sandhi -> 'neha'. 2. 'Neha' + 'abhikrama': 'a' + 'a' merges into 'ā' via Savarna-dirgha Sandhi -> 'nehābhikrama'. 3. 'Nāśaḥ' (destruction) + 'asti' (is): visarga converts to 'o' and initial 'a' becomes Avagraha -> 'nāśo 'sti'. 4. 'Api' + 'asya': 'i' converts to 'y' via Yan Sandhi before 'a' -> 'apyasya'. — Bhagavad Gita (2.40)",
+      "te": "1. 'న' + 'ఇహ' లలో గుణ సంధి ద్వారా 'నేహ' అయినది. 2. 'నేహ' + 'అభిక్రమ' లలో సవర్ణదీర్ఘ సంధి ద్వారా 'నేహాభిక్రమ' అయినది. 3. 'నాశః' + 'అస్తి' లలో విసర్గ ఉత్త్వ, పూర్వరూప సంధుల ద్వారా 'నాశోఽస్తి' అయినది. 4. 'అపి' + 'అస్య' లలో యణాదేశ సంధి ద్వారా 'అప్యస్య' అయినది. — భగవద్గీత (2.40)"
+    }
+  }
+]

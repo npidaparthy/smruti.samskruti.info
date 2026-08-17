@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-58-q1",
+    "verse": { "c": 2, "s": 58 },
+    "concept": ["Verse Meaning & The Analogy of the Tortoise"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.58?\n\n“yadā saṃharate cāyaṃ kūrmo'ṅgānīva sarvaśaḥ | indriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యదా సంహరతే చాయం కూర్మోఽంగానీవ సర్వశః | ఇంద్రియాణీంద్రియార్థేభ్యస్తస్య ప్రజ్ఞా ప్రతిష్ఠితా”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — When a person completely withdraws his senses from sense objects in all directions, just as a tortoise draws its limbs inside its shell, his wisdom is firmly established.",
+        "te": "శ్రీభగవానుడు పలికెను — తాబేలు తన అవయవములను (కాళ్లు, తలలను) అన్ని వైపుల నుండి తన చిప్పలోనికి ఉపసంహరించుకున్నట్లుగా... ఎవడైతే తన ఇంద్రియములను ఇంద్రియ విషయముల నుండి సంపూర్ణంగా ఉపసంహరించుకుంటాడో, అతని ప్రజ్ఞ (వివేక బుద్ధి) స్థిరంగా నిలిచియుంటుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — A person of steady wisdom must physically blindfold himself and plug his ears to prevent the senses from perceiving external objects.",
+        "te": "శ్రీభగవానుడు పలికెను — స్థితప్రజ్ఞుడు ఇంద్రియాలు బాహ్య విషయాలను గ్రహించకుండా ఉండటానికి తన కళ్లకు గంతలు కట్టుకుని, చెవుల్లో దూది పెట్టుకోవాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Just as a tortoise moves slowly on land, a wise person must delay performing his duties during battle.",
+        "te": "శ్రీభగవానుడు పలికెను — తాబేలు భూమిపై నెమ్మదిగా నడిచినట్లే, జ్ఞాని కూడా రణరంగంలో తన కర్తవ్యాలను ఆలస్యంగా నిర్వర్తించాలి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Withdrawing the senses from sense objects is necessary only during old age when physical strength declines.",
+        "te": "శ్రీభగవానుడు పలికెను — శారీరక బలం క్షీణించిన వృద్ధాప్యంలో మాత్రమే ఇంద్రియాలను ఇంద్రియ విషయాల నుండి ఉపసంహరించుకోవాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Yadā saṃharate cāyaṃ kūrmo 'ṅgānīva sarvaśaḥ / indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā.\" Krishna addresses Arjuna's query about how a Sthitaprajña sits/restrains himself amidst temptation ('kim āsīta'). Using the famous tortoise metaphor ('kūrma-dṛṣṭānta'), Krishna explains that just as a tortoise pulls its vulnerable limbs into its protective shell at the slightest hint of danger, an enlightened sage effortlessly withdraws his senses ('indriyāṇi') from sensory distractions ('indriyārthebhyaḥ'). — Bhagavad Gita (2.58)",
+      "te": "2.54 లో అర్జునుడు అడిగిన 'కిమ్ ఆసీత' (స్థితప్రజ్ఞుడు ఇంద్రియ విషయాల మధ్య ఎలా నిశ్చలంగా కూర్చుంటాడు/నిగ్రహించుకుంటాడు?) అనే ప్రశ్నకు శ్రీకృష్ణుడి సమాధానమిది. ప్రసిద్ధమైన తాబేలు ఉపమానాన్ని ('కూర్మ దృష్టాంతము') ఇక్కడ ఉపయోగించాడు: ప్రమాదం ఎదురవగానే తాబేలు తన అవయవాలను సురక్షితమైన తన చిప్పలోకి లాక్కున్నట్లే... ఆత్మజ్ఞాని కూడా తన ఇంద్రియాలను ('ఇంద్రియాణి') భోగ విషయాల నుండి ('ఇంద్రియార్థేభ్యః') ఉపసంహరించుకుంటాడు ('సంహరతే'). — భగవద్గీత (2.58)"
+    }
+  },
+  {
+    "id": "bg-2-58-q2",
+    "verse": { "c": 2, "s": 58 },
+    "concept": ["Philosophical Analogy - The Tortoise Metaphor"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why is the tortoise ('Kūrma') chosen as the specific metaphor for sense-withdrawal (*Pratyāhāra*) in verse 2.58?",
+      "te": "2.58 శ్లోకంలో ఇంద్రియ ఉపసంహరణకు (ప్రత్యాహారానికి) తాబేలును ('కూర్మము') ప్రత్యేక రూపకంగా ఎందుకు ఎంచుకున్నారు?"
+    },
+    "choices": [
+      {
+        "en": "Because a tortoise retains voluntary, total control over its limbs (extending them when needed and completely withdrawing them into its protective shell at will), symbolizing a sage's absolute mastery over his senses.",
+        "te": "ఎందుకంటే తాబేలుకు తన అవయవాలపై సంపూర్ణ స్వీయ నియంత్రణ ఉంటుంది (అవసరమైనప్పుడు బయటకు పెట్టడం, ప్రమాదం అనిపించగానే రక్షణ చిప్పలోకి ఉపసంహరించుకోవడం) — అలాగే ఆత్మజ్ఞానికి కూడా తన ఇంద్రియాలపై స్వచ్ఛందమైన, పరిపూర్ణమైన ప్రావీణ్యం/అధిపత్యం ఉంటుంది కాబట్టి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because a tortoise lives for hundreds of years, symbolizing physical longevity.",
+        "te": "ఎందుకంటే తాబేలు వేలాది సంవత్సరాలు జీవిస్తుంది కాబట్టి, అది దీర్ఘాయువుకు ప్రతీక కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because a tortoise lives in both water and land, symbolizing dual citizenship.",
+        "te": "ఎందుకంటే తాబేలు నీటిలోనూ, నేలపైనా జీవించగల ఉభయచర జీవి కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because a tortoise cannot hear external sounds, symbolizing physical deafness.",
+        "te": "ఎందుకంటే తాబేలు బాహ్య శబ్దాలను వినలేదు కాబట్టి, అది శారీరక చెవుడుకు ప్రతీక కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The key to the Kūrma analogy is voluntary control and complete retreat. The limbs of a tortoise are not severed; they are drawn inward at will. Similarly, a Sthitaprajña does not destroy his sense organs or lose perception; rather, he possesses the mastery to withdraw mental attention from sense objects whenever temptational distractions arise. — Bhagavad Gita (2.58)",
+      "te": "తాబేలు దృష్టాంతంలో అత్యంత ముఖ్యమైనది 'స్వచ్ఛంద ఉపసంహరణ'. తాబేలు తన అవయవాలను విరగ్గొట్టుకోదు, కేవలం లోపలికి ఉపసంహరించుకుంటుంది. అలాగే స్థితప్రజ్ఞుడు తన ఇంద్రియాలను నశింపజేసుకోడు; ఇంద్రియాలు విషయాల వైపు పరుగెత్తకుండా తన మానసిక దృష్టిని ఆత్మ యందే నిలిపే నిగ్రహ శక్తిని కలిగి ఉంటాడు. — భగవద్గీత (2.58)"
+    }
+  },
+  {
+    "id": "bg-2-58-q3",
+    "verse": { "c": 2, "s": 58 },
+    "concept": ["Psychological Mechanism - Indriyāṇi Indriyārthebhyaḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the relationship between 'Indriyāṇi' (senses) and 'Indriyārthāḥ' (sense objects) described in verse 2.58?",
+      "te": "2.58 శ్లోకంలో వర్ణించబడిన 'ఇంద్రియాణి' (ఇంద్రియములు) మరియు 'ఇంద్రియార్థాః' (ఇంద్రియ విషయములు) అను రెండింటి మధ్య గల ఆధ్యాత్మిక సంబంధం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Indriyāṇi (eyes, ears, taste, touch, smell) naturally rush outward toward Indriyārthāḥ (forms, sounds, tastes, textures, odors); Pratyahara means breaking this automatic outflow to anchor the mind in the Self.",
+        "te": "ఇంద్రియాణి (కన్ను, ముక్కు, చెవి, నాలుక, చర్మం) సహజంగానే బాహ్య ఇంద్రియార్థాల (రూప, శబ్ద, రస, స్పర్శ, గంధాల) వైపు పరుగెత్తుతాయి; ఆ బాహ్య ప్రవాహాన్ని అడ్డుకుని ఇంద్రియాలను అంతర్ముఖం చేయడమే ప్రత్యాహారము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Indriyāṇi are created by enemy forces, while Indriyārthāḥ are divine gifts.",
+        "te": "ఇంద్రియాలు శత్రు సైన్యాలచే సృష్టించబడగా, ఇంద్రియార్థాలు దివ్యమైన వరాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Indriyāṇi refer to weapons, while Indriyārthāḥ refer to enemies on the battlefield.",
+        "te": "ఇంద్రియాలు ఆయుధాలను సూచించగా, ఇంద్రియార్థాలు రణరంగంలోని శత్రువులను సూచిస్తాయి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Indriyāṇi operate only during awake state, while Indriyārthāḥ operate only during sleep.",
+        "te": "ఇంద్రియాలు కేవలం మెలకువగా ఉన్నప్పుడు మాత్రమే పనిచేస్తాయి, ఇంద్రియార్థాలు నిద్రలో మాత్రమే పనిచేస్తాయి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Indriya' means the sensory instruments (Jnānendriyas). 'Indriyārtha' means the subtle/gross objects of sense perception (sound, sight, taste, touch, smell). Spiritual bondage occurs when senses are chained to sense objects. The sage breaks this chain by 'saṃharate' (withdrawing them back into the mind/Self). — Bhagavad Gita (2.58)",
+      "te": "'ఇంద్రియ' అనగా జ్ఞానేంద్రియాలు. 'ఇంద్రియార్థ' అనగా ఆ ఇంద్రియాల విషయాలైన శబ్ద, స్పర్శ, రూప, రస, గంధాలు. ఇంద్రియాలు విషయాలలో చిక్కుకున్నప్పుడు బంధనం ఏర్పడుతుంది. ఆత్మజ్ఞాని ఆ ఇంద్రియాలను విషయాల నుండి విడదీసి ఆత్మ యందు ఉపసంహరిస్తాడు ('సంహరతే'). — భగవద్గీత (2.58)"
+    }
+  },
+  {
+    "id": "bg-2-58-q4",
+    "verse": { "c": 2, "s": 58 },
+    "concept": ["Sanskrit Vocabulary - Withdraws, Limbs, In All Directions"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'saṃharate', 'aṅgāni', and 'sarvaśaḥ' mean in verse 2.58?",
+      "te": "2.58 శ్లోకంలోని 'సంహరతే', 'అంగాని', మరియు 'సర్వశః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Saṃharate = Withdraws / pulls back completely; Aṅgāni = Limbs / body parts; Sarvaśaḥ = In all directions / completely / from all sides.",
+        "te": "సంహరతే = సంపూర్ణంగా ఉపసంహరించుకొనును / వెనక్కి లాక్కొనును; అంగాని = అవయవములను / అంగములను; సర్వశః = నలువైపుల నుండి / సమగ్రముగా / అన్ని విధాలా.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Saṃharate = Destroys physically; Aṅgāni = Weapons; Sarvaśaḥ = Slowly.",
+        "te": "సంహరతే = శారీరకంగా నాశనం చేయును; అంగాని = ఆయుధాలు; సర్వశః = నెమ్మదిగా.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Saṃharate = Praises; Aṅgāni = Kings; Sarvaśaḥ = In secret.",
+        "te": "సంహరతే = ప్రశంసించును; అంగాని = రాజులు; సర్వశః = రహస్యంగా.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Saṃharate = Remembers; Aṅgāni = Scriptures; Sarvaśaḥ = Tomorrow.",
+        "te": "సంహరతే = గుర్తుంచుకొనును; అంగాని = శాస్త్రాలు; సర్వశః = రేపు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sam' (completely) + 'harate' (pulls/withdraws, root 'hṛ') = 'Saṃharate' (withdraws). 'Aṅga' in Accusative Plural Neuter is 'aṅgāni' (limbs). 'Sarvaśaḥ' is an adverb meaning completely / from all directions. — Bhagavad Gita (2.58)",
+      "te": "'సమ్' (సమగ్రముగా) + 'హరతే' ('హృ' ధాతువు = లాక్కొనును/ఉపసంహరించును) = సంహరతే. 'అంగ' నపుంసకలింగ ద్వితీయా బహువచనం 'అంగాని' (అవయవములను). 'సర్వశః' అనగా నలువైపుల నుండి / సమగ్రంగా. — భగవద్గీత (2.58)"
+    }
+  },
+  {
+    "id": "bg-2-58-q5",
+    "verse": { "c": 2, "s": 58 },
+    "concept": ["Sanskrit Grammar - Middle Voice Verb 'Saṃharate'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'saṃharate' in verse 2.58:",
+      "te": "2.58 శ్లోకంలోని 'సంహరతే' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person singular Present indicative Ātmanepada (Laṭ-lakāra) from root 'hṛ' with prefix 'sam' (he pulls/draws into himself), highlighting that the withdrawal is performed for one's own internal self-mastery.",
+        "te": "'సమ్' ఉపసర్గతో 'హృ' (హరించు/లాక్కొను) ధాతువు యొక్క లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ఏకవచన ఆత్మనేపద రూపం ('తనలోనికి తానే ఉపసంహరించుకొనును') — ఇది సాధకుని స్వకీయ అంతరంగ నిగ్రహాన్ని సూచిస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person plural Past tense Parasmaipada verb.",
+        "te": "ప్రథమ పురుష బహువచన భూతకాల పరస్మైపద క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Imperative command verb form.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Future tense active verb form.",
+        "te": "భవిష్యత్కాల కర్తరి క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The Ātmanepada (middle voice) verb 'saṃharate' indicates an action whose benefit accrues back to the doer himself (drawing the senses back into oneself for Self-realization). Subject is 'ayam' (this practitioner) / 'kūrmaḥ' (the tortoise). — Bhagavad Gita (2.58)",
+      "te": "'సంహరతే' అనే ఆత్మనేపద క్రియ కర్మ ఫలితం కర్తకే చెందుతుందని తెలుపుతుంది (తన ఇంద్రియాలను తన అంతరంగ ఆత్మ యందే ఉపసంహరించుకోవడం). కర్త 'అయమ్' (ఈ సాధకుడు) / 'కూర్మః' (తాబేలు). — భగవద్గీత (2.58)"
+    }
+  },
+  {
+    "id": "bg-2-58-q6",
+    "verse": { "c": 2, "s": 58 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'cāyaṃ', 'kūrmo'ṅgānīva', and 'indriyāṇīndriyārthebhyaḥ' in verse 2.58:",
+      "te": "2.58 శ్లోకంలోని 'చాయమ్', 'కూర్మోఽంగానీవ', మరియు 'ఇంద్రియాణీంద్రియార్థేభ్యః' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Ca + ayam -> cāyam (Savarna-dirgha Sandhi); kūrmaḥ + aṅgāni -> kūrmo 'ṅgāni (Visarga Uttva & Pūrvarūpa Sandhi); aṅgāni + iva -> aṅgānīva (Savarna-dirgha Sandhi); indriyāṇi + indriyārthebhyaḥ -> indriyāṇīndriyārthebhyaḥ (Savarna-dirgha Sandhi); indriyārthebhyaḥ + tasya -> indriyārthebhyas tasya (Visarga Sattva Sandhi).",
+        "te": "చ + అయమ్ -> చాయమ్ (సవర్ణదీర్ఘ సంధి); కూర్మః + అంగాని -> కూర్మోఽంగాని (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు); అంగాని + ఇవ -> అంగానీవ (సవర్ణదీర్ఘ సంధి); ఇంద్రియాణి + ఇంద్రియార్థేభ్యః -> ఇంద్రియాణీంద్రియార్థేభ్యః (సవర్ణదీర్ఘ సంధి); ఇంద్రియార్థేభ్యః + తస్య -> ఇంద్రియార్థేభ్యస్తస్య (విసర్గ సత్త్వ సంధి).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Ca + ayam -> cayam; kūrma + aṅgāni -> kūrmaṅgāni; indriyāṇi + indriyārthebhyaḥ -> indriyāṇindriyārthebhyaḥ",
+        "te": "చ + అయమ్ -> చయమ్; కూర్మ + అంగాని -> కూర్మంగాని; ఇంద్రియాణి + ఇంద్రియార్థేభ్యః -> ఇంద్రియాణింద్రియార్థేభ్యః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Cam + ayam -> camayam; kūrmam + aṅgāni -> kūrmamaṅgāni; indriyāṇim + indriyārthebhyaḥ -> indriyāṇimindriyārthebhyaḥ",
+        "te": "చమ్ + అయమ్ -> చమయమ్; కూర్మమ్ + అంగాని -> కూర్మమంగాని; ఇంద్రియాణిమ్ + ఇంద్రియార్థేభ్యః -> ఇంద్రియాణిమింద్రియార్థేభ్యః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Ce + ayam -> ce'yam; kūrme + aṅgāni -> kūrme'ṅgāni; indriyāṇe + indriyārthebhyaḥ -> indriyāṇe'ndriyārthebhyaḥ",
+        "te": "చే + అయమ్ -> చేఽయమ్; కూర్మే + అంగాని -> కూర్మేఽంగాని; ఇంద్రియాణే + ఇంద్రియార్థేభ్యః -> ఇంద్రియాణేఽంద్రియార్థేభ్యః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Ca' + 'ayam': 'a' + 'a' -> 'ā' via Savarna-dirgha -> 'cāyam'. 2. 'Kūrmaḥ' + 'aṅgāni': visarga -> 'o' and 'a' -> Avagraha via Pūrvarūpa -> 'kūrmo 'ṅgāni'. 3. 'Aṅgāni' + 'iva': 'i' + 'i' -> 'ī' via Savarna-dirgha -> 'aṅgānīva'. 4. 'Indriyāṇi' + 'indriyārthebhyaḥ': 'i' + 'i' -> 'ī' via Savarna-dirgha -> 'indriyāṇīndriyārthebhyaḥ'. 5. 'Indriyārthebhyaḥ' + 'tasya': visarga -> 's' before 't' via Visarga Sattva -> 'indriyārthebhyas tasya'. — Bhagavad Gita (2.58)",
+      "te": "1. 'చ' + 'అయమ్' = చాయమ్ (సవర్ణదీర్ఘ సంధి). 2. 'కూర్మః' + 'అంగాని' = కూర్మోఽంగాని (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు). 3. 'అంగాని' + 'ఇవ' = అంగానీవ (సవర్ణదీర్ఘ సంధి). 4. 'ఇంద్రియాణి' + 'ఇంద్రియార్థేభ్యః' = ఇంద్రియాణీంద్రియార్థేభ్యః (సవర్ణదీర్ఘ సంధి). 5. 'ఇంద్రియార్థేభ్యః' + 'తస్య' = ఇంద్రియార్థేభ్యస్తస్య (విసర్గ సత్త్వ సంధి). — భగవద్గీత (2.58)"
+    }
+  }
+]

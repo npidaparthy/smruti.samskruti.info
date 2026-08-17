@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-49-q1",
+    "verse": { "c": 2, "s": 49 },
+    "concept": ["Verse Meaning & Superiority of Buddhi Yoga"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.49?\n\n“dūreṇa hyavaraṃ karma buddhiyogāddhanañjaya | buddhau śaraṇamanviccha kṛpaṇāḥ phalahetavaḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“దూరేణ హ్యవరం కర్మ బుద్ధియోగాద్ధనంజయ | బుద్ధౌ శరణమన్విచ్ఛ కృపణాః ఫలహేతవః”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — O Dhananjaya, fruitive action performed with selfish desire is far inferior to Buddhi Yoga (action with mental equanimity). Take refuge in wisdom! Pitiable indeed are those who act merely for the fruits of action.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ ధనంజయా (అర్జునా)! సమబుద్ధితో చేసే కర్మయోగం (బుద్ధియోగం) కంటే స్వార్థ కామ్య కర్మ చాలా అధమమైనది. కావున నీవు వివేక బుద్ధిని (జ్ఞానాన్ని) ఆశ్రయించుము! కర్మఫలాల కోసం పనిచేసేవారు దీనులు/పిటియబుల్ (కృపణులు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Action performed for personal fruits is far superior to silent contemplation, because fruitive results guarantee happiness in this world.",
+        "te": "శ్రీభగవానుడు పలికెను — మౌన ధ్యానం కంటే ఫలాపేక్షతో చేసే కర్మయే చాలా శ్రేష్ఠమైనది, ఎందుకంటే కర్మఫలాలు ఈ లోకంలో నిశ్చయమైన సుఖాన్ని ఇస్తాయి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — O Dhananjaya, taking refuge in physical strength is true wisdom, while depending on intellect makes a warrior pitiable.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ ధనంజయా! శారీరక బలాన్ని ఆశ్రయించడమే నిజమైన వివేకం, బుద్ధిపై ఆధారపడటం యోధుడిని దీనుడిగా మారుస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Those who seek the fruits of war are noble kings, whereas those who fight without desire are foolish.",
+        "te": "శ్రీభగవానుడు పలికెను — యుద్ధ ఫలితాలను కోరుకునేవారు పూజ్యులైన రాజులు, ఫలితం లేకుండా పోరాడేవారు మూర్ఖులు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Dūreṇa hy avaraṃ karma buddhi-yogād dhanañjaya / buddhau śaraṇam anviccha kṛpaṇāḥ phala-hetavaḥ.\" Krishna draws a sharp contrast: desire-driven action ('karma') is immeasurably inferior ('dūreṇa hi avaram') to action guided by spiritual wisdom and equanimity ('buddhi-yoga'). Arjuna is advised to seek shelter in Buddhi ('buddhau śaraṇam anviccha'). Those who work only for selfish rewards are termed 'kṛpaṇāḥ' (pitiable/miserly souls bound to rebirth). — Bhagavad Gita (2.49)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ కామ్య కర్మలకు, నిష్కామ బుద్ధియోగానికి గల వ్యత్యాసాన్ని స్పష్టంగా చూపించాడు: సమత్వ బుద్ధితో చేసే కర్మయోగం కంటే ఫలాపేక్షతో చేసే స్వార్థ కర్మ అత్యంత అధమమైనది ('దూరేణ హ్యవరమ్'). కావున బుద్ధిని (జ్ఞానాన్ని) ఆశ్రయించమని ('బుద్ధౌ శరణమ్') కృష్ణుడు కోరుతున్నాడు. కర్మఫలాల కోసం ఆరాటపడేవారు సంసారంలో బంధించబడే 'కృపణులు' (దీనులు/కృపణ స్వభావం గలవారు). — భగవద్గీత (2.49)"
+    }
+  },
+  {
+    "id": "bg-2-49-q2",
+    "verse": { "c": 2, "s": 49 },
+    "concept": ["Spiritual Status - Meaning of Kṛpaṇāḥ Phala-hetavaḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the declaration 'Kṛpaṇāḥ phala-hetavaḥ' signify in the context of verse 2.49?",
+      "te": "2.49 శ్లోక సందర్భంలో 'కృపణాః ఫలహేతవః' అనే వాక్యాంశం యొక్క ప్రత్యేక ఆధ్యాత్మిక అంతరార్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Those who act solely motivated by selfish rewards ('phala-hetavaḥ') are 'kṛpaṇāḥ' (miserly/pitiable souls), because despite possessing precious human intellect, they waste it on temporary sensory gains rather than achieving liberation.",
+        "te": "కేవలం కర్మఫలాల దురాశతో పనిచేసేవారు ('ఫలహేతవః') ఆధ్యాత్మికంగా 'కృపణులు' (దీనులు/లోభి మనస్తత్వం గలవారు). ఎందుకంటే దుర్లభమైన మానవ జన్మను మోక్షానికి వాడకుండా తాత్కాలిక భోగాల కోసం వృథా చేసుకుంటారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Those who refuse to fight on the battlefield are pitiable cowards.",
+        "te": "యుద్ధభూమిలో పోరాడటానికి నిరాకరించేవారు జాలిపడదగిన పిరికిపందలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Those who lose their physical wealth in trade are financial misers.",
+        "te": "వ్యాపారంలో భౌతిక సంపదను కోల్పోయేవారు ఆర్థిక లోభులు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Those who perform yajnas without offering cash fees to priests are sinful.",
+        "te": "యాజ్ఞికులకు దక్షిణ ఇవ్వకుండా యజ్ఞాలు చేసేవారు పాపాత్ములు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In the Brihadaranyaka Upanishad (3.8.10), a 'kṛpaṇa' is defined as one who leaves this world without realizing the Self ('yo vā etad akṣaraṃ gārgy aviditvāsmāl lokāt praiti sa kṛpaṇaḥ'). Krishna echoes this: working for small, perishable fruits ('phala-hetavaḥ') while missing the eternal Self is the ultimate spiritual poverty ('kṛpaṇatvam'). — Bhagavad Gita (2.49)",
+      "te": "బృహదారణ్యకోపనిషత్తు ప్రకారం ఆత్మజ్ఞానం లేకుండా లోకాన్ని విడిచేవాడే 'కృపణుడు'. కృష్ణుడు ఇక్కడ అదే సత్యాన్ని తలపిస్తున్నాడు: అనంతమైన ఆత్మజ్ఞానాన్ని వదిలేసి, తాత్కాలిక చిన్న చిన్న ఫలాల కోసం ('ఫలహేతవః') తపించేవారు ఆధ్యాత్మికంగా పరమ పేదవారు/దీనులు ('కృపణాః'). — భగవద్గీత (2.49)"
+    }
+  },
+  {
+    "id": "bg-2-49-q3",
+    "verse": { "c": 2, "s": 49 },
+    "concept": ["Core Instruction - Buddhau Śaraṇam Anviccha"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What directive does Lord Krishna give to Arjuna through 'Buddhau śaraṇam anviccha' in verse 2.49?",
+      "te": "2.49 శ్లోకంలోని 'బుద్ధౌ శరణమన్విచ్ఛ' అనే ఆదేశం ద్వారా శ్రీకృష్ణుడు అర్జునుడికి ఏ మార్గాన్ని నిర్దేశించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Take refuge in spiritual intelligence and mental equanimity (Buddhi Yoga), allowing balanced wisdom to govern all actions rather than selfish desire.",
+        "te": "స్వార్థ కోరికల ప్రవాహంలో కొట్టుకుపోకుండా... సమత్వ బుద్ధిని, వివేకాన్ని (జ్ఞానాన్ని) ఆశ్రయించి, దాని ద్వారా సమస్త కర్మలను నడిపించుము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Surrender to intellectual debate and philosophy without performing any physical duty.",
+        "te": "ఏ విధమైన భౌతిక కర్తవ్యాన్ని చేయకుండా కేవలం తార్కిక వాదనలను, తత్త్వ శాస్త్రాలను ఆశ్రయించు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Seek shelter in the royal assembly of ministers to decide whether to fight.",
+        "te": "యుద్ధం చేయాలో వద్దో నిర్ణయించుకోవడానికి రాజమంత్రుల సభను ఆశ్రయించు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Rely entirely on weapons and strategic military intellect during battle.",
+        "te": "యుద్ధ సమయంలో కేవలం ఆయుధాలపై, సైనిక వ్యూహాల బుద్ధిపై మాత్రమే ఆధారపడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Buddhau' (in wisdom/equanimous intellect) + 'śaraṇam' (refuge/shelter) + 'anviccha' (seek!). Krishna urges Arjuna to anchor his awareness in the quiet stability of Buddhi Yoga. When the intellect is surrendered to higher spiritual purpose, desire-driven impulses lose their power to bind. — Bhagavad Gita (2.49)",
+      "te": "'బుద్ధౌ' (వివేక సమత్వ బుద్ధి యందు) + 'శరణమ్' (రక్షణ/ఆశ్రయము) + 'అన్విచ్ఛ' (వెతుకుము/పొందుము). స్వార్థ కర్మఫలాల ఒత్తిడికి లొంగిపోకుండా స్థిరమైన సమత్వ బుద్ధిని ఆశ్రయించమని కృష్ణుడి ఉపదేశం. — భగవద్గీత (2.49)"
+    }
+  },
+  {
+    "id": "bg-2-49-q4",
+    "verse": { "c": 2, "s": 49 },
+    "concept": ["Sanskrit Vocabulary - Far Inferior & Motivation by Fruit"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit phrases 'dūreṇa hi avaram' and 'phala-hetavaḥ' mean in verse 2.49?",
+      "te": "2.49 శ్లోకంలోని 'దూరేణ హ్యవరమ్' మరియు 'ఫలహేతవః' అనే సంస్కృత పదబంధాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Dūreṇa hi avaram = Far inferior indeed / lower by a great distance; Phala-hetavaḥ = Those motivated by the fruits/results of action.",
+        "te": "దూరేణ హ్యవరమ్ = చాలా దూరంలో ఉన్నది / అత్యంత అధమమైనది; ఫలహేతవః = కర్మఫలాలే ప్రేరక హేతువుగా గలవారు (ఫలితాన్ని ఆశించి పనిచేసేవారు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dūreṇa hi avaram = Located far away in distance; Phala-hetavaḥ = Those who plant fruit trees.",
+        "te": "దూరేణ హ్యవరమ్ = సుదూర ప్రాంతంలో ఉన్నది; ఫలహేతవః = పండ్ల చెట్లను నాటేవారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Dūreṇa hi avaram = Always difficult to practice; Phala-hetavaḥ = Destructive actions.",
+        "te": "దూరేణ హ్యవరమ్ = ఎల్లప్పుడూ ఆచరించడం కష్టమైనది; ఫలహేతవః = నాశనకరమైన కర్మలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dūreṇa hi avaram = Praised by ancient scriptures; Phala-hetavaḥ = Kings who fight for land.",
+        "te": "దూరేణ హ్యవరమ్ = ప్రాచీన శాస్త్రాలచే ప్రశంసించబడినది; ఫలహేతవః = భూమి కోసం పోరాడే రాజులు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Dūreṇa' (by a long distance) + 'hi' (indeed) + 'avaram' (inferior/low). 'Phala' (fruit/result) + 'hetavaḥ' (those whose motive/cause is) = 'phala-hetavaḥ' (those whose actions are driven solely by expectation of results). — Bhagavad Gita (2.49)",
+      "te": "'దూరేణ' (చాలా దూరముగా/ఎంతో) + 'హి' (నిశ్చయముగా) + 'అవరమ్' (అధమమైనది/తక్కువది). 'ఫల' (కార్య ఫలము) + 'హేతవః' (కారణము/ప్రేరణగా గలవారు) = ఫలహేతవః (కేవలం ఫలితం కోసమే కర్మలు చేసేవారు). — భగవద్గీత (2.49)"
+    }
+  },
+  {
+    "id": "bg-2-49-q5",
+    "verse": { "c": 2, "s": 49 },
+    "concept": ["Sanskrit Grammar - Ablative Comparison 'Buddhi-yogāt'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'buddhi-yogāt' in verse 2.49:",
+      "te": "2.49 శ్లోకంలోని 'బుద్ధియోగాత్' అనే పదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Ablative Singular Masculine from compound 'buddhi-yoga' (used in comparative sense with 'avaram': 'far inferior to Buddhi Yoga').",
+        "te": "'బుద్ధియోగ' అనే పుంలింగ సమాస శబ్దానికి పంచమీ విభక్తి ఏకవచన రూపం — 'అవరమ్' (అధమమైనది) అనే తులనాత్మక పదంతో చేరి 'బుద్ధియోగం కంటే (చాలా అధమమైనది)' అని అర్థమిస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nominative Plural form.",
+        "te": "ప్రథమా విభక్తి బహువచన రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Genitive Singular form.",
+        "te": "షష్ఠీ విభక్తి ఏకవచన రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative verb form.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Sanskrit grammar, the Ablative case (Pañcamī vibhakti) is used to express comparison (e.g., 'X is inferior to Y'). 'Buddhi-yogāt' (Ablative) + 'avaram' (inferior) = 'inferior than/to Buddhi-yoga'. — Bhagavad Gita (2.49)",
+      "te": "సంస్కృత వ్యాకరణంలో పోలికను (తులనను) తెలపడానికి పంచమీ విభక్తిని వాడతారు. 'బుద్ధియోగాత్' (పంచమీ ఏకవచనం) + 'అవరమ్' (అధమము) = 'బుద్ధియోగము కంటే కూడా తక్కువది/అధమమైనది'. — భగవద్గీత (2.49)"
+    }
+  },
+  {
+    "id": "bg-2-49-q6",
+    "verse": { "c": 2, "s": 49 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'hyavaraṃ' and 'śaraṇamanviccha' in verse 2.49:",
+      "te": "2.49 శ్లోకంలోని 'హ్యవరమ్' (హి+అవరమ్) మరియు 'శరణమన్విచ్ఛ' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Hi + avaram -> hy avaram (Yan Sandhi: 'i' before 'a' -> 'y'); śaraṇam + anviccha -> śaraṇamanviccha (consonant 'm' combining directly with vowel 'a'); anu + iccha -> anviccha (Yan Sandhi: 'u' before 'i' -> 'v').",
+        "te": "హి + అవరమ్ -> హ్యవరమ్ (యణాదేశ సంధి: 'ఇ' -> 'య్'); శరణమ్ + అన్విచ్ఛ -> శరణమన్విచ్ఛ (పొల్లు 'మ్' అచ్చు 'అ' తో కలయుట); అను + ఇచ్ఛ -> అన్విచ్ఛ (యణాదేశ సంధి: 'ఉ' -> 'వ్').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Ha + avaram -> havaram; śaraṇa + manviccha -> śaraṇamanviccha",
+        "te": "హ + అవరమ్ -> హవరమ్; శరణ + మన్విచ్ఛ -> శరణమన్విచ్ఛ",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Him + avaram -> himavaram; śaraṇan + anviccha -> śaraṇananviccha",
+        "te": "హిమ్ + అవరమ్ -> హిమవరమ్; శరణన్ + అన్విచ్ఛ -> శరణనన్విచ్ఛ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "He + avaram -> he'varam; śaraṇah + anviccha -> śaraṇahanviccha",
+        "te": "హే + అవరమ్ -> హేఽవరమ్; శరణః + అన్విచ్ఛ -> శరణహన్విచ్ఛ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Hi' (indeed) + 'avaram' (inferior): 'i' -> 'y' via Yan Sandhi -> 'hy avaram'. 2. 'Śaraṇam' (refuge) + 'anviccha' (seek!): final consonant 'm' joins vowel 'a' -> 'śaraṇamanviccha'. 3. Inside 'anviccha': 'anu' + 'iccha' -> 'u' -> 'v' via Yan Sandhi -> 'anviccha'. — Bhagavad Gita (2.49)",
+      "te": "1. 'హి' + 'అవరమ్' లలో 'ఇ' కారానికి 'య్' వచ్చి (యణాదేశ సంధి) 'హ్యవరమ్' అయినది. 2. 'శరణమ్' + 'అన్విచ్ఛ' లలో పొల్లు 'మ్' అచ్చు 'అ' తో సూటిగా కలసి 'శరణమన్విచ్ఛ' అయినది. 3. 'అను' + 'ఇచ్ఛ' లలో 'ఉ' కారానికి 'వ్' వచ్చి (యణాదేశ సంధి) 'అన్విచ్ఛ' అని సిద్ధించింది. — భగవద్గీత (2.49)"
+    }
+  }
+]

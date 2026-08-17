@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-53-q1",
+    "verse": { "c": 2, "s": 53 },
+    "concept": ["Verse Meaning & The Attainment of Yoga"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.53?\n\n“śrutivipratipannā te yadā sthāsyati niścalā | samādhāv acalā buddhis tadā yogam avāpsyasi”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“శ్రుతివిప్రతిపన్నా తే యదా స్థాస్యతి నిశ్చలా | సమాధా వచలా బుద్ధిస్తదా యోగమవాప్స్యసి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — When your intellect, no longer confused by hearing conflicting Vedic rituals, becomes unshakably fixed in deep contemplation of the Supreme Self (Samadhi), then you will attain divine consciousness (Yoga).",
+        "te": "శ్రీభగవానుడు పలికెను — వివిధ వేద క్రతువులను వినడం వల్ల నీ బుద్ధి ఇంతవరకు చంచలంగా (సందిగ్ధంగా) ఉన్నది. అది ఎప్పుడైతే ఆత్మ సమాధి యందు అచలముగా (నిశ్చలముగా) స్థిరపడుతుందో, అప్పుడు నీవు దివ్యమైన యోగస్థితిని పొందుతావు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — By listening to all contradictory scriptures simultaneously, your mind will become confused, which is the definition of true Yoga.",
+        "te": "శ్రీభగవానుడు పలికెను — విరుద్ధమైన శాస్త్రాలన్నింటినీ ఒకేసారి వినడం వల్ల నీ మనస్సు గందరగోళానికి గురవుతుంది, ఇదే నిజమైన యోగం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Yoga is attained when you force your mind to stay restless and distracted by the worldly sounds of Vedic rituals.",
+        "te": "శ్రీభగవానుడు పలికెను — వేద కర్మల వల్ల కలిగే లౌకిక శబ్దాల ద్వారా మనస్సును అశాంతంగా, పరధ్యానంగా ఉంచినప్పుడే యోగం సిద్ధమవుతుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Your intellect must remain confused by scriptures to prevent you from attaining divine Yoga, for Yoga is only for the ignorant.",
+        "te": "శ్రీభగవానుడు పలికెను — నీవు యోగాన్ని పొందకుండా ఉండటానికి నీ బుద్ధి ఎప్పుడూ శాస్త్రాల వల్ల గందరగోళంగానే ఉండాలి, ఎందుకంటే యోగం కేవలం అజ్ఞానులకే.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Śrutivipratipannā te yadā sthāsyati niścalā / samādhāv acalā buddhis tadā yogam avāpsyasi.\" The intellect ('te buddhiḥ') is often 'śrutivipratipannā'—confused by the varying promises and contradictory instructions found in ritualistic scriptures. When that same intellect anchors itself in 'Samādhi' (the steady contemplation of Brahman), it becomes 'acalā' (unwavering). Only in this unshakable steadiness does one truly 'attain Yoga' ('yogam avāpsyasi'). — Bhagavad Gita (2.53)",
+      "te": "అనేక రకాల కర్మకాండల వాగ్దానాలను వినడం వల్ల మన బుద్ధి ('తే బుద్ధిః') 'శ్రుతివిప్రతిపన్నా' (సందిగ్ధావస్థలో) అయి ఉంటుంది. అటువంటి బుద్ధి ఎప్పుడైతే బ్రహ్మచింతనలో ('సమాధౌ') నిశ్చలముగా, అచలముగా ('అచలా') స్థిరపడుతుందో, అప్పుడు మాత్రమే యోగస్థితి సిద్ధిస్తుంది ('యోగమ్ అవాప్స్యసి'). — భగవద్గీత (2.53)"
+    }
+  },
+  {
+    "id": "bg-2-53-q2",
+    "verse": { "c": 2, "s": 53 },
+    "concept": ["Psychological State - Śrutivipratipannā"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the meaning of the term 'Śrutivipratipannā' in verse 2.53?",
+      "te": "2.53 శ్లోకంలోని 'శ్రుతివిప్రతిపన్నా' అనే పదం దేనిని సూచిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "Being confused or diverted by hearing contradictory scriptural instructions (i.e., being torn between different ritualistic paths and desires).",
+        "te": "శాస్త్రాలలోని విరుద్ధమైన కర్మకాండల ఆదేశాలను విని మనస్సు గందరగోళానికి గురికావడం, ఏ మార్గాన్ని అనుసరించాలో తెలియని అయోమయ స్థితి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Hearing secret messages from gods about future battles.",
+        "te": "భవిష్యత్ యుద్ధాల గురించి దేవతల నుండి వచ్చే రహస్య సందేశాలను వినడం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The ability to memorize all four Vedas perfectly without forgetting a single syllable.",
+        "te": "నాలుగు వేదాలను ఒక్క అక్షరం కూడా పోకుండా కంఠస్థం చేసే సామర్థ్యం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Ignoring all advice and following only one's own physical impulses.",
+        "te": "ఎవరి సలహాలను పట్టించుకోకుండా కేవలం తన శారీరక ప్రేరణలను అనుసరించడం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Śruti' (scripture/that which is heard) + 'vipratipannā' (confused/misled). It refers to the state where the intellect, bombarded with ritualistic Vedic rewards and conflicting injunctions, loses its focus on the singular ultimate Truth. — Bhagavad Gita (2.53)",
+      "te": "'శ్రుతి' (శాస్త్రం) + 'విప్రతిపన్నా' (భ్రాంతికి/సందిగ్ధానికి లోనైనది). అనేక రకాల యజ్ఞాలు, కోరికలు, స్వర్గ భోగాలను ఆశ చూపే కర్మకాండల మంత్రాలను విని, బుద్ధి అసలైన పరమార్థాన్ని (బ్రహ్మమును) మర్చిపోయి సందిగ్ధంలో పడటమే దీని భావం. — భగవద్గీత (2.53)"
+    }
+  },
+  {
+    "id": "bg-2-53-q3",
+    "verse": { "c": 2, "s": 53 },
+    "concept": ["Spiritual State - Acalā Samādhi"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "In verse 2.53, what is the prerequisite for the intellect ('Buddhi') to reach the state of 'Acalā Samādhi'?",
+      "te": "2.53 శ్లోకంలో 'అచలా సమాధి'ని చేరుకోవడానికి బుద్ధి ('బుద్ధి') కలిగి ఉండవలసిన ప్రాథమిక లక్షణం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "It must become 'niścalā' (unshakable/motionless) and free from the distraction caused by conflicting desires/teachings.",
+        "te": "అది 'నిశ్చలా' (చలనం లేనిది) అయి ఉండాలి మరియు విరుద్ధమైన కోరికలు/బోధనల వల్ల కలిగే విక్షేపాల నుండి విముక్తి పొంది ఉండాలి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It must read all historical accounts of the Kurukshetra war.",
+        "te": "కురుక్షేత్ర యుద్ధం యొక్క సమస్త చారిత్రక వివరాలను చదివి ఉండాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It must recite Vedic hymns loudly to attract the attention of the gods.",
+        "te": "దేవతల దృష్టిని ఆకర్షించడానికి వేద మంత్రాలను గట్టిగా పఠించాలి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It must change its goal every single day to remain flexible.",
+        "te": "వశ్యతను కాపాడుకోవడానికి ప్రతిరోజూ తన లక్ష్యాన్ని మారుస్తూ ఉండాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Niścalā' means immobile or steady. When the intellect stops oscillating between conflicting desires and focuses solely on the Supreme, it attains 'Acalā' (unmoving) state in 'Samādhi'. This steadiness is Yoga. — Bhagavad Gita (2.53)",
+      "te": "'నిశ్చలా' అనగా అచలమైనది. విరుద్ధమైన కోరికల మధ్య ఊగిసలాడకుండా, బుద్ధి ఏకాగ్రమై పరమాత్మ యందే నిలిచినప్పుడు అది 'అచలా' (స్థిరమైన) స్థితిని చేరుకుంటుంది. ఇదే సమాధికి ముఖ్యం. — భగవద్గీత (2.53)"
+    }
+  },
+  {
+    "id": "bg-2-53-q4",
+    "verse": { "c": 2, "s": 53 },
+    "concept": ["Sanskrit Vocabulary - Unshakable, Confused, Attain"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'niścalā', 'acalā', and 'avāpsyasi' mean in verse 2.53?",
+      "te": "2.53 శ్లోకంలోని 'నిశ్చలా', 'అచలా', మరియు 'అవాప్స్యసి' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Niścalā = Unshakable / steady; Acalā = Unmoving / unwavering; Avāpsyasi = You shall attain / achieve.",
+        "te": "నిశ్చలా = చలనం లేనిది / స్థిరమైనది; అచలా = కదలిక లేనిది / ఏకాగ్రమైనది; అవాప్స్యసి = నీవు పొందుదువు / సాధిస్తావు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Niścalā = Very fast; Acalā = Confused; Avāpsyasi = You will run away.",
+        "te": "నిశ్చలా = చాలా వేగమైనది; అచలా = సందిగ్ధంలో ఉన్నది; అవాప్స్యసి = నీవు పారిపోతావు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Niścalā = Old; Acalā = New; Avāpsyasi = You will remember.",
+        "te": "నిశ్చలా = పాతది; అచలా = కొత్తది; అవాప్స్యసి = నీవు గుర్తుంచుకుంటావు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Niścalā = Loud; Acalā = Silent; Avāpsyasi = You will cry.",
+        "te": "నిశ్చలా = బిగ్గరగా; అచలా = మౌనంగా; అవాప్స్యసి = నీవు ఏడుస్తావు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Niścalā' is Nominative Singular Feminine of 'niścala' (free from motion). 'Acalā' is Nominative Singular Feminine of 'acala' (unmoving). 'Avāpsyasi' is 2nd person singular Future indicative Parasmaipada of root 'āp' with prefix 'ava-' (you shall attain). — Bhagavad Gita (2.53)",
+      "te": "'నిశ్చల' శబ్దానికి ప్రథమా ఏకవచన స్త్రీలింగ రూపం 'నిశ్చలా'. 'అచల' శబ్దానికి ప్రథమా ఏకవచన స్త్రీలింగ రూపం 'అచలా'. 'అవ' + 'ఆప్' (పొందు) ధాతువు భవిష్యత్కాల రూపం 'అవాప్స్యసి'. — భగవద్గీత (2.53)"
+    }
+  },
+  {
+    "id": "bg-2-53-q5",
+    "verse": { "c": 2, "s": 53 },
+    "concept": ["Sanskrit Grammar - Future Verb 'Avāpsyasi' & Participle 'Śrutivipratipannā'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'avāpsyasi' and 'śrutivipratipannā' in verse 2.53:",
+      "te": "2.53 శ్లోకంలోని 'అవాప్స్యసి' మరియు 'శ్రుతివిప్రతిపన్నా' అనే పదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Avāpsyasi = 2nd person singular Simple Future Parasmaipada (Lṛṭ-lakāra) from root 'āp' with prefix 'ava-' (you shall attain); Śrutivipratipannā = Nominative Singular Feminine Past Passive Participle (Kta-pratyaya) qualifying 'te buddhiḥ' (your intellect which has been confused).",
+        "te": "అవాప్స్యసి = 'అవ' ఉపసర్గతో 'ఆప్' ధాతువు లృట్ లకార (భవిష్యత్కాల) మధ్యమ పురుష ఏకవచన పరస్మైపద రూపం ('నీవు పొందుదువు'); శ్రుతివిప్రతిపన్నా = 'శ్రుతి' + 'విప్రతిపన్న' శబ్దాల క్తాంత ప్రథమా ఏకవచన స్త్రీలింగ విశేషణ రూపం (నీ 'బుద్ధిః' విశేషణం - గందరగోళానికి గురైన నీ బుద్ధి).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Avāpsyasi = Present passive verb; Śrutivipratipannā = Genitive plural noun.",
+        "te": "అవాప్స్యసి = వర్తమాన కర్మణి క్రియ; శ్రుతివిప్రతిపన్నా = షష్ఠీ బహువచన నామవాచకం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avāpsyasi = Imperative command; Śrutivipratipannā = Adverb.",
+        "te": "అవాప్స్యసి = ఆజ్ఞార్థక క్రియ; శ్రుతివిప్రతిపన్నా = అవ్యయం/క్రియా విశేషణం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avāpsyasi = Past passive participle; Śrutivipratipannā = Infinitive form.",
+        "te": "అవాప్స్యసి = భూతకాల కర్మణి విశేషణం; శ్రుతివిప్రతిపన్నా = తుమున్నంత రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Avāpsyasi' indicates the future realization Arjuna will gain. 'Śrutivipratipannā' describes the state of the intellect ('buddhiḥ') that Krishna identifies as the current obstacle. — Bhagavad Gita (2.53)",
+      "te": "'అవాప్స్యసి' అనేది అర్జునుడు భవిష్యత్తులో పొందబోయే యోగ స్థితిని తెలుపుతోంది. 'శ్రుతివిప్రతిపన్నా' అనేది కృష్ణుడు గుర్తించిన అర్జునుని ప్రస్తుత బుద్ధి యొక్క చంచల/సందిగ్ధ స్థితిని వివరిస్తోంది. — భగవద్గీత (2.53)"
+    }
+  },
+  {
+    "id": "bg-2-53-q6",
+    "verse": { "c": 2, "s": 53 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'śrutivipratipannāte' and 'buddhis-samādhau' in verse 2.53:",
+      "te": "2.53 శ్లోకంలోని 'శ్రుతివిప్రతిపన్నా' (శ్రుతివిప్రతిపన్నా + తే) మరియు 'బుద్ధిస్సమాధౌ' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Śrutivipratipannā + te -> śrutivipratipannā te (no sandhi change); buddhiḥ + samādhau -> buddhis samādhau (Visarga Visarjanīya/Sattva Sandhi: visarga before 's' remains visarga or becomes 's').",
+        "te": "శ్రుతివిప్రతిపన్నా + తే -> శ్రుతివిప్రతిపన్నా తే (మార్పు లేదు); బుద్ధిః + సమాధౌ -> బుద్ధిస్సమాధౌ (విసర్గ సత్త్వ సంధి: విసర్గ స్థానంలో 'స్' వచ్చినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Śrutivipratipannā + te -> śrutivipratipannāte; buddhiḥ + samādhau -> buddhisamādhau",
+        "te": "శ్రుతివిప్రతిపన్నా + తే -> శ్రుతివిప్రతిపన్నాతే; బుద్ధిః + సమాధౌ -> బుద్ధిసమాధౌ",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Śrutivipratipannā + te -> śrutivipratipannā-te; buddhiḥ + samādhau -> buddhīsamādhau",
+        "te": "శ్రుతివిప్రతిపన్నా + తే -> శ్రుతివిప్రతిపన్నా-తే; బుద్ధిః + సమాధౌ -> బుద్ధీసమాధౌ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Śrutivipratipannā + te -> śrutivipratipanne; buddhiḥ + samādhau -> buddhasamādhau",
+        "te": "శ్రుతివిప్రతిపన్నా + తే -> శ్రుతివిప్రతిపన్నే; బుద్ధిః + సమాధౌ -> బుద్ధసమాధౌ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Śrutivipratipannā' + 'te': No sandhi modification (final 'ā' is unchanged). 2. 'Buddhiḥ' (intellect) + 'samādhau' (in Samadhi): visarga 'ḥ' before dental consonant 's' changes to 's' via Visarga Sattva Sandhi -> 'buddhis samādhau'. — Bhagavad Gita (2.53)",
+      "te": "1. 'శ్రుతివిప్రతిపన్నా' + 'తే' లలో ఎలాంటి సంధి మార్పు లేదు. 2. 'బుద్ధిః' + 'సమాధౌ' లలో దంత్య వ్యంజనం 'స' ముందు విసర్గ 'స్' గా మారి 'బుద్ధిస్సమాధౌ' (విసర్గ సత్త్వ సంధి) అయినది. — భగవద్గీత (2.53)"
+    }
+  }
+]

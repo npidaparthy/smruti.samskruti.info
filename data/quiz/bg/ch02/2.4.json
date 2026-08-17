@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-4-q1",
+    "verse": { "c": 2, "s": 4 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.4?\n\n“arjuna uvāca | kathaṃ bhīṣmamahaṃ saṅkhye droṇaṃ ca madhusūdana | iṣubhiḥ prati yotsyāmi pūjārhāvarisūdana”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అర్జున ఉవాచ | కథం భీష్మమహం సంఖ్యే ద్రోణం చ మధుసూదన | ఇషుభిః ప్రతి యోత్స్యామి పూజార్హావరిసూదన”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — How, O Madhusudana, can I attack Bhishma and Drona in battle with arrows, when both are supremely worshipful, O slayer of enemies?",
+        "te": "అర్జునుడు పలికెను — ఓ మధుసూదనా! పూజార్హులైన భీష్ముడిని, ద్రోణుడిని నేను రణరంగంలో బాణాలతో ఎలా తిప్పి కొట్టగలను (ఎదురుదాడి చేయగలను), ఓ అరిసూదనా (శత్రు సంహారకా)?",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — O Madhusudana, Bhishma and Drona have both laid down their bows, so why should I continue to fight them in battle?",
+        "te": "అర్జునుడు పలికెను — ఓ మధుసూదనా! భీష్మ ద్రోణులు ఇద్దరూ తమ ధనుస్సులను విడిచిపెట్టారు, అలాంటప్పుడు నేను వారిపై ఎందుకు పోరాడాలి?",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — O Madhusudana, I shall target Bhishma and Drona first so that the remaining Kaurava army retreats in fear.",
+        "te": "అర్జునుడు పలికెను — ఓ మధుసూదనా! మిగిలిన కౌరవ సైన్యం భయంతో వెనక్కి తగ్గేలా నేను ముందుగా భీష్మ ద్రోణులపై బాణాలు ప్రయోగిస్తాను.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — O Arisudana, my bow Gandiva refuses to shoot arrows at anyone who holds a higher spiritual rank than me.",
+        "te": "అర్జునుడు పలికెను — ఓ అరిసూదనా! నాకంటే ఉన్నతమైన ఆధ్యాత్మిక హోదా ఉన్నవారిపై నా గాండీవ ధనుస్సు బాణాలను ప్రయోగించలేకపోతోంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Arjuna uvāca — kathaṃ bhīṣmam ahaṃ saṅkhye droṇaṃ ca madhusūdana / iṣubhiḥ prati yotsyāmi pūjārhāv arisūdana.\" Arjuna defends his hesitation by pointing out that Bhishma (his grandfather) and Drona (his archery guru) are 'pūjārhau' (worthy of worship with flowers, not arrows). — Bhagavad Gita (2.4)",
+      "te": "తన పితామహుడైన భీష్ముడు, విలువిద్యను నేర్పిన గురువైన ద్రోణుడు ఇద్దరూ పూజించదగిన మహనీయులు ('పూజార్హౌ'). అటువంటి వారిపై పూలకు బదులుగా బాణాలను ('ఇషుభిః') ఎలా ప్రయోగించగలనని అర్జునుడు కృష్ణుడిని అడుగుతున్నాడు. — భగవద్గీత (2.4)"
+    }
+  },
+  {
+    "id": "bg-2-4-q2",
+    "verse": { "c": 2, "s": 4 },
+    "concept": ["Epithet Analysis - Madhusudana & Arisudana"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Why does Arjuna use the epithets 'Madhusūdana' and 'Arisūdana' in verse 2.4, and what rhetorical point is he making?",
+      "te": "2.4 శ్లోకంలో అర్జునుడు శ్రీకృష్ణుడిని 'మధుసూదన' మరియు 'అరిసూదన' అని ఎందుకు సంబోధించాడు? దీని ద్వారా అతను ఏ తార్కిక ఆవేదనను వ్యక్తపరుస్తున్నాడు?"
+    },
+    "choices": [
+      {
+        "en": "Both titles signify 'Slayer of Enemies'; Arjuna contrasts Krishna's righteous destruction of demonic foes/enemies with his own predicament of being asked to slay worshipful elders and gurus who are not personal enemies.",
+        "te": "ఈ రెండు పదాలూ 'శత్రు సంహారకుడు' అనే అర్థాన్ని ఇస్తాయి; ధర్మానికి శత్రువులైన రాక్షసులను కృష్ణుడు చంపడం వేరు, పూజార్హులైన గురువులను, తాతలను తన స్వహస్తాలతో చంపడం వేరు అని అర్జునుడు వైరుధ్యాన్ని నిరూపిస్తున్నాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Madhusudana refers to Krishna's charioteering skill, while Arisudana refers to His royal wealth.",
+        "te": "మధుసూదన అనేది కృష్ణుని సారథ్య నైపుణ్యాన్ని, అరిసూదన అనేది అతని రాజ సంపదను సూచిస్తాయి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Madhusudana implies Krishna is peaceful, while Arisudana implies He is cruel.",
+        "te": "మధుసూదన అనగా ప్రశాంతమైనవాడని, అరిసూదన అనగా క్రూరుడని అర్థం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna uses them to ask Krishna to replace him as the lead archer in the war.",
+        "te": "తనకు బదులుగా కృష్ణుడిని విల్లు పట్టి యుద్ధంలో పోరాడమని కోరడానికి ఈ నామాలను ఉపయోగించాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Madhu-sūdana' (slayer of demon Madhu) and 'Ari-sūdana' (slayer of enemies). Arjuna subtly reasons: 'O Krishna, You destroy actual evil enemies (ari/demons). But Bhishma and Drona are not enemies—they are worshipful elders (pūjārhau). How can I shoot arrows at them?' — Bhagavad Gita (2.4)",
+      "te": "'మధుసూదన' మరియు 'అరిసూదన' అనగా శత్రువులను చంపేవాడు. 'ఓ కృష్ణా! నీవు చంపినది దుష్ట రాక్షసులైన శత్రువులను (అరి). కానీ భీష్మ ద్రోణులు శత్రువులు కారు, వారు పూజించదగిన పెద్దలు. వారిని నేను శత్రువులుగా చూసి బాణాలు ఎలా వేయగలను?' అని అర్జునుని ప్రశ్న. — భగవద్గీత (2.4)"
+    }
+  },
+  {
+    "id": "bg-2-4-q3",
+    "verse": { "c": 2, "s": 4 },
+    "concept": ["Ethical Dilemma - Reverence vs Duty"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What specific moral justification does Arjuna give in verse 2.4 for refusing to fight Bhishma and Drona?",
+      "te": "2.4 శ్లోకంలో భీష్మ ద్రోణులపై పోరాడటానికి నిరాకరిస్తూ అర్జునుడు చెప్పిన ప్రత్యేక నైతిక కారణం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "They are 'Pūjārhau' (deserving of worship and adoration), meaning scriptures mandate serving them with reverent offerings, not attacking them with sharp arrows ('iṣubhiḥ').",
+        "te": "వారు 'పూజార్హౌ' (పూజించదగినవారు); శాస్త్రాల ప్రకారం వారి పాదాలకు పుష్పాలతో పూజలు చేయాలి గానీ, పదునైన బాణాలతో ('ఇషుభిః') దాడి చేయకూడదు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "They possess invincible celestial weapons that no arrow can penetrate.",
+        "te": "వారి వద్ద ఏ బాణమూ ఛేదించలేని దివ్యాస్త్రాలు ఉన్నాయనే భయంతో.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "They have offered Arjuna a secret truce to divide the kingdom quietly.",
+        "te": "రాజ్యాన్ని రహస్యంగా పంచుకోవడానికి వారు అర్జునుడికి శాంతి ప్రతిపాదన పంపారనే ఆశతో.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "They have already resigned their positions as military commanders.",
+        "te": "వారు అప్పటికే సేనాపతి పదవులకు రాజీనామా చేశారనే కారణంతో.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Arjuna argues from the standpoint of traditional etiquette: gurus and grandfathers are meant to be worshipped at their feet ('pūjārha'). Counter-attacking them ('prati-yotsyāmi') with lethal arrows ('iṣubhiḥ') violates fundamental filial and guru-disciple piety. — Bhagavad Gita (2.4)",
+      "te": "గురువులకు, పెద్దలకు పాదాభివందనం చేసి పూజించాలి ('పూజార్హౌ'). అటువంటి మహనీయులపై ఎదురుదాడి చేస్తూ శరవర్షం కురిపించడం ('ఇషుభిః ప్రతి యోత్స్యామి') తీవ్రమైన గురుద్రోహమని అర్జునుడు భయపడుతున్నాడు. — భగవద్గీత (2.4)"
+    }
+  },
+  {
+    "id": "bg-2-4-q4",
+    "verse": { "c": 2, "s": 4 },
+    "concept": ["Sanskrit Vocabulary - Arrows & Counter-Attacking"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What do the Sanskrit words 'iṣubhiḥ' and 'prati yotsyāmi' mean in verse 2.4?",
+      "te": "2.4 శ్లోకంలోని 'ఇషుభిః' మరియు 'ప్రతి యోత్స్యామి' అనే పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Iṣubhiḥ = With arrows; Prati yotsyāmi = Shall I fight back / counter-attack in battle.",
+        "te": "ఇషుభిః = బాణముల చేత; ప్రతి యోత్స్యామి = నేను ఎదురుదాడి చేయగలనా / తిరిగి యుద్ధము చేయగలనా.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Iṣubhiḥ = With flowers; Prati yotsyāmi = Shall I worship.",
+        "te": "ఇషుభిః = పుష్పముల చేత; ప్రతి యోత్స్యామి = నేను పూజించగలనా.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Iṣubhiḥ = With chariots; Prati yotsyāmi = Shall I flee.",
+        "te": "ఇషుభిః = రథముల చేత; ప్రతి యోత్స్యామి = నేను పారిపోగలనా.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Iṣubhiḥ = With words; Prati yotsyāmi = Shall I praise.",
+        "te": "ఇషుభిః = మాటల చేత; ప్రతి యోత్స్యామి = నేను స్తుతించగలనా.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Iṣubhiḥ' is Instrumental plural of 'iṣu' (arrow). 'Prati' (against/back) + 'yotsyāmi' (1st person singular future active of 'yudhal' = I shall fight). 'Iṣubhiḥ prati yotsyāmi' = 'Shall I fight back with arrows?'. — Bhagavad Gita (2.4)",
+      "te": "'ఇషుభిః' అనగా బాణముల చేత (తృతీయా బహువచనం). 'ప్రతి యోత్స్యామి' అనగా ఎదురుదాడి చేయుట/తిరిగి పోరాడుట (భవిష్యత్కాల ఉత్తమ పురుష ఏకవచనం). 'బాణాలతో ఎదురుదాడి ఎలా చేయను?' అని అర్జునుని ప్రశ్నాంశం. — భగవద్గీత (2.4)"
+    }
+  },
+  {
+    "id": "bg-2-4-q5",
+    "verse": { "c": 2, "s": 4 },
+    "concept": ["Sanskrit Grammar - Future Verb 'Yotsyāmi'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical structure of the verb 'yotsyāmi' in verse 2.4:",
+      "te": "2.4 శ్లోకంలోని 'యోత్స్యామి' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "1st person singular future tense (Lṛṭ-lakāra) from root 'yudh' (to fight / wage war), combined with prefix 'prati' = 'I shall fight back'.",
+        "te": "'యుధ్' (పోరాడుట) అనే ధాతువు యొక్క భవిష్యత్కాల (లృట్ లకార) ఉత్తమ పురుష ఏకవచన రూపం — 'ప్రతి' అనే ఉపసర్గతో చేరి 'నేను ఎదురుదాడి చేయగలనా' అనే అర్థాన్ని ఇస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person plural present tense verb.",
+        "te": "ప్రథమ పురుష బహువచన వర్తమానకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Past tense verb meaning 'I fought previously'.",
+        "te": "భూతకాలంలో 'నేను పోరాడాను' అనే రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative mood command verb.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yotsyāmi' is 1st person singular Lṛṭ-lakāra (future tense) of root 'yudh' (yotsyati, yotsyataḥ, yotsyanti ... yotsyāmi). Prefixed with 'prati', it forms 'prati yotsyāmi' ('I shall fight back / retaliate'). — Bhagavad Gita (2.4)",
+      "te": "'యోత్స్యామి' అనేది 'యుధ్' (యుద్ధం చేయు) ధాతువు యొక్క లృట్ లకార (భవిష్యత్కాల) ఉత్తమ పురుష ఏకవచన రూపం. 'కథం ప్రతి యోత్స్యామి' అనగా 'నేను ఏ విధంగా ఎదురుదాడి చేయగలను?' అని ప్రశ్నిస్తున్నాడు. — భగవద్గీత (2.4)"
+    }
+  },
+  {
+    "id": "bg-2-4-q6",
+    "verse": { "c": 2, "s": 4 },
+    "concept": ["Sanskrit Grammar - Dual Case 'Pūjārhāv arisūdana'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Break down the Sandhi and dual grammatical form of 'pūjārhāvarisūdana' in verse 2.4:",
+      "te": "2.4 శ్లోకంలోని 'పూజార్హావరిసూదన' అనే పదబంధం యొక్క సంధి విచ్ఛేదము మరియు ద్వివచన వ్యాకరణ రూపాన్ని చెప్పండి:"
+    },
+    "choices": [
+      {
+        "en": "Pūjārhau (Nominative Dual Masculine = 'both deserving worship') + arisūdana (Vocative singular = 'O slayer of enemies'). Under Yan/Ayādeśa Sandhi, dual 'au' before vowel 'a' becomes 'āv' -> 'pūjārhāv arisūdana'.",
+        "te": "పూజార్హౌ (ప్రథమా విభక్తి ద్వివచన పుంలింగ రూపం = 'పూజార్హులైన ఇద్దరు') + అరిసూదన (సంబోధనా ప్రథమా ఏకవచనం). అయావాదేశ సంధి ప్రకారం ద్వివచన 'ఔ' కారానికి 'అ' పరమైనప్పుడు 'ఆవ్' గా మారి 'పూజార్హావ్ అరిసూదన' అయినది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Pūjārhaḥ + arisūdana (Visarga Sandhi).",
+        "te": "పూజార్హః + అరిసూదన.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Pūjārhān + arisūdana (Anunāsika Sandhi).",
+        "te": "పూజార్హాన్ + అరిసూదన.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Pūjārhe + arisūdana (Guṇa Sandhi).",
+        "te": "పూజార్హే + అరిసూదన.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Pūjārhau' is Nominative Dual Masculine referring to two individuals (Bhishma and Drona). When followed by 'arisūdana' (starting with vowel 'a'), the ending 'au' converts to 'āv' via Ayādeśa Sandhi, yielding 'pūjārhāv arisūdana'. — Bhagavad Gita (2.4)",
+      "te": "భీష్మ ద్రోణులు ఇద్దరినీ సూచించడానికి 'పూజార్హౌ' అనే ద్వివచన రూపం వాడబడింది. అచ్చు 'అ' ముందు ఉన్నప్పుడు 'ఔ' కారం 'ఆవ్' గా మారి 'పూజార్హౌ' + 'అరిసూదన' = 'పూజార్హావరిసూదన' అయినది. — భగవద్గీత (2.4)"
+    }
+  }
+]

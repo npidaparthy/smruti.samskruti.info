@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-45-q1",
+    "verse": { "c": 2, "s": 45 },
+    "concept": ["Verse Meaning & Transcendence of the Three Gunas"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.45?\n\n“traiguṇyaviṣayā vedā nistraiguṇyo bhavārjuna | nirdvandvo nityasattvastho niryogakṣema ātmavān”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“త్రైగుణ్యవిషయా వేదా నిస్త్రైగుణ్యో భవార్జున | నిర్ద్వంద్వో నిత్యసత్త్వస్థో నిర్యోగక్షేమ ఆత్మవాన్”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — The Vedas deal mainly with subjects under the three modes of material nature. O Arjuna, rise above these three modes! Be free from all dualities, stay established in pure goodness, become free from the anxiety of gain and safety, and be firmly self-possessed.",
+        "te": "శ్రీభగవానుడు పలికెను — వేదములు త్రిగుణాత్మకములైన భౌతిక విషయములను వర్ణించుచున్నవి. కావున ఓ అర్జునా! నీవు త్రిగుణములకు అతీతుడవు కమ్ము! సమస్త ద్వంద్వముల నుండి విముక్తుడవై, నిత్య సత్త్వ గుణము నందు (పరిశుద్ధమైన చైతన్యము నందు) స్థితుడవై, యోగక్షేమముల (లభ్యము కానిదానిని కోరడం, ఉన్నదానిని కాపాడుకోవడం అనే ఆలోచనల) నుండి విడివడి, ఆత్మవంతుడవు (ఆత్మయందు నిలిచినవాడవు) కమ్ము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — The Vedas deal exclusively with pure spiritual liberation; therefore, O Arjuna, perform all ritual sacrifices prescribed in them to conquer the three worlds.",
+        "te": "శ్రీభగవానుడు పలికెను — వేదాలు కేవలం పరిశుద్ధ ఆధ్యాత్మిక మోక్షాన్ని మాత్రమే వివరిస్తాయి; కాబట్టి ఓ అర్జునా! ముల్లోకాలను జయించడానికి అందులో చెప్పబడిన సమస్త కర్మకాండలను నిర్వర్తించు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — The three Gunas represent the three Vedic fires; O Arjuna, worship these three fires daily to ensure material opulence and protection.",
+        "te": "శ్రీభగవానుడు పలికెను — మూడు గుణాలు మూడు వేద అగ్నులను సూచిస్తాయి; ఓ అర్జునా! భౌతిక సంపదను, రక్షణను పొందడానికి ఈ మూడు అగ్నులను నిత్యం ఆరాధించు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — To go beyond the Vedas, a warrior must abandon all righteous duty and retreat to solitary forests without weapons.",
+        "te": "శ్రీభగవానుడు పలికెను — వేదాలను దాటి వెళ్లడానికి యోధుడు తన సమస్త స్వధర్మాన్ని విడిచిపెట్టి ఆయుధాలు లేకుండా ఏకాంత అడవులకు వెళ్లాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Traiguṇya-viṣayā vedā nistraiguṇyo bhavārjuna / nirdvandvo nityasattvastho niryogakṣema ātmavān.\" Krishna advises Arjuna to transcend the ritualistic, material sphere of the Vedas ('traiguṇya-viṣayāḥ'). He provides five directives for spiritual elevation: 1. Nistraiguṇyaḥ (transcend Sattva, Rajas, Tamas), 2. Nirdvandvaḥ (free from dualities like pleasure/pain), 3. Nitya-sattva-sthaḥ (rooted in pure spiritual being), 4. Niryoga-kṣemaḥ (free from anxiety over acquiring and maintaining wealth), 5. Ātmavān (established in the Self). — Bhagavad Gita (2.45)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ అర్జునుడిని వేదాలలోని కర్మకాండల (త్రిగుణాల వర్ణనల) పరిధిని దాటి ఊర్థ్వగతికి వెళ్లమని ఉపదేశించాడు ('నిస్త్రైగుణ్యో భవ'). దానికి ఐదు ఆధ్యాత్మిక సూత్రాలను ఇచ్చాడు: 1. త్రిగుణాతీతుడవు కావడం, 2. ద్వంద్వ రహితుడవు కావడం ('నిర్ద్వంద్వః'), 3. నిత్య సత్త్వంలో నిలవడం ('నిత్యసత్త్వస్థః'), 4. యోగక్షేమాల ఆందోళనను వదలడం ('నిర్యోగక్షేమః'), 5. ఆత్మయందు స్థిరపడడం ('ఆత్మవాన్'). — భగవద్గీత (2.45)"
+    }
+  },
+  {
+    "id": "bg-2-45-q2",
+    "verse": { "c": 2, "s": 45 },
+    "concept": ["Philosophical Concept - Traiguṇya-viṣayā Vedā"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does Lord Krishna mean by stating that 'the Vedas deal with subjects of the three Gunas' ('Traiguṇya-viṣayā vedā') in verse 2.45?",
+      "te": "2.45 శ్లోకంలో 'వేదాలు త్రిగుణాల విషయాలను వర్ణించుచున్నవి' ('త్రైగుణ్యవిషయా వేదా') అని శ్రీకృష్ణుడు చెప్పడంలో గల పరమార్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "That the ritualistic portion (Karma-kāṇḍa) of the Vedas caters to minds bound by the three material modes (Sattva, Rajas, Tamas) seeking worldly or heavenly rewards; a true seeker must move beyond this to Vedanta/Self-knowledge.",
+        "te": "వేదములలోని కర్మకాండ విభాగము త్రిగుణాల (సత్త్వ, రజస్, తమస్సుల) ప్రభావంలో ఉంటూ లౌకిక, స్వర్గలోక భోగాలను కోరుకునే సామాన్యుల కోసం ఉద్దేశించబడినదని; ముముక్షువైన సాధకుడు ఈ కర్మకాండల పరిధిని దాటి జ్ఞానకాండ (వేదాంత)మైన ఆత్మసత్యాన్ని చేరుకోవాలని.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "That the Vedas are defective scriptures created by mortal human poets.",
+        "te": "వేదాలు మానవ మాత్రులైన కవులచే రచించబడిన దోషపూరితమైన గ్రంథాలని.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "That the three Gunas are eternal gods who govern the chanting of Vedic hymns.",
+        "te": "త్రిగుణాలు వేద మంత్రోచ్ఛారణను శాసించే శాశ్వత దేవతలని.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "That Arjuna should study three new secret Vedas to learn martial skills.",
+        "te": "రణ నైపుణ్యాలను నేర్చుకోవడానికి అర్జునుడు మూడు నూతన రహస్య వేదాలను అధ్యయనం చేయాలని.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The Vedas cover both empirical life (Karma-kāṇḍa, dealing with the three Gunas of Prakriti) and transcendent Truth (Jnana-kāṇḍa/Upanishads). Krishna urges Arjuna not to get trapped in the preliminary, Guna-bound ritualistic section, but to ascend to the ultimate spiritual goal. — Bhagavad Gita (2.45)",
+      "te": "వేదాలలో ప్రాపంచిక జీవనానికి సంబంధించిన కర్మకాండ (సత్త్వ, రజో, తమో గుణాల పరిధిలో ఉండునది), మోక్షానికి సంబంధించిన జ్ఞానకాండ (ఉపనిషత్తులు) రెండూ ఉంటాయి. కృష్ణుడు అర్జునుడిని ప్రాథమికమైన కామ్య కర్మకాండల గూటిలోనే ఉండిపోకుండా పరమాత్మ జ్ఞానానికి ఎదగమని ప్రోత్సహిస్తున్నాడు. — భగవద్గీత (2.45)"
+    }
+  },
+  {
+    "id": "bg-2-45-q3",
+    "verse": { "c": 2, "s": 45 },
+    "concept": ["Fivefold Spiritual Imperatives - Niryoga-kṣema & Ātmavān"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the practical spiritual directives 'Niryoga-kṣemaḥ' and 'Ātmavān' signify in verse 2.45?",
+      "te": "2.45 శ్లోకంలోని 'నిర్యోగక్షేమః' మరియు 'ఆత్మవాన్' అనే ఆచరణాత్మక ఆధ్యాత్మిక నిర్దేశాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Niryoga-kṣemaḥ = Free from anxiety over acquiring what one lacks ('Yoga') and preserving what one owns ('Kṣema'); Ātmavān = Firmly anchored in self-possession and the Supreme Self.",
+        "te": "నిర్యోగక్షేమః = లేనిదానిని సంపాదించడం ('యోగ'), ఉన్నదానిని కాపాడుకోవడం ('క్షేమ') అనే తాపత్రయ ఆందోళనల నుండి విముక్తుడవు కావడం; ఆత్మవాన్ = ఆత్మజ్ఞానము నందు, స్వస్వరూపము నందు స్థిరంగా నిలిచినవాడవు కావడం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Niryoga-kṣemaḥ = Rejecting yoga practice; Ātmavān = Possessing physical strength.",
+        "te": "నిర్యోగక్షేమః = యోగాభ్యాసాన్ని తిరస్కరించడం; ఆత్మవాన్ = శారీరక బలాన్ని కలిగి ఉండటం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Niryoga-kṣemaḥ = Giving away all clothes; Ātmavān = Speaking only truth.",
+        "te": "నిర్యోగక్షేమః = దుస్తులన్నింటినీ దానం చేయడం; ఆత్మవాన్ = కేవలం సత్యాన్నే మాట్లాడటం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Niryoga-kṣemaḥ = Living in royal luxury; Ātmavān = Worshiping ancestors.",
+        "te": "నిర్యోగక్షేమః = రాజస భోగాలలో జీవించడం; ఆత్మవాన్ = పితృదేవతలను ఆరాధించడం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yoga' here means acquisition of unacquired objects; 'Kṣema' means protection of acquired objects. 'Niryoga-kṣema' means transcending anxiety for worldly gain and security. 'Ātmavān' means being vigilant, mindful, and centered in the Self rather than outer circumstances. — Bhagavad Gita (2.45)",
+      "te": "'యోగము' అనగా లేనిదానిని సంపాదించుకోవడం; 'క్షేమము' అనగా సంపాదించినదానిని పదిలపరుచుకోవడం. 'నిర్యోగక్షేమః' అనగా భౌతిక లాభాల, రక్షణల ఆందోళనల నుండి విడుదల పొందడం. 'ఆత్మవాన్' అనగా బాహ్య పరిస్థితుల ప్రభావానికి లోనుకాకుండా నిరంతరం అంతరాత్మ యందే స్థిరమై ఉండుట. — భగవద్గీత (2.45)"
+    }
+  },
+  {
+    "id": "bg-2-45-q4",
+    "verse": { "c": 2, "s": 45 },
+    "concept": ["Sanskrit Vocabulary - The Attributes of a Transcendent Mind"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit compounds 'Nistraiguṇyaḥ', 'Nirdvandvaḥ', and 'Nitya-sattva-sthaḥ' mean in verse 2.45?",
+      "te": "2.45 శ్లోకంలోని 'నిస్త్రైగుణ్యః', 'నిర్ద్వంద్వః', మరియు 'నిత్యసత్త్వస్థః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Nistraiguṇyaḥ = Beyond the three modes of nature; Nirdvandvaḥ = Free from dualities (pleasure/pain, heat/cold); Nitya-sattva-sthaḥ = Eternally established in pure spiritual goodness/being.",
+        "te": "నిస్త్రైగుణ్యః = త్రిగుణములకు (సత్త్వ, రజస్, తమస్సులకు) అతీతుడు; నిర్ద్వంద్వః = ద్వంద్వముల (సుఖదుఃఖాలు, శీతోష్ణాలు) నుండి విముక్తుడు; నిత్యసత్త్వస్థః = ఎల్లప్పుడూ పరిశుద్ధమైన సత్త్వ గుణము నందు (ఆత్మ చైతన్యంలో) స్థిరపడినవాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nistraiguṇyaḥ = Lacking three qualities; Nirdvandvaḥ = Living alone without family; Nitya-sattva-sthaḥ = Eating vegetarian food daily.",
+        "te": "నిస్త్రైగుణ్యః = మూడు గుణాలు లేనివాడు; నిర్ద్వంద్వః = కుటుంబం లేకుండా ఏకాంతంగా జీవించేవాడు; నిత్యసత్త్వస్థః = నిత్యం శాకాహారాన్ని తినేవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nistraiguṇyaḥ = Master of three Vedas; Nirdvandvaḥ = Without weapons; Nitya-sattva-sthaḥ = Living in truth.",
+        "te": "నిస్త్రైగుణ్యః = మూడు వేదాలలో ప్రావీణ్యం గలవాడు; నిర్ద్వంద్వః = ఆయుధాలు లేనివాడు; నిత్యసత్త్వస్థః = సత్యంలో జీవించేవాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nistraiguṇyaḥ = Three-eyed; Nirdvandvaḥ = Fearless in fight; Nitya-sattva-sthaḥ = Always energetic.",
+        "te": "నిస్త్రైగుణ్యః = ముక్కంటి గలవాడు; నిర్ద్వంద్వః = యుద్ధంలో భయం లేనివాడు; నిత్యసత్త్వస్థః = నిత్యం ఉత్సాహంగా ఉండేవాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Nistraiguṇyaḥ' = 'nis' (free from) + 'traiguṇya' (the triad of modes). 2. 'Nirdvandvaḥ' = 'nis' + 'dvandva' (pairs of opposites like rāga-dveṣa). 3. 'Nitya-sattva-sthaḥ' = 'nitya' (eternally) + 'sattva' (purity / essential being) + 'stha' (abiding in). — Bhagavad Gita (2.45)",
+      "te": "1. 'నిస్త్రైగుణ్యః' = త్రిగుణాల ప్రభావం లేనివాడు. 2. 'నిర్ద్వంద్వః' = పరస్పర వ్యతిరేక భావనలైన రాగద్వేషాల నుండి విముక్తుడైనవాడు. 3. 'నిత్యసత్త్వస్థః' = నిరంతరం పరిశుద్ధ ఆత్మస్వరూపంలోనే నెలకొని ఉండువాడు. — భగవద్గీత (2.45)"
+    }
+  },
+  {
+    "id": "bg-2-45-q5",
+    "verse": { "c": 2, "s": 45 },
+    "concept": ["Sanskrit Grammar - Imperative Predicate 'Bhava'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'bhava' in 'nistraiguṇyo bhavārjuna' in verse 2.45:",
+      "te": "2.45 శ్లోకంలోని 'నిస్త్రైగుణ్యో భవార్జున' అను వాక్యభాగంలో ఉన్న 'భవ' అనే పదానికి గల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "2nd person singular Imperative mood Parasmaipada (Loṭ-lakāra) from root 'bhū' (to be / become), meaning 'be! / become!', addressing Arjuna ('O Arjuna, become transcendent of the three Gunas!').",
+        "te": "'భూ' (అగు/జరుగు) అనే ధాతువు యొక్క లోట్ లకార (ఆజ్ఞార్థక) మధ్యమ పురుష ఏకవచన పరస్మైపద రూపం — 'అవుము! / కమ్ము!' (అర్జునుడిని ఉద్దేశించి: 'ఓ అర్జునా! నీవు త్రిగుణాతీతుడవు కమ్ము!').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person singular present tense verb form.",
+        "te": "ప్రథమ పురుష ఏకవచన వర్తమానకాల క్రియా రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1st person plural future tense verb form.",
+        "te": "ఉత్తమ పురుష బహువచన భవిష్యత్కాల క్రియా రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Past passive participle form.",
+        "te": "భూతకాల కర్మణి విశేషణ రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Bhava' is the 2nd person singular imperative (Loṭ-lakāra) of root 'bhū' (bhavatu, bhavatām, bhavantu ... bhava). Joined with vocative 'Arjuna' and nominative predicate 'Nistraiguṇyaḥ': 'Nistraiguṇyaḥ bhava, Arjuna' = 'O Arjuna, become one who is beyond the three Gunas!'. — Bhagavad Gita (2.45)",
+      "te": "'భూ' ధాతువు లోట్ లకార (ఆజ్ఞార్థక) మధ్యమ పురుష ఏకవచనం 'భవ' (కమ్ము/కండి). 'అర్జున' అనే సంబోధన ప్రథమా విభక్తితో, 'నిస్త్రైగుణ్యః' అనే కర్తృత్వ విశేషణంతో చేరి 'ఓ అర్జునా! నీవు త్రిగుణాతీతుడవు కమ్ము!' అని ఆదేశిస్తోంది. — భగవద్గీత (2.45)"
+    }
+  },
+  {
+    "id": "bg-2-45-q6",
+    "verse": { "c": 2, "s": 45 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'nistraiguṇyo bhava' and 'niryogakṣema ātmavān' in verse 2.45:",
+      "te": "2.45 శ్లోకంలోని 'నిస్త్రైగుణ్యో భవ' మరియు 'నిర్యోగక్షేమ ఆత్మవాన్' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Nistraiguṇyaḥ + bhava -> nistraiguṇyo bhava (Visarga Uttva Sandhi: visarga before voiced consonant 'bh' -> 'o'); bhava + arjuna -> bhavārjuna (Savarna-dirgha Sandhi: a + a -> ā); niryogakṣemaḥ + ātmavān -> niryogakṣema ātmavān (Visarga Lopa Sandhi: visarga before vowel 'ā' drops).",
+        "te": "నిస్త్రైగుణ్యః + భవ -> నిస్త్రైగుణ్యో భవ (విసర్గ ఉత్త్వ సంధి: ఘోష వ్యంజనం 'భ' ముందు విసర్గ 'ఓ' గా మారినది); భవ + అర్జున -> భవార్జున (సవర్ణదీర్ఘ సంధి: అ + అ -> ఆ); నిర్యోగక్షేమః + ఆత్మవాన్ -> నిర్యోగక్షేమ ఆత్మవాన్ (విసర్గ లోప సంధి: అచ్చు 'ఆ' ముందు ఉన్న విసర్గ లోపించినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nistraiguṇya + bhava -> nistraiguṇyabhava; niryogakṣemam + ātmavān -> niryogakṣemamātmavān",
+        "te": "నిస్త్రైగుణ్య + భవ -> నిస్త్రైగుణ్యభవ; నిర్యోగక్షేమమ్ + ఆత్మవాన్ -> నిర్యోగక్షేమమాత్మవాన్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nistraiguṇyan + bhava -> nistraiguṇyambhava; niryogakṣeman + ātmavān -> niryogakṣemanātmavān",
+        "te": "నిస్త్రైగుణ్యన్ + భవ -> నిస్త్రైగుణ్యమ్భవ; నిర్యోగక్షేమన్ + ఆత్మవాన్ -> నిర్యోగక్షేమనాత్మవాన్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nistraiguṇye + bhava -> nistraiguṇyebhava; niryogakṣeme + ātmavān -> niryogakṣeme'tmavān",
+        "te": "నిస్త్రైగుణ్యే + భవ -> నిస్త్రైగుణ్యేభవ; నిర్యోగక్షేమే + ఆత్మవాన్ -> నిర్యోగక్షేమేఽత్మవాన్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Nistraiguṇyaḥ' + 'bhava': visarga preceded by 'a' converts to 'o' before voiced stop 'bh' via Visarga Uttva Sandhi -> 'nistraiguṇyo bhava'. 2. 'Bhava' + 'arjuna': short 'a' + short 'a' merges into long 'ā' via Savarna-dirgha Sandhi -> 'bhavārjuna'. 3. 'Niryogakṣemaḥ' + 'ātmavān': visarga preceded by 'a' drops before non-homogeneous vowel 'ā' via Visarga Lopa Sandhi -> 'niryogakṣema ātmavān'. — Bhagavad Gita (2.45)",
+      "te": "1. 'నిస్త్రైగుణ్యః' + 'భవ' లలో ఘోష వ్యంజనం ముందు విసర్గ 'ఓ' గా మారి 'నిస్త్రైగుణ్యో భవ' (విసర్గ ఉత్త్వ సంధి) అయినది. 2. 'భవ' + 'అర్జున' లలో 'అ' + 'అ' కలసి సవర్ణదీర్ఘ సంధి ద్వారా 'భవార్జున' అయినది. 3. 'నిర్యోగక్షేమః' + 'ఆత్మవాన్' లలో అచ్చు ముందు విసర్గ లోపించి 'నిర్యోగక్షేమ ఆత్మవాన్' (విసర్గ లోప సంధి) అని సిద్ధించింది. — భగవద్గీత (2.45)"
+    }
+  }
+]

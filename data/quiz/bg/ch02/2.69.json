@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-69-q1",
+    "verse": { "c": 2, "s": 69 },
+    "concept": ["Verse Meaning & The Great Paradox of Night and Day"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.69?\n\n“yā niśā sarvabhūtānāṃ tasyāṃ jāgarti saṃyamī | yasyāṃ jāgrati bhūtāni sā niśā paśyato muneḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యా నిశా సర్వభూతానాం తస్యాం జాగర్తి సంయమీ | యస్యాం జాగ్రతి భూతాని సా నిశా పశ్యతో మునేః”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — That which is night (darkness/unawareness) for all living beings, in that state of Supreme Reality the self-controlled sage remains awake; and that in which all beings are awake (sensory/worldly pursuits), that is night for the introspective seer.",
+        "te": "శ్రీభగవానుడు పలికెను — సమస్త ప్రాణులకు ఏది నిశాకాలమో (అజ్ఞానమనే రాత్రియో/అగోచరమో), ఆ ఆత్మస్వరూప స్థితి యందు నిగ్రహము గల యోగి/సంయమి మేల్కొనియుండును; ప్రాణులన్నీ ఏ లౌకిక విషయాల యందు మేల్కొనియుంటాయో (ఆసక్తి చూపుతాయో), ఆత్మజ్ఞానియైన మునికి అది నిశాకాలము (అసత్యమైన నిద్ర వంటిది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Wise sages stay physically awake during actual nighttime to study scriptures, while ordinary citizens sleep soundly.",
+        "te": "శ్రీభగవానుడు పలికెను — సాధారణ ప్రజలు హాయిగా నిద్రపోతున్నప్పుడు జ్ఞానులు రాత్రివేళల్లో మేల్కొని శాస్త్రాలను చదువుతారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — A self-controlled sage sleeps during the day and works only at night to avoid seeing worldly temptations.",
+        "te": "శ్రీభగవానుడు పలికెను — లౌకిక ఆకర్షణలు కనిపించకుండా ఉండటానికి సంయమి పగటిపూట నిద్రపోయి రాత్రివేళ మాత్రమే పనులు చేస్తాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Ordinary beings and sages experience physical day and night in completely opposite time zones on earth.",
+        "te": "శ్రీభగవానుడు పలికెను — సాధారణ జీవులు, మునులు భూమిపై భౌతికంగా వేర్వేరు టైమ్‌జోన్‌లలో పగలు మరియు రాత్రిని అనుభవిస్తారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Yā niśā sarva-bhūtānāṃ tasyāṃ jāgarti saṃyamī / yasyāṃ jāgrati bhūtāni sā niśā paśyato muneḥ.\" Krishna uses a profound metaphor of 'Night' (Niśā) and 'Day/Awakening' (Jāgaraṇa). To ignorant beings, the unchangeable Ātman is like pitch-black night (unperceived); but the disciplined sage ('saṃyamī') is fully awake to it. Conversely, worldly sense-enjoyments are 'day' (vivid, real) to ordinary beings, whereas the enlightened seer ('paśyan muniḥ') views them as illusory 'night' (devoid of real substance). — Bhagavad Gita (2.69)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ 'రాత్రి' (అంధకారము/జ్ఞానరాహిత్యము) మరియు 'మేల్కొనుట' (వివేకము) అనే దివ్య రూపకాన్ని ఉపయోగించాడు. అజ్ఞానులకు నిరాకార ఆత్మసత్యము చీకటి రాత్రి వంటిది (కనిపించనిది); కానీ సంయమియైన యోగి ఆ ఆత్మసత్యంలో మేల్కొనియుంటాడు ('తస్యామ్ జాగర్తి'). అదే సమయంలో అజ్ఞానులు మేల్కొని ప్రవర్తించే లౌకిక భోగాలు ఆత్మజ్ఞానికి 'రాత్రి' వంటివి (మిథ్య/సారహీనమైనవి). — భగవద్గీత (2.69)"
+    }
+  },
+  {
+    "id": "bg-2-69-q2",
+    "verse": { "c": 2, "s": 69 },
+    "concept": ["Philosophical Metaphor - Meaning of Niśā and Jāgarti"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do 'Night' (Niśā) and 'Awakening' (Jāgarti) represent in the metaphysical framework of verse 2.69?",
+      "te": "2.69 శ్లోకంలో 'నిశా' (రాత్రి) మరియు 'జాగర్తి' (మేల్కొనుట) అనే పదాలు వేదాంత పరిభాషలో దేనికి ప్రతీకలు?"
+    },
+    "choices": [
+      {
+        "en": "Niśā = Ignorance (Avidyā) or unawareness of the Divine Ātman; Jāgarti = Spiritual enlightenment, self-awareness, and abiding in the Truth.",
+        "te": "నిశా = ఆత్మసత్యం పట్ల ఉండే అజ్ఞానము / అగోచర భ్రాంతి; జాగర్తి = ఆత్మబోధ / ఆధ్యాత్మిక మేల్కాంచు / జ్ఞాన చైతన్యంలో నిలిచియుండుట.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Niśā = Physical dark hours from sunset to sunrise; Jāgarti = Physical wakefulness of bodily eyes.",
+        "te": "నిశా = సూర్యాస్తమయం నుండి సూర్యోదయం వరకు ఉండే భౌతిక రాత్రి కాలం; జాగర్తి = శారీరక కళ్లతో మేల్కొని ఉండటం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Niśā = Battlefield defeat; Jāgarti = Victory in physical war.",
+        "te": "నిశా = రణరంగంలో ఓటమి; జాగర్తి = భౌతిక యుద్ధంలో విజయం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Niśā = Poverty and lack of food; Jāgarti = Material wealth and royal banquets.",
+        "te": "నిశా = పేదరికం, ఆహారం లేకపోవడం; జాగర్తి = భౌతిక సంపద, విందు భోజనాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Shankara's Vedantic commentary, 'Niśā' represents Avidyā (the darkness of non-realization of Paramatman). What is completely hidden to worldly minds (Self-knowledge) is radiant day to the 'Saṃyamī'. What seems blindingly important to worldly minds (transient sensory pleasures) is recognized as dark illusion ('Niśā') by the enlightened Muni. — Bhagavad Gita (2.69)",
+      "te": "శంకరాచార్యాది వ్యాఖ్యానాల ప్రకారం 'నిశా' అనగా అవిద్య (పరమాత్మ అనుభూతి లేని అంధకారము). లౌకిక మనస్సులకు ఏ ఆత్మసత్యమైతే అగోచరంగా ఉంటుందో, అది సంయమికి దివ్యకాంతివంతమైన సత్యం. లౌకిక మనస్సులకు అత్యంత ముఖ్యమైనవిగా కనిపించే అశాశ్వత భోగాలు జ్ఞానికి సత్యం లేని 'రాత్రి' (భ్రాంతి) వంటివి. — భగవద్గీత (2.69)"
+    }
+  },
+  {
+    "id": "bg-2-69-q3",
+    "verse": { "c": 2, "s": 69 },
+    "concept": ["Epistemic Contrast - Saṃyamī vs Sarva-bhūtāni"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What fundamental epistemological contrast does verse 2.69 draw between a 'Saṃyamī' (self-controlled sage) and 'Sarva-bhūtāni' (all ordinary creatures)?",
+      "te": "2.69 శ్లోకంలో 'సంయమీ' (ఆత్మనిగ్రహం గల యోగి) మరియు 'సర్వభూతాని' (సాధారణ జీవులు) ల మధ్య ప్రతిపాదించబడిన జ్ఞానమీమాంస సంబంధిత (Epistemological) ప్రాథమిక వ్యత్యాసం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Their value-systems and perceptions of reality are diametrically opposed: ordinary creatures perceive the unreal world as real and the real Ātman as non-existent, whereas the sage perceives the Ātman as the sole Reality and the world as transient phenomenon.",
+        "te": "వారి విలువలు, సత్య గ్రహణ దృష్టి పరస్పర విరుద్ధంగా ఉంటాయి: సాధారణ జీవులు అశాశ్వత ప్రపంచాన్ని సత్యమని భావించి శాశ్వత ఆత్మను గ్రహించలేరు; ఆత్మజ్ఞాని ఆత్మను మాత్రమే ఏకైక సత్యంగా భావిస్తూ ప్రపంచాన్ని అశాశ్వత దృశ్యంగా గ్రహిస్తాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Ordinary creatures live in cities while the Saṃyamī lives strictly in subterranean caves.",
+        "te": "సాధారణ జీవులు నగరాల్లో జీవిస్తుండగా సంయమి కేవలం భూగర్భ గుహల్లో మాత్రమే జీవిస్తాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Ordinary creatures need food to survive while a Saṃyamī needs no physical nourishment.",
+        "te": "సాధారణ జీవులకు జీవించడానికి ఆహారం అవసరం కాగా సంయమికి శారీరక పోషణతో పనిలేదు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Ordinary creatures speak regional languages while a Saṃyamī speaks only in silent gestures.",
+        "te": "సాధారణ జీవులు ప్రాంతీయ భాషలు మాట్లాడగా సంయమి కేవలం మౌన సంకేతాలలో మాత్రమే మాట్లాడతాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The verse highlights the inversion of spiritual worldview. What is real to the ignorant (sensory experience) is unreal/night to the wise; what is real to the wise (Brahman/Ātman) is nonexistent/night to the ignorant. The 'Saṃyamī' is one whose vision ('paśyato muneḥ') is rooted in Truth. — Bhagavad Gita (2.69)",
+      "te": "ఈ శ్లోకం ఆధ్యాత్మిక దృక్కోణంలో ఉండే పరస్పర వైపరిత్యాన్ని చూపిస్తుంది. అజ్ఞానికి ఏది సత్యమో (ఇంద్రియ భోగాలు) జ్ఞానికి అది అసత్యం/రాత్రి; జ్ఞానికి ఏది సత్యమో (బ్రహ్మము/ఆత్మ) అజ్ఞానికి అది అసద్భావము/రాత్రి. పశ్యతో ముని ('దర్శించు జ్ఞాని') సత్యంలో స్థిరపడిన దృష్టి కలిగి ఉంటాడు. — భగవద్గీత (2.69)"
+    }
+  },
+  {
+    "id": "bg-2-69-q4",
+    "verse": { "c": 2, "s": 69 },
+    "concept": ["Sanskrit Vocabulary - Night, Awake, Seer, Self-Controlled"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'niśā', 'jāgarti', 'saṃyamī', and 'paśyataḥ' mean in verse 2.69?",
+      "te": "2.69 శ్లోకంలోని 'నిశా', 'జాగర్తి', 'సంయమీ', మరియు 'పశ్యతః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Niśā = Night / spiritual darkness; Jāgarti = Remains awake / keeps vigil; Saṃyamī = The self-controlled practitioner; Paśyataḥ = Of the seeing / realized introspective sage.",
+        "te": "నిశా = రాత్రి / అజ్ఞానమనే అంధకారము; జాగర్తి = మేల్కొనియుండును / చైతన్యంతో ఉండును; సంయమీ = ఇంద్రియ నిగ్రహము గల యోగి; పశ్యతః = సత్యాన్ని దర్శించే జ్ఞానికి/మునికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Niśā = Day; Jāgarti = Sleeps; Saṃyamī = Uncontrolled person; Paśyataḥ = Of the blind man.",
+        "te": "నిశా = పగలు; జాగర్తి = నిద్రపోవును; సంయమీ = అదుపులేని మనిషి; పశ్యతః = గుడ్డివానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Niśā = Battle; Jāgarti = Fights; Saṃyamī = King; Paśyataḥ = Of the enemy.",
+        "te": "నిశా = యుద్ధము; జాగర్తి = పోరాడును; సంయమీ = రాజు; పశ్యతః = శత్రువుకి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Niśā = Food; Jāgarti = Eats; Saṃyamī = Scholar; Paśyataḥ = Of the child.",
+        "te": "నిశా = ఆహారము; జాగర్తి = తినును; సంయమీ = పండితుడు; పశ్యతః = బాలునికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Niśā' means night. 'Jāgarti' is 3rd person singular present indicative of root 'jāgṛ' (remains awake). 'Saṃyamīn' (from 'saṃyama') means one who has mastered his senses. 'Paśyataḥ' is Genitive Singular Present Active Participle of root 'dṛś' (of the seeing one). — Bhagavad Gita (2.69)",
+      "te": "'నిశా' అనగా రాత్రి. 'జాగ్న' (మేల్కొను) ధాతు రూపం 'జాగర్తి' (మేల్కొనియుండును). 'సంయమము' ఉన్నవాడు 'సంయమీ' (ఇంద్రియాలను జయించినవాడు). 'దృశ్' (చూచు) ధాతు వర్తమాన విశేషణ షష్ఠీ ఏకవచనం 'పశ్యతః' (సత్యాన్ని చూచే జ్ఞానికి). — భగవద్గీత (2.69)"
+    }
+  },
+  {
+    "id": "bg-2-69-q5",
+    "verse": { "c": 2, "s": 69 },
+    "concept": ["Sanskrit Grammar - Present Participle 'Paśyataḥ' & Plural Verb 'Jāgrati'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'jāgrati' and 'paśyataḥ' in verse 2.69:",
+      "te": "2.69 శ్లోకంలోని 'జాగ్రతి' మరియు 'పశ్యతః' అనే పదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Jāgrati = 3rd person plural Present active indicative (Laṭ-lakāra) from root 'jāgṛ' (they are awake), agreeing with plural subject 'bhūtāni'; Paśyataḥ = Genitive Singular Masculine Present Active Participle (Śatṛ-pratyaya) from root 'dṛś' qualifying 'muneḥ' (of the introspective sage who sees).",
+        "te": "జాగ్రతి = 'జాగృ' (మేల్కొను) ధాతువు లట్ లకార (వర్తమానకాల) ప్రథమ పురుష బహువచన పరస్మైపద క్రియ ('వారు మేల్కొనియుందురు' - 'భూతాని' అను కర్తతో అన్వయం); పశ్యతః = 'దృశ్' (చూచు) ధాతువు యొక్క శతృ ప్రత్యయాంత షష్ఠీ ఏకవచన పుంలింగ విశేషణం ('దర్శించుచున్న' - 'మునేః' అను నామవాచకానికి విశేషణం).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Jāgrati = Singular past verb; Paśyataḥ = Nominative plural noun.",
+        "te": "జాగ్రతి = ఏకవచన భూతకాల క్రియ; పశ్యతః = ప్రథమా బహువచన నామవాచకం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Jāgrati = Imperative command form; Paśyataḥ = Future tense verb.",
+        "te": "జాగ్రతి = ఆజ్ఞార్థక రూపం; పశ్యతః = భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Jāgrati = Noun form; Paśyataḥ = Infinitive verb form.",
+        "te": "జాగ్రతి = నామవాచక రూపం; పశ్యతః = తుమున్నంత క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Jāgrati' is the plural verb form matching 'bhūtāni' (all creatures remain awake in sensory life). 'Paśyataḥ' is a Śatṛ-participle in Genitive Singular modifying 'muneḥ' (of the seer-sage): 'sā niśā paśyato muneḥ' = 'that is night for the seeing sage'. — Bhagavad Gita (2.69)",
+      "te": "'జాగ్రతి' అనేది 'భూతాని' (సమస్త ప్రాణులు) అనే బహువచన కర్తకు తగ్గ క్రియ. 'పశ్యతః' అనేది 'మునేః' (మునికి) అనే షష్ఠీ ఏకవచన పదానికి విశేషణంగా నిలిచి 'పశ్యతః మునేః సా నిశా' (సత్యాన్ని చూచే మునికి అది రాత్రి వంటిది) అని సమన్వయం పూర్తయింది. — భగవద్గీత (2.69)"
+    }
+  },
+  {
+    "id": "bg-2-69-q6",
+    "verse": { "c": 2, "s": 69 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'yanmano'nuvidhīyate' style or 'paśyato muneḥ' in verse 2.69:",
+      "te": "2.69 శ్లోకంలోని 'పశ్యతో మునేః' (పశ్యతః + మునేః) అనే పదం యొక్క సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Paśyataḥ + muneḥ -> paśyato muneḥ (Visarga Uttva Sandhi: visarga preceded by 'a' transforms to 'o' before voiced consonant 'm').",
+        "te": "పశ్యతః + మునేః -> పశ్యతో మునేః (విసర్గ ఉత్త్వ సంధి: 'అ' కారం తర్వాత ఉన్న విసర్గ ఘోష వ్యంజనమైన 'మ' ముందు 'ఓ' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Paśyata + muneḥ -> paśyatamuneḥ",
+        "te": "పశ్యత + మునేః -> పశ్యతమునేః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Paśyatam + muneḥ -> paśyatammuneḥ",
+        "te": "పశ్యతమ్ + మునేః -> పశ్యతమ్మునేః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Paśyate + muneḥ -> paśyate'muneḥ",
+        "te": "పశ్యతే + మునేః -> పశ్యతేఽమునేః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Paśyataḥ' (of the seeing one) + 'muneḥ' (of the sage): visarga 'ḥ' preceded by short 'a' transforms to vowel 'u', which merges with 'a' to form Guṇa vowel 'o' before voiced nasal consonant 'm' via Visarga Uttva Sandhi -> 'paśyato muneḥ'. — Bhagavad Gita (2.69)",
+      "te": "'పశ్యతః' + 'మునేః' లలో 'అ' తర్వాత ఉన్న విసర్గ ఘోష వ్యంజనమైన 'మ' పరమైనప్పుడు ఉత్త్వ సంధి ద్వారా 'ఓ' గా మారి 'పశ్యతో మునేః' అని సిద్ధించింది. — భగవద్గీత (2.69)"
+    }
+  }
+]

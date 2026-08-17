@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-14-q1",
+    "verse": { "c": 2, "s": 14 },
+    "concept": ["Verse Meaning & Endurance of Duality"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.14?\n\n“mātrāsparśāstu kaunteya śītoṣṇasukhaduḥkhadāḥ | āgamāpāyino'nityāstāṃstitikṣasva bhārata”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“మాత్రాస్పర్శాస్తు కౌంతేయ శీతోష్ణసుఖదుఃఖదాః | ఆగమాపాయినోఽనిత్యాస్తాంస్తితిక్షస్వ భారత”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — O son of Kunti, the contacts of the senses with their objects produce cold and heat, pleasure and pain. They have a beginning and an end, and are temporary. Endure them patiently, O descendant of Bharata!",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ కౌంతేయా! ఇంద్రియములకు వాటి విషయాలతో కలిగే కలయికలే (మాత్రాస్పర్శలే) సీతము-ఉష్ణము, సుఖము-దుఃఖములను కలిగిస్తాయి. అవి వచ్చిపోయే స్వభావం కలవి, అనిత్యమైనవి. కావున ఓ భారతా! వాటిని ఓర్పుతో (సహిస్తూ) సహించుము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Pleasures and pains are created by past karma and can only be removed by performing elaborate Vedic rituals.",
+        "te": "శ్రీభగవానుడు పలికెను — సుఖదుఃఖాలు పూర్వ కర్మల వల్ల సృష్టించబడతాయి, గొప్ప వేదిక యజ్ఞాలు చేయడం ద్వారా మాత్రమే అవి తొలగిపోతాయి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Heat and cold affect only the physical mind, while pleasure and pain belong exclusively to the eternal Atman.",
+        "te": "శ్రీభగవానుడు పలికెను — శీతోష్ణాలు కేవలం భౌతిక మనస్సును మాత్రమే ప్రభావితం చేస్తాయి, కానీ సుఖదుఃఖాలు శాశ్వతమైన ఆత్మకు చెందినవి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — By conquering sense objects in battle, a warrior achieves permanent freedom from bodily dualities.",
+        "te": "శ్రీభగవానుడు పలికెను — యుద్ధంలో ఇంద్రియ విషయాలను జయించడం ద్వారా యోధుడు దేహ సంబంధిత ద్వంద్వాల నుండి శాశ్వత విముక్తిని పొందుతాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Mātrā-sparśās tu kaunteya śītoṣṇa-sukha-duḥkha-dāḥ / āgamāpāyino 'nityās tāṃs titikṣasva bhārata.\" Krishna explains that dual experiences like heat/cold and pleasure/pain arise purely from sense-object contacts ('mātrā-sparśāḥ'). Because they are fleeting ('āgamāpāyinaḥ') and impermanent ('anityāḥ'), the spiritual seeker must learn to endure them ('titikṣasva'). — Bhagavad Gita (2.14)",
+      "te": "ఇంద్రియాలు ఇంద్రియార్థాలతో స్పర్శించడమే ('మాత్రాస్పర్శః') శీతోష్ణాలు, సుఖదుఃఖాల ఉత్పత్తికి కారణం. అవి ఉత్పత్తులై నశించే స్వభావం గలవి ('ఆగమాపాయినః'), అనిత్యమైనవి ('అనిత్యాః'). అందువల్ల వాటిని ధైర్యంతో సహించమని ('తితిక్షస్వ') కృష్ణుడు ఆదేశిస్తున్నాడు. — భగవద్గీత (2.14)"
+    }
+  },
+  {
+    "id": "bg-2-14-q2",
+    "verse": { "c": 2, "s": 14 },
+    "concept": ["Philosophical Concept - Titikṣā (Endurance)"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the core spiritual virtue of 'Titikṣā' commanded by Lord Krishna in verse 2.14?",
+      "te": "2.14 శ్లోకంలో శ్రీకృష్ణుడు ఆదేశించిన 'తితిక్ష' (సహనము/కోర్మి) అనే ఆధ్యాత్మిక గుణం యొక్క ప్రధాన సారం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Patient, unagitated forbearance of dualities (heat/cold, joy/grief) without anxiety or desire for retaliation, recognizing their temporary nature.",
+        "te": "ద్వంద్వాలను (శీతోష్ణాలు, సుఖదుఃఖాలు) అవి అనిత్యములని గ్రహించి, కలవరపడకుండా, పగ సాధించాలనే ఆలోచన లేకుండా ప్రశాంతమైన చిత్తంతో ఓర్పుతో భరించడమే తితిక్ష.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Forced suppression of physical pain through yogic breath control.",
+        "te": "యోగాభ్యాస ప్రాణాయామం ద్వారా శారీరక బాధను బలవంతంగా అణచివేయడం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Total avoidance of cold or hot climates to maintain mental balance.",
+        "te": "మనస్సు ప్రశాంతంగా ఉండటానికి చల్లని, వేడి వాతావరణాలను పూర్తిగా వర్జించడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Renouncing all sensory contacts by retreating permanently to a cave.",
+        "te": "గుహలోకి వెళ్లిపోవడం ద్వారా ఇంద్రియ విషయ సంబంధాలను పూర్తిగా విడిచిపెట్టడం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedantic literature (such as Shankara's Vivekachudamani), 'Titikṣā' is defined as enduring all afflictions without anxiety or grief and without seeking revenge or complaining. In verse 2.14, Krishna calls Arjuna to practice this equanimity ('tāṃs titikṣasva'). — Bhagavad Gita (2.14)",
+      "te": "వేదాంత శాస్త్రంలో 'తితిక్ష' అనగా ప్రతీకారం తీర్చుకునే చింత లేకుండా, శోకించకుండా సమస్త దుఃఖాలను సంతోషంగా సహించడం. అనిత్యమైన భౌతిక అనుభూతులకు చలించకుండా ఉండటమే తితిక్ష. — భగవద్గీత (2.14)"
+    }
+  },
+  {
+    "id": "bg-2-14-q3",
+    "verse": { "c": 2, "s": 14 },
+    "concept": ["Mechanism of Duality - Mātrāsparśāḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the Sanskrit compound 'mātrā-sparśāḥ' literally signify in verse 2.14?",
+      "te": "2.14 శ్లోకంలోని 'మాత్రాస్పర్శాః' అనే పదానికి ప్రత్యక్ష శాస్త్రార్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Contacts (sparśa) of the sense organs (mātrā = tanmātras / senses) with their external worldly objects.",
+        "te": "ఇంద్రియములు (మాత్రా = జ్ఞానేంద్రియాలు/తన్మాత్రలు) బాహ్య విషయాలతో (శబ్ద స్పర్శ రూప రస గంధాలతో) పొందే సంపర్కము/కలయిక (స్పర్శ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Measurements of physical heat and temperature.",
+        "te": "శారీరక వేడి మరియు ఉష్ణోగ్రతల కొలతలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Affectionate touch of a mother toward her child.",
+        "te": "పిల్లల పట్ల తల్లికి ఉండే పవిత్రమైన వాత్సల్య స్పర్శ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vedic meter rules used in chanting mantras.",
+        "te": "మంత్రోచ్ఛారణలో వాడే వేద ఛందస్సు నియమాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Mātrā' refers to the senses or Tanmatras (subtle sense elements) through which the world is measured/perceived; 'sparśa' means contact. 'Mātrā-sparśāḥ' are sense-object contacts that trigger feelings of cold/heat and pleasure/pain. — Bhagavad Gita (2.14)",
+      "te": "'మాత్రా' అనగా విషయాలను గ్రహించే ఇంద్రియాలు లేదా తన్మాత్రలు; 'స్పర్శ' అనగా కలయిక/సంబంధము. ఇంద్రియాలు విషయాలతో పొందే తాత్కాలిక కలయికల వల్లే సుఖదుఃఖాలు కలుగుతాయని దీని భావం. — Bhagavad Gita (2.14)"
+    }
+  },
+  {
+    "id": "bg-2-14-q4",
+    "verse": { "c": 2, "s": 14 },
+    "concept": ["Sanskrit Vocabulary - Fleeting & Impermanent"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'āgamāpāyinaḥ' and 'anityāḥ' mean in verse 2.14?",
+      "te": "2.14 శ్లోకంలోని 'ఆగమాపాయినః' మరియు 'అనిత్యాః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Āgamāpāyinaḥ = Subject to coming (āgama) and going (apāya); Anityāḥ = Impermanent / non-eternal.",
+        "te": "ఆగమాపాయినః = ఉత్పత్తి (రాక) మరియు వినాశము (పోక) గలవి; అనిత్యాః = తాత్కాలికమైనవి / స్థిరం లేనివి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Āgamāpāyinaḥ = Scriptural experts; Anityāḥ = Unending.",
+        "te": "ఆగమాపాయినః = వేదాగమ పండితులు; అనిత్యాః = అంతం లేనివి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Āgamāpāyinaḥ = Sinful actions; Anityāḥ = Pure.",
+        "te": "ఆగమాపాయినః = పాప కార్యాలు; అనిత్యాః = పవిత్రమైనవి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Āgamāpāyinaḥ = Heavenly paths; Anityāḥ = Eternal.",
+        "te": "ఆగమాపాయినః = స్వర్గ మార్గాలు; అనిత్యాః = శాశ్వతమైనవి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Āgama' (coming/appearance) + 'apāya' (going/disappearance) = 'āgamāpāyinaḥ' (those that appear and disappear). 'Anityāḥ' means non-eternal or fleeting. Because sensory experiences are transient by nature, they should not sway the steady intellect. — Bhagavad Gita (2.14)",
+      "te": "'ఆగమ' (రాక/పుట్టుక) + 'అపాయ' (పోక/నాశనము) = ఆగమాపాయినః (వచ్చిపోయే స్వభావం గలవి). 'అనిత్యాః' అనగా స్థిరం లేనివి. సుఖదుఃఖాలు క్షణభంగురమైనవి కాబట్టి వాటికి భయపడకూడదు. — భగవద్గీత (2.14)"
+    }
+  },
+  {
+    "id": "bg-2-14-q5",
+    "verse": { "c": 2, "s": 14 },
+    "concept": ["Sanskrit Grammar - Imperative Verb 'Titikṣasva'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'titikṣasva' in verse 2.14:",
+      "te": "2.14 శ్లోకంలోని 'తితిక్షస్వ' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "2nd person singular Imperative mood Ātmanepada (Loṭ-lakāra) from Desiderative root 'titikṣ' (derived from root 'tij' = to bear / endure), meaning 'endure Thou patiently!'.",
+        "te": "'తిజ్' (సహించు) ధాతువు యొక్క సన్నంత (ధైర్యంతో సహించే) రూపమైన 'తితిక్ష' నుండి ఏర్పడిన లోట్ లకార (ఆజ్ఞార్థక) ఆత్మనేపద మధ్యమ పురుష ఏకవచన రూపం — 'నీవు ఓర్పుతో సహించుము!'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1st person plural present tense verb.",
+        "te": "ఉత్తమ పురుష బహువచన వర్తమానకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "3rd person singular past tense verb form.",
+        "te": "ప్రథమ పురుష ఏకవచన భూతకాల రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Future tense participle form.",
+        "te": "భవిష్యత్కాల విశేషణ రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Titikṣate' is the Desiderative verb form derived from root 'tij' (to bear/be sharp). 'Titikṣasva' is its 2nd person singular imperative (Loṭ-lakāra) Ātmanepada command: 'Endure / bear patiently!'. — Bhagavad Gita (2.14)",
+      "te": "'తితిక్షస్వ' అనేది 'తిజ్' (ఓర్చుకొను) ధాతువు సన్నంత రూపానికి చెందిన లోట్ లకార (ఆజ్ఞార్థక) మధ్యమ పురుష ఏకవచన ఆత్మనేపద రూపం. 'ఓ భారతా! వాటిని ధైర్యంతో సహించుము' అని ఆదేశం. — భగవద్గీత (2.14)"
+    }
+  },
+  {
+    "id": "bg-2-14-q6",
+    "verse": { "c": 2, "s": 14 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'āgamāpāyino'nityās' and 'tāṃstitikṣasva' in verse 2.14:",
+      "te": "2.14 శ్లోకంలోని 'ఆగమాపాయినోఽనిత్యాః' మరియు 'తాంస్తితిక్షస్వ' అనే పదాలను విడదీసి సంధి స్వరూపాన్ని చెప్పండి:"
+    },
+    "choices": [
+      {
+        "en": "Āgamāpāyinaḥ + anityāḥ -> āgamāpāyino 'nityāḥ (Visarga Uttva & Pūrvarūpa Sandhi); tān + titikṣasva -> tāṃstitikṣasva (Anusvāra & Visarga/Sattva Sandhi: 'n' before 't' converts to Anusvāra + 's').",
+        "te": "ఆగమాపాయినః + అనిత్యాః -> ఆగమాపాయినోఽనిత్యాః (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు); తాన్ + తితిక్షస్వ -> తాంస్తితిక్షస్వ (పొల్లు 'న్' అనునది 'త' ముందు అనుస్వారము మరియు 'స' కారంగా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Āgamāpāyina + anityāḥ; tām + titikṣasva",
+        "te": "ఆగమాపాయిన + అనిత్యాః; తామ్ + తితిక్షస్వ",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Āgamāpāyinam + anityāḥ; tāna + titikṣasva",
+        "te": "ఆగమాపాయినమ్ + అనిత్యాః; తాన + తితిక్షస్వ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Āgamāpāyine + anityāḥ; tāni + titikṣasva",
+        "te": "ఆగమాపాయినే + అనిత్యాః; తాని + తితిక్షస్వ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Āgamāpāyinaḥ' + 'anityāḥ': visarga 'ḥ' converts to 'o', and initial 'a' becomes Avagraha ('nityāḥ) -> 'āgamāpāyino 'nityāḥ'. 2. 'Tān' (them - accusative plural) + 'titikṣasva': final 'n' before unvoiced dental 't' changes to Anusvāra + 's', yielding 'tāṃstitikṣasva'. — Bhagavad Gita (2.14)",
+      "te": "1. 'ఆగమాపాయినః' + 'అనిత్యాః' లలో విసర్గ 'ఓ' గా మారి, 'అ' కారానికి అవగ్రహం వచ్చి 'ఆగమాపాయినోఽనిత్యాః' అయినది. 2. 'తాన్' + 'తితిక్షస్వ' లలో పొల్లు 'న్' తర్వాత పరుషమైన 'త' చేరగా, 'న్' స్థానంలో అనుస్వారం, 'స' వచ్చి 'తాంస్తితిక్షస్వ' అయినది. — భగవద్గీత (2.14)"
+    }
+  }
+]

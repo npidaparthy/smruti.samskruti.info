@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-50-q1",
+    "verse": { "c": 2, "s": 50 },
+    "concept": ["Verse Meaning & Yoga is Skill in Action"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.50?\n\n“buddhiyukto jahātīha ubhe sukṛtaduṣkṛte | tasmādyogāya yujyasva yogaḥ karmasu kauśalam”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“బుద్ధియుక్తో జహాతీహ ఉభే సుకృతదుష్కృతే | తస్మాద్యోగాయ యుజ్యస్వ యోగః కర్మసు కౌశలమ్”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — One who is endowed with equanimous wisdom discards both good and evil deeds in this very life. Therefore, devote yourself to Yoga; Yoga is skill in action.",
+        "te": "శ్రీభగవానుడు పలికెను — సమత్వ బుద్ధితో కూడినవాడు ఈ లోకంలోనే పుణ్యపాపములు (సుకృత దుష్కృతములు) రెండింటినీ త్యజిస్తాడు (వాటి బంధాల నుండి విముక్తుడవుతాడు). కావున నీవు యోగం కొరకు ప్రయత్నించుము; కర్మల యందు కౌశలమే (నిపుణత/చాతుర్యమే) 'యోగము' అనబడును.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Performing good deeds while avoiding bad deeds ensures that a warrior enjoys heavenly kingdoms after death.",
+        "te": "శ్రీభగవానుడు పలికెను — చెడు కర్మలను వదిలేసి కేవలం పుణ్య కర్మలను మాత్రమే ఆచరించడం వల్ల యోధుడు మరణానంతరం స్వర్గలోక రాజ్యాన్ని అనుభవిస్తాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Skill in action means performing physical actions with great speed and military precision on the battlefield.",
+        "te": "శ్రీభగవానుడు పలికెను — కర్మల యందు కౌశలమనగా రణరంగంలో అత్యంత వేగంతో, సైనిక నైపుణ్యంతో శారీరక కర్మలను నెరవేర్చడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Discarding both good and evil deeds requires a person to stop acting physically and remain in silent seclusion.",
+        "te": "శ్రీభగవానుడు పలికెను — పుణ్యపాపాలను రెండింటినీ త్యజించడానికి మనిషి భౌతికంగా పనిచేయడం మానేసి ఏకాంతంలో మౌనంగా ఉండాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Buddhi-yukto jahātīha ubhe sukṛta-duṣkṛte / tasmād yogāya yujyasva yogaḥ karmasu kauśalam.\" Krishna reveals the mechanism of spiritual liberation through work: when action is executed with mental equanimity ('buddhi-yuktaḥ'), it loses its binding power, freeing the doer from both merit and sin ('ubhe sukṛta-duṣkṛte'). Hence, Arjuna is commanded to adopt Yoga ('yogāya yujyasva'). The definition 'yogaḥ karmasu kauśalam' means that Yoga is the dexterity/art of acting without generating karmic bondage. — Bhagavad Gita (2.50)",
+      "te": "కర్మ ద్వారా మోక్షాన్ని పొందే దివ్య రహస్యాన్ని శ్రీకృష్ణుడు ఇక్కడ వెల్లడించాడు: సమత్వ బుద్ధి కలవాడు ('బుద్ధియుక్తః') కర్మల ఫలితాలైన పుణ్యపాపాలు రెండింటినీ ('ఉభే సుకృతదుష్కృతే') ఈ జన్మలోనే విడిచిపెట్టి బంధముక్తిని పొందుతాడు. కావున యోగాన్ని ఆశ్రయించమని ('యోగాయ యుజ్యస్వ') ఆదేశిస్తున్నాడు. 'యోగః కర్మసు కౌశలమ్' అనగా కర్మలు చేస్తూనే కర్మ బంధాలలో చిక్కుకోకుండా పనిచేసే నిపుణతయే/చాతుర్యమే యోగము. — భగవద్గీత (2.50)"
+    }
+  },
+  {
+    "id": "bg-2-50-q2",
+    "verse": { "c": 2, "s": 50 },
+    "concept": ["Aphoristic Definition - Yogaḥ Karmasu Kauśalam"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the precise spiritual meaning of the famous aphorism 'Yogaḥ karmasu kauśalam' in verse 2.50?",
+      "te": "2.50 శ్లోకంలోని 'యోగః కర్మసు కౌశలమ్' అనే ప్రసిద్ధ సూత్రం యొక్క ఖచ్చితమైన ఆధ్యాత్మిక అంతరార్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Yoga is the skill or dexterity of performing binding actions in such an equanimous, selfless way that they no longer produce karmic bondage.",
+        "te": "సాధారణంగా జీవుడిని బంధించే కర్మలను... ఏ రకమైన కర్మబంధమూ అంటకుండా సమత్వ బుద్ధితో, నిష్కామంగా నిర్వర్తించే శ్రేష్ఠమైన పనిచేసే నైపుణ్యమే/కౌశలమే యోగము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Yoga is the art of performing professional work faster than others to maximize material profits.",
+        "te": "భౌతిక లాభాలను గరిష్ఠం చేసుకోవడానికి ఇతరులకంటే వేగంగా వృత్తిపరమైన పనులను చేసే కళయే యోగము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Yoga means physical flexibility and mastering bodily postures during work.",
+        "te": "యోగము అనగా శారీరక వశ్యత మరియు పనులు చేసే సమయంలో దేహ భంగిమలపై ప్రావీణ్యం పొందడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yoga is the skill of avoiding hard labor by delegating one's duties to servants.",
+        "te": "తమ కర్తవ్యాలను సేవకులకు అప్పగించడం ద్వారా కష్టపడే పని నుండి తప్పించుకునే నైపుణ్యమే యోగము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Naturally, action ('karma') binds the individual to Samsara through its fruits. 'Kauśala' (skill/dexterity) lies in turning this naturally binding process into a tool for liberation by stripping away ego and selfish desire through equanimity ('samatvam'). Thus, Karma Yoga is the technique of work without bondage. — Bhagavad Gita (2.50)",
+      "te": "స్వభావాత్తు కర్మ అనేది మనిషిని కర్మఫలాల ద్వారా సంసారంలో బంధిస్తుంది. కానీ అదే కర్మను అహంకారం, స్వార్థం లేకుండా సమత్వంతో చేయడం ద్వారా బంధన రహితంగా మార్చే ఆచరణాత్మక నైపుణ్యమే 'కౌశలమ్'. కాబట్టి కర్మబంధం అంటకుండా పనిచేసే ప్రాక్టికల్ విద్యా విధానమే కర్మయోగం. — భగవద్గీత (2.50)"
+    }
+  },
+  {
+    "id": "bg-2-50-q3",
+    "verse": { "c": 2, "s": 50 },
+    "concept": ["Transcendence of Dual Karma - Jahātīha Ubhe Sukṛta-Duṣkṛte"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why does a 'Buddhi-yukta' (one endowed with equanimous wisdom) discard both good deeds ('sukṛta') and evil deeds ('duṣkṛta') in verse 2.50?",
+      "te": "2.50 శ్లోకంలో సమత్వ బుద్ధి కలవాడు ('బుద్ధియుక్తః') పుణ్య కర్మలను ('సుకృత') మరియు పాప కర్మలను ('దుష్కృత') రెండింటినీ ఎందుకు విడిచిపెడతాడు?"
+    },
+    "choices": [
+      {
+        "en": "Because both bad actions (iron chains leading to lower realms) and good actions (golden chains leading to heavenly realms) create karmic impressions that bind the soul to rebirth; Karma Yoga transcends both to grant Moksha.",
+        "te": "పాప కర్మలు (ఇనుప సంకెళ్ల లాంటివి), పుణ్య కర్మలు (బంగారు సంకెళ్ల లాంటివి) రెండూ కూడా జీవుడిని పునర్జన్మ సంసార చక్రంలో బంధించేవే కాబట్టి; సమత్వ కర్మయోగం ఈ రెండింటి బంధాల నుండి ఆత్మకు మోక్షాన్ని ప్రసాదిస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because good deeds and evil deeds physically cancel each other out during battle.",
+        "te": "యుద్ధ సమయంలో పుణ్య కర్మలు, పాప కర్మలు శారీరకంగా ఒకదానినొకటి రద్దు చేసుకుంటాయి కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because performing good deeds is harmful to spiritual progress.",
+        "te": "పుణ్య కర్మలు చేయడం అనేది ఆధ్యాత్మిక పురోగతికి హానికరం కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because discarding deeds means forgetting the past memory of one's actions.",
+        "te": "కర్మలను త్యజించడం అనగా తాను చేసిన పూర్వపు పనుల జ్ఞాపకాలను మరిచిపోవడం కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedantic thought, 'sukṛta' (merit) binds one to heavenly bodies and 'duṣkṛta' (demerit) binds one to lower bodies. Both keep the jīva inside Samsara. A Karma Yogi acts without ego ('I am the doer') or desire for fruits, thereby generating no new karmic seed (Sañcita/Āgāmi), shedding both types of chains 'iha' (in this very life). — Bhagavad Gita (2.50)",
+      "te": "వేదాంతంలో పుణ్యకార్యాలు స్వర్గాది లోకాల అనుభవాల కొరకు, పాపకార్యాలు అథోలోకాల అనుభవాల కొరకు జీవుడిని సంసారంలో బంధిస్తాయి. పుణ్యము పసిడి సంకెళ్లయితే, పాపము ఇనుప సంకెళ్లు. కర్మయోగి అహంకార రహితంగా పనిచేస్తూ ఈ రెండు సంకెళ్ల నుండి 'ఇహ' (ఈ జీవితంలోనే) విడుదల పొందుతాడు. — భగవద్గీత (2.50)"
+    }
+  },
+  {
+    "id": "bg-2-50-q4",
+    "verse": { "c": 2, "s": 50 },
+    "concept": ["Sanskrit Vocabulary - Discarding Dualities & Skill"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'jahāti', 'sukṛta-duṣkṛte', and 'kauśalam' mean in verse 2.50?",
+      "te": "2.50 శ్లోకంలోని 'జహాతి', 'సుకృతదుష్కృతే', మరియు 'కౌశలమ్' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Jahāti = Discards / casts off; Sukṛta-duṣkṛte = Good and evil deeds (merit and demerit); Kauśalam = Skill / dexterity / art.",
+        "te": "జహాతి = విడిచిపెట్టును / త్యజించును; సుకృతదుష్కృతే = పుణ్యము మరియు పాపము (మంచి మరియు చెడు కర్మలు); కౌశలమ్ = చాతుర్యము / నైపుణ్యము / పనితీరులోని శ్రేష్ఠత.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Jahāti = Accepts; Sukṛta-duṣkṛte = Truth and untruth; Kauśalam = Physical speed.",
+        "te": "జహాతి = స్వీకరించును; సుకృతదుష్కృతే = సత్యము మరియు అసత్యము; కౌశలమ్ = శారీరక వేగము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Jahāti = Praises; Sukṛta-duṣkṛte = Heaven and hell; Kauśalam = Royal power.",
+        "te": "జహాతి = ప్రశంసించును; సుకృతదుష్కృతే = స్వర్గము మరియు నరకము; కౌశలమ్ = రాజ్యాధికారము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Jahāti = Remembers; Sukṛta-duṣkṛte = Life and death; Kauśalam = Weaponry.",
+        "te": "జహాతి = గుర్తుంచుకొనును; సుకృతదుష్కృతే = జీవితము మరియు మరణము; కౌశలమ్ = ఆయుధ ప్రయోగము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Jahāti' is 3rd person singular present indicative of root 'hā' (to leave/discard). 'Sukṛta' (good act) + 'duṣkṛta' (bad act) in Dual = 'sukṛta-duṣkṛte'. 'Kauśala' (from 'kuśala' = clever/skillful) means dexterity or expert skill. — Bhagavad Gita (2.50)",
+      "te": "'హా' (విడిచిపెట్టు) ధాతు వర్తమానకాల ప్రథమ పురుష ఏకవచనం 'జహాతి' (త్యజించును). 'సుకృత' + 'దుష్కృత' ల ద్వివచనం 'సుకృతదుష్కృతే' (పుణ్యపాపాలు). 'కుశల' నుండి వచ్చిన 'కౌశలమ్' అనగా పనిలోని నైపుణ్యము/చాతుర్యము. — భగవద్గీత (2.50)"
+    }
+  },
+  {
+    "id": "bg-2-50-q5",
+    "verse": { "c": 2, "s": 50 },
+    "concept": ["Sanskrit Grammar - Imperative Verb 'Yujyasva' & Present 'Jahāti'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'jahāti' and 'yujyasva' in verse 2.50:",
+      "te": "2.50 శ్లోకంలోని 'జహాతి' మరియు 'యుజ్యస్వ' అనే క్రియాపదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Jahāti = 3rd person singular Present indicative Parasmaipada (Laṭ-lakāra) from root 'hā' (he/she casts off); Yujyasva = 2nd person singular Imperative mood Ātmanepada (Loṭ-lakāra) from root 'yuj' (devote yourself! / engage yourself!).",
+        "te": "జహాతి = 'హా' (త్యజించు/విడిచిపెట్టు) ధాతువు లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ఏకవచన పరస్మైపద రూపం ('అతడు త్యజించును'); యుజ్యస్వ = 'యుజ్' (సిద్ధపడు/సన్నద్ధుడవు కమ్ము) ధాతువు లోట్ లకార (ఆజ్ఞార్థక) మధ్యమ పురుష ఏకవచన ఆత్మనేపద రూపం ('నీవు యోగాన్ని ఆశ్రయించుము!').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Jahāti = Past tense verb; Yujyasva = Future tense verb.",
+        "te": "జహాతి = భూతకాల క్రియ; యుజ్యస్వ = భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Jahāti = Imperative verb; Yujyasva = Present participle.",
+        "te": "జహాతి = ఆజ్ఞార్థక క్రియ; యుజ్యస్వ = వర్తమాన విశేషణం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Jahāti = Infinitive form; Yujyasva = Past passive participle.",
+        "te": "జహాతి = తుమున్నంత రూపం; యుజ్యస్వ = భూతకాల కర్మణి విశేషణం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Jahāti' expresses the natural consequence experienced by a wise person ('Buddhi-yuktaḥ jahāti = one endowed with wisdom casts off'). 'Yujyasva' is Krishna's direct imperative command to Arjuna ('Tasmāt yogāya yujyasva = Therefore devote yourself to Yoga!'). — Bhagavad Gita (2.50)",
+      "te": "'జహాతి' అనేది జ్ఞాని పొందే అనుభవాన్ని తెలిపే వర్తమాన క్రియ ('బుద్ధియుక్తుడైనవాడు విడిచిపెట్టును'). 'యుజ్యస్వ' అనేది అర్జునుడికి కృష్ణుడు ఇచ్చిన ప్రత్యక్ష ఆజ్ఞార్థక క్రియ ('కావున యోగం కొరకు సన్నద్ధుడవు కమ్ము!'). — భగవద్గీత (2.50)"
+    }
+  },
+  {
+    "id": "bg-2-50-q6",
+    "verse": { "c": 2, "s": 50 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'jahātīha' and 'tasmādyogāya' in verse 2.50:",
+      "te": "2.50 శ్లోకంలోని 'జహాతీహ' (జహాతి+ఇహ) మరియు 'తస్మాద్యోగాయ' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Jahāti + iha -> jahātīha (Savarna-dirgha Sandhi: i + i -> ī); tasmāt + yogāya -> tasmād yogāya (Jasdtva Sandhi: 't' -> 'd' before voiced sound 'y').",
+        "te": "జహాతి + ఇహ -> జహాతీహ (సవర్ణదీర్ఘ సంధి: ఇ + ఇ -> ఈ); తస్మాత్ + యోగాయ -> తస్మాద్యోగాయ (జశ్త్వ సంధి: ఘోష వ్యంజనమైన 'య' ముందు పొల్లు 'త్' స్థానంలో 'ద్' వచ్చినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Jahāta + iha -> jahāteha; tasmān + yogāya -> tasmānyogāya",
+        "te": "జహాత + ఇహ -> జహాతేహ; తస్మాన్ + యోగాయ -> తస్మాన్యోగాయ",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Jahātim + iha -> jahātimiha; tasmām + yogāya -> tasmāmyogāya",
+        "te": "జహాతిమ్ + ఇహ -> జహాతిమిహ; తస్మామ్ + యోగాయ -> తస్మామ్యోగాయ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Jahāte + iha -> jahāte'ha; tasmāḥ + yogāya -> tasmāhyogāya",
+        "te": "జహాతే + ఇహ -> జహాతేఽహ; తస్మాః + యోగాయ -> తస్మాహ్యోగాయ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Jahāti' (casts off) + 'iha' (here in this life): short 'i' + short 'i' merges into long 'ī' via Savarna-dirgha Sandhi -> 'jahātīha'. 2. 'Tasmāt' (therefore) + 'yogāya' (for Yoga): unvoiced dental stop 't' converts to voiced dental stop 'd' before voiced semi-vowel 'y' via Jasdtva Sandhi -> 'tasmād yogāya'. — Bhagavad Gita (2.50)",
+      "te": "1. 'జహాతి' + 'ఇహ' లలో 'ఇ' + 'ఇ' కలసి సవర్ణదీర్ఘ సంధి ద్వారా 'జహాతీహ' అయినది. 2. 'తస్మాత్' + 'యోగాయ' లలో 'య' వర్ణం ముందు పొల్లు 'త్' స్థానంలో 'ద్' రావడం వల్ల (జశ్త్వ సంధి) 'తస్మాద్యోగాయ' అని సిద్ధించింది. — భగవద్గీత (2.50)"
+    }
+  }
+]

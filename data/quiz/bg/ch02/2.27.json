@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-27-q1",
+    "verse": { "c": 2, "s": 27 },
+    "concept": ["Verse Meaning & Inevitability of Birth and Death"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.27?\n\n“jātasya hi dhruvo mṛtyurdhruvaṃ janma mṛtasya ca | tasmādaparihārye'rthe na tvaṃ śocitumarhasi”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“జాతస్య హి ధ్రువో మృత్యుర్ధ్రువం జన్మ మృతస్య చ | తస్మాదపరిహార్యేఽర్థే న త్వం శోచితుమర్హసి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — For one who is born, death is certain, and for one who dies, birth is certain. Therefore, over an inevitable matter, you ought not to grieve.",
+        "te": "శ్రీభగవానుడు పలికెను — జన్మించిన వానికి మరణం నిశ్చితము, అలాగే మరణించిన వానికి జన్మ నిశ్చితము. కావున తప్పించుకోలేని ఈ విషయం (అపరిహార్య నియమం) పట్ల నీవు దుఃఖించతగవు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Those who die on the battlefield escape the cycle of rebirth, whereas those who flee are born again in lower forms.",
+        "te": "శ్రీభగవానుడు పలికెను — రణరంగంలో మరణించేవారు పునర్జన్మ చక్రం నుండి తప్పుకుంటారు, కానీ పారిపోయేవారు అల్ప యోనులలో మళ్లీ జన్మిస్తారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Birth and death are controlled entirely by human effort, and a wise warrior can prevent death through proper rituals.",
+        "te": "శ్రీభగవానుడు పలికెను — జనన మరణాలు పూర్తిగా మానవ ప్రయత్నంపై ఆధారపడి ఉంటాయి, సరియైన యజ్ఞాల ద్వారా వివేకియైన యోధుడు మరణాన్ని నిరోధించవచ్చు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Grieving for the dead is necessary to ensure that the departed soul obtains a favorable rebirth.",
+        "te": "శ్రీభగవానుడు పలికెను — చనిపోయిన ఆత్మకు మంచి పునర్జన్మ సిద్ధించడానికి మృతుల కోసం విలపించడం అత్యంత ఆవశ్యకము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Jātasya hi dhruvo mṛtyur dhruvaṃ janma mṛtasya ca / tasmād aparihārye 'rthe na tvaṃ śocitum arhasi.\" Krishna states a universal, undeniable law of physical creation: birth inevitably ends in death, and death leads back to birth. Because this cycle is unavoidable ('aparihārye 'rthe'), lamentation is entirely irrational. — Bhagavad Gita (2.27)",
+      "te": "భౌతిక సృష్టిలోని దాటలేని ప్రకృతి నియమాన్ని శ్రీకృష్ణుడు ఇక్కడ వ్యక్తపరిచాడు: పుట్టిన ప్రతీ జీవికీ మరణం తప్పదు ('జాతస్య హి ధ్రువో మృత్యుః'), చనిపోయిన ప్రతీ జీవికీ పునర్జన్మా తప్పదు ('ధ్రువం జన్మ మృతస్య చ'). అనివార్యమైన ఈ పరిణామానికి ('అపరిహార్యేఽర్థే') శోకించడం కేవలం అజ్ఞానమే. — భగవద్గీత (2.27)"
+    }
+  },
+  {
+    "id": "bg-2-27-q2",
+    "verse": { "c": 2, "s": 27 },
+    "concept": ["Philosophical Concept - Aparihāryo 'rthaḥ (Inevitable Fact)"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What logical reason does Lord Krishna provide in verse 2.27 to show that Arjuna's grief is unjustified?",
+      "te": "2.27 శ్లోకంలో అర్జునుని శోకం అనుచితమైనదని నిరూపించడానికి శ్రీకృష్ణుడు చెప్పిన తార్కికమైన కారణం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "It is irrational to grieve over an unavoidable natural law ('aparihāryo 'rthaḥ'); since physical death is inevitable for all who are born, grieving cannot alter or prevent it.",
+        "te": "తప్పించుకోలేని ప్రకృతి సహజ నియమానికి ('అపరిహార్యోఽర్థః') విచారించడం నిరర్థకమైనది; దేహాన్ని ధరించిన ప్రతీ జీవికీ మరణం నిశ్చితమైనప్పుడు శోకించడం వల్ల దానిని మార్చడం గానీ, ఆపడం గానీ సాధ్యపడదు కాబట్టి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Grief depletes the physical strength of a warrior before battle.",
+        "te": "శోకించడం వల్ల యుద్ధానికి ముందే యోధుని శారీరక బలం క్షీణించిపోతుంది కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Grieving causes disrespect to the elderly kings standing on the enemy side.",
+        "te": "విలపించడం వల్ల శత్రు పక్షంలో ఉన్న వయోవృద్ధులైన రాజులకు అవమానం జరుగుతుంది కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because grief is forbidden by royal administration rules.",
+        "te": "రాజ పరిపాలనా నిబంధనల ప్రకారం విలపించడం నిషేధించబడింది కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Krishna points out that sorrow is appropriate only if a calamity could have been avoided by alternative action. But when a phenomenon is 'aparihārya' (incapable of being avoided or remedied, like mortality), sorrow is logically invalid. — Bhagavad Gita (2.27)",
+      "te": "ఏదైనా ఆపడానికి లేదా నివారించడానికి వీలయ్యే పరిస్థితి ఉంటే విచారించడంలో అర్థం ఉంటుంది. కానీ 'అపరిహార్య' (పరిహరించడానికి/తప్పించడానికి వీలులేని) సహజ ధర్మం విషయంలో దుఃఖించడం తర్కానికి అందని అజ్ఞానము. — భగవద్గీత (2.27)"
+    }
+  },
+  {
+    "id": "bg-2-27-q3",
+    "verse": { "c": 2, "s": 27 },
+    "concept": ["Cyclic Law of Samsara - Birth & Death Complementarity"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which two complementary guarantees ('dhruvam') are stated in verse 2.27 regarding the cycle of empirical life?",
+      "te": "2.27 శ్లోకంలో సంసార చక్రానికి సంబంధించి స్పష్టం చేయబడిన రెండు పరస్పర పూరకాలైన నిశ్చయ సూత్రాలు ('ధ్రువమ్') ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "1. 'Jātasya mṛtyur dhruvaḥ' (For the born, death is certain), 2. 'Mṛtasya janma dhruvam' (For the dead, birth is certain).",
+        "te": "1. 'జాతస్య మృత్యుః ధ్రువః' (పుట్టిన వానికి మరణం నిశ్చయం), 2. 'మృతస్య జన్మ ధ్రువమ్' (చనిపోయిన వానికి పునర్జన్మ నిశ్చయం).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1. Victory in battle is certain, 2. Defeat in battle is certain.",
+        "te": "1. యుద్ధంలో విజయం నిశ్చయం, 2. యుద్ధంలో ఓటమి నిశ్చయం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1. Virtue leads to heaven, 2. Sin leads to hell.",
+        "te": "1. పుణ్యం స్వర్గానికి తీసుకెళ్తుంది, 2. పాపం నరకానికి తీసుకెళ్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1. Youth turns into old age, 2. Wealth turns into poverty.",
+        "te": "1. యౌవనం వృద్ధాప్యంగా మారుతుంది, 2. సంపద పేదరికముగా మారుతుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Krishna links both ends of Samsara: 'Dhruva' means fixed, certain, unalterable. Birth leads inevitably to death ('dhruvo mṛtyuḥ'), and as long as ignorance and Karma remain, death leads back to birth ('dhruvaṃ janma'). — Bhagavad Gita (2.27)",
+      "te": "'ధ్రువమ్' అనగా నిశ్చితమైనది/శాశ్వత నియమము. ఈ సంసార చక్రంలో జననం ఉన్న చోట మరణం ('ధ్రువో మృత్యుః'), అజ్ఞాన కర్మలు ఉన్నంత కాలం మరణం తర్వాత పునర్జన్మా ('ధ్రువం జన్మ') తప్పవు. — భగవద్గీత (2.27)"
+    }
+  },
+  {
+    "id": "bg-2-27-q4",
+    "verse": { "c": 2, "s": 27 },
+    "concept": ["Sanskrit Vocabulary - Certain & Unavoidable"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'dhruvaḥ' and 'aparihārye' mean in verse 2.27?",
+      "te": "2.27 శ్లోకంలోని 'ధ్రువః' మరియు 'అపరిహార్యే' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Dhruvaḥ = Certain / fixed / inevitable; Aparihārye = In an unavoidable / irremediable matter.",
+        "te": "ధ్రువః = నిశ్చితమైనది / తప్పనిసరి అయినది; అపరిహార్యే = పరిహరించడానికి/తప్పించడానికి వీలులేని విషయంలో.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dhruvaḥ = Unseen; Aparihārye = In a holy sacrifice.",
+        "te": "ధ్రువః = కనిపించనిది; అపరిహార్యే = పవిత్రమైన యజ్ఞంలో.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Dhruvaḥ = Temporary; Aparihārye = In battle.",
+        "te": "ధ్రువః = తాత్కాలికమైనది; అపరిహార్యే = యుద్ధంలో.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dhruvaḥ = Royal; Aparihārye = In heaven.",
+        "te": "ధ్రువః = రాజసమైనది; అపరిహార్యే = స్వర్గంలో.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Dhruva' means immovable, fixed, or guaranteed. 'Parihāra' means remedy or avoidance; 'A-parihārya' means that which cannot be avoided or remedied. 'Aparihārye arthe' = 'in a situation that is completely unavoidable'. — Bhagavad Gita (2.27)",
+      "te": "'ధ్రువ' అనగా నిశ్చలమైనది/కచ్చితంగా జరిగేది. 'పరిహార' అనగా నివారించడం; 'అపరిహార్య' అనగా నివారించడానికి వీలులేనిది. 'అపరిహార్యే అర్థే' అనగా తప్పించుకోలేని విషయములందు అని అర్థం. — భగవద్గీత (2.27)"
+    }
+  },
+  {
+    "id": "bg-2-27-q5",
+    "verse": { "c": 2, "s": 27 },
+    "concept": ["Sanskrit Grammar - Genitive Nouns 'Jātasya' & 'Mṛtasya'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'jātasya' and 'mṛtasya' in verse 2.27:",
+      "te": "2.27 శ్లోకంలోని 'జాతస్య' మరియు 'మృతస్య' అనే పదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Genitive Singular Masculine/Neuter Past Passive Participles (Kta-pratyaya) used as nouns: 'jātasya' = 'of one who is born'; 'mṛtasya' = 'of one who is dead'.",
+        "te": "నామవాచకాలుగా వాడబడిన క్తాంత (భూతకాల కర్మణి విశేషణ) షష్ఠీ విభక్తి ఏకవచన రూపాలు: 'జాతస్య' = 'జన్మించిన వాని యొక్క'; 'మృతస్య' = 'మరణించిన వాని యొక్క'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nominative Plural nouns.",
+        "te": "ప్రథమా విభక్తి బహువచన రూపాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Locative Singular verbs.",
+        "te": "సప్తమీ విభక్తి క్రియా రూపాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command particles.",
+        "te": "ఆజ్ఞార్థక అవ్యయాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Jāta' (born) from root 'jan' + kta-pratyaya; Genitive Singular = 'jātasya' ('of the born'). 'Mṛta' (dead) from root 'mṛ' + kta-pratyaya; Genitive Singular = 'mṛtasya' ('of the dead'). — Bhagavad Gita (2.27)",
+      "te": "'జన్' ధాతువు క్తాంత రూపం 'జాత'. దాని షష్ఠీ ఏకవచనం 'జాతస్య' (జన్మించిన వానికి). 'మృ' (చనిపోవు) ధాతువు క్తాంత రూపం 'మృత'. దాని షష్ఠీ ఏకవచనం 'మృతస్య' (మరణించిన వానికి). — భగవద్గీత (2.27)"
+    }
+  },
+  {
+    "id": "bg-2-27-q6",
+    "verse": { "c": 2, "s": 27 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'mṛtyurdhruvaṃ' and 'tasmādaparihārye'rthe' in verse 2.27:",
+      "te": "2.27 శ్లోకంలోని 'మృత్యుర్ధ్రువమ్' మరియు 'తస్మాదపరిహార్యేఽర్థే' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Mṛtyuḥ + dhruvaṃ -> mṛtyurdhruvaṃ (Visarga Rutva Sandhi: visarga after 'u' -> 'r'); tasmāt + aparihārye -> tasmād aparihārye (Jasdtva Sandhi: 't' -> 'd'); aparihārye + arthe -> aparihārye 'rthe (Pūrvarūpa Sandhi: e + a -> e').",
+        "te": "మృత్యుః + ధ్రువమ్ -> మృత్యుర్ధ్రువమ్ (విసర్గ రుత్త్వ సంధి: 'ఉ' కారం తర్వాత ఉన్న విసర్గ 'ర్' గా మారినది); తస్మాత్ + అపరిహార్యే -> తస్మాద్ అపరిహార్యే (జశ్త్వ సంధి: 'త్' -> 'ద్'); అపరిహార్యే + అర్థే -> అపరిహార్యేఽర్థే (పూర్వరూప సంధి: ఏ + అ -> ఏ').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mṛtyu + dhruvaṃ -> mṛtyudhruvaṃ; tasmā + aparihārye -> tasmāparihārye",
+        "te": "మృత్యు + ధ్రువమ్ -> మృత్యుధ్రువమ్; తస్మా + అపరిహార్యే -> తస్మాపరిహార్యే",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Mṛtyum + dhruvaṃ -> mṛtyumdhruvaṃ; tasmān + aparihārye -> tasmānaparihārye",
+        "te": "మృత్యుమ్ + ధ్రువమ్ -> మృత్యుంధ్రువమ్; తస్మాన్ + అపరిహార్యే -> తస్మానపరిహార్యే",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Mṛtye + dhruvaṃ -> mṛtyedhruvaṃ; tasmāḥ + aparihārye -> tasmāhaparihārye",
+        "te": "మృత్యే + ధ్రువమ్ -> మృత్యేధ్రువమ్; తస్మాః + అపరిహార్యే -> తస్మాహపరిహార్యే",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Mṛtyuḥ' + 'dhruvaṃ': visarga after 'u' converts to 'r' before voiced 'dh' via Visarga Rutva Sandhi -> 'mṛtyurdhruvaṃ'. 2. 'Tasmāt' + 'aparihārye': unvoiced 't' becomes voiced 'd' before vowel 'a' via Jasdtva Sandhi -> 'tasmād aparihārye'. 3. 'Aparihārye' + 'arthe': initial 'a' after 'e' transforms to Avagraha via Pūrvarūpa Sandhi -> 'aparihārye 'rthe'. — Bhagavad Gita (2.27)",
+      "te": "1. 'మృత్యుః' + 'ధ్రువమ్' లలో 'ఉ' కారం తర్వాత ఉన్న విసర్గ ఘోష వ్యంజనం ముందు 'ర్' గా మారి 'మృత్యుర్ధ్రువమ్' (విసర్గ రుత్త్వ సంధి) అయినది. 2. 'తస్మాత్' + 'అపరిహార్యే' లలో అచ్చు ముందు 'త్' స్థానంలో 'ద్' వచ్చి 'తస్మాదపరిహార్యే' (జశ్త్వ సంధి) అయినది. 3. 'అపరిహార్యే' + 'అర్థే' లలో 'ఏ' తర్వాత ఉన్న 'అ' స్థానంలో అవగ్రహం వచ్చి 'అపరిహార్యేఽర్థే' (పూర్వరూప సంధి) అయినది. — భగవద్గీత (2.27)"
+    }
+  }
+]

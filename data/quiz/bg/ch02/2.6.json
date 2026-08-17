@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-6-q1",
+    "verse": { "c": 2, "s": 6 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.6?\n\n“na caitadvidmaḥ kataradno garīyo yadvā jayema yadi vā no jayeyuḥ | yāneva hatvā na jijīviṣāmastevasthitāḥ pramukhe dhārtarāṣṭrāḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“న చైతద్విద్మః కతరన్నో గరీయో యద్వా జయేమ యది వా నో జయేయుః | యానేవ హత్వా న జిజీవిషా మస్తేఽవస్థితాః ప్రముఖే ధార్తరాష్ట్రాః”"
+    },
+    "choices": [
+      {
+        "en": "Arjuna said — Nor do we know which is better for us—whether we should conquer them or whether they should conquer us. The very sons of Dhritarashtra, after killing whom we would not wish to live, are standing arrayed before us.",
+        "te": "అర్జునుడు పలికెను — మనకు ఏది శ్రేయస్కరమో (మనం వారిని జయించడమా లేదా వారు మనలను జయించడమా) కూడా మనకు తెలియడం లేదు. ఎవరిని చంపి మనం జీవించాలని కోరుకోవడం లేదో, ఆ ధృతరాష్ట్రుని కుమారులే మనకు ఎదురుగా నిలిచి ఉన్నారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Arjuna said — We are completely certain of our victory in battle, and after slaying the sons of Dhritarashtra, we shall rule the world in peace.",
+        "te": "అర్జునుడు పలికెను — యుద్ధంలో మన విజయము ఖాయమని మాకు స్పష్టంగా తెలుసు, ధృతరాష్ట్రుని కుమారులను సంహరించిన తర్వాత మనం ఈ ప్రపంచాన్ని ప్రశాంతంగా ఏలుతాము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Arjuna said — If the sons of Dhritarashtra conquer us in battle, we shall willingly accept exile in the forest once again.",
+        "te": "అర్జునుడు పలికెను — ఒకవేళ ధృతరాష్ట్రుని కుమారులు మనలను యుద్ధంలో ఓడిస్తే, మనం మరొకసారి స్వచ్ఛందంగా అరణ్యవాసానికి వెళ్ళడానికి సిద్ధంగా ఉన్నాము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Arjuna said — The gods have already revealed to us that neither side will survive this great conflict.",
+        "te": "అర్జునుడు పలికెను — ఈ మహా సంగ్రామంలో ఇరు పక్షాలలో ఎవరూ మిగలరని దేవతలు ఇప్పటికే మాకు వెల్లడించారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Na caitad vidmaḥ katarad no garīyo yad vā jayema yadi vā no jayeyuḥ / yān eva hatvā na jijīviṣāmas te 'vasthitāḥ pramukhe dhārtarāṣṭrāḥ.\" Arjuna expresses complete indecision, not knowing whether victory or defeat is preferable, since killing his cousins ('dhārtarāṣṭrāḥ') renders life itself undesirable ('na jijīviṣāmaḥ'). — Bhagavad Gita (2.6)",
+      "te": "యుద్ధంలో గెలవడం మేలా లేక ఓడిపోవడం మేలా అనేది కూడా తేల్చుకోలేని నిశ్చేష్టతలో అర్జునుడు పడ్డాడు. తమ దాయాదులైన ధార్తరాష్ట్రులను చంపి బతకడం కంటే మరణమే నయమని భావిస్తూ, వారే తన ఎదుట యుద్ధానికి నిలబడటాన్ని జీర్ణించుకోలేకపోతున్నాడు. — భగవద్గీత (2.6)"
+    }
+  },
+  {
+    "id": "bg-2-6-q2",
+    "verse": { "c": 2, "s": 2 },
+    "concept": ["Epistemological Paralysis - Moral Uncertainty"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Which Sanskrit phrase in verse 2.6 captures Arjuna's philosophical dilemma of not knowing which path is morally superior?",
+      "te": "2.6 శ్లోకంలో ధర్మపరంగా ఏ మార్గం శ్రేష్ఠమైనదో తేల్చుకోలేని అర్జునుని సంశయాత్మక స్థితిని వివరిచే సంస్కృత పదబంధం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Na caitad vidmaḥ katarad no garīyaḥ ('Nor do we know which is better for us')",
+        "te": "న చైతద్విద్మః కతరన్నో గరీయః ('మనకు ఏది శ్రేయస్కరమో కూడా మాకు తెలియడం లేదు')",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Te 'vasthitāḥ pramukhe dhārtarāṣṭrāḥ ('Standing arrayed before us are the sons of Dhritarashtra')",
+        "te": "తేఽవస్థితాః ప్రముఖే ధార్తరాష్ట్రాః ('ధృతరాష్ట్ర కుమారులు మనకు ఎదురుగా నిలిచి ఉన్నారు')",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Hatvā na jijīviṣāmaḥ ('Having killed whom we do not wish to live')",
+        "te": "హత్వా న జిజీవిషా మః ('ఎవరిని చంపిన తర్వాత మనం జీవించాలని కోరుకోవడం లేదో')",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yad vā jayema yadi vā no jayeyuḥ ('Whether we conquer or they conquer us')",
+        "te": "యద్వా జయేమ యది వా నో జయేయుః ('మనం గెలిచినా లేదా వారు మనలను జయించినా')",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Na ca etat vidmaḥ' (we do not know this) + 'katarat naḥ garīyaḥ' (which of the two is heavier / weightier / better for us). Arjuna admits total intellectual paralysis regarding the moral weight of outcome. — Bhagavad Gita (2.6)",
+      "te": "'న చ ఏతత్ విద్మః' (మాకు ఇది తెలియదు) + 'కతరత్ నః గరీయః' (మాకు రెంటిలో ఏది మరింత మేలైనదో/గొప్పదో). రెండు మార్గాలలో ఏది ధర్మమో నిర్ణయించుకోలేని తీవ్రమైన వివేక భ్రాంతిని ఇది తెలియజేస్తుంది. — భగవద్గీత (2.6)"
+    }
+  },
+  {
+    "id": "bg-2-6-q3",
+    "verse": { "c": 2, "s": 6 },
+    "concept": ["Existential Despair - Loss of Will to Live"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What existential statement does Arjuna make regarding life after slaying the Kauravas in verse 2.6?",
+      "te": "2.6 శ్లోకంలో కౌరవులను చంపిన తర్వాత తన జీవితం గురించి అర్జునుడు ఏ అస్తిత్వవేదనతో కూడిన ప్రకటన చేశాడు?"
+    },
+    "choices": [
+      {
+        "en": "Yān eva hatvā na jijīviṣāmaḥ ('After killing whom, we would have no desire to live')",
+        "te": "యానేవ హత్వా న జిజీవిషా మః ('ఎవరిని సంహరించిన తర్వాత మనం అసలు జీవించాలనే కోరికనే కలిగి ఉండమో')",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Yān eva hatvā svargaṃ lapsyāmahe ('After killing whom, we shall surely attain heaven')",
+        "te": "యానేవ హత్వా స్వర్గం లప్స్యామహే ('ఎవరిని చంపడం వల్ల మనం నిశ్చయంగా స్వర్గాన్ని పొందుతామో')",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Yān eva hatvā rājyaṃ praśāsiṣyāmaḥ ('After killing whom, we shall rule the whole kingdom')",
+        "te": "యానేవ హత్వా రాజ్యం ప్రశాసిష్యామః ('ఎవరిని చంపడం వల్ల మనం సమగ్ర రాజ్యాన్ని పరిపాలిస్తామో')",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yān eva hatvā pāpād mucyāmahe ('After killing whom, we shall be freed from all sins')",
+        "te": "యానేవ హత్వా పాపాద్ ముచ్యామహే ('ఎవరిని చంపడం వల్ల మనం సమస్త పాపాల నుండి విముక్తులమవుతామో')",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Jijīviṣāmaḥ' is the desiderative verb form meaning 'we wish to live'. Combined with 'na' (not) and 'yān eva hatvā' (having killed whom indeed), Arjuna confesses that winning the war by fratricide robs life of all meaning. — Bhagavad Gita (2.6)",
+      "te": "'జిజీవిషా మః' అనగా 'జీవించాలని ఇచ్చగించుట' (సన్నంత రూపం). 'న జిజీవిషా మః' అనగా 'బతకాలని కోరుకోకపోవడం'. కౌరవులను చంపి సాధించే విజయం జీవితాన్నే అర్థరహితంగా మారుస్తుందని అర్జునుడు వాపోతున్నాడు. — భగవద్గీత (2.6)"
+    }
+  },
+  {
+    "id": "bg-2-6-q4",
+    "verse": { "c": 2, "s": 6 },
+    "concept": ["Sanskrit Vocabulary - Weighty / Better"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "arjuna",
+    "q": {
+      "en": "What does the Sanskrit comparative adjective 'garīyaḥ' mean in verse 2.6?",
+      "te": "2.6 శ్లోకంలోని 'గరీయః' అనే తారతమ్య విశేషణ పదానికి అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Heavier / better / more worthy / superior in value",
+        "te": "మరింత బరువైనది / మిక్కిలి శ్రేయస్కరమైనది / గొప్పది / అధికమైన విలువ గలది",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Easier / lighter to accomplish",
+        "te": "సులువైనది / తేలికైనది",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "More fearful and terrifying",
+        "te": "మరింత భయంకరమైనది",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Shorter in duration",
+        "te": "తక్కువ సమయం ఉండేది",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Garīyas' is the comparative form derived from 'guru' (heavy/weighty/important). In 'katarat naḥ garīyaḥ', it means 'which of the two outcomes holds greater spiritual/moral weight or benefit for us'. — Bhagavad Gita (2.6)",
+      "te": "'గురు' (బరువైన/గొప్ప) అనే పదం నుండి వచ్చిన తారతమ్య రూపం 'గరీయస్'. 'కతరత్ నః గరీయః' అనగా 'మనకు రెంటిలో ఏది మరింత గొప్పది/శ్రేయోదాయకమైనది' అని అర్థం. — భగవద్గీత (2.6)"
+    }
+  },
+  {
+    "id": "bg-2-6-q5",
+    "verse": { "c": 2, "s": 6 },
+    "concept": ["Sanskrit Grammar - Desiderative Verb 'Jijīviṣāmaḥ'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical structure of the verb 'jijīviṣāmaḥ' in verse 2.6:",
+      "te": "2.6 శ్లోకంలోని 'జిజీవిషా మః' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "1st person plural present tense Desiderative form (San-pratyaya) from root 'jīv' (to live), meaning 'we wish / desire to live'.",
+        "te": "'జీవ్' (జీవించుట) అనే ధాతువు యొక్క సన్నంత (కోరికను తెలిపే) వర్తమానకాల ఉత్తమ పురుష బహువచన రూపం — 'మనం జీవించాలని కోరుకొనుట' (న జిజీవిషా మః = మనం జీవించాలని కోరుకోము).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person singular future tense verb.",
+        "te": "ప్రథమ పురుష ఏకవచన భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Past tense passive verb form.",
+        "te": "భూతకాల కర్మణి రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb form.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Jijīviṣati' is the Desiderative (San-anta) root of 'jīv' (to live), expressing the wish or desire to live. 'Na jijīviṣāmaḥ' is the 1st person plural: 'we do not desire to live'. — Bhagavad Gita (2.6)",
+      "te": "'జీవ్' (బతుకు) ధాతువుకు సన్ ప్రత్యయం చేరడం వల్ల 'జిజీవిష' (బతకాలనే కోరిక) ఏర్పడింది. దాని ఉత్తమ పురుష బహువచనం 'జిజీవిషా మః'. 'న జిజీవిషా మః' అనగా 'మేము జీవించాలని కోరుకోవడం లేదు'. — భగవద్గీత (2.6)"
+    }
+  },
+  {
+    "id": "bg-2-6-q6",
+    "verse": { "c": 2, "s": 6 },
+    "concept": ["Sanskrit Grammar - Potential Subjunctive 'Jayema' & 'Jayeyuḥ'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "arjuna",
+    "q": {
+      "en": "Analyse the grammatical moods and persons of 'jayema' and 'jayeyuḥ' in verse 2.6:",
+      "te": "2.6 శ్లోకంలోని 'జయేమ' మరియు 'జయేయుః' అనే క్రియాపదాల విధి-లిఙ్ (సంభావనార్థక) విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Both are Potential Mood (Vidhi-liṅ) from root 'ji' (to conquer): 'jayema' is 1st person plural ('we might conquer'), and 'jayeyuḥ' is 3rd person plural ('they might conquer').",
+        "te": "రెండూ 'జి' (జయించుట) అనే ధాతువు యొక్క విధి-లిఙ్ (సంభావనార్థక) రూపాలు: 'జయేమ' అనేది ఉత్తమ పురుష బహువచనం ('మనం జయించవచ్చు'), 'జయేయుః' అనేది ప్రథమ పురుష బహువచనం ('వారు జయించవచ్చు').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Both are present indicative active verbs.",
+        "te": "రెండూ లట్ లకార వర్తమానకాల రూపాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Both are imperative commands.",
+        "te": "రెండూ లోట్ లకార ఆజ్ఞార్థక రూపాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Both are simple past tense forms.",
+        "te": "రెండూ లఙ్ లకార భూతకాల రూపాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Jayema' = 1st person plural Vidhi-liṅ of root 'ji' ('we should conquer'). 'Jayeyuḥ' = 3rd person plural Vidhi-liṅ of root 'ji' ('they should conquer'). Together: 'whether we conquer them or whether they conquer us'. — Bhagavad Gita (2.6)",
+      "te": "'జయేమ' అనగా విధి-లిఙ్ ఉత్తమ పురుష బహువచనం (మనం జయించినా). 'జయేయుః' అనగా విధి-లిఙ్ ప్రథమ పురుష బహువచనం (వారు జయించినా). రెంటిలో ఏ పరిణామం సంభవించినా శ్రేయస్సు ఏంటో తెలియడం లేదని భావం. — భగవద్గీత (2.6)"
+    }
+  }
+]

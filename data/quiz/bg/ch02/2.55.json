@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-55-q1",
+    "verse": { "c": 2, "s": 55 },
+    "concept": ["Verse Meaning & Definition of Sthitaprajña"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.55?\n\n“śrībhagavān uvāca | prajahāti yadā kāmān sarvān pārtha manogatān | ātmanyevātmanā tuṣṭaḥ sthitaprajñastadocyate”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“శ్రీభగవాన్ ఉవాచ | ప్రజహాతి యదా కామాన్ సర్వాన్ పార్థ మనోగతాన్ | ఆత్మన్యేవాత్మనా తుష్టః స్థితప్రజ్ఞస్తదోచ్యతే”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — O Partha, when a person completely casts off all desires born of the mind and remains satisfied in the Self alone by the Self, then he is called a person of steady wisdom (Sthitaprajña).",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! మానవుడు తన మనస్సునందు ఉద్భవించే సమస్త కోరికలను ఎప్పుడైతే సంపూర్ణంగా త్యజిస్తాడో, మరియు తన ఆత్మస్వరూపంలోనే ఆత్మచేత పరిపూర్ణ తృప్తిని పొందుతాడో, అప్పుడు అతడు 'స్థితప్రజ్ఞుడు' అని అనబడును.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — A person of steady wisdom is one who satisfies every desire of the mind through royal wealth and physical enjoyment.",
+        "te": "శ్రీభగవానుడు పలికెను — రాజస సంపదలు, భౌతిక భోగాల ద్వారా మనస్సులోని ప్రతి కోరికనూ తీర్చుకునేవాడే నిజమైన స్థితప్రజ్ఞుడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — When a seeker suppresses his physical senses while secretly harboring desires in his mind, he is called a Sthitaprajña.",
+        "te": "శ్రీభగవానుడు పలికెను — మనస్సులో కోరికలను దాచుకుంటూ కేవలం బాహ్య ఇంద్రియాలను మాత్రమే నిగ్రహించేవాడే స్థితప్రజ్ఞుడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — One becomes a Sthitaprajña only after performing ritual sacrifices to fulfill all desires born of the mind.",
+        "te": "శ్రీభగవానుడు పలికెను — మనస్సులోని కోరికలన్నింటినీ తీర్చుకోవడానికి వేద యజ్ఞాలను ఆచరించిన తర్వాత మాత్రమే ఒకడు స్థితప్రజ్ఞుడిగా మారతాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Prajahāti yadā kāmān sarvān pārtha manogatān / ātmany evātmanā tuṣṭaḥ sthitaprajñas tadocyate.\" Krishna answers Arjuna's query about the description ('kā bhāṣā') of a Sthitaprajña. The internal mark of enlightenment consists of two complementary realities: negative (abandoning all mental desires, 'prajahāti sarvān kāmān') and positive (finding supreme self-sufficiency in the Ātman alone, 'ātmany evātmanā tuṣṭaḥ'). — Bhagavad Gita (2.55)",
+      "te": "2.54 లో అర్జునుడు అడిగిన 'స్థితప్రజ్ఞస్య కా భాషా' అనే ప్రశ్నకు శ్రీకృష్ణుడు ఇక్కడ సమాధానమిచ్చాడు. ఆత్మజ్ఞాని యొక్క అంతరంగ లక్షణం రెండు అంశాలపై ఆధారపడి ఉంటుంది: 1. మనస్సులోని సమస్త కామ్య కోరికలను విడిచిపెట్టడం ('ప్రజహాతి సర్వాన్ కామాన్'), 2. బాహ్య వస్తువులపై ఆధారపడకుండా తన ఆత్మ యందే తన ఆత్మ ద్వారా పరిపూర్ణ సంతోషాన్ని పొందడం ('ఆత్మన్యేవాత్మనా తుష్టః'). — భగవద్గీత (2.55)"
+    }
+  },
+  {
+    "id": "bg-2-55-q2",
+    "verse": { "c": 2, "s": 55 },
+    "concept": ["Philosophical Mechanism - Ātmany Evātmanā Tuṣṭaḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the spiritual significance of the phrase 'Ātmany evātmanā tuṣṭaḥ' in verse 2.55?",
+      "te": "2.55 శ్లోకంలోని 'ఆత్మన్యేవాత్మనా తుష్టః' అనే పదబంధం యొక్క ఆధ్యాత్మిక అంతరార్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "It describes radical spiritual self-sufficiency: the sage experiences unbroken bliss in the Self (Ātman) by the Self, needing no external objects, relationships, or sensory conditions for happiness.",
+        "te": "ఇది పరిపూర్ణమైన ఆత్మానంద తృప్తిని వర్ణిస్తుంది: ఆత్మజ్ఞాని తన ఆనందం కోసం ఏ బాహ్య భౌతిక వస్తువులపైనా, వ్యక్తులపైనా ఆధారపడకుండా... తన ఆత్మ యందే, తన ఆత్మ చేతనే నిత్య తృప్తిని పొందుతాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It means being satisfied with the physical strength of one's own body during physical labor.",
+        "te": "శారీరక కష్టం చేసేటప్పుడు తన దేహ బలాన్ని చూసి తృప్తి చెందడం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It refers to feeling proud of one's personal achievements and intellectual ego.",
+        "te": "తన వ్యక్తిగత విజయాలను, మేధోపరమైన అహంకారాన్ని చూసి గర్వపడటం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It means being content with whatever small material wealth one inherits from parents.",
+        "te": "తల్లిదండ్రుల నుండి వారసత్వంగా వచ్చే అల్ప భౌతిక సంపదతో సంతృప్తి చెందడం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Ātmani' (in the Self) + 'eva' (alone) + 'ātmanā' (by the Self) + 'tuṣṭaḥ' (content/satisfied). Human desires arise because the ego seeks happiness outside itself. When one realizes that the Ātman is the source of all bliss (Ananda), external desires drop naturally without suppression. — Bhagavad Gita (2.55)",
+      "te": "'ఆత్మని' (ఆత్మ యందు) + 'ఏవ' (మాత్రమే) + 'ఆత్మనా' (ఆత్మ చేత) + 'తుష్టః' (తృప్తి పొందినవాడు). మనస్సు ఆనందం కోసం బాహ్య ప్రపంచం వైపు వెళ్లడమే కోరికలకు మూలం. ఆత్మే ఆనంద స్వరూపమని గ్రహించిన జ్ఞానికి బాహ్య ఇంద్రియ భోగాల అవసరమే ఉండదు కాబట్టి కోరికలు స్వయంగా తొలగిపోతాయి. — భగవద్గీత (2.55)"
+    }
+  },
+  {
+    "id": "bg-2-55-q3",
+    "verse": { "c": 2, "s": 55 },
+    "concept": ["Psychological Distinction - Kāmān Manogatān"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why does Lord Krishna specifically use the qualifier 'Manogatān' (born of/dwelling in the mind) when describing desires ('kāmān') in verse 2.55?",
+      "te": "2.55 శ్లోకంలో కోరికలను ('కామాన్') వర్ణించేటప్పుడు శ్రీకృష్ణుడు 'మనోగతాన్' (మనస్సులో పుట్టే/ఉండే) అనే విశేషణాన్ని ఎందుకు ప్రయోగించాడు?"
+    },
+    "choices": [
+      {
+        "en": "To emphasize that desire is not an inherent property of the Ātman (Self), but a temporary conditioning belonging solely to the mind (Mantas/Antaḥkaraṇa) that can be completely cast off.",
+        "te": "కోరిక అనేది ఆత్మ యొక్క సహజ స్వభావం కాదని, అది కేవలం మనస్సులోనే ('అంతఃకరణం' లోనే) ఉత్పన్నమయ్యే తాత్కాలిక వికారమని... కాబట్టి దాన్ని సంపూర్ణంగా తొలగించడం సాధ్యమేనని నిరూపించడానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "To suggest that desires written in books are acceptable, while thoughts in the mind are sinful.",
+        "te": "పుస్తకాలలో రాసిన కోరికలు మంచివని, మనస్సులోని ఆలోచనలు మాత్రమే పాపపువని సూచించడానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "To instruct Arjuna to suppress physical desires while retaining mental fantasies.",
+        "te": "శారీరక కోరికలను అణచివేస్తూ మనస్సులో భావనలను కాపాడుకోమని అర్జునుడిని ఆదేశించడానికి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "To distinguish between desires of warriors and desires of ordinary citizens.",
+        "te": "యోధుల కోరికలకు, సాధారణ పౌరుల కోరికలకు మధ్య వ్యత్యాసాన్ని చూపడానికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Manas' (mind) + 'gatān' (dwelling in). Desires belong to the mind, not to the pure Self (Ātman). Realizing 'I am the Witness, not the mind' allows a practitioner to disidentify with mental desires and let them dissolve ('prajahāti'). — Bhagavad Gita (2.55)",
+      "te": "'మనస్' (మనస్సు) + 'గతాన్' (ఉన్నటువంటి). కోరికలు మనస్సుకు సంబంధించినవి తప్ప పరిశుద్ధ ఆత్మకు సంబంధించినవి కావు. 'నేను మనస్సును కాను, సాక్షి ఆత్మను' అనే సత్య గ్రహణమే మనోగత కామాలను పూర్తిగా విడిచిపెట్టడానికి ('ప్రజహాతి') మార్గం సుగమం చేస్తుంది. — భగవద్గీత (2.55)"
+    }
+  },
+  {
+    "id": "bg-2-55-q4",
+    "verse": { "c": 2, "s": 55 },
+    "concept": ["Sanskrit Vocabulary - Casts Off, All Desires, Content"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'prajahāti', 'kāmān', and 'tuṣṭaḥ' mean in verse 2.55?",
+      "te": "2.55 శ్లోకంలోని 'ప్రజహాతి', 'కామాన్', మరియు 'తుష్టః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Prajahāti = Completely casts off / relinquishes; Kāmān = Desires / cravings; Tuṣṭaḥ = Contented / satisfied / happy.",
+        "te": "ప్రజహాతి = సంపూర్ణంగా విడిచిపెట్టును / త్యజించును; కామాన్ = కోరికలను / భోగాశలను; తుష్టః = పరిపూర్ణ తృప్తి పొందినవాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Prajahāti = Protects carefully; Kāmān = Enemies; Tuṣṭaḥ = Wounded.",
+        "te": "ప్రజహాతి = జాగ్రత్తగా కాపాడును; కామాన్ = శత్రువులను; తుష్టః = గాయపడినవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Prajahāti = Remembers; Kāmān = Mantras; Tuṣṭaḥ = Fearful.",
+        "te": "ప్రజహాతి = గుర్తుంచుకొనును; కామాన్ = మంత్రాలను; తుష్టః = భయపడినవాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Prajahāti = Fights against; Kāmān = Weapons; Tuṣṭaḥ = Defeated.",
+        "te": "ప్రజహాతి = పోరాడును; కామాన్ = ఆయుధాలను; తుష్టః = ఓడిపోయినవాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Pra' (completely) + 'jahāti' (casts off, root 'hā') = 'Prajahāti' (completely relinquishes). 'Kāma' in Accusative Plural Masculine is 'kāmān' (desires). 'Tuṣṭaḥ' is Past Passive Participle of root 'tuṣ' (satisfied/contented). — Bhagavad Gita (2.55)",
+      "te": "'ప్ర' (సమగ్రముగా) + 'జహాతి' ('హా' ధాతువు = విడిచిపెట్టును) = ప్రజహాతి (సంపూర్ణంగా త్యజించును). 'కామ' ద్వితీయా బహువచనం 'కామాన్' (కోరికలను). 'తుష్' ధాతు క్తాంత రూపం 'తుష్టః' (తృప్తి నందినవాడు). — భగవద్గీత (2.55)"
+    }
+  },
+  {
+    "id": "bg-2-55-q5",
+    "verse": { "c": 2, "s": 55 },
+    "concept": ["Sanskrit Grammar - Passive Verb 'Ucyate' & Active 'Prajahāti'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'prajahāti' and 'ucyate' in verse 2.55:",
+      "te": "2.55 శ్లోకంలోని 'ప్రజహాతి' మరియు 'ఉచ్యతే' అనే క్రియాపదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Prajahāti = 3rd person singular Present active indicative (Laṭ-lakāra) from root 'hā' with prefix 'pra' (he completely relinquishes); Ucyate = 3rd person singular Present passive indicative (Laṭ-lakāra) from root 'vac' (he is called / declared).",
+        "te": "ప్రజహాతి = 'ప్ర' ఉపసర్గతో 'హా' (త్యజించు) ధాతువు లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ఏకవచన పరస్మైపద క్రియ ('అతడు త్యజించును'); ఉచ్యతే = 'వచ్' (పలుకు) ధాతువు లట్ లకార ప్రథమ పురుష ఏకవచన కర్మణి క్రియ ('అని చెప్పబడును/అనబడును').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Prajahāti = Past tense verb; Ucyate = Future tense verb.",
+        "te": "ప్రజహాతి = భూతకాల క్రియ; ఉచ్యతే = భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Prajahāti = Imperative command; Ucyate = Present participle.",
+        "te": "ప్రజహాతి = ఆజ్ఞార్థక క్రియ; ఉచ్యతే = వర్తమాన విశేషణం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Prajahāti = Infinitive form; Ucyate = Noun form.",
+        "te": "ప్రజహాతి = తుమున్నంత రూపం; ఉచ్యతే = నామవాచక రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Prajahāti' describes the active renunciation performed by the seeker ('yadā prajahāti = when he completely casts off'). 'Ucyate' completes the definition ('tadā sthitaprajñaḥ ucyate = then he is called a person of steady wisdom'). — Bhagavad Gita (2.55)",
+      "te": "'ప్రజహాతి' అనేది సాధకుడు చేసే సకల కామ త్యాగాన్ని తెలిపే వర్తమాన కర్తరి క్రియ. 'ఉచ్యతే' అనేది ఆ లక్షణాలు ఉన్న సాధకుని స్థితికి శాస్త్రం ఇచ్చే సంజ్ఞను తెలిపే కర్మణి క్రియ ('తదా స్థితప్రజ్ఞః ఉచ్యతే'). — భగవద్గీత (2.55)"
+    }
+  },
+  {
+    "id": "bg-2-55-q6",
+    "verse": { "c": 2, "s": 55 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'ātmanyevātmanā' and 'sthitaprajñastdocyate' in verse 2.55:",
+      "te": "2.55 శ్లోకంలోని 'ఆత్మన్యేవాత్మనా' మరియు 'స్థితప్రజ్ఞస్తదోచ్యతే' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Ātmani + eva -> ātmanyeva (Yan Sandhi: i -> y); ātmanyeva + ātmanā -> ātmanyevātmanā (Savarna-dirgha Sandhi: a + ā -> ā); sthitaprajñaḥ + tadā -> sthitaprajñas tadā (Visarga Sattva Sandhi); tadā + ucyate -> tadocyate (Guṇa Sandhi: ā + u -> o).",
+        "te": "ఆత్మని + ఏవ -> ఆత్మన్యేవ (యణాదేశ సంధి: 'ఇ' -> 'య్'); ఆత్మన్యేవ + ఆత్మనా -> ఆత్మన్యేవాత్మనా (సవర్ణదీర్ఘ సంధి); స్థితప్రజ్ఞః + తదా -> స్థితప్రజ్ఞస్తదా (విసర్గ సత్త్వ సంధి: 'ః' -> 'స్'); తదా + ఉచ్యతే -> తదోచ్యతే (గుణ సంధి: ఆ + ఉ -> ఓ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Ātmana + eva -> ātmaneva; sthitaprajña + tadā -> sthitaprajñatadā",
+        "te": "ఆత్మన + ఏవ -> ఆత్మనేవ; స్థితప్రజ్ఞ + తదా -> స్థితప్రజ్ఞతదా",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Ātmanim + eva -> ātmanimeva; sthitaprajñam + tadā -> sthitaprajñamtadā",
+        "te": "ఆత్మనిమ్ + ఏవ -> ఆత్మనిమేవ; స్థితప్రజ్ఞమ్ + తదా -> స్థితప్రజ్ఞమ్తదా",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Ātmane + eva -> ātmane'va; sthitaprajñe + tadā -> sthitaprajñe'dā",
+        "te": "ఆత్మనే + ఏవ -> ఆత్మనేఽవ; స్థితప్రజ్ఞే + తదా -> స్థితప్రజ్ఞేఽదా",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Ātmani' + 'eva': 'i' -> 'y' via Yan Sandhi -> 'ātmanyeva'. 2. 'Ātmanyeva' + 'ātmanā': 'a' + 'ā' -> 'ā' via Savarna-dirgha -> 'ātmanyevātmanā'. 3. 'Sthitaprajñaḥ' + 'tadā': visarga -> 's' before 't' via Visarga Sattva -> 'sthitaprajñas tadā'. 4. 'Tadā' + 'ucyate': 'ā' + 'u' -> 'o' via Guṇa Sandhi -> 'tadocyate'. — Bhagavad Gita (2.55)",
+      "te": "1. 'ఆత్మని' + 'ఏవ' = ఆత్మన్యేవ (యణాదేశ సంధి). 2. 'ఆత్మన్యేవ' + 'ఆత్మనా' = ఆత్మన్యేవాత్మనా (సవర్ణదీర్ఘ సంధి). 3. 'స్థితప్రజ్ఞః' + 'తదా' = స్థితప్రజ్ఞస్తదా (విసర్గ సత్త్వ సంధి). 4. 'తదా' + 'ఉచ్యతే' = తదోచ్యతే (గుణ సంధి). — భగవద్గీత (2.55)"
+    }
+  }
+]

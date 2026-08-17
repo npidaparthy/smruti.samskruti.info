@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-62-q1",
+    "verse": { "c": 2, "s": 62 },
+    "concept": ["Verse Meaning & The First Stages of the Ladder of Fall"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.62?\n\n“dhyāyato viṣayān puṃsaḥ saṅgas teṣūpajāyate | saṅgāt sañjāyate kāmaḥ kāmāt krodho 'bhijāyate”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“ధ్యాయతో విషయాన్ పుంసః సంగస్ తేషూపజాయతే | సంగాత్ సంజాయతే కామః కామాత్ క్రోధో 'భిజాయతే”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — While contemplating sense objects, a person develops attachment to them; from attachment springs intense desire (craving), and from thwarted desire arises anger.",
+        "te": "శ్రీభగవానుడు పలికెను — విషయ భోగాలను నిరంతరం చింతించడం (ధ్యానించడం) వల్ల మనిషికి వాటిపై సంగము (మోహం/అనురాగం) కలుగుతుంది. ఆ సంగం నుండి కామము (తీవ్రమైన కోరిక) పుడుతుంది; ఆ కామము నెరవేరనప్పుడు/అవరోధం కలిగినప్పుడు దాని నుండి క్రోధము (కోపము) ఉత్పన్నమవుతుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Contemplating sense objects immediately grants liberation from desire, freeing the mind from any possibility of anger.",
+        "te": "శ్రీభగవానుడు పలికెను — విషయ భోగాలను ధ్యానించడం వల్ల తక్షణమే కోరికల నుండి ముక్తి లభించి, మనస్సు ఎలాంటి కోపానికి గురికాకుండా ఉంటుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Anger arises directly from spiritual study, whereas contemplating sense objects brings inner peace.",
+        "te": "శ్రీభగవానుడు పలికెను — ఆధ్యాత్మిక అధ్యయనం వల్ల నేరుగా కోపం వస్తుంది, విషయాలను ధ్యానించడం వల్ల చిత్తశాంతి కలుగుతుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Desire and anger are spiritual assets that a warrior must cultivate through continuous sensory contemplation.",
+        "te": "శ్రీభగవానుడు పలికెను — కామ క్రోధాలు అనేవి ఆధ్యాత్మిక సంపదలు, యోధుడు నిరంతర విషయ చింతన ద్వారా వాటిని పెంచుకోవాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Dhyāyato viṣayān puṃsaḥ saṅgas teṣūpajāyate / saṅgāt sañjāyate kāmaḥ kāmāt krodho 'bhijāyate.\" Krishna details the subtle cognitive chain of human spiritual degradation: 1. Dwelling mentally on sense objects ('dhyāyataḥ viṣayān'), 2. Formation of attachment ('saṅgaḥ'), 3. Intensification into burning desire/craving ('kāmaḥ'), 4. Eruption of anger ('krodhaḥ') when desire is blocked. — Bhagavad Gita (2.62)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ మానసిక పతన క్రమం యొక్క మొదటి నాలుగు సోపానాలను స్పష్టంగా వివరించాడు: 1. విషయాలను నిరంతరం మనస్సులో ధ్యానించడం ('ధ్యాయతో విషయాన్'), 2. దాని వల్ల మోహం/సంగం ఏర్పడటం ('సంగః'), 3. ఆ సంగం నుండి కామము/తీవ్ర కోరిక జనించడం ('కామః'), 4. కోరికకు భంగం కలిగినప్పుడు క్రోధము/కోపం ఉత్పన్నమవడం ('క్రోధః'). — భగవద్గీత (2.62)"
+    }
+  },
+  {
+    "id": "bg-2-62-q2",
+    "verse": { "c": 2, "s": 62 },
+    "concept": ["Psychological Causality - Dhyāna to Saṅga to Kāma"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "According to verse 2.62, what is the initial, subtle root cause that triggers the entire process of human mental downfall?",
+      "te": "2.62 శ్లోకం ప్రకారం, మానసిక పతన ప్రక్రియ మొత్తాన్ని ప్రారంభించే అత్యంత సూక్ష్మమైన ప్రాథమిక మూలకారణం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Mental dwelling or contemplation on sense objects ('Dhyāyato viṣayān')—allowing the mind to repeatedly dwell on external pleasures even without physical contact.",
+        "te": "విషయ భోగాల పట్ల మనస్సులో జరిగే నిరంతర చింతన/ధ్యానము ('ధ్యాయతో విషయాన్') — శారీరకంగా అనుభవించకపోయినా మనస్సులో వాటి గురించే పదే పదే ఆలోచించడం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Immediate physical contact with weapons on the battlefield.",
+        "te": "రణరంగంలో ఆయుధాలతో కలిగే తక్షణ శారీరక స్పర్శ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Lack of physical food and water during fasting.",
+        "te": "ఉపవాస సమయంలో ఆహార పానీయాలు లభించకపోవడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Hearing harsh words from teachers or ancestors.",
+        "te": "గురువుల లేదా పెద్దల నుండి నిందా వాక్యాలను వినడం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Physical sense control is not enough; the spiritual fall begins in the mind. 'Dhyāyataḥ' (contemplating/brooding) is the seed. When the mind lingers on sense objects, subtle affinity ('saṅga') forms, which rapidly hardens into obsessive desire ('kāma'). — Bhagavad Gita (2.62)",
+      "te": "కేవలం శారీరక ఇంద్రియ నిగ్రహం సరిపోదు; పతనమనేది మనస్సులోనే మొదలవుతుంది. విషయాలను మనస్సులో స్మరించడమే ('ధ్యాయతః') పతన బీజం. ఈ మానసిక స్మరణే మమకారంగా ('సంగః'), అది కామంగా ('కామః') రూపాంతరం చెందుతుంది. — భగవద్గీత (2.62)"
+    }
+  },
+  {
+    "id": "bg-2-62-q3",
+    "verse": { "c": 2, "s": 62 },
+    "concept": ["Psychological Origin of Anger - Kāmāt Krodho 'Bhijāyate"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What fundamental law of Vedantic psychology is expressed by 'Kāmāt krodho 'bhijāyate' in verse 2.62?",
+      "te": "2.62 శ్లోకంలోని 'కామాత్ క్రోధో 'భిజాయతే' అనే వాక్యాంశం వేదాంత మనోవిజ్ఞాన శాస్త్రానికి సంబంధించిన ఏ ప్రాథమిక నియమాన్ని తెలియజేస్తోంది?"
+    },
+    "choices": [
+      {
+        "en": "Anger (Krodha) is not an independent emotion, but a direct secondary reaction that inevitably erupts whenever selfish desire (Kāma) is obstructed or thwarted by people or circumstances.",
+        "te": "కోపం (క్రోధము) అనేది స్వతంత్ర భావన కాదు; స్వార్థ కామ్య కోరికకు (కామము) వ్యక్తుల వల్ల లేదా పరిస్థితుల వల్ల ఆటంకం/అవరోధం కలిగినప్పుడు పుట్టే ప్రత్యక్ష ప్రతిచర్యయే క్రోధము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Anger is caused by physical exhaustion and can be removed by sleeping.",
+        "te": "కోపం అనేది శారీరక అలసట వల్ల వస్తుంది, నిద్రపోవడం ద్వారా దాన్ని నివారించవచ్చు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Desire is born from anger when a person seeks revenge.",
+        "te": "మనిషి పగ తీర్చుకోవాలని చూసినప్పుడు కోపం నుండి కోరిక పుడుతుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Anger is a divine quality that purifies the intellect during meditation.",
+        "te": "కోపం అనేది ధ్యాన సమయంలో బుద్ధిని పరిశుద్ధం చేసే దివ్య గుణము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Kāma (desire) is the root impulse. When Kāma is fulfilled, greed (Lobha) grows; when Kāma is blocked or impeded by an obstacle, it transforms into Krodha (anger) directed at the obstacle. Thus, anger is simply frustrated desire. — Bhagavad Gita (2.62)",
+      "te": "కామమే సమస్త వికారాలకు మూలం. కామము నెరవేరితే లోభము పెరుగుతుంది; కామానికి అడ్డంకి ఎదురైతే అది క్రోధంగా (కోపంగా) మారుతుంది. కాబట్టి సిద్ధించని కోరిక యొక్క వికృత రూపమే క్రోధము. — భగవద్గీత (2.62)"
+    }
+  },
+  {
+    "id": "bg-2-62-q4",
+    "verse": { "c": 2, "s": 62 },
+    "concept": ["Sanskrit Vocabulary - Contemplating, Attachment, Desire, Anger"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'dhyāyataḥ', 'saṅgaḥ', 'kāmaḥ', and 'krodhaḥ' mean in verse 2.62?",
+      "te": "2.62 శ్లోకంలోని 'ధ్యాయతః', 'సంగః', 'కామః', మరియు 'క్రోధః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Dhyāyataḥ = Of one contemplating / dwelling upon; Saṅgaḥ = Attachment / affinity; Kāmaḥ = Passionate desire / craving; Krodhaḥ = Anger / wrath.",
+        "te": "ధ్యాయతః = ధ్యానించుచున్న/స్మరించుచున్న వానికి; సంగః = అనురాగము/మోహము/సంగత్వము; కామః = కామము/తీవ్రమైన కోరిక; క్రోధః = క్రోధము/కోపము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dhyāyataḥ = Of one sleeping; Saṅgaḥ = Knowledge; Kāmaḥ = Peace; Krodhaḥ = Joy.",
+        "te": "ధ్యాయతః = నిద్రపోతున్నవానికి; సంగః = జ్ఞానము; కామః = శాంతి; క్రోధః = ఆనందము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Dhyāyataḥ = Of one fighting; Saṅgaḥ = Weapon; Kāmaḥ = Victory; Krodhaḥ = Defeat.",
+        "te": "ధ్యాయతః = పోరాడుతున్నవానికి; సంగః = ఆయుధము; కామః = విజయము; క్రోధః = ఓటమి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Dhyāyataḥ = Of one eating; Saṅgaḥ = Food; Kāmaḥ = Hunger; Krodhaḥ = Satiety.",
+        "te": "ధ్యాయతః = తింటున్నవానికి; సంగః = ఆహారము; కామః = ఆకలి; క్రోధః = తృప్తి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Dhyāyataḥ' is Genitive Singular Present Active Participle of root 'dhyai' (contemplating). 'Saṅga' means attachment/sticky connection. 'Kāma' means desire. 'Krodha' means anger/wrath. — Bhagavad Gita (2.62)",
+      "te": "'ధ్యై' (ధ్యానించు) ధాతు వర్తమాన విశేషణ షష్ఠీ ఏకవచనం 'ధ్యాయతః'. 'సంగ' అనగా మోహము/అనుబంధము. 'కామ' అనగా కోరిక. 'క్రోధ' అనగా కోపము. — భగవద్గీత (2.62)"
+    }
+  },
+  {
+    "id": "bg-2-62-q5",
+    "verse": { "c": 2, "s": 62 },
+    "concept": ["Sanskrit Grammar - Ablative Causal Sequences"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical role of the Ablative forms 'saṅgāt' and 'kāmāt' in verse 2.62:",
+      "te": "2.62 శ్లోకంలోని 'సంగాత్' మరియు 'కామాత్' అనే పంచమీ విభక్తి రూపాల వ్యాకరణ ప్రాముఖ్యత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Both are Ablative Singular Masculine forms expressing origin/source (Hetau pañcamī / Apādāne pañcamī): 'saṅgāt' = from attachment [arises desire]; 'kāmāt' = from desire [arises anger].",
+        "te": "'సంగ' మరియు 'కామ' శబ్దాలకు పంచమీ విభక్తి ఏకవచన రూపాలు — ఇవి పతన క్రమంలో ఒకదాని నుండి మరొకటి పుట్టే ఉత్పత్తి హేతువును తెలిపే పంచమీ విభక్తి ప్రయోగాలు ('సంగాత్' = సంగము నుండి; 'కామాత్' = కామము నుండి).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Both are Nominative Plural forms acting as subjects of the sentence.",
+        "te": "వాక్యానికి కర్తగా పనిచేసే ప్రథమా విభక్తి బహువచన రూపాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Both are Locative Singular forms describing place.",
+        "te": "స్థానాన్ని తెలిపే సప్తమీ విభక్తి ఏకవచన రూపాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Both are Imperative verbs.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Sanskrit grammar, the Ablative case (Pañcamī) indicates source or cause ('jāyate' / 'sañjāyate' takes Ablative of source: Pāṇini 1.4.30 'janikartuḥ prakṛtiḥ'). 'Saṅgāt sañjāyate kāmaḥ' = From attachment, desire is born. 'Kāmāt krodhaḥ abhijāyate' = From desire, anger is born. — Bhagavad Gita (2.62)",
+      "te": "సంస్కృత వ్యాకరణంలో పుట్టుకకు కారణమైన మూలాన్ని తెలిపేటప్పుడు పంచమీ విభక్తిని వాడతారు ('జనికర్థుః ప్రకృతిః'). 'సంగాత్ సంజాయతే కామః' (సంగము నుండి కామము పుట్టును), 'కామాత్ క్రోధోఽభిజాయతే' (కామము నుండి క్రోధము పుట్టును). — భగవద్గీత (2.62)"
+    }
+  },
+  {
+    "id": "bg-2-62-q6",
+    "verse": { "c": 2, "s": 62 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'teṣūpajāyate' and 'krodho'bhijāyate' in verse 2.62:",
+      "te": "2.62 శ్లోకంలోని 'తేషూపజాయతే' మరియు 'క్రోధోఽభిజాయతే' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Teṣu + upajāyate -> teṣūpajāyate (Savarna-dirgha Sandhi: u + u -> ū); krodhaḥ + abhijāyate -> krodho 'bhijāyate (Visarga Uttva & Pūrvarūpa Sandhi).",
+        "te": "తేషు + ఉపజాయతే -> తేషూపజాయతే (సవర్ణదీర్ఘ సంధి: ఉ + ఉ -> ఊ); క్రోధః + అభిజాయతే -> క్రోధోఽభిజాయతే (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Teṣa + upajāyate -> teṣopajāyate; krodha + abhijāyate -> krodhābhijāyate",
+        "te": "తేష + ఉపజాయతే -> తేషోపజాయతే; క్రోధ + అభిజాయతే -> క్రోధాభిజాయతే",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Teṣum + upajāyate -> teṣumupajāyate; krodham + abhijāyate -> krodhamabhijāyate",
+        "te": "తేషుమ్ + ఉపజాయతే -> తేషుముపజాయతే; క్రోధమ్ + అభిజాయతే -> క్రోధమభిజాయతే",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Teṣe + upajāyate -> teṣe'pajāyate; krodhe + abhijāyate -> krodhe'bhijāyate",
+        "te": "తేషే + ఉపజాయతే -> తేషేఽపజాయతే; క్రోధే + అభిజాయతే -> క్రోధేఽభిజాయతే",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Teṣu' (in them) + 'upajāyate' (arises): short 'u' + short 'u' merges into long 'ū' via Savarna-dirgha Sandhi -> 'teṣūpajāyate'. 2. 'Krodhaḥ' + 'abhijāyate': visarga preceded by 'a' transforms to 'o' and initial 'a' becomes Avagraha via Visarga Uttva and Pūrvarūpa Sandhi -> 'krodho 'bhijāyate'. — Bhagavad Gita (2.62)",
+      "te": "1. 'తేషు' + 'ఉపజాయతే' లలో 'ఉ' + 'ఉ' కలసి సవర్ణదీర్ఘ సంధి ద్వారా 'తేషూపజాయతే' అయినది. 2. 'క్రోధః' + 'అభిజాయతే' లలో విసర్గ ఉత్త్వ, పూర్వరూప సంధుల ద్వారా 'క్రోధోఽభిజాయతే' అని సిద్ధించింది. — భగవద్గీత (2.62)"
+    }
+  }
+]

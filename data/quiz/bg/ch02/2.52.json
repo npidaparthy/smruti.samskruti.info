@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-52-q1",
+    "verse": { "c": 2, "s": 52 },
+    "concept": ["Verse Meaning & Crossing the Mire of Delusion"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.52?\n\n“yadā te mohakalilaṃ buddhirvyatitariṣyati | tadā gantāsi nirvedaṃ śrotavyasya śrutasya ca”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యదా తే మోహకలిలం బుద్ధిర్వ్యతితరిష్యతి | తదా గంతాసి నిర్వేదం శ్రోతవ్యస్య శ్రుతస్య చ”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — When your intellect fully crosses beyond the dense mire of delusion, at that time you will attain indifference to all that has been heard and all that is yet to be heard.",
+        "te": "శ్రీభగవానుడు పలికెను — నీ బుద్ధి ఎప్పుడైతే మోహమనే మాలిన్యాన్ని (అజ్ఞానమనే బురదను) సంపూర్ణంగా దాటివేస్తుందో, అప్పుడు నీవు ఇదివరకు విన్నవాటి పట్ల మరియు ఇకపై వినబోయే సమస్త భౌతిక/శాస్త్ర విషయాల పట్ల వైరాగ్యాన్ని (నిర్వేదాన్ని) పొందుతావు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — When you study all scriptures continuously, you will develop a desire to hear even more sacred rituals.",
+        "te": "శ్రీభగవానుడు పలికెను — నీవు సమస్త శాస్త్రాలను నిరంతరం అధ్యయనం చేసినప్పుడు, మరిన్ని పవిత్రమైన కర్మకాండలను వినాలనే కోరిక నీలో పెరుగుతుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Delusion can never be crossed by human intellect, so one must blindly follow whatever is heard from others.",
+        "te": "శ్రీభగవానుడు పలికెను — మానవ బుద్ధి చేత మోహాన్ని దాటడం అసాధ్యం, కాబట్టి ఇతరుల నుండి విన్నవాటిని గుడ్డిగా అనుసరించాలి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Crossing the mire of delusion means gaining the ability to hear distant sounds on the battlefield.",
+        "te": "శ్రీభగవానుడు పలికెను — మోహకలిలాన్ని దాటడమంటే రణరంగంలో దూరంలో ఉండే శబ్దాలను వినగల దివ్య శక్తిని సాధించడం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Yadā te moha-kalilaṃ buddhir vyatitariṣyati / tadā gantāsi nirvedaṃ śrotavyasya śrutasya ca.\" Krishna marks a major milestone in spiritual evolution: when the intellect ('buddhiḥ') breaks through the thick tangle of delusion ('moha-kalilam') that identifies the Self with non-Self, one achieves 'nirvedam' (dispassion/indifference) toward fruitive rituals and worldly promises, whether already heard ('śrutasya') or yet to be heard ('śrotavyasya'). — Bhagavad Gita (2.52)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ ఆధ్యాత్మిక ప్రగతి యొక్క ప్రధాన మైలురాయిని వివరించాడు: ఆత్మానాత్మల విభజన తెలియని అజ్ఞానమనే గందరగోళ బురదను ('మోహకలిలమ్') బుద్ధి ('బుద్ధిః') దాటినప్పుడు, మానవుడు కర్మఫలాల గురించి ఇదివరకు విన్న ('శ్రుతస్య') లేదా ఇకపై వినబోయే ('శ్రోతవ్యస్య') విషయాల పట్ల సంపూర్ణ వైరాగ్యాన్ని/నిర్వేదాన్ని ('నిర్వేదమ్') పొందుతాడు. — భగవద్గీత (2.52)"
+    }
+  },
+  {
+    "id": "bg-2-52-q2",
+    "verse": { "c": 2, "s": 52 },
+    "concept": ["Metaphor & State - Moha-kalilam and Nirvedam"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the terms 'Moha-kalilam' and 'Nirvedam' mean in the philosophical context of verse 2.52?",
+      "te": "2.52 శ్లోకం యొక్క తాత్త్విక సందర్భంలో 'మోహకలిలమ్' మరియు 'నిర్వేదమ్' అనే పదాల విశేష అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Moha-kalilam = The dense, turbid mire/forest of delusion that obscures discrimination; Nirvedam = Dispassion, detachment, or transcendence toward desire-driven worldly/scriptural rewards.",
+        "te": "మోహకలిలమ్ = వివేకాన్ని కప్పివేసే అజ్ఞానమనే దట్టమైన మాలిన్యము/బురద; నిర్వేదమ్ = వైరాగ్యము / లౌకిక, స్వర్గలోక కామ్య ఫలాల పట్ల కలిగే త్యాగభావము లేదా ఉదాసీనత.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Moha-kalilam = Physical battle dust; Nirvedam = Great fear of enemy weapons.",
+        "te": "మోహకలిలమ్ = రణరంగంలోని శారీరక దుమ్ము; నిర్వేదమ్ = శత్రు ఆయుధాల పట్ల కలిగే గొప్ప భయము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Moha-kalilam = Knowledge of numbers; Nirvedam = Complete devotion to kings.",
+        "te": "మోహకలిలమ్ = సంఖ్యల జ్ఞానము; నిర్వేదమ్ = రాజుల పట్ల పరిపూర్ణ భక్తి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Moha-kalilam = Heavenly enjoyment; Nirvedam = Deep sleep state.",
+        "te": "మోహకలిలమ్ = స్వర్గలోక భోగము; నిర్వేదమ్ = గడ నిద్ర స్థితి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Moha' (delusion/confusion) + 'kalila' (mire/tangle/impurity) = 'Moha-kalilam' (the thick mud of ignorance where one mistake is taken for truth). 'Nirveda' comes from 'nir-' (without) + 'vid' (finding/enjoying value in), denoting genuine spiritual dispassion toward finite secondary gains once Truth is glimpsed. — Bhagavad Gita (2.52)",
+      "te": "'మోహ' (అజ్ఞాన భ్రాంతి) + 'కలిల' (బురద/కలుషితం) = మోహకలిలమ్ (సత్యాసత్యాలను గ్రహించనివ్వని అజ్ఞానమనే మాలిన్యం). 'నిర్' + 'విద్' నుండి వచ్చిన 'నిర్వేదమ్' అనగా అపరిమిత ఆత్మసత్యం ముందు అల్ప లౌకిక/స్వర్గ విషయాల పట్ల జనించే నైరూప్య వైరాగ్యము. — భగవద్గీత (2.52)"
+    }
+  },
+  {
+    "id": "bg-2-52-q3",
+    "verse": { "c": 2, "s": 52 },
+    "concept": ["Scope of Dispassion - Śrotavyasya Śrutasya Ca"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the phrase 'Śrotavyasya śrutasya ca' encompass in verse 2.52?",
+      "te": "2.52 శ్లోకంలోని 'శ్రోతవ్యస్య శ్రుతస్య చ' అనే పదబంధం దేనిని సూచిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "All secondary teachings, promises, or scriptures dealing with temporal sensory/heavenly enjoyments that one has already heard ('śrutasya') or is yet to hear ('śrotavyasya').",
+        "te": "ఇదివరకు విన్నటువంటి ('శ్రుతస్య') మరియు ఇకపై వినబోయే ('శ్రోతవ్యస్య') అశాశ్వతమైన లౌకిక, స్వర్గలోక ఇంద్రియ భోగాలకు సంబంధించిన సమస్త శబ్ద/శాస్త్ర విషయాలను.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Strictly abusive words spoken by enemies on the battlefield.",
+        "te": "రణరంగంలో శత్రువులు మాట్లాడే నిందా వాక్యాలను మాత్రమే.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Secret war strategies told by chariot drivers.",
+        "te": "రథసారథులు చెప్పే రహస్య యుద్ధ వ్యూహాలను.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Musical notes played during royal coronation rites.",
+        "te": "రాజ్య పట్టాభిషేక క్రతువులలో ప్లే చేసే సంగీత స్వరాలను.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Śruta' = that which has been heard (past secondary Vedic promises of earthly/heavenly fruits); 'Śrotavya' = that which is yet to be heard (future promises of sensory pleasure). When Self-realization dawns, one transcends the need for all conditional, secondary promises of pleasure. — Bhagavad Gita (2.52)",
+      "te": "'శ్రుత' = ఇదివరకు విన్నది (ఇప్పటివరకు విన్న కామ్య కర్మ ఫలాలు); 'శ్రోతవ్య' = ఇకపై వినబోయేది (ఇకపై వినవచ్చే ఇంద్రియ సుఖాల వాగ్దానాలు). ఆత్మజ్ఞాన వివేకం జాగృతమైనప్పుడు ఈ అపార అశాశ్వత వాగ్దానాలన్నింటి పైనా సాధకునికి ఆసక్తి నశిస్తుంది. — భగవద్గీత (2.52)"
+    }
+  },
+  {
+    "id": "bg-2-42-q4",
+    "verse": { "c": 2, "s": 52 },
+    "concept": ["Sanskrit Vocabulary - Delusion Mire & Intellect Crossing"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'yadā', 'vyatitariṣyati', and 'gantāsi' mean in verse 2.52?",
+      "te": "2.52 శ్లోకంలోని 'యదా', 'వ్యతితరిష్యతి', మరియు 'గంతాసి' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Yadā = When; Vyatitariṣyati = Crosses far beyond / transcends; Gantāsi = You shall attain / reach.",
+        "te": "యదా = ఎప్పుడైతే; వ్యతితరిష్యతి = సంపూర్ణంగా దాటివేయునో / అధిగమించునో; గంతాసి = నీవు పొందుదువు / చేరుకుందువు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Yadā = Where; Vyatitariṣyati = Destroys physically; Gantāsi = You will sing.",
+        "te": "యదా = ఎక్కడైతే; వ్యతితరిష్యతి = శారీరకంగా నాశనం చేయునో; గంతాసి = నీవు పాడుదువు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Yadā = Why; Vyatitariṣyati = Forgets slowly; Gantāsi = You will fight.",
+        "te": "యదా = ఎందుకని; వ్యతితరిష్యతి = మెల్లగా మరిచిపోవునో; గంతాసి = నీవు పోరాడుదువు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yadā = How; Vyatitariṣyati = Increases daily; Gantāsi = You will sleep.",
+        "te": "యదా = ఏ విధంగా; వ్యతితరిష్యతి = నిత్యం పెరుగునో; గంతాసి = నీవు నిద్రపోవుదువు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yadā' is relative adverb (when). 'Vyatitariṣyati' is prefix 'vi-' + 'ati-' + root 'tṛ' in 3rd person singular future tense (will cross over completely). 'Gantāsi' is Periphrastic Future (Luṭ-lakāra) 2nd person singular from root 'gam' (you will go/attain). — Bhagavad Gita (2.52)",
+      "te": "'యదా' అనగా ఎప్పుడైతే. 'వి' + 'అతి' + 'తౄ' (దాటు) ధాతు భవిష్యత్కాల రూపం 'వ్యతితరిష్యతి' (దాటివేయునో). 'గమ్' (వెళ్లు/పొందు) ధాతు లుట్ లకార (Periphrastic Future) మధ్యమ పురుష ఏకవచన రూపం 'గంతాసి' (నీవు పొందుతావు). — భగవద్గీత (2.52)"
+    }
+  },
+  {
+    "id": "bg-2-52-q5",
+    "verse": { "c": 2, "s": 52 },
+    "concept": ["Sanskrit Grammar - Periphrastic Future Verb 'Gantāsi'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the rare grammatical form of 'gantāsi' in verse 2.52:",
+      "te": "2.52 శ్లోకంలోని 'గంతాసి' అనే అరుదైన క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "2nd person singular Periphrastic Future tense (Luṭ-lakāra) from root 'gam' (to go / attain), formed by combining agent noun 'gantā' with auxiliary verb 'asi' (you will reach / attain).",
+        "te": "'గమ్' (వెళ్లు/పొందు) ధాతువు యొక్క లుట్ లకార (Periphrastic Future / అనద్యతన భవిష్యత్) మధ్యమ పురుష ఏకవచన రూపం — 'గంతా' అనే తృచ్ ప్రత్యయాంత కర్తృ శబ్దానికి 'అసి' అనే క్రియ చేరగా 'గంతాసి' (నీవు పొందగలవు) అని సిద్ధించింది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person plural present tense active verb form.",
+        "te": "ప్రథమ పురుష బహువచన వర్తమానకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Past passive participle form.",
+        "te": "భూతకాల కర్మణి విశేషణ రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb form.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Sanskrit grammar, the Luṭ-lakāra (first/periphrastic future) forms 2nd person singular by attaching 'asi' to the 'tṛ'-stem: 'gantā' + 'asi' -> 'gantāsi' ('you will attain'). It indicates a definite future spiritual state. — Bhagavad Gita (2.52)",
+      "te": "సంస్కృతంలో లుట్ లకార (అనద్యతన భవిష్యత్) ప్రయోగంలో తృచ్ ప్రత్యయాంత శబ్దానికి 'అసి' చేరి మధ్యమ పురుష ఏకవచనం ఏర్పడుతుంది: 'గంతా' + 'అసి' -> 'గంతాసి' (నీవు నిశ్చయంగా పొందగలవు). — భగవద్గీత (2.52)"
+    }
+  },
+  {
+    "id": "bg-2-52-q6",
+    "verse": { "c": 2, "s": 52 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'buddhirvyatitariṣyati' in verse 2.52:",
+      "te": "2.52 శ్లోకంలోని 'బుద్ధిర్వ్యతితరిష్యతి' అనే పదం యొక్క సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Buddhiḥ + vyatitariṣyati -> buddhir vyatitariṣyati (Visarga Rutva Sandhi: visarga after 'i' converts to 'r' before voiced consonant 'v'); vi + ati -> vyati (Yan Sandhi: 'i' before 'a' -> 'y').",
+        "te": "బుద్ధిః + వ్యతితరిష్యతి -> బుద్ధిర్వ్యతితరిష్యతి (విసర్గ రుత్త్వ సంధి: 'ఇ' కారం తర్వాత ఉన్న విసర్గ ఘోష వ్యంజనం 'వ' ముందు 'ర్' గా మారినది); వి + అతి -> వ్యతి (యణాదేశ సంధి: 'ఇ' -> 'య్').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Buddhi + vyatitariṣyati -> buddhivyatitariṣyati",
+        "te": "బుద్ధి + వ్యతితరిష్యతి -> బుద్ధివ్యతితరిష్యతి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Buddhim + vyatitariṣyati -> buddhimvyatitariṣyati",
+        "te": "బుద్ధిమ్ + వ్యతితరిష్యతి -> బుద్ధిమ్వ్యతితరిష్యతి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Buddhe + vyatitariṣyati -> buddhe'vyatitariṣyati",
+        "te": "బుద్ధే + వ్యతితరిష్యతి -> బుద్ధేఽవ్యతితరిష్యతి",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Buddhiḥ' (intellect) + 'vyatitariṣyati' (will cross over): visarga preceded by 'i' transforms to 'r' before semi-vowel 'v' via Visarga Rutva Sandhi -> 'buddhir vyatitariṣyati'. 2. Inside 'vyatitariṣyati': 'vi' + 'ati' -> 'vyati' via Yan Sandhi. — Bhagavad Gita (2.52)",
+      "te": "1. 'బుద్ధిః' + 'వ్యతితరిష్యతి' లలో 'ఇ' తర్వాత ఉన్న విసర్గ ఘోష వర్ణం ముందు 'ర్' గా మారి 'బుద్ధిర్వ్యతితరిష్యతి' (విసర్గ రుత్త్వ సంధి) అయినది. 2. 'వ్యతి' శబ్దంలో 'వి' + 'అతి' ల మధ్య యణాదేశ సంధి జరిగింది. — భగవద్గీత (2.52)"
+    }
+  }
+]

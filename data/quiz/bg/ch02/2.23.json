@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-23-q1",
+    "verse": { "c": 2, "s": 23 },
+    "concept": ["Verse Meaning & Four Elemental Immunity"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.23?\n\n“nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ | na cainaṃ kledayantyāpo na śoṣayati mārutaḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“నైనం ఛిందంతి శస్త్రాణి నైనం దహతి పావకః | న చైనం క్లేదయంత్యాపో న శోషయతి మారుతః”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Weapons cannot cleave this Soul, fire cannot burn It, water cannot wet It, and wind cannot dry It.",
+        "te": "శ్రీభగవానుడు పలికెను — ఈ ఆత్మను ఆయుధాలు ఛేదించలేవు, అగ్ని దహించలేదు, నీరు తడపలేదు (కరిగించలేదు), వాయువు ఎండబెట్టలేదు (ఆర్పలేదు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Celestial weapons can pierce the subtle body, but physical fire and water cannot harm it in battle.",
+        "te": "శ్రీభగవానుడు పలికెను — దివ్యాస్త్రాలు సూక్ష్మ శరీరాన్ని ఛేదించగలవు, కానీ భౌతికమైన అగ్ని, నీరు రణరంగంలో దానికి ఎటువంటి హానీ చేయలేవు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — By worshipping the four elemental gods (fire, water, air, earth), a warrior protects his soul from death.",
+        "te": "శ్రీభగవానుడు పలికెను — పంచభూతాలలోని నలుగురు దేవతలను (అగ్ని, జల, వాయు, పృథ్వి) ఆరాధించడం ద్వారా యోధుడు తన ఆత్మను మరణం నుండి కాపాడుకుంటాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — The soul is created from the purer forms of fire and wind, making it immune only to water and solid weapons.",
+        "te": "శ్రీభగవానుడు పలికెను — ఆత్మ అగ్ని, వాయువుల పవిత్ర రూపాల నుండి సృష్టించబడింది, కాబట్టి ఇది నీరు, ఘనమైన ఆయుధాలకు మాత్రమే లొంగదు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ / na cainaṃ kledayanty āpo na śoṣayati mārutaḥ.\" Krishna demonstrates the absolute invulnerability of the Soul (Ātman) by showing its complete immunity to the primary material elements and physical instruments of destruction. — Bhagavad Gita (2.23)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ ఆత్మతత్త్వం యొక్క నిరవధిక అభేద్యతను ప్రకటిస్తున్నాడు. భౌతిక మూలకాలైన పృథ్వి (శస్త్రాలు/ఆయుధాలు), అగ్ని (పావకః), జలము (ఆపః), వాయువు (మారుతః) ఏవీ కూడా ఆత్మను ప్రభావితం చేయలేవు లేదా ధ్వంసం చేయలేవు. — భగవద్గీత (2.23)"
+    }
+  },
+  {
+    "id": "bg-2-23-q2",
+    "verse": { "c": 2, "s": 23 },
+    "concept": ["Metaphysical Logic - Material Elements vs Atman"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why are physical elements (weapons, fire, water, wind) utterly incapable of affecting the Ātman in verse 2.23?",
+      "te": "2.23 శ్లోకంలో భౌతిక మూలకాలు (ఆయుధాలు, అగ్ని, నీరు, గాలి) ఆత్మపై ఏ విధమైన ప్రభావాన్నీ చూపలేకపోవడానికి గల తార్కిక కారణం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Because the Ātman is partless (formless), all-pervading, and subtler than all material elements; physical forces can only act upon gross, composite matter.",
+        "te": "ఆత్మ అవయవరహితమైనది (అరూపమైనది), సర్వవ్యాపి, మరియు సమస్త భౌతిక మూలకాల కంటే అత్యంత సూక్ష్మమైనది; భౌతిక శక్తులు కేవలం సావయవమైన (అవయవాలు గల) భౌతిక పదార్థాలపై మాత్రమే పనిచేయగలవు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because the Ātman wears a protective celestial armor granted by the gods.",
+        "te": "ఆత్మ దేవతలు ఇచ్చిన దివ్యమైన రక్షణ కవచాన్ని ధరించి ఉండటం వల్ల.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because the Ātman moves at speeds faster than light to evade elemental attacks.",
+        "te": "భౌతిక మూలకాల దాడుల నుండి తప్పించుకోవడానికి ఆత్మ కాంతి కంటే వేగంగా ప్రయాణిస్తుంది కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because weapons, fire, water, and wind only exist as mental illusions in the waking state.",
+        "te": "ఆయుధాలు, అగ్ని, నీరు, గాలి అనేవి కేవలం మెలకువ దశలో మానసిక భ్రాంతులు మాత్రమే కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedantic physics, destruction happens when parts of a composite object are split (by weapons), burned (by fire), dissolved/rotted (by water), or withered/dried (by wind). Because the Ātman is partless (Niravayava) and subtler than space itself, no material process can act upon It. — Bhagavad Gita (2.23)",
+      "te": "భౌతిక ప్రపంచంలో వినాశనం నాలుగు రకాలుగా జరుగుతుంది: ముక్కలవడం (ఆయుధాలు), కాలడం (అగ్ని), నానడం/కరగడం (నీరు), ఎండిపోవడం (గాలి). ఆత్మ నిరవయవమైనది (భాగాలు లేనిది), సర్వవ్యాపి అయినందున ఈ నాలుగు భౌతిక పరిణామాలు దానికి వర్తించవు. — భగవద్గీత (2.23)"
+    }
+  },
+  {
+    "id": "bg-2-23-q3",
+    "verse": { "c": 2, "s": 23 },
+    "concept": ["Fourfold Destruction Mechanisms & Elements"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Match the four verbs in verse 2.23 with their corresponding agents/elements of destruction:",
+      "te": "2.23 శ్లోకంలోని నాలుగు క్రియాపదాలను వాటికి సంబంధించిన నాశనకారక మూలకాలతో జతపరచండి:"
+    },
+    "choices": [
+      {
+        "en": "1. Chindanti (cleave) - Śastrāṇi (Weapons / Earth element), 2. Dahati (burns) - Pāvakaḥ (Fire element), 3. Kledayanti (wet/dissolve) - Āpaḥ (Water element), 4. Śoṣayati (dries) - Mārutaḥ (Wind element).",
+        "te": "1. ఛిందంతి (ఛేదించుట) - శస్త్రాణి (ఆయుధాలు / పృథ్వీ తత్త్వము), 2. దహతి (దహించుట) - పావకః (అగ్ని తత్త్వము), 3. క్లేదయంతి (తడుపుట/కరగించుట) - ఆపః (జల తత్త్వము), 4. శోషయతి (ఎండబెట్టుట) - మారుతః (వాయు తత్త్వము).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1. Chindanti - Fire, 2. Dahati - Water, 3. Kledayanti - Wind, 4. Śoṣayati - Weapons.",
+        "te": "1. ఛిందంతి - అగ్ని, 2. దహతి - జలము, 3. క్లేదయంతి - వాయువు, 4. శోషయతి - ఆయుధాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1. Chindanti - Wind, 2. Dahati - Weapons, 3. Kledayanti - Fire, 4. Śoṣayati - Water.",
+        "te": "1. ఛిందంతి - వాయువు, 2. దహతి - ఆయుధాలు, 3. క్లేదయంతి - అగ్ని, 4. శోషయతి - జలము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1. Chindanti - Water, 2. Dahati - Wind, 3. Kledayanti - Weapons, 4. Śoṣayati - Fire.",
+        "te": "1. ఛిందంతి - జలము, 2. దహతి - వాయువు, 3. క్లేదయంతి - ఆయుధాలు, 4. శోషయతి - అగ్ని.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verse 2.23 systematically lists the four ways gross matter is destroyed by the four active Mahābhūtas (Earth/Weapons, Fire, Water, Air). The Ātman transcends all Mahābhūtas and is therefore unaffected by all four modes of destruction. — Bhagavad Gita (2.23)",
+      "te": "పంచభూతాలలో క్రియాత్మకమైన నాలుగు భూతాల వల్ల జరిగే నాలుగు వినాశన మార్గాలను ఈ శ్లోకం వర్ణిస్తోంది: పృథ్వి/ఆయుధాలు (ఛిందంతి), అగ్ని (దహతి), జలము (క్లేదయంతి), వాయువు (శోషయతి). ఆత్మ ఈ పంచభూతాలన్నింటికీ అతీతమైనది. — భగవద్గీత (2.23)"
+    }
+  },
+  {
+    "id": "bg-2-23-q4",
+    "verse": { "c": 2, "s": 23 },
+    "concept": ["Sanskrit Vocabulary - Elements & Verbs"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'pāvakaḥ', 'āpaḥ', and 'mārutaḥ' mean in verse 2.23?",
+      "te": "2.23 శ్లోకంలోని 'పావకః', 'ఆపః', మరియు 'మారుతః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Pāvakaḥ = Fire (the purifier); Āpaḥ = Waters; Mārutaḥ = Wind / Air.",
+        "te": "పావకః = అగ్ని (పవిత్రం చేసేది); ఆపః = ఉదకములు / జలములు; మారుతః = వాయువు / గాలి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Pāvakaḥ = Sun; Āpaḥ = Earth; Mārutaḥ = Space.",
+        "te": "పావకః = సూర్యుడు; ఆపః = భూమి; మారుతః = ఆకాశము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Pāvakaḥ = Lightning; Āpaḥ = Cloud; Mārutaḥ = Thunder.",
+        "te": "పావకః = మెరుపు; ఆపః = మేఘము; మారుతః = ఉరుము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Pāvakaḥ = Sacrificial butter; Āpaḥ = Milk; Mārutaḥ = Incense smoke.",
+        "te": "పావకః = నెయ్యి; ఆపః = పాలు; మారుతః = ధూపము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Pāvaka' (from root 'pū' = to purify) means fire. 'Āpaḥ' is Nominative Plural Feminine of 'ap' (water). 'Māruta' (derived from Maruts) means wind or air. — Bhagavad Gita (2.23)",
+      "te": "'పూ' (పవిత్రీకరించు) ధాతువు నుండి వచ్చిన 'పావకః' అనగా అగ్ని. 'అప్' (జలము) ప్రథమా బహువచన రూపం 'ఆపః' (ఉదకములు). మరుత్తులకు చెందిన 'మారుతః' అనగా వాయువు. — భగవద్గీత (2.23)"
+    }
+  },
+  {
+    "id": "bg-2-23-q5",
+    "verse": { "c": 2, "s": 23 },
+    "concept": ["Sanskrit Grammar - Plural Verb 'Kledayanti'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'kledayanti' in verse 2.23:",
+      "te": "2.23 శ్లోకంలోని 'క్లేదయంతి' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person plural present tense Causal Parasmaipada (Laṭ-lakāra, Ṇijanta) from root 'klid' (to become wet / rot), agreeing with plural subject 'āpaḥ' ('waters do not make It wet / moisten It').",
+        "te": "'క్లిద్' (తడియు/తడుపు) అనే ధాతువు యొక్క లట్ లకార (వర్తమానకాల) ప్రథమ పురుష బహువచన ణిజంత (Causal) పరస్మైపద రూపం — 'ఆపః' (జలములు) అనే బహువచన కర్తతో చేరి 'నీరు దీనిని తడపలేదు' అనే అర్థాన్ని ఇస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1st person singular future tense verb.",
+        "te": "ఉత్తమ పురుష ఏకవచన భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "3rd person singular past tense verb.",
+        "te": "ప్రథమ పురుష ఏకవచన భూతకాల క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb form.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kledayati' (singular), 'kledayantaḥ' (dual), 'kledayanti' (plural). It is the causal form of root 'klid' (to be wet/moist). Because its subject 'āpaḥ' (waters) is plural, the verb is 3rd person plural: 'na āpaḥ kledayanti' = 'waters do not wet [It]'. — Bhagavad Gita (2.23)",
+      "te": "'క్లిద్' (తడుపు) ధాతువు ణిజంత రూపం 'క్లేదయతి'. దీని బహువచనం 'క్లేదయంతి'. 'ఆపః' (జలములు) బహువచన కర్త కాబట్టి 'న క్లేదయంత్యాపో' (ఉదకములు దీనిని తడపలేవు) అని బహువచన క్రియ వాడబడింది. — భగవద్గీత (2.23)"
+    }
+  },
+  {
+    "id": "bg-2-23-q6",
+    "verse": { "c": 2, "s": 23 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'nainaṃ' and 'kledayantyāpo' in verse 2.23:",
+      "te": "2.23 శ్లోకంలోని 'నైనమ్' మరియు 'క్లేదయంత్యాపో' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Na + enam -> nainam (Vṛddhi Sandhi: a + e -> ai); kledayanti + āpaḥ -> kledayantyāpaḥ (Yan Sandhi: 'i' before 'ā' -> 'y'); kledayantyāpaḥ + na -> kledayantyāpo na (Visarga Uttva Sandhi: visarga 'ḥ' -> 'o').",
+        "te": "న + ఏనమ్ -> నైనమ్ (వృద్ధి సంధి: అ + ఏ -> ఐ); క్లేదయంతి + ఆపః -> క్లేదయంత్యాపః (యణాదేశ సంధి: 'ఇ' కారం 'య్' గా మారినది); క్లేదయంత్యాపః + న -> క్లేదయంత్యాపో న (విసర్గ ఉత్త్వ సంధి: విసర్గ 'ఓ' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Na + enam -> naintam; kledayanta + āpaḥ -> kledayantāpo",
+        "te": "న + ఏనమ్ -> నైంతమ్; క్లేదయంత + ఆపః -> క్లేదయంతాపో",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "No + enam -> nainam; kledayante + āpaḥ -> kledayantāpo",
+        "te": "నో + ఏనమ్ -> నైనమ్; క్లేదయంతే + ఆపః -> క్లేదయంతాపో",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nai + enam -> nainam; kledayantī + āpaḥ -> kledayantyāpo",
+        "te": "నై + ఏనమ్ -> నైనమ్; క్లేదయంతీ + ఆపః -> క్లేదయంత్యాపో",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Na' (not) + 'enam' (this): 'a' + 'e' merges into 'ai' via Vṛddhi Sandhi, yielding 'nainam'. 2. 'Kledayanti' (wet) + 'āpaḥ' (waters): final vowel 'i' converts to semi-vowel 'y' via Yan Sandhi -> 'kledayantyāpaḥ'. 3. 'Kledayantyāpaḥ' + 'na': visarga 'ḥ' converts to 'o' before voiced consonant 'n' via Visarga Uttva Sandhi -> 'kledayantyāpo na'. — Bhagavad Gita (2.23)",
+      "te": "1. 'న' + 'ఏనమ్' లలో వృద్ధి సంధి జరిగి 'నైనమ్' అయినది. 2. 'క్లేదయంతి' + 'ఆపః' లలో 'ఇ' స్థానంలో 'య్' వచ్చే యణాదేశ సంధి జరిగి 'క్లేదయంత్యాపః' అయినది. 3. 'క్లేదయంత్యాపః' + 'న' లలో విసర్గ 'ఓ' గా మారి 'క్లేదయంత్యాపో న' అయినది. — భగవద్గీత (2.13)"
+    }
+  }
+]

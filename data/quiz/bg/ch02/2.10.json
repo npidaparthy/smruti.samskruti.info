@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-10-q1",
+    "verse": { "c": 2, "s": 10 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.10?\n\n“tamuvāca hṛṣīkeśaḥ prahasanniva bhārata | senayorubhayormadhye viṣīdantamidaṃ vacaḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“తమువాచ హృషీకేశః ప్రహసన్నివ భారత | సేనయోరుభయోర్మధ్యే విషీదంతమిదం వచః”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — O Bharata (Dhritarashtra), to him (Arjuna) who was thus sorrowing in the midst of the two armies, Hrishikesha (Krishna), smiling as it were, spoke these words.",
+        "te": "సంజయుడు పలికెను — ఓ భారతా (ధృతరాష్ట్ర మహారాజా)! ఇరు పక్షాల సైన్యాల మధ్యలో విచారిస్తూ కూర్చున్న అర్జునుడితో హృషీకేశుడైన శ్రీకృష్ణుడు చిరునవ్వు చిందిస్తూ ఈ మాటలు పలికెను.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — O Bharata, seeing Arjuna in tears, Hrishikesha grew angry and commanded the charioteers to sound the war drums.",
+        "te": "సంజయుడు పలికెను — ఓ భారతా! కన్నీళ్లు పెట్టుకున్న అర్జునుడిని చూసి హృషీకేశుడు కోపగించుకుని, రణ భేరీలు మోగించమని సారథులను ఆదేశించాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — O Bharata, Hrishikesha then turned the chariot around and drove back toward the Pandava military camp.",
+        "te": "సంజయుడు పలికెను — ఓ భారతా! హృషీకేశుడు రథాన్ని వెనక్కి తిప్పి పాండవ సైనిక శిబిరం వైపు నడిపించాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — O Bharata, Arjuna fell unconscious on the floor of the chariot while Hrishikesha protected him with His shield.",
+        "te": "సంజయుడు పలికెను — ఓ భారతా! అర్జునుడు రథంపై స్పృహతప్పి పడిపోగా, హృషీకేశుడు తన డాలుతో అతనికి రక్షణగా నిలిచాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Tam uvāca hṛṣīkeśaḥ prahasann iva bhārata / senayor ubhayor madhye viṣīdantam idaṃ vacaḥ.\" Sanjaya sets the stage for the Gita's core teaching: Lord Krishna ('hṛṣīkeśaḥ') smiles calmly ('prahasan iva') amidst the tragedy of war right between both armies ('senayor ubhayor madhye') before speaking to grief-stricken Arjuna ('viṣīdantam'). — Bhagavad Gita (2.10)",
+      "te": "శ్రీకృష్ణ భగవానుడు తన అమృతవాణిని వినిపించే మధుర క్షణమిది. ఇరు సైన్యాల మధ్యలో ('సేనయోరుభయోర్మధ్యే') కృంగిపోయిన అర్జునుడితో ('విషీదంతమ్') శ్రీకృష్ణుడు ('హృషీకేశః') చిరునవ్వుతో ('ప్రహసన్నివ') భగవద్గీతా బోధనను ప్రారంభించాడని సంజయుడు ధృతరాష్ట్రుడికి ('భారత') చెబుతున్నాడు. — భగవద్గీత (2.10)"
+    }
+  },
+  {
+    "id": "bg-2-10-q2",
+    "verse": { "c": 2, "s": 10 },
+    "concept": ["Divine Demeanor - Prahasan Iva"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What is the profound psychological and spiritual significance of Krishna's smile ('prahasann iva') in verse 2.10?",
+      "te": "2.10 శ్లోకంలో శ్రీకృష్ణుని చిరునవ్వు ('ప్రహసన్నివ') వెనుక ఉన్న లోతైన మానసిక, ఆధ్యాత్మిక విశిష్టత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "It reflects Krishna's absolute composure and divine playfulness, showing that Arjuna's overwhelming crisis, though tragic to Arjuna, is easily resolved through eternal Atma-Jnana.",
+        "te": "అది శ్రీకృష్ణుని సంపూర్ణ ఆత్మశాంతికి, లీలలకు ప్రతీక; అర్జునుడిని పట్టిపీడిస్తున్న తీవ్ర మోహ సంక్షోభం, శాశ్వత ఆత్మజ్ఞానం ద్వారా అత్యంత సులభంగా తొలగిపోతుందని ఆ చిరునవ్వు సూచిస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It indicates that Krishna was mocking Arjuna's lack of military courage in front of the Kaurava army.",
+        "te": "కౌరవ సైన్యం ముందు అర్జునునికి యుద్ధ ధైర్యం లేకపోవడాన్ని చూసి కృష్ణుడు హేళన చేస్తున్నాడని భావం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It shows Krishna was celebrating the upcoming destruction of King Dhritarashtra's family.",
+        "te": "ధృతరాష్ట్రుని వంశం అంతం కాబోతోందని కృష్ణుడు ఆనందిస్తున్నాడని భావం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It signals that Krishna had decided to fight the battle Himself using celestial weapons.",
+        "te": "కృష్ణుడే స్వయంగా దివ్యాస్త్రాలతో యుద్ధం చేయడానికి నిశ్చయించుకున్నాడని సూచన.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Prahasan' (smiling) + 'iva' (as it were). While Arjuna is crushed under existential despair ('viṣīdantam'), Krishna remains serene and smiling ('prahasan iva'). The Master's smile provides immediate reassurance, demonstrating that truth/knowledge easily overcomes ignorance and grief. — Bhagavad Gita (2.10)",
+      "te": "'ప్రహసన్' (నవ్వుతూ) + 'ఇవ' (వలె). అర్జునుడు తీవ్ర దుఃఖంతో ('విషీదంతమ్') కూంగిపోతే, జగద్గురువైన కృష్ణుడు ప్రశాంతంగా చిరునవ్వులు ('ప్రహసన్నివ') చిందిస్తున్నాడు. ఆత్మజ్ఞానం ముందు అజ్ఞాన జనితమైన దుఃఖం ఎంత అల్పమైనదో ఈ చిరునవ్వు నిరూపిస్తోంది. — భగవద్గీత (2.10)"
+    }
+  },
+  {
+    "id": "bg-2-10-q3",
+    "verse": { "c": 2, "s": 10 },
+    "concept": ["Symbolic Setting - Senayor Ubhayor Madhya"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Why is the location 'senayor ubhayor madhye' emphasized again by Sanjaya in verse 2.10?",
+      "te": "2.10 శ్లోకంలో 'సేనయోరుభయోర్మధ్యే' (ఇరు సైన్యాల మధ్యలో) అనే స్థానాన్ని సంజయుడు మరలా ఎందుకు ప్రత్యేకంగా నొక్కిచెప్పాడు?"
+    },
+    "choices": [
+      {
+        "en": "To highlight that the supreme philosophy of life (Bhagavad Gita) is delivered not in a tranquil forest or cave, but in the very middle of life's battlefield and crisis.",
+        "te": "అత్యున్నతమైన జీవిత తత్త్వజ్ఞానం (భగవద్గీత) ఏ అడవులలోనో, గుహలలోనో గాక... జీవిత పోరాటానికి ప్రతీకయైన రణరంగం నడుమ, సంక్షోభ సమయాన్నే బోధించబడిందని నిరూపించడానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "To show that both armies were strictly keeping a cease-fire agreement while Krishna spoke.",
+        "te": "కృష్ణుడు మాట్లాడే సమయంలో ఇరు సైన్యాలు శాంతియుత యుద్ధ విరామాన్ని పాటించాయని చూపడానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "To indicate that Krishna needed to speak loudly so both Duryodhana and Yudhishthira could hear.",
+        "te": "దుర్యోధనుడు, యుధిష్ఠిరుడు ఇద్దరూ వినేలా కృష్ణుడు బిగ్గరగా మాట్లాడాల్సి వచ్చిందని చెప్పడానికి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "To explain why Sanjaya needed divine vision granted by Vyasa to see the middle of the field.",
+        "te": "మైదానం మధ్యలో ఉన్న దృశ్యాన్ని చూడటానికి వ్యాసుడు ఇచ్చిన దివ్యదృష్టి సంజయునికి ఎందుకు అవసరమైందో చెప్పడానికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Senayoḥ' (of armies) + 'ubhayoḥ' (of both) + 'madhye' (in the middle). The setting symbolizes the human condition—standing right between opposing forces of light and darkness, duty and attachment—where Brahmavidya serves as the ultimate guiding light. — Bhagavad Gita (2.10)",
+      "te": "'సేనయోః' (సైన్యముల యొక్క) + 'ఉభయోః' (రెండింటి యొక్క) + 'మధ్యే' (నడుమ). ధర్మాధర్మాలు, ఆశానిరాశల నడుమ నలిగిపోయే మానవ జీవిత రణరంగంలోనే ఆధ్యాత్మిక గీతోపదేశం అత్యవసరమని ఈ స్థానం సూచిస్తుంది. — భగవద్గీత (2.10)"
+    }
+  },
+  {
+    "id": "bg-2-10-q4",
+    "verse": { "c": 2, "s": 10 },
+    "concept": ["Vocative Address - Bhārata"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "To whom does Sanjaya address the word 'Bhārata' in verse 2.10?",
+      "te": "2.10 శ్లోకంలో సంజయుడు 'భారత' అని ఎవరిని సంబోధించాడు?"
+    },
+    "choices": [
+      {
+        "en": "To King Dhritarashtra, reminding him of his heritage as a scion of King Bharata while narrating the scene.",
+        "te": "ధృతరాష్ట్ర మహారాజును ఉద్దేశించి, భరత వంశ శ్రేష్ఠుడవైన ఓ ధృతరాష్ట్రా అని సంబోధిస్తూ రణరంగ దృశ్యాన్ని వివరిస్తున్నాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "To Arjuna, encouraging him to remember his ancestral glory.",
+        "te": "అర్జునుడిని ఉద్దేశించి, తన వంశ కీర్తిని గుర్తుచేసుకోవాలని ప్రోత్సహిస్తున్నాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "To Lord Krishna, acknowledging Him as the master of India.",
+        "te": "శ్రీకృష్ణుడిని ఉద్దేశించి, భారతదేశానికి ప్రభువుగా కొనియాడుతున్నాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "To Bhishma, as the oldest patriarch of the Bharata dynasty.",
+        "te": "భరత వంశ పితామహుడైన భీష్ముడిని ఉద్దేశించి చెబుతున్నాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In the dialogue frame of the Mahabharata, Sanjaya narrates the events on Kurukshetra to the blind king Dhritarashtra. Addressing him as 'Bhārata' ('scion of Bharata') serves as a subtle reminder of the king's responsibility toward his ancestral clan. — Bhagavad Gita (2.10)",
+      "te": "మహాభారత సంభాషణ ప్రక్రియలో సంజయుడు ధృతరాష్ట్రునికి రణరంగ విశేషాలను వివరిస్తున్నాడు. 'భారత' (భరతుని వంశజుడా) అని ధృతరాష్ట్రుడిని పిలవడం ద్వారా అతనికి తన వంశ బాధ్యతలను పరోక్షంగా గుర్తుచేస్తున్నాడు. — భగవద్గీత (2.10)"
+    }
+  },
+  {
+    "id": "bg-2-10-q5",
+    "verse": { "c": 2, "s": 10 },
+    "concept": ["Sanskrit Grammar - Present Participle 'Prahasan'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Analyse the grammatical form of 'prahasan' in verse 2.10:",
+      "te": "2.10 శ్లోకంలోని 'ప్రహసన్' అనే పదానికి ఉన్న వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Nominative Singular Masculine Present Active Participle (Śatṛ-pratyaya) from root 'has' with prefix 'pra', agreeing with 'hṛṣīkeśaḥ' ('smiling / laughing gently').",
+        "te": "'హస్' (నవ్వుట) అనే ధాతువుకు 'ప్ర' అనే ఉపసర్గ చేరిన ప్రథమా విభక్తి ఏకవచన పుంలింగ వర్తమానకాల విశేషణం (శతృ ప్రత్యయాంతం) — 'హృషీకేశః' అనే కర్తకు విశేషణంగా 'నవ్వుతూ' అనే అర్థాన్ని ఇస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Past tense verb meaning 'he laughed in the past'.",
+        "te": "భూతకాలంలో 'అతడు నవ్వెను' అనే క్రియా రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Future tense participle meaning 'one who will smile'.",
+        "te": "భవిష్యత్కాల విశేషణం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb meaning 'smile now!'.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Prahasat' is the Present Active Participle (Śatṛ-anta) of 'pra' + 'has' (to smile/laugh). In Nominative Singular Masculine, it becomes 'prahasan', modifying the subject 'hṛṣīkeśaḥ': 'Krishna, smiling gently, spoke'. — Bhagavad Gita (2.10)",
+      "te": "'ప్రహసత్' అనేది వర్తమానకాల విశేషణ రూపం (శతృ ప్రత్యయం). ప్రథమా ఏకవచనంలో 'ప్రహసన్' అయి, 'హృషీకేశః' అనే కర్తపదంతో పొందిక కలిగి 'కృష్ణుడు చిరునవ్వు చిందిస్తూ మాట్లాడెను' అనే అర్థాన్ని ఇస్తుంది. — భగవద్గీత (2.10)"
+    }
+  },
+  {
+    "id": "bg-2-10-q6",
+    "verse": { "c": 2, "s": 10 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'tamuvāca' and 'prahasanniva' in verse 2.10:",
+      "te": "2.10 శ్లోకంలోని 'తమువాచ' మరియు 'ప్రహసన్నివ' అనే పదాలను విడదీసి సంధి స్వరూపాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Tam + uvāca -> tamuvāca (consonant 'm' joins vowel 'u'); prahasan + iva -> prahasanniva (Namuḍāgama Sandhi: final 'n' after short vowel doubles before vowel 'i').",
+        "te": "తమ్ + ఉవాచ -> తమువాచ (పొల్లు 'మ్' అనునాసికం అచ్చు 'ఉ' తో కలయుట); ప్రహసన్ + ఇవ -> ప్రహసన్నివ (ద్విరుక్త నకార/నముడాగమ సంధి: హ్రస్వ అచ్చు తర్వాత ఉన్న పొల్లు 'న్' అనునది అచ్చు ముందు ద్విత్వ 'న్న్' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Taḥ + uvāca; prahasa + niva",
+        "te": "తః + ఉవాచ; ప్రహస + నివ",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Tan + uvāca; prahasani + va",
+        "te": "తన్ + ఉవాచ; ప్రహసని + వ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Tāṃ + uvāca; prahasat + niva",
+        "te": "తాం + ఉవాచ; ప్రహసత్ + నివ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Tam' (direct object pronoun = him) + 'uvāca' (spoke) = 'tamuvāca'. 2. 'Prahasan' (smiling) + 'iva' (as it were): under Namuḍāgama Sandhi, when a word ending in 'ṅ', 'ṇ', or 'n' preceded by a short vowel is followed by any vowel, the nasal consonant is doubled ('n' + 'i' -> 'nni'), resulting in 'prahasanniva'. — Bhagavad Gita (2.10)",
+      "te": "1. 'తమ్' (అతనితో) + 'ఉవాచ' (పలికెను) = 'తమువాచ'. 2. 'ప్రహసన్' + 'ఇవ' లలో హ్రస్వాచ్చు ('అ') తర్వాత ఉన్న నకారం ముందు అచ్చు పరమైనప్పుడు ద్విత్వ నకారం వచ్చి 'ప్రహసన్నివ' (నముడాగమ సంధి) అయినది. — భగవద్గీత (2.10)"
+    }
+  }
+]

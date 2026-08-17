@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-24-q1",
+    "verse": { "c": 2, "s": 24 },
+    "concept": ["Verse Meaning & Attributes of the Self"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.24?\n\n“acchedyo'yamadāhyo'yamakledyo'śoṣya eva ca | nityaḥ sarvagataḥ sthāṇuracalo'yaṃ sanātanaḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అచ్ఛేద్యోఽయమదాహ్యోఽయమక్లేద్యోఽశోష్య ఏవ చ | నిత్యః సర్వగతః స్థాణురచలోఽయం సనాతనః”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — This Soul cannot be cleaved, burned, wetted, or dried. It is eternal, all-pervading, stable, immovable, and everlasting.",
+        "te": "శ్రీభగవానుడు పలికెను — ఈ ఆత్మ ఛేదించలేనిది, దహించలేనిది, నీటిలో నానలేనిది (కరగనిది), ఎండిపోనిది. ఇది నిత్యమైనది, సర్వవ్యాపియైనది, స్థిరమైనది, చలించనిది మరియు అనాదియైనది (సనాతనమైనది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — The soul is created from subtle elements of nature that can only be destroyed during cosmic dissolution.",
+        "te": "శ్రీభగవానుడు పలికెను — ఆత్మ ప్రకృతి యొక్క సూక్ష్మ మూలకాల నుండి సృష్టించబడింది, ఇది కేవలం ప్రళయ కాలంలో మాత్రమే నాశనమవుతుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Physical weapons and natural forces affect only the mind, leaving the physical body immovable and eternal.",
+        "te": "శ్రీభగవానుడు పలికెను — భౌతిక ఆయుధాలు, ప్రకృతి శక్తులు కేవలం మనస్సును మాత్రమే ప్రభావితం చేస్తాయి, భౌతిక శరీరాన్ని అచలంగా, నిత్యంగా ఉంచుతాయి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Through yogic meditation, a warrior transforms his physical body so that it becomes uncleavable and unburnable.",
+        "te": "శ్రీభగవానుడు పలికెను — యోగాభ్యాసం ద్వారా యోధుడు తన భౌతిక శరీరాన్ని ఛేదించలేనిదిగా, కాల్చలేనిదిగా మార్చుకుంటాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Acchedyo 'yam adāhyo 'yam akledyo 'śoṣya eva ca / nityaḥ sarva-gataḥ sthāṇur acalo 'yaṃ sanātanaḥ.\" Building on verse 2.23, Krishna states the logical conclusion: because the Ātman cannot be modified by physical elements, It is 'acchedya', 'adāhya', 'akledya', and 'aśoṣya'. Consequently, It is omnipresent ('sarva-gataḥ') and timeless ('sanātanaḥ'). — Bhagavad Gita (2.24)",
+      "te": "2.23 శ్లోకంలో చెప్పిన సత్యాన్ని ఇక్కడ శ్రీకృష్ణుడు మరింత దృఢపరిచాడు. ఆత్మ భౌతిక మూలకాలచే వికారం చెందదు కాబట్టి ఇది 'అచ్ఛేద్యః', 'అదాహ్యః', 'అక్లేద్యః', 'అశోష్యః'. అందువల్లనే ఇది సమస్తంలోనూ నిండియున్న 'సర్వగతః', సనాతనమైనది. — భగవద్గీత (2.24)"
+    }
+  },
+  {
+    "id": "bg-2-24-q2",
+    "verse": { "c": 2, "s": 24 },
+    "concept": ["Five Positive Attributes - Nitya, Sarvagata, Sthāṇu, Acala, Sanātana"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the five positive attributes 'Nityaḥ', 'Sarva-gataḥ', 'Sthāṇuḥ', 'Acalaḥ', and 'Sanātanaḥ' collectively establish regarding the Ātman in verse 2.24?",
+      "te": "2.24 శ్లోకంలో ఆత్మను వర్ణించే 'నిత్యః', 'సర్వగతః', 'స్థాణుః', 'అచలః', 'సనాతనః' అనే ఐదు సానుకూల విశేషణాల సమగ్ర ఆధ్యాత్మిక భావం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Nityaḥ = Eternal; Sarva-gataḥ = All-pervading (omnipresent); Sthāṇuḥ = Unshifting / firm; Acalaḥ = Immovable / motionless; Sanātanaḥ = Ancient / timeless. Together they prove the Ātman is infinite and space-time invariant.",
+        "te": "నిత్యః = శాశ్వతమైనది; సర్వగతః = సర్వవ్యాపియైనది; స్థాణుః = నిశ్చలమైనది/మార్పులేనిది; అచలః = చలించనిది; సనాతనః = అనాదియైనది/కాలాతీతమైనది. ఈ ఐదూ ఆత్మ అనంతమైనదని, దేశకాలాలకు అతీతమైనదని నిరూపిస్తున్నాయి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "They describe the physical strength and stability of a hero standing on the battlefield.",
+        "te": "రణరంగంలో నిలబడే యోధుని శారీరక బలాన్ని, స్థిరత్వాన్ని వర్ణిస్తున్నాయి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "They refer to the five gross material elements that make up the physical body.",
+        "te": "భౌతిక శరీరాన్ని నిర్మించే పంచభూతాలను సూచిస్తున్నాయి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "They represent five distinct stages of yogic samadhi achieved through meditation.",
+        "te": "ధ్యానం ద్వారా సాధించే యోగ సమాధి యొక్క ఐదు వివిధ దశలను సూచిస్తున్నాయి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "These five epithets systematically define the metaphysics of the Self: 1. 'Nitya' (unlimited by time), 2. 'Sarva-gata' (unlimited by space), 3. 'Sthāṇu' (motionless like a pillar), 4. 'Acala' (unshakable/unmoving), 5. 'Sanātana' (eternally ancient). Because It is everywhere ('sarva-gataḥ'), It cannot move anywhere ('acalaḥ'). — Bhagavad Gita (2.24)",
+      "te": "ఈ ఐదు పదాలూ ఆత్మ తత్త్వాన్ని పరిపూర్ణంగా నిరూపిస్తున్నాయి: 1. నిత్యః (కాల పరిచ్ఛేదం లేనిది), 2. సర్వగతః (దేశ పరిచ్ఛేదం లేనిది/అంతటా ఉన్నది), 3. స్థాణుః (స్థిరమైనది), 4. అచలః (కదలనిది - అంతటా ఉన్నది కాబట్టి వేరొక చోటికి కదలదు), 5. సనాతనః (సదా నూతనంగా ఉండే అనాది సత్యం). — భగవద్గీత (2.24)"
+    }
+  },
+  {
+    "id": "bg-2-24-q3",
+    "verse": { "c": 2, "s": 24 },
+    "concept": ["Philosophical Deduction - Why Is Atman Immovable (Acala)?"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "In Vedantic logic based on verse 2.24, why is the Ātman described as 'Acala' (immovable)?",
+      "te": "2.24 శ్లోకంలో వేదాంత తర్కం ప్రకారం ఆత్మను 'అచలః' (చలనం లేనిది/కదలనిది) అని ఎందుకు వర్ణించారు?"
+    },
+    "choices": [
+      {
+        "en": "Because it is 'Sarva-gata' (all-pervading); an entity that is already present everywhere in existence has no unoccupied space into which it could move.",
+        "te": "ఆత్మ 'సర్వగతః' (సర్వవ్యాపి) కాబట్టి; ఇప్పటికే సమస్త స్థలాల్లోనూ నిండియున్న వస్తువు చలించడానికి/వెళ్లడానికి ఖాళీ స్థలమంటూ ఏదీ ఉండదు కాబట్టి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because it is heavy like a mountain and bound to the earth.",
+        "te": "అది పర్వతం వలె బరువైనదై భూమికి కట్టుబడి ఉంటుంది కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because it is held firmly inside the physical heart by nerve channels.",
+        "te": "అది భౌతిక హృదయం లోపల నాడీ వ్యవస్థచే గట్టిగా పట్టి ఉంచబడుతుంది కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because it only moves during the moment of physical death.",
+        "te": "అది కేవలం భౌతిక మరణ సమయం సంభవించినప్పుడు మాత్రమే చలిస్తుంది కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedantic epistemology (e.g., Shankara's commentary), movement ('calana') requires a space where the object is currently absent. Since the Ātman is 'Sarva-gata' (omnipresent), It is inherently 'Sthāṇu' (fixed) and 'Acala' (immovable). — Bhagavad Gita (2.24)",
+      "te": "శంకరాచార్యుల భాష్యం ప్రకారం... ఒక పదార్థం చలించాలంటే (కదలాలంటే) అది లేని చోటు ఇంకొకటి ఉండాలి. కానీ ఆత్మ 'సర్వగతః' (అంతటా నిండి ఉన్నది). అంతటా ఉన్న పదార్థానికి చలనము ('అచలః') సాధ్యం కాదు. — భగవద్గీత (2.24)"
+    }
+  },
+  {
+    "id": "bg-2-24-q4",
+    "verse": { "c": 2, "s": 24 },
+    "concept": ["Sanskrit Vocabulary - Negative Adjectives of Vulnerability"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the four negative compounds 'acchedyaḥ', 'adāhyaḥ', 'akledyaḥ', and 'aśoṣyaḥ' mean in verse 2.24?",
+      "te": "2.24 శ్లోకంలోని 'అచ్ఛేద్యః', 'అదాహ్యః', 'అక్లేద్యః', మరియు 'అశోష్యః' అనే నాలుగు నిషేధాత్మక సమాస పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Acchedyaḥ = Cannot be cut/cleaved; Adāhyaḥ = Cannot be burned; Akledyaḥ = Cannot be wetted/moistened; Aśoṣyaḥ = Cannot be dried/withered.",
+        "te": "అచ్ఛేద్యః = ఛేదించబడనిది (ముక్కలు కానిది); అదాహ్యః = దహించబడనిది (కాలనిది); అక్లేద్యః = తడపబడనిది (కరగనిది); అశోష్యః = ఎండబెట్టబడనిది (ఆరిపోనిది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Acchedyaḥ = Invisible; Adāhyaḥ = Silent; Akledyaḥ = Heavy; Aśoṣyaḥ = Swift.",
+        "te": "అచ్ఛేద్యః = కనిపించనిది; అదాహ్యః = నిశ్శబ్దంగా ఉండేది; అక్లేద్యః = బరువైనది; అశోష్యః = వేగవంతమైనది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Acchedyaḥ = Unborn body; Adāhyaḥ = Royal soul; Akledyaḥ = Pure mind; Aśoṣyaḥ = Eternal breath.",
+        "te": "అచ్ఛేద్యః = పుట్టని దేహం; అదాహ్యః = రాజస ఆత్మ; అక్లేద్యః = పవిత్ర మనస్సు; అశోష్యః = నిత్య శ్వాస.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Acchedyaḥ = Divine bow; Adāhyaḥ = Sacred fire; Akledyaḥ = Holy river; Aśoṣyaḥ = Wind god.",
+        "te": "అచ్ఛేద్యః = దివ్య ధనుస్సు; అదాహ్యః = పవిత్ర అగ్ని; అక్లేద్యః = పుణ్య నది; అశోష్యః = వాయు దేవుడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "All four words use the negative prefix 'a-' with potential participles (kṛtya-pratyaya): 'na chettum yogyaḥ' = 'acchedyaḥ' (uncleavable); 'na dahatum yogyaḥ' = 'adāhyaḥ' (unburnable); 'na kledetum yogyaḥ' = 'akledyaḥ' (unwet-able); 'na śoṣetum yogyaḥ' = 'aśoṣyaḥ' (undriable). — Bhagavad Gita (2.24)",
+      "te": "'అ' అనే నిషేధార్థక ఉపసర్గతో కృత్య ప్రత్యయాలు చేరి ఈ పదాలు ఏర్పడ్డాయి: ఛేదించడానికి వీలుకానిది 'అచ్ఛేద్యః', దహించడానికి వీలుకానిది 'అదాహ్యః', తడపడానికి వీలుకానిది 'అక్లేద్యః', ఎండబెట్టడానికి వీలుకానిది 'అశోష్యః'. — భగవద్గీత (2.24)"
+    }
+  },
+  {
+    "id": "bg-2-24-q5",
+    "verse": { "c": 2, "s": 24 },
+    "concept": ["Sanskrit Grammar - Potential Participle Suffix '-ya'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical formation of the adjectives 'acchedyaḥ', 'adāhyaḥ', 'akledyaḥ', and 'aśoṣyaḥ' in verse 2.24:",
+      "te": "2.24 శ్లోకంలోని 'అచ్ఛేద్యః', 'అదాహ్యః', 'అక్లేద్యః', మరియు 'అశోష్యః' అనే విశేషణాల వ్యాకరణ నిర్మాణం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Future Passive Participles / Potential Participles (Kṛtya-pratyaya '-ya' / Nyat / Yat) with negative particle 'na' (Nañ-tatpuruṣa samāsa), Nominative Singular Masculine.",
+        "te": "నఞ్-తత్పురుష సమాసంతో కూడిన కృత్య ప్రత్యయాంత (లభ్యార్థక/విధి-సంభావనార్థక విశేషణ) ప్రథమా విభక్తి ఏకవచన పుంలింగ రూపాలు — 'ఛేదించ శక్యము కానిది', 'దహించ శక్యము కానిది' మొదలగు అర్థాలలో.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Past passive participles (Kta-pratyaya).",
+        "te": "భూతకాల కర్మణి విశేషణాలు (క్తాంత రూపాలు).",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Present active participles (Śatṛ-pratyaya).",
+        "te": "వర్తమానకాల కర్తరి విశేషణాలు (శతృ ప్రత్యయాంతాలు).",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative verbs in the 2nd person.",
+        "te": "మధ్యమ పురుష ఆజ్ఞార్థక క్రియా రూపాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Roots 'chid', 'dah', 'klid', 'śuṣ' take Kṛtya suffixes (like Nyat/Yat) expressing capability/fitness ('fit to be cut/burned'). Combined with Nañ-tatpuruṣa ('na + chid + ya' = 'acchedyaḥ'), they signify absolute incapability of undergoing that physical action. — Bhagavad Gita (2.24)",
+      "te": "'ఛిద్', 'దహ్', 'క్లిద్', 'శుష్' ధాతువులకు లభ్యార్థక 'య' (కృత్య) ప్రత్యయం చేరగా ఛేద్య, దాహ్య, క్లేద్య, శోష్య రూపాలేర్పడ్డాయి. వాటికి నఞ్ ప్రయోగం ('న' వ్యతిరేకం) చేరడంతో 'అచ్ఛేద్యః' మొదలైన అసాధ్యార్థక పదాలు ఏర్పడ్డాయి. — భగవద్గీత (2.24)"
+    }
+  },
+  {
+    "id": "bg-2-24-q6",
+    "verse": { "c": 2, "s": 24 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'acchedyo'yam', 'sthāṇuracalo', and 'acalo'yaṃ' in verse 2.24:",
+      "te": "2.24 శ్లోకంలోని 'అచ్ఛేద్యోఽయమ్', 'స్థాణురచలో', మరియు 'అచలోఽయమ్' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Acchedyaḥ + ayam -> acchedyo 'yam (Visarga Uttva & Pūrvarūpa Sandhi); sthāṇuḥ + acalaḥ -> sthāṇuracalaḥ (Visarga Rutva Sandhi: visarga after 'u' -> 'r'); acalaḥ + ayam -> acalo 'yam (Visarga Uttva & Pūrvarūpa Sandhi).",
+        "te": "అచ్ఛేద్యః + అయమ్ -> అచ్ఛేద్యోఽయమ్ (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు); స్థాణుః + అచలః -> స్థాణురచలః (విసర్గ రుత్త్వ సంధి: 'ఉ' కారం తర్వాత ఉన్న విసర్గ 'ర్' గా మారినది); అచలః + అయమ్ -> అచలోఽయమ్ (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Acchedya + ayam -> acchedyāyam; sthāṇu + acalaḥ -> sthāṇvacalaḥ; acala + ayam -> acalāyam",
+        "te": "అచ్ఛేద్య + అయమ్ -> అచ్ఛేద్యామయమ్; స్థాణు + అచలః -> స్థాణ్వచలః; అచల + అయమ్ -> అచలాయమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Acchedyam + ayam -> acchedyamayam; sthāṇun + acalaḥ -> sthāṇunacalaḥ; acalam + ayam -> acalamayam",
+        "te": "అచ్ఛేద్యమ్ + అయమ్ -> అచ్ఛేద్యమయమ్; స్థాణున్ + అచలః -> స్థాణునచలః; అచలమ్ + అయమ్ -> అచలమయమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Acchedye + ayam -> acchedyepayam; sthāṇe + acalaḥ -> sthāṇecalaḥ; acale + ayam -> acalepayam",
+        "te": "అచ్ఛేద్యే + అయమ్ -> అచ్ఛేద్యేపయమ్; స్థాణే + అచలః -> స్థాణేచలః; అచలే + అయమ్ -> అచలేపయమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Acchedyaḥ' + 'ayam': visarga preceded by 'a' and followed by 'a' becomes 'o', and initial 'a' converts to Avagraha -> 'acchedyo 'yam'. 2. 'Sthāṇuḥ' (firm) + 'acalaḥ': visarga preceded by vowel other than 'a/ā' (here 'u') converts to 'r' before vowel 'a' via Visarga Rutva Sandhi -> 'sthāṇuracalaḥ'. 3. 'Acalaḥ' + 'ayam' = 'acalo 'yam' (Visarga Uttva & Pūrvarūpa Sandhi). — Bhagavad Gita (2.24)",
+      "te": "1. 'అచ్ఛేద్యః' + 'అయమ్' లలో విసర్గ ఉత్త్వ, పూర్వరూప సంధుల ద్వారా 'అచ్ఛేద్యోఽయమ్' అయినది. 2. 'స్థాణుః' + 'అచలః' లలో 'ఉ' కారం తర్వాత ఉన్న విసర్గ అచ్చు ముందు 'ర్' గా మారడం వల్ల (విసర్గ రుత్త్వ సంధి) 'స్థాణురచలః' అయినది. 3. 'అచలః' + 'అయమ్' లలో 'అచలోఽయమ్' అయినది. — భగవద్గీత (2.24)"
+    }
+  }
+]

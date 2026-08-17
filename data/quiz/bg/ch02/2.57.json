@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-57-q1",
+    "verse": { "c": 2, "s": 57 },
+    "concept": ["Verse Meaning & Detachment in Joy and Adversity"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.57?\n\n“yaḥ sarvatrānabhisnehas tattatprāpya śubhāśubham | nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యః సర్వత్రానభిస్నేహస్తత్తత్ప్రాప్య శుభాశుభమ్ | నాభినందతి న ద్వేష్టి తస్య ప్రజ్ఞా ప్రతిష్ఠితా”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — One who is without personal attachment on all sides, who encounters favorable or unfavorable circumstances without rejoicing or hating—his wisdom is firmly established.",
+        "te": "శ్రీభగవానుడు పలికెను — ఎవడైతే సమస్త లౌకిక విషయాల యందు అనురాగ రహితుడై (మమకార రహితుడై) ఉంటూ, ఆయా శుభ (అనుకూల) లేదా అశుభ (ప్రతికూల) పరిస్థితులు ఎదురైనప్పుడు పొంగిపోడో (సంతోషించడో), ద్వేషించడో... అతని ప్రజ్ఞ (జ్ఞానము) స్థిరంగా నిలిచియుంటుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — A person of steady wisdom rejoices openly in favorable events and strongly hates unfavorable circumstances to maintain moral balance.",
+        "te": "శ్రీభగవానుడు పలికెను — నైతిక సమతుల్యతను కాపాడుకోవడానికి స్థితప్రజ్ఞుడు అనుకూల సంఘటనలను చూసి సంతోషించడం, ప్రతికూల పరిస్థితులను తీవ్రంగా ద్వేషించడం చేస్తాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — One who avoids encountering both good and bad circumstances by fleeing into solitary jungles is the only person whose wisdom is established.",
+        "te": "శ్రీభగవానుడు పలికెను — మంచి చెడు పరిస్థితులు ఎదురుకాకుండా అడవులకు పారిపోయే వ్యక్తి ప్రజ్ఞ మాత్రమే స్థిరపడుతుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Attachment to favorable circumstances is acceptable for a warrior as long as he hates only his enemies.",
+        "te": "శ్రీభగవానుడు పలికెను — యోధుడు తన శత్రువులను మాత్రమే ద్వేషించినంత కాలం అనుకూల పరిస్థితుల పట్ల మోహాన్ని కలిగి ఉండటం తప్పు కాదు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Yaḥ sarvatrānabhisnehas tat tat prāpya śubhāśubham / nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā.\" Krishna answers Arjuna's query about how a Sthitaprajña moves and interacts in the world ('vrajeta kim'). Such a sage has no possessive attachment anywhere ('anabhisnehaḥ'). When encountering pleasant situations ('śubham') or unpleasant situations ('aśubham'), he neither rejoices with egoic delight ('nābhinandati') nor reacts with hatred/aversion ('na dveṣṭi'). Thus, his spiritual wisdom remains unshakably centered ('tasya prajñā pratiṣṭhitā'). — Bhagavad Gita (2.57)",
+      "te": "అర్జునుడు 2.54 లో అడిగిన 'వ్రజేత కిమ్' (స్థితప్రజ్ఞుడు ప్రపంచంలో ఎలా సంచరిస్తాడు/ప్రవర్తిస్తాడు?) అనే ప్రశ్నకు శ్రీకృష్ణుడి సమాధానమిది. స్థితప్రజ్ఞునికి దేనిపైనా మమకారపు బంధనం ఉండదు ('అనభిస్నేహః'). అనుకూలమైన శోభనములు ('శుభమ్') ప్రాప్తించినప్పుడు పొంగిపోడు ('నాభినందతి'); ప్రతికూలమైన అశుభములు ('అశుభమ్') ఎదురైనప్పుడు ద్వేషించడు ('న ద్వేష్టి'). ఈ సమత్వమే అతని ప్రజ్ఞకు స్థిరత్వానికి సూచిక. — భగవద్గీత (2.57)"
+    }
+  },
+  {
+    "id": "bg-2-57-q2",
+    "verse": { "c": 2, "s": 57 },
+    "concept": ["Philosophical Concept - Freedom from Abhinandana and Dveṣa"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What psychological state is indicated by the paired reactions 'Nābhinandati' (does not rejoice) and 'Na dveṣṭi' (does not hate) in verse 2.57?",
+      "te": "2.57 శ్లోకంలో 'నాభినందతి' (అభినందించడు/సంతోషించడు) మరియు 'న ద్వేష్టి' (ద్వేషించడు) అనే జంట ప్రతిస్పందనల ద్వారా ప్రతిపాదించబడిన మానసిక స్థితి ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Transcendence of dualistic emotional reactivity (Rāga and Dveṣa)—the sage witnesses earthly dualities with equanimity, neither craving the repetition of pleasant events nor resenting unpleasant ones.",
+        "te": "రాగద్వేషాలకు అతీతమైన మానసిక సమత్వము — అనుకూల శుభ సంఘటనలు జరిగినప్పుడు కామ్య ఆనందంలో తేలిపోకపోవడం, ప్రతికూల సంఘటనలు ఎదురైనప్పుడు ద్వేషంతో రగిలిపోకపోవడం అనే ద్వంద్వ రహిత సాక్షి భావము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "A state of emotional numbness and physical paralysis caused by mental illness.",
+        "te": "మానసిక అనారోగ్యం వల్ల కలిగే భావోద్వేగ శూన్యత మరియు శారీరక స్తంభన స్థితి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "A hypocritical disguise where a person conceals his inner hatred from public view.",
+        "te": "తన అంతరంగంలో ఉన్న ద్వేషాన్ని బాహ్య ప్రపంచానికి కనిపించకుండా దాచుకునే కపట నాటకం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "A temporary state of sleep where the senses cease to register external objects.",
+        "te": "ఇంద్రియాలు బాహ్య విషయాలను గ్రహించలేని తాత్కాలిక నిద్రా స్థితి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Abhinandana' is egoic delight/exultation when obtaining agreeable objects (Rāga); 'Dveṣa' is hostility/resentment when encountering disagreeable objects. A Sthitaprajña transcends both because he recognizes all worldly situations ('śubhāśubham') as transient phenomena of Prakriti, remaining anchored in the unchanging Ātman. — Bhagavad Gita (2.57)",
+      "te": "ఇష్టమైన విషయాలు ప్రాప్తించినప్పుడు కలిగే అహంకార పూరిత ఉల్లాసం 'అభినందనమ్'; అయిష్టమైన విషయాలు ఎదురైనప్పుడు కలిగే అసహనం 'ద్వేషమ్'. ఇవి రెండూ రాగద్వేషాల రూపాలు. స్థితప్రజ్ఞుడు భౌతిక శుభాశుభాలను ప్రకృతి ధర్మాలుగా గ్రహించి తన అచల ఆత్మస్వరూపంలో స్థిరపడి ఉంటాడు. — భగవద్గీత (2.57)"
+    }
+  },
+  {
+    "id": "bg-2-57-q3",
+    "verse": { "c": 2, "s": 57 },
+    "concept": ["Meaning of Anabhisnehaḥ - Universal Non-attachment"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the qualifier 'Sarvatra anabhisnehaḥ' denote regarding a sage's relationship with the world in verse 2.57?",
+      "te": "2.57 శ్లోకంలో 'సర్వత్రానభిస్నేహః' (సర్వత్ర + అనభిస్నేహః) అనే విశేషణం ప్రపంచంతో ఆత్మజ్ఞానికి ఉండే సంబంధం గురించి ఏమి తెలుపుతోంది?"
+    },
+    "choices": [
+      {
+        "en": "Being completely free from possessive, clingy, or illusory attachment ('sneha') toward all persons, places, and worldly objects everywhere ('sarvatra').",
+        "te": "ఎక్కడైనా, ఎవరిపైనా ('సర్వత్ర') మోహంతో కూడిన పట్టుదల లేదా మమకారపు అనురాగం ('స్నేహః') లేకుండా సంపూర్ణంగా బంధరహితంగా ఉండటం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Lacking love or compassion for all living beings.",
+        "te": "సమస్త జీవుల పట్ల ప్రేమ లేదా దయ లేకపోవడం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avoiding oil baths and physical hygiene.",
+        "te": "శరీరానికి నూనె రాయడం, స్నానాది శారీరక పరిశుభ్రతలను విడిచిపెట్టడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Refusing to speak with relatives and family members.",
+        "te": "బంధువులతో, కుటుంబ సభ్యులతో మాట్లాడటానికి నిరాకరించడం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sarvatra' (everywhere) + 'an-abhi-snehaḥ' (without intense possessive attachment). 'Sneha' literally means oil or stickiness, metaphorically representing emotional clinginess/possessiveness. Anabhisneha means the sage's mind does not stick to anything in Samsara, remaining clean and detached like a lotus leaf in water. — Bhagavad Gita (2.57)",
+      "te": "'సర్వత్ర' (అన్ని విషయాల్లో) + 'అనభిస్నేహః' (మోహపూరిత మమకారం లేకపోవడం). 'స్నేహ' అనగా జిగురు లేదా నూనె జిడ్డు వంటి పట్టుకునే నైజం. అంటుకోని పద్మపత్రం వలె స్థితప్రజ్ఞుని చిత్తము లౌకిక ప్రపంచంలో ఏ విషయానికీ, ఏ వ్యక్తికీ అంటుకోకుండా నిర్మోహంగా ఉంటుంది. — భగవద్గీత (2.57)"
+    }
+  },
+  {
+    "id": "bg-2-57-q4",
+    "verse": { "c": 2, "s": 57 },
+    "concept": ["Sanskrit Vocabulary - Attachment, Good/Bad, Established Wisdom"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit phrases 'tat tat prāpya', 'śubhāśubham', and 'prajñā pratiṣṭhitā' mean in verse 2.57?",
+      "te": "2.57 శ్లోకంలోని 'తత్తత్ప్రాప్య', 'శుభాశుభమ్', మరియు 'ప్రజ్ఞా ప్రతిష్ఠితా' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Tat tat prāpya = Obtaining / encountering whatever respective situation; Śubhāśubham = Good and bad / favorable and unfavorable outcomes; Prajñā pratiṣṭhitā = Wisdom is firmly established.",
+        "te": "తత్తత్ప్రాప్య = ఆయా విషయములు/సన్నివేశాలు ఎదురైనప్పుడు; శుభాశుభమ్ = మంచి మరియు చెడు (అనుకూల ప్రతికూల పరిస్థితులు); ప్రజ్ఞా ప్రతిష్ఠితా = జ్ఞానము స్థిరపడినది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Tat tat prāpya = Leaving behind; Śubhāśubham = Heaven and hell; Prajñā pratiṣṭhitā = Mind is confused.",
+        "te": "తత్తత్ప్రాప్య = విడిచిపెట్టి; శుభాశుభమ్ = స్వర్గాది లోకాలు; ప్రజ్ఞా ప్రతిష్ఠితా = మనస్సు సందిగ్ధంలో ఉన్నది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Tat tat prāpya = Remembering past lives; Śubhāśubham = Truth and lies; Prajñā pratiṣṭhitā = Memory is destroyed.",
+        "te": "తత్తత్ప్రాప్య = పూర్వజన్మలను గుర్తుచేసుకొని; శుభాశుభమ్ = సత్యాసత్యాలు; ప్రజ్ఞా ప్రతిష్ఠితా = జ్ఞాపకశక్తి నశించినది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Tat tat prāpya = Fighting in war; Śubhāśubham = Victory and defeat; Prajñā pratiṣṭhitā = Body is immortal.",
+        "te": "తత్తత్ప్రాప్య = యుద్ధంలో పోరాడి; శుభాశుభమ్ = జయాపజయాలు; ప్రజ్ఞా ప్రతిష్ఠితా = దేహం అమరమైనది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Tat tat' (whatever respective) + 'prāpya' (having obtained). 'Śubha' (good/favorable) + 'aśubham' (bad/unfavorable) = 'śubhāśubham'. 'Prajñā' (wisdom) + 'pratiṣṭhitā' (firmly grounded/established). — Bhagavad Gita (2.57)",
+      "te": "'తత్ తత్' (ఆయా) + 'ప్రాప్య' (పొంది/ఎదురై). 'శుభ' (అనుకూలమైనది) + 'అశుభమ్' (ప్రతికూలమైనది) = శుభాశుభమ్. 'ప్రజ్ఞా' (వివేక జ్ఞానము) + 'ప్రతిష్ఠితా' (బాగా స్థిరపడినది). — భగవద్గీత (2.57)"
+    }
+  },
+  {
+    "id": "bg-2-57-q5",
+    "verse": { "c": 2, "s": 57 },
+    "concept": ["Sanskrit Grammar - Negative Verbs 'Nābhinandati' & 'Na Dveṣṭi'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'nābhinandati' and 'dveṣṭi' in verse 2.57:",
+      "te": "2.57 శ్లోకంలోని 'నాభినందతి' మరియు 'ద్వేష్టి' అనే క్రియాపదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Nābhinandati = Negative particle 'na' + 3rd person singular Present active indicative (Laṭ-lakāra) from root 'nand' with prefix 'abhi' (does not rejoice); Dveṣṭi = 3rd person singular Present active indicative (Laṭ-lakāra) from Adāadi-gaṇa root 'dviṣ' (he hates / feels aversion).",
+        "te": "నాభినందతి = 'న' + 'అభి' ఉపసర్గతో 'నంద్' (సంతోషించు) ధాతువు లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ఏకవచన పరస్మైపద క్రియ ('అతడు సంతోషించడు'); ద్వేష్టి = అదాదిగణ 'ద్విష్' (ద్వేషించు) ధాతువు లట్ లకార ప్రథమ పురుష ఏకవచన పరస్మైపద క్రియ ('అతడు ద్వేషించును' -> 'న ద్వేష్టి' = ద్వేషించడు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nābhinandati = Past tense verb; Dveṣṭi = Future tense verb.",
+        "te": "నాభినందతి = భూతకాల క్రియ; ద్వేష్టి = భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nābhinandati = Imperative command; Dveṣṭi = Present participle.",
+        "te": "నాభినందతి = ఆజ్ఞార్థక క్రియ; ద్వేష్టి = వర్తమాన విశేషణం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nābhinandati = Infinitive form; Dveṣṭi = Passive verb.",
+        "te": "నాభినందతి = తుమున్నంత రూపం; ద్వేష్టి = కర్మణి క్రియ.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Na' + 'abhinandati' = 'nābhinandati' (he does not rejoice). 'Na' + 'dveṣṭi' (from root 'dviṣ', 2nd class Adāadi root) = 'na dveṣṭi' (he does not hate). Both describe the dual non-reactive posture of the Sthitaprajña toward worldly fortune and misfortune. — Bhagavad Gita (2.57)",
+      "te": "'న' + 'అభినందతి' = నాభినందతి (పొంగిపోడు/సంతోషించడు). 'న' + 'ద్వేష్టి' ('ద్విష్' ధాతు ప్రథమ పురుష ఏకవచనం) = న ద్వేష్టి (ద్వేషించడు). అనుకూల ప్రతికూల సమయాల్లో స్థితప్రజ్ఞుడి నిర్వికార మానసిక చర్యను ఈ రెండూ తెలుపుతాయి. — భగవద్గీత (2.57)"
+    }
+  },
+  {
+    "id": "bg-2-57-q6",
+    "verse": { "c": 2, "s": 57 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'sarvatrānabhisnehas' and 'nābhinandati' in verse 2.57:",
+      "te": "2.57 శ్లోకంలోని 'సర్వత్రానభిస్నేహః' (సర్వత్ర+అనభిస్నేహః) మరియు 'నాభినందతి' (న+అభినందతి) అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Sarvatra + anabhisnehaḥ -> sarvatrānabhisnehaḥ (Savarna-dirgha Sandhi: a + a -> ā); anabhisnehaḥ + tat -> anabhisnehas tat (Visarga Sattva Sandhi: visarga before 't' becomes 's'); na + abhinandati -> nābhinandati (Savarna-dirgha Sandhi: a + a -> ā).",
+        "te": "సర్వత్ర + అనభిస్నేహః -> సర్వత్రానభిస్నేహః (సవర్ణదీర్ఘ సంధి: అ + అ -> ఆ); అనభిస్నేహః + తత్ -> అనభిస్నేహస్తత్ (విసర్గ సత్త్వ సంధి: 'ః' -> 'స్'); న + అభినందతి -> నాభినందతి (సవర్ణదీర్ఘ సంధి: అ + అ -> ఆ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sarvatram + anabhisnehaḥ -> sarvatramanabhisnehaḥ; na + abhinandati -> na-abhinandati",
+        "te": "సర్వత్రమ్ + అనభిస్నేహః -> సర్వత్రమనభిస్నేహః; న + అభినందతి -> నఅభినందతి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sarvatre + anabhisnehaḥ -> sarvatre'nabhisnehaḥ; no + abhinandati -> nābhinandati",
+        "te": "సర్వత్రే + అనభిస్నేహః -> సర్వత్రేఽనభిస్నేహః; నో + అభినందతి -> నాభినందతి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sarvatrah + anabhisnehaḥ -> sarvatrahanabhisnehaḥ; nai + abhinandati -> nābhinandati",
+        "te": "సర్వత్రః + అనభిస్నేహః -> సర్వత్రహనభిస్నేహః; నై + అభినందతి -> నాభినందతి",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Sarvatra' + 'anabhisnehaḥ': 'a' + 'a' merges into 'ā' via Savarna-dirgha Sandhi -> 'sarvatrānabhisnehaḥ'. 2. 'Anabhisnehaḥ' + 'tat': visarga before dental stop 't' transforms to 's' via Visarga Sattva Sandhi -> 'anabhisnehas tat'. 3. 'Na' + 'abhinandati': 'a' + 'a' merges into 'ā' via Savarna-dirgha Sandhi -> 'nābhinandati'. — Bhagavad Gita (2.57)",
+      "te": "1. 'సర్వత్ర' + 'అనభిస్నేహః' లలో సవర్ణదీర్ఘ సంధి ద్వారా 'సర్వత్రానభిస్నేహః' అయినది. 2. 'అనభిస్నేహః' + 'తత్' లలో విసర్గ సత్త్వ సంధి ద్వారా 'అనభిస్నేహస్తత్' అయినది. 3. 'న' + 'అభినందతి' లలో సవర్ణదీర్ఘ సంధి ద్వారా 'నాభినందతి' అయినది. — భగవద్గీత (2.57)"
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-48-q1",
+    "verse": { "c": 2, "s": 48 },
+    "concept": ["Verse Meaning & The Classic Definition of Yoga"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.48?\n\n“yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya | siddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యోగస్థః కురు కర్మాణి సంగం త్యక్త్వా ధనంజయ | సిద్ధ్యసిద్ధ్యోః సమో భూత్వా సమత్వం యోగ ఉచ్యతే”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Perform your duties established in Yoga, O Dhananjaya, abandoning all attachment and remaining even-minded in both success and failure. Equanimity of mind is called Yoga.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ ధనంజయా (అర్జునా)! సంగమును (మమకారాన్ని/ఫలాపేక్షను) విడిచిపెట్టి, సిద్ధ్యసిద్ధుల (సఫలతా విఫలతలలో) యందు సమబుద్ధిని కలిగి, యోగస్థుడవై (యోగాభ్యాసంలో నిలిచి) కర్మలను ఆచరించుము. ఇటువంటి మానసిక సమత్వమునే 'యోగము' అని అంటారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Perform actions only when success is guaranteed, for achieving victory in war is the true definition of Yoga.",
+        "te": "శ్రీభగవానుడు పలికెను — విజయం ఖచ్చితంగా లభిస్తుందని నమ్మకం ఉన్నప్పుడు మాత్రమే కర్మలను ఆచరించు, ఎందుకంటే యుద్ధంలో విజయాన్ని సాధించడమే యోగానికి నిజమైన నిర్వచనం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Abandon all physical actions on the battlefield to remain in silent meditation, for complete inaction is called Yoga.",
+        "te": "శ్రీభగవానుడు పలికెను — మౌన ధ్యానంలో ఉండటానికి రణరంగంలో శారీరక కర్మలన్నింటినీ విడిచిపెట్టు, ఎందుకంటే సంపూర్ణ అకర్మనే 'యోగము' అని పిలుస్తారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Yoga means performing Vedic sacrifices to ensure success, while avoiding any failure through protective rituals.",
+        "te": "శ్రీభగవానుడు పలికెను — యోగం అనగా విజయాన్ని అందించే వేద యజ్ఞాలను నిర్వర్తించడం, మరియు రక్షణ క్రతువుల ద్వారా ఏ విధమైన విఫలత రాకుండా నివారించడం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya / siddhy-asiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate.\" Krishna provides a foundational definition of Yoga in action: 'samatvaṃ yoga ucyate' (equanimity is called Yoga). To practice this, one must: 1. Be established in inner poise ('yogasthaḥ'), 2. Relinquish selfish attachment to fruits ('saṅgaṃ tyaktvā'), and 3. Maintain balance in victory or defeat ('siddhy-asiddhyoḥ samaḥ'). — Bhagavad Gita (2.48)",
+      "te": "కర్మయోగంలో యోగానికి భగవానుడు ఇచ్చిన అత్యున్నత నిర్వచనం ఇది: 'సమత్వం యోగ ఉచ్యతే' (చిత్తసమత్వమే యోగము). దీనిని ఆచరించడానికి సాధకుడు: 1. అంతరంగ యోగంలో నిలవాలి ('యోగస్థః'), 2. కర్మఫలాల మమకారాన్ని వదలాలి ('సంగం త్యక్త్వా'), 3. జయాపజయాలు సిద్ధించినా సిద్ధించకపోయినా సమబుద్ధిని కలిగి ఉండాలి ('సిద్ధ్యసిద్ధ్యోః సమః'). — భగవద్గీత (2.48)"
+    }
+  },
+  {
+    "id": "bg-2-48-q2",
+    "verse": { "c": 2, "s": 48 },
+    "concept": ["Aphoristic Definition - Samatvaṃ Yoga Ucyate"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the psychological and spiritual essence of the aphorism 'Samatvaṃ Yoga Ucyate' in verse 2.48?",
+      "te": "2.48 శ్లోకంలోని 'సమత్వం యోగ ఉచ్యతే' (సమత్వమే యోగము అని అనబడును) అనే ప్రసిద్ధ సూత్రం యొక్క అంతరార్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Equanimity or balance of mind—remaining undisturbed by pleasure/pain, gain/loss, or success/failure—is itself the true state and goal of Yoga.",
+        "te": "చిత్త సమత్వము అనగా అనుకూల ప్రతికూల పరిస్థితులలో, సుఖదుఃఖాలలో, జయాపజయాలలో మనస్సు చలించకుండా సమస్థితిలో ఉండటమే యోగం యొక్క పరాకాష్ఠ, అసలైన స్వరూపము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Yoga means treating all physical objects as having the exact same weight and size.",
+        "te": "యోగం అనగా సమస్త భౌతిక వస్తువులను ఒకే బరువు, పరిమాణం గలవిగా పరిగణించడం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Yoga is achieved only when the body remains perfectly motionless in physical postures for days.",
+        "te": "శరీరం రోజులు తరబడి యోగాసనాల్లో కదలకుండా ఉన్నప్పుడు మాత్రమే యోగం సిద్ధించినట్లు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Equanimity means treating righteous acts and unrighteous acts as morally identical.",
+        "te": "సమత్వం అనగా ధర్మబద్ధమైన కర్మలను, అధర్మ కర్మలను నైతికంగా ఒకేలా చూడటం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In the Gita's philosophy, 'Yoga' is not merely bodily postures or physical withdrawal; it is mental poise amidst action. 'Samatvam' refers to inner tranquility that remains unagitated whether the external outcome is desirable ('siddhi') or undesirable ('asiddhi'). — Bhagavad Gita (2.48)",
+      "te": "గీతా శాస్త్రంలో 'యోగము' అనగా కేవలం ఆసనాలు వేయడం లేదా పనులు విడిచిపెట్టడం కాదు; కర్మలు చేస్తూనే అంతరంగంలో నిశ్చలత్వంతో ఉండటం. బాహ్య ఫలితం విజయమైనా ('సిద్ధి'), ఓటమియైనా ('అసిద్ధి') మనస్సు కలత చెందకుండా ఉండటమే 'సమత్వము'. — భగవద్గీత (2.48)"
+    }
+  },
+  {
+    "id": "bg-2-48-q3",
+    "verse": { "c": 2, "s": 48 },
+    "concept": ["Practical Directive - Yogasthaḥ Kuru Karmāṇi"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does Lord Krishna instruct Arjuna to do through the phrase 'Yogasthaḥ kuru karmāṇi' in verse 2.48?",
+      "te": "2.48 శ్లోకంలోని 'యోగస్థః కురు కర్మాణి' అనే సంస్కృత వాక్యం ద్వారా శ్రీకృష్ణుడు అర్జునునికి ఏ కార్యాచరణను ఉపదేశించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Perform your prescribed duties while remaining inwardly centered and established in spiritual union (Yoga), rather than acting out of desire or anxiety.",
+        "te": "కామ్య కోరికలతో లేదా ఆందోళనతో కాకుండా, అంతరంగంలో యోగ నిష్ఠ యందు (భగవదనుసంధానంలో) స్థిరుడవై నీకు నిర్దేశించబడిన స్వధర్మ కర్మలను నిర్వర్తించుము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sit in a meditative posture first and perform physical actions only after all thoughts stop.",
+        "te": "ముందుగా ధ్యానాసనంలో కూర్చుని, ఆలోచనలన్నీ ఆగిపోయిన తర్వాత మాత్రమే భౌతిక కర్మలను ఆచరించు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Perform actions only within holy places or yoga hermitages.",
+        "te": "కేవలం పవిత్ర పుణ్యక్షేత్రాలలో లేదా యోగాశ్రమాలలో మాత్రమే కర్మలను ఆచరించు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Abandon warfare and engage purely in teaching yogic philosophy to disciples.",
+        "te": "యుద్ధాన్ని విడిచిపెట్టి కేవలం శిష్యులకు యోగ శాస్త్రాన్ని బోధించడంలో నిమగ్నమవ్వు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yogasthaḥ' = 'Yoga' (union/poise) + 'sthaḥ' (situated/established). Instead of letting outer action dictate inner peace, Krishna asks Arjuna to establish inner peace first ('yogasthaḥ') and then perform necessary actions ('kuru karmāṇi'). — Bhagavad Gita (2.48)",
+      "te": "'యోగ' (భగవదైక్యము/చిత్తశాంతి) + 'స్థః' (నిలిచినవాడై). బాహ్య కర్మలు మన శాంతిని శాసించకుండా, ముందుగా అంతరంగంలో యోగశాంతిని నెలకొల్పుకొని ('యోగస్థః'), ఆ పైన బాధ్యతాయుత కర్మలను నిర్వర్తించమని ('కురు కర్మాణి') కృష్ణుని ఆదేశం. — భగవద్గీత (2.48)"
+    }
+  },
+  {
+    "id": "bg-2-48-q4",
+    "verse": { "c": 2, "s": 48 },
+    "concept": ["Sanskrit Vocabulary - Attachment & Success/Failure"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit compounds 'saṅgaṃ tyaktvā' and 'siddhi-asiddhyoḥ' mean in verse 2.48?",
+      "te": "2.48 శ్లోకంలోని 'సంగం త్యక్త్వా' మరియు 'సిద్ధ్యసిద్ధ్యోః' అనే సంస్కృత పదబంధాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Saṅgaṃ tyaktvā = Having abandoned attachment / egoic possessiveness; Siddhi-asiddhyoḥ = In both success (fulfillment) and failure (unfulfillment).",
+        "te": "సంగం త్యక్త్వా = సంగాన్ని (మమకారాన్ని/ఫలాపేక్షను) విడిచిపెట్టి; సిద్ధ్యసిద్ధ్యోః = సిద్ధించుట యందు మరియు సిద్ధించకపోవుట యందు (సఫలతా విఫలతలలో / జయాపజయాలలో).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Saṅgaṃ tyaktvā = Abandoning friends; Siddhi-asiddhyoḥ = In wealth and poverty.",
+        "te": "సంగం త్యక్త్వా = స్నేహితులను వదిలేసి; సిద్ధ్యసిద్ధ్యోః = సంపద మరియు పేదరికంలో.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Saṅgaṃ tyaktvā = Leaving the battlefield; Siddhi-asiddhyoḥ = In life and death.",
+        "te": "సంగం త్యక్త్వా = రణరంగాన్ని విడిచిపెట్టి; సిద్ధ్యసిద్ధ్యోః = జీవితము మరియు మరణంలో.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Saṅgaṃ tyaktvā = Giving up weapons; Siddhi-asiddhyoḥ = In truth and untruth.",
+        "te": "సంగం త్యక్త్వా = ఆయుధాలను త్యజించి; సిద్ధ్యసిద్ధ్యోః = సత్యము మరియు అసత్యంలో.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Saṅga' means egoic attachment or possessiveness toward actions and their fruits. 'Tyaktvā' is the Ktvā gerund (having abandoned). 'Siddhi' (success) + 'asiddhi' (non-success) in Genitive/Locative Dual = 'siddhi-asiddhyoḥ' (in both success and failure). — Bhagavad Gita (2.48)",
+      "te": "'సంగ' అనగా కర్మల పట్ల, కర్మఫలాల పట్ల ఉండే అహంకార మమకారాలు. 'త్యక్త్వా' (విడిచిపెట్టి). 'సిద్ధి' (విజయం/సఫలత) + 'అసిద్ధి' (ఓటమి/అసఫలత) ల షష్ఠీ/సప్తమీ ద్వివచనం 'సిద్ధ్యసిద్ధ్యోః' (జయాపజయాలు రెండింటి యందు). — భగవద్గీత (2.48)"
+    }
+  },
+  {
+    "id": "bg-2-48-q5",
+    "verse": { "c": 2, "s": 48 },
+    "concept": ["Sanskrit Grammar - Passive Verb 'Ucyate' & Imperative 'Kuru'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'kuru' and 'ucyate' in verse 2.48:",
+      "te": "2.48 శ్లోకంలోని 'కురు' మరియు 'ఉచ్యతే' అనే క్రియాపదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Kuru = 2nd person singular Imperative Parasmaipada (Loṭ-lakāra) from root 'kṛ' (do! / perform!); Ucyate = 3rd person singular Present Passive (Laṭ-lakāra) from root 'vac' (it is called / declared).",
+        "te": "కురు = 'కృ' (చేయు) ధాతువు లోట్ లకార (ఆజ్ఞార్థక) మధ్యమ పురుష ఏకవచన పరస్మైపద రూపం ('చేయుము!'); ఉచ్యతే = 'వచ్' (పలుకు) ధాతువు లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ఏకవచన కర్మణి రూపం ('అని చెప్పబడును / అనబడును').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kuru = Past tense verb; Ucyate = Active present verb.",
+        "te": "కురు = భూతకాల క్రియ; ఉచ్యతే = కర్తరి వర్తమాన క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kuru = Future tense verb; Ucyate = Imperative verb.",
+        "te": "కురు = భవిష్యత్కాల క్రియ; ఉచ్యతే = ఆజ్ఞార్థక క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kuru = Present participle; Ucyate = Infinitive form.",
+        "te": "కురు = వర్తమాన విశేషణం; ఉచ్యతే = తుమున్నంత రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kuru' is Krishna's command to Arjuna ('O Dhananjaya, perform actions!'). 'Ucyate' is the passive form of root 'vac' (vac/uc), agreeing with subject 'samatvam': 'samatvaṃ yogaḥ ucyate' = 'equanimity is called Yoga'. — Bhagavad Gita (2.48)",
+      "te": "'కురు' అనేది అర్జునుడికి కృష్ణుడి ఆజ్ఞ ('ఓ ధనంజయా, కర్మలను ఆచరించుము!'). 'ఉచ్యతే' అనేది 'వచ్' ధాతు కర్మణి వర్తమాన రూపం. 'సమత్వమ్' అనే కర్తతో చేరి 'సమత్వమ్ యోగః ఉచ్యతే' (సమత్వమే యోగమని చెప్పబడుతుంది) అని వ్యాక్యాంశం నిలిచింది. — భగవద్గీత (2.48)"
+    }
+  },
+  {
+    "id": "bg-2-48-q6",
+    "verse": { "c": 2, "s": 48 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'siddhyasiddhyoḥ' in verse 2.48:",
+      "te": "2.48 శ్లోకంలోని 'సిద్ధ్యసిద్ధ్యోః' అనే పదం యొక్క సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Siddhi + asiddhi -> siddhy-asiddhi (Yan Sandhi: 'i' before 'a' -> 'y'); siddhi-asiddhi + oḥ -> siddhyasiddhyoḥ (Dual Genitive/Locative ending).",
+        "te": "సిద్ధి + అసిద్ధి -> సిద్ధ్యసిద్ధి (యణాదేశ సంధి: 'ఇ' కారం 'య్' గా మారినది); సిద్ధ్యసిద్ధి + ఓః -> సిద్ధ్యసిద్ధ్యోః (ద్వివచన షష్ఠీ/సప్తమీ విభక్తి ప్రత్యయము).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Siddha + asiddhyoḥ -> siddhyasiddhyoḥ",
+        "te": "సిద్ధ + అసిద్ధ్యోః -> సిద్ధ్యసిద్ధ్యోః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Siddhim + asiddhyoḥ -> siddhimasiddhyoḥ",
+        "te": "సిద్ధిమ్ + అసిద్ధ్యోః -> సిద్ధిమసిద్ధ్యోః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Siddhe + asiddhyoḥ -> siddhe'siddhyoḥ",
+        "te": "సిద్ధే + అసిద్ధ్యోః -> సిద్ధేఽసిద్ధ్యోః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Siddhi' (success) + 'asiddhi' (non-success): final short 'i' of 'siddhi' converts to semi-vowel 'y' before initial 'a' of 'asiddhi' via Yan Sandhi -> 'siddhy-asiddhi'. Joined with Dual suffix '-oḥ': 'siddhyasiddhyoḥ'. — Bhagavad Gita (2.48)",
+      "te": "'సిద్ధి' + 'అసిద్ధి' లలో అచ్చు 'అ' ముందు 'ఇ' కారానికి 'య్' ఆదేశమై (యణాదేశ సంధి) 'సిద్ధ్యసిద్ధి' అయినది. దానికి ద్వివచనం చేరగా 'సిద్ధ్యసిద్ధ్యోః' అనే రూపం సిద్ధించింది. — భగవద్గీత (2.48)"
+    }
+  }
+]

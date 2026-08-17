@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-68-q1",
+    "verse": { "c": 2, "s": 68 },
+    "concept": ["Verse Meaning & Definitive Conclusion on Sense Restraint"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.68?\n\n“tasmād yasya mahābāho nigṛhītāni sarvaśaḥ | indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“తస్మాద్ యస్య మహాబాహో నిగృహీతాని సర్వశః | ఇంద్రియాణీంద్రియార్థేభ్యస్ తస్య ప్రజ్ఞా ప్రతిష్ఠితా”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Therefore, O mighty-armed Arjuna, one whose senses are completely restrained from sense objects in all directions, his wisdom is firmly established.",
+        "te": "శ్రీభగవానుడు పలికెను — కావున ఓ మహాబాహో (అర్జునా)! ఎవని యొక్క ఇంద్రియములు సమస్త విషయముల నుండి నలువైపులా సంపూర్ణంగా నిగ్రహించబడతాయో (అదుపు చేయబడతాయో), అతని ప్రజ్ఞ (వివేక బుద్ధి) స్థిరంగా నిలిచియుంటుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Therefore, O Mahabaho, physical restraint of senses is unnecessary if a warrior possesses strong physical arms to fight.",
+        "te": "శ్రీభగవానుడు పలికెను — కావున ఓ మహాబాహో! యోధునికి పోరాడటానికి బలమైన బాహువులు ఉన్నంత కాలం శారీరక ఇంద్రియ నిగ్రహం అవసరం లేదు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Wisdom is established when a person restrains his senses only during times of meditation while letting them roam freely during work.",
+        "te": "శ్రీభగవానుడు పలికెను — ధ్యాన సమయంలో మాత్రమే ఇంద్రియాలను నియంత్రించి, పని చేసే సమయంలో వాటిని స్వేచ్ఛగా తిరగనిచ్చినప్పుడు మనిషి ప్రజ్ఞ స్థిరపడుతుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Sense restraint must be practiced only for one single sense organ, as controlling all senses is impossible for human beings.",
+        "te": "శ్రీభగవానుడు పలికెను — సమస్త ఇంద్రియాలను నియంత్రించడం మానవులకు అసాధ్యం, కాబట్టి కేవలం ఒకే ఒక్క ఇంద్రియాన్ని మాత్రమే నిగ్రహించాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Tasmād yasya mahābāho nigṛhītāni sarvaśaḥ / indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā.\" Krishna concludes the discourse on sense-control (2.58–2.67) with a logical summary ('tasmāt' = therefore). Addressing Arjuna as 'mahābāho' (mighty-armed warrior capable of subduing external physical enemies), Krishna challenges him to use that same prowess inwardly to completely subdue ('nigṛhītāni sarvaśaḥ') all senses ('indriyāṇi') from their enticing objects ('indriyārthebhyaḥ'), thereby securing steady wisdom ('tasya prajñā pratiṣṭhitā'). — Bhagavad Gita (2.68)",
+      "te": "2.58 నుండి ప్రారంభమైన ఇంద్రియ నిగ్రహ ఉపదేశాన్ని శ్రీకృష్ణుడు ఇక్కడ 'తస్మాత్' (కావున) అంటూ ముగించాడు. అర్జునుడిని 'మహాబాహో' (బాహ్య శత్రువులను జయించగల గొప్ప భుజబలము గలవాడా) అని సంబోధిస్తూ... అదే విక్రమాన్ని అంతరంగ శత్రువులైన ఇంద్రియాలపై ఉపయోగించి, సమస్త విషయాల నుండి ఇంద్రియాలను సంపూర్ణంగా నిగ్రహించినప్పుడే ('నిగృహీతాని సర్వశః') వివేక ప్రజ్ఞ స్థిరపడుతుందని ('తస్య ప్రజ్ఞా ప్రతిష్ఠితా') నిరూపించాడు. — భగవద్గీత (2.68)"
+    }
+  },
+  {
+    "id": "bg-2-68-q2",
+    "verse": { "c": 2, "s": 68 },
+    "concept": ["Contextual Epithet - Meaning of Mahābāho"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the spiritual significance of Krishna addressing Arjuna as 'Mahābāho' (mighty-armed) in verse 2.68?",
+      "te": "2.68 శ్లోకంలో శ్రీకృష్ణుడు అర్జునుడిని 'మహాబాహో' (గొప్ప బాహువులు గలవాడా) అని సంబోధించడంలో గల ఆధ్యాత్మిక అంతరార్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "It inspires Arjuna by reminding him that just as his powerful arms can conquer mighty warriors on the battlefield, he possesses the inner strength to conquer the turbulent senses.",
+        "te": "అర్జునుని శారీరక బాహుబలం రణరంగంలో శత్రువీరులను జయించగలిగినట్లే... అతని వద్ద అంతరంగ ఇంద్రియాలను నిగ్రహించగల మానసిక ఆధ్యాత్మిక శక్తి కూడా ఉందనే ఆత్మవిశ్వాసాన్ని మేల్కొల్పడం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It indicates that physical strength alone is sufficient to achieve Moksha without mental discipline.",
+        "te": "మానసిక క్రమశిక్షణ లేకుండా కేవలం శారీరక బలంతో మాత్రమే మోక్షాన్ని సాధించవచ్చని ఇది సూచిస్తుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It means Arjuna should use his physical hands to physically suppress his eyes and ears.",
+        "te": "అర్జునుడు తన శారీరక చేతులతో కళ్ళు, చెవులను మూసివేసుకోవాలని దీని అర్థం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It is a casual greeting with no connection to the topic of sense control.",
+        "te": "ఇది ఇంద్రియ నిగ్రహ విషయంతో సంబంధం లేని ఒక సాధారణ సంబోధన మాత్రమే.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Mahā' (great/mighty) + 'bāhu' (arms) = 'Mahābāho' (O mighty-armed one). In the Gita, Krishna strategically uses titles. By invoking Arjuna's martial valor, Krishna reminds him that the greatest battlefield is internal, and true heroism lies in conquering one's own mind and senses. — Bhagavad Gita (2.68)",
+      "te": "'మహా' (గొప్ప) + 'బాహు' (భుజములు) = మహాబాహో (ఓ గొప్ప భుజబలము గలవాడా). గీతలో శ్రీకృష్ణుడు సందర్భోచితంగా బిరుదులను వాడాడు. బాహ్య యుద్ధంలో పరాక్రమం ఉన్న అర్జునునికి అత్యంత మహత్తరమైన యుద్ధం అంతరంగంలోనే ఉందని, ఇంద్రియ జయమే నిజమైన వీరత్వమని గుర్తుచేస్తున్నాడు. — భగవద్గీత (2.68)"
+    }
+  },
+  {
+    "id": "bg-2-68-q3",
+    "verse": { "c": 2, "s": 68 },
+    "concept": ["Scope of Restraint - Nigṛhītāni Sarvaśaḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the qualifier 'Sarvaśaḥ' emphasize regarding sense-restraint in verse 2.68?",
+      "te": "2.68 శ్లోకంలో ఇంద్రియ నిగ్రహానికి సంబంధించి 'సర్వశః' అనే పదం ఏ ముఖ్యమైన విషయాన్ని నొక్కిచెబుతోంది?"
+    },
+    "choices": [
+      {
+        "en": "Restraint must be total, continuous, and applicable to all senses from all sense objects—because leaving even one sense uncurbed allows it to drag the mind away (as stated in 2.67).",
+        "te": "ఇంద్రియ నిగ్రహం అనేది అరకొరగా కాకుండా సమగ్రంగా, నిరంతరాయంగా సమస్త ఇంద్రియాలకు వర్తించాలి — ఎందుకంటే ఒక్క ఇంద్రియాన్ని వదిలేసినా అది ప్రజ్ఞను హరిస్తుందని (2.67 శ్లోకంలో చెప్పినట్లు) హెచ్చరించడం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Restraint should be practiced only in foreign countries, not in one's homeland.",
+        "te": "ఇంద్రియ నిగ్రహాన్ని కేవలం విదేశాలలో ఉన్నప్పుడు మాత్రమే ఆచరించాలి, స్వదేశంలో అవసరం లేదు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Restraint applies only to the sense of taste while eating food.",
+        "te": "నిగ్రహం అనేది కేవలం ఆహారం తినేటప్పుడు నాలుక రుచికి మాత్రమే వర్తిస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Restraint is needed only during wartime, not in peacetime.",
+        "te": "నిగ్రహం కేవలం యుద్ధ సమయంలో మాత్రమే అవసరం, ప్రశాంత సమయాల్లో అవసరం లేదు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sarvaśaḥ' means in every way / from all sides / completely. Just as a dam with a single hole eventually collapses under water pressure, partial sense restraint fails. Only when all senses are thoroughly restrained ('nigṛhītāni sarvaśaḥ') is wisdom firmly grounded ('pratiṣṭhitā'). — Bhagavad Gita (2.68)",
+      "te": "'సర్వశః' అనగా అన్ని రకాలుగా / నలువైపులా / సంపూర్ణంగా. ఆనకట్టకి ఒక్క చిన్న రంధ్రం ఉన్నా నీటి ఒత్తిడికి మొత్తం కూలిపోయినట్లే, అరకొర ఇంద్రియ నిగ్రహం విఫలమవుతుంది. సమస్త ఇంద్రియాలూ నలువైపులా నిగ్రహించబడినప్పుడు మాత్రమే వివేక ప్రజ్ఞ స్థిరపడుతుంది. — భగవద్గీత (2.68)"
+    }
+  },
+  {
+    "id": "bg-2-68-q4",
+    "verse": { "c": 2, "s": 68 },
+    "concept": ["Sanskrit Vocabulary - Restrained, From Objects, Established"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'tasmāt', 'nigṛhītāni', and 'indriyārthebhyaḥ' mean in verse 2.68?",
+      "te": "2.68 శ్లోకంలోని 'తస్మాత్', 'నిగృహీతాని', మరియు 'ఇంద్రియార్థేభ్యః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Tasmāt = Therefore / for this reason; Nigṛhītāni = Restrained / harnessed / held back; Indriyārthebhyaḥ = From sense objects / sensory attractions.",
+        "te": "తస్మాత్ = అందువలన / కావున; నిగృహీతాని = నిగ్రహించబడినవి / అదుపు చేయబడినవి; ఇంద్రియార్థేభ్యః = ఇంద్రియ విషయముల నుండి / భోగముల నుండి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Tasmāt = Because; Nigṛhītāni = Destroyed; Indriyārthebhyaḥ = From weapons.",
+        "te": "తస్మాత్ = ఎందుకనగా; నిగృహీతాని = నాశనమైనవి; ఇంద్రియార్థేభ్యః = ఆయుధముల నుండి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Tasmāt = Where; Nigṛhītāni = Praised; Indriyārthebhyaḥ = From kings.",
+        "te": "తస్మాత్ = ఎక్కడైతే; నిగృహీతాని = ప్రశంసించబడినవి; ఇంద్రియార్థేభ్యః = రాజుల నుండి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Tasmāt = When; Nigṛhītāni = Forgotten; Indriyārthebhyaḥ = From scriptures.",
+        "te": "తస్మాత్ = ఎప్పుడైతే; నిగృహీతాని = మరిచిపోబడినవి; ఇంద్రియార్థేభ్యః = శాస్త్రముల నుండి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Tasmāt' is Ablative Singular demonstrative adverb (therefore). 'Ni' + 'gṛhītāni' is Nominative Plural Neuter Past Passive Participle of root 'grah' with prefix 'ni' (firmly restrained/curbed). 'Indriyārthebhyaḥ' is Ablative Plural of 'indriyārtha' (from sense objects). — Bhagavad Gita (2.68)",
+      "te": "'తస్మాత్' అనగా అందువలన/కావున. 'ని' + 'గ్రహీత' శబ్ద నపుంసకలింగ ప్రథమా బహువచనం 'నిగృహీతాని' (బాగా నిగ్రహించబడినవి). 'ఇంద్రియార్థ' శబ్ద పంచమీ బహువచనం 'ఇంద్రియార్థేభ్యః' (ఇంద్రియ విషయాల నుండి). — భగవద్గీత (2.68)"
+    }
+  },
+  {
+    "id": "bg-2-68-q5",
+    "verse": { "c": 2, "s": 68 },
+    "concept": ["Sanskrit Grammar - Past Passive Participle 'Nigṛhītāni'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form and agreement of 'nigṛhītāni' in verse 2.68:",
+      "te": "2.68 శ్లోకంలోని 'నిగృహీతాని' అనే పదం యొక్క వ్యాకరణ విశ్లేషణ మరియు వాక్య అన్వయం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Nominative Plural Neuter Past Passive Participle (Kta-pratyaya) from root 'grah' with prefix 'ni' (held back / subjugated), agreeing with the subject 'indriyāṇi' (senses).",
+        "te": "'ని' ఉపసర్గతో 'గ్రహా' (గ్రహించు/పట్టుకొను) ధాతువు యొక్క క్తాంత (Past Passive Participle) ప్రథమా విభక్తి బహువచన నపుంసకలింగ రూపం ('నిగ్రహించబడినవి') — ఇది 'ఇంద్రియాణి' అనే కర్తకు విశేషణంగా నిలిచింది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person singular Present active verb.",
+        "te": "ప్రథమ పురుష ఏకవచన వర్తమానకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Genitive Singular Masculine Noun.",
+        "te": "షష్ఠీ విభక్తి ఏకవచన పుంలింగ నామవాచకం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Infinitive verb form.",
+        "te": "తుమున్నంత క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Nigṛhītāni' functions as the predicate participle qualifying 'indriyāṇi' (the senses): 'yasya indriyāṇi sarvaśaḥ nigṛhītāni (santi)' = 'whose senses are completely restrained'. — Bhagavad Gita (2.68)",
+      "te": "'నిగృహీతాని' అనేది 'ఇంద్రియాణి' (ఇంద్రియములు) అనే ప్రథమా బహువచన కర్తకు విశేషణంగా నిలిచి 'ఎవరి ఇంద్రియాలైతే సంపూర్ణంగా నిగ్రహించబడ్డాయో' అనే వాక్యాన్వయాన్ని పూర్తి చేస్తోంది. — భగవద్గీత (2.68)"
+    }
+  },
+  {
+    "id": "bg-2-68-q6",
+    "verse": { "c": 2, "s": 68 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'tasmādyasya' and 'indriyāṇīndriyārthebhyaḥ' in verse 2.68:",
+      "te": "2.68 శ్లోకంలోని 'తస్మాద్ యస్య' మరియు 'ఇంద్రియాణీంద్రియార్థేభ్యః' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Tasmāt + yasya -> tasmād yasya (Jasdtva Sandhi: unvoiced 't' becomes voiced 'd' before voiced 'y'); indriyāṇi + indriyārthebhyaḥ -> indriyāṇīndriyārthebhyaḥ (Savarna-dirgha Sandhi: short 'i' + short 'i' -> long 'ī').",
+        "te": "తస్మాత్ + యస్య -> తస్మాద్ యస్య (జశ్త్వ సంధి: ఘోష వర్ణమైన 'య' ముందు పొల్లు 'త్' స్థానంలో 'ద్' వచ్చినది); ఇంద్రియాణి + ఇంద్రియార్థేభ్యః -> ఇంద్రియాణీంద్రియార్థేభ్యః (సవర్ణదీర్ఘ సంధి: 'ఇ' + 'ఇ' -> 'ఈ').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Tasmān + yasya -> tasmānyasya; indriyāṇi + indriyārthebhyaḥ -> indriyāṇindriyārthebhyaḥ",
+        "te": "తస్మాన్ + యస్య -> తస్మాన్యస్య; ఇంద్రియాణి + ఇంద్రియార్థేభ్యః -> ఇంద్రియాణింద్రియార్థేభ్యః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Tasmām + yasya -> tasmāmyasya; indriyāṇim + indriyārthebhyaḥ -> indriyāṇimindriyārthebhyaḥ",
+        "te": "తస్మామ్ + యస్య -> తస్మామ్యస్య; ఇంద్రియాణిమ్ + ఇంద్రియార్థేభ్యః -> ఇంద్రియాణిమింద్రియార్థేభ్యః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Tasmāḥ + yasya -> tasmāhyasya; indriyāṇe + indriyārthebhyaḥ -> indriyāṇe'ndriyārthebhyaḥ",
+        "te": "తస్మాః + యస్య -> తస్మాహ్యస్య; ఇంద్రియాణే + ఇంద్రియార్థేభ్యః -> ఇంద్రియాణేఽంద్రియార్థేభ్యః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Tasmāt' + 'yasya': unvoiced dental stop 't' transforms to voiced dental stop 'd' before semi-vowel 'y' via Jasdtva Sandhi -> 'tasmād yasya'. 2. 'Indriyāṇi' + 'indriyārthebhyaḥ': short 'i' + short 'i' merges into long 'ī' via Savarna-dirgha Sandhi -> 'indriyāṇīndriyārthebhyaḥ'. — Bhagavad Gita (2.68)",
+      "te": "1. 'తస్మాత్' + 'యస్య' లలో 'య' వర్ణం ముందు పొల్లు 'త్' స్థానంలో 'ద్' వచ్చి (జశ్త్వ సంధి) 'తస్మాద్యస్య' అయినది. 2. 'ఇంద్రియాణి' + 'ఇంద్రియార్థేభ్యః' లలో సవర్ణదీర్ఘ సంధి ద్వారా 'ఇంద్రియాణీంద్రియార్థేభ్యః' అని సిద్ధించింది. — భగవద్గీత (2.68)"
+    }
+  }
+]

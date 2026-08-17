@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-9-q1",
+    "verse": { "c": 2, "s": 9 },
+    "concept": ["Verse Meaning & Translation"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.9?\n\n“sañjaya uvāca | evamuktvā hṛṣīkeśaṃ guḍākeśaḥ parantapa | na yotsya iti govindaṃ uktvā tūṣṇīṃ babhūva ha”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“సంజయ ఉవాచ | ఏవముక్త్వా హృషీకేశం గుడాకేశః పరంంతప | న యోత్స్య ఇతి గోవిందం ఉక్త్వా తూష్ణీం బభూవ హ”"
+    },
+    "choices": [
+      {
+        "en": "Sanjaya said — Having spoken thus to Hrishikesha (Krishna), Gudakesha (Arjuna), the chastiser of foes, said to Govinda, \"I will not fight,\" and became silent.",
+        "te": "సంజయుడు పలికెను — శత్రు తపనుడైన గుడాకేశుడు (అర్జునుడు) హృషీకేశుడైన శ్రీకృష్ణుడితో ఈ విధంగా చెప్పి, \"ఓ గోవిందా! నేను యుద్ధము చేయను\" అని స్పష్టంగా పలికి ఊరకనే (మౌనంగా) ఉండిపోయాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Sanjaya said — Having heard Arjuna's decision, Hrishikesha smiled and commanded the Pandava army to hold their positions.",
+        "te": "సంజయుడు పలికెను — అర్జునుని నిర్ణయం విని, హృషీకేశుడు చిరునవ్వు నవ్వి పాండవ సైన్యాన్ని తమ స్థానాల్లోనే ఉండమని ఆదేశించాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Sanjaya said — Gudakesha then picked up his conch shell and sounded a retreat before addressing Govinda.",
+        "te": "సంజయుడు పలికెను — గుడాకేశుడు తన శంఖాన్ని తీసి ఉపసంహరణ సంకేతం పూరించి, గోవిందుడితో మాట్లాడాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Sanjaya said — Having spoken thus to Govinda, Arjuna descended from his chariot to embrace King Yudhishthira.",
+        "te": "సంజయుడు పలికెను — గోవిందుడితో ఈ విధంగా పలికి, అర్జునుడు తన రథం దిగి యుధిష్ఠిరుడిని ఆలింగనం చేసుకోవడానికి వెళ్లాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Sañjaya uvāca — evam uktvā hṛṣīkeśaṃ guḍākeśaḥ parantapa / na yotsya iti govindaṃ uktvā tūṣṇīṃ babhūva ha.\" Sanjaya reports to Dhritarashtra that Arjuna ('guḍākeśaḥ') gave his final declaration of refusal ('na yotsye' - 'I shall not fight') to Krishna ('govindam') and fell silent ('tūṣṇīṃ babhūva'). — Bhagavad Gita (2.9)",
+      "te": "అర్జునుడు ('గుడాకేశః') శ్రీకృష్ణుడితో ('గోవిందమ్') \"నేను పోరాడను\" ('న యోత్స్యే') అని నిష్కర్షగా చెప్పి మౌనం వహించాడని ('తూష్ణీం బభూవ') సంజయుడు ధృతరాష్ట్రునికి వివరిస్తున్నాడు. — భగవద్గీత (2.9)"
+    }
+  },
+  {
+    "id": "bg-2-9-q2",
+    "verse": { "c": 2, "s": 9 },
+    "concept": ["Epithet Analysis - Guḍākeśa"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What is the literal meaning and significance of the epithet 'Guḍākeśa' used for Arjuna in verse 2.9?",
+      "te": "2.9 శ్లోకంలో అర్జునునికి ఉపయోగించిన 'గుడాకేశః' అనే నామం యొక్క శాబ్దిక అర్థం మరియు ప్రాముఖ్యత ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Guḍākā (sleep) + īśa (master) = One who has conquered sleep and laziness; highlighting that despite his self-mastery, he is now paralyzed by delusion.",
+        "te": "గుడాకా (నిద్ర) + ఈశ (అధిపతి) = నిద్రను, ఆలస్యాన్ని జయించినవాడు; అటువంటి జితేంద్రియుడైన అర్జునుడు కూడా ఇప్పుడు మోహానికి లొంగిపోయాడని తెలపడానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Guḍā (sweetness) + keśa (hair) = One who has thick, dark black hair.",
+        "te": "గుడా + కేశ = దట్టమైన నల్లని జుట్టు గలవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Guḍā (bow string) + keśa (arrow) = One who shoots arrows with lightning speed.",
+        "te": "గుడా + కేశ = మెరుపు వేగంతో బాణాలు వేసేవాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Guḍā (hidden) + keśa (knowledge) = One who possesses secret Vedic wisdom.",
+        "te": "గుడా + కేశ = రహస్యమైన వేద జ్ఞానం గలవాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Guḍākā' means sleep, and 'īśa' means master. 'Guḍākeśa' signifies 'master of sleep'—one who controls physical fatigue and ignorance. Alternatively, it means 'one with thick hair'. Sanjaya uses it to show that even a master of senses like Arjuna fell prey to temporary grief. — Bhagavad Gita (2.9)",
+      "te": "'గుడాకా' అనగా నిద్ర/అజ్ఞానము, 'ఈశ' అనగా ప్రభువు. 'గుడాకేశుడు' అనగా నిద్రను, ఆలస్యాన్ని జయించిన విజేత. నిద్రను కూడా జయించిన మహా యోధుడు ఇక్కడ విచారానికి లొంగిపోయాడనే వైరుధ్యాన్ని వర్ణించడానికి ఈ పేరు వాడబడింది. — భగవద్గీత (2.9)"
+    }
+  },
+  {
+    "id": "bg-2-9-q3",
+    "verse": { "c": 2, "s": 9 },
+    "concept": ["Epithets of Krishna - Hṛṣīkeśa & Govinda"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "What do the names 'Hṛṣīkeśa' and 'Govinda' signify in the context of verse 2.9?",
+      "te": "2.9 శ్లోక సందర్భంలో 'హృషీకేశ' మరియు 'గోవింద' అనే నామాల విశిష్టార్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Hṛṣīkeśa = Master/Director of the senses; Govinda = Giver of pleasure to the senses/cows/land. Arjuna addresses Him who controls all senses to direct his confused senses.",
+        "te": "హృషీకేశ = ఇంద్రియాలకు అధిపతి/నియంత్రకుడు; గోవింద = ఇంద్రియములకు/గోవులకు/భూమికి ఆనందాన్ని ఇచ్చేవాడు. తన కలతబారిన ఇంద్రియాలను చక్కదిద్దగల సర్వేంద్రియ నియంత అయిన కృష్ణుడిని అర్జునుడు ఆశ్రయించాడని భావం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Hṛṣīkeśa = Slayer of demons; Govinda = Ruler of Mathura.",
+        "te": "హృషీకేశ = రాక్షస సంహారి; గోవింద = మథురాధిపతి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Hṛṣīkeśa = Charioteer of Pandavas; Govinda = Friend of Draupadi.",
+        "te": "హృషీకేశ = పాండవ సారథి; గోవింద = ద్రౌపది మిత్రుడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Hṛṣīkeśa = Lord of wealth; Govinda = Master of weapons.",
+        "te": "హృషీకేశ = సంపదలకు ప్రభువు; గోవింద = ఆయుధాల మాంత్రికుడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Hṛṣīka' (senses) + 'īśa' (lord) = 'Hṛṣīkeśa' (Lord of Senses). 'Go' (senses/cows/vedas) + 'vinda' (protector/pleaser) = 'Govinda'. By using these names, Sanjaya highlights that Krishna is the ultimate controller who can align Arjuna's erratic senses and mind. — Bhagavad Gita (2.9)",
+      "te": "'హృషీక' (ఇంద్రియములు) + 'ఈశ' (ప్రభువు) = హృషీకేశుడు. 'గో' (ఇంద్రియాలు/గోవులు/వేదాలు) + 'వింద' (రక్షకుడు) = గోవిందుడు. అర్జునుడి వశంతప్పిన ఇంద్రియాలను సంస్కరించగల ఏకైక సమర్థుడు కృష్ణుడేనని ఈ నామాలు నిరూపిస్తున్నాయి. — భగవద్గీత (2.9)"
+    }
+  },
+  {
+    "id": "bg-2-9-q4",
+    "verse": { "c": 2, "s": 9 },
+    "concept": ["Declarative Refusal - Na Yotsye"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Which direct statement in verse 2.9 encapsulates Arjuna's refusal to engage in battle?",
+      "te": "2.9 శ్లోకంలో అర్జునుడు యుద్ధం చేయనని స్పష్టంగా పలికిన ప్రత్యక్ష వాక్యం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "“Na yotsya” (Na yotsye iti - \"I shall not fight\")",
+        "te": "“న యోత్స్య” (న యోత్స్యే ఇతి - \"నేను యుద్ధము చేయను\")",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "“Tūṣṇīṃ babhūva” (\"He became silent\")",
+        "te": "“తూష్ణీం బభూవ” (\"మౌనంగా ఉండిపోయెను\")",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "“Evam uktvā” (\"Having spoken thus\")",
+        "te": "“ఏవముక్త్వా” (\"ఈ విధంగా పలికి\")",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "“Parantapaḥ” (\"O scorcher of enemies\")",
+        "te": "“పరంంతపః” (\"శత్రువులను తపింపజేసేవాడు\")",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Na' (not) + 'yotsye' (1st person singular future Ātmanepada of 'yudh' = I will fight) + 'iti' (thus). Arjuna's crisp, unequivocal words to Krishna are: 'Na yotsye'—'I will not fight'. — Bhagavad Gita (2.9)",
+      "te": "'న' (కాదు/చేయను) + 'యోత్స్యే' (నేను పోరాడెదను - భవిష్యత్కాలం) + 'ఇతి' (అని). కృష్ణుడితో అర్జునుడు తేల్చిచెప్పిన మాటలు — \"న యోత్స్యే\" (నేను పోరాడను). — భగవద్గీత (2.9)"
+    }
+  },
+  {
+    "id": "bg-2-9-q5",
+    "verse": { "c": 2, "s": 9 },
+    "concept": ["Sanskrit Grammar - Verb 'Babhūva' & 'Yotsye'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Analyse the grammatical forms of 'yotsye' and 'babhūva' in verse 2.9:",
+      "te": "2.9 శ్లోకంలోని 'యోత్స్యే' మరియు 'బభూవ' అనే క్రియాపదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Yotsye = 1st person singular Future tense Ātmanepada (Lṛṭ-lakāra) from root 'yudh' ('I shall fight'); Babhūva = 3rd person singular Perfect past tense (Liṭ-lakāra) from root 'bhū' ('he became').",
+        "te": "యోత్స్యే = 'యుధ్' ధాతువు యొక్క లృట్ లకార (భవిష్యత్కాల) ఆత్మనేపద ఉత్తమ పురుష ఏకవచన రూపం ('నేను పోరాడెదను'); బభూవ = 'భూ' ధాతువు యొక్క లిట్ లకార (పరోక్ష భూతకాల) ప్రథమ పురుష ఏకవచన రూపం ('అతడు ఆయెను/ఆయెను').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Yotsye = Present tense verb; Babhūva = Future tense verb.",
+        "te": "యోత్స్యే = వర్తమానకాల రూపం; బభూవ = భవిష్యత్కాల రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Yotsye = Imperative verb; Babhūva = Optative verb.",
+        "te": "యోత్స్యే = ఆజ్ఞార్థక రూపం; బభూవ = విధి-లిఙ్ రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yotsye = Passive verb; Babhūva = Active participle.",
+        "te": "యోత్స్యే = కర్మణి రూపం; బభూవ = వర్తమాన విశేషణం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yotsye' is 1st person singular Lṛṭ-lakāra of root 'yudh' (yotsyate, yotsyete, yotsyante ... yotsye). 'Babhūva' is 3rd person singular Liṭ-lakāra (remote past/narrative past) of root 'bhū' (babhūva, babhūvathuḥ, babhūvuḥ). — Bhagavad Gita (2.9)",
+      "te": "'యోత్స్యే' అనేది 'యుధ్' ధాతువు యొక్క భవిష్యత్కాల ఉత్తమ పురుష ఏకవచనం (న యోత్స్యే = నేను పోరాడను). 'బభూవ' అనేది 'భూ' (అవుట) ధాతువు యొక్క లిట్ లకార (కథానక భూతకాల) ప్రథమ పురుష ఏకవచన రూపం (తూష్ణీం బభూవ = మౌనం వహించెను). — భగవద్గీత (2.9)"
+    }
+  },
+  {
+    "id": "bg-2-9-q6",
+    "verse": { "c": 2, "s": 9 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "sanjaya",
+    "q": {
+      "en": "Break down the Sandhi combinations in 'evamuktvā', 'yotsyaiti', and 'govindamuktvā' in verse 2.9:",
+      "te": "2.9 శ్లోకంలోని 'ఏవముక్త్వా', 'యోత్స్య ఇతి' మరియు 'గోవిందముక్త్వా' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Evam + uktvā -> evamuktvā; yotsye + iti -> yotsya iti (Ayādeśa Sandhi: 'e' becomes 'ay', and 'y' is dropped before 'i'); govindaṃ + uktvā -> govindamuktvā.",
+        "te": "ఏవమ్ + ఉక్త్వా -> ఏవముక్త్వా; యోత్స్యే + ఇతి -> యోత్స్య ఇతి (అయావాదేశ సంధి: 'ఏ' స్థానంలో 'అయ్' వచ్చి, 'య్' లోపించి 'యోత్స్య ఇతి' అయినది); గోవిందమ్ + ఉక్త్వా -> గోవిందముక్త్వా.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Evā + muktvā; yotsya + iti; govinda + muktvā",
+        "te": "ఏవా + ముక్త్వా; యోత్స్య + ఇతి; గోవింద + ముక్త్వా",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Evamu + ktvā; yotsye + ti; govindan + uktvā",
+        "te": "ఏవము + క్త్వా; యోత్స్యే + తి; గోవిందన్ + ఉక్త్వా",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Evam + uktvā; yotsyai + iti; govindas + uktvā",
+        "te": "ఏవమ్ + ఉక్త్వా; యోత్స్యై + ఇతి; గోవిందస్ + ఉక్త్వా",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Evam' + 'uktvā' = 'evamuktvā' (consonant 'm' joins vowel 'u'). 2. 'Yotsye' + 'iti': 'e' turns to 'ay' via Ayādeśa Sandhi; the 'y' is elided before vowel 'i', leaving 'yotsya iti'. 3. 'Govindaṃ' + 'uktvā' = 'govindamuktvā'. — Bhagavad Gita (2.9)",
+      "te": "1. 'ఏవమ్' + 'ఉక్త్వా' = 'ఏవముక్త్వా'. 2. 'యోత్స్యే' + 'ఇతి' లలో అయావాదేశ సంధి ప్రకారం 'ఏ' స్థానంలో 'అయ్' వచ్చి, పొల్లు 'య్' లోపించడం వల్ల 'యోత్స్య ఇతి' అని రూపమేర్పడింది. 3. 'గోవిందమ్' + 'ఉక్త్వా' = 'గోవిందముక్త్వా'. — భగవద్గీత (2.9)"
+    }
+  }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "id": "bg-2-70-q1",
+    "verse": { "c": 2, "s": 70 },
+    "concept": ["Verse Meaning & The Ocean Metaphor for Mental Peace"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.70?\n\n“āpūryamāṇamacalapratiṣṭhaṃ samudramāpaḥ praviśanti yadvat | tadvatkāmā yaṃ praviśanti sarve sa śāntimāpnoti na kāmakāmī”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“ఆపూర్యమాణమచలప్రతిష్ఠం సముద్రమాపః ప్రవిశంతి యద్వత్ | తద్వత్కామా యం ప్రవిశంతి సర్వే స శాంతిమాప్నోతి న కామకామీ”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Just as the ocean remains filled on all sides and motionless though waters continually enter it, so the person into whom all sensory desires enter without causing disturbance attains peace, not the person who desires desires (chases enjoyments).",
+        "te": "శ్రీభగవానుడు పలికెను — నదుల జలాలు నిరంతరం వచ్చి చేరుతున్నప్పటికీ సముద్రము ఏ విధంగానైతే పొంగిపొర్లక, అచలముగా (నిశ్చలముగా) పరిపూర్ణమై ఉంటుందో... అదే విధంగా సమస్త భోగ విషయాలు (కోరికలు) తనలోకి ప్రవేశించినప్పటికీ వికారము చెందని ఆత్మజ్ఞాని మాత్రమే శాంతిని పొందుతాడు కానీ, కామకామి (కోరికలను ఆశించేవాడు) శాంతిని పొందలేడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Just as a small lake overflows when rainwater enters, a wise sage becomes agitated whenever sensory temptations arrive.",
+        "te": "శ్రీభగవానుడు పలికెను — వర్షపు నీరు చేరగానే చిన్న చెరువు పొంగిపొర్లునట్లే, ఇంద్రియ ఆకర్షణలు రాగానే జ్ఞాని కూడా కలత చెందుతాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — True peace is attained only by those who physically isolate themselves from rivers and oceans on top of mountains.",
+        "te": "శ్రీభగవానుడు పలికెను — పర్వత శిఖరాలపై నదులు, సముద్రాలకు దూరంగా ఏకాంతంగా జీవించేవారు మాత్రమే నిజమైన శాంతిని పొందుతారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — A person who constantly desires sensory enjoyments (kāma-kāmī) is the one who ultimately reaches permanent spiritual peace.",
+        "te": "శ్రీభగవానుడు పలికెను — నిరంతరం ఇంద్రియ భోగాలను కోరుకునే కామకామి మాత్రమే అంతిమంగా శాశ్వత ఆధ్యాత్మిక శాంతిని సాధిస్తాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Āpūryamāṇam acala-pratiṣṭhaṃ samudram āpaḥ praviśanti yadvat / tadvat kāmā yaṃ praviśanti sarve sa śāntim āpnoti na kāma-kāmī.\" Krishna compares the enlightened sage to the vast ocean ('samudra-dṛṣṭānta'). Streams of sensory experience ('kāmāḥ / āpaḥ') enter the sage's awareness without altering or agitating his deep inner stillness ('acala-pratiṣṭham'). Because he is internally full ('āpūryamāṇam'), he attains peace ('sa śāntim āpnoti'). In contrast, a person who chases desires ('kāma-kāmī') remains perpetually agitated and peaceless. — Bhagavad Gita (2.70)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ ఆత్మజ్ఞానిని ప్రశాంత మహాసముద్రంతో పోల్చాడు ('సముద్ర దృష్టాంతము'). అనేక నదులు ('ఆపః/విషయాలు') వచ్చి చేరుతున్నప్పటికీ సముద్రం ఏ విధంగా తన గంభీర నిశ్చలత్వాన్ని ('అచలప్రతిష్ఠమ్') వీడదో... జ్ఞాని చిత్తంలోకి సమస్త విషయ అనుభవాలు ('కామాః') ప్రవేశించినా అతడు పరిపూర్ణుడై ('ఆపూర్యమాణమ్') ప్రశాంతంగా ఉంటాడు. కానీ విషయాలను ఆరాటంగా వెతుక్కుంటూ వెళ్లే 'కామకామి' ఎన్నటికీ శాంతిని పొందలేడు. — భగవద్గీత (2.70)"
+    }
+  },
+  {
+    "id": "bg-2-70-q2",
+    "verse": { "c": 2, "s": 70 },
+    "concept": ["Philosophical Analogy - The Ocean Metaphor (Samudra-Dṛṣṭānta)"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "In the ocean metaphor of verse 2.70, what do the 'Ocean' (Samudra) and the 'Entering Waters' (Āpaḥ) respectively represent?",
+      "te": "2.70 శ్లోకంలోని సముద్ర రూపకంలో 'సముద్రము' మరియు 'ప్రవేశించే జలాలు' (ఆపః) వరుసగా దేనికి ప్రతీకలు?"
+    },
+    "choices": [
+      {
+        "en": "Ocean = The self-realized sage who is eternally full and unshakable in the Self; Entering Waters = Worldly sensory experiences and temptations that present themselves naturally.",
+        "te": "సముద్రము = ఆత్మ యందు పరిపూర్ణుడై అచలంగా ఉండే ఆత్మజ్ఞాని; ప్రవేశించే జలాలు = సహజంగా తటస్థించే లౌకిక ఇంద్రియ విషయాలు, అనుభవాలు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Ocean = Physical battleground; Entering Waters = Enemy weapons.",
+        "te": "సముద్రము = భౌతిక రణరంగము; ప్రవేశించే జలాలు = శత్రువుల ఆయుధాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Ocean = Royal palace; Entering Waters = Gold and taxes paid by citizens.",
+        "te": "సముద్రము = రాజప్రాసాదము; ప్రవేశించే జలాలు = ప్రజలు చెల్లించే బంగారం, పన్నులు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Ocean = Uncontrolled mind; Entering Waters = Divine virtues from gods.",
+        "te": "సముద్రము = అదుపులేని మనస్సు; ప్రవేశించే జలాలు = దేవతల నుండి వచ్చే దివ్య గుణాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The ocean is naturally 'āpūryamāṇam' (filled to capacity by its own nature) and 'acala-pratiṣṭham' (unwaveringly established). Rivers enter it without making it cross its boundaries. Similarly, desirable or undesirable objects ('kāmāḥ') present themselves to a Sthitaprajña without creating desire, aversion, or agitation in his mind. — Bhagavad Gita (2.70)",
+      "te": "సముద్రము తన స్వభావం చేతనే 'ఆపూర్యమాణమ్' (పరిపూర్ణమైనది), 'అచలప్రతిష్ఠమ్' (మేర దాటని నిశ్చలమైనది). నదులు వచ్చి కలిసినా అది తన హద్దులను దాటదు. అలాగే జ్ఞాని వద్దకు ఎలాంటి ఇంద్రియ భోగాలు ('కామాః') వచ్చినా, అతని అంతరంగంలో ఎలాంటి వికారము లేదా కలత ఉత్పన్నం కాదు. — భగవద్గీత (2.70)"
+    }
+  },
+  {
+    "id": "bg-2-70-q3",
+    "verse": { "c": 2, "s": 70 },
+    "concept": ["Psychological Contrast - Sa Śāntim Āpnoti vs Na Kāma-kāmī"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Who is a 'Kāma-kāmī', and why is he contrasted with the peaceful sage in verse 2.70?",
+      "te": "2.70 శ్లోకంలో 'కామకామి' అని ఎవరిని పిలిచారు, ప్రశాంతమైన ఆత్మజ్ఞానితో అతడిని ఎందుకు పోల్చి వ్యత్యాసాన్ని చూపించారు?"
+    },
+    "choices": [
+      {
+        "en": "A Kāma-kāmī is one who hungrily longs for and chases after sense objects; he can never attain peace because his happiness depends on external, fluctuating worldly gains.",
+        "te": "కామకామి అనగా నిరంతరం భౌతిక కామ్య విషయాలను ఆశిస్తూ, వాటి వెంటే పరుగెత్తే తృష్ణ గలవాడు; అతడి ఆనందం అశాశ్వత భౌతిక వస్తువులపై ఆధారపడి ఉంటుంది కాబట్టి అతడు ఎన్నటికీ శాంతిని పొందలేడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "A Kāma-kāmī is an ascetic who has completely renounced all worldly duties.",
+        "te": "కామకామి అనగా సమస్త లౌకిక కర్తవ్యాలను సంపూర్ణంగా త్యజించిన సన్యాసి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "A Kāma-kāmī is a warrior who fights only for the sake of royal glory.",
+        "te": "కామకామి అనగా కేవలం రాజ్య కీర్తి కోసమే పోరాడే యోధుడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "A Kāma-kāmī is a scholar who studies Vedic grammar without devotion.",
+        "te": "కామకామి అనగా భక్తి లేకుండా వేద వ్యాకరణాన్ని చదివే పండితుడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Kāma' (desire) + 'kāmī' (one who desires) = 'Kāma-kāmī' (a luster after desires). A Kāma-kāmī treats sense objects as sources of happiness, constantly being tossed by attachment and disappointment. The sage, being 'Ātmany eva tuṣṭaḥ' (satisfied in the Self alone), absorbs all external experiences without becoming a victim to them. — Bhagavad Gita (2.70)",
+      "te": "'కామ' (కోరికలను) + 'కామి' (కోరుకునేవాడు) = కామకామి (విషయ కాంక్షల వెంట పడేవాడు). కామకామి విషయ వస్తువులలో ఆనందాన్ని వెతుకుతూ నిరంతరం నిరాశా నిస్పృహల అలలలో కొట్టుమిట్టాడుతుంటాడు. కానీ ఆత్మజ్ఞాని స్వయంగా ఆత్మానంద పరిపూర్ణుడు కాబట్టి బాహ్య విషయాల చేత ప్రభావితం కాడు. — భగవద్గీత (2.70)"
+    }
+  },
+  {
+    "id": "bg-2-70-q4",
+    "verse": { "c": 2, "s": 70 },
+    "concept": ["Sanskrit Vocabulary - Full to Capacity, Unmoving, Waters"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'āpūryamāṇam', 'acala-pratiṣṭham', and 'āpaḥ' mean in verse 2.70?",
+      "te": "2.70 శ్లోకంలోని 'ఆపూర్యమాణమ్', 'అచలప్రతిష్ఠమ్', మరియు 'ఆపః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Āpūryamāṇam = Filled from all sides / completely full; Acala-pratiṣṭham = Unwavering / immovably established; Āpaḥ = Waters / rivers / streams.",
+        "te": "ఆపూర్యమాణమ్ = నలువైపుల నుండి పరిపూర్ణమైనట్టి; అచలప్రతిష్ఠమ్ = కదలిక లేని స్థిరత్వము గల / హద్దులు దాటని; ఆపః = ఉదకములు / జలములు / నదీ ప్రవాహాలు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Āpūryamāṇam = Empty; Acala-pratiṣṭham = Moving fast; Āpaḥ = Fires.",
+        "te": "ఆపూర్యమాణమ్ = శూన్యమైన; అచలప్రతిష్ఠమ్ = వేగంగా కదిలే; ఆపః = అగ్నులు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Āpūryamāṇam = Broken; Acala-pratiṣṭham = Royal seat; Āpaḥ = Weapons.",
+        "te": "ఆపూర్యమాణమ్ = పగిలిన; అచలప్రతిష్ఠమ్ = రాజసింహాసనం; ఆపః = ఆయుధాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Āpūryamāṇam = Small; Acala-pratiṣṭham = Mountain peak; Āpaḥ = Winds.",
+        "te": "ఆపూర్యమాణమ్ = చిన్నదైన; అచలప్రతిష్ఠమ్ = పర్వత శిఖరం; ఆపః = ఈగలు/గాలులు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Ā' (fully) + 'pūryamāṇam' (being filled) = 'Āpūryamāṇam' (eternally full). 'Acala' (immovable) + 'pratiṣṭhā' (foundation) = 'Acala-pratiṣṭham' (unshakably grounded). 'Āpaḥ' is Nominative Plural Feminine of 'ap' (waters). — Bhagavad Gita (2.70)",
+      "te": "'ఆ' (సమగ్రముగా) + 'పూర్యమాణమ్' (నింపబడుచున్నది) = ఆపూర్యమాణమ్ (పరిపూర్ణమైనది). 'అచల' (చలనం లేని) + 'ప్రతిష్ఠా' (పునాది) = అచలప్రతిష్ఠమ్ (నిశ్చలమైనది). 'అప్' శబ్ద ప్రథమా బహువచనం 'ఆపః' (జలాలు). — భగవద్గీత (2.70)"
+    }
+  },
+  {
+    "id": "bg-2-70-q5",
+    "verse": { "c": 2, "s": 70 },
+    "concept": ["Sanskrit Grammar - Present Participle 'Āpūryamāṇam' & Verb 'Āpnoti'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical structure of 'āpūryamāṇam' and 'āpnoti' in verse 2.70:",
+      "te": "2.70 శ్లోకంలోని 'ఆపూర్యమాణమ్' మరియు 'ఆప్నోతి' అనే పదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Āpūryamāṇam = Accusative Singular Masculine Present Passive Participle (Śānac-pratyaya) qualifying 'samudram' (the ocean which is being filled); Āpnoti = 3rd person singular Present active indicative (Laṭ-lakāra) from root 'āp' (he attains / reaches).",
+        "te": "ఆపూర్యమాణమ్ = 'ఆ' ఉపసర్గతో 'పూర్' ధాతువు యొక్క శానచ్ ప్రత్యయాంత (Present Passive Participle) ద్వితీయా ఏకవచన పుంలింగ రూపం ('పరిపూర్ణమవుతున్నట్టి' - 'సముద్రమ్' అను పదానికి విశేషణం); ఆప్నోతి = 'ఆప్' (పొందు) ధాతువు లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ఏకవచన పరస్మైపద క్రియ ('పొందును').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Āpūryamāṇam = Nominative Plural Noun; Āpnoti = Past tense verb.",
+        "te": "ఆపూర్యమాణమ్ = ప్రథమా బహువచన నామవాచకం; ఆప్నోతి = భూతకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Āpūryamāṇam = Instrumental Noun; Āpnoti = Imperative verb.",
+        "te": "ఆపూర్యమాణమ్ = తృతీయా విభక్తి నామవాచకం; ఆప్నోతి = ఆజ్ఞార్థక క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Āpūryamāṇam = Genitive Noun; Āpnoti = Future tense verb.",
+        "te": "ఆపూర్యమాణమ్ = షష్ఠీ విభక్తి నామవాచకం; ఆప్నోతి = భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Āpūryamāṇam' describes the ocean ('samudram') in its passive state of receiving water without swelling over boundaries. 'Āpnoti' completes the main clause: 'saḥ śāntim āpnoti' = 'he attains peace'. — Bhagavad Gita (2.70)",
+      "te": "'ఆపూర్యమాణమ్' అనేది నిరంతరం నీరు వచ్చి చేరుతున్న సముద్రం యొక్క స్థితిని తెలిపే కర్మణి వర్తమాన విశేషణం. 'సః శాంతిమ్ ఆప్నోతి' (అతడు శాంతిని పొందుతున్నాడు) అను వాక్యంలో 'ఆప్నోతి' క్రియగా నిలిచింది. — భగవద్గీత (2.70)"
+    }
+  },
+  {
+    "id": "bg-2-70-q6",
+    "verse": { "c": 2, "s": 70 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'samudramāpaḥ' and 'śāntimāpnoti' in verse 2.70:",
+      "te": "2.70 శ్లోకంలోని 'సముద్రమాపః' మరియు 'శాంతిమాప్నోతి' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Samudram + āpaḥ -> samudram āpaḥ (direct combination of nasal stop 'm' with initial vowel 'ā'); śāntim + āpnoti -> śāntim āpnoti (direct combination of nasal stop 'm' with initial vowel 'ā').",
+        "te": "సముద్రమ్ + ఆపః -> సముద్రమాపః (పొల్లు 'మ్' అచ్చు 'ఆ' తో సూటిగా సంయోగం చెందుట); శాంతిమ్ + ఆప్నోతి -> శాంతిమాప్నోతి (పొల్లు 'మ్' అచ్చు 'ఆ' తో సూటిగా సంయోగం చెందుట).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Samudra + āpaḥ -> samudrāpaḥ; śānti + āpnoti -> śāntyāpnoti",
+        "te": "సముద్ర + ఆపః -> సముద్రాపః; శాంతి + ఆప్నోతి -> శాంత్యాప్నోతి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Samudran + āpaḥ -> samudranāpaḥ; śāntin + āpnoti -> śāntināpnoti",
+        "te": "సముద్రన్ + ఆపః -> సముద్రనాపః; శాంతిన్ + ఆప్నోతి -> శాంతినాప్నోతి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Samudraḥ + āpaḥ -> samudrahāpaḥ; śāntiḥ + āpnoti -> śāntihāpnoti",
+        "te": "సముద్రః + ఆపః -> సముద్రహాపః; శాంతిః + ఆప్నోతి -> శాంతిహాపః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Samudram' (Accusative Singular) + 'āpaḥ' (Nominative Plural): final consonant 'm' combines directly with initial long vowel 'ā' -> 'samudram āpaḥ'. 2. 'Śāntim' (Accusative Singular) + 'āpnoti' (verb): final consonant 'm' combines directly with initial long vowel 'ā' -> 'śāntim āpnoti'. — Bhagavad Gita (2.70)",
+      "te": "1. 'సముద్రమ్' + 'ఆపః' లలో పొల్లు వ్యంజనము 'మ్' అచ్చు 'ఆ' తో కలసి 'సముద్రమాపః' అయినది. 2. 'శాంతిమ్' + 'ఆప్నోతి' లలో పొల్లు వ్యంజనము 'మ్' అచ్చు 'ఆ' తో కలసి 'శాంతిమాప్నోతి' అని సిద్ధించింది. — భగవద్గీత (2.60)",
+      "correct": true,
+      "id": "a"
+    }
+  }
+]

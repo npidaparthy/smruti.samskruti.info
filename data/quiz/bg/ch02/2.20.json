@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-20-q1",
+    "verse": { "c": 2, "s": 20 },
+    "concept": ["Verse Meaning & Immortality of Atman"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.20?\n\n“na jāyate mriyate vā kadācin nāyaṃ bhūtvā bhavitā vā na bhūyaḥ | ajo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“న జాయతే మ్రియతే వా కదాచిన్ నాయం భూత్వా భవితా వా న భూయః | అజో నిత్యః శాశ్వతోఽయం పురాణో న హన్యతే హన్యమానే శరీరే”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — The Soul is never born, nor does it ever die; nor having once been, does it ever cease to be. It is unborn, eternal, everlasting, and ancient. It is not slain when the body is slain.",
+        "te": "శ్రీభగవానుడు పలికెను — ఆత్మ ఏ కాలంలోనూ జన్మించదు, మరణించదు; ఒకసారి ఉండి, మళ్లీ లేకుండాపోయేది కాదు. ఇది అజము (జన్మ లేనిది), నిత్యము, శాశ్వతము, పురాణము (అనాదిగా ఉన్నది). దేహము నశించినప్పటికీ ఆత్మ చంపబడదు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — The soul undergoes subtle rebirths in heavenly worlds after the physical body is slain in battle.",
+        "te": "శ్రీభగవానుడు పలికెను — యుద్ధంలో భౌతిక దేహం నశించిన తర్వాత ఆత్మ స్వర్గలోకాలలో సూక్ష్మ పునర్జన్మలను పొందుతుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Physical bodies are eternal and ancient, while the individual soul is created newly at the time of birth.",
+        "te": "శ్రీభగవానుడు పలికెను — భౌతిక దేహాలు నిత్యమైనవి, పురాతనమైనవి, కానీ వ్యక్తిగత ఆత్మ జన్మ సమయంలో కొత్తగా సృష్టించబడుతుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — He who slays another person destroys both the physical body and the ancient soul of that individual.",
+        "te": "శ్రీభగవానుడు పలికెను — ఒక వ్యక్తిని చంపేవాడు ఆ వ్యక్తి యొక్క భౌతిక శరీరాన్ని మరియు అనాది ఆత్మను రెండింటినీ నాశనం చేస్తాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Na jāyate mriyate vā kadācin nāyaṃ bhūtvā bhavitā vā na bhūyaḥ / ajo nityaḥ śāśvato 'yaṃ purāṇo na hanyate hanyamāne śarīre.\" This verse synthesizes the core Vedantic truth: the Ātman is free from the six physical modifications of existence (Ṣaḍ-bhāva-vikāra). While the physical shell ('śarīre') is slain, the Self remains untouched and eternal. — Bhagavad Gita (2.20)",
+      "te": "ఆత్మతత్త్వం యొక్క పరమోన్నత సత్యం ఈ శ్లోకంలో వర్ణించబడింది. ఆత్మ దేహం యొక్క ఆరు రకాల వికారాలకు (జన్మ, ఉనికి, పెరుగుదల, మార్పు, క్షీణత, నాశనం) అతీతమైనది. శరీరం ('శరీరే') నాశనమైనప్పటికీ ఆత్మ ఎన్నటికీ నాశనం కానట్టిది. — భగవద్గీత (2.20)"
+    }
+  },
+  {
+    "id": "bg-2-20-q2",
+    "verse": { "c": 2, "s": 20 },
+    "concept": ["Six Bodily Modifications - Ṣaḍbhāvavikāra Refutation"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "How does verse 2.20 systematically negate the six classical bodily modifications (Ṣaḍ-bhāva-vikāra) for the Ātman?",
+      "te": "2.20 శ్లోకం దేహానికి వర్తించే ఆరు వికారాలను (షడ్భావ వికారాలను) ఆత్మకు రద్దు చేస్తూ ఏ విధంగా నిరూపిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "1. Na jāyate (no birth), 2. Na mriyate (no death), 3. Nāyaṃ bhūtvā bhavitā vā na bhūyaḥ (no initial non-existence or growth/change), 4. Ajaḥ (unborn), 5. Śāśvataḥ/Purāṇaḥ (does not decay/decay-less ancient), 6. Na hanyate (does not get destroyed).",
+        "te": "1. న జాయతే (జన్మ లేదు), 2. న మ్రియతే (మరణం లేదు), 3. నాయం భూత్వా భవితా వా న భూయః (ఉత్పత్తి లేదా అభావ పరిణామాలు లేవు), 4. అజః (పుట్టుక లేనిది), 5. శాశ్వతః/పురాణః (క్షీణత/మార్పు లేనిది), 6. న హన్యతే (వినాశనం లేనిది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "By stating that the soul changes shapes through six stages from boyhood to salvation.",
+        "te": "ఆత్మ బాల్యం నుండి మోక్షం వరకు ఆరు దశలలో రూపాలను మార్చుకుంటుందని చెప్పడం ద్వారా.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "By proving that only six celestial gods possess bodies that cannot be slain.",
+        "te": "కేవలం ఆరుగురు దేవతలు మాత్రమే నాశనం లేని దేహాలను కలిగి ఉన్నారని నిరూపించడం ద్వారా.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "By declaring that six types of weapons are unable to pierce the physical heart.",
+        "te": "ఆరు రకాల ఆయుధాలు భౌతిక హృదయాన్ని ఛేదించలేవని ప్రకటించడం ద్వారా.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In classical philosophy, matter undergoes six modifications (Ṣaḍ-bhāva-vikāra): birth (jāyate), existence (asti), growth (vardhate), transformation (vipariṇamate), decay (apakṣīyate), and destruction (naśyati). Verse 2.20 refutes every one of these for the Ātman: it is birthless, deathless, changeless, and eternal. — Bhagavad Gita (2.20)",
+      "te": "వైదాంతిక దర్శనంలో భౌతిక పదార్థాలకు ఆరు వికారాలు ఉంటాయి: జాయతే (పుట్టుక), అస్తి (ఉండుట), వర్ధతే (పెరుగుట), విపరిణమతే (మారుట), అపక్షీయతే (క్షీణించుట), నశ్యతి (నశించుట). ఈ శ్లోకంలో కృష్ణుడు ఈ ఆరింటినీ ఆత్మకు తిరస్కరించి, ఆత్మ వికారరహితమైనదని స్థిరపరిచాడు. — భగవద్గీత (2.20)"
+    }
+  },
+  {
+    "id": "bg-2-20-q3",
+    "verse": { "c": 2, "s": 20 },
+    "concept": ["Four Eternal Attributes - Ajaḥ, Nityaḥ, Śāśvataḥ, Purāṇaḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the four direct attributes 'Ajaḥ', 'Nityaḥ', 'Śāśvataḥ', and 'Purāṇaḥ' collectively signify regarding the Ātman in verse 2.20?",
+      "te": "2.20 శ్లోకంలో ఆత్మను సూచించే 'అజః', 'నిత్యః', 'శాశ్వతః', 'పురాణః' అనే నాలుగు విశేషణ పదాల సమగ్ర ఆధ్యాత్మిక భావం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Ajaḥ = Unborn (no origin); Nityaḥ = Eternal (no end); Śāśvataḥ = Ever-existing / changeless; Purāṇaḥ = Ancient / timeless (new even while ancient).",
+        "te": "అజః = జన్మ లేనిది (ఆది లేనిది); నిత్యః = నిత్యమైనది (అంతం లేనిది); శాశ్వతః = నిరంతరం ఒకేలా ఉండేది (పరిణామం లేనిది); పురాణః = సనాతనమైనది (ఎంత పురాతనమైనదైనా ఎల్లప్పుడూ నూతనంగా ఉండేది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Ajaḥ = Unseen; Nityaḥ = Pure; Śāśvataḥ = Holy; Purāṇaḥ = Written in books.",
+        "te": "అజః = కనిపించనిది; నిత్యః = పవిత్రమైనది; శాశ్వతః = పుణ్యవంతమైనది; పురాణః = గ్రంథాలలో రాయబడినది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Ajaḥ = Formless; Nityaḥ = Light-filled; Śāśvataḥ = Small; Purāṇaḥ = Old-aged.",
+        "te": "అజః = రూపం లేనిది; నిత్యః = కాంతివంతమైనది; శాశ్వతః = చిన్నదైనది; పురాణః = వృద్ధాప్యం పొందినది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Ajaḥ = Royal; Nityaḥ = Powerful; Śāśvataḥ = Victorious; Purāṇaḥ = Wise.",
+        "te": "అజః = రాజసం గలది; నిత్యః = శక్తివంతమైనది; శాశ్వతః = విజయం సాధించేది; పురాణః = జ్ఞానము గలది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The four descriptors define absolute timelessness: 'Aja' (free from birth), 'Nitya' (free from death), 'Śāśvata' (free from decay/decline), and 'Purāṇa' ('pura api navaḥ' - ancient yet fresh/unaffected by passage of time). — Bhagavad Gita (2.20)",
+      "te": "ఈ నాలుగు పదాలూ ఆత్మ యొక్క కాలాతీతత్వాన్ని ప్రకటిస్తున్నాయి: 'అజః' (జన్మ రాహిత్యము), 'నిత్యః' (మరణ రాహిత్యము), 'శాశ్వతః' (క్షయ రాహిత్యము), 'పురాణః' ('పురా అపి నవః' - ఎంత అనాదియైనదైనా ఎప్పటికీ నూతనంగా ప్రకాశించేది). — భగవద్గీత (2.20)"
+    }
+  },
+  {
+    "id": "bg-2-20-q4",
+    "verse": { "c": 2, "s": 20 },
+    "concept": ["Vedic Connection - Katha Upanishad Intertextuality"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which Upanishadic mantra is directly quoted/paraphrased in verse 2.20?",
+      "te": "2.20 శ్లోకంలో ఉటంకించబడిన/అక్షరాలా పోలి ఉన్న ఉపనిషత్తు మంత్రం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Katha Upanishad (1.2.18): “Na jāyate mriyate vā vipaścin nāyaṃ kutaścin na babhūva kaścit | Ajo nityaḥ śāśvato 'yaṃ purāṇo na hanyate hanyamāne śarīre”",
+        "te": "కఠోపనిషత్తు (1.2.18): “న జాయతే మ్రియతే వా విపశ్చిన్ నాయం కుతశ్చిన్ న బభూవ కశ్చిత్ | అజో నిత్యః శాశ్వతోఽయం పురాణో న హన్యతే హన్యమానే శరీరే”",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Mundaka Upanishad (3.1.1): “Dvā suparṇā sayujā sakhāyā...”",
+        "te": "ముండకోపనిషత్తు (3.1.1): “ద్వా సుపర్ణా సయుజా సఖాయా...”",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Taittiriya Upanishad (2.1): “Satyaṃ jñānam anantaṃ brahma...”",
+        "te": "తైత్తిరీయోపనిషత్తు (2.1): “సత్యం జ్ఞానమనంతం బ్రహ్మ...”",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Brihadaranyaka Upanishad (1.4.10): “Ahaṃ brahmāsmi...”",
+        "te": "బృహదారణ్యకోపనిషత్తు (1.4.10): “అహం బ్రహ్మాస్మి...”",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Verse 2.20 is nearly identical word-for-word to Katha Upanishad 1.2.18 (spoken by Yama to Nachiketa). This reinforces that the Gita is the milk distilled from the Upanishadic cows ('Sarvopaniṣado gāvaḥ'). — Bhagavad Gita (2.20)",
+      "te": "భగవద్గీత 2.20 శ్లోకం కఠోపనిషత్తు (1.2.18) లో యమధర్మరాజు నచికేతునికి ఉపదేశించిన మంత్రానికి దాదాపు అక్షరాలా సమానం. వేదోపనిషత్తుల సారాంశమే భగవద్గీత అనడానికి ఇది మరో నిదర్శనం. — భగవద్గీత (2.20)"
+    }
+  },
+  {
+    "id": "bg-2-20-q5",
+    "verse": { "c": 2, "s": 20 },
+    "concept": ["Sanskrit Grammar - Locative Absolute 'Hanyamāne Śarīre'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical construction 'hanyamāne śarīre' in verse 2.20:",
+      "te": "2.20 శ్లోకంలోని 'హన్యమానే శరీరే' అనే పదబంధం యొక్క వ్యాకరణ విశేషం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Locative Absolute construction (Sati-saptamī): 'śarīre' (Locative Singular of 'śarīra') + 'hanyamāne' (Locative Singular Present Passive Participle of root 'han' = 'when the body is being slain / destroyed').",
+        "te": "సతి-సప్తమి (Locative Absolute) నిర్మాణం: 'శరీరే' (సప్తమీ విభక్తి ఏకవచనం) + 'హన్యమానే' ('హన్' ధాతువు యొక్క సప్తమీ విభక్తి ఏకవచన కర్మణి వర్తమాన విశేషణం) — 'దేహము నశింపజేయబడుచుండగా / చంపబడుతున్నప్పటికీ'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nominative Singular Subject phrase meaning 'the slain body'.",
+        "te": "ప్రథమా విభక్తి ఏకవచన కర్తృ పదం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Instrumental Plural phrase meaning 'by slain bodies'.",
+        "te": "తృతీయా విభక్తి బహువచన రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Future tense active verb phrase.",
+        "te": "భవిష్యత్కాల క్రియా పదబంధం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sati-saptamī' (Locative Absolute) uses a noun and participle in the locative case to indicate a condition/temporal event: 'śarīre hanyamāne' = 'even while/when the body is being destroyed'. 'Na hanyate' = 'the Self is not destroyed'. — Bhagavad Gita (2.20)",
+      "te": "సంస్కృత వ్యాకరణంలో సతి-సప్తమి (Locative Absolute) ఒక సంఘటన జరుగుతున్నప్పటి పరిస్థితిని తెలిపే ప్రయోగం. 'శరీరే హన్యమానే' అనగా 'భౌతిక శరీరం చంపబడుతున్నప్పటికీ', ఆత్మ 'న హన్యతే' (చంపబడదు). — భగవద్గీత (2.20)"
+    }
+  },
+  {
+    "id": "bg-2-20-q6",
+    "verse": { "c": 2, "s": 20 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'nāyaṃ', 'ajo', and 'śāśvato'yaṃ' in verse 2.20:",
+      "te": "2.20 శ్లోకంలోని 'నాయమ్', 'అజో', మరియు 'శాశ్వతోఽయమ్' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Na + ayam -> nāyam (Savarna-dirgha Sandhi); ajaḥ + nityaḥ -> ajo nityaḥ (Visarga Uttva Sandhi: visarga before voiced 'n' -> 'o'); śāśvataḥ + ayam -> śāśvato 'yam (Visarga Uttva & Pūrvarūpa Sandhi).",
+        "te": "న + అయమ్ -> నాయమ్ (సవర్ణదీర్ఘ సంధి); అజః + నిత్యః -> అజో నిత్యః (విసర్గ ఉత్త్వ సంధి: ఘోష వ్యంజనం 'న' ముందు విసర్గ 'ఓ' గా మారినది); శాశ్వతః + అయమ్ -> శాశ్వతోఽయమ్ (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Na + iyam -> nāyam; aja + nityaḥ -> ajo nityaḥ; śāśvata + ayam -> śāśvato 'yam",
+        "te": "న + ఇయమ్; అజ + నిత్యః; శాశ్వత + అయమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "No + ayam -> nāyam; ajam + nityaḥ -> ajo nityaḥ; śāśvatam + ayam -> śāśvato 'yam",
+        "te": "నో + అయమ్; అజమ్ + నిత్యః; శాశ్వతమ్ + అయమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nai + ayam -> nāyam; ajaiḥ + nityaḥ -> ajo nityaḥ; śāśvatas + ayam -> śāśvato 'yam",
+        "te": "నై + అయమ్; అజైః + నిత్యః; శాశ్వతస్ + అయమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Na' + 'ayam' = 'nāyam' (Savarna-dirgha Sandhi: 'a' + 'a' -> 'ā'). 2. 'Ajaḥ' + 'nityaḥ': visarga 'ḥ' after 'a' converts to 'o' before voiced nasal 'n' -> 'ajo nityaḥ'. 3. 'Śāśvataḥ' + 'ayam': visarga converts to 'o' and initial 'a' becomes Avagraha -> 'śāśvato 'yam'. — Bhagavad Gita (2.20)",
+      "te": "1. 'న' + 'అయమ్' లలో సవర్ణదీర్ఘ సంధి జరిగి 'నాయమ్' అయినది. 2. 'అజః' + 'నిత్యః' లలో వర్గ నాసిక్య వ్యంజనం 'న' ముందు విసర్గ 'ఓ' గా మారి 'అజో నిత్యః' అయినది. 3. 'శాశ్వతః' + 'అయమ్' లలో విసర్గ ఉత్త్వ, పూర్వరూప సంధుల ద్వారా 'శాశ్వతోఽయమ్' అయినది. — భగవద్గీత (2.20)"
+    }
+  }
+]

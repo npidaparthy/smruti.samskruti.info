@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-29-q1",
+    "verse": { "c": 2, "s": 29 },
+    "concept": ["Verse Meaning & The Wonder of Self-Realization"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.29?\n\n“āścaryavatpaśyati kaścidenamāścaryavadvadati tathaiva cānyaḥ | āścaryavaccainamanyaḥ śṛṇoti śrutvāpyenaṃ veda na caiva kaścit”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“ఆశ్చర్యవత్పశ్యతి కశ్చిదేనమాశ్చర్యవద్వదతి తథైవ చాన్యః | ఆశ్చర్యవచ్చైనమన్యః శృణోతి శ్రుత్వాప్యేనం వేద న చైవ కశ్చిత్”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Someone sees this Soul as a wonder, another speaks of It as a wonder, and another hears of It as a wonder; yet even after hearing about It, no one truly knows It.",
+        "te": "శ్రీభగవానుడు పలికెను — ఒకానొకడు ఈ ఆత్మను ఆశ్చర్యముగా చూచుచున్నాడు; మరొకడు దీనిని ఆశ్చర్యముగా వర్ణించుచున్నాడు; ఇంకొకడు దీనిని ఆశ్చర్యముగా వినుచున్నాడు; కానీ వినినప్పటికీ కూడా దీనిని నిజముగా ఎరిగినవాడు ఒకడూ లేడు (అత్యంత అరుదు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Seeing celestial visions in battle fills a warrior with wonder, leading him directly to heavenly liberation.",
+        "te": "శ్రీభగవానుడు పలికెను — రణరంగంలో దివ్య దృశ్యాలను చూడటం యోధునికి ఆశ్చర్యాన్ని కలిగిస్తుంది, అది అతనికి ప్రత్యక్షంగా స్వర్గ మోక్షాన్ని ప్రసాదిస్తుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — The soul is a physical miracle composed of five divine lights that can be measured through auditory chants.",
+        "te": "శ్రీభగవానుడు పలికెను — ఆత్మ అనేది ఐదు దివ్య కాంతులతో కూడిన భౌతిక అద్భుతము, దీనిని శబ్దోచ్ఛారణల ద్వారా కొలవవచ్చు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Hearing scriptural teachings for many years guarantees that a disciple will automatically understand the Soul.",
+        "te": "శ్రీభగవానుడు పలికెను — చాలా సంవత్సరాలు శాస్త్ర బోధనలను వినడం వల్ల శిష్యుడు ఆత్మను స్వయంసిద్ధంగా అర్థం చేసుకుంటాడనడంలో సందేహం లేదు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Āścaryavat paśyati kaścid enam āścaryavad vadati tathaiva cānyaḥ / āścaryavac cainam anyaḥ śṛṇoti śrutvāpy enaṃ veda na caiva kaścit.\" Krishna emphasizes the extraordinary subtlety and rarity of Atma-Jnana. Because the Self is beyond sensory attributes, perceiving It ('paśyati'), teaching It ('vadati'), hearing It ('śṛṇoti'), or realizing It ('veda') is a rare spiritual marvel. — Bhagavad Gita (2.29)",
+      "te": "ఆత్మజ్ఞానం యొక్క అరుదైన, సూక్ష్మమైన అద్భుతత్వాన్ని శ్రీకృష్ణుడు ఇక్కడ వర్ణించాడు. ఆత్మ ఇంద్రియ గుణాలకు అతీతమైనది కాబట్టి దానిని దర్శించడం ('పశ్యతి'), వర్ణించడం ('వదతి'), వినడం ('శృణోతి'), అనుభవపూర్వకంగా తెలుసుకోవడం ('వేద') అత్యంత అరుదైన ఆధ్యాత్మిక ఆశ్చర్యం. — భగవద్గీత (2.29)"
+    }
+  },
+  {
+    "id": "bg-2-29-q2",
+    "verse": { "c": 2, "s": 29 },
+    "concept": ["Philosophical Depth - Why Is the Soul 'Āścaryavat'?"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why is the realization of the Ātman described using the adverb 'Āścaryavat' (like a wonder / marvel) in verse 2.29?",
+      "te": "2.25 శ్లోకంలో ఆత్మను దర్శించడం, వినడం, చెప్పడాన్ని 'ఆశ్చర్యవత్' (ఆశ్చర్యం వలె/మహా అద్భుతంగా) అనే పదం ద్వారా ఎందుకు వర్ణించారు?"
+    },
+    "choices": [
+      {
+        "en": "Because the Self transcends all physical sense data and mental concepts; realizing that one's true nature is infinite Consciousness—despite living in a finite body—strikes the seeker with awe and wonder.",
+        "te": "ఆత్మ సమస్త భౌతిక ఇంద్రియ గ్రహణాలకూ, మానసిక భావనలకూ అతీతమైనది కాబట్టి; పరిమితమైన దేహంలో ఉంటూనే తన నిజ స్వరూపం అనంత చైతన్యమని అనుభవపూర్వకంగా గ్రహించడం సాధకునికి పరమాశ్చర్యాన్ని, దివ్యానుభూతిని కలిగిస్తుంది కాబట్టి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because the soul physically changes colors when a person meditates correctly.",
+        "te": "ఒక వ్యక్తి సరిగ్గా ధ్యానం చేసినప్పుడు ఆత్మ భౌతికంగా రంగులను మార్చుకుంటుంది కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because Vedic scriptures are written in mysterious code languages that no one can read.",
+        "te": "వేద శాస్త్రాలు ఎవరూ చదవలేని రహస్య సంకేత భాషలలో రాయబడ్డాయి కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because only gods in heaven possess the physical power to speak about the Atman.",
+        "te": "ఆత్మను గురించి మాట్లాడే భౌతిక శక్తి కేవలం స్వర్గంలోని దేవతలకు మాత్రమే ఉంది కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Āścharya' means wonder or miraculous marvel; '-vat' means 'like'. The Ātman is 'Āścaryavat' because though It is the closest, innermost reality of everyone, It remains hidden behind delusion; thus, finding an enlightened Teacher, a qualified Student, and realizing the Self are all wonders in the world. — Bhagavad Gita (2.29)",
+      "te": "'ఆశ్చర్య' అనగా వింత/మహా అద్భుతము; 'వత్' అనగా వలె. ఆత్మ అందరికీ అత్యంత సమీపంలో ఉన్న అంతరంగాత్మ అయినప్పటికీ మోహం వల్ల అజ్ఞాతంగా మిగిలిపోతుంది. కాబట్టి దానిని ఉపదేశించే గురువు, వినే శిష్యుడు, గ్రహించే జ్ఞాని అందరూ లోకంలో ఆశ్చర్య స్వరూపులే. — భగవద్గీత (2.29)"
+    }
+  },
+  {
+    "id": "bg-2-29-q3",
+    "verse": { "c": 2, "s": 29 },
+    "concept": ["Upanishadic Parallel - Katha Upanishad Intertextuality"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which famous verse from Katha Upanishad directly parallels the fourfold spiritual wonder described in Bhagavad Gita 2.29?",
+      "te": "భగవద్గీత 2.29 శ్లోకంలో వర్ణించిన నాలుగు రకాల ఆధ్యాత్మిక ఆశ్చర్యానికి సమాంతరంగా ఉన్న కఠోపనిషత్తు ప్రసిద్ధ మంత్రం ఏది?"
+    },
+    "choices": [
+      {
+        "en": "Katha Upanishad (1.2.7): “Śravaṇāyāpi bahubhir yo na labhyaḥ śṛṇvanto 'pi bahavo yaṃ na vidyuḥ | Āścaryo vaktā kuśalo 'sya labdhāścaryo jñātā kuśalānuśiṣṭaḥ”",
+        "te": "కఠోపనిషత్తు (1.2.7): “శ్రవణాయాపి బహుభిర్ యో న లభ్యః శృణ్వంతోఽపి బహవో యం న విద్యుః | ఆశ్చర్యో వక్తా కుశలోఽస్య లబ్ధాశ్చర్యో జ్ఞాతా కుశలానుశిష్టః”",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Katha Upanishad (1.3.14): “Uttisṭhata jāgrata prāpya varān nibodhata...”",
+        "te": "కఠోపనిషత్తు (1.3.14): “ఉత్తిష్ఠత జాగ్రత ప్రాప్య వరాన్ నిబోధత...”",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Isha Upanishad (1): “Īśāvāsyamidam sarvaṃ...”",
+        "te": "ఈశావాస్యోపనిషత్తు (1): “ఈశావాస్యమిదం సర్వం...”",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Mundaka Upanishad (1.1.5): “Dve vidye veditavye...”",
+        "te": "ముండకోపనిషత్తు (1.1.5): “ద్వే విద్యే వేదితవ్యే...”",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Both Gita 2.29 and Katha Upanishad 1.2.7 highlight the absolute rarity of spiritual realization: wonderful is the speaker ('āścaryo vaktā'), wonderful is the attainer ('āścaryo labdhā'), and wonderful is the Knower taught by an adept guru ('āścaryo jñātā'). — Bhagavad Gita (2.29)",
+      "te": "భగవద్గీత 2.29 శ్లోకం కఠోపనిషత్తు (1.2.7) లోని సత్యానికి ప్రతిరూపం. ఆత్మను బోధించే వక్తా ఆశ్చర్యమే, పొందే లబ్ధా ఆశ్చర్యమే, ఎరిగే జ్ఞాని కూడా ఆశ్చర్యమే అని రెండు గ్రంథాలూ ఏకకంఠంతో చాటుతున్నాయి. — భగవద్గీత (2.29)"
+    }
+  },
+  {
+    "id": "bg-2-29-q4",
+    "verse": { "c": 2, "s": 29 },
+    "concept": ["Four Stages of Perception - Paśyati, Vadati, Śṛṇoti, Veda"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which four sequential verbs of spiritual perception/engagement are listed in verse 2.29?",
+      "te": "2.29 శ్లోకంలో పేర్కొనబడిన ఆధ్యాత్మిక అవగాహన/జ్ఞాన ప్రక్రియకు చెందిన నాలుగు క్రియాపదాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "1. Paśyati (sees / perceives), 2. Vadati (speaks / teaches), 3. Śṛṇoti (hears / listens), 4. Veda (knows / realizes).",
+        "te": "1. పశ్యతి (దర్శించును/చూచును), 2. వదతి (వర్ణించును/చెప్పును), 3. శృణోతి (వినును), 4. వేద (ఎరుగును/తెలుసుకొనును).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1. Jāyate (is born), 2. Vardhate (grows), 3. Vipariṇamate (changes), 4. Mriyate (dies).",
+        "te": "1. జాయతే (జన్మించును), 2. వర్ధతే (పెరుగును), 3. విపరిణమతే (మారును), 4. మ్రియతే (మరణించును).",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1. Dhyāyati (meditates), 2. Japati (chants), 3. Yajati (sacrifices), 4. Namati (bows).",
+        "te": "1. ధ్యాయతి (ధ్యానించును), 2. జపతి (జపించును), 3. యజతి (యజ్ఞం చేయును), 4. నమతి (నమస్కరించును).",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1. Hanti (kills), 2. Dahati (burns), 3. Śoṣayati (dries), 4. Kledayati (wets).",
+        "te": "1. హంతి (చంపును), 2. దహతి (కాల్చును), 3. శోషయతి (ఎండబెట్టును), 4. క్లేదయతి (తడుపును).",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The verse surveys the entire spectrum of human contact with Atma-Jnana: direct intuitive vision ('paśyati'), vocal teaching/discussion ('vadati'), attentive hearing from a Guru ('śṛṇoti'), and ultimate experiential realization ('veda'). — Bhagavad Gita (2.29)",
+      "te": "ఈ శ్లోకం ఆత్మజ్ఞానంతో మానవునికి ఉండే నాలుగు రకాల సంబంధాలను వర్ణిస్తోంది: ఆత్మదర్శనం చేసుకోవడం ('పశ్యతి'), ఆత్మను గురించిన బోధన చేయడం ('వదతి'), గురువు నుండి వినడం ('శృణోతి'), అనుభవంలోకి తెచ్చుకుని ఎరగడం ('వేద'). — భగవద్గీత (2.29)"
+    }
+  },
+  {
+    "id": "bg-2-29-q5",
+    "verse": { "c": 2, "s": 29 },
+    "concept": ["Sanskrit Grammar - Adverbial Suffix '-vat'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical structure of 'āścaryavat' and 'āścaryavad' in verse 2.29:",
+      "te": "2.29 శ్లోకంలో మూడుసార్లు వాడబడిన 'ఆశ్చర్యవత్ / ఆశ్చర్యవద్' అనే పదం యొక్క వ్యాకరణ నిర్మాణం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Adverbial modifier formed by adding the taddhita suffix '-vati' (expressing similitude/manner) to the noun 'āścharya' (wonder/marvel), meaning 'like a wonder / as a miracle'.",
+        "te": "'ఆశ్చర్య' (అద్భుతము) అనే నామవాచకానికి పోలికను తెలిపే 'వతి' (తద్ధిత) ప్రత్యయం చేరగా ఏర్పడిన క్రియా విశేషణ రూపం — 'ఆశ్చర్యము వలే / అద్భుతముగా'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Genitive plural noun form.",
+        "te": "షష్ఠీ విభక్తి బహువచన నామవాచకం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Past tense passive participle.",
+        "te": "భూతకాల కర్మణి విశేషణం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Āścharya' + 'vati' (Tena tulyaṃ kriyā ced vatiḥ - Pāṇini 5.1.115) = 'āścaryavat' ('in the manner of a wonder / as a marvel'). Under Sandhi before voiced consonants, final 't' transforms to 'd' ('āścaryavad vadati'). — Bhagavad Gita (2.29)",
+      "te": "'తేన తుల్యమ్' అనే పాణిని సూత్రం ప్రకారం 'ఆశ్చర్య' శబ్దానికి 'వతి' ప్రత్యయం చేరి 'ఆశ్చర్యవత్' (ఆశ్చర్యం వలె) అనే క్రియా విశేషణమైంది. ఘోష వర్ణాల ముందు సంధి వల్ల పొల్లు 'త్' వర్ణము 'ద్' గా మారుతుంది ('ఆశ్చర్యవద్ వదతి'). — భగవద్గీత (2.29)"
+    }
+  },
+  {
+    "id": "bg-2-29-q6",
+    "verse": { "c": 2, "s": 29 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'kaścidenam' and 'śrutvāpyenaṃ' in verse 2.29:",
+      "te": "2.29 శ్లోకంలోని 'కశ్చిదేనమ్' మరియు 'శ్రుత్వాప్యేనమ్' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Kaścit + enam -> kaścidenam (Jasdtva Sandhi: 't' -> 'd'); śrutvā + api -> śrutvāpi (Savarna-dirgha Sandhi); śrutvāpi + enam -> śrutvāpyenaṃ (Yan Sandhi: 'i' before 'e' -> 'y').",
+        "te": "కశ్చిత్ + ఏనమ్ -> కశ్చిదేనమ్ (జశ్త్వ సంధి: 'త్' -> 'ద్'); శ్రుత్వా + అపి -> శ్రుత్వాపి (సవర్ణదీర్ఘ సంధి); శ్రుత్వాపి + ఏనమ్ -> శ్రుత్వాప్యేనమ్ (యణాదేశ సంధి: 'ఇ' కారం 'య్' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Kaści + enam -> kaścidenam; śrutvā + pyenam -> śrutvāpyenam",
+        "te": "కశ్చి + ఏనమ్ -> కశ్చిదేనమ్; శ్రుత్వా + ప్యేనమ్ -> శ్రుత్వాప్యేనమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Kaścin + enam -> kaścidenam; śrutvām + api + enam -> śrutvāpyenam",
+        "te": "కశ్చిన్ + ఏనమ్ -> కశ్చిదేనమ్; శ్రుత్వామ్ + అపి + ఏనమ్ -> శ్రుత్వాప్యేనమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Kaściḥ + enam -> kaścidenam; śrutve + api + enam -> śrutvāpyenam",
+        "te": "కశ్చిః + ఏనమ్ -> కశ్చిదేనమ్; శ్రుత్వే + అపి + ఏనమ్ -> శ్రుత్వాప్యేనమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Kaścit' (someone) + 'enam' (this): unvoiced 't' becomes voiced 'd' via Jasdtva Sandhi before vowel 'e', yielding 'kaścidenam'. 2. 'Śrutvā' (having heard) + 'api' (even) = 'śrutvāpi' (Savarna-dirgha Sandhi). 3. 'Śrutvāpi' + 'enam': 'i' converts to 'y' via Yan Sandhi before 'e', yielding 'śrutvāpyenaṃ'. — Bhagavad Gita (2.29)",
+      "te": "1. 'కశ్చిత్' + 'ఏనమ్' లలో 'త్' స్థానంలో జశ్త్వ సంధి ద్వారా 'ద్' వచ్చి 'కశ్చిదేనమ్' అయినది. 2. 'శ్రుత్వా' + 'అపి' లలో 'ఆ' + 'అ' కలసి 'శ్రుత్వాపి' (సవర్ణదీర్ఘ సంధి) అయినది. 3. 'శ్రుత్వాపి' + 'ఏనమ్' లలో 'ఇ' స్థానంలో 'య్' వచ్చి 'శ్రుత్వాప్యేనమ్' (యణాదేశ సంధి) అయినది. — భగవద్గీత (2.29)"
+    }
+  }
+]

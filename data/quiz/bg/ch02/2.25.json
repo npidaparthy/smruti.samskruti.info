@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-25-q1",
+    "verse": { "c": 2, "s": 25 },
+    "concept": ["Verse Meaning & Freedom from Grief"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.25?\n\n“avyakto'yamacintyo'yamavikāryo'yamucyate | tasmādevaṃ viditvainam nānuśocitumarhasi”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అవ్యక్తోఽయమచింత్యోఽయమవికార్యోఽయముచ్యతే | తస్మాదేవం విదిత్వైనం నానుశోచితుమర్హసి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — This Soul is declared to be unmanifest, unthinkable, and immutable. Therefore, knowing It to be such, you ought not to grieve.",
+        "te": "శ్రీభగవానుడు పలికెను — ఈ ఆత్మ అవ్యక్తమైనది (ఇంద్రియాలకు కనిపించనిది), అచింత్యమైనది (మనస్సుకు అందనిది), అవికార్యమైనది (మార్పులేనిది) అని చెప్పబడింది. కావున ఈ ఆత్మను ఈ విధంగా తెలుసుకొని నీవు దుఃఖించతగవు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — The Soul can be perceived through physical sight once a seeker practices deep pranayama and meditation.",
+        "te": "శ్రీభగవానుడు పలికెను — సాధకుడు తీవ్రమైన ప్రాణాయామము, ధ్యానము ఆచరించిన తర్వాత ఆత్మను భౌతిక కళ్లతో చూడవచ్చు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Because the Soul undergoes constant subtle changes across births, grieving for its transformations is a sacred duty.",
+        "te": "శ్రీభగవానుడు పలికెను — అనేక జన్మలలో ఆత్మ నిరంతరం సూక్ష్మ మార్పులకు లోనవుతుంది కాబట్టి, దాని పరిణామాల కోసం దుఃఖించడం పవిత్రమైన ధర్మం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Unmanifest souls are inferior to manifest physical bodies; therefore, protecting physical life is the highest virtue.",
+        "te": "శ్రీభగవానుడు పలికెను — అవ్యక్తమైన ఆత్మలు వ్యక్తమైన భౌతిక దేహాల కంటే అల్పమైనవి, కావున భౌతిక జీవాన్ని కాపాడటమే అత్యున్నత ధర్మం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Avyakto 'yam acintyo 'yam avikāryo 'yam ucyate / tasmād evaṃ viditvainaṃ nānuśocitum arhasi.\" Krishna summarizes the transcendent nature of the Self using three key Vedantic terms: 'avyakta' (beyond sensory perception), 'acintya' (beyond mental comprehension), and 'avikārya' (free from modifications). Realizing this truth frees one from all grief ('na anuśocitum arhasi'). — Bhagavad Gita (2.25)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ ఆత్మ యొక్క అతీత నైజత్వాన్ని మూడు వేదాంత పదాలతో ముగించాడు: 'అవ్యక్తః' (ఇంద్రియాలకు చిక్కనిది), 'అచింత్యః' (మనస్సు ఆలోచించలేనిది), 'అవికార్యః' (ఎటువంటి మార్పులకూ లోనుకానిది). ఈ సత్యాన్ని గ్రహించిన అర్జునునికి విచారించే హక్కు లేదని ('నానుశోచితుమర్హసి') బోధిస్తున్నాడు. — భగవద్గీత (2.25)"
+    }
+  },
+  {
+    "id": "bg-2-25-q2",
+    "verse": { "c": 2, "s": 25 },
+    "concept": ["Three Transcendental Attributes - Avyakta, Acintya, Avikārya"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the three adjectives 'Avyaktaḥ', 'Acintyaḥ', and 'Avikāryaḥ' mean in the context of Vedantic epistemology in verse 2.25?",
+      "te": "2.25 శ్లోకంలో వేదాంత జ్ఞానమీమాంస ఆధారంగా 'అవ్యక్తః', 'అచింత్యః', మరియు 'అవికార్యః' అనే మూడు విశేషణాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Avyaktaḥ = Beyond physical sense perception (unmanifest); Acintyaḥ = Beyond mental conception/thought; Avikāryaḥ = Free from all physical or emotional modifications (immutable).",
+        "te": "అవ్యక్తః = భౌతిక జ్ఞానేంద్రియాల గ్రహణ శక్తికి అందనిది; అచింత్యః = మనస్సు యొక్క తర్క ఆలోచనలకు అందనిది; అవికార్యః = ఎటువంటి శారీరక, మానసిక వికారాలకు/మార్పులకు లోనుకానిది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Avyaktaḥ = Silent; Acintyaḥ = Forgetful; Avikāryaḥ = Difficult to reach.",
+        "te": "అవ్యక్తః = మౌనంగా ఉండేది; అచింత్యః = మరిచిపోయేది; అవికార్యః = చేరుకోవడం కష్టమైనది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avyaktaḥ = Hidden in caves; Acintyaḥ = Worried; Avikāryaḥ = Powerful in war.",
+        "te": "అవ్యక్తః = గుహలలో దాగి ఉండేది; అచింత్యః = చింతించేది; అవికార్యః = యుద్ధంలో శక్తివంతమైనది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avyaktaḥ = Formed of light; Acintyaḥ = Divine; Avikāryaḥ = Ancient book.",
+        "te": "అవ్యక్తః = కాంతితో నిర్మితమైనది; అచింత్యః = దివ్యమైనది; అవికార్యః = పురాతన గ్రంథము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Avyakta': The senses can only perceive gross form/color; the Self is unmanifest to eyes or instruments. 2. 'Acintya': The mind thinks using concepts based on sensory data; the Self is the illuminator of the mind itself, so it cannot be objectified as a thought. 3. 'Avikārya': Unlike matter which changes, the Self is changeless. — Bhagavad Gita (2.25)",
+      "te": "1. 'అవ్యక్తః' — ఇంద్రియాలు కేవలం రూప రసాలను మాత్రమే గ్రహించగలవు; ఆత్మ ఇంద్రియ గోచరం కానిది. 2. 'అచింత్యః' — మనస్సు ఇంద్రియ విషయాలనే ఆలోచించగలదు; మనస్సునే ప్రకాశింపజేసే ఆత్మను మనస్సు ఆలోచించలేదు. 3. 'అవికార్యః' — భౌతిక పదార్థాల వలె ఆత్మ ఎన్నడూ మార్పు చెందదు. — భగవద్గీత (2.25)"
+    }
+  },
+  {
+    "id": "bg-2-25-q3",
+    "verse": { "c": 2, "s": 25 },
+    "concept": ["Practical Conclusion - Tasmād Evaṃ Viditvā"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What practical spiritual conclusion does Lord Krishna draw from knowing the Ātman to be 'Avyakta', 'Acintya', and 'Avikārya' in verse 2.25?",
+      "te": "2.25 శ్లోకంలో ఆత్మను 'అవ్యక్తము', 'అచింత్యము', 'అవికార్యము' అని తెలుసుకోవడం ద్వారా శ్రీకృష్ణుడు ఏ ఆచరణాత్మక ఆధ్యాత్మిక నిర్ణయానికి వచ్చాడు?"
+    },
+    "choices": [
+      {
+        "en": "“Tasmād evaṃ viditvainam nānuśocitum arhasi” — Therefore, having known the Self as such, you ought not to grieve for the physical body or its destruction.",
+        "te": "“తస్మాదేవం విదిత్వైనం నానుశోచితుమర్హసి” — కావున ఆత్మను ఈ విధంగా (వికార రహితంగా) తెలుసుకొని, నీవు దేహ నాశనానికి విచారించడం తగదు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Therefore, you should abandon all actions and spend your life meditating in solitude.",
+        "te": "కావున నీవు సమస్త కర్మలను విడిచిపెట్టి ఏకాంతంలో ధ్యానం చేస్తూ జీవితాన్ని గడపాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Therefore, you should perform sacrificial rites to make your physical body unmanifest as well.",
+        "te": "కావున నీవు నీ భౌతిక శరీరాన్ని కూడా అవ్యక్తంగా మార్చుకోవడానికి యజ్ఞ యాగాదులను ఆచరించాలి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Therefore, you should mourn only for those whose souls have entered bad rebirths.",
+        "te": "కావున దుర్గతి పొందిన ఆత్మల కోసం మాత్రమే నీవు విలపించాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Tasmāt' (therefore) + 'evaṃ' (thus) + 'viditvā' (having known) + 'enam' (this Self) + 'na anuśocitum arhasi' (you ought not to grieve). Realizing the true nature of Ātman removes the primary cause of all sorrow—false identification with the body (Deha-abhimāna). — Bhagavad Gita (2.25)",
+      "te": "'తస్మాత్' (అందువలన) + 'ఏవమ్' (ఈ విధంగా) + 'విదిత్వా' (తెలుసుకొని) + 'ఏనమ్' (ఈ ఆత్మను) + 'నానుశోచితుమర్హసి' (నీవు శోకించతగదు). ఆత్మ సత్య రూపాన్ని తెలుసుకోవడమే సమస్త శోకాలకు మూలకారణమైన దేహాభిమానాన్ని నివారించే ఏకైక మార్గం. — భగవద్గీత (2.25)"
+    }
+  },
+  {
+    "id": "bg-2-25-q4",
+    "verse": { "c": 2, "s": 25 },
+    "concept": ["Sanskrit Vocabulary - Unmanifest & Unthinkable"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'avyaktaḥ' and 'acintyaḥ' mean in verse 2.25?",
+      "te": "2.25 శ్లోకంలోని 'అవ్యక్తః' మరియు 'అచింత్యః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Avyaktaḥ = Unmanifest / imperceptible by the physical senses; Acintyaḥ = Unthinkable / incomprehensible by the finite mind.",
+        "te": "అవ్యక్తః = వ్యక్తము కానిది / భౌతిక ఇంద్రియాలకు కనిపించనిది; అచింత్యః = ఆలోచించడానికి అందనిది / మనస్సుకు గోచరించనిది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Avyaktaḥ = Speechless; Acintyaḥ = Unworried.",
+        "te": "అవ్యక్తః = మాట్లాడలేనిది; అచింత్యః = విచారం లేనిది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avyaktaḥ = Imperfect; Acintyaḥ = Unintelligent.",
+        "te": "అవ్యక్తః = అసంపూర్ణమైనది; అచింత్యః = తెలివితక్కువది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avyaktaḥ = Unborn body; Acintyaḥ = Royal mind.",
+        "te": "అవ్యక్తః = పుట్టని దేహం; అచింత్యః = రాజస మనస్సు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vyakta' means manifest to the senses; 'A-vyakta' means unmanifest or imperceptible. 'Cintya' means conceivable by thoughts; 'A-cintya' means beyond the grasp of mental thought or logic. — Bhagavad Gita (2.25)",
+      "te": "'వ్యక్త' అనగా ఇంద్రియాలకు ప్రత్యక్షమయ్యేది; 'అవ్యక్త' అనగా ఇంద్రియాలకు గోచరించనిది. 'చింత్య' అనగా మనస్సుతో ఆలోచించదగినది; 'అచింత్య' అనగా మానసిక తర్కానికి/ఆలోచనలకు అందనిది. — భగవద్గీత (2.25)"
+    }
+  },
+  {
+    "id": "bg-2-25-q5",
+    "verse": { "c": 2, "s": 25 },
+    "concept": ["Sanskrit Grammar - Infinitive 'Anuśocitum'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'anuśocitum' in verse 2.25:",
+      "te": "2.25 శ్లోకంలోని 'అనుశోచితుమ్' అనే పదానికి ఉన్న వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Infinitive form (Tumun-pratyaya) from root 'śuc' (to mourn / grieve) with prefix 'anu', meaning 'to mourn / to lament' (governed by 'na arhasi' = 'you ought not to mourn').",
+        "te": "'శుచ్' (దుఃఖించు/శోకించు) అనే ధాతువుకు 'అను' ఉపసర్గ చేరిన తుమున్నంత (Infinitive) రూపం — 'నానుశోచితుమర్హసి' ('నీవు శోకించతగవు') అనే వాక్యంలో 'శోకించుటకు' అనే అర్థాన్ని ఇస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person plural past tense verb form.",
+        "te": "ప్రథమ పురుష బహువచన భూతకాల రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nominative Singular noun form.",
+        "te": "ప్రథమా విభక్తి ఏకవచన నామవాచకం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Future active participle form.",
+        "te": "భవిష్యత్కాల వర్తమాన విశేషణ రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Anuśocitum' is the Tumun-ending infinitive formed from prefix 'anu' + root 'śuc' (to grieve). Combined with 'na arhasi' (you do not deserve / ought not): 'na anuśocitum arhasi' = 'you ought not to grieve'. — Bhagavad Gita (2.25)",
+      "te": "'అను' + 'శుచ్' ధాతువుకు 'తుమున్' (Infinitive) प्रत्यయం చేరగా 'అనుశోచితుమ్' (శోకించుటకు) అనే రూపమేర్పడింది. 'న అర్హసి' (నీవు తగవు) అనే క్రియాపదంతో చేరి 'నీవు విచారించకూడదు' అని ఆదేశిస్తోంది. — భగవద్గీత (2.25)"
+    }
+  },
+  {
+    "id": "bg-2-25-q6",
+    "verse": { "c": 2, "s": 25 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'avyakto'yam' and 'nānuśocitumarhasi' in verse 2.25:",
+      "te": "2.25 శ్లోకంలోని 'అవ్యక్తోఽయమ్' మరియు 'నానుశోచితుమర్హసి' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Avyaktaḥ + ayam -> avyakto 'yam (Visarga Uttva & Pūrvarūpa Sandhi); na + anuśocitum -> nānuśocitum (Savarna-dirgha Sandhi); anuśocitum + arhasi -> anuśocitumarhasi (consonant 'm' joins 'a').",
+        "te": "అవ్యక్తః + అయమ్ -> అవ్యక్తోఽయమ్ (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు); న + అనుశోచితుమ్ -> నానుశోచితుమ్ (సవర్ణదీర్ఘ సంధి: అ + అ -> ఆ); అనుశోచితుమ్ + అర్హసి -> అనుశోచితుమర్హసి (పొల్లు 'మ్' అచ్చు 'అ' తో కలయుట).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Avyakta + ayam -> avyaktāyam; na + anuśocitum -> nanuśocitum",
+        "te": "అవ్యక్త + అయమ్ -> అవ్యక్తాయమ్; న + అనుశోచితుమ్ -> ననుశోచితుమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avyaktam + ayam -> avyaktamayam; no + anuśocitum -> nānuśocitum",
+        "te": "అవ్యక్తమ్ + అయమ్ -> అవ్యక్తమయమ్; నో + అనుశోచితుమ్ -> నానుశోచితుమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avyakte + ayam -> avyakte'yam; nai + anuśocitum -> nānuśocitum",
+        "te": "అవ్యక్తే + అయమ్ -> అవ్యక్తేఽయమ్; నై + అనుశోచితుమ్ -> నానుశోచితుమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Avyaktaḥ' + 'ayam': visarga preceded by 'a' and followed by 'a' transforms to 'o', with initial 'a' becoming Avagraha -> 'avyakto 'yam'. 2. 'Na' (not) + 'anuśocitum' (to grieve): 'a' + 'a' merges into long 'ā' via Savarna-dirgha Sandhi -> 'nānuśocitum'. 3. 'Anuśocitum' + 'arhasi' = 'anuśocitumarhasi'. — Bhagavad Gita (2.25)",
+      "te": "1. 'అవ్యక్తః' + 'అయమ్' లలో విసర్గ ఉత్త్వ, పూర్వరూప సంధుల ద్వారా 'అవ్యక్తోఽయమ్' అయినది. 2. 'న' + 'అనుశోచితుమ్' లలో 'అ' + 'అ' కలసి సవర్ణదీర్ఘ సంధి ద్వారా 'నానుశోచితుమ్' అయినది. 3. 'అనుశోచితుమ్' + 'అర్హసి' లలో పొల్లు 'మ్' అచ్చు 'అ' తో కలసి 'అనుశోచితుమర్హసి' అయినది. — భగవద్గీత (2.25)"
+    }
+  }
+]

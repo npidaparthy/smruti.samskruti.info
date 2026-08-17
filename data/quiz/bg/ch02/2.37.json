@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-37-q1",
+    "verse": { "c": 2, "s": 37 },
+    "concept": ["Verse Meaning & Dual Blessing of Duty"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.37?\n\n“hato vā prāpsyasi svargaṃ jitvā vā bhokṣyase mahīm | tasmāduttiṣṭha kaunteya yuddhāya kṛtaniścayaḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“హతో వా ప్రాప్స్యసి స్వర్గం జిత్వా వా భోక్ష్యసే మహీమ్ | తస్మాదుత్తిష్ఠ కౌంతేయ యుద్ధాయ కృతనిశ్చయః”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — If slain in battle, you will attain heaven; or if victorious, you will enjoy the earth. Therefore, arise, O son of Kunti, resolved to fight!",
+        "te": "శ్రీభగవానుడు పలికెను — యుద్ధంలో చంపబడితే నీవు స్వర్గాన్ని పొందుతావు; లేదా విజయం సాధిస్తే భూమండల రాజ్యాన్ని అనుభవిస్తావు. కావున ఓ కౌంతేయా (అర్జునా)! యుద్ధము చేయుటకై దృఢ నిశ్చయంతో లెమ్ము!",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — If you die in war, your soul suffers in earthly realms; but if you retreat, you enjoy permanent peace and heavenly grace.",
+        "te": "శ్రీభగవానుడు పలికెను — యుద్ధంలో మరణిస్తే నీ ఆత్మ భూలోకంలో దుఃఖిస్తుంది; కానీ విరమించుకుంటే నీవు శాశ్వత శాంతిని, స్వర్గ ప్రాప్తిని పొందుతావు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Enjoying the earth is reserved for kings who avoid bloodshed, while heaven is achieved only by ascetic monks.",
+        "te": "శ్రీభగవానుడు పలికెను — భూమండల భోగం కేవలం హింసను నివారించే రాజులకు మాత్రమే లభిస్తుంది, స్వర్గం కేవలం సన్యాసులకు మాత్రమే సిద్ధిస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Victory or defeat in war depends on chance; therefore, a wise warrior should lay down his bow and observe from a distance.",
+        "te": "శ్రీభగవానుడు పలికెను — యుద్ధంలో జయాపజయాలు యాదృచ్ఛికాలు; కాబట్టి వివేకియైన యోధుడు తన విల్లును పక్కన పడేసి దూరంగా నిలబడి చూడాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Hato vā prāpsyasi svargaṃ jitvā vā bhokṣyase mahīm / tasmād uttiṣṭha kaunteya yuddhāya kṛta-niścayaḥ.\" Krishna gives a logical win-win proposition: dying in a righteous battle brings the highest spiritual destination ('svargam'), while winning restores sovereign rule over the earth ('mahīm'). Armed with this conviction, Arjuna is commanded to arise and fight ('uttiṣṭha yuddhāya'). — Bhagavad Gita (2.37)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ ఒక సంపూర్ణ జయప్రదమైన (విన్-విన్) తర్కాన్ని అందించాడు: ధర్మయుద్ధంలో వీరమరణం పొందితే స్వర్గప్రాప్తి ('స్వర్గమ్'), విజయం సాధిస్తే పృథ్వీ రాజ్య భోగం ('భోక్ష్యసే మహీమ్'). ఈ రెండు మార్గాలలోనూ నష్టమనేది లేదు కాబట్టి యుద్ధనిశ్చయంతో లేచి నిలబడమని ('ఉత్తిష్ఠ యుద్ధాయ') కౌంతేయుడిని ఆదేశిస్తున్నాడు. — భగవద్గీత (2.37)"
+    }
+  },
+  {
+    "id": "bg-2-37-q2",
+    "verse": { "c": 2, "s": 37 },
+    "concept": ["Strategic Logic - Dual Advantage (Ubhaya-taḥ Labhaḥ)"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What logical strategy does Lord Krishna employ in verse 2.37 to resolve Arjuna's indecision?",
+      "te": "2.37 శ్లోకంలో అర్జునుని సందిగ్ధతను పటాపంచలు చేయడానికి శ్రీకృష్ణుడు ఏ రకమైన తార్కిక వ్యూహాన్ని (ఉభయతః లాభము) ప్రయోగించాడు?"
+    },
+    "choices": [
+      {
+        "en": "He demonstrates that fulfilling Swadharma in a righteous battle guarantees a supreme outcome under all possible physical conditions (death leads to heaven; victory leads to earthly kingdom).",
+        "te": "ధర్మయుద్ధంలో స్వధర్మాన్ని నెరవేర్చడం వల్ల సంభవించే రెండు భౌతిక పరిణామాలలోనూ (మరణించినా స్వర్గము, గెలిచినా రాజ్యభోగము) శ్రేయస్సే లభిస్తుందని, ఏ కోణంలోనూ నష్టం లేదని నిరూపించడం ద్వారా.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "He proves that weapons cannot injure warriors who recite sacred mantras before battle.",
+        "te": "యుద్ధానికి ముందు పవిత్ర మంత్రాలను జపించే యోధులను ఆయుధాలు గాయపరచలేవని నిరూపించడం ద్వారా.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "He promises that Arjuna will receive divine weapons from the gods if he fights for three days.",
+        "te": "మూడు రోజులు పోరాడితే అర్జునునికి దేవతల నుండి దివ్యాస్త్రాలు లభిస్తాయని వాగ్దానం చేయడం ద్వారా.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "He argues that kingdom and heaven are worthless compared to ascetic meditation.",
+        "te": "సన్యాస ధ్యానంతో పోలిస్తే రాజ్యమూ, స్వర్గమూ రెండూ నిరర్థకమైనవని వాదించడం ద్వారా.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In practical ethics, indecision often arises from fear of loss. Krishna eliminates fear by showing that both mutually exclusive outcomes of battle (death vs. victory) yield desirable results ('svarga' or 'mahī-bhoga'), leaving zero justification for paralysis or retreat. — Bhagavad Gita (2.37)",
+      "te": "నష్టం జరుగుతుందేమోనన్న భయం నుండే కార్యాచరణలో సందిగ్ధత వస్తుంది. కృష్ణుడు ఇక్కడ మరణం-విజయం అనే రెండు పరస్పర ఫలితాలలోనూ పరమ లాభమే సిద్ధస్తుందని చూపడం ద్వారా అర్జునుడి మనస్సులోని భయాన్ని, కార్యాచరణ వైఫల్యాన్ని సంపూర్ణంగా తొలగించాడు. — భగవద్గీత (2.37)"
+    }
+  },
+  {
+    "id": "bg-2-37-q3",
+    "verse": { "c": 2, "s": 37 },
+    "concept": ["Call to Action - Uttiṣṭha Kaunteya Yuddhāya Kṛta-niścayaḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the crucial command given to Arjuna in the second half of verse 2.37?",
+      "te": "2.37 శ్లోకంలోని ఉత్తరార్ధంలో అర్జునుడికి ఇవ్వబడిన ప్రధాన కార్యచరణ ఆదేశం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "“Tasmād uttiṣṭha kaunteya yuddhāya kṛta-niścayaḥ” — Therefore arise, O son of Kunti, resolved upon battle!",
+        "te": "“తస్మాదుత్తిష్ఠ కౌంతేయ యుద్ధాయ కృతనిశ్చయః” — కావున ఓ కౌంతేయా! యుద్ధము చేయాలనే దృఢ సంకల్పంతో (నిశ్చయంతో) లెమ్ము!",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Therefore retreat, O son of Kunti, to protect your family members!",
+        "te": "కావున ఓ కౌంతేయా! నీ కుటుంబ సభ్యులను కాపాడుకోవడానికి యుద్ధం నుండి వైదొలగుము!",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Therefore pray, O son of Kunti, to the gods for peaceful negotiation!",
+        "te": "కావున ఓ కౌంతేయా! శాంతియుత చర్చల కోసం దేవతలను ప్రార్థించుము!",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Therefore meditate, O son of Kunti, until the enemy lays down their weapons!",
+        "te": "కావున ఓ కౌంతేయా! శత్రువులు తమ ఆయుధాలను విడిచిపెట్టే వరకు ధ్యానం చేయుము!",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Tasmāt' (therefore) + 'uttiṣṭha' (arise!) + 'kaunteya' (O son of Kunti) + 'yuddhāya' (for battle) + 'kṛta-niścayaḥ' (having made a firm resolve). This is Krishna's rallying call to convert philosophical clarity into decisive action. — Bhagavad Gita (2.37)",
+      "te": "'తస్మాత్' (కావున) + 'ఉత్తిష్ఠ' (లెమ్ము) + 'కౌంతేయ' (ఓ అర్జునా) + 'యుద్ధాయ' (యుద్ధము కొరకు) + 'కృతనిశ్చయః' (గట్టి పట్టుదలతో/నిశ్చయంతో). జ్ఞానాన్ని కార్యాచరణగా మార్చమని కృష్ణుడు ఇచ్చిన సమర పిలుపు ఇది. — భగవద్గీత (2.37)"
+    }
+  },
+  {
+    "id": "bg-2-37-q4",
+    "verse": { "c": 2, "s": 37 },
+    "concept": ["Sanskrit Vocabulary - Slain, Victorious, Earth"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'hataḥ', 'jitvā', and 'mahīm' mean in verse 2.37?",
+      "te": "2.37 శ్లోకంలోని 'హతః', 'జిత్వా', మరియు 'మహీమ్' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Hataḥ = Slain / killed; Jitvā = Having conquered / victorious; Mahīm = The earth / kingdom of the earth.",
+        "te": "హతః = చంపబడినవాడవై / మరణించి; జిత్వా = జయించి / విజయం సాధించి; మహీమ్ = భూమండలాన్ని / పృథ్వీ రాజ్యాన్ని.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Hataḥ = Victorious; Jitvā = Slain; Mahīm = Heaven.",
+        "te": "హతః = విజేతవై; జిత్వా = చంపబడి; మహీమ్ = స్వర్గాన్ని.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Hataḥ = Retreated; Jitvā = Wounded; Mahīm = Chariot.",
+        "te": "హతః = వైదొలిగి; జిత్వా = గాయపడి; మహీమ్ = రథాన్ని.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Hataḥ = Wise; Jitvā = Peaceful; Mahīm = Mind.",
+        "te": "హతః = జ్ఞానివై; జిత్వా = ప్రశాంతంగా; మహీమ్ = మనస్సును.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Hata' is past passive participle of root 'han' (slain). 'Jitvā' is the Ktvā-gerund of root 'ji' (having conquered). 'Mahī' means earth; Accusative Singular is 'mahīm' (the earth). — Bhagavad Gita (2.37)",
+      "te": "'హన్' (చంపు) ధాతు క్తాంత రూపం 'హతః' (చంపబడినవాడు). 'జి' (జయించు) ధాతు క్త్వాంత రూపం 'జిత్వా' (జయించి). 'మహీ' (భూమి) ద్వితీయా ఏకవచన రూపం 'మహీమ్' (భూమిని). — భగవద్గీత (2.37)"
+    }
+  },
+  {
+    "id": "bg-2-37-q5",
+    "verse": { "c": 2, "s": 37 },
+    "concept": ["Sanskrit Grammar - Imperative Verb 'Uttiṣṭha' & Future Verbs"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical forms of 'prāpsyasi', 'bhokṣyase', and 'uttiṣṭha' in verse 2.37:",
+      "te": "2.37 శ్లోకంలోని 'ప్రాప్స్యసి', 'భోక్ష్యసే', మరియు 'ఉత్తిష్ఠ' అనే క్రియాపదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Prāpsyasi = 2nd person singular Simple Future Parasmaipada (Lṛṭ-lakāra) from root 'āp' with prefix 'pra' (you will attain); Bhokṣyase = 2nd person singular Simple Future Ātmanepada (Lṛṭ-lakāra) from root 'bhuj' (you will enjoy); Uttiṣṭha = 2nd person singular Imperative mood Parasmaipada (Loṭ-lakāra) from root 'sthā' with prefix 'ud' (arise!).",
+        "te": "ప్రాప్స్యసి = 'ప్ర' ఉపసర్గతో 'ఆప్' ధాతువు లృట్ లకార (భవిష్యత్కాల) మధ్యమ పురుష ఏకవచన పరస్మైపద రూపం ('పొందగలవు'); భోక్ష్యసే = 'భుజ్' ధాతువు లృట్ లకార (భవిష్యత్కాల) మధ్యమ పురుష ఏకవచన ఆత్మనేపద రూపం ('అనుభవిస్తావు'); ఉత్తిష్ఠ = 'ఉద్' ఉపసర్గతో 'స్థా' ధాతువు లోట్ లకార (ఆజ్ఞార్థక) మధ్యమ పురుష ఏకవచన పరస్మైపద రూపం ('లెమ్ము!').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Prāpsyasi = Past verb; Bhokṣyase = Present verb; Uttiṣṭha = Noun.",
+        "te": "ప్రాప్స్యసి = భూతకాల క్రియ; భోక్ష్యసే = వర్తమానకాల క్రియ; ఉత్తిష్ఠ = నామవాచకం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Prāpsyasi = Imperative verb; Bhokṣyase = Past verb; Uttiṣṭha = Future verb.",
+        "te": "ప్రాప్స్యసి = ఆజ్ఞార్థక క్రియ; భోక్ష్యసే = భూతకాల క్రియ; ఉత్తిష్ఠ = భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Prāpsyasi = Present participle; Bhokṣyase = Infinitive; Uttiṣṭha = Gerund.",
+        "te": "ప్రాప్స్యసి = వర్తమాన విశేషణం; భోక్ష్యసే = తుమున్నంతం; ఉత్తిష్ఠ = క్త్వాంతం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Prāpsyasi' (from pra + āp) and 'bhokṣyase' (from bhuj) are conditional future possibilities dependent on 'hato vā' or 'jitvā vā'. 'Uttiṣṭha' (from ud + sthā) is Krishna's direct imperative command to Arjuna to take action. — Bhagavad Gita (2.37)",
+      "te": "'ప్రాప్స్యసి' (పొందుతావు), 'భోక్ష్యసే' (అనుభవిస్తావు) అనేవి భవిష్యత్కాల సంభావనా క్రియలు. 'ఉత్తిష్ఠ' (లెమ్ము) అనేది అర్జునుడిని వెంటనే సిద్ధం కామనే శ్రీకృష్ణుని ప్రత్యక్ష ఆజ్ఞార్థక క్రియ. — భగవద్గీత (2.37)"
+    }
+  },
+  {
+    "id": "bg-2-37-q6",
+    "verse": { "c": 2, "s": 37 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'tasmāduttiṣṭha' and 'yuddhāya kṛtaniścayaḥ' in verse 2.37:",
+      "te": "2.37 శ్లోకంలోని 'తస్మాదుత్తిష్ఠ' మరియు 'యుద్ధాయ కృతనిశ్చయః' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Tasmāt + uttiṣṭha -> tasmād uttiṣṭha (Jasdtva Sandhi: 't' -> 'd' before vowel 'u'); ud + sthā -> uttiṣṭha (Pre-sandhi root modification); yuddhāya + kṛtaniścayaḥ -> yuddhāya kṛtaniścayaḥ (direct combination without vowel modification).",
+        "te": "తస్మాత్ + ఉత్తిష్ఠ -> తస్మాదుత్తిష్ఠ (జశ్త్వ సంధి: అచ్చు 'ఉ' ముందు పొల్లు 'త్' స్థానంలో 'ద్' వచ్చినది); ఉద్ + స్థా -> ఉత్తిష్ఠ (ఉపసర్గ ధాతు వికార సంధి); యుద్ధాయ + కృతనిశ్చయః -> యుద్ధాయ కృతనిశ్చయః (విభక్త్యంత పదం ప్రత్యక్షంగా చేరుట).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Tasmā + uttiṣṭha -> tasmāuttiṣṭha; yuddhāye + kṛtaniścayaḥ -> yuddhāyekṛtaniścayaḥ",
+        "te": "తస్మా + ఉత్తిష్ఠ -> తస్మాఉత్తిష్ఠ; యుద్ధాయే + కృతనిశ్చయః -> యుద్ధాయేకృతనిశ్చయః",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Tasmān + uttiṣṭha -> tasmānuttiṣṭha; yuddhām + kṛtaniścayaḥ -> yuddhāṃkṛtaniścayaḥ",
+        "te": "తస్మాన్ + ఉత్తిష్ఠ -> తస్మానుత్తిష్ఠ; యుద్ధామ్ + కృతనిశ్చయః -> యుద్ధాంకృతనిశ్చయః",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Tasmāḥ + uttiṣṭha -> tasmāhuttiṣṭha; yuddhāḥ + kṛtaniścayaḥ -> yuddhāhkṛtaniścayaḥ",
+        "te": "తస్మాః + ఉత్తిష్ఠ -> తస్మాహుత్తిష్ఠ; యుద్ధాః + కృతనిశ్చయః -> యుద్ధాహకృతనిశ్చయః",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Tasmāt' (therefore) + 'uttiṣṭha' (arise): unvoiced dental stop 't' becomes voiced dental stop 'd' via Jasdtva Sandhi before short vowel 'u', yielding 'tasmād uttiṣṭha'. 2. 'Yuddhāya' (Dative singular = for battle) + 'kṛtaniścayaḥ' (having made a firm resolve) join seamlessly in the line. — Bhagavad Gita (2.37)",
+      "te": "1. 'తస్మాత్' + 'ఉత్తిష్ఠ' లలో అచ్చు ముందు శ్వాస వర్ణం పొల్లు 'త్' స్థానంలో 'ద్' రావడం వల్ల (జశ్త్వ సంధి) 'తస్మాదుత్తిష్ఠ' అయినది. 2. 'యుద్ధాయ' (చతుర్థీ ఏకవచనం = యుద్ధము కొరకు) + 'కృతనిశ్చయః' (దృఢ సంకల్పము గలవాడవై) సమాస పదంగా చేరింది. — భగవద్గీత (2.37)"
+    }
+  }
+]

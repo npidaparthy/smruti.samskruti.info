@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-28-q1",
+    "verse": { "c": 2, "s": 28 },
+    "concept": ["Verse Meaning & The Three States of Being"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.28?\n\n“avyaktādīni bhūtāni vyaktamadhyāni bhārata | avyaktanidhanānyeva tatra kā paridevanā”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అవ్యక్తాదీని భూతాని వ్యక్తమధ్యాని భారత | అవ్యక్తనిధనాన్యేవ తత్ర కా పరిదేవనా”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — All created beings are unmanifest in their origin, manifest in their middle state, and unmanifest again in their dissolution, O descendant of Bharata! What cause is there then for lamentation?",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ భారతా! సమస్త ప్రాణులు పుట్టుకకు పూర్వము అవ్యక్తములు (కనిపించనివి), మధ్యకాలమున (జీవిత కాలమున) వ్యక్తములు (కనిపించేవి), మరణానంతరము మరల అవ్యక్తములే అగుచున్నవి. అటువంటప్పుడు దుఃఖించవలసిన అవసరం ఏమున్నది?",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Beings are born from physical matter, maintained by personal actions, and enter permanent heavenly realms upon death.",
+        "te": "శ్రీభగవానుడు పలికెను — ప్రాణులు భౌతిక పదార్థం నుండి జన్మించి, స్వయం కర్మల ద్వారా పోషించబడి, మరణానంతరం శాశ్వత స్వర్గలోకాలను చేరుకుంటాయి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Unmanifest beings are created anew during every royal coronation and dissolved when a king dies in battle.",
+        "te": "శ్రీభగవానుడు పలికెను — ప్రతి రాజ పట్టాభిషేక సమయంలో అవ్యక్త జీవులు క్రొత్తగా సృష్టించబడతారు, రాజు యుద్ధంలో చనిపోయినప్పుడు నశిస్తారు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Only warriors who die fighting in war remain manifest eternally, while all other souls disappear completely.",
+        "te": "శ్రీభగవానుడు పలికెను — యుద్ధంలో పోరాడి మరణించే యోధులు మాత్రమే శాశ్వతంగా వ్యక్తమై ఉంటారు, తక్కిన ఆత్మలన్నీ సంపూర్ణంగా అదృశ్యమవుతాయి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Avyaktādīni bhūtāni vyakta-madhyāni bhārata / avyakta-nidhanāny eva tatra kā paridevanā.\" Krishna places human life in its broader cosmic timeline: formlessness (Avyakta) before birth, temporary form (Vyakta) during life, and return to formlessness (Avyakta) after death. Because the manifest state is merely a brief middle phase, weeping over its dissolution is meaningless ('tatra kā paridevanā'). — Bhagavad Gita (2.28)",
+      "te": "జీవుల భౌతిక జీవిత ప్రయాణాన్ని శ్రీకృష్ణుడు ఇక్కడ విస్తృత దృక్పథంలో వర్ణించాడు. జననానికి ముందు జీవులు అవ్యక్తములు, జీవించినంత కాలం వ్యక్తములు, మరణానంతరం తిరిగి అవ్యక్తములు. వ్యక్త స్థితి అనేది ఒక చిన్న మధ్యంతర దశ మాత్రమే కాబట్టి దాని అంతానికి విలపించడం వ్యర్థము ('తత్ర కా పరిదేవనా'). — భగవద్గీత (2.28)"
+    }
+  },
+  {
+    "id": "bg-2-28-q2",
+    "verse": { "c": 2, "s": 28 },
+    "concept": ["Cosmological Triad - Avyakta, Vyakta, Avyakta"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What metaphysical reality regarding physical forms does Lord Krishna reveal through the terms 'Avyaktādīni', 'Vyakta-madhyāni', and 'Avyakta-nidhanāni' in verse 2.28?",
+      "te": "2.28 శ్లోకంలో 'అవ్యక్తాదీని', 'వ్యక్తమధ్యాని', మరియు 'అవ్యక్తనిధనాని' అనే పదాల ద్వారా భౌతిక రూపాల నైజం గురించి శ్రీకృష్ణుడు ఏ పరమార్థాన్ని వెల్లడించాడు?"
+    },
+    "choices": [
+      {
+        "en": "That physical manifestation (Vyakta) is an impermanent, temporary bubble sandwiched between two vast states of unmanifest potentiality (Avyakta); hence forms are non-essential and fleeting.",
+        "te": "భౌతికమైన వ్యక్త రూపమనేది (Vyakta) రెండు అనంతమైన అవ్యక్త స్థితుల (Avyakta) నడుమ ఉండే ఒక తాత్కాలిక నీటి బుడగ వంటిది; కాబట్టి భౌతిక రూపాలు అనిత్యమైనవి, అశాశ్వతమైనవి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "That the unmanifest state is evil while the manifest physical state is pure divine truth.",
+        "te": "అవ్యక్త స్థితి అశుభకరమైనదని, భౌతిక వ్యక్త రూపమే పవిత్రమైన దివ్య సత్యమని.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "That living beings have no existence whatsoever before physical birth.",
+        "te": "భౌతిక జననానికి ముందు జీవులకు ఏ విధమైన అస్తిత్వమూ లేదని.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "That physical bodies can be rendered permanently manifest through Vedic sacrifices.",
+        "te": "వేద యజ్ఞాల ద్వారా భౌతిక శరీరాలను శాశ్వతంగా వ్యక్త స్థితిలోనే ఉంచవచ్చని.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Sankhya and Vedanta, matter (Prakṛti) exists in two modes: Unmanifest (Avyakta / causal state / Avyākṛta) and Manifest (Vyakta / effect state). Created beings emerge from the unmanifest at birth, remain visible briefly in the middle, and dissolve back into the unmanifest at death. — Bhagavad Gita (2.28)",
+      "te": "సాంఖ్య వేదాంత దర్శనాల ప్రకారం ప్రకృత్యుద్భవ రూపాలు రెండు రకాలు: అవ్యక్తము (కారణ స్థితి), వ్యక్తము (కార్య స్థితి). జీవులు పుట్టుకకు ముందు కారణరూపమైన అవ్యక్తంలో ఉండి, బతికి ఉన్నంత కాలం కార్యరూపమైన వ్యక్తంలో ఉండి, మరణంలో తిరిగి కారణరూపంలో లయమవుతారు. — భగవద్గీత (2.28)"
+    }
+  },
+  {
+    "id": "bg-2-28-q3",
+    "verse": { "c": 2, "s": 28 },
+    "concept": ["Rhetorical Question - Tatra Kā Paridevanā"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the philosophical impact of the closing rhetorical question 'tatra kā paridevanā' in verse 2.28?",
+      "te": "2.28 శ్లోకం ముగింపులో అడిగిన 'తత్ర కా పరిదేవనా' (అటువంటప్పుడు విలపించడంలో అర్థం ఏమున్నది?) అనే రటోరికల్ ప్రశ్నా ప్రభావం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "It exposes the total futility and illogical nature of grief over bodily death, since losing a temporary visible form that naturally reverts to its original unmanifest state is inevitable.",
+        "te": "దేహ మరణం పట్ల విలపించడం సంపూర్ణ అజ్ఞానమని, అసంగతమని ఎత్తిచూపడం; తన సహజ సిద్ధమైన అనాది అవ్యక్త స్థితికి చేరుకునే తాత్కాలిక వ్యక్త రూపం కోసం శోకించడం వ్యర్థమని నిరూపించడం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "It asks Arjuna to choose which ritual mourning ceremony he wishes to perform.",
+        "te": "ఏ రకమైన అంత్యక్రియల శోక సభను నిర్వహించాలనుకుంటున్నాడో ఎంచుకోమని అర్జునుడిని కోరడం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "It suggests that grief is valuable only if accompanied by chanting Vedic hymns.",
+        "te": "వేద మంత్రోచ్ఛారణతో కూడిన శోకం మాత్రమే విలువైనదని సూచించడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "It questions why the Pandavas chose to fight instead of entering the forest.",
+        "te": "పాండవులు అడవులకు వెళ్లకుండా యుద్ధం చేయడానికి ఎందుకు నిశ్చయించుకున్నారో ప్రశ్నించడం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Paridevanā' means lamentation or weeping. 'Tatra kā paridevanā' = 'In that natural cycle of unmanifest-manifest-unmanifest, what room or reason is there for lamentation?'. It invites rational reflection to dissolve emotional attachment. — Bhagavad Gita (2.28)",
+      "te": "'పరిదేవనా' అనగా శోకము/విలాపము. 'తత్ర కా పరిదేవనా' అనగా 'అవ్యక్త-వ్యక్త-అవ్యక్తములనే ఈ నైజ పరిణామక్రమంలో ఇక విచారించడానికి ఆస్కారం ఎక్కడ ఉన్నది?'. వివేకంతో శోకాన్ని అధిగమించమని పిలుపు. — భగవద్గీత (2.28)"
+    }
+  },
+  {
+    "id": "bg-2-28-q4",
+    "verse": { "c": 2, "s": 28 },
+    "concept": ["Sanskrit Vocabulary - Unmanifest & Manifest Terms"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit compounds 'avyaktādīni', 'vyakta-madhyāni', and 'avyakta-nidhanāni' mean in verse 2.28?",
+      "te": "2.28 శ్లోకంలోని 'అవ్యక్తాదీని', 'వ్యక్తమధ్యాని', మరియు 'అవ్యక్తనిధనాని' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Avyaktādīni = Unmanifest in their beginning (Ādi); Vyakta-madhyāni = Manifest in their middle state (Madhya); Avyakta-nidhanāni = Unmanifest in their death/dissolution (Nidhana).",
+        "te": "అవ్యక్తాదీని = మొదట్లో (ఆదియందు) అవ్యక్తములు; వ్యక్తమధ్యాని = నడుమ (మధ్యకాలమున) వ్యక్తములు; అవ్యక్తనిధనాని = మరణమునందు (అంతమునందు) మరల అవ్యక్తములు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Avyaktādīni = Eternal gods; Vyakta-madhyāni = Mortal humans; Avyakta-nidhanāni = Demonic spirits.",
+        "te": "అవ్యక్తాదీని = శాశ్వత దేవతలు; వ్యక్తమధ్యాని = మరణించే మానవులు; అవ్యక్తనిధనాని = రాక్షస ఆత్మలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avyaktādīni = Born in darkness; Vyakta-madhyāni = Living in light; Avyakta-nidhanāni = Fading to grey.",
+        "te": "అవ్యక్తాదీని = చీకటిలో పుట్టినవి; వ్యక్తమధ్యాని = వెలుగులో జీవించేవి; అవ్యక్తనిధనాని = బూడిదగా మారేవి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avyaktādīni = Spiritual thoughts; Vyakta-madhyāni = Physical weapons; Avyakta-nidhanāni = Royal crowns.",
+        "te": "అవ్యక్తాదీని = ఆధ్యాత్మిక ఆలోచనలు; వ్యక్తమధ్యాని = భౌతిక ఆయుధాలు; అవ్యక్తనిధనాని = రాజ కిరీటాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Avyakta' + 'ādīni' (having unmanifest as origin). 2. 'Vyakta' + 'madhyāni' (having manifest as middle). 3. 'Avyakta' + 'nidhanāni' (having unmanifest as dissolution). All three Bahuvrīhi compounds modify 'bhūtāni' (living beings). — Bhagavad Gita (2.28)",
+      "te": "1. 'అవ్యక్త' + 'ఆదీని' (అవ్యక్తమే ఆదిగా గలవి). 2. 'వ్యక్త' + 'మధ్యాని' (వ్యక్తమే మధ్యగా గలవి). 3. 'అవ్యక్త' + 'నిధనాని' (అవ్యక్తమే ముగింపుగా గలవి). ఈ మూడు బహువ్రీహి సమాస పదాలు 'భూతాని' (ప్రాణులు) అనే పదాన్ని విశేషిస్తున్నాయి. — భగవద్గీత (2.28)"
+    }
+  },
+  {
+    "id": "bg-2-28-q5",
+    "verse": { "c": 2, "s": 28 },
+    "concept": ["Sanskrit Grammar - Bahuvrīhi Compounds"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical compound type of 'avyaktādīni', 'vyaktamadhyāni', and 'avyaktanidhanāni' in verse 2.28:",
+      "te": "2.28 శ్లోకంలోని 'అవ్యక్తాదీని', 'వ్యక్తమధ్యాని', మరియు 'అవ్యక్తనిధనాని' అనే సమాస పదాల వ్యాకరణ రకం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Bahuvrīhi Samāsa (possessive relative compounds) in the Nominative Plural Neuter, modifying the subject noun 'bhūtāni' (living beings).",
+        "te": "'భూతాని' (ప్రాణులు) అనే నపుంసకలింగ బహువచన కర్తృ పదానికి విశేషణములుగా ఉన్న ప్రథమా విభక్తి బహువచన 'బహువ్రీహి సమాసములు'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Dvandva Samāsa (copulative compounds).",
+        "te": "ద్వంద్వ సమాసములు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Tatpuruṣa Samāsa (determinative compounds) in the Genitive case.",
+        "te": "షష్ఠీ తత్పురుష సమాసములు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avyayībhāva Samāsa (adverbial compounds).",
+        "te": "అవ్యయీభావ సమాసములు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Avyaktaḥ ādiḥ yeṣāṃ tāni' = 'avyaktādīni' (those whose beginning is unmanifest). 2. 'Vyaktaṃ madhyaṃ yeṣāṃ tāni' = 'vyaktamadhyāni' (those whose middle is manifest). 3. 'Avyaktaṃ nidhanaṃ yeṣāṃ tāni' = 'avyaktanidhanāni' (those whose end is unmanifest). All are Bahuvrīhi compounds agreeing with 'bhūtāni'. — Bhagavad Gita (2.28)",
+      "te": "1. 'అవ్యక్తః ఆదిః యేషాం తాని' = అవ్యక్తాదీని. 2. 'వ్యక్తం మధ్యం యేషాం తాని' = వ్యక్తమధ్యాని. 3. 'అవ్యక్తం నిధనం యేషాం తాని' = అవ్యక్తనిధనాని. ఈ మూడూ అన్యపదార్థ ప్రాధాన్యం గల బహువ్రీహి సమాసాలు. — భగవద్గీత (2.28)"
+    }
+  },
+  {
+    "id": "bg-2-28-q6",
+    "verse": { "c": 2, "s": 28 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'avyaktādīni' and 'nidhanānyeva' in verse 2.28:",
+      "te": "2.28 శ్లోకంలోని 'అవ్యక్తాదీని' మరియు 'నిధనాన్యేవ' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Avyakta + ādīni -> avyaktādīni (Savarna-dirgha Sandhi: a + ā -> ā); nidhanāni + eva -> nidhanāny eva (Yan Sandhi: 'i' before vowel 'e' becomes 'y').",
+        "te": "అవ్యక్త + ఆదీని -> అవ్యక్తాదీని (సవర్ణదీర్ఘ సంధి: అ + ఆ -> ఆ); నిధనాని + ఏవ -> నిధనాన్యేవ (యణాదేశ సంధి: అచ్చు 'ఏ' ముందు 'ఇ' కారం 'య్' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Avyakta + adīni -> avyaktādīni; nidhanāna + eva -> nidhanānāeva",
+        "te": "అవ్యక్త + అదీని -> అవ్యక్తాదీని; నిధనాన + ఏవ -> నిధనానాఏవ",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avyaktam + ādīni -> avyaktamādīni; nidhanām + eva -> nidhanāmeva",
+        "te": "అవ్యక్తమ్ + ఆదీని -> అవ్యక్తమాదీని; నిధనామ్ + ఏవ -> నిధనామేవ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avyakte + ādīni -> avyakte'dīni; nidhanāne + eva -> nidhanāneva",
+        "te": "అవ్యక్తే + ఆదీని -> అవ్యక్తేఽదీని; నిధనానే + ఏవ -> నిధనానేవ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Avyakta' (unmanifest) + 'ādīni' (beginnings): 'a' + 'ā' merges into long 'ā' via Savarna-dirgha Sandhi -> 'avyaktādīni'. 2. 'Nidhanāni' (ends) + 'eva' (indeed): final vowel 'i' converts to semi-vowel 'y' via Yan Sandhi before non-homogeneous vowel 'e', yielding 'nidhanāny eva'. — Bhagavad Gita (2.28)",
+      "te": "1. 'అవ్యక్త' + 'ఆదీని' లలో 'అ' + 'ఆ' కలసి సవర్ణదీర్ఘ సంధి ద్వారా 'అవ్యక్తాదీని' అయినది. 2. 'నిధనాని' + 'ఏవ' లలో 'ఇ' కారం స్థానంలో 'య్' వచ్చే యణాదేశ సంధి జరిగి 'నిధనాన్యేవ' అయినది. — భగవద్గీత (2.28)"
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-21-q1",
+    "verse": { "c": 2, "s": 21 },
+    "concept": ["Verse Meaning & Non-agency of the Knower"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.21?\n\n“vedāvināśinaṃ nityaṃ ya enamajamavyayam | kathaṃ sa puruṣaḥ pārtha kaṃ ghātayati hanti kam”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“వేదావినాశినం నిత్యం య ఏనమజమవ్యయమ్ | కథం స పురుషః పార్థ కం ఘాతయతి హంతి కమ్”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — O Partha, he who knows this Soul to be imperishable, eternal, unborn, and immutable—how can such a person slay anyone or cause anyone to be slain?",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! ఈ ఆత్మను అవినాశిగా (నాశనం లేనిదిగా), నిత్యముగా, అజముగా (జన్మ లేనిదిగా), అవ్యయముగా (మార్పు లేనిదిగా) ఎరిగిన మానవుడు ఎవరిని ఎలా సంహరిస్తాడు? ఎవరిచేతనైనా ఎలా చంపిస్తాడు?",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — O Partha, he who knows the secret rules of battle can slay enemies without incurring any karmic reaction.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! యుద్ధ రహస్య నియమాలను ఎరిగినవాడు ఎటువంటి కర్మ పాపం అంటకుండా శత్రువులను సంహరించగలడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — O Partha, he who realizes that the body is temporary should lay down his bow and refuse to fight under any circumstances.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! దేహం అశాశ్వతమని గ్రహించినవాడు తన విల్లును పక్కన పడేసి ఏ పరిస్థితిలోనూ పోరాడటానికి నిరాకరించాలి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — O Partha, he who worships the Lord achieves the power to resurrect those who are slain on the battlefield.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! ఈశ్వరుడిని ఆరాధించేవాడు రణరంగంలో చనిపోయినవారిని పునరుజ్జీవింపజేసే శక్తిని పొందుతాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Vedāvināśinaṃ nityaṃ ya enam ajam avyayam / kathaṃ sa puruṣaḥ pārtha kaṃ ghātayati hanti kam.\" Krishna explains that a true knower of Ātman ('veda') recognizes that Consciousness is completely beyond the actions of killing ('hanti') or causing to kill ('ghātayati'). True Self-realization destroys the sense of egoic agency ('kartṛtva'). — Bhagavad Gita (2.21)",
+      "te": "ఆత్మను అవినాశిగా, నిత్యముగా, అజముగా, అవ్యయముగా ఎరిగిన జ్ఞానికి 'నేను చంపుతున్నాను' లేదా 'ఒకరిని చంపిస్తున్నాను' అనే కర్తృత్వ భావన (అహంకారం) నశిస్తుంది. ఆత్మజ్ఞానంలో కర్మకర్తృత్వములకు స్థానం లేదని కృష్ణుడు నిరూపిస్తున్నాడు. — భగవద్గీత (2.21)"
+    }
+  },
+  {
+    "id": "bg-2-21-q2",
+    "verse": { "c": 2, "s": 21 },
+    "concept": ["Philosophical Paradox - Destruction of Agency"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What rhetorical point does Lord Krishna make by asking 'kathaṃ sa puruṣaḥ... kaṃ ghātayati hanti kam' in verse 2.21?",
+      "te": "2.21 శ్లోకంలో 'కథం స పురుషః... కం ఘాతయతి హంతి కమ్' అనే రటోరికల్ (ఆక్షేపణాత్మక) ప్రశ్న ద్వారా శ్రీకృష్ణుడు ఏ సిద్ధాంతాన్ని నొక్కిచెప్పాడు?"
+    },
+    "choices": [
+      {
+        "en": "That from the standpoint of absolute Atma-Jnana, there is neither an agent of killing nor an object that can be killed; agency (kartṛtva) is a false superimposition of the ego.",
+        "te": "పారమార్థిక ఆత్మజ్ఞాన దృష్టిలో చంపే కర్త గానీ, చంపబడే కర్మ గానీ లేవు; కర్తృత్వమనేది కేవలం అహంకార జనితమైన మిథ్యా ఆరోపణ మాత్రమేనని.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "That warriors should feel guilty and hesitate every time they shoot an arrow in battle.",
+        "te": "రణరంగంలో ప్రతీసారి బాణం ప్రయోగించినప్పుడల్లా యోధులు నేరభావనతో సందిగ్ధంలో పడాలని.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "That only the Supreme Lord Himself has the right to engage in warfare on earth.",
+        "te": "భూమిపై యుద్ధం చేసే హక్కు కేవలం శ్రీకృష్ణ భగవానునికి మాత్రమే ఉందని.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "That killing in war is acceptable only if done using celestial mantras rather than physical bow and arrows.",
+        "te": "భౌతిక ధనుర్బాణాలతో కాకుండా దివ్య మంత్రాల ద్వారా మాత్రమే చంపడం ధర్మసమ్మతమని.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Krishna uses two rhetorical verbs: 'ghātayati' (causes to be killed - causal) and 'hanti' (kills directly - simple active). For the enlightened person established in the changeless Self, both direct agency and indirect causation of action are completely absent. — Bhagavad Gita (2.21)",
+      "te": "'ఘాతయతి' (చంపిస్తాడు - ప్రేరణ క్రియ), 'హంతి' (చంపుతాడు - ప్రత్యక్ష క్రియ). ఆత్మజ్ఞానియైన పురుషునికి వికారరహిత ఆత్మస్థితి సిద్ధించడం వల్ల ప్రత్యక్ష కర్తృత్వము గానీ, పరోక్ష ప్రేరకత్వము గానీ ఉండవని కృష్ణుడి ఆక్షేపణ రూప బోధ. — భగవద్గీత (2.21)"
+    }
+  },
+  {
+    "id": "bg-2-21-q3",
+    "verse": { "c": 2, "s": 21 },
+    "concept": ["Four Attributes of the Self - Avināśin, Nitya, Aja, Avyaya"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which four essential characteristics of the Ātman are reiterated in verse 2.21?",
+      "te": "2.21 శ్లోకంలో పునరుద్ఘాటించబడిన ఆత్మ యొక్క నాలుగు ప్రధాన లక్షణాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "1. Avināśinam (Imperishable), 2. Nityam (Eternal), 3. Ajam (Unborn), 4. Avyayam (Immutable / Undecaying).",
+        "te": "1. అవినాశినమ్ (నాశనం లేనిది), 2. నిత్యమ్ (శాశ్వతమైనది), 3. అజమ్ (జన్మ లేనిది), 4. అవ్యయమ్ (క్షీణత/మార్పు లేనిది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1. Sūkṣmam (Subtle), 2. Vibhum (Omnipresent), 3. Nirguṇam (Attribute-less), 4. Śūnyam (Empty).",
+        "te": "1. సూక్ష్మమ్ (సూక్ష్మమైనది), 2. విభుమ్ (సర్వవ్యాపి), 3. నిర్గుణమ్ (గుణాలు లేనిది), 4. శూన్యమ్ (ఏమీ లేనిది).",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1. Satyam (Truth), 2. Śivam (Auspicious), 3. Sundaram (Beautiful), 4. Anantam (Infinite).",
+        "te": "1. సత్యమ్ (సత్యం), 2. శివమ్ (మంగళం), 3. సుందరమ్ (అ అందం), 4. అనంతమ్ (అనంతం).",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1. Kṣatram (Warrior), 2. Brāhmam (Priestly), 3. Vaiśyam (Mercantile), 4. Śūdram (Serviette).",
+        "te": "1. క్షాత్రమ్, 2. బ్రాహ్మమ్, 3. వైశ్యమ్, 4. శూద్రమ్.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The verse gathers four crucial descriptors: 'Avināśi' (no destruction), 'Nitya' (transcending time), 'Aja' (free from birth), and 'Avyaya' (free from decay/modification). Knowing the Self as such frees one from body-identification. — Bhagavad Gita (2.21)",
+      "te": "కృష్ణుడు ఇక్కడ నాలుగు విశేషణాలను చేర్చాడు: 'అవినాశి' (వినాశనం లేనిది), 'నిత్యమ్' (కాలానికి అతీతమైనది), 'అజమ్' (పుట్టుక లేనిది), 'అవ్యయమ్' (వికారము లేనిది). ఈ నాలుగు గుణాలను ఎరిగినవాడు ఆత్మభావంలో స్థిరపడతాడు. — భగవద్గీత (2.21)"
+    }
+  },
+  {
+    "id": "bg-2-21-q4",
+    "verse": { "c": 2, "s": 21 },
+    "concept": ["Sanskrit Vocabulary - Active vs Causal Verbs"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit verbs 'ghātayati' and 'hanti' mean in verse 2.21?",
+      "te": "2.21 శ్లోకంలోని 'ఘాతయతి' మరియు 'హంతి' అనే క్రియాపదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Ghātayati = Causes [someone] to be slain / instigates killing (Causal verb); Hanti = Slays / kills directly (Active verb).",
+        "te": "ఘాతయతి = చంపిస్తాడు / చంపడానికి ప్రేరేపిస్తాడు (ణిజంత/ప్రేరణార్థక క్రియ); హంతి = స్వయంగా చంపుతాడు (ప్రత్యక్ష క్రియ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Ghātayati = Protects from death; Hanti = Mourns the dead.",
+        "te": "ఘాతయతి = మరణం నుండి కాపాడుతాడు; హంతి = చనిపోయినవారి కోసం దుఃఖిస్తాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Ghātayati = Performs Vedic yajna; Hanti = Offers charity.",
+        "te": "ఘాతయతి = వేద యజ్ఞం చేస్తాడు; హంతి = దానధర్మాలు చేస్తాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Ghātayati = Worshipper; Hanti = Disciple.",
+        "te": "ఘాతయతి = ఆరాధకుడు; హంతి = శిష్యుడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Hanti' is the 3rd person singular present active of root 'han' (to kill). 'Ghātayati' is the 3rd person singular present causal form (ṇijanta) of root 'han' (to cause to kill). Krishna negates both direct action and indirect causation for the Knower of the Self. — Bhagavad Gita (2.21)",
+      "te": "'హంతి' అనగా 'హన్' ధాతువు వర్తమానకాల రూపం (చంపుతాడు). 'ఘాతయతి' అనగా 'హన్' ధాతువు ణిజంత/ప్రేరణార్థక రూపం (చంపిస్తాడు). ఆత్మజ్ఞానంలో ఈ రెండు క్రియలకూ ఆస్కారం లేదని భావం. — భగవద్గీత (2.21)"
+    }
+  },
+  {
+    "id": "bg-2-21-q5",
+    "verse": { "c": 2, "s": 21 },
+    "concept": ["Sanskrit Grammar - Causal Verb 'Ghātayati'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of the verb 'ghātayati' in verse 2.21:",
+      "te": "2.21 శ్లోకంలోని 'ఘాతయతి' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person singular present tense Causal Parasmaipada (Laṭ-lakāra, Ṇijanta) from root 'han' (to kill/slay), meaning 'causes to be slain / induces killing'.",
+        "te": "'హన్' (చంపు) అనే ధాతువు యొక్క లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ఏకవచన ణిజంత (Causal/ప్రేరణార్థక) పరస్మైపద రూపం — 'చంపిస్తాడు / చంపడానికి ప్రేరేపిస్తాడు'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1st person plural future tense active verb.",
+        "te": "ఉత్తమ పురుష బహువచన భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "3rd person singular past tense verb.",
+        "te": "ప్రథమ పురుష ఏకవచన భూతకాల క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb form.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Ghātayati' is derived from root 'han' + Ṇic pratyaya (causal suffix), forming 'ghāt' + 'ayati' = 'ghātayati' ('he causes to be killed'). In 'kathaṃ sa puruṣaḥ kaṃ ghātayati', it asks 'how can that person cause anyone to be slain?'. — Bhagavad Gita (2.21)",
+      "te": "'హన్' ధాతువుకు ణిచ్ (ప్రేరణ) प्रत्यయం చేరడం వల్ల 'ఘాత్' అను అంగం ఏర్పడి 'ఘాతయతి' (చంపిస్తాడు) అనే రూపమైంది. 'ఆత్మజ్ఞానియైన పురుషుడు ఒకరిచేత ఎవరినైనా ఎలా చంపిస్తాడు?' అని ప్రశ్న. — భగవద్గీత (2.21)"
+    }
+  },
+  {
+    "id": "bg-2-21-q6",
+    "verse": { "c": 2, "s": 21 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'vedāvināśinaṃ' and 'enamajamavyayam' in verse 2.21:",
+      "te": "2.21 శ్లోకంలోని 'వేదావినాశినమ్' మరియు 'ఏనమజమవ్యయమ్' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Veda + avināśinam -> vedāvināśinaṃ (Savarna-dirgha Sandhi: a + a -> ā); enam + ajam + avyayam -> enamajamavyayam (consonant 'm' combining with initial vowels 'a').",
+        "te": "వేద + అవినాశినమ్ -> వేదావినాశినమ్ (సవర్ణదీర్ఘ సంధి: అ + అ -> ఆ); ఏనమ్ + అజమ్ + అవ్యయమ్ -> ఏనమజమవ్యయమ్ (పొల్లు 'మ్' అచ్చు 'అ' తో సూటిగా కలయుట).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Vedaḥ + avināśinam; enān + ajam + avyayam",
+        "te": "వేదః + అవినాశినమ్; ఏనాన్ + అజమ్ + అవ్యయమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Vede + avināśinam; enama + jam + avyayam",
+        "te": "వేదే + అవినాశినమ్; ఏనమ + జమ్ + అవ్యయమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vedām + avināśinam; enas + ajam + avyayam",
+        "te": "వేదామ్ + అవినాశినమ్; ఏనస్ + అజమ్ + అవ్యయమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Veda' (knows) + 'avināśinam' (imperishable): 'a' + 'a' merges into long 'ā' via Savarna-dirgha Sandhi, yielding 'vedāvināśinaṃ'. 2. 'Enam' (this) + 'ajam' (unborn) + 'avyayam' (immutable): 'm' + 'a' = 'ma', joining seamlessly to form 'enamajamavyayam'. — Bhagavad Gita (2.21)",
+      "te": "1. 'వేద' (తెలుసుకొనును) + 'అవినాశినమ్' లలో 'అ' + 'అ' కలసి సవర్ణదీర్ఘ సంధి ద్వారా 'వేదావినాశినమ్' అయినది. 2. 'ఏనమ్' + 'అజమ్' + 'అవ్యయమ్' లలో పొల్లు 'మ్' అచ్చులు 'అ' తో కలసి 'ఏనమజమవ్యయమ్' అని రూపుదిద్దుకుంది. — భగవద్గీత (2.21)"
+    }
+  }
+]

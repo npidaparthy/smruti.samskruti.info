@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-38-q1",
+    "verse": { "c": 2, "s": 38 },
+    "concept": ["Verse Meaning & Gateway to Karma Yoga"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.38?\n\n“sukhaduḥkhe same kṛtvā lābhālābhau jayājayau | tato yuddhāya yujyasva naivaṃ pāpamavāpsyasi”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“సుఖదుఃఖే సమే కృత్వా లాభాలాభౌ జయాజయౌ | తతో యుద్ధాయ యుజ్యస్వ నైవం పాపమవాప్స్యసి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Holding pleasure and pain, gain and loss, victory and defeat as equal, prepare for battle! By acting thus, you will never incur sin.",
+        "te": "శ్రీభగవానుడు పలికెను — సుఖము మరియు దుఃఖమును, లాభము మరియు నష్టమును, జయము మరియు అపజయమును సమానముగా (సమభావంతో) భావించి, ఆ తర్వాత యుద్ధానికి సన్నద్ధుడవు కమ్ము! ఈ విధంగా యుద్ధం చేయడం వల్ల నీవు ఎన్నటికీ పాపాన్ని పొందవు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — By celebrating victory and mourning defeat, a warrior stays motivated and avoids incurring karmic reactions in battle.",
+        "te": "శ్రీభగవానుడు పలికెను — విజయాన్ని వేడుక చేసుకుంటూ, ఓటమిని చూసి విలపించడం ద్వారా యోధుడు ప్రేరణ పొంది రణరంగంలో ఎలాంటి కర్మపాపమూ అంటకుండా కాపాడుకుంటాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Pleasure and gain should be sought through warfare, while pain and loss should be avoided by retreating to the forest.",
+        "te": "శ్రీభగవానుడు పలికెను — యుద్ధం ద్వారా సుఖాలను, లాభాలను సాధించాలి, దుఃఖాలను, నష్టాలను అరణ్యానికి తప్పుకోవడం ద్వారా నివారించాలి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Fighting in battle without weapons ensures that victory and defeat become equal in the eyes of the gods.",
+        "te": "శ్రీభగవానుడు పలికెను — ఆయుధాలు లేకుండా రణరంగంలో పోరాడటం వల్ల జయాపజయాలు దేవతల దృష్టిలో సమానమవుతాయి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Sukha-duḥkhe same kṛtvā lābhālābhau jayājayau / tato yuddhāya yujyasva naivaṃ pāpam avāpsyasi.\" Verse 2.38 introduces the core principle of Karma Yoga: mental equanimity ('same kṛtvā') toward dualities ('dvandva'). When action is performed as a pure obligation without selfish desire for results, it becomes karma-neutral, completely freeing the doer from sin ('na evaṃ pāpam avāpsyasi'). — Bhagavad Gita (2.38)",
+      "te": "కర్మయోగానికి పునాది శ్లోకమిది. ద్వంద్వాల పట్ల (సుఖదుఃఖాలు, లాభనష్టాలు, జయాపజయాలు) సమభావాన్ని ('సమే కృత్వా') పాటించడమే నిష్కామ కర్మ నిశ్చయం. ఫలితంపై ఆశ లేక, కేవలం కర్తవ్య బుద్ధితో పోరాడినప్పుడు కర్మబంధం గానీ, పాపం గానీ ('నైవం పాపమవాప్స్యసి') అంటవని కృష్ణుడు ఉపదేశించాడు. — భగవద్గీత (2.38)"
+    }
+  },
+  {
+    "id": "bg-2-38-q2",
+    "verse": { "c": 2, "s": 38 },
+    "concept": ["Philosophical Concept - Equanimity in Dualities (Samatvam)"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What three pairs of opposites (Dvandvas) does Lord Krishna instruct Arjuna to treat with equanimity in verse 2.38?",
+      "te": "2.38 శ్లోకంలో ఏ మూడు రకాల ద్వంద్వాల (పరస్పర వ్యతిరేక భావనల) పట్ల సమభావాన్ని పాటించాలని శ్రీకృష్ణుడు అర్జునుడికి ఉపదేశించాడు?"
+    },
+    "choices": [
+      {
+        "en": "1. Sukha-duḥkha (Pleasure and Pain - emotional level), 2. Lābha-alābha (Gain and Loss - material/economic level), 3. Jaya-ajaya (Victory and Defeat - practical/social level).",
+        "te": "1. సుఖదుఃఖే (సుఖము మరియు దుఃఖము - మానసిక స్థాయి), 2. లాభాలాభౌ (లాభము మరియు నష్టము - భౌతిక/ఆర్థిక స్థాయి), 3. జయాజయౌ (జయము మరియు అపజయము - సామాజిక/కార్యాచరణ స్థాయి).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1. Heat and Cold, 2. Hunger and Thirst, 3. Honor and Dishonor.",
+        "te": "1. శీతోష్ణాలు, 2. ఆకలి దప్పులు, 3. మాన అవమానాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1. Virtue and Sin, 2. Friend and Enemy, 3. Youth and Old Age.",
+        "te": "1. పుణ్య పాపాలు, 2. మిత్ర శత్రువులు, 3. యౌవన వృద్ధాప్యాలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1. Mind and Body, 2. Heaven and Hell, 3. Life and Death.",
+        "te": "1. మనస్సు దేహాలు, 2. స్వర్గ నరకాలు, 3. జనన మరణాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "The verse systematically covers the inner-to-outer spectrum of human experience: Sukha-duḥkha (internal sensations/emotions), Lābhālābhau (material outcomes), and Jayājayau (external status/battle results). Cultivating sameness ('same kṛtvā') across all three levels neutralizes mental agitation. — Bhagavad Gita (2.38)",
+      "te": "మానవానుభూతులకు చెందిన మూడు పొరలను ఈ శ్లోకం ఆవరించింది: సుఖదుఃఖే (అంతరంగ మానసిక భావాలు), లాభాలాభౌ (బాహ్య భౌతిక లాభనష్టాలు), జయాజయౌ (సామాజిక రణరంగ జయాపజయాలు). ఈ మూడింటి యందు 'సమే కృత్వా' (సమభావం) పాటించడం వల్ల చిత్తశాంతి, కర్మ విముక్తి సిద్ధస్తాయి. — భగవద్గీత (2.38)"
+    }
+  },
+  {
+    "id": "bg-2-38-q3",
+    "verse": { "c": 2, "s": 38 },
+    "concept": ["Karma-Yoga Mechanism - Freedom from Sin"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why does acting with mental equanimity ('same kṛtvā') prevent a person from incurring sin ('na evaṃ pāpam avāpsyasi') in verse 2.38?",
+      "te": "2.38 శ్లోకంలో మానసిక సమభావాన్ని ('సమే కృత్వా') పాటించి కర్మ చేయడం వల్ల మనిషికి పాపం ఎందుకు అంటదు ('నైవం పాపమవాప్స్యసి')?"
+    },
+    "choices": [
+      {
+        "en": "Because sin and karmic bondage are caused by egoic attachment (Rāga-Dveṣa) and desire for personal fruits; acting purely out of unselfish duty removes the ego, leaving no karmic residue.",
+        "te": "పాపము, కర్మబంధము అనేవి అహంకార రాగద్వేషాల వల్ల, స్వార్థ ఫలాపేక్ష వల్ల మాత్రమే ఏర్పడతాయి కాబట్టి; ఫలాపేక్ష లేక నిష్కామంగా చేసే స్వధర్మాచరణ అహంకారాన్ని తొలగించి, కర్మఫల శేషం లేకుండా చేస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because physical weapons cannot create sin when used in the presence of Lord Krishna.",
+        "te": "శ్రీకృష్ణుని సమక్షంలో భౌతిక ఆయుధాలను ప్రయోగించినప్పుడు అవి ఎలాంటి పాపాన్నీ సృష్టించలేవు కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because equanimity automatically erases all past bad actions committed in previous lives.",
+        "te": "సమభావం అనేది పూర్వ జన్మలలో చేసిన సమస్త దుష్కర్మలను స్వయంసిద్ధంగా తుడిచిపెడుతుంది కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because victory and defeat cancel each other out in the celestial registers of Karma.",
+        "te": "కర్మల నమోదు పుస్తకాలలో జయాపజయాలు ఒకదానినొకటి రద్దు చేసుకుంటాయి కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedantic philosophy, action itself does not bind; it is the subjective mental desire for specific results ('sukha', 'lābha', 'jaya') or aversion to undesirable outcomes ('duḥkha', 'alābha', 'ajaya') that creates binding karma/sin. By transcending attachment, action becomes Karma-Sannyāsa within Karma-Anuṣṭhāna. — Bhagavad Gita (2.38)",
+      "te": "వేదాంతంలో కర్మ అనేది మనిషిని బంధించదు; కర్మఫలం పై ఉండే ఆశ, అసంతృప్తి (రాగద్వేషాలు) మాత్రమే కర్మ బంధానికి, పాపానికి కారణమవుతాయి. సుఖదుఃఖ జయాపజయాలపై ఆశను వీడి చేసే నిష్కామ కార్యాచరణ బంధరహితమైనది. — భగవద్గీత (2.38)"
+    }
+  },
+  {
+    "id": "bg-2-38-q4",
+    "verse": { "c": 2, "s": 38 },
+    "concept": ["Sanskrit Vocabulary - The Three Compound Pairs"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit Dvandva compounds 'lābhālābhau' and 'jayājayau' mean in verse 2.38?",
+      "te": "2.38 శ్లోకంలోని 'లాభాలాభౌ' మరియు 'జయాజయౌ' అనే ద్వంద్వ సమాస పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Lābhālābhau = Gain and Loss; Jayājayau = Victory and Defeat.",
+        "te": "లాభాలాభౌ = లాభము మరియు నష్టము (అలాభము); జయాజయౌ = జయము (విజయం) మరియు అపజయము (ఓటమి).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Lābhālābhau = Truth and Untruth; Jayājayau = Courage and Fear.",
+        "te": "లాభాలాభౌ = సత్యము మరియు అసత్యము; జయాజయౌ = ధైర్యము మరియు భయము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Lābhālābhau = Wealth and Wisdom; Jayājayau = Life and Death.",
+        "te": "లాభాలాభౌ = సంపద మరియు వివేకము; జయాజయౌ = జీవితము మరియు మరణము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Lābhālābhau = Heaven and Earth; Jayājayau = Peace and War.",
+        "te": "లాభాలాభౌ = స్వర్గము మరియు భూమి; జయాజయౌ = శాంతి మరియు యుద్ధము.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Lābha' (gain) + 'alābha' (non-gain/loss) = 'Lābhālābhau' (Dual Nominative). 2. 'Jaya' (victory) + 'ajaya' (non-victory/defeat) = 'Jayājayau' (Dual Nominative). Both are classic Itaretara Dvandva compounds. — Bhagavad Gita (2.38)",
+      "te": "1. 'లాభ' + 'అలాభ' = లాభాలాభౌ (ఇతరేతర ద్వంద్వ సమాసం - ప్రథమా ద్వివచనం). 2. 'జయ' + 'అజయ' = జయాజయౌ (ఇతరేతర ద్వంద్వ సమాసం - ప్రథమా ద్వివచనం). — భగవద్గీత (2.38)"
+    }
+  },
+  {
+    "id": "bg-2-38-q5",
+    "verse": { "c": 2, "s": 38 },
+    "concept": ["Sanskrit Grammar - Imperative Verb 'Yujyasva'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of the verb 'yujyasva' in verse 2.38:",
+      "te": "2.38 శ్లోకంలోని 'యుజ్యస్వ' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "2nd person singular Imperative mood Ātmanepada (Loṭ-lakāra) from root 'yuj' (to prepare for / engage in / unite with), meaning 'prepare yourself for [battle]! / engage yourself!'.",
+        "te": "'యుజ్' (యుద్ధానికి సిద్ధపడు/కలయు/కర్తవ్యంలో నిమగ్నమవ్వు) అనే ధాతువు యొక్క లోట్ లకార (ఆజ్ఞార్థక) మధ్యమ పురుష ఏకవచన ఆత్మనేపద రూపం — 'యుద్ధము కొరకు సిద్ధపడము / సన్నద్ధుడవు కమ్ము!'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "3rd person plural present tense active verb.",
+        "te": "ప్రథమ పురుష బహువచన వర్తమానకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1st person singular future tense verb.",
+        "te": "ఉత్తమ పురుష ఏకవచన భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Past passive participle form.",
+        "te": "భూతకాల కర్మణి విశేషణ రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yujyasva' is the 2nd person singular imperative (Loṭ-lakāra) Ātmanepada of root 'yuj' (yujyatām, yujyetām, yujyantām ... yujyasva). Joined with 'yuddhāya' (Dative for purpose): 'tato yuddhāya yujyasva' = 'then prepare yourself for battle!'. — Bhagavad Gita (2.38)",
+      "te": "'యుజ్' ధాతువు ఆత్మనేపద లోట్ లకార (ఆజ్ఞార్థక) మధ్యమ పురుష ఏకవచన రూపం 'యుజ్యస్వ'. 'యుద్ధాయ' (చతుర్థీ విభక్తి) తో చేరి 'తతో యుద్ధాయ యుజ్యస్వ' (కావున యుద్ధం కొరకు సిద్ధపడము) అని కృష్ణుడి ఆదేశం. — భగవద్గీత (2.38)"
+    }
+  },
+  {
+    "id": "bg-2-38-q6",
+    "verse": { "c": 2, "s": 38 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'lābhālābhau' and 'naivaṃ' in verse 2.38:",
+      "te": "2.38 శ్లోకంలోని 'లాభాలాభౌ' మరియు 'నైవమ్' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Lābha + alābhau -> lābhālābhau (Savarna-dirgha Sandhi: a + a -> ā); na + evam -> naivam (Vṛddhi Sandhi: a + e -> ai); naivam + avāpsyasi -> naivaṃ pāpam avāpsyasi (Anusvāra Sandhi).",
+        "te": "లాభ + అలాభౌ -> లాభాలాభౌ (సవర్ణదీర్ఘ సంధి: అ + అ -> ఆ); న + ఏవమ్ -> నైవమ్ (వృద్ధి సంధి: అ + ఏ -> ఐ); నైవమ్ + పాపమ్ + అవాప్స్యసి -> నైవం పాపమవాప్స్యసి (అనుస్వార సంధి).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Lābha + lābhau -> lābhālābhau; na + ivam -> naivam",
+        "te": "లాభ + లాభౌ -> లాభాలాభౌ; న + ఇవమ్ -> నైవమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Lābham + alābhau -> lābhamalābhau; no + evam -> naivam",
+        "te": "లాభమ్ + అలాభౌ -> లాభమలాభౌ; నో + ఏవమ్ -> నైవమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Lābhe + alābhau -> lābhealābhau; nai + evam -> naivam",
+        "te": "లాభే + అలాభౌ -> లాభేఅలాభౌ; నై + ఏవమ్ -> నైవమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Lābha' (gain) + 'alābhau' (loss - dual): 'a' + 'a' merges into long 'ā' via Savarna-dirgha Sandhi -> 'lābhālābhau'. 2. 'Na' (not) + 'evam' (thus): 'a' + 'e' merges into 'ai' via Vṛddhi Sandhi -> 'naivam'. 3. 'Naivam' + 'pāpam': final 'm' converts to Anusvāra 'ṃ' before consonant 'p' -> 'naivaṃ pāpam'. — Bhagavad Gita (2.38)",
+      "te": "1. 'లాభ' + 'అలాభౌ' లలో 'అ' + 'అ' కలసి సవర్ణదీర్ఘ సంధి ద్వారా 'లాభాలాభౌ' అయినది. 2. 'న' + 'ఏవమ్' లలో 'అ' + 'ఏ' కలసి వృద్ధి సంధి ద్వారా 'నైవమ్' అయినది. 3. 'నైవమ్' + 'పాపమ్' లలో వ్యంజనానికి ముందు పొల్లు 'మ్' అనుస్వారంగా మారి 'నైవం పాపమ్' అయినది. — భగవద్గీత (2.38)"
+    }
+  }
+]

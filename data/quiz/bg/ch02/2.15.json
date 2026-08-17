@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-15-q1",
+    "verse": { "c": 2, "s": 15 },
+    "concept": ["Verse Meaning & Qualification for Immortality"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.15?\n\n“yaṃ hi na vyathayantyete puruṣaṃ puruṣarṣabha | samaduḥkhasukhaṃ dhīraṃ so'mṛtatvāya kalpate”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యం హి న వ్యథయంత్యేతే పురుషం పురుషర్షభ | సమదుఃఖసుఖం ధీరం సోఽమృతత్వాయ కల్పతే”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — O best among men (Arjuna), the wise person who is not afflicted or disturbed by these sense-contacts, and to whom happiness and distress are equal, becomes fit for immortality.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పురుషశ్రేష్ఠా (అర్జునా)! ఈ ఇంద్రియ విషయాలు ఏ ధీరుడిని (వివేకిని) వ్యథ పరిచవో (చలింపజేయవో), సుఖదుఃఖాలను సమంగా స్వీకరించే అటువంటి పురుషుడు అమరత్వానికి (మోక్షానికి) అర్హుడవుతాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — He who seeks physical pleasure in this world while enduring pain during battle attains the celestial planets of Indra.",
+        "te": "శ్రీభగవానుడు పలికెను — రణరంగంలో బాధను అనుభవిస్తూనే లౌకిక సుఖాలను కోరుకునేవాడు ఇంద్రుని స్వర్గలోకాలను పొందుతాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Immortality is achieved only by those who perform elaborate sacrifices without experiencing any sorrow.",
+        "te": "శ్రీభగవానుడు పలికెను — ఎటువంటి విచారము లేకుండా గొప్ప యజ్ఞాలను ఆచరించే వారికి మాత్రమే అమరత్వం లభిస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — A warrior who slays his enemies with equanimity is freed from physical old age and physical disease.",
+        "te": "శ్రీభగవానుడు పలికెను — సమభావంతో శత్రువులను సంహరించే యోధుడు శారీరక ముసలితనము, వ్యాధుల నుండి విముక్తుడవుతాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Yaṃ hi na vyathayanty ete puruṣaṃ puruṣarṣabha / sama-duḥkha-sukhaṃ dhīraṃ so 'mṛtatvāya kalpate.\" Krishna defines the essential qualification for Moksha/Amṛtatva (immortality): being unaffected by dualities ('na vyathayanti') and remaining equal in pleasure and pain ('sama-duḥkha-sukham'). Such a wise person ('dhīram') is fit for liberation. — Bhagavad Gita (2.15)",
+      "te": "మోక్షం/అమరత్వం ('అమృతత్వాయ') పొందడానికి కావలసిన ప్రధాన అర్హతను శ్రీకృష్ణుడు ఇక్కడ వివరిస్తున్నాడు. సుఖదుఃఖాలను సమంగా చూస్తూ ('సమదుఃఖసుఖమ్'), ఇంద్రియ విషయాలకు చలించని ('న వ్యథయంతి') ధీరుడే మోక్ష సిద్ధికి అర్హుడవుతాడు. — భగవద్గీత (2.15)"
+    }
+  },
+  {
+    "id": "bg-2-15-q2",
+    "verse": { "c": 2, "s": 15 },
+    "concept": ["Core Virtue - Sama-duḥkha-sukham"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the compound 'sama-duḥkha-sukham' signify as a prerequisite for spiritual liberation in verse 2.15?",
+      "te": "2.15 శ్లోకంలో ఆధ్యాత్మిక మోక్షానికి ముందస్తు అర్హతగా పేర్కొనబడిన 'సమదుఃఖసుఖమ్' అనే పద భావం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Equanimity / Mental balance in both distress and happiness—neither becoming elated by pleasure nor depressed by pain.",
+        "te": "సుఖం వచ్చినప్పుడు పొంగిపోకుండా, దుఃఖం వచ్చినప్పుడు కృంగిపోకుండా రెండింటినీ సమానంగా స్వీకరించే మానసిక సమత్వము/సమబుద్ధి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Experiencing equal amounts of worldly pleasure and physical suffering in every life.",
+        "te": "ప్రతి జన్మలోనూ సమాన పరిమాణంలో లౌకిక సుఖాలను, శారీరక కష్టాలను అనుభవించడం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avoiding pain by constantly seeking sensory pleasures.",
+        "te": "నిరంతరం ఇంద్రియ సుఖాలను అన్వేషించడం ద్వారా బాధలను నివారించడం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Treating all human beings as equal in social rank and status.",
+        "te": "సమాజంలో మనుష్యులందరినీ హోదాలో, వర్గంలో సమంగా చూడటం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sama' (equal/balanced) + 'duḥkha' (pain/distress) + 'sukham' (pleasure/happiness). A seeker who maintains unshakeable mental poise regardless of favorable or unfavorable conditions is ready for spiritual freedom (Amṛtatva). — Bhagavad Gita (2.15)",
+      "te": "'సమ' (సమానమైన) + 'దుఃఖ' (బాధ) + 'సుఖమ్' (ఆనందము). అనుకూల, ప్రతికూల పరిస్థితులు ఏవి ఎదురైనా మనస్సును సమస్థితిలో ఉంచుకోవడమే సమత్వ యోగానికి ప్రాతిపదిక. — భగవద్గీత (2.15)"
+    }
+  },
+  {
+    "id": "bg-2-15-q3",
+    "verse": { "c": 2, "s": 15 },
+    "concept": ["Philosophical Goal - Amṛtatvāya Kalpate"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the ultimate spiritual attainment described by the Sanskrit phrase 'so 'mṛtatvāya kalpate' in verse 2.15?",
+      "te": "2.15 శ్లోకంలోని 'సోఽమృతత్వాయ కల్పతే' అనే సంస్కృత వాక్యం ద్వారా వర్ణించబడిన అత్యున్నత ఆధ్యాత్మిక లక్ష్యం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "He becomes qualified / fit for eternal liberation / divine immortality (Moksha), transcending the cycle of birth and death.",
+        "te": "అతడు జనన మరణ చక్రాలను దాటి శాశ్వతమైన మోక్షానికి / దివ్యమైన అమరత్వానికి (అమృతత్వానికి) అర్హుడవుతాడు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "He gains a physical body on earth that never ages or dies.",
+        "te": "అతడు భూమిపై ముసలితనం, మరణం లేని భౌతిక శరీరాన్ని పొందుతాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "He drinks Amrita (nectar) in the heavenly realm of Indra.",
+        "te": "అతడు ఇంద్రుని స్వర్గలోకంలో అమృతాన్ని పానం చేస్తాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "He becomes the ruling monarch of all terrestrial kingdoms.",
+        "te": "అతడు సమస్త భూలోక రాజ్యాలకు చక్రవర్తిగా మారతాడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Saḥ' (he) + 'amṛtatvāya' (for immortality/liberation) + 'kalpate' (is fit / qualifies). 'Amṛtatva' in Vedanta refers not to physical bodily immortality or celestial drink, but to the eternal state of Liberation (Moksha) beyond mortal existence. — Bhagavad Gita (2.15)",
+      "te": "'సః' (అతడు) + 'అమృతత్వాయ' (మోక్ష ప్రాప్తి కొరకు) + 'కల్పతే' (అర్హుడవుతాడు). వేదాంతంలో 'అమృతత్వము' అనగా శరీర అమరత్వం కాదు, జనన మరణ బంధాల నుండి పూర్తిగా విముక్తిని పొందే పరమోన్నతమైన 'మోక్ష స్థితి'. — భగవద్గీత (2.15)"
+    }
+  },
+  {
+    "id": "bg-2-15-q4",
+    "verse": { "c": 2, "s": 15 },
+    "concept": ["Name Analysis - Puruṣarṣabha"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the vocative epithet 'Puruṣarṣabha' literally mean when Krishna addresses Arjuna in verse 2.15?",
+      "te": "2.15 శ్లోకంలో శ్రీకృష్ణుడు అర్జునుడిని సంబోధించడానికి ఉపయోగించిన 'పురుషర్షభ' అనే పదానికి శాబ్దిక అర్థం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Best / foremost among men (Puruṣa = man + Ṛṣabha = bull / chief / leader), inspiring Arjuna to act according to his noble human potential.",
+        "te": "పురుషులలో శ్రేష్ఠుడైనవాడు / నరశ్రేష్ఠుడు (పురుష = మనిషి + ఋషభ = వృషభము/అగ్రగామి/నాయకుడు); అర్జునుడి ఉదాత్తమైన మానవ శక్తిని తలపిస్తూ పిలిచిన నామం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Slayer of the demon Rishabha.",
+        "te": "ఋషభుడు అనే రాక్షసుడిని చంపినవాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Owner of thousand sacred bulls.",
+        "te": "వేయి పవిత్ర వృషభాలకు అధిపతి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Warrior who rides a bull into battle.",
+        "te": "యుద్ధరంగంలో ఎద్దుపై స్వారీ చేసే యోధుడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Puruṣa' (human/man) + 'ṛṣabha' (bull, used metaphorically in Sanskrit compounds to denote 'the best / most eminent'). 'Puruṣarṣabha' means 'O chief among men!'. Krishna uses it to remind Arjuna of his intrinsic nobility and strength. — Bhagavad Gita (2.15)",
+      "te": "'పురుష' (మానవుడు) + 'ఋషభ' (వృషభం/శ్రేష్ఠమైనది). సంస్కృతంలో సమాసాల చివర 'ఋషభ' పదం వస్తే 'అత్యంత శ్రేష్ఠమైన' అని అర్థం. 'పురుషర్షభ' అనగా 'ఓ పురుష శ్రేష్ఠుడా!'. — భగవద్గీత (2.15)"
+    }
+  },
+  {
+    "id": "bg-2-15-q5",
+    "verse": { "c": 2, "s": 15 },
+    "concept": ["Sanskrit Grammar - Verb 'Kalpate' & 'Vyathayanti'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical forms of 'vyathayanti' and 'kalpate' in verse 2.15:",
+      "te": "2.15 శ్లోకంలోని 'వ్యథయంతి' మరియు 'కల్పతే' అనే క్రియాపదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Vyathayanti = 3rd person plural present tense Causal Parasmaipada (Laṭ-lakāra) from root 'vyath' ('they do not cause pain/affliction'); Kalpate = 3rd person singular present tense Ātmanepada (Laṭ-lakāra) from root 'klp' ('he becomes fit/qualified').",
+        "te": "వ్యథయంతి = 'వ్యథ్' ధాతువు యొక్క ప్రథమ పురుష బహువచన వర్తమానకాల ణిజంత పరస్మైపద రూపం ('అవి వ్యథ పరచవు/చలింపజేయవు'); కల్పతే = 'క్లృప్' ధాతువు యొక్క ప్రథమ పురుష ఏకవచన వర్తమానకాల ఆత్మనేపద రూపం ('అతడు అర్హుడవుతాడు').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Vyathayanti = Singular past tense verb; Kalpate = Plural future tense verb.",
+        "te": "వ్యథయంతి = ఏకవచన భూతకాల క్రియ; కల్పతే = బహువచన భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Vyathayanti = Imperative verb; Kalpate = Optative verb.",
+        "te": "వ్యథయంతి = ఆజ్ఞార్థక రూపం; కల్పతే = విధి-లిఙ్ రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vyathayanti = Passive verb; Kalpate = Active participle.",
+        "te": "వ్యథయంతి = కర్మణి రూపం; కల్పతే = విశేషణ రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vyathayanti' is 3rd person plural present tense causal form of 'vyath' (to agitate/distress): 'ete (these sense-contacts) puruṣaṃ na vyathayanti' = 'these do not afflict the person'. 'Kalpate' is 3rd person singular present indicative Ātmanepada of 'klp' (to fit/qualify): 'amṛtatvāya kalpate' = 'he is fitted for immortality'. — Bhagavad Gita (2.15)",
+      "te": "'వ్యథయంతి' అనేది 'వ్యథ్' ధాతువు ణిజంత రూపం (న వ్యథయంతి = బాధించవు/చలింపజేయవు). 'కల్పతే' అనేది 'క్లృప్' ధాతువు వర్తమానకాల ఆత్మనేపద రూపం (అమృతత్వాయ కల్పతే = మోక్షానికి అర్హుడవుతాడు). — భగవద్గీత (2.15)"
+    }
+  },
+  {
+    "id": "bg-2-15-q6",
+    "verse": { "c": 2, "s": 15 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'vyathayantyete' and 'so'mṛtatvāya' in verse 2.15:",
+      "te": "2.15 శ్లోకంలోని 'వ్యథయంత్యేతే' మరియు 'సోఽమృతత్వాయ' అనే పదాలను విడదీసి సంధి నియమాలను వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Vyathayanti + ete -> vyathayantyete (Yan Sandhi: 'i' before vowel 'e' becomes 'y'); saḥ + amṛtatvāya -> so 'mṛtatvāya (Visarga Uttva & Pūrvarūpa Sandhi: visarga + a -> o, initial 'a' becomes Avagraha).",
+        "te": "వ్యథయంతి + ఏతే -> వ్యథయంత్యేతే (యణాదేశ సంధి: అచ్చు 'ఏ' ముందు 'ఇ' కారం 'య్' గా మారినది); సహః + అమృతత్వాయ -> సోఽమృతత్వాయ (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు: విసర్గ 'ఓ' గా మారి, 'అ' కారానికి అవగ్రహం వచ్చినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Vyathayanta + ete; sa + amṛtatvāya",
+        "te": "వ్యథయంత + ఏతే; స + అమృతత్వాయ",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Vyathayante + ete; sam + amṛtatvāya",
+        "te": "వ్యథయంతే + ఏతే; సం + అమృతత్వాయ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vyathayantī + ete; so + amṛtatvāya",
+        "te": "వ్యథయంతీ + ఏతే; సో + అమృతత్వాయ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Vyathayanti' + 'ete': final vowel 'i' converts to semi-vowel 'y' via Yan Sandhi before non-homogeneous vowel 'e', resulting in 'vyathayantyete'. 2. 'Saḥ' (nominative singular demonstrative pronoun) + 'amṛtatvāya': visarga preceded by 'a' and followed by 'a' transforms to 'o', with initial 'a' becoming Avagraha -> 'so 'mṛtatvāya'. — Bhagavad Gita (2.15)",
+      "te": "1. 'వ్యథయంతి' + 'ఏతే' లలో 'ఇ' కారం స్థానంలో 'య్' వచ్చే యణాదేశ సంధి జరిగి 'వ్యథయంత్యేతే' అయినది. 2. 'సః' + 'అమృతత్వాయ' లలో విసర్గ 'ఓ' గా మారి పూర్వరూప సంధి ద్వారా అవగ్రహం వచ్చి 'సోఽమృతత్వాయ' అయినది. — భగవద్గీత (2.15)"
+    }
+  }
+]

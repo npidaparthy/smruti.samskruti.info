@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-47-q1",
+    "verse": { "c": 2, "s": 47 },
+    "concept": ["Verse Meaning & The Four Pillars of Karma Yoga"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.47?\n\n“karmaṇyevādhikāraste mā phaleṣu kadācana | mā karmaphalaheturbhūrmā te saṅgo'stvakarmaṇi”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“కర్మణ్యేవాధికారస్తే మా ఫలేషు కదాచన | మా కర్మఫలహేతుర్భూర్మా తే సంగోఽస్త్వకర్మణి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — You have a right over action alone, never over its fruits. Do not consider yourself the cause of the results of action, nor let yourself be attached to inaction.",
+        "te": "శ్రీభగవానుడు పలికెను — నీకు కర్మలను ఆచరించడంలో మాత్రమే అధికారము ఉన్నది, కానీ వాటి ఫలములపై ఏనాడూ లేదు. నీవు కర్మఫలములకు హేతువువు (కారణమువు) కాకూడదు; అలాగని కర్మలు చేయకపోవడం (అకర్మ/సోమరితనం) యందు కూడా నీకు ఆసక్తి కలుగకూడదు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — You have full rights over both action and its fruits; therefore, perform only those actions that guarantee immediate wealth and power.",
+        "te": "శ్రీభగవానుడు పలికెను — నీకు కర్మలపైనా, వాటి ఫలాలపైనా పరిపూర్ణమైన అధికారం ఉంది; కాబట్టి తక్షణ సంపదను, అధికారాన్ని ఇచ్చే కర్మలను మాత్రమే ఆచరించు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Avoid all physical actions on the battlefield, as avoiding action frees you from all responsibility for the fruits.",
+        "te": "శ్రీభగవానుడు పలికెను — రణరంగంలో శారీరక కర్మలన్నింటినీ త్యజించు, ఎందుకంటే కర్మను విడిచిపెట్టడం వల్ల ఫలాల బాధ్యత నుండి విముక్తి లభిస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — The fruits of action belong to the gods alone, so humans must perform sacrifices without taking any physical interest in the battle.",
+        "te": "శ్రీభగవానుడు పలికెను — కర్మఫలాలు కేవలం దేవతలకు మాత్రమే చెందుతాయి, కాబట్టి మానవులు యుద్ధంపై దృష్టి పెట్టకుండా యజ్ఞాలు నిర్వర్తించాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Karmaṇy evādhikāras te mā phaleṣu kadācana / mā karma-phala-hetur bhūr mā te saṅgo 'stvakarmaṇi.\" This verse lays down the four fundamental laws of Nishkama Karma Yoga: 1. Your jurisdiction is action alone ('karmaṇi eva adhikāraḥ'), 2. You have no claim over the results ('mā phaleṣu kadācana'), 3. Do not consider yourself the primary cause of the fruits ('mā karma-phala-hetur bhūḥ'), 4. Do not succumb to inaction or lethargy ('mā te saṅgo 'stu akarmaṇi'). — Bhagavad Gita (2.47)",
+      "te": "నిష్కామ కర్మయోగానికి పునాది అయిన నాలుగు సూత్రాలు ఇక్కడ ఉపదేశించబడ్డాయి: 1. నీ అధికారం కేవలం కర్మలు చేయడంలోనే ('కర్మణ్యేవ అధికారః'), 2. కర్మఫలాలపై నీకు ఏనాడూ అధికారం లేదు ('మా ఫలేషు కదాచన'), 3. కర్మఫలాలకు నిన్ను నీవు కర్తవుగా/కారణంగా భావించవద్దు ('మా కర్మఫలహేతుర్భూః'), 4. కర్మలు విడిచిపెట్టడం అనే అకర్మ/సోమరితనం వైపు మొగ్గుచూపవద్దు ('మా తే సంగోఽస్త్వకర్మణి'). — భగవద్గీత (2.47)"
+    }
+  },
+  {
+    "id": "bg-2-47-q2",
+    "verse": { "c": 2, "s": 47 },
+    "concept": ["Philosophical Paradox - Freedom from Results vs Avoiding Inaction"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why does Lord Krishna specifically add the clause 'Mā te saṅgo 'stvakarmaṇi' (let there be no attachment to inaction) after instructing non-attachment to fruits?",
+      "te": "2.47 శ్లోకంలో కర్మఫలాలపై ఆసక్తిని వదలమని చెప్పిన వెంటనే 'మా తే సంగోఽస్త్వకర్మణి' (అకర్మ యందు ఆసక్తిని పెంచుకోవద్దు) అని శ్రీకృష్ణుడు ఎందుకు ప్రత్యేకం హెచ్చరించాడు?"
+    },
+    "choices": [
+      {
+        "en": "To prevent the fatalistic delusion where a seeker mistakenly assumes that if fruits are not within his control, he should abandon performing duty altogether (Lethargy/Tamoguna).",
+        "te": "కర్మఫలాలు తన చేతిలో లేవనే మిషతో సాధారణ మనుషులు కర్తవ్య కర్మలను చేయడం సంపూర్ణంగా విడిచిపెట్టి సోమరితనంలోకి (అకర్మ/తమోగుణంలోకి) దిగజారే ప్రమాదం ఉంది కాబట్టి ఆ విపరీత ఆలోచనను అరికట్టడానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because inaction in battle causes immediate defeat of his brothers.",
+        "te": "యుద్ధంలో కర్మలు చేయకపోవడం వల్ల తన సోదరులు వెంటనే ఓడిపోతారు కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because inaction causes physical diseases in the body.",
+        "te": "నిష్క్రియగా ఉండటం వల్ల శరీరంలో అనారోగ్య వ్యాధులు వస్తాయి కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because inaction is permitted only during nighttime.",
+        "te": "అకర్మ అనేది కేవలం రాత్రి సమయాల్లో మాత్రమే అనుమతించబడుతుంది కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "A common cognitive distortion arises when people hear 'renounce fruits': they think 'Why work if I don't get the fruit?'. Krishna cuts down this Tamasic fallacy with 'mā te saṅgo 'stu akarmaṇi'. Duty must be performed for its own sake as an offering, without falling into passivity or escapism. — Bhagavad Gita (2.47)",
+      "te": "'ఫలితాలు నీ చేతిలో లేవు' అని వినగానే సగటు మనిషి 'ఫలితం దక్కనప్పుడు పనే ఎందుకు చేయాలి?' అనే సోమరితనంలోకి (అకర్మ లోకి) పడిపోతాడు. కృష్ణుడు ఈ తమోగుణ వైపరీత్యాన్ని రద్దు చేస్తూ కర్మ త్యాగం తప్పు అని, కర్తవ్యాన్ని నిష్కామంగా చేయడమే సత్యమని స్పష్టం చేశాడు. — భగవద్గీత (2.47)"
+    }
+  },
+  {
+    "id": "bg-2-47-q3",
+    "verse": { "c": 2, "s": 47 },
+    "concept": ["Psychological Causality - Mā Karma-phala-hetur Bhūḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the injunction 'Mā karma-phala-hetur bhūḥ' mean regarding human agency and ego in verse 2.47?",
+      "te": "2.47 శ్లోకంలోని 'మా కర్మఫలహేతుర్భూః' అనే ఉపదేశం ద్వారా మనిషి అహంకారానికి, కర్తృత్వ భావనకు సంబంధించి ఏ సత్యం చెప్పబడింది?"
+    },
+    "choices": [
+      {
+        "en": "Do not regard yourself as the sole independent author/cause of the fruits of your actions, since outcomes are governed by multiple unseen factors (Kāla, Daiva, Karma-laws).",
+        "te": "కర్మ ఫలితాలకు నిన్ను నీవు ఏకైక స్వతంత్ర కర్తవుగా, కారణముగా (హేతువుగా) భావించవద్దు; ఎందుకంటే ఫలితం అనేది కాలం, దైవం, ప్రకృతి నియమాల వంటి అనేక శక్తులపై ఆధారపడి ఉంటుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Do not perform actions that produce any physical results.",
+        "te": "ఏ విధమైన భౌతిక ఫలితాలను ఇచ్చే కర్మలను ఆచరించవద్దు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Do not let others take credit for the victory you achieved.",
+        "te": "నీవు సాధించిన విజయం యొక్క శ్రేయస్సును ఇతరులు తీసుకోకుండా చూసుకో.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Do not seek guidance from teachers when choosing your actions.",
+        "te": "కర్మలను ఎంచుకునేటప్పుడు గురువుల సలహాలను తీసుకోకూడదు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "A human being can control input (effort), but cannot unilaterally control output (results), which depend on vast interconnected cosmic factors. Assuming egoic authorship over the results ('karma-phala-hetuḥ') causes pride upon success and depression upon failure. — Bhagavad Gita (2.47)",
+      "te": "మనిషి ప్రయత్నాన్ని (ఇన్‌పుట్) మాత్రమే నియంత్రించగలడు కానీ ఫలితాన్ని (అవుట్‌పుట్) స్వతంత్రంగా నిర్ణయించలేడు. ఫలితం విశ్వ నియమాలపై, అనేక ప్రాపంచిక కారణాలపై ఆధారపడి ఉంటుంది. కాబట్టి ఫలితానికి తానొక్కడే కారణమని అహంకరించడం ('కర్మఫలహేతుః') దుఃఖానికి మూలం. — భగవద్గీత (2.47)"
+    }
+  },
+  {
+    "id": "bg-2-47-q4",
+    "verse": { "c": 2, "s": 47 },
+    "concept": ["Sanskrit Vocabulary - Right, Fruit & Inaction"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'adhikāraḥ', 'phaleṣu', and 'akarmaṇi' mean in verse 2.47?",
+      "te": "2.47 శ్లోకంలోని 'అధికారః', 'ఫలేషు', మరియు 'అకర్మణి' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Adhikāraḥ = Right / eligibility / jurisdiction; Phaleṣu = In the fruits / results; Akarmaṇi = In inaction / non-performance of duty.",
+        "te": "అధికారః = అధికారము / హక్కు / అర్హత పరిధి; ఫలేషు = ఫలితముల యందు; అకర్మణి = అకర్మ యందు / కర్తవ్య విముఖత యందు (సోమరితనంలో).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Adhikāraḥ = Supreme rule; Phaleṣu = In physical trees; Akarmaṇi = In sin.",
+        "te": "అధికారః = సార్వభౌమ పాలన; ఫలేషు = భౌతిక చెట్ల యందు; అకర్మణి = పాపము నందు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Adhikāraḥ = Battle weapons; Phaleṣu = In sweet food; Akarmaṇi = In meditation.",
+        "te": "అధికారః = యుద్ధ ఆయుధాలు; ఫలేషు = తీపి ఆహారము నందు; అకర్మణి = ధ్యానము నందు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Adhikāraḥ = Knowledge; Phaleṣu = In heavenly gods; Akarmaṇi = In war.",
+        "te": "అధికారః = జ్ఞానము; ఫలేషు = స్వర్గపు దేవతల యందు; అకర్మణి = యుద్ధము నందు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Adhikāra' means jurisdiction or rightful sphere of competency. 'Phaleṣu' is Locative Plural of 'phala' (in fruits). 'Akarmaṇi' is Locative Singular of 'akarman' (in inaction). — Bhagavad Gita (2.47)",
+      "te": "'అధికార' అనగా కర్తవ్య నిర్వహణ అర్హత పరిధి. 'ఫలేషు' అనగా 'ఫల' శబ్ద సప్తమీ బహువచనం (ఫలితముల నందు). 'అకర్మణి' అనగా 'అకర్మన్' శబ్ద సప్తమీ ఏకవచనం (కర్మ చేయకపోవడము నందు). — భగవద్గీత (2.47)"
+    }
+  },
+  {
+    "id": "bg-2-47-q5",
+    "verse": { "c": 2, "s": 47 },
+    "concept": ["Sanskrit Grammar - Negative Injunction 'Mā' & Verb 'Bhūḥ'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'mā ... bhūḥ' in 'mā karma-phala-hetur bhūḥ' in verse 2.47:",
+      "te": "2.47 శ్లోకంలోని 'మా కర్మఫలహేతుర్భూః' అను ప్రయోగంలో 'మా ... భూః' అనే పదబంధం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Negative prohibitive particle 'mā' combined with the Aorist tense (Luṅ-lakāra) 2nd person singular form 'bhūḥ' from root 'bhū' (used without augment 'a-' in prohibitive constructions), meaning 'do not become! / be not!'.",
+        "te": "నిషేధార్థక అవ్యయము 'మా' తో చేరిన 'భూ' (అగు) ధాతువు యొక్క లుంగ్ లకార (Aorist) మధ్యమ పురుష ఏకవచన రూపం 'భూః' — 'మా భూః' అనగా 'నీవు కావద్దు! / కాకుండుము!'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Present tense indicative verb.",
+        "te": "వర్తమానకాల సూచక క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Simple future tense active verb.",
+        "te": "సాధారణ భవిష్యత్కాల కర్తరి క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Infinitive form.",
+        "te": "తుమున్నంత క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In classical Sanskrit grammar (Pāṇini 3.3.175 'māṅi luṅ'), prohibitive particle 'mā' takes the Luṅ-lakāra (aorist) verb without augment 'a-': 'mā bhūḥ' = 'do not become!'. Combined with predicate 'karma-phala-hetuḥ': 'do not become the cause of the fruit of action!'. — Bhagavad Gita (2.47)",
+      "te": "పాణిని సూత్రం పక్కా నియమం ప్రకారం నిషేధార్థంలో 'మా' ప్రయోగించినప్పుడు లుంగ్ లకార క్రియ నుండి 'అ' కార ఆట్ ఆగమం తొలగిపోతుంది: 'మా భూః' = 'నీవు కావద్దు!'. 'మా కర్మఫలహేతుః భూః' = 'నీవు కర్మఫలానికి కారణం కావద్దు!'. — భగవద్గీత (2.47)"
+    }
+  },
+  {
+    "id": "bg-2-47-q6",
+    "verse": { "c": 2, "s": 47 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'karmaṇyevādhikāraste' and 'saṅgo'stvakarmaṇi' in verse 2.47:",
+      "te": "2.47 శ్లోకంలోని 'కర్మణ్యేవాధికారస్తే' మరియు 'సంగోఽస్త్వకర్మణి' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Karmaṇi + eva -> karmaṇyeva (Yan Sandhi: i -> y); eva + adhikāraḥ -> evādhikāraḥ (Savarna-dirgha Sandhi); adhikāraḥ + te -> adhikāras te (Visarga Sattva Sandhi); saṅgaḥ + astu -> saṅgo 'stu (Visarga Uttva & Pūrvarūpa Sandhi); astu + akarmaṇi -> astvakarmaṇi (Yan Sandhi: u -> v).",
+        "te": "కర్మణి + ఏవ -> కర్మణ్యేవ (యణాదేశ సంధి: 'ఇ' -> 'య్'); ఏవ + అధికారః -> ఏవాధికారః (సవర్ణదీర్ఘ సంధి); అధికారః + తే -> అధికారస్తే (విసర్గ సత్త్వ సంధి: 'ః' -> 'స్'); సంగః + అస్తు -> సంగోఽస్తు (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు); అస్తు + అకర్మణి -> అస్త్వకర్మణి (యణాదేశ సంధి: 'ఉ' -> 'వ్').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Karmaṇa + eva -> karmaṇeva; saṅga + astu -> saṅgāstu",
+        "te": "కర్మణ + ఏవ -> కర్మణేవ; సంగ + అస్తు -> సంగాస్తు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Karmaṇim + eva -> karmaṇimeva; saṅgam + astu -> saṅgamastu",
+        "te": "కర్మణిమ్ + ఏవ -> కర్మణిమేవ; సంగమ్ + అస్తు -> సంగమస్తు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Karmaṇe + eva -> karmaṇe'va; saṅge + astu -> saṅge'stu",
+        "te": "కర్మణే + ఏవ -> కర్మణేఽవ; సంగే + అస్తు -> సంగేఽస్తు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Karmaṇi' + 'eva': 'i' -> 'y' via Yan Sandhi -> 'karmaṇyeva'. 2. 'Eva' + 'adhikāraḥ': 'a' + 'a' -> 'ā' via Savarna-dirgha -> 'evādhikāraḥ'. 3. 'Adhikāraḥ' + 'te': visarga -> 's' before 't' via Visarga Sattva -> 'adhikāras te'. 4. 'Saṅgaḥ' + 'astu': visarga -> 'o' and 'a' -> Avagraha -> 'saṅgo 'stu'. 5. 'Astu' + 'akarmaṇi': 'u' -> 'v' via Yan Sandhi -> 'astvakarmaṇi'. — Bhagavad Gita (2.47)",
+      "te": "1. 'కర్మణి' + 'ఏవ' = కర్మణ్యేవ (యణాదేశ సంధి). 2. 'ఏవ' + 'అధికారః' = ఏవాధికారః (సవర్ణదీర్ఘ సంధి). 3. 'అధికారః' + 'తే' = అధికారస్తే (విసర్గ సత్త్వ సంధి). 4. 'సంగః' + 'అస్తు' = సంగోఽస్తు (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు). 5. 'అస్తు' + 'అకర్మణి' = అస్త్వకర్మణి (యణాదేశ సంధి). — భగవద్గీత (2.47)"
+    }
+  }
+]

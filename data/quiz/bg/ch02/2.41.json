@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-41-q1",
+    "verse": { "c": 2, "s": 41 },
+    "concept": ["Verse Meaning & One-Pointed Determination"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.41?\n\n“vyavasāyātmikā buddhir ekeha kuru-nandana | bahu-śākhā hy anantāś ca buddhayo 'vyavasāyinām”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“వ్యవసాయాత్మికా బుద్ధిరేకేహ కురునందన | బహుశాఖా హ్యనంతాశ్చ బుద్ధయోఽవ్యవసాయినామ్”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — O descendant of Kuru, those who are on this path are resolute in purpose, and their intellect is one-pointed. But the intellect of the irresolute is many-branched and endless.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ కురునందనా (అర్జునా)! ఈ కర్మయోగ మార్గంలో ఉండే వివేక బుద్ధి నిశ్చయాత్మకమైనది (ఏకాగ్రత గలది) మరియు ఒకే రకమైనదిగా ఉంటుంది. కానీ చంచల మనస్కులైన అజ్ఞానుల (అవ్యవసాయిల) బుద్ధులు అనేక శాఖలుగా విడిపోయి, అనంతములుగా ఉంటాయి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Intellect is naturally fragmented into thousands of desires, and a seeker must satisfy each branch to attain spiritual peace.",
+        "te": "శ్రీభగవానుడు పలికెను — బుద్ధి అనేది సహజంగానే వేలాది కోరికలుగా విడిపోతుంది, ఆధ్యాత్మిక శాంతిని పొందడానికి సాధకుడు ప్రతి కోరికనూ తీర్చుకోవాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — O descendant of Kuru, single-pointed intellect is required only for renunciates, whereas worldly men must cultivate multi-branched desires.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ కురునందనా! ఏకాగ్ర బుద్ధి అనేది కేవలం సన్యాసులకు మాత్రమే అవసరం, కానీ సంసారులు అనేక రకాల కోరికలను పెంచుకోవాలి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — The intellect of a warrior becomes multi-branched in times of battle to anticipate all possible moves of the enemy.",
+        "te": "శ్రీభగవానుడు పలికెను — శత్రువుల చలనాన్ని అంచనా వేయడానికి యుద్ధ సమయంలో యోధుని బుద్ధి అనేక శాఖలుగా విస్తరించాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Vyavasāyātmikā buddhir eka iha kuru-nandana / bahu-śākhā hy anantāś ca buddhayo 'vyavasāyinām.\" Krishna establishes the primary psychological requirement for Buddhi Yoga: 'vyavasāyātmikā buddhi'—a resolute, single-pointed intellect focused solely on liberation/Self-realization. Conversely, those driven by selfish desires ('avyavasāyinaḥ') possess endless, branching thoughts ('bahu-śākhāḥ') that scatter mental energy. — Bhagavad Gita (2.41)",
+      "te": "కర్మయోగానికి కావలసిన ప్రాథమిక మానసిక క్రమశిక్షణను శ్రీకృష్ణుడు ఇక్కడ ప్రతిపాదించాడు. మోక్షమే లేదా ఆత్మజ్ఞానమే పరమ లక్ష్యంగా గల ఏకాగ్రమైన, నిశ్చయాత్మక బుద్ధి 'వ్యవసాయాత్మికా బుద్ధి'. కానీ స్వార్థ కామ్య కోరికలు గలవారి ('అవ్యవసాయిల') బుద్ధి నిరంతరం అనేక శాఖలుగా ('బహుశాఖాః'), అనంత ఆలోచనలుగా చెల్లాచెదురైపోతుంది. — భగవద్గీత (2.41)"
+    }
+  },
+  {
+    "id": "bg-2-41-q2",
+    "verse": { "c": 2, "s": 41 },
+    "concept": ["Psychological Focus - Vyavasāyātmikā Buddhi vs Avyavasāyinām"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the key functional difference between 'Vyavasāyātmikā Buddhi' and the intellect of the 'Avyavasāyī' in verse 2.41?",
+      "te": "2.41 శ్లోకంలో 'వ్యవసాయాత్మికా బుద్ధి' మరియు 'అవ్యవసాయిల బుద్ధి' మధ్య ఉన్న ప్రధాన శోధన/వ్యత్యాసము ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Vyavasāyātmikā Buddhi is focused on one single higher goal (Self-realization/duty), creating mental alignment; the Avyavasāyī's intellect is driven by endless selfish desires, producing mental dissipation and indecision.",
+        "te": "వ్యవసాయాత్మిక బుద్ధి అనేది ఒకే ఒక్క అత్యున్నత లక్ష్యం (ఆత్మజ్ఞానము/స్వధర్మము) వైపు ఏకాగ్రమై ఉంటుంది; కానీ అవ్యవసాయిల బుద్ధి నిరంతర కామ్య కోరికల వెంట పడుతూ చిత్త విక్షేపాన్ని, అనంత సందిగ్ధతను సృష్టిస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Vyavasāyātmikā Buddhi relies on emotional instinct, while Avyavasāyī relies on logical analysis.",
+        "te": "వ్యవసాయాత్మిక బుద్ధి భావోద్వేగాలపై ఆధారపడుతుంది, కానీ అవ్యవసాయి తార్కిక విశ్లేషణపై ఆధారపడతాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Vyavasāyātmikā Buddhi changes its plan constantly, whereas Avyavasāyī remains rigid.",
+        "te": "వ్యవసాయాత్మిక బుద్ధి నిరంతరం తన ప్రణాళికను మార్చుకుంటుంది, కానీ అవ్యవసాయి స్థిరంగా ఉంటాడు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vyavasāyātmikā Buddhi belongs only to heavenly gods, while Avyavasāyī belongs to human beings.",
+        "te": "వ్యవసాయాత్మిక బుద్ధి కేవలం దేవతలకు మాత్రమే ఉంటుంది, కానీ అవ్యవసాయి మానవులకు సంబందించినది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vyavasāya' means firm determination or conviction. A resolute seeker has 'eka' (one) aim—Self-realization through Nishkama Karma. An 'avyavasāyī' (irresolute person) seeks infinite worldly fruits, causing their intellect to split into 'bahu-śākhā' (many branches) and 'anantā' (endless) desires. — Bhagavad Gita (2.41)",
+      "te": "'వ్యవసాయము' అనగా నిశ్చలమైన పట్టుదల/దృఢ నిశ్చయము. సాధకునికి 'ఏక' (ఒకే ఒక్క) పరమ లక్ష్యం ఉంటుంది. కానీ 'అవ్యవసాయి' (అశాంత మనస్కుడు) అనేక లౌకిక ఫలాలను కోరుకోవడం వల్ల అతడి ఆలోచనలు 'బహుశాఖాః' (అనేక శాఖలుగా), 'అనంతాః' (అనంత కోరికలుగా) విడిపోయి విఫలమవుతాయి. — భగవద్గీత (2.41)"
+    }
+  },
+  {
+    "id": "bg-2-41-q3",
+    "verse": { "c": 2, "s": 41 },
+    "concept": ["Sanskrit Vocabulary - Resolute Intellect & Endless Branches"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit phrases 'Vyavasāyātmikā' and 'Bahu-śākhāḥ' mean in verse 2.41?",
+      "te": "2.41 శ్లోకంలోని 'వ్యవసాయాత్మికా' మరియు 'బహుశాఖాః' అనే సంస్కృత పదాల ప్రత్యేక అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Vyavasāyātmikā = Resolute / firm / decisive in nature; Bahu-śākhāḥ = Having many branches / multi-branched / scattered.",
+        "te": "వ్యవసాయాత్మికా = దృఢ నిశ్చయము కలిగినది / ఏకాగ్రత స్వరూపమైనది; బహుశాఖాః = అనేక కొమ్మలుగా విడిపోయినది / విక్షేపము పొందినది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Vyavasāyātmikā = Agricultural mind; Bahu-śākhāḥ = Big tree.",
+        "te": "వ్యవసాయాత్మికా = వ్యవసాయ సంబంధ మనస్సు; బహుశాఖాః = పెద్ద వృక్షము.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Vyavasāyātmikā = Doubting nature; Bahu-śākhāḥ = Peaceful mind.",
+        "te": "వ్యవసాయాత్మికా = సంశయ స్వభావము; బహుశాఖాః = ప్రశాంత మనస్సు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Vyavasāyātmikā = Royal lineage; Bahu-śākhāḥ = Wealthy kingdoms.",
+        "te": "వ్యవసాయాత్మికా = రాజ వంశము; బహుశాఖాః = సంపన్న రాజ్యములు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vyavasāya' (firm resolve) + 'ātmikā' (having as nature) = 'Vyavasāyātmikā' (a resolute, single-pointed mind). 'Bahu' (many) + 'śākhā' (branches) = 'Bahu-śākhā' (having endless divergent pathways or thoughts). — Bhagavad Gita (2.41)",
+      "te": "'వ్యవసాయ' (దృఢ నిశ్చయము) + 'ఆత్మికా' (స్వభావముగా గలది) = వ్యవసాయాత్మికా (ఏకాగ్రమైన బుద్ధి). 'బహు' (చాలా) + 'శాఖా' (కొమ్మలు) = బహుశాఖాః (వివిధ రకాలుగా చల్లాచెదురైన ఆలోచనలు). — భగవద్గీత (2.41)"
+    }
+  },
+  {
+    "id": "bg-2-41-q4",
+    "verse": { "c": 2, "s": 41 },
+    "concept": ["Structural Analysis - Eka vs Anantāḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "How does Lord Krishna structurally contrast the word 'ekā' with 'anantāḥ' in verse 2.41?",
+      "te": "2.41 శ్లోకంలో 'ఏకా' మరియు 'అనంతాః' అనే పదాల ద్వారా శ్రీకృష్ణుడు ఏ వైరుధ్యాన్ని ఎత్తిచూపాడు?"
+    },
+    "choices": [
+      {
+        "en": "'Ekā' (one-pointed/single) describes the unified intellect of the seeker focused on truth, whereas 'anantāḥ' (endless/infinite) describes the countless scattered desires of the irresolute mind.",
+        "te": "'ఏకా' (ఒకే రకమైనది/ఏకాగ్రమైనది) అనేది జ్ఞాని యొక్క ఏకీకృత బుద్ధిని సూచించగా... 'అనంతాః' (అనంతమైనవి/పరిమితి లేనివి) అనేది అజ్ఞాని యొక్క చెల్లాచెదురైన కోరికలను సూచిస్తుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "'Ekā' refers to the one Lord Krishna, and 'anantāḥ' refers to the infinite weapons on the battlefield.",
+        "te": "'ఏకా' అనేది ఏకైక శ్రీకృష్ణుడిని సూచించగా, 'అనంతాః' అనేది రణరంగంలో ఉన్న అనంత ఆయుధాలను సూచిస్తుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "'Ekā' means one single birth, and 'anantāḥ' means infinite rebirths.",
+        "te": "'ఏకా' అనగా ఒకే ఒక్క జన్మ, 'అనంతాః' అనగా అనంతమైన పునర్జన్మలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "'Ekā' represents the Pandava army, and 'anantāḥ' represents the Kaurava army.",
+        "te": "'ఏకా' అనేది పాండవ సైన్యాన్ని, 'అనంతాః' అనేది కౌరవ సైన్యాన్ని సూచిస్తుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Krishna presents a stark binary contrast: 'Buddhir ekā' (the intellect is single, unified, focused) vs 'Buddhayo hy anantāś ca' (the intellects/thoughts are endless and multi-branched). Truth is one; desire-driven errors are infinite. — Bhagavad Gita (2.41)",
+      "te": "ఈ శ్లోకంలో శ్రీకృష్ణుడు స్పష్టమైన వ్యత్యాసాన్ని వివరిస్తున్నాడు: 'బుద్ధిః ఏకా' (సత్యమార్గాన నిలిచే బుద్ధి ఒక్కటే) ప్రక్కన 'బుద్ధయః అనంతాశ్చ' (కామ్య కోరికల బుద్ధులు అనంతాలు). సత్యం ఒక్కటే; కానీ అజ్ఞానంలో ఉత్పన్నమయ్యే సంకల్పాలు అనంతాలు. — భగవద్గీత (2.41)"
+    }
+  },
+  {
+    "id": "bg-2-41-q5",
+    "verse": { "c": 2, "s": 41 },
+    "concept": ["Sanskrit Grammar - Genitive Plural 'Avyavasāyinām'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'avyavasāyinām' in verse 2.41:",
+      "te": "2.41 శ్లోకంలోని 'అవ్యవసాయినామ్' అనే పదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Genitive Plural Masculine from the base noun 'avyavasāyin' (the irresolute / those lacking firm determination), meaning 'of the irresolute / of the undecided'.",
+        "te": "'అవ్యవసాయిన్' (దృఢ నిశ్చయం లేనివాడు) అనే పుంలింగ శబ్దానికి షష్ఠీ విభక్తి బహువచన రూపం — 'దృఢ నిశ్చయం లేనివారి యొక్క / చంచల బుద్ధుల యొక్క'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nominative Singular Masculine form.",
+        "te": "ప్రథమా విభక్తి ఏకవచన రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "3rd person plural future tense verb form.",
+        "te": "ప్రథమ పురుష బహువచన భవిష్యత్కాల క్రియా రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Infinitive verb form.",
+        "te": "తుమున్నంత క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Avyavasāyī' (singular) -> 'Avyavasāyinaḥ' (plural) -> Genitive Plural is 'Avyavasāyinām' ('of the irresolute people'). It modifies 'buddhayaḥ': 'buddhayo 'vyavasāyinām' = 'the intellects/thoughts of the irresolute'. — Bhagavad Gita (2.41)",
+      "te": "'అవ్యవసాయిన్' ప్రాతిపదిక శబ్దానికి షష్ఠీ బహువచనం 'అవ్యవసాయినామ్'. ఇది 'బుద్ధయః' అనే ప్రథమా బహువచన రహిత నామవాచకానికి విశేషణ రూపంగా నిలిచింది: 'అవ్యవసాయినామ్ బుద్ధయః' (చంచల బుద్ధుల గలవారి ఆలోచనలు). — భగవద్గీత (2.41)"
+    }
+  },
+  {
+    "id": "bg-2-41-q6",
+    "verse": { "c": 2, "s": 41 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'buddhirekeha' and 'buddhayo'vyavasāyinām' in verse 2.41:",
+      "te": "2.41 శ్లోకంలోని 'బుద్ధిరేకేహ' మరియు 'బుద్ధయోఽవ్యవసాయినామ్' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Buddhiḥ + ekā -> buddhir ekā (Visarga Rutva Sandhi: visarga after 'i' -> 'r'); ekā + iha -> ekeha (Guṇa Sandhi: ā + i -> e); buddhayaḥ + avyavasāyinām -> buddhayo 'vyavasāyinām (Visarga Uttva & Pūrvarūpa Sandhi).",
+        "te": "బుద్ధిః + ఏకా -> బుద్ధిరేకా (విసర్గ రుత్త్వ సంధి: 'ఇ' కారం తర్వాత ఉన్న విసర్గ 'ర్' గా మారినది); ఏకా + ఇహ -> ఏకేహ (గుణ సంధి: ఆ + ఇ -> ఏ); బుద్ధయః + అవ్యవసాయినామ్ -> బుద్ధయోఽవ్యవసాయినామ్ (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Buddhi + ekā -> buddhikā; buddhaya + avyavasāyinām -> buddhayāvyavasāyinām",
+        "te": "బుద్ధి + ఏకా -> బుద్ధికా; బుద్ధయ + అవ్యవసాయినామ్ -> బుద్ధయావ్యవసాయినామ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Buddhim + ekā -> buddhimekā; buddhayam + avyavasāyinām -> buddhayamavyavasāyinām",
+        "te": "బుద్ధిమ్ + ఏకా -> బుద్ధిమేకా; బుద్ధయమ్ + అవ్యవసాయినామ్ -> బుద్ధయమవ్యవసాయినామ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Buddhe + ekā -> buddhe'kā; buddhaye + avyavasāyinām -> buddhaye'vyavasāyinām",
+        "te": "బుద్ధే + ఏకా -> బుద్ధేఽకా; బుద్ధయే + అవ్యవసాయినామ్ -> బుద్ధయేఽవ్యవసాయినామ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Buddhiḥ' (intellect) + 'ekā' (one): visarga preceded by 'i' transforms to 'r' before vowel 'e' via Visarga Rutva Sandhi -> 'buddhir ekā'. 2. 'Ekā' + 'iha' (here): 'ā' + 'i' merges into 'e' via Guṇa Sandhi -> 'ekeha'. 3. 'Buddhayaḥ' (intellects/thoughts) + 'avyavasāyinām': visarga transforms to 'o' and initial 'a' becomes Avagraha via Pūrvarūpa Sandhi -> 'buddhayo 'vyavasāyinām'. — Bhagavad Gita (2.41)",
+      "te": "1. 'బుద్ధిః' + 'ఏకా' లలో 'ఇ' కారం తర్వాత ఉన్న విసర్గ అచ్చు ముందు 'ర్' గా మారి 'బుద్ధిరేకా' (విసర్గ రుత్త్వ సంధి) అయినది. 2. 'ఏకా' + 'ఇహ' లలో 'ఆ' + 'ఇ' కలసి గుణ సంధి ద్వారా 'ఏకేహ' అయినది. 3. 'బుద్ధయః' + 'అవ్యవసాయినామ్' లలో విసర్గ ఉత్త్వ, పూర్వరూప సంధుల ద్వారా 'బుద్ధయోఽవ్యవసాయినామ్' అయినది. — భగవద్గీత (2.41)"
+    }
+  }
+]

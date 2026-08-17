@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-42-q1",
+    "verse": { "c": 2, "s": 42 },
+    "concept": ["Verse Meaning & Critique of Flowery Ritualistic Speech"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.42?\n\n“yāmimāṃ puṣpitāṃ vācaṃ pravadantyavipaścitaḥ | vedavādaratāḥ pārtha nānyadastīti vādinaḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యామిమాం పుష్పితాం వాచం ప్రవదంత్యవిపశ్చితః | వేదవాదరతాః పార్థ నాన్యదస్తీతి వాదినః”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — O Partha, men of small knowledge, who delight in the letter of the Vedas and maintain that there is nothing else, utter flowery words praising fruitive rituals.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ పార్థా! వేదాలలో చెప్పబడిన కామ్య కర్మకాండల (ఫలితాన్నిచ్చే యజ్ఞాల) యందు మాత్రమే ఆసక్తి గల అల్ప జ్ఞానులు (అవిపశ్చితులు), స్వర్గాది భోగాల కంటే వేరొకటి ఏదీ లేదని వాదిస్తూ, వినడానికి సొంపుగా ఉండే పుష్పిత వాక్కులను (అలంకార రహిత శోభిత మాటలను) పలుకుతారు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Wise sages fluent in Vedic lore speak flowery prayers to summon celestial gods during sacred sacrifices.",
+        "te": "శ్రీభగవానుడు పలికెను — వేద పండితులైన జ్ఞానులు పవిత్ర యజ్ఞాల సమయంలో దివ్య దేవతలను ఆహ్వానించడానికి పుష్పిత ప్రార్థనలను పఠిస్తారు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Flowery words from the Vedas should be chanted daily by Kshatriyas to guarantee military victory over enemy armies.",
+        "te": "శ్రీభగవానుడు పలికెను — శత్రు సైన్యాలపై రణరంగంలో విజయాన్ని సాధించడానికి క్షత్రియులు వేదాలలోని పుష్పిత వాక్కులను నిత్యం జపించాలి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Those who reject the Vedas entirely are called Avipascitah, and their words are like poisonous plants.",
+        "te": "శ్రీభగవానుడు పలికెను — వేదాలను సంపూర్ణంగా తిరస్కరించే వారిని అజ్ఞానులు (అవిపశ్చితులు) అంటారు, వారి మాటలు విషపూరితమైన మొక్కల వంటివి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Yām imāṃ puṣpitāṃ vācaṃ pravadanty avipaścitaḥ / veda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ.\" Krishna critiques ritualistic materialists who misuse Vedic karma-kāṇḍa for selfish sense-gratification. These 'avipaścitaḥ' (unwise people) are mesmerized by ornate, attractive texts ('puṣpitāṃ vācam') promising heavenly pleasures, wrongly insisting that Vedic fruitive rituals are the supreme end of human life ('nānyad asti'). — Bhagavad Gita (2.42)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ వేద కర్మకాండలనే పరమావధిగా భావించే స్వార్థ భోగపరుల అజ్ఞానాన్ని నిండిస్తున్నాడు. 'అవిపశ్చితః' (వివేకం లేని అజ్ఞానులు) వేదాలలోని కర్మకాండలలో చెప్పబడిన స్వర్గ సుఖాలకు లోబడి, మనోహరంగా అనిపించే 'పుష్పితాం వాచమ్' (అలంకారిక వాక్కులను) నమ్ముతూ, కామ్య యజ్ఞాల కంటే మించిన ఆధ్యాత్మిక సత్యం వేరొకటి లేదు ('నాన్యదస్తి') అని ప్రచారం చేస్తారు. — భగవద్గీత (2.42)"
+    }
+  },
+  {
+    "id": "bg-2-42-q2",
+    "verse": { "c": 2, "s": 42 },
+    "concept": ["Philosophical Metaphor - Puṣpitā Vāc (Flowery Words)"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why does Lord Krishna characterize ritualistic descriptions of Vedic rewards as 'Puṣpitā Vāc' (flowery speech) in verse 2.42?",
+      "te": "2.42 శ్లోకంలో వేదాలలో చెప్పబడిన కామ్య కర్మకాండ ఫలాల వర్ణనలను శ్రీకృష్ణుడు 'పుష్పితాం వాచమ్' (పుష్పించిన/అలంకారిక మాటలు) అని ఎందుకు వ్యాఖ్యానించాడు?"
+    },
+    "choices": [
+      {
+        "en": "Because like a flowering tree that looks attractive and sweet-smelling but yields no edible fruit, such speech promises attractive heavenly pleasures that lack ultimate spiritual liberation (Moksha).",
+        "te": "పూలతో నిండిన చెట్టు చూడటానికి ఆకర్షణీయంగా, సువాసనలతో ఉన్నప్పటికీ ఆ పండ్లు తినడానికి పనికిరానట్లే... ఈ అలంకారిక మాటలు స్వర్గాది తాత్కాలిక సుఖాల ఆశను చూపుతాయి తప్ప శ్రేయస్కరమైన నిత్య మోక్షాన్ని అందించలేవు కాబట్టి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because Vedic chants are meant to be offered alongside fresh physical flowers during sacrificial rites.",
+        "te": "యజ్ఞ క్రతువుల సమయంలో వేద మంత్రాలను తాజా పుష్పాలతో పాటు సమర్పించాలి కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because such words were composed in spring season by ancient Vedic poets.",
+        "te": "ఈ మాటలు ప్రాచీన వేద కవులచే వసంత రుతువులో రచించబడ్డాయి కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because speech praising Krishna's beauty is compared to blooming lotuses.",
+        "te": "శ్రీకృష్ణుని సౌందర్యాన్ని ప్రశంసించే మాటలు వికసించిన పద్మాలతో పోల్చబడ్డాయి కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Puṣpitā vāc' literally means 'flowery / blooming speech'. Just as a tree may produce beautiful blossoms ('puṣpa') that entice humans but yield no ultimate nourishment/fruit ('phala'), fruitive Vedic promises attract ignorant minds with sensory rewards but fail to give Moksha. — Bhagavad Gita (2.42)",
+      "te": "'పుష్పితాం వాచమ్' అనగా 'పూలు పూచినట్లుండి ఆకర్షించే మాటలు'. పూలు కంటికి సొంపుగా ఉండి ఆకట్టుకున్నప్పటికీ, ఆకలి తీర్చే అమృత ఫలాన్ని ఇవ్వవు. అలాగే కామ్య కర్మకాండ వాక్కులు స్వర్గాది తాత్కాలిక భోగాలను ఆశగా చూపి, ఆత్మజ్ఞానము అనే మోక్ష ఫలానికి జీవుడిని దూరం చేస్తాయి. — భగవద్గీత (2.42)"
+    }
+  },
+  {
+    "id": "bg-2-42-q3",
+    "verse": { "c": 2, "s": 42 },
+    "concept": ["Dogmatic Fallacy - Veda-vāda-ratāḥ & Nānyad Asti"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What spiritual dogmatism is targeted by the terms 'Veda-vāda-ratāḥ' and 'Nānyad astīti vādinaḥ' in verse 2.42?",
+      "te": "2.42 శ్లోకంలోని 'వేదవాదరతాః' మరియు 'నాన్యదస్తీతి వాదినః' అనే పదాల ద్వారా ఏ రకమైన ఆచార పట్టుదలను/అజ్ఞానాన్ని కృష్ణుడు తప్పుబట్టాడు?"
+    },
+    "choices": [
+      {
+        "en": "The literalist delusion that Vedic karma-kāṇḍa (fruitive rituals for heavenly enjoyment) is the whole of spiritual reality, denying the higher Vedantic teachings of Self-knowledge and Moksha.",
+        "te": "వేదాలలోని కర్మకాండల (యజ్ఞయాగాదుల) యొక్క భౌతిక ఫలితాలే సమగ్ర ఆధ్యాత్మిక సత్యమని నమ్ముతూ... అంతకంటే అత్యున్నతమైన ఆత్మజ్ఞానాన్ని, మోక్ష మార్గాన్ని నిరాకరించే అంధ విశ్వాస పూరిత అజ్ఞానాన్ని.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The total rejection of Vedic authority by materialist philosophers.",
+        "te": "భౌతికవాద తత్త్వవేత్తలచే వేద ప్రామాణికతను సంపూర్ణంగా నిరాకరించడాన్ని.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The practice of silent japa meditation without uttering Vedic mantras out loud.",
+        "te": "వేద మంత్రాలను బిగ్గరగా పఠించకుండా మౌనంగా జపం చేసే పద్ధతిని.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The refusal of warriors to study scriptures prior to entering battle.",
+        "te": "యుద్ధానికి ప్రవేశించే ముందు శాస్త్రాలను అధ్యయనం చేయడానికి యోధులు నిరాకరించడాన్ని.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Veda-vāda-ratāḥ' means those engrossed in debating fruitive ritual statements. 'Nānyad asti iti vādinaḥ' means those who argue 'there is nothing else [higher than heavenly enjoyment]'. They miss the true inner goal of the Vedas—Brahman-realization—by clinging to superficial promises of Karma-kāṇḍa. — Bhagavad Gita (2.42)",
+      "te": "'వేదవాదరతాః' అనగా వేదాలలో చెప్పబడిన కర్మకాండల ఫలిత వాక్యాల వాదనలయందే ఆసక్తులైనవారు. 'నాన్యదస్తీతి వాదినః' అనగా 'స్వర్గ భోగాల కంటే మించినది వేరొకటి ఏదీ లేదు' అని వాదించేవారు. వేదాల అంతిమ లక్ష్యమైన ఆత్మజ్ఞానాన్ని/బ్రహ్మజ్ఞానాన్ని విడిచిపెట్టి ఉపరితల కామ్య కర్మలలోనే చిక్కుకుపోవడం వీరి అజ్ఞానం. — భగవద్గీత (2.42)"
+    }
+  },
+  {
+    "id": "bg-2-42-q4",
+    "verse": { "c": 2, "s": 42 },
+    "concept": ["Sanskrit Vocabulary - Unwise, Flowery Speech & Literalists"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'avipaścitaḥ' and 'puṣpitām' mean in verse 2.42?",
+      "te": "2.42 శ్లోకంలోని 'అవిపశ్చితః' మరియు 'పుష్పితామ్' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Avipaścitaḥ = Unwise people / men of small intellect; Puṣpitām = Flowery / ornate / attractive-looking.",
+        "te": "అవిపశ్చితః = వివేకహీనులు / అల్ప జ్ఞానము గలవారు; పుష్పితామ్ = పూలతో నిండినట్లు అలంకారికంగా సొంపుగా ఉండేది (రమణీయ వాక్కులు).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Avipaścitaḥ = Great sages; Puṣpitām = Poisonous.",
+        "te": "అవిపశ్చితః = గొప్ప మహర్షులు; పుష్పితామ్ = విషపూరితమైనది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Avipaścitaḥ = Brave warriors; Puṣpitām = Written on palm leaves.",
+        "te": "అవిపశ్చితః = ధైర్యవంతులైన యోధులు; పుష్పితామ్ = తాళపత్రాలపై రాయబడినది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Avipaścitaḥ = Heavenly gods; Puṣpitām = Silent.",
+        "te": "అవిపశ్చితః = స్వర్గపు దేవతలు; పుష్పితామ్ = మౌనంగా ఉండేది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vipaścit' means a wise person / scholar; with negative prefix 'a-', 'A-vipaścit' means an undiscerning or unwise person (Nominative Plural: 'avipaścitaḥ'). 'Puṣpitā' is flowery or decorated speech that sounds alluring but lacks spiritual substance. — Bhagavad Gita (2.42)",
+      "te": "'విపశ్చిత్' అనగా వివేకి/జ్ఞాని; 'అ' వ్యతిరేక ఉపసర్గ చేరగా 'అవిపశ్చిత్' అనగా వివేకం లేని అజ్ఞాని (ప్రథమా బహువచనం: అవిపశ్చితః). 'పుష్పితా' అనగా పైకి అలంకారికంగా ఆకట్టుకుంటూ లోపల ఆధ్యాత్మిక సత్యం లేని రమణీయ వాక్కు. — భగవద్గీత (2.42)"
+    }
+  },
+  {
+    "id": "bg-2-42-q5",
+    "verse": { "c": 2, "s": 42 },
+    "concept": ["Sanskrit Grammar - Present Participles 'Pravadantaḥ' & 'Vādinaḥ'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'pravadanti' (pravadantaḥ) and 'vādinaḥ' in verse 2.42:",
+      "te": "2.42 శ్లోకంలోని 'ప్రవదంతి' (ప్రవదంతః) మరియు 'వాదినః' అనే పదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Pravadanti = 3rd person plural Present indicative active verb from root 'vad' with prefix 'pra' (they utter / speak out); Vādinaḥ = Nominative Plural Masculine of 'vādin' (those who argue / maintain a assertion).",
+        "te": "ప్రవదంతి = 'ప్ర' ఉపసర్గతో 'వద్' (పలుకు) ధాతువు లట్ లకార (వర్తమానకాల) ప్రథమ పురుష బహువచన పరస్మైపద క్రియ ('వారు మాట్లాడుతున్నారు'); వాదినః = 'వాదిన్' (వాదించువాడు) శబ్దానికి ప్రథమా విభక్తి బహువచన రూపం ('వాదించువారు').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Pravadanti = Past tense plural verb; Vādinaḥ = Genitive singular noun.",
+        "te": "ప్రవదంతి = భూతకాల బహువచన క్రియ; వాదినః = షష్ఠీ ఏకవచన నామవాచకం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Pravadanti = Imperative verb; Vādinaḥ = Future tense participle.",
+        "te": "ప్రవదంతి = ఆజ్ఞార్థక క్రియ; వాదినః = భవిష్యత్కాల విశేషణం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Pravadanti = Infinitive form; Vādinaḥ = Past passive participle.",
+        "te": "ప్రవదంతి = తుమున్నంత రూపం; వాదినః = భూతకాల కర్మణి విశేషణం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Pravadanti' is 3rd person plural present indicative active of root 'vad' with 'pra-' (they proclaim). 'Vādin' (asserting) in Nominative Plural Masculine is 'vādinaḥ' ('assertors/maintainers'). Both agree with subject 'avipaścitaḥ' (unwise people who speak and argue). — Bhagavad Gita (2.42)",
+      "te": "'ప్ర' + 'వద్' ధాతువు వర్తమానకాల ప్రథమ పురుష బహువచన క్రియ 'ప్రవదంతి' (ప్రకటిస్తారు). 'వాదిన్' ప్రాతిపదిక శబ్దానికి ప్రథమా బహువచనం 'వాదినః' (వాదించేవారు). ఈ రెండూ 'అవిపశ్చితః' అనే ప్రథమా బహువచన కర్తతో అన్వయించబడ్డాయి. — భగవద్గీత (2.42)"
+    }
+  },
+  {
+    "id": "bg-2-42-q6",
+    "verse": { "c": 2, "s": 42 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'pravadantyavipaścitaḥ' and 'nānyadastīti' in verse 2.42:",
+      "te": "2.42 శ్లోకంలోని 'ప్రవదంత్యవిపశ్చితః' మరియు 'నాన్యదస్తీతి' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Pravadanti + avipaścitaḥ -> pravadanty avipaścitaḥ (Yan Sandhi: 'i' before 'a' -> 'y'); na + anyat -> nānyat (Savarna-dirgha Sandhi); anyat + asti -> anyad asti (Jasdtva Sandhi: 't' -> 'd'); asti + iti -> astīti (Savarna-dirgha Sandhi: i + i -> ī).",
+        "te": "ప్రవదంతి + అవిపశ్చితః -> ప్రవదంత్యవిపశ్చితః (యణాదేశ సంధి: 'ఇ' కారం 'య్' గా మారినది); న + అన్యత్ -> నాన్యత్ (సవర్ణదీర్ఘ సంధి); అన్యత్ + అస్తి -> అన్యదస్తి (జశ్త్వ సంధి: 'త్' -> 'ద్'); అస్తి + ఇతి -> అస్తీతి (సవర్ణదీర్ఘ సంధి: ఇ + ఇ -> ఈ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Pravadanta + avipaścitaḥ -> pravadantāvipaścitaḥ; na + anyat -> na-anyat; asti + iti -> aste'ti",
+        "te": "ప్రవదంత + అవిపశ్చితః -> ప్రవదంతావ్యవిపశ్చితః; న + అన్యత్ -> నఅన్యత్; అస్తి + ఇతి -> అస్తేఽతి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Pravadanti + avipaścitaḥ -> pravadantīvipaścitaḥ; no + anyat -> nānyat; asti + iti -> astaiti",
+        "te": "ప్రవదంతి + అవిపశ్చితః -> ప్రవదంతీవిపశ్చితః; నో + అన్యత్ -> నాన్యత్; అస్తి + ఇతి -> అస్తైతి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Pravadante + avipaścitaḥ -> pravadante'vipaścitaḥ; nai + anyat -> nānyat; asti + iti -> astīti",
+        "te": "ప్రవదంతే + అవిపశ్చితః -> ప్రవదంతేఽవిపశ్చితః; నై + అన్యత్ -> నాన్యత్; అస్తి + ఇతి -> అస్తీతి",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Pravadanti' + 'avipaścitaḥ': final 'i' converts to 'y' via Yan Sandhi -> 'pravadanty avipaścitaḥ'. 2. 'Na' + 'anyat': 'a' + 'a' merges into 'ā' via Savarna-dirgha Sandhi -> 'nānyat'. 3. 'Nānyat' + 'asti': 't' becomes 'd' via Jasdtva Sandhi before vowel 'a' -> 'nānyad asti'. 4. 'Asti' + 'iti': 'i' + 'i' merges into long 'ī' via Savarna-dirgha Sandhi -> 'astīti'. — Bhagavad Gita (2.42)",
+      "te": "1. 'ప్రవదంతి' + 'అవిపశ్చితః' లలో 'ఇ' కారం స్థానంలో 'య్' వచ్చి 'ప్రవదంత్యవిపశ్చితః' (యణాదేశ సంధి) అయినది. 2. 'న' + 'అన్యత్' లలో 'అ' + 'అ' கலసి 'నాన్యత్' (సవర్ణదీర్ఘ సంధి) అయినది. 3. 'నాన్యత్' + 'అస్తి' లలో అచ్చు ముందు పొల్లు 'త్' స్థానంలో 'ద్' వచ్చి 'నాన్యదస్తి' (జశ్త్వ సంధి) అయినది. 4. 'అస్తి' + 'ఇతి' లలో 'ఇ' + 'ఇ' కలసి 'అస్తీతి' (సవర్ణదీర్ఘ సంధి) అయినది. — భగవద్గీత (2.42)"
+    }
+  }
+]

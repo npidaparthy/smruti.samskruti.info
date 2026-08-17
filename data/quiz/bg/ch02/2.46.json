@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-46-q1",
+    "verse": { "c": 2, "s": 46 },
+    "concept": ["Verse Meaning & The Analogy of the Flood and Reservoir"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.46?\n\n“yāvānartha udapāne sarvataḥ saṃplutodake | tāvānsarveṣu vedeṣu brāhmaṇasya vijānataḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యావానర్థ ఉదపానే సర్వతః సంప్లుతోదకే | తావాన్సర్వేషు వేదేషు బ్రాహ్మణస్య విజానతః”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — All the purpose served by a small reservoir of water is fully contained in a vast lake inundated with water on all sides; similarly, all the utility of all the Vedas is comprehended by a Knower of Brahman (Self-realized sage).",
+        "te": "శ్రీభగవానుడు పలికెను — నలువైపులా జలంతో నిండిన మహా జలాశయం (సముద్రము/ప్రవాహము) లభించినప్పుడు చిన్న బావి వల్ల కలిగే ప్రయోజనం ఎంత పరిమితమో... బ్రహ్మజ్ఞానాన్ని (ఆత్మజ్ఞానాన్ని) ఎరిగిన జ్ఞానికి సమస్త వేదాల వల్ల కలిగే ప్రయోజనం కూడా అంతే (అన్ని వేదఫలాలు అతని ఆత్మానుభూతిలోనే అంతర్భవించి ఉంటాయి).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — A Knower of Brahman must build large water reservoirs and perform daily ritual ablutions in all rivers to attain the fruits of the Vedas.",
+        "te": "శ్రీభగవానుడు పలికెను — బ్రహ్మజ్ఞాని వేదఫలాలను పొందడానికి పెద్ద జలాశయాలను నిర్మించి, నదులన్నింటిలో రోజువారీ స్నానాలను ఆచరించాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Small wells contain purer water than vast floods; therefore, partial Vedic rituals are superior to full Self-realization.",
+        "te": "శ్రీభగవానుడు పలికెను — పెద్ద ప్రవాహాల కంటే చిన్న బావుల నీరు పవిత్రమైనది; కాబట్టి పూర్తి ఆత్మజ్ఞానం కంటే పాక్షిక వేద యజ్ఞాలే శ్రేష్ఠమైనవి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Unless a person masters all four Vedas and performs every sacrifice, he cannot achieve the state of a true Brahmana.",
+        "te": "శ్రీభగవానుడు పలికెను — ఒక వ్యక్తి నాలుగు వేదాలను అభ్యసించి సమస్త యజ్ఞాలను నిర్వర్తిస్తే తప్ప నిజమైన బ్రాహ్మణత్వ స్థితిని సాధించలేడు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Yāvān artha udapāne sarvataḥ saṃplutodake / tāvān sarveṣu vedeṣu brāhmaṇasya vijānataḥ.\" Krishna uses a striking visual analogy: just as a person surrounded by a vast flood of clean water ('saṃplutodake') has no separate need for a tiny well ('udapāne')—since its small utility is automatically included in the vast expanse—an enlightened Knower of Reality ('brāhmaṇasya vijānataḥ') automatically enjoys all limited fruits promised by the Vedas through the supreme bliss of Self-realization. — Bhagavad Gita (2.46)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ ఒక అద్భుతమైన దృష్టాంతాన్ని ఇచ్చాడు: నలువైపులా విస్తారమైన నదీ ప్రవాహం లేదా జలాశయం ('సంప్లుతోదకే') లభించినప్పుడు మానవునికి చిన్న బావి వల్ల ('ఉదపానే') తీరే దాహార్తి ఆ విస్తార జలంలోనే అంతర్భవించి ఉంటుంది. అలాగే బ్రహ్మజ్ఞాని ('బ్రాహ్మణస్య విజానతః') పొందే అనంత ఆత్మానందంలో వేదాల్లో చెప్పిన సమస్త కామ్య యజ్ఞాల అల్పఫలాలు స్వయంసిద్ధంగా ఇమిడి ఉంటాయి. — భగవద్గీత (2.46)"
+    }
+  },
+  {
+    "id": "bg-2-46-q2",
+    "verse": { "c": 2, "s": 46 },
+    "concept": ["Epistemic Hierarchy - Self-Knowledge vs Ritual Utility"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What fundamental principle regarding Self-knowledge (Ātma-Jnāna) vs. ritualistic Vedic Knowledge (Karma-kāṇḍa) is taught in verse 2.46?",
+      "te": "2.46 శ్లోకంలో ఆత్మజ్ఞానానికి మరియు వేద కర్మకాండల జ్ఙానానికి ఉన్న సంబంధం గురించి ఏ ప్రాథమిక సిద్ధాంతం బోధించబడింది?"
+    },
+    "choices": [
+      {
+        "en": "That direct Self-realization includes and transcends all minor benefits promised by Vedic rituals, rendering specialized fruitive rites unnecessary for an enlightened sage.",
+        "te": "ప్రత్యక్ష ఆత్మజ్ఞానం అనేది వేద కర్మకాండల ద్వారా లభించే సమస్త అల్ప ఫలాలను తనలోనే ఇముడ్చుకుని, వాటిని మించిపోతుందని; కాబట్టి జ్ఞానికి ప్రత్యేక కామ్య యజ్ఞాలతో ఎలాంటి అవసరమూ ఉండదని.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "That study of the Vedas becomes completely harmful once a person becomes a spiritual seeker.",
+        "te": "ఒక వ్యక్తి ఆధ్యాత్మిక సాధకుడిగా మారిన తర్వాత వేదాధ్యయనం చేయడం సంపూర్ణ హానికరం అని.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "That ritualistic sacrifices yield greater bliss than the realization of Brahman.",
+        "te": "బ్రహ్మసాక్షాత్కారం కంటే కామ్య యజ్ఞాలే ఎక్కువ ఆనందాన్ని ప్రసాదిస్తాయని.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "That water rituals are mandatory prerequisites before studying Vedanta.",
+        "te": "వేదాంతాన్ని అధ్యయనం చేయడానికి ముందు జల కర్మకాండలు తప్పనిసరి పూర్వరంగం అని.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedantic epistemology, the infinite bliss (Ānanda) of Brahman subsumes all finite, fragmented pleasures derived from heavenly rewards. A Knower of Brahman does not reject the Vedas out of hatred, but realizes that all Vedic fruits are merely a drop compared to the ocean of Self-knowledge. — Bhagavad Gita (2.46)",
+      "te": "వేదాంత సూత్రాల ప్రకారం బ్రహ్మానందం అనేది సకల లౌకిక, స్వర్గలోక అల్ప సుఖాలను తనలోనే కలుపుకుంటుంది. ఆత్మజ్ఞాని వేదాలను ద్వేషంతో తిరస్కరించడు; కానీ ఆత్మజ్ఞాన సముద్రంతో పోలిస్తే కామ్య యజ్ఞాల ఫలాలు ఒక చిన్న నీటి చుక్క మాత్రమేనని అనుభవపూర్వకంగా గ్రహిస్తాడు. — భగవద్గీత (2.46)"
+    }
+  },
+  {
+    "id": "bg-2-46-q3",
+    "verse": { "c": 2, "s": 46 },
+    "concept": ["Meaning of Key Metaphorical Terms - Udapāna & Saṃplutodaka"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit metaphorical terms 'Udapāne' and 'Saṃplutodake' symbolize in verse 2.46?",
+      "te": "2.46 శ్లోకంలోని 'ఉదపానే' మరియు 'సంప్లుతోదకే' అనే రూపక పదాలు ఆధ్యాత్మికంగా దేనికి ప్రతీకలు?"
+    },
+    "choices": [
+      {
+        "en": "Udapāne (small water-reservoir/well) = Limited fruits of Vedic fruitive rituals; Saṃplutodake (vast, all-pervading flood of water) = Infinite bliss of Brahman / Self-realization.",
+        "te": "ఉదపానే (చిన్న బావి/జలాశయం) = వేద కామ్య యజ్ఞాల వల్ల లభించే అల్ప, తాత్కాలిక ఫలాలు; సంప్లుతోదకే (నలువైపులా పొంగిపొర్లే మహా జలరాశి) = బ్రహ్మజ్ఞానము వల్ల సిద్ధించే అనంత ఆత్మానందము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Udapāne = Physical body; Saṃplutodake = Rain clouds.",
+        "te": "ఉదపానే = భౌతిక దేహము; సంప్లుతోదకే = వర్ష మేఘాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Udapāne = Mind of a warrior; Saṃplutodake = Battlefield of Kurukshetra.",
+        "te": "ఉదపానే = యోధుని మనస్సు; సంప్లుతోదకే = కురుక్షేత్ర రణరంగం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Udapāne = Ignorant world; Saṃplutodake = Hellish realms.",
+        "te": "ఉదపానే = అజ్ఞాన ప్రపంచం; సంప్లుతోదకే = నరక లోకాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Uda' (water) + 'pāna' (drinking place / well/pond) = 'Udapāne' (in a small well). 'Saṃpluta' (flooded/inundated) + 'udaka' (water) = 'Saṃplutodake' (in a place flooded with water on all sides). The well represents limited Karma-kāṇḍa rewards; the flood represents all-encompassing Brahma-jnāna. — Bhagavad Gita (2.46)",
+      "te": "'ఉద' (నీరు) + 'పాన' (తాగే చోటు/బావి) = ఉదపానే (చిన్న బావి నందు). 'సంప్లుత' (పొంగిపొర్లిన) + 'ఉదక' (నీరు) = సంప్లుతోదకే (నలువైపులా జలమయమైన విస్తార జలరాశి నందు). బావి అనేది కామ్య యజ్ఞాల అల్పఫలాలకు, జలరాశి అనేది అపరిమిత ఆత్మజ్ఞానానికి ప్రతీకలు. — భగవద్గీత (2.46)"
+    }
+  },
+  {
+    "id": "bg-2-46-q4",
+    "verse": { "c": 2, "s": 46 },
+    "concept": ["Sanskrit Vocabulary - The Enlightened Sage (Brāhmaṇa)"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'Brāhmaṇasya' and 'Vijānataḥ' mean in verse 2.46?",
+      "te": "2.46 శ్లోకంలోని 'బ్రాహ్మణస్య' మరియు 'విజానతః' అనే సంస్కృత పదాల ప్రత్యేక అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Brāhmaṇasya = Of one who knows Brahman (the Supreme Reality / Self-realized sage); Vijānataḥ = Of one who possesses full direct realization / wisdom.",
+        "te": "బ్రాహ్మణస్య = బ్రహ్మమును ఎరిగిన జ్ఞానికి (ఆత్మసాక్షాత్కారము పొందిన సాధకునికి); విజానతః = సంపూర్ణ అనుభవపూర్వక విజ్ఞానము/వివేకము గలవానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Brāhmaṇasya = Of a priest by caste birth; Vijānataḥ = Of one who recites books mechanically.",
+        "te": "బ్రాహ్మణస్య = పుట్టుక చేత బ్రాహ్మణ కులానికి చెందినవానికి; విజానతః = యంత్రంలా పుస్తకాలను వల్లించేవానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Brāhmaṇasya = Of Lord Brahma; Vijānataḥ = Of one who commands armies.",
+        "te": "బ్రాహ్మణస్య = బ్రహ్మదేవుని యొక్క; విజానతః = సైన్యాలను శాసించేవానికి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Brāhmaṇasya = Of a ritual performer; Vijānataḥ = Of one who fears death.",
+        "te": "బ్రాహ్మణస్య = కర్మకాండలు నిర్వర్తించేవానికి; విజానతః = మరణానికి భయపడేవానికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Here 'Brāhmaṇa' is used in its true Vedantic sense: 'Brahma jānāti iti brāhmaṇaḥ' (one who knows Brahman, not merely by birth). 'Vijānataḥ' is the Genitive Singular Present Active Participle of prefix 'vi-' + root 'jñā' (of one who fully understands/realizes). — Bhagavad Gita (2.46)",
+      "te": "ఇక్కడ 'బ్రాహ్మణ' అనేది జన్మ చేత కాక 'బ్రహ్మ జానాతి ఇతి బ్రాహ్మణః' (బ్రహ్మమును అనుభవపూర్వకంగా ఎరిగిన జ్ఞాని) అనే వేదాంతార్థంలో వాడబడింది. 'వి' + 'జ్ఞా' (తెలుసుకొను) ధాతువు వర్తమాన విశేషణ షష్ఠీ ఏకవచనం 'విజానతః' (చక్కగా గ్రహించినవానికి). — భగవద్గీత (2.46)"
+    }
+  },
+  {
+    "id": "bg-2-46-q5",
+    "verse": { "c": 2, "s": 46 },
+    "concept": ["Sanskrit Grammar - Correlation Yāvān & Tāvān"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical correlative pair 'yāvān' and 'tāvān' in verse 2.46:",
+      "te": "2.46 శ్లోకంలోని 'యావాన్' మరియు 'తావాన్' అనే సంబంధవాచక (Correlative) పదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Relative and Correlative Quantitative Pronouns in Nominative Singular Masculine: 'yāvān' = 'as much as / whatever extent of [utility]'; 'tāvān' = 'so much / that same extent of [utility]'.",
+        "te": "పరిమాణాన్ని తెలిపే ప్రథమా విభక్తి ఏకవచన పుంలింగ సంబంధ సర్వనామ జంట: 'యావాన్' = 'ఎంత పరిమాణంలో/ఎంత మేరకు (ప్రయోజనముందో)'; 'తావాన్' = 'అంత పరిమాణంలో/అంత మేరకు మాత్రమే (ప్రయోజనముండును)'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Genitive Plural Nouns.",
+        "te": "షష్ఠీ విభక్తి బహువచన నామవాచకాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "3rd person plural future tense verbs.",
+        "te": "ప్రథమ పురుష బహువచన భవిష్యత్కాల క్రియలు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command particles.",
+        "te": "ఆజ్ఞార్థక అవ్యయాలు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yāvān arthaḥ udapāne [bhavati], tāvān [arthaḥ] sarveṣu vedeṣu brāhmaṇasya vijānataḥ [bhavati]'. The relative 'yāvān' introduces the analogical premise (the reservoir); the correlative 'tāvān' completes the philosophical conclusion (the Brahmana's knowledge). — Bhagavad Gita (2.46)",
+      "te": "'యావాన్ అర్థః ఉదపానే (బావి వల్ల ఎంత ప్రయోజనమో), తావాన్ సర్వేషు వేదేషు బ్రాహ్మణస్య విజానతః (బ్రహ్మజ్ఞానికి సమస్త వేదాల వల్ల అంత ప్రయోజనమే)'. 'యావాన్-తావాన్' అనునవి పరిమాణాత్మక ఉపమానాన్ని పూర్తీ చేసే నిత్య సంబంధ సర్వనామాలు. — భగవద్గీత (2.46)"
+    }
+  },
+  {
+    "id": "bg-2-46-q6",
+    "verse": { "c": 2, "s": 46 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'yāvānartha' and 'tāvānsarveṣu' in verse 2.46:",
+      "te": "2.46 శ్లోకంలోని 'యావానర్థ' (యావాన్+అర్థః) మరియు 'తావాన్సర్వేషు' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Yāvān + arthaḥ -> yāvānarthaḥ (consonant 'n' combining directly with initial vowel 'a'); arthaḥ + udapāne -> artha udapāne (Visarga Lopa Sandhi: visarga drops before vowel 'u'); tāvān + sarveṣu -> tāvānsarveṣu (consonant 'n' combining with 's').",
+        "te": "యావాన్ + అర్థః -> యావానర్థః (పొల్లు 'న్' అచ్చు 'అ' తో సూటిగా కలయుట); అర్థః + ఉదపానే -> అర్థ ఉదపానే (విసర్గ లోప సంధి: అచ్చు 'ఉ' ముందు విసర్గ లోపించినది); తావాన్ + సర్వేషు -> తావాన్సర్వేషు (పొల్లు 'న్' వ్యంజనము 'స' తో కలయుట).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Yāvā + narthaḥ -> yāvānarthaḥ; tāvā + sarveṣu -> tāvāsarveṣu",
+        "te": "యావా + నర్థః -> యావానర్థః; తావా + సర్వేషు -> తావాసర్వేషు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Yāvām + arthaḥ -> yāvāmarthaḥ; tāvām + sarveṣu -> tāvāṃsarveṣu",
+        "te": "యావామ్ + అర్థః -> యావామర్థః; తావామ్ + సర్వేషు -> తావాంసర్వేషు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yāvāḥ + arthaḥ -> yāvāharthah; tāvāḥ + sarveṣu -> tāvāhsarveṣu",
+        "te": "యావాః + అర్థః -> యావాహర్థః; తావాః + సర్వేషు -> తావాహసర్వేషు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Yāvān' (how much) + 'arthaḥ' (utility/purpose): dental nasal 'n' joins short vowel 'a' -> 'yāvānarthaḥ'. 2. 'Arthaḥ' + 'udapāne': visarga preceded by 'a' drops before non-homogeneous vowel 'u' via Visarga Lopa Sandhi -> 'artha udapāne'. 3. 'Tāvān' + 'sarveṣu': final 'n' stays unchanged before sibilant 's' -> 'tāvānsarveṣu'. — Bhagavad Gita (2.46)",
+      "te": "1. 'యావాన్' + 'అర్థః' లలో పొల్లు 'న్' అచ్చు 'అ' తో కలసి 'యావానర్థః' అయినది. 2. 'అర్థః' + 'ఉదపానే' లలో అచ్చు ముందు విసర్గ లోపించి 'అర్థ ఉదపానే' (విసర్గ లోప సంధి) అయినది. 3. 'తావాన్' + 'సర్వేషు' లలో పొల్లు 'న్' మార్పు లేకుండా ఉండి 'తావాన్సర్వేషు' అని నిలిచింది. — భగవద్గీత (2.46)"
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-60-q1",
+    "verse": { "c": 2, "s": 60 },
+    "concept": ["Verse Meaning & The Danger of Turbulent Senses"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.60?\n\n“yatato hyapi kaunteya puruṣasya vipaścitaḥ | indriyāṇi pramāthīni haranti prasabhaṃ manaḥ”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“యతతో హ్యపి కౌంతేయ పురుషస్య విపశ్చితః | ఇంద్రియాణి ప్రమాథీని హరంతి ప్రసభం మనః”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — O Kaunteya, the turbulent senses forcibly snatch away the mind of even a wise person who is striving earnestly for perfection.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ కౌంతేయా (అర్జునా)! మోక్షం కోసం నిరంతరం ప్రయత్నించే వివేకియైన సాధకుని యొక్క మనస్సును కూడా... కలతపెట్టే స్వభావము గల ఇంద్రియాలు (క్షోభపెట్టే ఇంద్రియాలు) బలవంతంగా హరించివేస్తాయి (చలించేలా చేస్తాయి).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — A wise person who strives for perfection easily controls all his senses without any possibility of mental distraction.",
+        "te": "శ్రీభగవానుడు పలికెను — మోక్షం కోసం ప్రయత్నించే వివేకి తన ఇంద్రియాలను చాలా సులభంగా నియంత్రించగలడు, అతని మనస్సు ఎప్పటికీ పరధ్యానానికి గురికాదు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Senses are dangerous only to ignorant fools, whereas a scholar's intellect is immune to sensory turbulence.",
+        "te": "శ్రీభగవానుడు పలికెను — ఇంద్రియాలు కేవలం అజ్ఞానులకు మాత్రమే ప్రమాదకరమైనవి, పండితుని బుద్ధిపై ఇంద్రియ అలజడి ఎలాంటి ప్రభావమూ చూపలేదు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — O Kaunteya, the senses carry away the mind only when a warrior is physically defeated on the battlefield.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ కౌంతేయా! రణరంగంలో యోధుడు శారీరకంగా ఓడిపోయినప్పుడు మాత్రమే ఇంద్రియాలు అతని మనస్సును హరిస్తాయి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Yatato hy api kaunteya puruṣasya vipaścitaḥ / indriyāṇi pramāthīni haranti prasabhaṃ manaḥ.\" Krishna warns against spiritual complacency. Even for a 'vipaścit' (discriminating scholar/sage) who is actively 'yatān' (striving/exerting effort), the 'pramāthīni' (agitating/turbulent) senses possess such overpowering velocity that they forcibly drag away ('haranti prasabham') the mind toward sensory objects. — Bhagavad Gita (2.60)",
+      "te": "ఆధ్యాత్మిక అజాగ్రత్త పట్ల శ్రీకృష్ణుడు ఇక్కడ హెచ్చరిస్తున్నాడు. వివేకియైన పండితుడు ('విపశ్చిత్'), నిరంతరం ఆధ్యాత్మిక సాధన చేసే ప్రయత్నశీలి ('యతతః') అయినప్పటికీ... కలతపెట్టే స్వభావం ఉన్న ఇంద్రియాలు ('ప్రమాథీని ఇంద్రియాణి') అతని మనస్సును బలాత్కారంగా ('ప్రసభమ్') విషయాల వైపుకు ఈడ్చుకెళ్లిపోతాయి ('హరంతి'). — భగవద్గీత (2.60)"
+    }
+  },
+  {
+    "id": "bg-2-60-q2",
+    "verse": { "c": 2, "s": 60 },
+    "concept": ["Psychological Threat - Indriyāṇi Pramāthīni"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why are the senses characterized as 'Pramāthīni' in verse 2.60?",
+      "te": "2.60 శ్లోకంలో ఇంద్రియాలను 'ప్రమాథీని' అని ఎందుకు అభివర్ణించారు?"
+    },
+    "choices": [
+      {
+        "en": "Because like wild, unbroken horses, the senses agitate, churn, and violently disturb the inner tranquility of the practitioner's mind.",
+        "te": "ఎందుకంటే అదుపులేని అడవి గుర్రాల వలె ఇంద్రియాలు సాధకుని అంతరంగ ప్రశాంతతను మధించి, తీవ్రమైన అలజడిని/విక్షేపాన్ని కలిగిస్తాయి కాబట్టి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because senses cause physical weakness in the bones.",
+        "te": "ఇంద్రియాలు ఎముకలలో శారీరక బలహీనతను కలిగిస్తాయి కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because senses operate only during dark nighttime.",
+        "te": "ఇంద్రియాలు కేవలం చీకటి రాత్రి వేళల్లో మాత్రమే పనిచేస్తాయి కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because senses belong strictly to demoniac personalities.",
+        "te": "ఇంద్రియాలు కేవలం రాక్షస ప్రవృత్తి గలవారికి మాత్రమే చెందుతాయి కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Pramāthin' derives from root 'math' (to churn/agitate) with prefix 'pra-' (intensely). 'Pramāthīni' describes the refractory nature of senses that churn up mental calm, producing sudden storms of passion or distraction despite one's intellectual knowledge. — Bhagavad Gita (2.60)",
+      "te": "'ప్ర' + 'మథ్' (మధించు/కలతపెట్టు) ధాతువు నుండి 'ప్రమాథిన్' అనే పదం సిద్ధించింది. 'ప్రమాథీని' అనగా మనిషి ఎంతటి జ్ఞాని అయినప్పటికీ అతని చిత్తశాంతిని అతలాకుతలం చేసి, మనస్సును తీవ్రంగా కలవరపరిచే ఇంద్రియ స్వభావము. — భగవద్గీత (2.60)"
+    }
+  },
+  {
+    "id": "bg-2-60-q3",
+    "verse": { "c": 2, "s": 60 },
+    "concept": ["Psychological Force - Haranti Prasabhaṃ Manaḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What insight into human vulnerability is revealed by the words 'Prasabham' and 'Vipaścitaḥ' in verse 2.60?",
+      "te": "2.60 శ్లోకంలోని 'ప్రసభమ్' మరియు 'విపశ్చితః' అనే పదాల ద్వారా మానవ మానసిక బలహీనతకు సంబంధించి ఏ నిజాన్ని బయటపెట్టారు?"
+    },
+    "choices": [
+      {
+        "en": "Even vast scriptural intellectual wisdom ('Vipaścitaḥ') is insufficient by itself to prevent spiritual downfall, because uncontrolled senses can overpower the mind by sheer brute force ('Prasabham').",
+        "te": "కేవలం శాస్త్ర పాండిత్యం లేదా మేధో సంపత్తి ఉన్నంత మాత్రాన ('విపశ్చితః') సాధకుడు సురక్షితం కాడు; ఎందుకంటే అదుపులేని ఇంద్రియాలు అపారమైన బలప్రయోగంతో ('ప్రసభమ్') వివేకాన్ని సహితం తుడిచిపెట్టగలవు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Physical force ('Prasabham') must be used by kings to convert unwise scholars ('Vipaścitaḥ').",
+        "te": "అజ్ఞానులైన పండితులను మార్చడానికి రాజులు బలప్రయోగాన్ని ఉపయోగించాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Intellectual study destroys physical strength during war.",
+        "te": "యుద్ధ సమయంలో శాస్త్రాధ్యయనం అనేది శారీరక బలాన్ని నశింపజేస్తుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Only illiterate people are free from sensory distraction.",
+        "te": "కేవలం చదువురాని నిరక్షరాస్యులు మాత్రమే ఇంద్రియ విక్షేపాల నుండి విముక్తులవుతారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Prasabham' means violently, forcibly, or by sheer compulsion. 'Vipaścit' means a wise, discriminating person. Krishna warns that theoretical discrimination alone cannot withstand sensory impulses unless accompanied by active devotion and complete surrender of the senses (introduced in 2.61). — Bhagavad Gita (2.60)",
+      "te": "'ప్రసభమ్' అనగా బలాత్కారంగా / తీవ్రమైన బలవంతముగా. 'విపశ్చిత్' అనగా వివేకవంతుడైన పండితుడు. కేవలం సిద్ధాంత జ్ఞానం ఉన్నంత మాత్రాన ఇంద్రియ తుఫానును తట్టుకోలేము; ఇంద్రియ నిగ్రహంతో కూడిన భగవదనుసంధానము (2.61 శ్లోకంలో చెప్పబడేది) అవసరమని కృష్ణుడి హెచ్చరిక. — భగవద్గీత (2.60)"
+    }
+  },
+  {
+    "id": "bg-2-60-q4",
+    "verse": { "c": 2, "s": 60 },
+    "concept": ["Sanskrit Vocabulary - Striving, Wise, Agitating, Forcibly"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'yatataḥ', 'vipaścitaḥ', and 'prasabham' mean in verse 2.60?",
+      "te": "2.60 శ్లోకంలోని 'యతతః', 'విపశ్చితః', మరియు 'ప్రసభమ్' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Yatataḥ = Of the striving/exerting seeker; Vipaścitaḥ = Of the wise / discriminating person; Prasabham = Forcibly / violently / by force.",
+        "te": "యతతః = ప్రయత్నించుచున్న సాధకునికి; విపశ్చితః = వివేకియైన పండితునికి; ప్రసభమ్ = బలాత్కారముగా / దౌర్జన్యముగా / బలవంతముగా.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Yatataḥ = Of the lazy person; Vipaścitaḥ = Of the foolish person; Prasabham = Slowly.",
+        "te": "యతతః = సోమరియైన వానికి; విపశ్చితః = మూర్ఖునికి; ప్రసభమ్ = నెమ్మదిగా.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Yatataḥ = Of the defeated warrior; Vipaścitaḥ = Of the king; Prasabham = Silently.",
+        "te": "యతతః = ఓడిపోయిన యోధునికి; విపశ్చితః = రాజుకి; ప్రసభమ్ = మౌనంగా.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yatataḥ = Of the dead body; Vipaścitaḥ = Of the child; Prasabham = Secretly.",
+        "te": "యతతః = శవానికి; విపశ్చితః = బాలునికి; ప్రసభమ్ = రహస్యంగా.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yatataḥ' is Genitive Singular Present Active Participle of root 'yat' (of one striving). 'Vipaścitaḥ' is Genitive Singular Masculine of 'vipaścit' (of the wise). 'Prasabham' is an adverb meaning forcibly or impetuously. — Bhagavad Gita (2.60)",
+      "te": "'యత్' (ప్రయత్నించు) ధాతు వర్తమాన విశేషణ షష్ఠీ ఏకవచనం 'యతతః' (ప్రయత్నించు సాధకునికి). 'విపశ్చిత్' శబ్ద షష్ఠీ ఏకవచనం 'విపశ్చితః' (వివేకియైన జ్ఞానికి). 'ప్రసభమ్' అనగా బలాత్కారంగా. — భగవద్గీత (2.60)"
+    }
+  },
+  {
+    "id": "bg-2-60-q5",
+    "verse": { "c": 2, "s": 60 },
+    "concept": ["Sanskrit Grammar - Plural Subject 'Indriyāṇi' & Verb 'Haranti'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical agreement between 'indriyāṇi' and 'haranti' in verse 2.60:",
+      "te": "2.60 శ్లోకంలోని 'ఇంద్రియాణి' మరియు 'హరంతి' అనే పదాల వ్యాకరణ అన్వయం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Indriyāṇi = Nominative Plural Neuter subject (the senses); Haranti = 3rd person plural Present active indicative (Laṭ-lakāra) from root 'hṛ' (they steal / carry away), agreeing with the plural subject.",
+        "te": "ఇంద్రియాణి = ప్రథమా విభక్తి బహువచన నపుంసకలింగ కర్త ('ఇంద్రియములు'); హరంతి = 'హృ' (హరించు/దోచుకొను) ధాతువు లట్ లకార (వర్తమానకాల) ప్రథమ పురుష బహువచన పరస్మైపద క్రియ ('అవి హరించివేయును'). కర్త, క్రియల బహువచన అన్వయం.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Indriyāṇi = Singular noun; Haranti = Singular past verb.",
+        "te": "ఇంద్రియాణి = ఏకవచన నామవాచకం; హరంతి = ఏకవచన భూతకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Indriyāṇi = Accusative object; Haranti = Imperative command verb.",
+        "te": "ఇంద్రియాణి = ద్వితీయా విభక్తి కర్మ; హరంతి = ఆజ్ఞార్థక క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Indriyāṇi = Genitive noun; Haranti = Future tense active verb.",
+        "te": "ఇంద్రియాణి = షష్ఠీ విభక్తి రూపం; హరంతి = భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Indriyāṇi pramāthīni' forms the Nominative Plural Neuter subject clause. 'Haranti' is 3rd person plural present indicative of root 'hṛ' (they carry away). Subject and verb match in plural number: 'turbulent senses steal the mind' ('indriyāṇi manaḥ haranti'). — Bhagavad Gita (2.60)",
+      "te": "'ఇంద్రియాణి ప్రమాథీని' అనేది ప్రథమా బహువచన నపుంసకలింగ కర్తృ వాక్యం. 'హరంతి' అనేది 'హృ' ధాతు వర్తమాన ప్రథమ పురుష బహువచనం. 'కలతపెట్టే ఇంద్రియాలు మనస్సును హరిస్తున్నాయి' అని సమన్వయం. — భగవద్గీత (2.60)"
+    }
+  },
+  {
+    "id": "bg-2-60-q6",
+    "verse": { "c": 2, "s": 60 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'hyapi' in verse 2.60:",
+      "te": "2.60 శ్లోకంలోని 'హ్యపి' (హి + అపి) అనే పదం యొక్క సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Hi + api -> hy api (Yan Sandhi: short vowel 'i' converts to semi-vowel 'y' before vowel 'a').",
+        "te": "హి + అపి -> హ్యపి (యణాదేశ సంధి: అచ్చు 'అ' ముందు ఉన్న 'ఇ' కారము 'య్' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Ha + api -> hapi",
+        "te": "హ + అపి -> హపి",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Him + api -> himapi",
+        "te": "హిమ్ + అపి -> హిమపి",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "He + api -> he'pi",
+        "te": "హే + అపి -> హేఽపి",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Hi' (indeed/for) + 'api' (even): final short vowel 'i' of 'hi' converts to semi-vowel 'y' before initial short vowel 'a' of 'api' via Yan Sandhi -> 'hy api'. — Bhagavad Gita (2.50)",
+      "te": "'హి' + 'అపి' లలో 'ఇ' కారానికి అచ్చు పరమైనప్పుడు యణాదేశ సంధి జరిగి 'య్' ఆదేశమై 'హ్యపి' అని రూపం సిద్ధించింది. — భగవద్గీత (2.60)"
+    }
+  }
+]

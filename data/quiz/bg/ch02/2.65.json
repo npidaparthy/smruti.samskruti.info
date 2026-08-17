@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-65-q1",
+    "verse": { "c": 2, "s": 65 },
+    "concept": ["Verse Meaning & Total Elimination of Sorrow"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.65?\n\n“prasāde sarvaduḥkhānāṃ hānirasyopajāyate | prasannacetaso hyāśu buddhiḥ paryavatiṣṭhate”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“ప్రసాదే సర్వదుఃఖానాం హానిరస్యオープజాయతే | ప్రసన్నచేతసో హ్యాశు బుద్ధిః పర్యవతిష్ఠతే”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Upon attaining tranquility of mind, all sorrows come to an absolute end; for the intellect of a person with a serene mind soon becomes firmly established in peace.",
+        "te": "శ్రీభగవానుడు పలికెను — చిత్త ప్రసన్నత (శాంతి) సిద్ధించినప్పుడు సమస్త దుఃఖములు సంపూర్ణంగా నశించిపోతాయి; ఎందుకంటే ప్రసన్నమైన మనస్సు గలవాని బుద్ధి త్వరితగతిన (చాలా త్వరగా) పరమాత్మ యందు స్థిరపడుతుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Sorrows can never be destroyed completely, but attaining mental peace helps a person endure physical pain during war.",
+        "te": "శ్రీభగవానుడు పలికెను — దుఃఖాలు ఎన్నటికీ సంపూర్ణంగా నశించవు, కానీ మానసిక శాంతి పొందడం వల్ల యుద్ధ సమయంలో శారీరక బాధను తట్టుకునే శక్తి లభిస్తుంది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — Destruction of sorrow occurs only after performing elaborate Vedic rituals and offering physical wealth in charity.",
+        "te": "శ్రీభగవానుడు పలికెను — విస్తారమైన వేద యజ్ఞాలను నిర్వర్తించి భౌతిక సంపదను దానం చేసినప్పుడు మాత్రమే దుఃఖ నాశనం జరుగుతుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — A serene mind is dangerous for a warrior, as it slows down his intellectual response on the battlefield.",
+        "te": "శ్రీభగవానుడు పలికెను — ప్రసన్నమైన మనస్సు యోధునికి ప్రమాదకరం, ఎందుకంటే అది రణరంగంలో అతని బుద్ధి చురుకుదనాన్ని తగ్గిస్తుంది.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Prasāde sarva-duḥkhānāṃ hānir asyopajāyate / prasanna-cetaso hy āśu buddhiḥ paryavatiṣṭhate.\" Krishna reveals the ultimate fruits of 'Prasāda' (inner tranquility achieved in 2.64): 1. Complete annihilation of all three types of sorrow ('sarva-duḥkhānāṃ hāniḥ'), 2. Rapid stabilization of the intellect in the Self ('prasanna-cetasaḥ āśu buddhiḥ paryavatiṣṭhate'). — Bhagavad Gita (2.65)",
+      "te": "2.64 లో చెప్పబడిన 'ప్రసాదమ్' (చిత్త ప్రసన్నత) వల్ల కలిగే ఫలితాలను శ్రీకృష్ణుడు ఇక్కడ వెల్లడించాడు: 1. సమస్త తాపత్రయాల/దుఃఖాల సంపూర్ణ నాశనం ('సర్వదుఃఖానామ్ హానిః'), 2. ప్రసన్నమైన చిత్తము గలవాని వివేక బుద్ధి ఆత్మ యందు త్వరితగతిన స్థిరపడటం ('ప్రసన్నచేతసః ఆశు బుద్ధిః పర్యవతిష్ఠతే'). — భగవద్గీత (2.65)"
+    }
+  },
+  {
+    "id": "bg-2-65-q2",
+    "verse": { "c": 2, "s": 65 },
+    "concept": ["Philosophical Mechanism - Prasanna-cetasaḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why does the intellect ('Buddhi') become rapidly established ('Paryavatiṣṭhate') in a person who is 'Prasanna-cetāḥ' (serene-minded) in verse 2.65?",
+      "te": "2.65 శ్లోకంలో 'ప్రసన్నచేతాః' (ప్రసన్నమైన/శాంతమైన మనస్సు గల సాధకుని) యొక్క వివేక బుద్ధి ('బుద్ధిః') త్వరితగతిన ఎందుకు స్థిరపడుతుంది ('పర్యవతిష్ఠతే')?"
+    },
+    "choices": [
+      {
+        "en": "Because when the mind is freed from the agitation of desire and aversion (Rāga-Dveṣa), the turbid lake of consciousness becomes clear and still, allowing the intellect to reflect the Self effortlessly.",
+        "te": "ఎందుకంటే రాగద్వేషాల అలజడి నుండి మనస్సు విముక్తమైనప్పుడు... చిత్తమనే సరస్సు స్వచ్ఛంగా, నిశ్చలంగా మారి, ఆత్మకాంతిని ప్రతిబింబించే వివేక బుద్ధి ఎటువంటి ఆటంకం లేకుండా స్థిరపడుతుంది కాబట్టి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because serene minds automatically memorize all four Vedas without study.",
+        "te": "ఎందుకంటే ప్రసన్న మనస్సు గలవారు చదవకుండానే నాలుగు వేదాలను కంఠస్థం చేస్తారు కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because physical fasting forces the intellect to stop functioning.",
+        "te": "ఎందుకంటే శారీరక ఉపవాసాలు బుద్ధి పనిచేయకుండా స్తంభింపజేస్తాయి కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because a tranquil mind ignores all worldly responsibilities during war.",
+        "te": "ఎందుకంటే ప్రశాంత మనస్సు గలవాడు యుద్ధ సమయంలో తన బాధ్యతలను విస్మరిస్తాడు కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Prasanna' (tranquil/clear) + 'cetāḥ' (mind/consciousness). Just as muddy water cannot reflect the sun, a mind agitated by desires cannot anchor the intellect in Truth. Once Prasāda cleanses the mind, the intellect ('buddhiḥ') becomes fixed like a lamp in a windless place ('paryavatiṣṭhate'). — Bhagavad Gita (2.65)",
+      "te": "'ప్రసన్న' (స్వచ్ఛమైన/శాంతమైన) + 'చేతాః' (మనస్సు). బురద నీటిలో సూర్య ప్రతిబింబం కనిపింపనట్లే, కోరికలతో అశాంతంగా ఉన్న మనస్సులో ఆత్మసత్యం స్థిరపడదు. ప్రసాదం చేత చిత్తము శుద్ధి కాగానే, గాలిలేని చోట దిపంలా బుద్ధి ఆత్మ యందు నిశ్చలంగా నిలిచిపోతుంది. — భగవద్గీత (2.65)"
+    }
+  },
+  {
+    "id": "bg-2-65-q3",
+    "verse": { "c": 2, "s": 65 },
+    "concept": ["Scope of Liberation - Sarva-duḥkhānāṃ Hāniḥ"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What does the expression 'Sarva-duḥkhānāṃ hāniḥ' encompass in verse 2.65?",
+      "te": "2.65 శ్లోకంలోని 'సర్వదుఃఖానామ్ హానిః' అనే ప్రసిద్ధ వాక్యాంశం దేనిని సూచిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "The complete, permanent cessation of all forms of sorrow (Adhyātmika - internal bodily/mental, Ādhibhautika - external world/beings, Ādhidaivika - natural/cosmic forces).",
+        "te": "సమస్త రూపాలలో ఉన్న దుఃఖముల (అధ్యాత్మిక - శారీరక/మానసిక బాధలు, అధిభౌతిక - ఇతర జీవుల వల్ల కలిగే బాధలు, అధిదైవిక - ప్రకృతి/దైవిక కోపాలు) సంపూర్ణమైన, శాశ్వతమైన నాశనము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The temporary relief from physical hunger and tiredness during battle.",
+        "te": "యుద్ధ సమయంలో శారీరక ఆకలి, అలసట నుండి లభించే తాత్కాలిక ఉపశమనం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The destruction of enemy armies on the battlefield.",
+        "te": "రణరంగంలో శత్రు సైన్యాల నాశనము.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The forgetfulness of past debts and financial losses.",
+        "te": "పూర్వపు అప్పులు, ఆర్థిక నష్టాలను మరిచిపోవడం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Sarva' (all) + 'duḥkhānām' (of sorrows) + 'hāniḥ' (destruction/elimination). Vedantic tradition classifies all human suffering into the 'Tāpatraya' (threefold afflictions). Upon gaining 'Prasāda' (tranquility), the root cause of all suffering—ignorance (Avidyā)—is dissolved, bringing total eradication of pain. — Bhagavad Gita (2.65)",
+      "te": "'సర్వ' (సమస్త) + 'దుఃఖానామ్' (దుఃఖములకు) + 'హానిః' (నాశనము). మానవుడిని వేధించే తాపత్రయాలకు (అధ్యాత్మిక, అధిభౌతిక, అధిదైవిక దుఃఖాలకు) మూలమైన అజ్ఞానము చిత్త ప్రసన్నత ద్వారా నశించడంతో సమస్త దుఃఖాలు శాశ్వతంగా తొలగిపోతాయి. — భగవద్గీత (2.65)"
+    }
+  },
+  {
+    "id": "bg-2-65-q4",
+    "verse": { "c": 2, "s": 65 },
+    "concept": ["Sanskrit Vocabulary - Tranquility, Loss of Sorrow, Swiftly"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit words 'prasāde', 'hāniḥ', 'āśu', and 'paryavatiṣṭhate' mean in verse 2.65?",
+      "te": "2.65 శ్లోకంలోని 'ప్రసాదే', 'హానిః', 'ఆశు', మరియు 'పర్యవతిష్ఠతే' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Prasāde = In tranquility / serenity; Hāniḥ = Destruction / end / loss; Āśu = Swiftly / very soon; Paryavatiṣṭhate = Becomes firmly established / anchored on all sides.",
+        "te": "ప్రసాదే = చిత్త ప్రసన్నత/శాంతి సిద్ధించినప్పుడు; హానిః = నాశనము/అంతము; ఆశు = త్వరగా/త్వరితగతిన; పర్యవతిష్ఠతే = నలువైపులా స్థిరపడుతుంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Prasāde = In a palace; Hāniḥ = Profit; Āśu = Slowly; Paryavatiṣṭhate = Runs away.",
+        "te": "ప్రసాదే = రాజప్రాసాదంలో; హానిః = లాభము; ఆశు = నెమ్మదిగా; పర్యవతిష్ఠతే = పారిపోవును.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Prasāde = In battle; Hāniḥ = Weapon; Āśu = Tomorrow; Paryavatiṣṭhate = Sleeps.",
+        "te": "ప్రసాదే = యుద్ధంలో; హానిః = ఆయుధము; ఆశు = రేపు; పర్యవతిష్ఠతే = నిద్రపోవును.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Prasāde = In food; Hāniḥ = Hunger; Āśu = Secretly; Paryavatiṣṭhate = Falls down.",
+        "te": "ప్రసాదే = ఆహారంలో; హానిః = ఆకలి; ఆశు = రహస్యంగా; పర్యవతిష్ఠతే = కిందపడును.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Prasāde' is Locative Singular of 'prasāda' (in serenity). 'Hāniḥ' means destruction or loss. 'Āśu' is an adverb meaning quickly/swiftly. 'Pari' + 'ava' + 'tiṣṭhate' = 'Paryavatiṣṭhate' (becomes firmly grounded all around). — Bhagavad Gita (2.65)",
+      "te": "'ప్రసాద' శబ్ద సప్తమీ ఏకవచనం 'ప్రసాదే' (ప్రసన్నత యందు). 'హానిః' అనగా నాశనము. 'ఆశు' అనగా త్వరితగతిన. 'పరి' + 'అవ' + 'తిష్ఠతే' = పర్యవతిష్ఠతే (అన్ని వైపులా స్థిరంగా నిలిచిపోవును). — భగవద్గీత (2.65)"
+    }
+  },
+  {
+    "id": "bg-2-65-q5",
+    "verse": { "c": 2, "s": 65 },
+    "concept": ["Sanskrit Grammar - Compound 'Prasanna-cetasaḥ' & Verb 'Paryavatiṣṭhate'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'prasanna-cetasaḥ' and 'paryavatiṣṭhate' in verse 2.65:",
+      "te": "2.65 శ్లోకంలోని 'ప్రసన్నచేతసః' మరియు 'పర్యవతిష్ఠతే' అనే పదాల వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "Prasanna-cetasaḥ = Genitive Singular Masculine Bahuvrīhi Compound ('prasannaṃ cetaḥ yasya saḥ' = of one whose mind is tranquil); Paryavatiṣṭhate = 3rd person singular Present indicative Ātmanepada (Laṭ-lakāra) from root 'sthā' with prefixes 'pari' and 'ava' (it becomes firmly established).",
+        "te": "ప్రసన్నచేతసః = 'ప్రసన్నం చేతః యస్య సః' అనే విగ్రహ వాక్యం గల బహువ్రీహి సమాస షష్ఠీ ఏకవచన రూపం ('ప్రసన్నమైన చిత్తము గలవానికి'); పర్యవతిష్ఠతే = 'పరి' + 'అవ' ఉపసర్గలతో 'స్థా' (నిలుచు) ధాతువు లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ఏకవచన ఆత్మనేపద క్రియ ('స్థిరపడును').",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Prasanna-cetasaḥ = Nominative Plural Noun; Paryavatiṣṭhate = Past tense verb.",
+        "te": "ప్రసన్నచేతసః = ప్రథమా బహువచన నామవాచకం; పర్యవతిష్ఠతే = భూతకాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Prasanna-cetasaḥ = Instrumental Singular Noun; Paryavatiṣṭhate = Imperative verb.",
+        "te": "ప్రసన్నచేతసః = తృతీయా ఏకవచన నామవాచకం; పర్యవతిష్ఠతే = ఆజ్ఞార్థక క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Prasanna-cetasaḥ = Ablative Plural Noun; Paryavatiṣṭhate = Future tense verb.",
+        "te": "ప్రసన్నచేతసః = పంచమీ బహువచన నామవాచకం; పర్యవతిష్ఠతే = భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Prasanna-cetasaḥ' is Genitive Singular modifying the practitioner ('of the serene-minded person'). 'Paryavatiṣṭhate' agrees with subject 'buddhiḥ' (the intellect becomes firmly established): 'prasanna-cetasaḥ buddhiḥ āśu paryavatiṣṭhate' = 'the intellect of a tranquil person swiftly becomes settled'. — Bhagavad Gita (2.65)",
+      "te": "'ప్రసన్నచేతసః' అనేది సాధకుడిని సూచించే షష్ఠీ ఏకవచన బహువ్రీహి సమాసం. 'పర్యవతిష్ఠతే' అనేది 'బుద్ధిః' అనే ప్రథమా ఏకవచన కర్తతో చేరి 'ప్రసన్నచిత్తుడి బుద్ధి శీఘ్రంగా స్థిరపడుతుంది' అని వాక్యాన్వయం పూర్తయింది. — భగవద్గీత (2.65)"
+    }
+  },
+  {
+    "id": "bg-2-65-q6",
+    "verse": { "c": 2, "s": 65 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'hānirasyopajāyate' and 'hyāśu' in verse 2.65:",
+      "te": "2.65 శ్లోకంలోని 'హానిరస్యオープజాయతే' (హానిః + అస్య + ఉపజాయతే) మరియు 'హ్యాశు' (హి + ఆశు) అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Hāniḥ + asya -> hānir asya (Visarga Rutva Sandhi: visarga after 'i' -> 'r'); asya + upajāyate -> asyopajāyate (Guṇa Sandhi: 'a' + 'u' -> 'o'); hi + āśu -> hy āśu (Yan Sandhi: 'i' before 'ā' -> 'y').",
+        "te": "హానిః + అస్య -> హానిరస్య (విసర్గ రుత్త్వ సంధి: 'ఇ' తర్వాత విసర్గ 'ర్' గా మారినది); అస్య + ఉపజాయతే -> అస్యోపజాయతే (గుణ సంధి: 'అ' + 'ఉ' -> 'ఓ'); హి + ఆశు -> హ్యాశు (యణాదేశ సంధి: 'ఇ' కారానికి 'ఆ' కారం పరమై 'య్' వచ్చినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Hāni + asya -> hānyasya; asya + upajāyate -> asyāpajāyate; hi + āśu -> hāśu",
+        "te": "హాని + అస్య -> హాన్యస్య; అస్య + ఉపజాయతే -> అస్యాపజాయతే; హి + ఆశు -> హాశు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Hānim + asya -> hānimasya; asya + upajāyate -> asyamupajāyate; him + āśu -> himāśu",
+        "te": "హానిమ్ + అస్య -> హానిమస్య; అస్య + ఉపజాయతే -> అస్యముపజాయతే; హిమ్ + ఆశు -> హిమాశు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Hāne + asya -> hāne'sya; asya + upajāyate -> asye'pajāyate; he + āśu -> he'śu",
+        "te": "హానే + అస్య -> హానేఽస్య; అస్య + ఉపజాయతే -> అస్యేఽపజాయతే; హే + ఆశు -> హేఽశు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Hāniḥ' + 'asya': visarga converts to 'r' before vowel 'a' via Visarga Rutva Sandhi -> 'hānir asya'. 2. 'Asya' + 'upajāyate': 'a' + 'u' merges into Guṇa vowel 'o' -> 'asyopajāyate'. 3. 'Hi' (indeed) + 'āśu' (swiftly): 'i' converts to 'y' before 'ā' via Yan Sandhi -> 'hy āśu'. — Bhagavad Gita (2.65)",
+      "te": "1. 'హానిః' + 'అస్య' లలో విసర్గ రుత్త్వ సంధి ద్వారా 'హానిరస్య' అయినది. 2. 'అస్య' + 'ఉపజాయతే' లలో గుణ సంధి ద్వారా 'అస్యోపజాయతే' అయినది. 3. 'హి' + 'ఆశు' లలో యణాదేశ సంధి ద్వారా 'హ్యాశు' అని సిద్ధించింది. — భగవద్గీత (2.65)"
+    }
+  }
+]

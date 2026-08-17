@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-26-q1",
+    "verse": { "c": 2, "s": 26 },
+    "concept": ["Verse Meaning & Concessionary Logic"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.26?\n\n“atha chainaṃ nityajātaṃ nityaṃ vā manyase mṛtam | tathāpi tvaṃ mahābāho naivaṃ śocitumarhasi”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అథ చైనాం నిత్యజాతం నిత్యం వా మన్యసే మృతమ్ | తథాపి త్వం మహాబాహో నైవం శోచితుమర్హసి”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — Even if you think that this Soul is constantly born and constantly dies, even then, O mighty-armed Arjuna, you have no reason to grieve in this manner.",
+        "te": "శ్రీభగవానుడు పలికెను — ఒకవేళ ఈ ఆత్మ నిరంతరం జన్మిస్తూనే ఉంటుందని, నిరంతరం మరణిస్తూనే ఉంటుందని నీవు భావించినప్పటికీ... ఓ మహాబాహో! నీవు ఈ విధంగా విచారించడం ఎంతమాత్రమూ తగదు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Because the Soul is constantly born in new forms, a warrior should celebrate death on the battlefield rather than mourn.",
+        "te": "శ్రీభగవానుడు పలికెను — ఆత్మ నిరంతరం కొత్త రూపాలలో జన్మిస్తుంది కాబట్టి, యోధుడు రణరంగంలో మరణాన్ని చూసి విచారించకుండా వేడుక చేసుకోవాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — If you believe the Soul is born with the body, you must perform Vedic rituals to ensure its permanent heavenly rebirth.",
+        "te": "శ్రీభగవానుడు పలికెను — ఆత్మ దేహంతో పాటే జన్మిస్తుందని నీవు నమ్మితే, దానికి శాశ్వత స్వర్గ పునర్జన్మను అందించడానికి వేద యజ్ఞాలను ఆచరించాలి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — O mighty-armed one, those who consider the Soul to be mortal incur direct spiritual degradation.",
+        "te": "శ్రీభగవానుడు పలికెను — ఓ మహాబాహో! ఆత్మ మరణించేదని భావించేవారు ప్రత్యక్షంగా ఆధ్యాత్మిక పతనాన్ని పొందుతారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Atha cainaṃ nityajātaṃ nityaṃ vā manyase mṛtam / tathāpi tvaṃ mahā-bāho naivaṃ śocitum arhasi.\" Krishna presents an alternative / concessionary perspective (Lokāyata / materialist or momentary view). Even if Arjuna accepts the worldview that life and death are continuous physical cycles ('nityajātam... nityaṃ mṛtam'), grief remains illogical because an inevitable natural law should not cause lamentation. — Bhagavad Gita (2.26)",
+      "te": "శ్రీకృష్ణుడు ఇక్కడ లోకాయత/భౌతికవాద కోణం నుండి ఒక ప్రత్యామ్నాయ తర్కాన్ని (రిసెషన్/రైడింగ్ ఆర్గ్యుమెంట్) ప్రవేశపెట్టాడు. ఆత్మ శరీరంతో పాటు నిరంతరం పుడుతూ, చనిపోతుంటుందని ('నిత్యజాతం... నిత్యం మృతం') అనుకున్నప్పటికీ... అది ప్రకృతి సహజ నియమమే అవుతుంది తప్ప దానికి విచారించడం వివేకం అనిపించుకోదని స్పష్టం చేశాడు. — భగవద్గీత (2.26)"
+    }
+  },
+  {
+    "id": "bg-2-26-q2",
+    "verse": { "c": 2, "s": 26 },
+    "concept": ["Philosophical Strategy - Concessionary Argument"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why does Lord Krishna introduce the hypothetical premise 'atha ca... manyase' in verse 2.26?",
+      "te": "2.26 శ్లోకంలో 'అథ చ... మన్యసే' (ఒకవేళ నీవు అలా భావించినప్పటికీ) అనే సంభావ్య తర్కాన్ని శ్రీకృష్ణుడు ఎందుకు ప్రవేశపెట్టాడు?"
+    },
+    "choices": [
+      {
+        "en": "To demonstrate that from both absolute Vedantic truth (immortal Soul) and secular/materialist assumptions (mortal life), mourning for death in battle is completely irrational.",
+        "te": "పారమార్థిక ఆత్మజ్ఞాన కోణం నుంచైనా, లేదా లౌకిక/భౌతికవాద భావన నుంచైనా... ఏ రకంగా చూసినా యుద్ధ మరణాలకు విచారించడం కేవలం అజ్ఞానమే తప్ప సమర్థనీయం కాదని నిరూపించడానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "To endorse the Lokāyata materialist philosophy as equal in validity to Vedanta.",
+        "te": "లోకాయత భౌతికవాద దర్శనానికి కూడా వేదాంతంతో సమానమైన ప్రామాణికత ఉందనే భావనను అంగీకరించడానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "To test whether Arjuna remembers Krishna's previous statements about the Atman.",
+        "te": "ఆత్మను గురించి తాను అంతకుముందు చెప్పిన విషయాలను అర్జునుడు గుర్తుంచుకున్నాడో లేదో పరీక్షించడానికి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "To encourage Arjuna to study non-Vedic philosophical systems before fighting.",
+        "te": "యుద్ధం చేయడానికి ముందు అవైదిక తత్త్వశాస్త్రాలను కూడా అధ్యయనం చేయమని అర్జునుడిని ప్రోత్సహించడానికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "This is a classical pedagogical strategy ('Abhyupagama-siddhānta' / argument by concession). Krishna proves that whether Arjuna stands on the highest spiritual realization (Chapter 2, verses 12-25) or on common materialist logic, grief is misplaced and Kshatriya duty must be performed. — Bhagavad Gita (2.26)",
+      "te": "ఇది శాస్త్ర చర్చలలో వాడే ప్రసిద్ధ 'అభ్యుపగమ సిద్ధాంతము' (ఎదుటివారి కోణం నుండి చూపి ఓడించే పద్ధతి). అత్యున్నత ఆత్మసత్యం ద్వారా ఆలోచించినా, లేదా సామాన్య భౌతికవాద భావనతో చూసినా... దుఃఖించడం వృథా అని కృష్ణుడు రెండు మార్గాల్లోనూ నిరూపిస్తున్నాడు. — భగవద్గీత (2.26)"
+    }
+  },
+  {
+    "id": "bg-2-26-q3",
+    "verse": { "c": 2, "s": 26 },
+    "concept": ["Vocative Address - Mahābāho"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What is the psychological purpose of addressing Arjuna as 'Mahābāho' (mighty-armed) in verse 2.26?",
+      "te": "2.26 శ్లోకంలో అర్జునుడిని 'మహాబాహో' (గొప్ప బాహుబలం గలవాడా) అని సంబోధించడంలో గల మానసిక ఉద్దేశం ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "To remind Arjuna of his heroic physical and martial prowess, contrasting his formidable outer strength with his temporary inner mental weakness.",
+        "te": "అర్జునుని అపారమైన శారీరక, రణరంగ పరాక్రమాలను తలపిస్తూ... వెలుపల అంతటి మహాబాహు బలం ఉన్న యోధుడు లోపల మనోదౌర్బల్యంతో విచారించడం తగదని గుర్తుచేయడానికి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "To praise Arjuna for wielding the Gandiva bow with both hands simultaneously.",
+        "te": "గాండీవ ధనుస్సును రెండు చేతులతో ఒకేసారి ప్రయోగించగల నైపుణ్యాన్ని ప్రశంసించడానికి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "To indicate that physical strength alone is sufficient to achieve spiritual liberation.",
+        "te": "ఆధ్యాత్మిక మోక్షాన్ని సాధించడానికి కేవలం శారీరక బలం ఒక్కటే సరిపోతుందని చూపడానికి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "To ask Arjuna to surrender his weapons and embrace Lord Krishna.",
+        "te": "తన ఆయుధాలను విడిచిపెట్టి శ్రీకృష్ణుడిని ఆలింగనం చేసుకోమని కోరడానికి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Mahān' (great) + 'bāhu' (arms) = 'Mahābāhu' (one with mighty arms). Krishna intentionally uses warrior epithets when Arjuna displays un-warrior-like grief, prodding him to match his inner mental resolve with his well-known physical heroism. — Bhagavad Gita (2.26)",
+      "te": "'మహాన్' (గొప్ప) + 'బాహు' (భుజములు) = 'మహాబాహు' (గొప్ప బాహుబలము గలవాడు). అర్జునుడు మానసికంగా క్రుంగిపోయినప్పుడు కృష్ణుడు అతనికి ఉన్న బాహ్య పరాక్రమాన్ని గుర్తుచేస్తూ, ఆ ధీరత్వానికి తగినట్లుగా మనస్సును స్థిరపరుచుకోమని ప్రోత్సహిస్తున్నాడు. — భగవద్గీత (2.26)"
+    }
+  },
+  {
+    "id": "bg-2-26-q4",
+    "verse": { "c": 2, "s": 26 },
+    "concept": ["Sanskrit Vocabulary - Nityajāta & Nityamṛta"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit compounds 'nityajātam' and 'nityam mṛtam' mean in verse 2.26?",
+      "te": "2.26 శ్లోకంలోని 'నిత్యజాతమ్' మరియు 'నిత్యమ్ మృతమ్' అనే పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Nityajātam = Constantly / continuously being born; Nityam mṛtam = Constantly / continuously dying.",
+        "te": "నిత్యజాతమ్ = నిరంతరం / ఎల్లప్పుడూ జన్మించేది; నిత్యమ్ మృతమ్ = నిరంతరం / ఎల్లప్పుడూ మరణించేది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Nityajātam = Unborn forever; Nityam mṛtam = Immortal forever.",
+        "te": "నిత్యజాతమ్ = ఎన్నటికీ పుట్టనిది; నిత్యమ్ మృతమ్ = ఎన్నటికీ అమరత్వంతో ఉండేది.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Nityajātam = Born in heaven; Nityam mṛtam = Dying in hell.",
+        "te": "నిత్యజాతమ్ = స్వర్గంలో జన్మించేది; నిత్యమ్ మృతమ్ = నరకంలో మరణించేది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Nityajātam = Sacred birth; Nityam mṛtam = Sinful death.",
+        "te": "నిత్యజాతమ్ = పవిత్రమైన పుట్టుక; నిత్యమ్ మృతమ్ = పాపభూయిష్టమైన మరణం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Nitya' (constantly/always) + 'jāta' (born) = 'nityajāta' (subject to constant birth). 'Nitya' + 'mṛta' (dead) = 'nityamṛta' (subject to constant death). It describes the material view that life is an unbroken flux of physical creation and destruction. — Bhagavad Gita (2.26)",
+      "te": "'నిత్య' (ఎల్లప్పుడూ) + 'జాత' (పుట్టినది) = నిత్యజాతమ్ (నిరంతరం జన్మించేది). 'నిత్య' + 'మృత' (మరణించినది) = నిత్యమృతమ్ (నిరంతరం మరణించేది). నిరంతర ఉత్పత్తులు, నాశనాల ప్రవాహంగా జగత్తును చూసే భౌతికవాద ఆలోచన ఇది. — భగవద్గీత (2.26)"
+    }
+  },
+  {
+    "id": "bg-2-26-q5",
+    "verse": { "c": 2, "s": 26 },
+    "concept": ["Sanskrit Grammar - Verb 'Manyase'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'manyase' in verse 2.26:",
+      "te": "2.26 శ్లోకంలోని 'మన్యసే' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "2nd person singular present tense Ātmanepada (Laṭ-lakāra) from root 'man' (to think / consider / suppose), meaning 'you think / you consider'.",
+        "te": "'మన్' (ఆలోచించు/భావించు/తలంచు) అనే ధాతువు యొక్క లట్ లకార (వర్తమానకాల) మధ్యమ పురుష ఏకవచన ఆత్మనేపద రూపం — 'నీవు భావిస్తున్నావు / అనుకుంటున్నావు'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1st person plural future tense active verb.",
+        "te": "ఉత్తమ పురుష బహువచన భవిష్యత్కాల క్రియ.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "3rd person singular past tense verb.",
+        "te": "ప్రథమ పురుష ఏకవచన భూతకాల క్రియ.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb form.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Manyase' is 2nd person singular present indicative Ātmanepada of 4th class root 'man' (manyate, manyete, manyante ... manyase). 'Atha ca manyase' = 'and even if you think/suppose...'. — Bhagavad Gita (2.26)",
+      "te": "'మన్యసే' అనేది 'మన్' ధాతువు వర్తమానకాల మధ్యమ పురుష ఏకవచన ఆత్మనేపద రూపం (మన్యతే, మన్యేతే, మన్యంతే ... మన్యసే). 'ఒకవేళ నీవు అలా అనుకుంటున్నప్పటికీ' అనే సంభావనార్థక సంభాషణకు ఇది వాడబడింది. — భగవద్గీత (2.26)"
+    }
+  },
+  {
+    "id": "bg-2-26-q6",
+    "verse": { "c": 2, "s": 26 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'atha cainaṃ' and 'naivaṃ' in verse 2.26:",
+      "te": "2.26 శ్లోకంలోని 'అథ చైనామ్' మరియు 'నైవమ్' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Atha + ca -> atha ca; ca + enam -> cainam (Vṛddhi Sandhi: a + e -> ai); na + evam -> naivam (Vṛddhi Sandhi: a + e -> ai).",
+        "te": "అథ + చ -> అథ చ; చ + ఏనమ్ -> చైనామ్ (వృద్ధి సంధి: అ + ఏ -> ఐ); న + ఏవమ్ -> నైవమ్ (వృద్ధి సంధి: అ + ఏ -> ఐ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Atha + cenam -> atha cainam; na + ivam -> naivam",
+        "te": "అథ + చేనమ్ -> అథ చైనామ్; న + ఇవమ్ -> నైవమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Athā + ca + enam -> atha cainam; no + evam -> naivam",
+        "te": "అథా + చ + ఏనమ్ -> అథ చైనామ్; నో + ఏవమ్ -> నైవమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Athaḥ + ca + enam -> atha cainam; nai + evam -> naivam",
+        "te": "అథః + చ + ఏనమ్ -> అథ చైనామ్; నై + ఏవమ్ -> నైవమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Ca' (and) + 'enam' (this): 'a' + 'e' merges into 'ai' via Vṛddhi Sandhi, yielding 'cainam'. 2. 'Na' (not) + 'evam' (thus): 'a' + 'e' merges into 'ai' via Vṛddhi Sandhi, yielding 'naivam'. Joined: 'atha cainaṃ' and 'naivaṃ śocitum arhasi'. — Bhagavad Gita (2.26)",
+      "te": "1. 'చ' + 'ఏనమ్' లలో వృద్ధి సంధి జరిగి 'చైనామ్' అయినది. 2. 'న' + 'ఏవమ్' లలో వృద్ధి సంధి జరిగి 'నైవమ్' అయినది. ఈ రెండింటిలోనూ 'అ' + 'ఏ' పరమైనప్పుడు వృద్ధి స్వరమైన 'ఐ' కారం ఆదేశమైంది. — భగవద్గీత (2.26)"
+    }
+  }
+]

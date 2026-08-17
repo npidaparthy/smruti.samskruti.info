@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-18-q1",
+    "verse": { "c": 2, "s": 18 },
+    "concept": ["Verse Meaning & Command to Fight"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.18?\n\n“antavanta ime dehā nityasyoktāḥ śarīriṇaḥ | anāśino'prameyasya tasmādyudhyasva bhārata”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“అంతవంత ఇమే దేహా నిత్యస్యోక్తాః శరీరిణః | అనాశినోఽప్రమేయస్య తస్మాద్యుధ్యస్వ భారత”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — These physical bodies of the eternal, indestructible, and immeasurable embodied Soul are said to have an end. Therefore, fight, O descendant of Bharata!",
+        "te": "శ్రీభగవానుడు పలికెను — నిత్యమైనది, నాశనము లేనిది, ప్రమాణములకు అందనిది అయిన ఆత్మ యొక్క ఈ భౌతిక శరీరములు మాత్రమే అంతమొందేవిగా (నాశనమయ్యేవిగా) చెప్పబడ్డాయి. కావున ఓ భారతా (అర్జునా)! యుద్ధము చేయుము.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — Both the physical body and the embodied Soul are perishable in nature; therefore, a warrior should fight without concerning himself with consequences.",
+        "te": "శ్రీభగవానుడు పలికెను — భౌతిక దేహము మరియు ఆత్మ రెండూ నశించే స్వభావం గలవే; కాబట్టి ఫలితాలను పట్టించుకోకుండా యోధుడు పోరాడాలి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — The soul can be measured and understood through physical instruments once the body comes to an end.",
+        "te": "శ్రీభగవానుడు పలికెను — దేహము అంతమొందిన తర్వాత భౌతిక పరికరాల ద్వారా ఆత్మను కొలవవచ్చు మరియు అర్థం చేసుకోవచ్చు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — Since the body is eternal and indestructible, killing an enemy in battle is a sin that must be avoided.",
+        "te": "శ్రీభగవానుడు పలికెను — దేహము శాశ్వతమైనది మరియు నాశనము లేనిది కాబట్టి, యుద్ధంలో శత్రువును చంపడం పాపము కావున దానిని వర్జించాలి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Antavanta ime dehā nityasyoktāḥ śarīriṇaḥ / anāśino 'prameyasya tasmād yudhyasva bhārata.\" Krishna differentiates between the perishable body ('antavantaḥ ime dehāḥ') and the eternal, indestructible, immeasurable Soul ('nityasya anāśinaḥ aprameyasya śarīriṇaḥ'). Armed with this wisdom that the Ātman cannot be slain, Arjuna is exhorted to fulfill his Kshatriya duty: 'tasmād yudhyasva bhārata' (therefore, fight!). — Bhagavad Gita (2.18)",
+      "te": "నశించే భౌతిక దేహాలకు ('అంతవంత ఇమే దేహాః'), నాశనము లేని శాశ్వత ఆత్మకు ('నిత్యస్య అనాశినః అప్రమేయస్య శరీరిణః') ఉన్న వ్యత్యాసాన్ని కృష్ణుడు ఇక్కడ స్పష్టం చేశాడు. ఆత్మ అమరమైనదని గ్రహించి, స్వధర్మమైన యుద్ధాన్ని నిర్వర్తించమని ('తస్మాద్ యుధ్యస్వ భారత') అర్జునుడిని ఆదేశిస్తున్నాడు. — భగవద్గీత (2.18)"
+    }
+  },
+  {
+    "id": "bg-2-18-q2",
+    "verse": { "c": 2, "s": 18 },
+    "concept": ["Threefold Attributes of Ātman - Nitya, Anāśin, Aprameya"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which three adjectives are used in verse 2.18 to describe the eternal nature of the embodied Soul ('śarīriṇaḥ')?",
+      "te": "2.18 శ్లోకంలో దేహియైన ఆత్మ యొక్క సత్య స్వరూపాన్ని వర్ణించడానికి ఉపయోగించిన మూడు విశేషణ పదాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "1. Nitya (Eternal / Ever-existing), 2. Anāśin (Indestructible / Imperishable), 3. Aprameya (Immeasurable / Incomprehensible by empirical senses).",
+        "te": "1. నిత్య (శాశ్వతమైనది), 2. అనాశిన్ (నాశనము లేనిది), 3. అప్రమేయ (కొలతలకు/జ్ఞానేంద్రియాల ప్రమాణాలకు అందనిది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1. Antavat (Perishable), 2. Sūkṣma (Subtle), 3. Jaḍa (Inert).",
+        "te": "1. అంతవత్ (నశించేది), 2. సూక్ష్మ (సూక్ష్మమైనది), 3. జడ (చేతనము లేనిది).",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "1. Satya (Truthful), 2. Karma-baddha (Bound by karma), 3. Deha-rūpa (Body-formed).",
+        "te": "1. సత్య (సత్యమైనది), 2. కర్మబద్ధ (కర్మలతో బంధించబడినది), 3. దేహరూప (దేహ రూపాన్ని కలిగినది).",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "1. Kartā (Doer), 2. Bhoktā (Enjoyer), 3. Mātā (Measurer).",
+        "te": "1. కర్త (కర్మలు చేసేది), 2. భోక్త (అనుభవించేది), 3. మాతా (కొలిచేది).",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Krishna describes the Soul as: 1. 'Nitya' (unaffected by time), 2. 'Anāśin' (free from destruction/decay), and 3. 'Aprameya' (beyond empirical means of knowledge like sight, touch, or inference). In contrast, bodies are 'antavantaḥ' (having an end). — Bhagavad Gita (2.18)",
+      "te": "ఆత్మను కృష్ణుడు మూడు రీతుల్లో వర్ణించాడు: 1. 'నిత్య' (కాలానికి అతీతమైనది), 2. 'అనాశిన్' (నాశనం లేనిది), 3. 'అప్రమేయ' (ఇంద్రియాలు, ప్రత్యక్ష అనుమాన ప్రమాణాల ద్వారా కొలవలేనిది/గ్రహించలేనిది). దేహాలు మాత్రం 'అంతవంతః' (అంతమొందేవి). — భగవద్గీత (2.18)"
+    }
+  },
+  {
+    "id": "bg-2-18-q3",
+    "verse": { "c": 2, "s": 18 },
+    "concept": ["Epistemological Term - Aprameya"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why is the Ātman called 'Aprameya' in verse 2.18?",
+      "te": "2.18 శ్లోకంలో ఆత్మను 'అప్రమేయః' (అప్రమేయస్య) అని ఎందుకు వర్ణించారు?"
+    },
+    "choices": [
+      {
+        "en": "Because it is the Self-luminous Subject/Knower that cannot be objectified or measured by Pramāṇas (sensory perception, logic, or physical instruments).",
+        "te": "ఆత్మ అనేది సమస్తాన్ని ఎరిగే స్వయంప్రకాశ చైతన్య స్వరూపము (ప్రమాత); దానిని కళ్లు, ఇంద్రియాలు, తర్కము లేదా భౌతిక ప్రమాణాల (Pramāṇas) ద్వారా వస్తువుగా కొలవడం సాధ్యం కాదు కాబట్టి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because its weight and dimensions are too massive for human intellect to calculate.",
+        "te": "దాని బరువు, పరిమాణం మానవ బుద్ధి లెక్సించడానికి వీలులేనంత భారీగా ఉంటాయి కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because it changes its size randomly from moment to moment.",
+        "te": "అది క్షణక్షణానికీ తన పరిమాణాన్ని యాదృచ్ఛికంగా మార్చుకుంటుంది కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because it is completely unknown even to the Vedas and scriptures.",
+        "te": "అది వేదాలకు, శాస్త్రాలకు కూడా సంపూర్ణంగా అజ్ఞాతమైనది కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Pramā' means right knowledge; 'Pramāṇa' means means of knowledge. 'Prameya' is an object of knowledge. 'A-prameya' means That which is not an object of knowledge to the mind/senses, because it is the very Subject/Awareness that knows all objects. — Bhagavad Gita (2.18)",
+      "te": "'ప్రమాణము' ద్వారా తెలుసుకోబడేది 'ప్రమేయము' (వస్తువు). 'అప్రమేయము' అనగా ఇంద్రియాలకు విజ్ఞాన వస్తువుగా చిక్కనిది. ఎందుకంటే ఆత్మే సమస్తాన్ని తెలుసుకునే జ్ఞాత (Subject/ఎరిగే చైతన్యం). — భగవద్గీత (2.18)"
+    }
+  },
+  {
+    "id": "bg-2-18-q4",
+    "verse": { "c": 2, "s": 18 },
+    "concept": ["Sanskrit Vocabulary - Bodies & The Embodied"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit terms 'antavantaḥ' and 'śarīriṇaḥ' mean in verse 2.18?",
+      "te": "2.18 శ్లోకంలోని 'అంతవంతః' మరియు 'శరీరిణః' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Antavantaḥ = Having an end / perishable / finite; Śarīriṇaḥ = Of the embodied Soul (owner of the physical body).",
+        "te": "అంతవంతః = అంతము కలిగినవి / నశించిపోయేవి; శరీరిణః = దేహమును ధరించిన ఆత్మ యొక్క (దేహి యొక్క).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Antavantaḥ = Endless / infinite; Śarīriṇaḥ = Physical weapons.",
+        "te": "అంతవంతః = అంతం లేనివి; శరీరిణః = భౌతిక ఆయుధాలు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Antavantaḥ = Unborn; Śarīriṇaḥ = Chariot soldiers.",
+        "te": "అంతవంతః = పుట్టుక లేనివి; శరీరిణః = రథ సైనికులు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Antavantaḥ = Divine; Śarīriṇaḥ = Kings on earth.",
+        "te": "అంతవంతః = దివ్యమైనవి; శరీరిణః = భూమిపై ఉన్న రాజులు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Anta' (end) + '-vat' (possessing) = 'antavat' (perishable/finite). Plural nominative masculine: 'antavantaḥ' (bodies that perish). 'Śarīra' (body) + possessive suffix '-in' = 'śarīrin' (the Soul within the body). Genitive singular: 'śarīriṇaḥ' (of the embodied Soul). — Bhagavad Gita (2.18)",
+      "te": "'అంత' (ముగింపు) + 'వత్' = అంతవత్ (నశించేది). దాని బహువచన రూపం 'అంతవంతః' (నశించే దేహాలు). 'శరీర' + 'ఇన్' = శరీరిన్ (శరీరాన్ని ధరించిన ఆత్మ). దాని షష్ఠీ ఏకవచనం 'శరీరిణః' (ఆత్మ యొక్క). — భగవద్గీత (2.18)"
+    }
+  },
+  {
+    "id": "bg-2-18-q5",
+    "verse": { "c": 2, "s": 18 },
+    "concept": ["Sanskrit Grammar - Imperative Verb 'Yudhyasva'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of the verb 'yudhyasva' in verse 2.18:",
+      "te": "2.18 శ్లోకంలోని 'యుధ్యస్వ' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "2nd person singular Imperative mood Ātmanepada (Loṭ-lakāra) from root 'yudh' (to fight / wage war), meaning 'fight Thou!'.",
+        "te": "'యుధ్' (పోరాడు/యుద్ధం చేయు) అనే ధాతువు యొక్క లోట్ లకార (ఆజ్ఞార్థక) మధ్యమ పురుష ఏకవచన ఆత్మనేపద రూపం — 'నీవు యుద్ధము చేయుము!'.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1st person plural present tense verb form.",
+        "te": "ఉత్తమ పురుష బహువచన వర్తమానకాల రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "3rd person singular past tense verb form.",
+        "te": "ప్రథమ పురుష ఏకవచన భూతకాల రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Future tense active participle form.",
+        "te": "భవిష్యత్కాల వర్తమాన విశేషణ రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Yudhyasva' is 2nd person singular Loṭ-lakāra (imperative mood) Ātmanepada of 4th class root 'yudh' (yudhyatām, yudhyetām, yudhyantām ... yudhyasva). It is Krishna's explicit moral and spiritual command to Arjuna: 'Therefore fight!'. — Bhagavad Gita (2.18)",
+      "te": "'యుధ్యస్వ' అనేది 'యుధ్' (యుద్ధం చేయు) ధాతువు యొక్క లోట్ లకార (ఆజ్ఞార్థక) మధ్యమ పురుష ఏకవచన ఆత్మనేపద రూపం. 'ఓ భారతా! కావున నీవు యుద్ధము చేయుము' అనే కృష్ణుడి ప్రత్యక్ష ఆదేశం. — భగవద్గీత (2.18)"
+    }
+  },
+  {
+    "id": "bg-2-18-q6",
+    "verse": { "c": 2, "s": 18 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'anāśino'prameyasya' and 'tasmādyudhyasva' in verse 2.18:",
+      "te": "2.18 శ్లోకంలోని 'అనాశినోఽప్రమేయస్య' మరియు 'తస్మాద్యుధ్యస్వ' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Anāśinaḥ + aprameyasya -> anāśino 'prameyasya (Visarga Uttva & Pūrvarūpa Sandhi); tasmāt + yudhyasva -> tasmād yudhyasva (Jasdtva Sandhi: 't' converts to 'd' before voiced 'y').",
+        "te": "అనాశినః + అప్రమేయస్య -> అనాశినోఽప్రమేయస్య (విసర్గ ఉత్త్వ, పూర్వరూప సంధులు); తస్మాత్ + యుధ్యస్వ -> తస్మాద్ యుధ్యస్వ (జశ్త్వ సంధి: శ్వాస పరుషమైన పొల్లు 'త్' వర్గ తృతీయ వర్ణమైన 'ద్' గా మారినది).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Anāśina + aprameyasya; tasmā + yudhyasva",
+        "te": "అనాశిన + అప్రమేయస్య; తస్మా + యుధ్యస్వ",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Anāśinam + aprameyasya; tasmān + yudhyasva",
+        "te": "అనాశినమ్ + అప్రమేయస్య; తస్మాన్ + యుధ్యస్వ",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Anāśine + aprameyasya; tasmāḥ + yudhyasva",
+        "te": "అనాశినే + అప్రమేయస్య; తస్మాః + యుధ్యస్వ",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Anāśinaḥ' + 'aprameyasya': visarga preceded by 'a' and followed by short 'a' turns to 'o', with initial 'a' becoming Avagraha ('prameyasya) -> 'anāśino 'prameyasya'. 2. 'Tasmāt' + 'yudhyasva': unvoiced dental 't' converts to voiced dental 'd' via Jasdtva Sandhi when followed by voiced semi-vowel 'y', yielding 'tasmād yudhyasva'. — Bhagavad Gita (2.18)",
+      "te": "1. 'అనాశినః' + 'అప్రమేయస్య' లలో విసర్గ 'ఓ' గా మారి పూర్వరూప సంధి ద్వారా అవగ్రహం వచ్చి 'అనాశినోఽప్రమేయస్య' అయినది. 2. 'తస్మాత్' + 'యుధ్యస్వ' లలో పొల్లు 'త్' తర్వాత ఘోష వర్ణం 'య్' చేరగా, జశ్త్వ సంధి ద్వారా 'త్' స్థానంలో 'ద్' వచ్చి 'తస్మాద్యుధ్యస్వ' అయినది. — భగవద్గీత (2.18)"
+    }
+  }
+]

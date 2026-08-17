@@ -1,0 +1,254 @@
+[
+  {
+    "id": "bg-2-19-q1",
+    "verse": { "c": 2, "s": 19 },
+    "concept": ["Verse Meaning & Neither Slayer Nor Slain"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 1,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which of these best describes the full meaning of verse 2.19?\n\n“ya enama vetti hantāraṃ yaścainaṃ manyate hatam | ubhau tau na vijānīto nāyaṃ hanti na hanyate”",
+      "te": "ఈ శ్లోకానికి సంపూర్ణమైన అర్థం ఏది?\n\n“య ఏనం వేత్తి హంతారం యశ్చైనం మన్యతే హతమ్ | ఉభౌ తౌ న విజానీతో నాయం హంతి న హన్యతే”"
+    },
+    "choices": [
+      {
+        "en": "The Supreme Lord said — He who thinks that this Soul is a slayer, and he who thinks that this Soul is slain, both of them lack true knowledge; for this Soul neither slays nor is it slain.",
+        "te": "శ్రీభగవానుడు పలికెను — ఈ ఆత్మను చంపేదిగా (హంతకునిగా) భావించేవాడు మరియు ఈ ఆత్మ చంపబడునదిగా భావించేవాడు... వీరిద్దరూ జ్ఞానహీనులు (సత్యాన్ని ఎరుగనివారు); ఏలయనగా ఈ ఆత్మ ఎవరినీ చంపదు, ఎవరిచేతనూ చంపబడదు.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "The Supreme Lord said — He who slays an enemy in righteous war incurs no sin, while he who is slain immediately enters heaven.",
+        "te": "శ్రీభగవానుడు పలికెను — ధర్మయుద్ధంలో శత్రువును చంపేవాడికి పాపం అంటదు, చంపబడినవాడు తక్షణమే స్వర్గాన్ని పొందుతాడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "The Supreme Lord said — The soul becomes a slayer when driven by anger, and becomes slain when overcome by fear on the battlefield.",
+        "te": "శ్రీభగవానుడు పలికెను — ఆత్మ కోపంతో రగిలినప్పుడు హంతకునిగా మారుతుంది, యుద్ధభూమిలో భయంతో వణికినప్పుడు చంపబడుతుంది.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "The Supreme Lord said — By understanding the rules of warfare, both the slayer and the slain fulfill their sacred family duties.",
+        "te": "శ్రీభగవానుడు పలికెను — యుద్ధ నియమాలను గ్రహించడం ద్వారా, చంపేవాడు మరియు చంపబడేవాడు ఇద్దరూ తమ పవిత్ర కుటుంబ ధర్మాలను నెరవేరుస్తారు.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "\"Ya enaṃ vetti hantāraṃ yaś cainaṃ manyate hatam / ubhau tau na vijānīto nāyaṃ hanti na hanyate.\" Krishna debunks the delusion of agency surrounding killing. Because the Soul (Ātman) is actionless, immutable consciousness, it cannot be an agent of killing ('hantā') nor an object of destruction ('hataḥ'). Both views arise from identification with the physical body. — Bhagavad Gita (2.19)",
+      "te": "ఆత్మను కర్తగా (చంపేవాడిగా) గానీ, కర్మగా (చంపబడేదిగా) గానీ భావించడం సంపూర్ణ అజ్ఞానమని కృష్ణుడు తేల్చిచెప్పాడు. ఆత్మ అకర్త, వికార రహిత చైతన్య స్వరూపము. దేహాభిమానం వల్లే 'నేను చంపుతున్నాను' లేదా 'నేను చంపబడుతున్నాను' అనే భ్రాంతి కలుగుతుంది. — భగవద్గీత (2.19)"
+    }
+  },
+  {
+    "id": "bg-2-19-q2",
+    "verse": { "c": 2, "s": 19 },
+    "concept": ["Philosophical Paradox - Actionlessness of Ātman"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Why does Lord Krishna state that both persons—the one who considers the Soul a slayer and the one who considers it slain—are ignorant ('na vijānītaḥ')?",
+      "te": "2.19 శ్లోకంలో ఆత్మను చంపేదిగా భావించేవాడు మరియు చంపబడేదిగా భావించేవాడు... ఇద్దరూ జ్ఞానహీనులే ('న విజానీతః') అని శ్రీకృష్ణుడు ఎందుకు పలికాడు?"
+    },
+    "choices": [
+      {
+        "en": "Because both superimpose physical actions (killing/dying), which belong strictly to the body, senses, and ego, onto the changeless, actionless Self (Ātman).",
+        "te": "దేహానికి, ఇంద్రియాలకు, అహంకారానికి మాత్రమే వర్తించే శారీరక క్రియలను (చంపుట/చంపబడుట) వికార రహితమైన, అకర్తయైన ఆత్మకు ఆపాదించి భ్రమపడుతున్నారు కాబట్టి.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Because killing is only allowed during Vedic sacrifices, not in regular warfare.",
+        "te": "చంపడం అనేది కేవలం వేద యజ్ఞాలలో మాత్రమే అనుమతించబడుతుంది గానీ సాధారణ యుద్ధాలలో కాదు కాబట్టి.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Because only God possesses the celestial authority to determine who slays and who dies.",
+        "te": "ఎవరు చంపాలి, ఎవరు చనిపోవాలి అనేది నిర్ణయించే దివ్యాధికారం కేవలం ఈశ్వరునికి మాత్రమే ఉంది కాబట్టి.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Because weapons can only injure the mind, leaving both the body and the soul untouched.",
+        "te": "ఆయుధాలు కేవలం మనస్సును మాత్రమే గాయపరచగలవు, దేహాన్ని మరియు ఆత్మను తాకలేవు కాబట్టి.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "In Vedantic ontology, all killing and dying occur at the level of the physical body ('Annamaya Kośa'). The Ātman is 'Akartā' (non-doer) and 'Avikārya' (changeless). Misattributing bodily actions to the Ātman stems from 'Avidyā' (spiritual ignorance); hence 'ubhau tau na vijānītaḥ' (neither of them knows). — Bhagavad Gita (2.19)",
+      "te": "దేహంలో జరిగే పరిణామాలను (హింస/మరణం) ఆత్మకు ఆపాదించడమే అజ్ఞానము. ఆత్మ అకర్త మరియు పరిణామ రహితము. చంపడం, చంపబడడం రెందూ శరీరం స్థాయిలోనే జరుగుతాయి కాబట్టి ఆ రెంటినీ ఆత్మకు ఆపాదించేవారు అజ్ఞానులు. — భగవద్గీత (2.19)"
+    }
+  },
+  {
+    "id": "bg-2-19-q3",
+    "verse": { "c": 2, "s": 19 },
+    "concept": ["Vedic Upanishadic Echo - Katha Upanishad"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "Which major Upanishad contains an almost identical verse to Bhagavad Gita 2.19 ('hantā cen manyate hantum...')?",
+      "te": "భగవద్గీత 2.19 శ్లోకానికి ('హంతా చేన్మన్యతే హంతుమ్...') దాదాపుగా అక్షరాలా సరిపోలే శ్లోకం ఏ ప్రధాన ఉపనిషత్తులో కనిపిస్తుంది?"
+    },
+    "choices": [
+      {
+        "en": "Katha Upanishad (1.2.19)",
+        "te": "కఠోపనిషత్తు (1.2.19)",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Isha Upanishad",
+        "te": "ఈశావాస్యోపనిషత్తు",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Chandogya Upanishad",
+        "te": "ఛాందోగ్యోపనిషత్తు",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Mandukya Upanishad",
+        "te": "మాండూక్యోపనిషత్తు",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "Bhagavad Gita 2.19 is a direct paraphrase of Katha Upanishad 1.2.19: “hantā cen manyate hantuṃ hataś cen manyate hatam / ubhau tau na vijānīto nāyaṃ hanti na hanyate.” This highlights how the Gita distills the essence of the Upanishads (Gītā Su-upaniṣado). — Bhagavad Gita (2.19)",
+      "te": "భగవద్గీతలోని ఈ శ్లోకం కఠోపనిషత్తు (1.2.19) లోని శ్లోకానికి సూటి అనువాదం/ప్రతిబింబం. 'సర్వోపనిషదో గావో దోగ్ధా గోపాలనందనః' అన్నట్లుగా ఉపనిషత్తుల నిధి నుండి సేకరించిన పరమోత్తమ సత్యమిది. — భగవద్గీత (2.19)"
+    }
+  },
+  {
+    "id": "bg-2-19-q4",
+    "verse": { "c": 2, "s": 19 },
+    "concept": ["Sanskrit Vocabulary - Slayer & Slain"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 2,
+    "speaker": "krishna",
+    "q": {
+      "en": "What do the Sanskrit terms 'hantāram' and 'hatam' mean in verse 2.19?",
+      "te": "2.19 శ్లోకంలోని 'హంతారమ్' మరియు 'హతమ్' అనే సంస్కృత పదాల అర్థాలు ఏవి?"
+    },
+    "choices": [
+      {
+        "en": "Hantāram = Slayer / killer / agent of destruction; Hatam = Slain / killed / destroyed.",
+        "te": "హంతారమ్ = హంతకుడు / చంపేవాడు; హతమ్ = చంపబడినది / నాశనమైనది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Hantāram = Wise guru; Hatam = Disciple.",
+        "te": "హంతారమ్ = జ్ఞానమున్న గురువు; హతమ్ = శిష్యుడు.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Hantāram = Eternal Soul; Hatam = Physical mind.",
+        "te": "హంతారమ్ = శాశ్వత ఆత్మ; హతమ్ = భౌతిక మనస్సు.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Hantāram = Victorious king; Hatam = Wealthy state.",
+        "te": "హంతారమ్ = విజేతయైన రాజు; హతమ్ = సంపన్న రాజ్యం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Hantṛ' (one who slays) in Accusative Singular Masculine is 'hantāram' (the slayer). 'Hata' is the past passive participle of root 'han' (to kill/slay); in Accusative Singular Masculine it becomes 'hatam' (the slain). — Bhagavad Gita (2.19)",
+      "te": "'హన్' (చంపు) ధాతువు నుండి వచ్చిన 'హంతృ' ప్రథమా ఏకవచన ద్వితీయా రూపం 'హంతారమ్' (చంపేవాడిని). 'హన్' క్తాంత రూపం 'హతమ్' (చంపబడినదానిని). — భగవద్గీత (2.19)"
+    }
+  },
+  {
+    "id": "bg-2-19-q5",
+    "verse": { "c": 2, "s": 19 },
+    "concept": ["Sanskrit Grammar - Dual Verb 'Vijānītaḥ'"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Analyse the grammatical form of 'vijānītaḥ' in verse 2.19:",
+      "te": "2.19 శ్లోకంలోని 'విజానీతః' అనే క్రియాపదం యొక్క వ్యాకరణ విశ్లేషణ ఏమిటి?"
+    },
+    "choices": [
+      {
+        "en": "3rd person dual present tense Parasmaipada (Laṭ-lakāra) from root 'jñā' (to know) with prefix 'vi', agreeing with subject 'ubhau tau' ('both of those two do not know').",
+        "te": "'జ్ఞా' (తెలుసుకొను) అనే ధాతువుకు 'వి' అనే ఉపసర్గ చేరగా ఏర్పడిన లట్ లకార (వర్తమానకాల) ప్రథమ పురుష ద్వివచన పరస్మైపద రూపం — 'ఉభౌ తౌ' (ఆ ఇద్దరూ) అనే ద్వివచన కర్తకు అనుగుణంగా 'ఆ ఇద్దరూ ఎరుగరు' అని అర్థమిస్తోంది.",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "1st person plural future tense verb form.",
+        "te": "ఉత్తమ పురుష బహువచన భవిష్యత్కాల రూపం.",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "3rd person singular past tense verb form.",
+        "te": "ప్రథమ పురుష ఏకవచన భూతకాల రూపం.",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Imperative command verb form.",
+        "te": "ఆజ్ఞార్థక క్రియా రూపం.",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "'Vijānāti' (singular), 'vijānītaḥ' (dual), 'vijānanti' (plural). 'Vijānītaḥ' is 3rd person dual present tense of 'vi' + 'jñā'. Combined with 'na' and 'ubhau tau': 'ubhau tau na vijānītaḥ' = 'both of them do not possess correct knowledge'. — Bhagavad Gita (2.19)",
+      "te": "'విజానాతి' (ఏకవచనం), 'విజానీతః' (ద్వివచనం), 'విజానంతి' (బహువచనం). 'ఉభౌ తౌ' (ఆ ఇరువురూ) ద్వివచనం కాబట్టి 'న విజానీతః' (ఆ ఇద్దరూ సత్యమును తెలుసుకోలేకపోతున్నారు) అనే ద్వివచన క్రియ వాడబడింది. — భగవద్గీత (2.19)"
+    }
+  },
+  {
+    "id": "bg-2-19-q6",
+    "verse": { "c": 2, "s": 19 },
+    "concept": ["Sanskrit Grammar - Sandhi Rules"],
+    "yoga": "Sankhya Yoga",
+    "difficulty": 3,
+    "speaker": "krishna",
+    "q": {
+      "en": "Break down the Sanskrit Sandhi combinations in 'yaścainaṃ' and 'nāyaṃ' in verse 2.19:",
+      "te": "2.19 శ్లోకంలోని 'యశ్చైనమ్' మరియు 'నాయమ్' అనే పదాల సంధి విచ్ఛేదాన్ని వివరించండి:"
+    },
+    "choices": [
+      {
+        "en": "Yah + ca -> yaśca (Visarga Ścutva Sandhi: 'ḥ' before 'c' -> 'ś'); yaśca + enam -> yaścainaṃ (Vṛddhi Sandhi: a + e -> ai); na + ayam -> nāyam (Savarna-dirgha Sandhi: a + a -> ā).",
+        "te": "యః + చ -> యశ్చ (విసర్గ శ్చుత్వ సంధి: 'చ' ముందు విసర్గ 'శ్' గా మారినది); యశ్చ + ఏనమ్ -> యశ్చైనమ్ (వృద్ధి సంధి: అ + ఏ -> ఐ); న + అయమ్ -> నాయమ్ (సవర్ణదీర్ఘ సంధి: అ + అ -> ఆ).",
+        "correct": true,
+        "id": "a"
+      },
+      {
+        "en": "Ya + ca + enam -> yaścainaṃ; na + iyam -> nāyam",
+        "te": "య + చ + ఏనమ్; న + ఇయమ్",
+        "correct": false,
+        "id": "b"
+      },
+      {
+        "en": "Yan + ca + enam -> yaścainaṃ; no + ayam -> nāyam",
+        "te": "యన్ + చ + ఏనమ్; నో + అయమ్",
+        "correct": false,
+        "id": "c"
+      },
+      {
+        "en": "Yaiḥ + ca + enam -> yaścainaṃ; nai + ayam -> nāyam",
+        "te": "యైః + చ + ఏనమ్; నై + అయమ్",
+        "correct": false,
+        "id": "d"
+      }
+    ],
+    "explanation": {
+      "en": "1. 'Yaḥ' (who) + 'ca' (and) = 'yaśca' (visarga before palatal 'c' becomes 'ś'). 2. 'Yaśca' + 'enam' (this) = 'yaścainaṃ' (Vṛddhi Sandhi where 'a' + 'e' -> 'ai'). 3. 'Na' (not) + 'ayam' (this) = 'nāyam' (Savarna-dirgha Sandhi where 'a' + 'a' -> 'ā'). — Bhagavad Gita (2.19)",
+      "te": "1. 'యః' + 'చ' లలో విసర్గ శ్చుత్వ సంధి ప్రకారం 'శ్' గా మారి 'యశ్చ' అయినది. 2. 'యశ్చ' + 'ఏనమ్' లలో 'అ' + 'ఏ' కలసి వృద్ధి సంధి ద్వారా 'ఐ' గా మారి 'యశ్చైనమ్' అయినది. 3. 'న' + 'అయమ్' లలో 'అ' + 'అ' కలసి సవర్ణదీర్ఘ సంధి జరిగి 'నాయమ్' అయినది. — భగవద్గీత (2.19)"
+    }
+  }
+]
