@@ -111,7 +111,6 @@ function buildHTML(ch, chData, quizByVerse) {
   body { font-family: "Noto Sans Telugu", "Noto Serif Devanagari", "Georgia", serif; color:#2a1d0e; line-height:1.6; font-size: 12.5px; margin: 0; }
   h1 { font-size: 22px; color:#8b5e15; margin: 0 0 4px; text-align:center; }
   h2.chsub { font-size: 15px; color:#a87f24; text-align:center; margin: 0 0 4px; font-weight:600; }
-  .meta { text-align:center; color:#8a6d34; font-size:11px; margin-bottom: 18px; }
   hr { border:none; border-top:1px solid #d9c48f; margin: 18px 0; }
   .verse-block { background:#faf3e2; border-left:4px solid #c8a84b; border-radius:6px; padding:10px 14px; margin: 10px 0 16px; page-break-inside: avoid; }
   h3.vs { font-size:16px; color:#7a4f10; margin: 22px 0 8px; }
@@ -127,7 +126,6 @@ function buildHTML(ch, chData, quizByVerse) {
 </style></head><body>
 <h1>శ్రీమద్భగవద్గీతా</h1>
 <h2 class="chsub">అధ్యాయం ${ch} — ${esc(titleTe)} (${esc(titleSa)})</h2>
-<div class="meta">ప్రశ్నోత్తరాలు (Q&amp;A) — స్వీయ అధ్యయనం కోసం &nbsp;·&nbsp; smruti.samskruti.info నుండి సేకరించినది</div>
 <hr>
 ${blocks.join('\n')}
 </body></html>`;
@@ -156,7 +154,7 @@ async function main() {
       displayHeaderFooter: true,
       headerTemplate: '<span></span>',
       footerTemplate: `
-        <div style="width:100%; font-size:10px; font-family:sans-serif; color:#2a5db0; padding:2px 16mm 0; display:flex; justify-content:space-between;">
+        <div style="width:100%; font-size:10px; font-family:sans-serif; color:#0d2f6b; padding:2px 16mm 0; display:flex; justify-content:space-between;">
           <span>https://smruti.samskruti.info</span>
           <span>samskruti.info@gmail.com</span>
           <span><span class="pageNumber"></span>/<span class="totalPages"></span></span>
