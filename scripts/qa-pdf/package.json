@@ -1,0 +1,9 @@
+{
+  "name": "bg-qa-pdf",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Renders BG chapter Q&A (data/quiz/bg/chNN/) into a printable PDF, using an existing system Chrome via puppeteer-core.",
+  "dependencies": {
+    "puppeteer-core": "^23.0.0"
+  }
+}

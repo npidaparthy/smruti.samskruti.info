@@ -3,6 +3,9 @@ scripts/__pycache__/
 *.pyc
 *.pyo
 
+# Node
+node_modules/
+
 # Archives / scratch (root only — keep daily/archive, the archive browser)
 /archive/
 
