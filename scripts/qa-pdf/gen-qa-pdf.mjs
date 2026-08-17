@@ -156,8 +156,8 @@ async function main() {
       displayHeaderFooter: true,
       headerTemplate: '<span></span>',
       footerTemplate: `
-        <div style="width:100%; font-size:8px; font-family:sans-serif; color:#8a6d34; padding:2px 16mm 0; display:flex; justify-content:space-between;">
-          <span>smruti.samskruti.info</span>
+        <div style="width:100%; font-size:10px; font-family:sans-serif; color:#2a5db0; padding:2px 16mm 0; display:flex; justify-content:space-between;">
+          <span>https://smruti.samskruti.info</span>
           <span>samskruti.info@gmail.com</span>
           <span><span class="pageNumber"></span>/<span class="totalPages"></span></span>
         </div>`
