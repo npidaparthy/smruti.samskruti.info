@@ -54,6 +54,7 @@ const I18N = {
     nm_vsn_shlokas:      'VSN శ్లోకాలు',
     // meaning empty
     no_meaning:          'ఈ శ్లోకానికి అర్థం తయారవుతోంది.',
+    av_meaning_hidden:   '👁 అర్థం దాచబడింది — Reveal నొక్కితే కనిపిస్తుంది',
     // help back
     help_back:           '← వెనక',
     // settings extras
@@ -207,6 +208,7 @@ const I18N = {
     // Nakshatra panel
     nm_vsn_shlokas:      'VSN shlokas',
     no_meaning:          'Meaning for this verse is being prepared.',
+    av_meaning_hidden:   '👁 Meaning hidden — tap Reveal to see it',
     help_back:           '← Back',
     // settings extras
     font_size_sub_all:   'All texts',

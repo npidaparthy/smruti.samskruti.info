@@ -642,7 +642,7 @@ const Avadhaanam = (() => {
     }
 
 
-    renderMeaning(current);
+    renderMeaningGated(current);
   }
 
   function renderHiddenAll(verseEl, script) {
@@ -677,9 +677,28 @@ const Avadhaanam = (() => {
     });
 
     $('a-verse-hint').textContent = t('hint_revealed');
+
+    if (current) renderMeaning(current);
   }
 
   // ── Meaning rendering ─────────────────────────────────────────
+  function meaningHiddenByDefault() {
+    return (window._avMeaning || 'show') === 'hide';
+  }
+
+  // Gate meaning display on the "Show meaning by default in Avadhānam"
+  // setting: render it normally unless that setting is 'hide' AND the user
+  // hasn't revealed this verse yet — in which case show a placeholder
+  // instead. Called wherever meaning would otherwise render unconditionally.
+  function renderMeaningGated(sh) {
+    if (!revealed && meaningHiddenByDefault()) {
+      const out = $('a-meaning-out');
+      if (out) out.innerHTML = `<span class="meaning-empty">${t('av_meaning_hidden')}</span>`;
+      return;
+    }
+    renderMeaning(sh);
+  }
+
   function renderMeaning(sh) {
     const lang  = window._meaningLang || 'en';
     const mtype = document.querySelector('#a-mtype-group .pill.active')?.dataset.mtype || 'short';
@@ -925,7 +944,7 @@ const Avadhaanam = (() => {
       btn.addEventListener('click', () => {
         document.querySelectorAll('#a-mtype-group .pill').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
-        if (current) renderMeaning(current);
+        if (current) renderMeaningGated(current);
       });
     });
 
@@ -962,7 +981,8 @@ const Avadhaanam = (() => {
       if (_lastNkNum && $('naksh-modal').classList.contains('open'))
         showNakshatraModal(_lastNkNum, _lastPadNum);
     });
-    window.addEventListener('meaningLangChange', () => { if (current) renderMeaning(current); });
+    window.addEventListener('meaningLangChange', () => { if (current) renderMeaningGated(current); });
+    window.addEventListener('avMeaningChange', () => { if (current) renderMeaningGated(current); });
     window.addEventListener('uiLangChange', () => {
       buildModeSelect();
       buildChapterGrid();
