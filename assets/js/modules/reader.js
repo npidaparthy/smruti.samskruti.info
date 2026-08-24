@@ -1655,6 +1655,7 @@ const Reader = (() => {
       const card = $('r-votd-card');
       if (card && !card.hidden) { card.hidden = true; }
       else if (activeText === 'vsn') { loadAndShowVsnVotd(); }
+      else if (activeText === 'sl') { /* no SL votd feed */ }
       else { loadAndShowVotd(); }
     });
 
@@ -1719,7 +1720,14 @@ const Reader = (() => {
           else pickRandom();
         }).catch(pickRandom);
       }
-      if (activeText === 'vsn') loadAndShowVsnVotd(); else loadAndShowVotd();
+      if (activeText === 'vsn') {
+        loadAndShowVsnVotd();
+      } else if (activeText === 'sl') {
+        const vc = $('r-votd-card'); if (vc) vc.hidden = true;
+      } else {
+        loadAndShowVotd();
+      }
+      const pb0 = $('r-progress-badge'); if (pb0) pb0.hidden = (activeText === 'vsn' || activeText === 'sl');
       checkGitaJayanti();
     });
 
@@ -1764,7 +1772,7 @@ const Reader = (() => {
         }
         const isVsn = activeText === 'vsn';
         const namesBtn = $('r-vsn-names-btn'); if (namesBtn) namesBtn.style.display = isVsn ? '' : 'none';
-        const pb = $('r-progress-badge'); if (pb) pb.hidden = isVsn;
+        const pb = $('r-progress-badge'); if (pb) pb.hidden = isVsn || activeText === 'sl';
         // Switch VOTD to match text mode — no VOTD feed for SL, just hide it
         const vc = $('r-votd-card');
         if (isVsn) { if (_votdVsnSh) showVotdCard(_votdVsnSh); else loadAndShowVsnVotd(); }
