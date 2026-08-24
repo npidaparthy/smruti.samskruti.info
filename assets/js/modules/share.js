@@ -1,175 +1,152 @@
-/* share.js — Share verse as image card */
+/* share.js — Share verse as an image card.
+ *
+ * Uses the vendored palm-leaf card renderer (assets/js/card-renderer/) --
+ * the same canvas-drawing engine that renders /daily/ verse-of-the-day
+ * cards -- so a card shared from the Reader/Avadhānam looks identical to
+ * that verse's own daily card, if the daily rotation ever picks it.
+ *
+ * header/footer/theme values here mirror daily/config.json's site-wide
+ * card.header/card.footer/card.theme and each feed's card.header.heading --
+ * kept in sync by hand (they rarely change) rather than fetching
+ * config.json at share time.
+ */
 
 const Share = (() => {
-  const W = 900, H = 500;
-  const PAD = 52;
+  const SITE_FOOTER = {
+    left: 'స్మృతిః । स्मृतिः',
+    middle: 'samskruti.info@gmail.com',
+    right: 'https://smruti.samskruti.info',
+  };
+  const THEME = { template: 'palm-leaf', accent: '#c8a84b', grain: 8 };
 
-  function isDark() {
-    return document.documentElement.getAttribute('data-theme') === 'dark' ||
-      (document.documentElement.getAttribute('data-theme') === 'auto' &&
-        window.matchMedia('(prefers-color-scheme: dark)').matches);
+  const HEADINGS = {
+    gita: { te: n => `శ్రీమద్భగవద్గీతా ${n}`, sa: n => `श्रीमद्भगवद्गीता ${n}`, ro: n => `Śrīmad Bhagavadgītā ${n}` },
+    vsn:  { te: 'శ్రీవిష్ణుసహస్రనామస్తోత్రమ్', sa: 'श्रीविष्णुसहस्रनामस्तोत्रम्', ro: 'Śrī Viṣṇu Sahasranāma Stotram' },
+    sl:   { te: 'సౌన్దర్యలహరీ', sa: 'सौन्दर्यलहरी', ro: 'Saundarya Laharī' },
+  };
+
+  function scriptKey(script) {
+    return script === 'sa' ? 'sa' : script === 'ro' ? 'ro' : 'te';
   }
 
-  function colors() {
-    return isDark()
-      ? { bg: '#1a1208', card: '#2a1f0f', amber: '#d4943a', text: '#f0e6d0', sub: '#a08060', border: '#3a2a14' }
-      : { bg: '#fdf6e8', card: '#fff9ef', amber: '#b8730a', text: '#2c1a0e', sub: '#7a5530', border: '#e8c878' };
+  // ── VSN daily-card data (h1/h2 half-shlokas + pre-formatted names list) ──
+  // Same source file the /daily/ VSN feed itself renders from.
+  let vsnDailyCards = null;
+  async function loadVsnDailyCards() {
+    if (vsnDailyCards) return vsnDailyCards;
+    const r = await fetch('/data/vsn/vsn-daily-cards.json');
+    const d = await r.json();
+    vsnDailyCards = d.shlokas || [];
+    return vsnDailyCards;
   }
 
-  function wrapText(ctx, text, x, y, maxW, lineH) {
-    const words = text.split(' ');
-    let line = '';
-    let lineY = y;
-    for (const word of words) {
-      const test = line ? line + ' ' + word : word;
-      if (ctx.measureText(test).width > maxW && line) {
-        ctx.fillText(line, x, lineY);
-        line = word;
-        lineY += lineH;
-      } else {
-        line = test;
-      }
-    }
-    if (line) { ctx.fillText(line, x, lineY); lineY += lineH; }
-    return lineY;
+  function padaLines(sh, key) {
+    return ['p1', 'p2', 'p3', 'p4']
+      .map(k => sh[k] && (sh[k][key] || sh[k].ro))
+      .filter(Boolean)
+      .join('\n');
   }
 
-  async function buildCanvas(sh, chTitle, meaning, isVsn) {
-    const canvas = document.createElement('canvas');
-    canvas.width  = W;
-    canvas.height = H;
-    const ctx = canvas.getContext('2d');
-    const C   = colors();
-
-    // Background
-    ctx.fillStyle = C.bg;
-    ctx.fillRect(0, 0, W, H);
-
-    // Card rect
-    const cx = PAD, cy = PAD, cw = W - PAD * 2, ch = H - PAD * 2;
-    ctx.fillStyle = C.card;
-    roundRect(ctx, cx, cy, cw, ch, 18);
-    ctx.fill();
-    ctx.strokeStyle = C.border;
-    ctx.lineWidth = 1.5;
-    roundRect(ctx, cx, cy, cw, ch, 18);
-    ctx.stroke();
-
-    // Left amber bar
-    ctx.fillStyle = C.amber;
-    roundRect(ctx, cx, cy, 5, ch, [18, 0, 0, 18]);
-    ctx.fill();
-
-    const ip = PAD + 30; // inner padding x
-    let y = cy + 36;
-
-    // Ref badge: "Bhagavad Gītā · 2.47" or "Śrī Viṣṇu Sahasranāmam · #43"
-    ctx.font = 'bold 14px system-ui, sans-serif';
-    ctx.fillStyle = C.amber;
-    ctx.textAlign = 'left';
-    const ref = isVsn
-      ? `Śrī Viṣṇu Sahasranāmam · #${sh.s}`
-      : (chTitle ? `Bhagavad Gītā · ${sh.c}.${sh.s} — ${chTitle}` : `Bhagavad Gītā · ${sh.c}.${sh.s}`);
-    ctx.fillText(ref, ip, y);
-    y += 28;
-
-    // Verse padas
+  async function buildPayload(sh, textType) {
     const script = window._script || 'te';
-    const padas  = ['p1','p2','p3','p4'].map(k => {
-      if (!sh[k]) return '';
-      let t = sh[k][script] || sh[k].ro || '';
-      if (sh[k].cont) t += '-';
-      return t;
-    }).filter(Boolean);
+    const key    = scriptKey(script);
+    const lang   = window._meaningLang || 'en';
 
-    const verseFont = script === 'ro' ? '22px Georgia, serif' : '26px "Noto Sans Telugu", "Noto Sans Devanagari", serif';
-    ctx.font = verseFont;
-    ctx.fillStyle = C.text;
-
-    for (let i = 0; i < padas.length; i++) {
-      let line = padas[i];
-      if (i === 1) line += ' ।';
-      if (i === 3) line += isVsn ? ` ॥${sh.s}॥` : ` ॥ ${sh.c}.${sh.s} ॥`;
-      ctx.fillText(line, ip, y);
-      y += 38;
+    if (textType === 'vsn') {
+      const cards = await loadVsnDailyCards();
+      const rec   = cards.find(c => c.sh === sh.s);
+      const verse = rec ? [rec[`h1_${key}`], rec[`h2_${key}`]].filter(Boolean).join('\n') : '';
+      const namesKey = key === 'ro' ? 'en' : key; // vsn-daily-cards.json has no names_ro
+      const names = (rec && rec[`names_${namesKey}`]) || '';
+      return {
+        size: 1080, script, theme: THEME,
+        header: { heading: HEADINGS.vsn[key] || HEADINGS.vsn.te, align: 'center' },
+        footer: SITE_FOOTER,
+        sections: [
+          { type: 'verse', value: verse, opts: { meta: { script, syllables: 8 } } },
+          { type: 'names', value: names },
+        ],
+      };
     }
 
-    y += 10;
+    const m = sh.meaning && (sh.meaning[lang] || sh.meaning.en);
+    const verse = padaLines(sh, key);
 
-    // Divider
-    ctx.strokeStyle = C.border;
-    ctx.lineWidth = 1;
-    ctx.beginPath();
-    ctx.moveTo(ip, y); ctx.lineTo(W - PAD - 20, y);
-    ctx.stroke();
-    y += 20;
-
-    // Meaning
-    if (meaning) {
-      ctx.font = 'italic 15px "Noto Sans Telugu", "Noto Sans Devanagari", Georgia, serif';
-      ctx.fillStyle = C.sub;
-      y = wrapText(ctx, `"${meaning}"`, ip, y, cw - 60, 22);
-      y += 8;
+    if (textType === 'sl') {
+      return {
+        size: 1080, script, theme: THEME,
+        header: { heading: HEADINGS.sl[key] || HEADINGS.sl.te, align: 'center' },
+        footer: SITE_FOOTER,
+        sections: [
+          { type: 'verse', value: verse, opts: { meta: { script, syllables: 17 } } },
+          { type: 'meaning', value: (m && m.short) || '' },
+          { type: 'commentary', value: (m && m.long) || '' },
+        ],
+      };
     }
 
-    // Footer: attribution
-    const footerY = cy + ch - 24;
-    ctx.font = '12px system-ui, sans-serif';
-    ctx.fillStyle = C.sub;
-    ctx.textAlign = 'left';
-    ctx.fillText('smruti.samskruti.info', ip, footerY);
-    ctx.textAlign = 'right';
-    ctx.fillText('🕉', W - PAD - 20, footerY);
-
-    return canvas;
+    // gita
+    const headingFn = HEADINGS.gita[key] || HEADINGS.gita.te;
+    return {
+      size: 1080, script, theme: THEME,
+      header: { heading: headingFn(`${sh.c}.${sh.s}`), align: 'center' },
+      footer: SITE_FOOTER,
+      sections: [
+        { type: 'verse', value: verse, opts: { meta: { script, syllables: 8 } } },
+        { type: 'meaning', value: (m && m.short) || '' },
+        { type: 'commentary', value: (m && m.long) || '' },
+      ],
+    };
   }
 
-  function roundRect(ctx, x, y, w, h, r) {
-    if (typeof r === 'number') r = [r, r, r, r];
-    const [tl, tr, br, bl] = r;
-    ctx.beginPath();
-    ctx.moveTo(x + tl, y);
-    ctx.lineTo(x + w - tr, y);
-    ctx.quadraticCurveTo(x + w, y, x + w, y + tr);
-    ctx.lineTo(x + w, y + h - br);
-    ctx.quadraticCurveTo(x + w, y + h, x + w - br, y + h);
-    ctx.lineTo(x + bl, y + h);
-    ctx.quadraticCurveTo(x, y + h, x, y + h - bl);
-    ctx.lineTo(x, y + tl);
-    ctx.quadraticCurveTo(x, y, x + tl, y);
-    ctx.closePath();
+  async function renderCard(payload) {
+    // window.render() (card-renderer/renderer.js) looks up a fixed
+    // #card canvas element -- create one just for this render, off-screen.
+    if (document.fonts && document.fonts.ready) { try { await document.fonts.ready; } catch (e) {} }
+    const canvas = document.createElement('canvas');
+    canvas.id = 'card';
+    canvas.style.cssText = 'position:fixed; left:-9999px; top:0; pointer-events:none;';
+    document.body.appendChild(canvas);
+    try {
+      return window.render(payload);
+    } finally {
+      canvas.remove();
+    }
   }
 
-  async function shareVerse(sh, chTitle, meaning, isVsn) {
-    const canvas = await buildCanvas(sh, chTitle, meaning, isVsn);
-    const filename = isVsn ? `vsn-${sh.s}.png` : `gita-${sh.c}-${sh.s}.png`;
-    const title    = isVsn ? `Śrī Viṣṇu Sahasranāmam #${sh.s}` : `Bhagavad Gītā ${sh.c}.${sh.s}`;
+  async function shareVerse(sh, textType) {
+    if (!sh) return;
+    const payload = await buildPayload(sh, textType);
+    const dataUrl = await renderCard(payload);
 
-    // Try native share with image file
+    const filename = textType === 'vsn' ? `vsn-${sh.s}.png`
+      : textType === 'sl' ? `sl-${sh.s}.png`
+      : `gita-${sh.c}-${sh.s}.png`;
+    const title = textType === 'vsn' ? `Śrī Viṣṇu Sahasranāmam #${sh.s}`
+      : textType === 'sl' ? `Saundarya Laharī ${sh.s}`
+      : `Bhagavad Gītā ${sh.c}.${sh.s}`;
+
     if (navigator.canShare) {
-      canvas.toBlob(async blob => {
-        const file = new File([blob], filename, { type: 'image/png' });
-        if (navigator.canShare({ files: [file] })) {
-          try {
-            await navigator.share({ files: [file], title });
-            return;
-          } catch(e) { if (e.name === 'AbortError') return; }
-        }
-        // Fallback: download
-        downloadCanvas(canvas, filename);
-      }, 'image/png');
+      const res  = await fetch(dataUrl);
+      const blob = await res.blob();
+      const file = new File([blob], filename, { type: 'image/png' });
+      if (navigator.canShare({ files: [file] })) {
+        try {
+          await navigator.share({ files: [file], title });
+          return;
+        } catch (e) { if (e.name === 'AbortError') return; }
+      }
+      downloadDataUrl(dataUrl, filename);
     } else {
-      // Desktop fallback: open in new tab
-      const url = canvas.toDataURL('image/png');
       const win = window.open();
-      win.document.write(`<img src="${url}" style="max-width:100%"><br><a download="${filename}" href="${url}">Download</a>`);
+      win.document.write(`<img src="${dataUrl}" style="max-width:100%"><br><a download="${filename}" href="${dataUrl}">Download</a>`);
     }
   }
 
-  function downloadCanvas(canvas, filename) {
+  function downloadDataUrl(dataUrl, filename) {
     const a = document.createElement('a');
     a.download = filename;
-    a.href = canvas.toDataURL('image/png');
+    a.href = dataUrl;
     a.click();
   }
 

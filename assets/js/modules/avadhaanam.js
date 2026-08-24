@@ -966,10 +966,7 @@ const Avadhaanam = (() => {
 
     $('a-share')?.addEventListener('click', () => {
       if (!current || !window.Share) return;
-      const chTitle = activeText === 'gita' ? chapterTitle(current) : 'Vishnu Sahasranāma';
-      const ml = window._meaningLang || 'en';
-      const meaning = current.meaning?.[ml]?.short || current.meaning?.en?.short || '';
-      Share.shareVerse(current, chTitle, meaning);
+      Share.shareVerse(current, activeText);
     });
 
     $('a-focus')?.addEventListener('click', toggleAvFocusMode);

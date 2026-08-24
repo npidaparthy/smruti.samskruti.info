@@ -61,6 +61,14 @@ npx serve . -p 4242
 
 Then open `http://localhost:4242`.
 
+## Share card renderer
+
+`assets/js/card-renderer/` (`renderer.js` + `sections/*.js`) is a **vendored copy** of `samskruti-archives/daily-tool/src/{renderer.js,sections/*.js}` — the same canvas-drawing engine that renders the `/daily/` verse-of-the-day cards (there, driven by CI + headless Chrome). It's copied here, not loaded via CDN/URL from the other repo, by deliberate choice: no extra runtime dependency, no risk of an unreviewed upstream change silently reshaping the Reader's Share button, no CDN-availability dependency for a core site feature. The tradeoff is that these two copies can drift — there's no automation keeping them in sync.
+
+`assets/js/modules/share.js` builds the `payload` object (`header`/`footer`/`theme`/`sections`) from whatever verse is currently open in the Reader/Avadhānam, using the same header/footer/theme/syllable values as `daily/config.json`'s `bg`/`vsn`/`sl` feeds, then calls `window.render(payload)` from the vendored engine — so a shared verse card and that verse's eventual daily card (if the rotation ever picks it) look identical.
+
+**To re-sync after an upstream renderer change:** copy the updated file(s) from `samskruti-archives/daily-tool/src/` over the matching file(s) in `assets/js/card-renderer/`, keeping each file's vendoring header comment (source URL + commit SHA) updated to the new commit, then bump the cache-busting `?v=` on `index.html`'s `<script>` tags for the changed files. Only `renderer.js` and the `sections/` files actually used by `bg`/`vsn`/`sl` are vendored (`_text.js`, `header.js`, `footer.js`, `verse.js`, `meaning.js`, `commentary.js`, `names.js`) — `logo.js`, `source.js`, and `wordbyword.js` are not, since none of those three feeds use them; vendor them too if a future feed does.
+
 ## Asset versioning
 
 All asset URLs use `?v=N` query strings (e.g. `main.css?v=19`). Bump the version number in `index.html` when deploying changes to CSS or JS files to bust browser cache.
