@@ -6,6 +6,7 @@ const Search = (() => {
   let vsnNames    = null;   // [{n, sh, name, meaning}]
   let gitaIndex   = null;
   let gitaCache   = {};     // ch number → shlokas[]
+  let slShlokas   = null;   // [{v, p1-p4, meaning}] — s alias added on load
   let activeFilter = 'all';
   let activeScope  = 'both';   // 'both' | 'verse' | 'meaning'
   let debounceTimer = null;
@@ -33,6 +34,14 @@ const Search = (() => {
     const d = await r.json();
     gitaCache[ch] = d.shlokas || [];
     return gitaCache[ch];
+  }
+
+  async function loadSl() {
+    if (slShlokas) return slShlokas;
+    const r = await fetch(C.SL_SHLOKAS);
+    const d = await r.json();
+    slShlokas = (d.shlokas || []).map(sh => ({ ...sh, s: sh.v }));
+    return slShlokas;
   }
 
   // ── Normalisation ─────────────────────────────────────────────
@@ -123,13 +132,32 @@ const Search = (() => {
     div.className = 'srch-card srch-card-gita';
     div.innerHTML = `
       <div class="srch-card-meta">
-        <span class="srch-chip srch-chip-gita"గీతా</span>
+        <span class="srch-chip srch-chip-gita">గీతా</span>
         <span class="srch-card-ref">${sh.c}·${sh.s}</span>
         ${sh.speaker ? `<span class="srch-card-speaker">${sh.speaker}</span>` : ''}
       </div>
       <div class="srch-card-title">${p1}</div>
       ${short ? `<div class="srch-card-sub">${short.slice(0,90)}${short.length>90?'…':''}</div>` : ''}`;
     div.addEventListener('click', () => goToGita(+sh.c, +sh.s, lastQuery));
+    return div;
+  }
+
+  function slCard(sh) {
+    const script = window._script || 'te';
+    const lang   = window._meaningLang || 'en';
+    const p1 = (sh.p1 && (sh.p1[script] || sh.p1.ro)) || '';
+    const m  = sh.meaning && (sh.meaning[lang] || sh.meaning.en);
+    const short = m && m.short;
+    const div = document.createElement('div');
+    div.className = 'srch-card srch-card-sl';
+    div.innerHTML = `
+      <div class="srch-card-meta">
+        <span class="srch-chip srch-chip-sl">సౌన్దర్యలహరీ</span>
+        <span class="srch-card-ref">${sh.s}</span>
+      </div>
+      <div class="srch-card-title">${p1}</div>
+      ${short ? `<div class="srch-card-sub">${short.slice(0,90)}${short.length>90?'…':''}</div>` : ''}`;
+    div.addEventListener('click', () => goToSl(+sh.s, lastQuery));
     return div;
   }
 
@@ -140,6 +168,10 @@ const Search = (() => {
 
   function goToGita(ch, s, query) {
     window.dispatchEvent(new CustomEvent('searchNavigate', { detail: { text: 'gita', ch, s, hlQuery: query, hlScope: activeScope } }));
+  }
+
+  function goToSl(sh, query) {
+    window.dispatchEvent(new CustomEvent('searchNavigate', { detail: { text: 'sl', sh, hlQuery: query, hlScope: activeScope } }));
   }
 
   // ── Core search ───────────────────────────────────────────────
@@ -229,6 +261,19 @@ const Search = (() => {
         }
       }
 
+      else if (activeFilter === 'sl') {
+        // Show SL verse #N (1-100)
+        const shlokas = await loadSl();
+        const sh = shlokas.find(x => x.s === N);
+        if (sh) { frag.appendChild(slCard(sh)); count++; }
+        else {
+          const msg = document.createElement('div');
+          msg.className = 'srch-empty';
+          msg.textContent = `సౌన్దర్యలహరీలో ${N}వ శ్లోకం దొరకలేదు`;
+          frag.appendChild(msg); count++;
+        }
+      }
+
       else {
         // 'all' filter — treat as VSN name# (legacy behaviour) or gita-ch if ≤18
         if (N <= 18) {
@@ -283,6 +328,23 @@ const Search = (() => {
           hits.forEach(sh => { frag.appendChild(gitaCard(sh)); count++; });
           if (count >= 30) break;
         }
+      }
+
+      if (activeFilter === 'all' || activeFilter === 'sl') {
+        const shlokas = await loadSl();
+        const hits = shlokas.filter(sh => {
+          const allRo = ['p1','p2','p3','p4'].map(k => (sh[k] && sh[k].ro) || '').join(' ');
+          const allTe = ['p1','p2','p3','p4'].map(k => (sh[k] && sh[k].te) || '').join(' ');
+          const men   = sh.meaning && (sh.meaning.en || {});
+          const inVerse   = matches(q, allRo, allTe);
+          const inMeaning = matches(q,
+            (typeof men === 'object' ? men.short || '' : men),
+            (sh.meaning && sh.meaning.te && sh.meaning.te.short) || '');
+          if (activeScope === 'verse')   return inVerse;
+          if (activeScope === 'meaning') return inMeaning;
+          return inVerse || inMeaning;
+        }).slice(0, 15);
+        hits.forEach(sh => { frag.appendChild(slCard(sh)); count++; });
       }
     }
 

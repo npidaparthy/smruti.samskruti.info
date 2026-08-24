@@ -15,6 +15,7 @@ const C = {
   BG_META:       '/data/bg/content/bg-meta.json',
   EKADASHI:      '/data/calendar/content/ekadashi.json',
   BG_QUIZ:       '/data/quiz/bg-quiz.json',
+  SL_SHLOKAS:    '/data/sl/sl.json',
 
   // Scripts / Lipi
   SCRIPTS: ['te', 'ro', 'sa'],
@@ -79,6 +80,29 @@ const C = {
     { label: '901–1008', from: 901, to: 1008 },
   ],
 
+  // Saundarya Laharī — traditional two-section split (Ānanda Laharī /
+  // Saundarya Laharī) plus decade groups, same range-chip mechanism as
+  // VSN_GROUPS. sl.json's own "sections" field carries the same two ranges;
+  // duplicated here as {label,from,to} so the chip-rendering code can stay
+  // identical to the VSN path.
+  // key is unique per chip (unlike VSN_GROUPS, section and decade ranges
+  // here legitimately share "from" boundaries — e.g. Ānanda Laharī and
+  // "1–10" both start at 1 — so selection state can't key off .from alone).
+  SL_GROUPS: [
+    { key: 'al',  label: 'ఆనన్దలహరీ',   from: 1,  to: 41  },
+    { key: 'sl2', label: 'సౌన్దర్యలహరీ', from: 42, to: 100 },
+    { key: 'd1',  label: '1–10',    from: 1,  to: 10  },
+    { key: 'd2',  label: '11–20',   from: 11, to: 20  },
+    { key: 'd3',  label: '21–30',   from: 21, to: 30  },
+    { key: 'd4',  label: '31–40',   from: 31, to: 40  },
+    { key: 'd5',  label: '41–50',   from: 41, to: 50  },
+    { key: 'd6',  label: '51–60',   from: 51, to: 60  },
+    { key: 'd7',  label: '61–70',   from: 61, to: 70  },
+    { key: 'd8',  label: '71–80',   from: 71, to: 80  },
+    { key: 'd9',  label: '81–90',   from: 81, to: 90  },
+    { key: 'd10', label: '91–100',  from: 91, to: 100 },
+  ],
+
   // Speakers — keys: te (Telugu), dn (Devanagari), ro (IAST), en (English)
   SPEAKERS: ['krishna', 'arjuna', 'sanjaya', 'dhritarashtra'],
   SPEAKER_LABEL: {
@@ -91,7 +115,20 @@ const C = {
   // Text labels per script (for dropdowns)
   TEXT_LABELS: {
     gita: { te: 'శ్రీమద్భగవద్గీతా', sa: 'श्रीमद्भगवद्गीता', ro: 'Śrīmad Bhagavadgītā', en: 'Śrīmad Bhagavadgītā' },
-    vsn:  { te: 'శ్రీవిష్ణుసహస్రనామమ్', sa: 'श्रीविष्णुसहस्रनामम्', ro: 'Śrīviṣṇusahasranāmam', en: 'Śrī Viṣṇu Sahasranāmam' }
+    vsn:  { te: 'శ్రీవిష్ణుసహస్రనామమ్', sa: 'श्रीविष्णुसहस्रनामम्', ro: 'Śrīviṣṇusahasranāmam', en: 'Śrī Viṣṇu Sahasranāmam' },
+    sl:   { te: 'సౌన్దర్యలహరీ', sa: 'सौन्दर्यलहरी', ro: 'Saundaryalaharī', en: 'Saundaryalaharī' }
+  },
+
+  // Registry of readable texts — seed of a config-driven model so a future
+  // text (Viduranīti, saṅkṣipta Rāmāyaṇam, ...) can be added mostly by data
+  // + one entry here, rather than new hardcoded branches throughout the
+  // reader/search modules. Not yet consumed everywhere (see reader.js /
+  // search.js comments at each activeText branch) — Phase 1 wires it into
+  // Reader + Search only, matching the current sl rollout scope.
+  TEXTS: {
+    gita: { id: 'gita', grouping: 'chapters', totalVerses: 700, avadhanamModes: 'TEST_MODES_GITA' },
+    vsn:  { id: 'vsn',  grouping: 'ranges',   ranges: 'VSN_GROUPS', totalVerses: 108, avadhanamModes: 'TEST_MODES_VSN' },
+    sl:   { id: 'sl',   grouping: 'ranges',   ranges: 'SL_GROUPS',  totalVerses: 100, avadhanamModes: null }
   },
 
   // Avadhānam test modes

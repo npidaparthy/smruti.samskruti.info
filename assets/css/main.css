@@ -1382,6 +1382,7 @@ mark.search-hl {
 }
 .srch-chip-vsn  { background: color-mix(in srgb, var(--vsn-blue-lt) 18%, var(--bg)); color: var(--vsn-blue-lt); }
 .srch-chip-gita { background: color-mix(in srgb, var(--accent) 18%, var(--bg));      color: var(--accent); }
+.srch-chip-sl   { background: color-mix(in srgb, #9b85e0 18%, var(--bg));            color: #9b85e0; }
 .srch-card-ref     { font-size: 11px; color: var(--fg3); }
 .srch-card-speaker { font-size: 10px; color: var(--fg3); margin-left: auto; font-style: italic; }
 .srch-card-title   { font-size: calc(15px * var(--ui-scale)); color: var(--fg); font-weight: 500; margin-bottom: 3px; }

@@ -8,7 +8,7 @@ const Reader = (() => {
   let pool         = [];
   let current      = null;
   let currentPos   = 0;
-  let activeText   = 'gita';   // 'gita' | 'vsn'
+  let activeText   = 'gita';   // 'gita' | 'vsn' | 'sl'
   let _votdSh      = null;
   let _votdVsnSh   = null;
   let bgMetaChapters = null;
@@ -23,6 +23,11 @@ const Reader = (() => {
   let vsnSelectedGroups = new Set(); // empty = All; keyed by grp.from
   let vsnMeta           = null;
   let bgMeta            = null;
+
+  // SL (Saundarya Laharī) state — Reader + Search only for now (see
+  // constants.js TEXTS.sl comment). No Avadhānam/Library integration yet.
+  let slShlokas        = [];
+  let slSelectedGroups = new Set(); // empty = All; keyed by grp.from, same pattern as vsnSelectedGroups
 
   const $ = id => document.getElementById(id);
 
@@ -42,7 +47,9 @@ const Reader = (() => {
     try { localStorage.setItem(BOOKMARKS_KEY, JSON.stringify([...set])); } catch(e) {}
   }
   function verseId(sh) {
-    return activeText === 'vsn' ? `vsn.${sh.s}` : `${sh.c}.${sh.s}`;
+    if (activeText === 'vsn') return `vsn.${sh.s}`;
+    if (activeText === 'sl')  return `sl.${sh.s}`;
+    return `${sh.c}.${sh.s}`;
   }
 
   // ── Helpers ───────────────────────────────────────────────────
@@ -80,6 +87,16 @@ const Reader = (() => {
     const data = await r.json();
     vsnShlokas = data.shlokas || [];
     return vsnShlokas;
+  }
+
+  async function loadSl() {
+    if (slShlokas.length) return slShlokas;
+    const r = await fetch(C.SL_SHLOKAS);
+    const data = await r.json();
+    // sl.json numbers verses "v", not "s" like gita/vsn — alias s = v so
+    // the generic sort/pool-index code (which reads .s) works unmodified.
+    slShlokas = (data.shlokas || []).map(sh => ({ ...sh, s: sh.v }));
+    return slShlokas;
   }
 
   async function loadVsnNames() {
@@ -705,6 +722,21 @@ const Reader = (() => {
       pool.sort((a, b) => a.s - b.s);
       return;
     }
+    if (activeText === 'sl') {
+      const all = await loadSl();
+      if (bookmarksMode) {
+        const bms = getBookmarks();
+        pool = all.filter(s => bms.has(`sl.${s.s}`));
+      } else if (slSelectedGroups.size === 0) {
+        pool = [...all];
+      } else {
+        pool = all.filter(s =>
+          C.SL_GROUPS.some(g => slSelectedGroups.has(g.key) && s.s >= g.from && s.s <= g.to)
+        );
+      }
+      pool.sort((a, b) => a.s - b.s);
+      return;
+    }
     if (keyVersesMode) {
       await ensureAllLoaded();
       pool = allShlokas.filter(sh => KEY_VERSE_IDS.has(`${sh.c}.${sh.s}`));
@@ -739,6 +771,8 @@ const Reader = (() => {
     const key = script === 'sa' ? 'sa' : script === 'ro' ? 'ro' : 'te';
     sel.querySelector('option[value="gita"]').textContent = C.TEXT_LABELS.gita[key] || 'Bhagavad Gita';
     sel.querySelector('option[value="vsn"]').textContent  = C.TEXT_LABELS.vsn[key]  || 'Vishnu Sahasranama';
+    const slOpt = sel.querySelector('option[value="sl"]');
+    if (slOpt) slOpt.textContent = C.TEXT_LABELS.sl[key] || 'Saundarya Laharī';
   }
 
   // ── Chapter / group button grid ───────────────────────────────
@@ -819,6 +853,50 @@ const Reader = (() => {
       // Show VSN about panel
       hideBgAbout();
       loadVsnMeta().then(meta => { if (activeText === 'vsn') renderVsnAbout(meta, window._script || 'te'); });
+      return;
+    }
+
+    if (activeText === 'sl') {
+      const allBtn = document.createElement('button');
+      allBtn.className = 'ch-btn all' + (slSelectedGroups.size === 0 && !bookmarksMode ? ' active' : '');
+      allBtn.textContent = t('all');
+      allBtn.addEventListener('click', () => {
+        bookmarksMode = false;
+        slSelectedGroups.clear();
+        updateSlGroupBtns(wrap);
+        pickRandom();
+      });
+      wrap.appendChild(allBtn);
+
+      // ♥ Bookmarks filter
+      const bmFilterBtn = document.createElement('button');
+      bmFilterBtn.className = 'ch-btn ch-btn-bm' + (bookmarksMode ? ' active' : '');
+      bmFilterBtn.textContent = '♥';
+      bmFilterBtn.title = window._uiLang === 'en' ? 'Bookmarks' : 'నచ్చిన శ్లోకాలు';
+      bmFilterBtn.addEventListener('click', () => {
+        bookmarksMode = !bookmarksMode;
+        if (bookmarksMode) slSelectedGroups.clear();
+        updateSlGroupBtns(wrap);
+        if (bookmarksMode) activateBookmarksFilter();
+        else pickRandom();
+      });
+      wrap.appendChild(bmFilterBtn);
+
+      C.SL_GROUPS.forEach(grp => {
+        const btn = document.createElement('button');
+        btn.className = 'ch-btn' + (slSelectedGroups.has(grp.key) ? ' active' : '');
+        btn.textContent = grp.label;
+        btn.dataset.key = grp.key;
+        btn.addEventListener('click', () => {
+          bookmarksMode = false;
+          slSelectedGroups.has(grp.key) ? slSelectedGroups.delete(grp.key) : slSelectedGroups.add(grp.key);
+          updateSlGroupBtns(wrap);
+          pickRandom();
+        });
+        wrap.appendChild(btn);
+      });
+      hideBgAbout();
+      hideVsnAbout();
       return;
     }
 
@@ -957,6 +1035,14 @@ const Reader = (() => {
     });
   }
 
+  function updateSlGroupBtns(wrap) {
+    wrap.querySelector('.ch-btn.all')?.classList.toggle('active', slSelectedGroups.size === 0 && !bookmarksMode);
+    wrap.querySelector('.ch-btn-bm')?.classList.toggle('active', bookmarksMode);
+    wrap.querySelectorAll('.ch-btn[data-key]').forEach(btn => {
+      btn.classList.toggle('active', slSelectedGroups.has(btn.dataset.key));
+    });
+  }
+
   function updateChBtnStates() {
     const wrap = $('r-ch-wrap');
     if (!wrap) return;
@@ -973,7 +1059,9 @@ const Reader = (() => {
   // ── Verse rendering ───────────────────────────────────────────
   function renderVerse(sh) {
     current = sh;
-    const idx = pool.findIndex(x => x.c === sh.c && x.s === sh.s);
+    // gita verses share .c+.s; vsn/sl only have .s (both undefined .c would
+    // otherwise false-match every verse against each other)
+    const idx = pool.findIndex(x => (activeText === 'gita' ? x.c === sh.c : true) && x.s === sh.s);
     if (idx !== -1) currentPos = idx;
     const box = $('r-verse-box'); if (box) box.style.display = '';
     const es = $('r-empty-state'); if (es) es.style.display = 'none';
@@ -1015,6 +1103,20 @@ const Reader = (() => {
         nkBadge.style.display = '';
         nkBadge.onclick = () => Avadhaanam.showNakshatraModal(nkNum, padNum);
       });
+    } else if (activeText === 'sl') {
+      refEl.innerHTML = '';
+      const vBadge = document.createElement('span');
+      vBadge.className = 'badge badge-shloka';
+      vBadge.textContent = `SL · ${sh.s}`;
+      refEl.appendChild(vBadge);
+
+      const grp = C.SL_GROUPS.find(g => (g.key === 'al' || g.key === 'sl2') && sh.s >= g.from && sh.s <= g.to);
+      if (grp) {
+        const secBadge = document.createElement('span');
+        secBadge.className = 'ref-title';
+        secBadge.textContent = grp.label;
+        refEl.appendChild(secBadge);
+      }
     } else {
       refEl.innerHTML = `
         <span class="badge badge-ch">${sh.c}</span>
@@ -1367,6 +1469,13 @@ const Reader = (() => {
         const shlokas = await loadVsn();
         const target = shlokas.find(x => x.s === saved.s);
         if (target) { pool = shlokas; renderVerse(target); return true; }
+      } else if (saved.text === 'sl' && saved.s) {
+        activeText = 'sl';
+        const sel = $('r-text-select'); if (sel) sel.value = 'sl';
+        buildChapterGrid();
+        const shlokas = await loadSl();
+        const target = shlokas.find(x => x.s === saved.s);
+        if (target) { pool = shlokas; renderVerse(target); return true; }
       } else if (saved.text === 'gita' && saved.ch && saved.s) {
         const chData = await loadChapter(saved.ch);
         const shlokas = chData.shlokas || [];
@@ -1644,18 +1753,22 @@ const Reader = (() => {
         activeText = textSel.value;
         selectedChs.clear();
         vsnSelectedGroups.clear();
+        slSelectedGroups.clear();
         buildChapterGrid();
         if (activeText === 'vsn') {
           loadVsn().then(shlokas => { if (shlokas.length) { pool = shlokas; renderVerse(shlokas[0]); } });
+        } else if (activeText === 'sl') {
+          loadSl().then(shlokas => { if (shlokas.length) { pool = shlokas; renderVerse(shlokas[0]); } });
         } else {
           pickRandom();
         }
         const isVsn = activeText === 'vsn';
         const namesBtn = $('r-vsn-names-btn'); if (namesBtn) namesBtn.style.display = isVsn ? '' : 'none';
         const pb = $('r-progress-badge'); if (pb) pb.hidden = isVsn;
-        // Switch VOTD to match text mode
+        // Switch VOTD to match text mode — no VOTD feed for SL, just hide it
         const vc = $('r-votd-card');
         if (isVsn) { if (_votdVsnSh) showVotdCard(_votdVsnSh); else loadAndShowVsnVotd(); }
+        else if (activeText === 'sl') { if (vc) vc.hidden = true; }
         else { if (vc) vc.hidden = true; if (_votdSh) showVotdCard(_votdSh); else loadAndShowVotd(); }
       });
     }
@@ -1721,6 +1834,15 @@ const Reader = (() => {
           buildChapterGrid();
         }
         const shlokas = await loadVsn();
+        const target  = shlokas.find(x => x.s === sh);
+        if (target) { pool = shlokas; renderVerse(target); }
+      } else if (text === 'sl') {
+        if (activeText !== 'sl') {
+          activeText = 'sl';
+          if (sel) sel.value = 'sl';
+          buildChapterGrid();
+        }
+        const shlokas = await loadSl();
         const target  = shlokas.find(x => x.s === sh);
         if (target) { pool = shlokas; renderVerse(target); }
       } else {
