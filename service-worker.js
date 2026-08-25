@@ -1,4 +1,4 @@
-const CACHE = 'smriti-v23';
+const CACHE = 'smriti-v24';
 
 const DEV = false;
 
@@ -37,13 +37,11 @@ self.addEventListener('activate', e => {
   e.waitUntil(
     caches.keys()
       .then(keys => Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k))))
+      // clients.claim() takes control of any open tabs/homescreen window,
+      // which fires their `navigator.serviceWorker.controllerchange` event
+      // — app.js listens for that directly and auto-reloads, so no custom
+      // postMessage broadcast is needed here.
       .then(() => self.clients.claim())
-      .then(() => {
-        // Tell all open tabs a new version is now active
-        self.clients.matchAll({ type: 'window' }).then(clients =>
-          clients.forEach(c => c.postMessage({ type: 'SW_UPDATED' }))
-        );
-      })
   );
 });
 

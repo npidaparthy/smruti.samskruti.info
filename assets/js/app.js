@@ -124,23 +124,45 @@
   });
 
   // ── Service Worker ────────────────────────────────────────────
+  // Most users install this as a homescreen PWA and reopen it cold (no
+  // tab left open across a deploy) — a dismissible "update available"
+  // banner they'd have to notice and tap doesn't reach them. Instead,
+  // reload automatically the moment a new service worker takes control
+  // (fires on both a live tab that was open during a deploy, and a cold
+  // homescreen reopen that triggers the browser's own SW update check).
+  // No button, no tap — just a brief toast so the reload doesn't look
+  // like a blank-screen glitch. `swRefreshing` stops a reload loop, since
+  // `controllerchange` can in principle fire more than once.
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('/service-worker.js')
-      .then(() => console.log('SW registered'))
+      .then(reg => {
+        console.log('SW registered');
+        reg.update().catch(() => {});
+      })
       .catch(err => console.warn('SW registration failed', err));
 
-    // New SW activated → show reload banner
-    navigator.serviceWorker.addEventListener('message', e => {
-      if (e.data?.type !== 'SW_UPDATED') return;
-      const banner = document.createElement('div');
-      banner.id = 'sw-update-banner';
-      banner.innerHTML = `
-        <span>${window._uiLang === 'en' ? 'Update available' : 'కొత్త వెర్షన్ వచ్చింది'}</span>
-        <button onclick="location.reload()">
-          ${window._uiLang === 'en' ? 'Reload' : 'రిలోడ్'}
-        </button>
-        <button onclick="this.parentElement.remove()">✕</button>`;
-      document.body.appendChild(banner);
+    let swRefreshing = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (swRefreshing) return;
+      swRefreshing = true;
+
+      const toast = document.createElement('div');
+      toast.id = 'sw-update-toast';
+      toast.textContent = window._uiLang === 'en' ? 'Updating…' : 'అప్‌డేట్ అవుతోంది…';
+      document.body.appendChild(toast);
+
+      const reloadNow = () => location.reload();
+      const active = document.activeElement;
+      const isTyping = active && (active.tagName === 'TEXTAREA' || active.tagName === 'INPUT');
+      if (isTyping) {
+        // Don't yank an in-progress note away — reload once they blur,
+        // but don't let the app sit stale forever if they never do.
+        const onBlur = () => { active.removeEventListener('blur', onBlur); setTimeout(reloadNow, 400); };
+        active.addEventListener('blur', onBlur);
+        setTimeout(reloadNow, 30000);
+      } else {
+        setTimeout(reloadNow, 600);
+      }
     });
   }
 
