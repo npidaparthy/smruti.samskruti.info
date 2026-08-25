@@ -16,6 +16,10 @@ const C = {
   EKADASHI:      '/data/calendar/content/ekadashi.json',
   BG_QUIZ:       '/data/quiz/bg-quiz.json',
   SL_SHLOKAS:    '/data/sl/sl.json',
+  // Two pseudo-chapters within the Gita text (not separate texts) — see
+  // reader.js GITA_EXTRA_CHAPTERS comment for where they're wired in.
+  DHYANA_SHLOKAS:   '/data/bg/content/dhyana-slokas.json',
+  MAHATYAM_SHLOKAS: '/data/bg/content/geetha-mahatyam.json',
 
   // Scripts / Lipi
   SCRIPTS: ['te', 'ro', 'sa'],
@@ -41,6 +45,15 @@ const C = {
   // Gita chapters
   GITA_CHAPTERS: 18,
   GITA_TOTAL_SHLOKAS: 700,
+
+  // Two pseudo-chapters shown as extra chips in the Gita chapter grid
+  // (not separate texts — see reader.js buildChapterGrid's gita branch).
+  // `position: 'before'` puts the chip before chapter 1, `'after'` puts it
+  // after chapter 18 — to move one, just flip this field.
+  GITA_EXTRA_CHAPTERS: [
+    { id: 'dhyana',   icon: '🙏', label_te: 'ధ్యానం',    label_en: 'Dhyāna',    shlokasPath: 'DHYANA_SHLOKAS',   position: 'before' },
+    { id: 'mahatyam', icon: '📜', label_te: 'మాహాత్మ్యం', label_en: 'Māhātmyam', shlokasPath: 'MAHATYAM_SHLOKAS', position: 'after'  },
+  ],
 
   // Gita chapter range presets (for reference; UI uses multi-select now)
   GITA_RANGES: {

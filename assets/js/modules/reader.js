@@ -14,6 +14,10 @@ const Reader = (() => {
   let bgMetaChapters = null;
   let keyVersesMode = false;
   let bookmarksMode = false;
+  // 'dhyana' | 'mahatyam' | null — which pseudo-chapter chip (if any) is
+  // selected in the Gita chapter grid. See C.GITA_EXTRA_CHAPTERS.
+  let extraChapterMode = null;
+  let extraChapterCache = {};
 
   // VSN state
   let vsnShlokas        = [];
@@ -49,6 +53,7 @@ const Reader = (() => {
   function verseId(sh) {
     if (activeText === 'vsn') return `vsn.${sh.s}`;
     if (activeText === 'sl')  return `sl.${sh.s}`;
+    if (sh._extra)            return `${sh._extra}.${sh.s}`;
     return `${sh.c}.${sh.s}`;
   }
 
@@ -697,6 +702,22 @@ const Reader = (() => {
     return data;
   }
 
+  // Dhyāna Ślokas / Geetha Māhātmyam — pseudo-chapters of the Gita text
+  // (see C.GITA_EXTRA_CHAPTERS), not separate texts. Their JSON numbers
+  // verses "num", not "s"/"c" like real chapters — alias so the generic
+  // sort/pool-index code (which reads .s, and treats missing .c as a
+  // no-chapter marker same as VSN/SL) works unmodified. `_extra` tags the
+  // shloka with which pseudo-chapter it came from, for bookmarks/rendering.
+  async function loadExtraChapter(id) {
+    if (extraChapterCache[id]) return extraChapterCache[id];
+    const cfg = C.GITA_EXTRA_CHAPTERS.find(e => e.id === id);
+    const r = await fetch(C[cfg.shlokasPath]);
+    const data = await r.json();
+    const shlokas = (data.shlokas || []).map(sh => ({ ...sh, s: sh.num, _extra: id }));
+    extraChapterCache[id] = shlokas;
+    return shlokas;
+  }
+
   async function ensureAllLoaded() {
     if (allShlokas.length) return;
     const idx = await loadIndex();
@@ -737,6 +758,17 @@ const Reader = (() => {
       pool.sort((a, b) => a.s - b.s);
       return;
     }
+    if (extraChapterMode) {
+      const shlokas = await loadExtraChapter(extraChapterMode);
+      if (bookmarksMode) {
+        const bms = getBookmarks();
+        pool = shlokas.filter(sh => bms.has(`${extraChapterMode}.${sh.s}`));
+      } else {
+        pool = [...shlokas];
+      }
+      pool.sort((a, b) => a.s - b.s);
+      return;
+    }
     if (keyVersesMode) {
       await ensureAllLoaded();
       pool = allShlokas.filter(sh => KEY_VERSE_IDS.has(`${sh.c}.${sh.s}`));
@@ -747,6 +779,12 @@ const Reader = (() => {
       await ensureAllLoaded();
       const bms = getBookmarks();
       pool = allShlokas.filter(sh => bms.has(`${sh.c}.${sh.s}`));
+      // Include bookmarked verses from the two pseudo-chapters too, since
+      // their bookmark ids ("dhyana.N"/"mahatyam.N") aren't in allShlokas.
+      for (const extra of C.GITA_EXTRA_CHAPTERS) {
+        const shlokas = await loadExtraChapter(extra.id);
+        pool.push(...shlokas.filter(sh => bms.has(`${extra.id}.${sh.s}`)));
+      }
       pool.sort((a, b) => a.c !== b.c ? a.c - b.c : a.s - b.s);
       return;
     }
@@ -909,7 +947,7 @@ const Reader = (() => {
     if (activeText !== 'gita') return;  // guard: user may have switched while loading
     if (myToken !== _chGridToken) return;  // guard: a newer buildChapterGrid() call superseded this one
     wrap.innerHTML = '';  // in case a superseded call already appended before we could check
-    const isNoneActive = selectedChs.size === 0 && !keyVersesMode && !bookmarksMode;
+    const isNoneActive = selectedChs.size === 0 && !keyVersesMode && !bookmarksMode && !extraChapterMode;
 
     const allBtn = document.createElement('button');
     allBtn.className = 'ch-btn all' + (isNoneActive ? ' active' : '');
@@ -917,6 +955,7 @@ const Reader = (() => {
     allBtn.addEventListener('click', () => {
       keyVersesMode = false;
       bookmarksMode = false;
+      extraChapterMode = null;
       selectedChs.clear();
       updateChBtnStates();
       hideChapterSummary();
@@ -931,7 +970,7 @@ const Reader = (() => {
     starBtn.title = window._uiLang === 'en' ? 'Key Verses' : 'ముఖ్య శ్లోకాలు';
     starBtn.addEventListener('click', () => {
       keyVersesMode = !keyVersesMode;
-      if (keyVersesMode) { bookmarksMode = false; selectedChs.clear(); hideChapterSummary(); }
+      if (keyVersesMode) { bookmarksMode = false; extraChapterMode = null; selectedChs.clear(); hideChapterSummary(); }
       updateChBtnStates();
       pickRandom();
     });
@@ -944,12 +983,40 @@ const Reader = (() => {
     bmFilterBtn.title = window._uiLang === 'en' ? 'Bookmarks' : 'నచ్చిన శ్లోకాలు';
     bmFilterBtn.addEventListener('click', async () => {
       bookmarksMode = !bookmarksMode;
-      if (bookmarksMode) { keyVersesMode = false; selectedChs.clear(); hideChapterSummary(); }
+      if (bookmarksMode) { keyVersesMode = false; extraChapterMode = null; selectedChs.clear(); hideChapterSummary(); }
       updateChBtnStates();
       if (bookmarksMode) activateBookmarksFilter();
       else pickRandom();
     });
     wrap.appendChild(bmFilterBtn);
+
+    // Extra pseudo-chapter chip (🙏 Dhyāna Ślokas / 📜 Geetha Māhātmyam).
+    // Not a real chapter number — clicking it loads its own JSON file as
+    // the pool, same UX as clicking a numbered chapter button.
+    function makeExtraChip(cfg) {
+      const btn = document.createElement('button');
+      btn.className = 'ch-btn ch-btn-extra' + (extraChapterMode === cfg.id ? ' active' : '');
+      const label = window._uiLang === 'en' ? cfg.label_en : cfg.label_te;
+      btn.textContent = `${cfg.icon} ${label}`;
+      btn.dataset.extra = cfg.id;
+      btn.title = label;
+      btn.addEventListener('click', async () => {
+        keyVersesMode = false;
+        bookmarksMode = false;
+        selectedChs.clear();
+        const wasSelected = extraChapterMode === cfg.id;
+        extraChapterMode = wasSelected ? null : cfg.id;
+        updateChBtnStates();
+        hideChapterSummary();
+        if (!wasSelected) {
+          const shlokas = await loadExtraChapter(cfg.id);
+          if (shlokas.length) { pool = shlokas; renderVerse(shlokas[0]); return; }
+        }
+        pickRandom();
+      });
+      return btn;
+    }
+    C.GITA_EXTRA_CHAPTERS.filter(c => c.position === 'before').forEach(cfg => wrap.appendChild(makeExtraChip(cfg)));
 
     for (const entry of idx.chapters) {
       const btn = document.createElement('button');
@@ -959,6 +1026,7 @@ const Reader = (() => {
       btn.addEventListener('click', async () => {
         keyVersesMode = false;
         bookmarksMode = false;
+        extraChapterMode = null;
         const wasSelected = selectedChs.has(entry.chapter);
         selectedChs.clear();
         if (!wasSelected) selectedChs.add(entry.chapter);
@@ -974,6 +1042,8 @@ const Reader = (() => {
       });
       wrap.appendChild(btn);
     }
+
+    C.GITA_EXTRA_CHAPTERS.filter(c => c.position === 'after').forEach(cfg => wrap.appendChild(makeExtraChip(cfg)));
   }
 
   // ── Chapter summary card ──────────────────────────────────────
@@ -1046,7 +1116,7 @@ const Reader = (() => {
   function updateChBtnStates() {
     const wrap = $('r-ch-wrap');
     if (!wrap) return;
-    const isNoneActive = selectedChs.size === 0 && !keyVersesMode && !bookmarksMode;
+    const isNoneActive = selectedChs.size === 0 && !keyVersesMode && !bookmarksMode && !extraChapterMode;
     const allBtn = wrap.querySelector('.ch-btn.all');
     if (allBtn) allBtn.classList.toggle('active', isNoneActive);
     wrap.querySelector('.ch-btn-star')?.classList.toggle('active', keyVersesMode);
@@ -1054,6 +1124,13 @@ const Reader = (() => {
     wrap.querySelectorAll('.ch-btn[data-ch]').forEach(btn => {
       btn.classList.toggle('active', selectedChs.has(Number(btn.dataset.ch)));
     });
+    wrap.querySelectorAll('.ch-btn[data-extra]').forEach(btn => {
+      btn.classList.toggle('active', extraChapterMode === btn.dataset.extra);
+    });
+    // Reading-progress badge and VOTD card only make sense for the 700
+    // real Gita verses, not the pseudo-chapters.
+    const pb = $('r-progress-badge'); if (pb) pb.hidden = !!extraChapterMode;
+    if (extraChapterMode) { const vc = $('r-votd-card'); if (vc) vc.hidden = true; }
   }
 
   // ── Verse rendering ───────────────────────────────────────────
@@ -1117,6 +1194,25 @@ const Reader = (() => {
         secBadge.textContent = grp.label;
         refEl.appendChild(secBadge);
       }
+    } else if (sh._extra) {
+      // Pseudo-chapter verse (dhyana/mahatyam) — no chapter number, so
+      // skip the sh.c-based badge/title below.
+      refEl.innerHTML = '';
+      const cfg = C.GITA_EXTRA_CHAPTERS.find(e => e.id === sh._extra);
+      const vBadge = document.createElement('span');
+      vBadge.className = 'badge badge-shloka';
+      vBadge.textContent = `${cfg ? cfg.icon : sh._extra} · ${sh.s}`;
+      refEl.appendChild(vBadge);
+
+      // Speaker is a plain {te,ro,sa} text object for these texts, unlike
+      // the enum-keyed speaker badges gita chapters use.
+      if (sh.speaker) {
+        const spBadge = document.createElement('span');
+        spBadge.className = 'ref-title';
+        const key = script === 'sa' ? 'sa' : script === 'ro' ? 'ro' : 'te';
+        spBadge.textContent = sh.speaker[key] || sh.speaker.ro || '';
+        refEl.appendChild(spBadge);
+      }
     } else {
       refEl.innerHTML = `
         <span class="badge badge-ch">${sh.c}</span>
@@ -1160,13 +1256,19 @@ const Reader = (() => {
 
     const verseEl = $('r-verse-text');
     verseEl.innerHTML = '';
-    ['p1','p2','p3','p4'].forEach(pk => {
+    // Pada count is usually 4 (p1-p4), but Geetha Māhātmyam verse 6 has
+    // 6 padas (p1-p6) — derive the actual keys instead of hardcoding.
+    const padaKeys = Object.keys(sh)
+      .filter(k => /^p\d+$/.test(k))
+      .sort((a, b) => parseInt(a.slice(1), 10) - parseInt(b.slice(1), 10));
+    padaKeys.forEach((pk, i) => {
       const span = document.createElement('span');
       span.className = 'verse-pada';
       let text = padaText(sh[pk], script);
       if (sh[pk] && sh[pk].cont) text += '-';
-      if (pk === 'p2') text += ' ।';
-      if (pk === 'p4') text += sh.c ? ` ॥ ${sh.c}.${sh.s} ॥` : ` ॥${sh.s}॥`;
+      const isLast = i === padaKeys.length - 1;
+      if (!isLast && (i + 1) % 2 === 0) text += ' ।';
+      if (isLast) text += sh.c ? ` ॥ ${sh.c}.${sh.s} ॥` : ` ॥${sh.s}॥`;
       span.textContent = text;
       verseEl.appendChild(span);
     });
@@ -1327,13 +1429,16 @@ const Reader = (() => {
     if (!m) { out.style.display = 'none'; return; }
 
     if (mtype === 'wbw') {
-      if (lang !== 'en') {
-        out.innerHTML = `<span class="meaning-empty wbw-note">పద×పదం అర్థం English లో మాత్రమే లభ్యం. / Word-by-word only available in English.</span>`;
-        out.style.display = '';
-        return;
-      }
-      if (!m.wbw || !m.wbw.length) {
-        out.innerHTML = `<span class="meaning-empty">${t('no_meaning')}</span>`;
+      // wbw usually lives at m.wbw (English-only, BG's original shape).
+      // Newer texts (dhyana-slokas, geetha-mahatyam) store it as a
+      // top-level sibling of `meaning`, keyed per language: sh.wbw[lang].
+      const wbwRows = (m.wbw && m.wbw.length) ? m.wbw
+                    : (sh.wbw && sh.wbw[lang] && sh.wbw[lang].length) ? sh.wbw[lang]
+                    : null;
+      if (!wbwRows) {
+        out.innerHTML = lang !== 'en'
+          ? `<span class="meaning-empty wbw-note">పద×పదం అర్థం English లో మాత్రమే లభ్యం. / Word-by-word only available in English.</span>`
+          : `<span class="meaning-empty">${t('no_meaning')}</span>`;
         out.style.display = '';
         return;
       }
@@ -1341,7 +1446,7 @@ const Reader = (() => {
       const table = document.createElement('table');
       table.className = 'wbw-table';
       table.innerHTML = `<tr><th>${uiLang === 'te' ? 'పదం' : 'Word'}</th><th>${uiLang === 'te' ? 'వ్యాకరణం' : 'Grammar'}</th><th>${uiLang === 'te' ? 'అర్థం' : 'Meaning'}</th></tr>`;
-      m.wbw.forEach(row => {
+      wbwRows.forEach(row => {
         const tr = document.createElement('tr');
         tr.innerHTML = `<td>${row.word}</td><td>${row.grammar}</td><td>${row.meaning}</td>`;
         table.appendChild(tr);
@@ -1394,7 +1499,7 @@ const Reader = (() => {
   }
 
   function saveLastVerse(sh) {
-    try { localStorage.setItem(LS_KEY, JSON.stringify({ text: activeText, ch: sh.c, s: sh.s })); } catch(e) {}
+    try { localStorage.setItem(LS_KEY, JSON.stringify({ text: activeText, ch: sh.c, s: sh.s, extra: sh._extra || null })); } catch(e) {}
     // Track reading progress (Gita only; 700 total)
     if (activeText === 'gita' && sh.c && sh.s) {
       try {
@@ -1474,6 +1579,14 @@ const Reader = (() => {
         const sel = $('r-text-select'); if (sel) sel.value = 'sl';
         buildChapterGrid();
         const shlokas = await loadSl();
+        const target = shlokas.find(x => x.s === saved.s);
+        if (target) { pool = shlokas; renderVerse(target); return true; }
+      } else if (saved.text === 'gita' && saved.extra && saved.s) {
+        activeText = 'gita';
+        extraChapterMode = saved.extra;
+        await buildChapterGrid();
+        updateChBtnStates();
+        const shlokas = await loadExtraChapter(saved.extra);
         const target = shlokas.find(x => x.s === saved.s);
         if (target) { pool = shlokas; renderVerse(target); return true; }
       } else if (saved.text === 'gita' && saved.ch && saved.s) {
@@ -1704,12 +1817,12 @@ const Reader = (() => {
       }
       if (activeText === 'vsn') {
         loadAndShowVsnVotd();
-      } else if (activeText === 'sl') {
+      } else if (activeText === 'sl' || extraChapterMode) {
         const vc = $('r-votd-card'); if (vc) vc.hidden = true;
       } else {
         loadAndShowVotd();
       }
-      const pb0 = $('r-progress-badge'); if (pb0) pb0.hidden = (activeText === 'vsn' || activeText === 'sl');
+      const pb0 = $('r-progress-badge'); if (pb0) pb0.hidden = (activeText === 'vsn' || activeText === 'sl' || !!extraChapterMode);
       checkGitaJayanti();
     });
 
