@@ -1,0 +1,957 @@
+{
+  "title": {
+    "te": "గీతా ధ్యానశ్లోకాః",
+    "en": "Gītā Dhyāna Ślokāḥ",
+    "sa": "गीता ध्यानश्लोकाः"
+  },
+  "shlokas": [
+    {
+      "p1": {
+        "te": "ఓం పార్థాయ ప్రతిబోధితాం భగవతా నారాయణేన స్వయం",
+        "ro": "Oṃ pārthāya pratibodhitāṃ bhagavatā nārāyaṇena svayaṃ",
+        "sa": "ॐ पार्थाय प्रतिबोधितां भगवता नारायणेन स्वयं"
+      },
+      "p2": {
+        "te": "వ్యాసేన గ్రథితాం పురాణమునినా మధ్యే మహాభారతమ్",
+        "ro": "Vyāsena grathitāṃ purāṇamuninā madhye mahābhāratam",
+        "sa": "व्यासेन ग्रथितां पुराणमुनिना मध्ये महाभारतम्"
+      },
+      "p3": {
+        "te": "అద్వైతామృతవర్షిణీం భగవతీమష్టాదశాధ్యాయినీమ్",
+        "ro": "Advaitāmṛtavarṣiṇīṃ bhagavatīmaṣṭādaśādhyāyinīm",
+        "sa": "अद्वैतामृतवर्षिणीं भगवतीमष्टादशाध्यायिनीम्"
+      },
+      "p4": {
+        "te": "అమ్బ త్వామనుసన్దధామి భగవద్గీతే భవద్వేషిణీమ్",
+        "ro": "Amba tvāmanusandadhāmi bhagavadgīte bhavadveṣiṇīm",
+        "sa": "अम्ब त्वामनुसन्दधामि भगवद्गीते भवद्वेषिणीम्"
+      },
+      "num": 1,
+      "meaning": {
+        "te": {
+          "short": "ఓ తల్లీ! పార్థుడికి సాక్షాత్తు నారాయణుడు బోధించి, వ్యాసమహర్షి మహాభారతం మధ్యలో గ్రంథస్థం చేసిన, అద్వైతామృతం కురిపించే పద్దెనిమిది అధ్యాయాల భగవద్గీతా! నిన్ను ధ్యానిస్తున్నాను — నీవు సంసార భయాన్ని పోగొట్టేదానివి.",
+          "long": "ఈ తొలి ధ్యానశ్లోకం భగవద్గీతను ఒక తల్లిదేవతగా, జగన్మాతగా భావించి నమస్కరిస్తుంది. గీత సాక్షాత్తు శ్రీకృష్ణభగవానుడు (నారాయణుడు) పార్థుడికి (అర్జునుడికి) బోధించినది; వ్యాసమహర్షి దానిని మహాభారత ఇతిహాసం మధ్యలో గ్రంథస్థం చేశాడు. ఇది అద్వైత తత్త్వామృతాన్ని వర్షించేది, పద్దెనిమిది అధ్యాయాలు కలది. గీతను 'భవద్వేషిణి' అని కీర్తించడం విశేషం — సంసారం (జనన మరణ చక్రం) పట్ల ద్వేషం చూపి దానిని పోగొట్టేది అని అర్థం."
+        },
+        "en": {
+          "short": "O Mother! I meditate upon you, the Bhagavad Gītā — awakened in Pārtha by Lord Nārāyaṇa Himself, compiled by sage Vyāsa in the midst of the Mahābhārata, showering the nectar of non-duality, in eighteen chapters, remover of the fear of worldly existence.",
+          "long": "This opening dhyāna-śloka salutes the Gītā itself as a mother-goddess. It was taught directly by the Lord (Nārāyaṇa) to Arjuna (Pārtha), and woven by the sage Vyāsa into the heart of the Mahābhārata epic. It rains the nectar of Advaita (non-dual) wisdom across eighteen chapters. Calling her 'bhavadveṣiṇī' — hostile to worldly bondage — captures her role as the dispeller of the fear of saṃsāra, the cycle of birth and death."
+        },
+        "sa": {
+          "short": "हे अम्ब! भगवता नारायणेन स्वयं पार्थाय उपदिष्टा, व्यासेन महाभारतमध्ये ग्रथिता, अद्वैतामृतवर्षिणी, अष्टादशाध्यायात्मिका भगवद्गीता त्वाम् अहम् अनुसन्दधामि, या भवभयनाशिनी अस्ति।",
+          "long": "अयं प्रथमो ध्यानश्लोकः गीतां जगन्मातृरूपेण नमस्करोति। साक्षात् भगवता कृष्णेन (नारायणेन) अर्जुनाय (पार्थाय) उपदिष्टा इयं गीता, व्यासमुनिना महाभारतस्य मध्ये ग्रथिता। अद्वैततत्त्वामृतं वर्षन्ती, अष्टादशाध्यायात्मिका च अस्ति। 'भवद्वेषिणी' इति सम्बोधनं संसारभयस्य नाशकत्वं सूचयति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "pārthāya", "grammar": "dat. sg.", "meaning": "to Pārtha (Arjuna)" },
+          { "word": "pratibodhitāṃ", "grammar": "past pple., acc.", "meaning": "awakened/taught" },
+          { "word": "bhagavatā nārāyaṇena", "grammar": "instr.", "meaning": "by the Lord Nārāyaṇa" },
+          { "word": "svayaṃ", "grammar": "adv.", "meaning": "Himself" },
+          { "word": "vyāsena", "grammar": "instr.", "meaning": "by Vyāsa" },
+          { "word": "grathitāṃ", "grammar": "past pple., acc.", "meaning": "compiled/woven" },
+          { "word": "purāṇamuninā", "grammar": "instr.", "meaning": "by the ancient sage" },
+          { "word": "madhye mahābhāratam", "grammar": "loc.", "meaning": "in the midst of the Mahābhārata" },
+          { "word": "advaitāmṛtavarṣiṇīṃ", "grammar": "acc.", "meaning": "showering the nectar of non-duality" },
+          { "word": "aṣṭādaśādhyāyinīm", "grammar": "acc.", "meaning": "having eighteen chapters" },
+          { "word": "amba", "grammar": "voc.", "meaning": "O Mother" },
+          { "word": "tvām anusandadhāmi", "grammar": "1st sg.", "meaning": "I meditate upon you" },
+          { "word": "bhagavadgīte", "grammar": "voc.", "meaning": "O Bhagavad Gītā" },
+          { "word": "bhavadveṣiṇīm", "grammar": "acc.", "meaning": "remover/enemy of worldly bondage" }
+        ],
+        "te": [
+          { "word": "పార్థాయ", "grammar": "dat. sg.", "meaning": "పార్థుడికి (అర్జునుడికి)" },
+          { "word": "ప్రతిబోధితాం", "grammar": "past pple., acc.", "meaning": "బాగా బోధించబడిన" },
+          { "word": "భగవతా నారాయణేన", "grammar": "instr.", "meaning": "సాక్షాత్తు భగవంతుడైన శ్రీమన్నారాయణునిచే" },
+          { "word": "స్వయం", "grammar": "adv.", "meaning": "స్వయంగా" },
+          { "word": "వ్యాసేన", "grammar": "instr.", "meaning": "వ్యాసమహర్షిచే" },
+          { "word": "గ్రథితాం", "grammar": "past pple., acc.", "meaning": "గ్రంథస్థం చేయబడిన" },
+          { "word": "పురాణమునినా", "grammar": "instr.", "meaning": "పురాతన మునిచే" },
+          { "word": "మధ్యే మహాభారతమ్", "grammar": "loc.", "meaning": "మహాభారతం మధ్యలో" },
+          { "word": "అద్వైతామృతవర్షిణీం", "grammar": "acc.", "meaning": "అద్వైతామృతాన్ని కురిపించేది" },
+          { "word": "అష్టాదశాధ్యాయినీమ్", "grammar": "acc.", "meaning": "పద్దెనిమిది అధ్యాయాలు కలది" },
+          { "word": "అమ్బ", "grammar": "voc.", "meaning": "ఓ తల్లీ" },
+          { "word": "త్వామనుసన్దధామి", "grammar": "1st sg.", "meaning": "నిన్ను ధ్యానిస్తున్నాను" },
+          { "word": "భగవద్గీతే", "grammar": "voc.", "meaning": "ఓ భగవద్గీతా" },
+          { "word": "భవద్వేషిణీమ్", "grammar": "acc.", "meaning": "సంసారభయాన్ని పోగొట్టేదానివి" }
+        ],
+        "sa": [
+          { "word": "पार्थाय", "grammar": "dat. sg.", "meaning": "पार्थाय (अर्जुनाय)" },
+          { "word": "प्रतिबोधितां", "grammar": "past pple., acc.", "meaning": "सम्यक् बोधितम्" },
+          { "word": "भगवता नारायणेन", "grammar": "instr.", "meaning": "साक्षात् भगवता श्रीमन्नारायणेन" },
+          { "word": "स्वयं", "grammar": "adv.", "meaning": "स्वयमेव" },
+          { "word": "व्यासेन", "grammar": "instr.", "meaning": "व्यासमुनिना" },
+          { "word": "ग्रथितां", "grammar": "past pple., acc.", "meaning": "ग्रन्थितम्" },
+          { "word": "पुराणमुनिना", "grammar": "instr.", "meaning": "प्राचीनमुनिना" },
+          { "word": "मध्ये महाभारतम्", "grammar": "loc.", "meaning": "महाभारतमध्ये" },
+          { "word": "अद्वैतामृतवर्षिणीं", "grammar": "acc.", "meaning": "अद्वैतामृतं वर्षन्तीम्" },
+          { "word": "अष्टादशाध्यायिनीम्", "grammar": "acc.", "meaning": "अष्टादशाध्यायात्मिकाम्" },
+          { "word": "अम्ब", "grammar": "voc.", "meaning": "हे मातः" },
+          { "word": "त्वामनुसन्दधामि", "grammar": "1st sg.", "meaning": "त्वां ध्यायामि" },
+          { "word": "भगवद्गीते", "grammar": "voc.", "meaning": "हे भगवद्गीते" },
+          { "word": "भवद्वेषिणीम्", "grammar": "acc.", "meaning": "संसारभयनाशिनीम्" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "నమోఽస్తుతే వ్యాసవిశాలబుద్ధే",
+        "ro": "Namo'stute vyāsaviśālabuddhe",
+        "sa": "नमोऽस्तुते व्यासविशालबुद्धे"
+      },
+      "p2": {
+        "te": "ఫుల్లారవిన్దాయతపత్రనేత్ర",
+        "ro": "Phullāravindāyatapatranetra",
+        "sa": "फुल्लारविन्दायतपत्रनेत्र"
+      },
+      "p3": {
+        "te": "యేన త్వయా భారతతైలపూర్ణః",
+        "ro": "Yena tvayā bhāratatailapūrṇaḥ",
+        "sa": "येन त्वया भारततैलपूर्णः"
+      },
+      "p4": {
+        "te": "ప్రజ్వాలితో జ్ఞానమయః ప్రదీపః",
+        "ro": "Prajvālito jñānamayaḥ pradīpaḥ",
+        "sa": "प्रज्वालितो ज्ञानमयः प्रदीपः"
+      },
+      "num": 2,
+      "meaning": {
+        "te": {
+          "short": "విశాలమైన బుద్ధి గల వ్యాసమహర్షికి నమస్కారం — వికసించిన తామరరేకుల వంటి కన్నులు గలవాడా! భారత తైలంతో నింపిన జ్ఞానదీపాన్ని వెలిగించినవాడు నీవే.",
+          "long": "ఈ శ్లోకం గీతను లోకానికి అందించిన వ్యాసమహర్షికి కృతజ్ఞతా నమస్కారం. వికసించిన కమలరేకుల వంటి విశాలనేత్రుడు, విస్తారమైన బుద్ధిశాలి అయిన వ్యాసుడు, మహాభారతమనే తైలంతో నింపిన జ్ఞానదీపాన్ని ప్రజ్వలింపజేశాడు — అంటే మహాభారత కథ ద్వారా జ్ఞానజ్యోతిని లోకానికి అందించాడు."
+        },
+        "en": {
+          "short": "Salutations to you, Vyāsa of vast intellect, whose eyes are like full-blown lotus petals — by you was lit the lamp of knowledge, filled with the oil of the Mahābhārata.",
+          "long": "This verse thanks sage Vyāsa, the compiler of the Gītā. Broad-eyed like an open lotus and vast of intellect, he kindled the lamp of wisdom, its oil being the great epic Mahābhārata itself — meaning he brought the light of knowledge to the world through that story."
+        },
+        "sa": {
+          "short": "हे व्यासविशालबुद्धे! फुल्लारविन्दायतपत्रनेत्र! तुभ्यं नमः, येन त्वया भारततैलपूर्णः ज्ञानमयः प्रदीपः प्रज्वालितः।",
+          "long": "अयं श्लोकः गीताप्रदात्रे व्यासमुनये कृतज्ञतानमस्कारः। विकसितकमलदलसदृशविशालनेत्रः, विशालबुद्धिः च व्यासः महाभारतरूपतैलेन पूर्णं ज्ञानदीपं प्रज्वालितवान् — अर्थात् महाभारतकथया जगते ज्ञानज्योतिः प्रदत्ता।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "namaḥ astu te", "grammar": "—", "meaning": "salutations be to you" },
+          { "word": "vyāsaviśālabuddhe", "grammar": "voc.", "meaning": "O Vyāsa of vast intellect" },
+          { "word": "phullāravindāyatapatranetra", "grammar": "voc.", "meaning": "O broad-eyed as a full-blown lotus petal" },
+          { "word": "yena tvayā", "grammar": "instr.", "meaning": "by whom, by you" },
+          { "word": "bhāratatailapūrṇaḥ", "grammar": "adj.", "meaning": "filled with the oil of the Mahābhārata" },
+          { "word": "prajvālitaḥ", "grammar": "past pple.", "meaning": "was lit ablaze" },
+          { "word": "jñānamayaḥ pradīpaḥ", "grammar": "nom.", "meaning": "the lamp made of knowledge" }
+        ],
+        "te": [
+          { "word": "నమోఽస్తుతే", "grammar": "—", "meaning": "నీకు నమస్కారం అగుగాక" },
+          { "word": "వ్యాసవిశాలబుద్ధే", "grammar": "voc.", "meaning": "ఓ వ్యాసా, విశాలమైన బుద్ధి కలవాడా" },
+          { "word": "ఫుల్లారవిన్దాయతపత్రనేత్ర", "grammar": "voc.", "meaning": "వికసించిన తామరరేకుల వంటి కన్నులు గలవాడా" },
+          { "word": "యేన త్వయా", "grammar": "instr.", "meaning": "ఎవరిచేతనైతే నీచేత" },
+          { "word": "భారతతైలపూర్ణః", "grammar": "adj.", "meaning": "భారత తైలంతో నిండిన" },
+          { "word": "ప్రజ్వాలితః", "grammar": "past pple.", "meaning": "వెలిగించబడినది" },
+          { "word": "జ్ఞానమయః ప్రదీపః", "grammar": "nom.", "meaning": "జ్ఞానమయమైన దీపము" }
+        ],
+        "sa": [
+          { "word": "नमोऽस्तुते", "grammar": "—", "meaning": "नमः तुभ्यम् अस्तु" },
+          { "word": "व्यासविशालबुद्धे", "grammar": "voc.", "meaning": "हे व्यास, विशालबुद्धे" },
+          { "word": "फुल्लारविन्दायतपत्रनेत्र", "grammar": "voc.", "meaning": "विकसितकमलदलसदृशनेत्र" },
+          { "word": "येन त्वया", "grammar": "instr.", "meaning": "येन त्वया" },
+          { "word": "भारततैलपूर्णः", "grammar": "adj.", "meaning": "भारततैलेन पूर्णः" },
+          { "word": "प्रज्वालितः", "grammar": "past pple.", "meaning": "प्रज्वालितः" },
+          { "word": "ज्ञानमयः प्रदीपः", "grammar": "nom.", "meaning": "ज्ञानमयः प्रदीपः" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "ప్రపన్నపారిజాతాయ",
+        "ro": "Prapannapārijātāya",
+        "sa": "प्रपन्नपारिजाताय"
+      },
+      "p2": {
+        "te": "తోత్రవేత్రైకపాణయే",
+        "ro": "Totravetraikapāṇaye",
+        "sa": "तोत्रवेत्रैकपाणये"
+      },
+      "p3": {
+        "te": "జ్ఞానముద్రాయ కృష్ణాయ",
+        "ro": "Jñānamudrāya kṛṣṇāya",
+        "sa": "ज्ञानमुद्राय कृष्णाय"
+      },
+      "p4": {
+        "te": "గీతామృతదుహే నమః",
+        "ro": "Gītāmṛtaduhe namaḥ",
+        "sa": "गीतामृतदुहे नमः"
+      },
+      "num": 3,
+      "meaning": {
+        "te": {
+          "short": "ఆశ్రయించినవారికి కల్పవృక్షం వంటివాడు, చేతిలో అంకుశం ధరించినవాడు, జ్ఞానముద్ర కలవాడు, గీతామృతాన్ని పితికే శ్రీకృష్ణునికి నమస్కారం.",
+          "long": "ఈ చిన్న శ్లోకం శ్రీకృష్ణుని నాలుగు విశేషణాలతో స్తుతిస్తుంది — శరణాగతులకు కల్పవృక్షం (పారిజాతం) వంటివాడు; గోపాలుని చేతిలో ఉండే అంకుశం/కర్ర ధరించినవాడు; జ్ఞానాన్ని బోధించే ముద్రను చూపేవాడు; గీత అనే అమృతాన్ని పితికి లోకానికి అందించేవాడు."
+        },
+        "en": {
+          "short": "Salutations to Kṛṣṇa — the wish-fulfilling Pārijāta tree to those who take refuge in Him, holder of the goad in one hand, bearer of the gesture of knowledge, the milker of the nectar of the Gītā.",
+          "long": "A compact verse of praise: Kṛṣṇa is like the celestial Pārijāta tree, granting every wish to those who surrender to Him; He holds the cowherd's goad/staff in one hand; His other hand shows the jñāna-mudrā, the gesture of teaching wisdom; and He is the one who 'milks' the nectar of the Gītā for the world's benefit."
+        },
+        "sa": {
+          "short": "प्रपन्नानां पारिजाताय, तोत्रवेत्रैकपाणये, ज्ञानमुद्राय कृष्णाय, गीतामृतदुहे नमः।",
+          "long": "अयं संक्षिप्तश्लोकः कृष्णं चतुर्भिः विशेषणैः स्तौति — शरणागतानां कल्पवृक्षसदृशः; एकहस्ते तोत्रं (गोपालदण्डम्) धारयन्; ज्ञानमुद्रां दर्शयन्; गीतारूपामृतं दोग्धा च।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "prapannapārijātāya", "grammar": "dat.", "meaning": "to the wish-tree for those who take refuge" },
+          { "word": "totravetraikapāṇaye", "grammar": "dat.", "meaning": "to the one with a goad/staff in one hand" },
+          { "word": "jñānamudrāya", "grammar": "dat.", "meaning": "to the one bearing the knowledge-gesture" },
+          { "word": "kṛṣṇāya", "grammar": "dat.", "meaning": "to Kṛṣṇa" },
+          { "word": "gītāmṛtaduhe", "grammar": "dat.", "meaning": "to the milker of the Gītā's nectar" },
+          { "word": "namaḥ", "grammar": "—", "meaning": "salutations" }
+        ],
+        "te": [
+          { "word": "ప్రపన్నపారిజాతాయ", "grammar": "dat.", "meaning": "శరణాగతులకు కల్పవృక్షం వంటివానికి" },
+          { "word": "తోత్రవేత్రైకపాణయే", "grammar": "dat.", "meaning": "చేతిలో అంకుశం ధరించినవానికి" },
+          { "word": "జ్ఞానముద్రాయ", "grammar": "dat.", "meaning": "జ్ఞానముద్ర కలవానికి" },
+          { "word": "కృష్ణాయ", "grammar": "dat.", "meaning": "శ్రీకృష్ణునికి" },
+          { "word": "గీతామృతదుహే", "grammar": "dat.", "meaning": "గీతామృతాన్ని పితికేవానికి" },
+          { "word": "నమః", "grammar": "—", "meaning": "నమస్కారము" }
+        ],
+        "sa": [
+          { "word": "प्रपन्नपारिजाताय", "grammar": "dat.", "meaning": "शरणागतानां कल्पवृक्षाय" },
+          { "word": "तोत्रवेत्रैकपाणये", "grammar": "dat.", "meaning": "एकहस्ते तोत्रं धारयते" },
+          { "word": "ज्ञानमुद्राय", "grammar": "dat.", "meaning": "ज्ञानमुद्रावते" },
+          { "word": "कृष्णाय", "grammar": "dat.", "meaning": "कृष्णाय" },
+          { "word": "गीतामृतदुहे", "grammar": "dat.", "meaning": "गीतामृतस्य दोग्ध्रे" },
+          { "word": "नमः", "grammar": "—", "meaning": "नमः" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "వసుదేవసుతం దేవం",
+        "ro": "Vasudevasutaṃ devaṃ",
+        "sa": "वसुदेवसुतं देवं"
+      },
+      "p2": {
+        "te": "కంసచాణూరమర్దనమ్",
+        "ro": "Kaṃsacāṇūramardanam",
+        "sa": "कंसचाणूरमर्दनम्"
+      },
+      "p3": {
+        "te": "దేవకీపరమానన్దం",
+        "ro": "Devakīparamānandaṃ",
+        "sa": "देवकीपरमानन्दं"
+      },
+      "p4": {
+        "te": "కృష్ణం వన్దే జగద్గురుమ్",
+        "ro": "Kṛṣṇaṃ vande jagadgurum",
+        "sa": "कृष्णं वन्दे जगद्गुरुम्"
+      },
+      "num": 4,
+      "meaning": {
+        "te": {
+          "short": "వసుదేవుని కుమారుడు, కంస చాణూరులను సంహరించినవాడు, దేవకికి పరమానందం కలిగించినవాడు, జగద్గురువు అయిన శ్రీకృష్ణ భగవానునికి నమస్కారం.",
+          "long": "ఈ శ్లోకం శ్రీకృష్ణుని పుట్టుక, వీరత్వం, గురుత్వాన్ని కీర్తిస్తుంది — వసుదేవుని కుమారుడిగా జన్మించి, కంసుడు-చాణూరుడు అనే దుష్టులను సంహరించి, తల్లి దేవకికి పరమానందాన్ని కలిగించి, చివరకు జగత్తుకే గురువైనవాడు కృష్ణుడు."
+        },
+        "en": {
+          "short": "I salute Kṛṣṇa — son of Vasudeva, destroyer of Kaṃsa and Cāṇūra, the supreme joy of Devakī, the teacher of the universe.",
+          "long": "This verse honors Kṛṣṇa's birth and greatness in four strokes: born as the son of Vasudeva, He slew the tyrant Kaṃsa and the wrestler Cāṇūra, brought supreme bliss to His mother Devakī, and ultimately became jagadguru — the teacher of the entire universe, through the Gītā."
+        },
+        "sa": {
+          "short": "वसुदेवसुतं देवं कंसचाणूरमर्दनम्, देवकीपरमानन्दं कृष्णं जगद्गुरुं वन्दे।",
+          "long": "अयं श्लोकः कृष्णस्य जन्म, पराक्रमं, गुरुत्वं च कीर्तयति — वसुदेवस्य पुत्रत्वेन जातः, कंसचाणूरयोः मर्दकः, देवक्याः परमानन्दकारकः, अन्ततः जगद्गुरुः इति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "vasudevasutaṃ", "grammar": "acc.", "meaning": "son of Vasudeva" },
+          { "word": "devaṃ", "grammar": "acc.", "meaning": "the Lord" },
+          { "word": "kaṃsacāṇūramardanam", "grammar": "acc.", "meaning": "destroyer of Kaṃsa and Cāṇūra" },
+          { "word": "devakīparamānandaṃ", "grammar": "acc.", "meaning": "the supreme bliss of Devakī" },
+          { "word": "kṛṣṇaṃ", "grammar": "acc.", "meaning": "Kṛṣṇa" },
+          { "word": "vande", "grammar": "1st sg.", "meaning": "I salute" },
+          { "word": "jagadgurum", "grammar": "acc.", "meaning": "teacher of the universe" }
+        ],
+        "te": [
+          { "word": "వసుదేవసుతం", "grammar": "acc.", "meaning": "వసుదేవుని కుమారుడు" },
+          { "word": "దేవం", "grammar": "acc.", "meaning": "దేవుడు" },
+          { "word": "కంసచాణూరమర్దనమ్", "grammar": "acc.", "meaning": "కంస చాణూరులను సంహరించినవాడు" },
+          { "word": "దేవకీపరమానన్దం", "grammar": "acc.", "meaning": "దేవకికి పరమానందం కలిగించినవాడు" },
+          { "word": "కృష్ణం", "grammar": "acc.", "meaning": "కృష్ణుని" },
+          { "word": "వన్దే", "grammar": "1st sg.", "meaning": "నమస్కరిస్తున్నాను" },
+          { "word": "జగద్గురుమ్", "grammar": "acc.", "meaning": "జగద్గురువు" }
+        ],
+        "sa": [
+          { "word": "वसुदेवसुतं", "grammar": "acc.", "meaning": "वसुदेवस्य पुत्रम्" },
+          { "word": "देवं", "grammar": "acc.", "meaning": "देवम्" },
+          { "word": "कंसचाणूरमर्दनम्", "grammar": "acc.", "meaning": "कंसचाणूरयोः मर्दकम्" },
+          { "word": "देवकीपरमानन्दं", "grammar": "acc.", "meaning": "देवक्याः परमानन्दकारकम्" },
+          { "word": "कृष्णं", "grammar": "acc.", "meaning": "कृष्णम्" },
+          { "word": "वन्दे", "grammar": "1st sg.", "meaning": "वन्दे" },
+          { "word": "जगद्गुरुम्", "grammar": "acc.", "meaning": "जगद्गुरुम्" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "భీష్మద్రోణతటా జయద్రథజలా గాన్ధారనీలోత్పలా",
+        "ro": "Bhīṣmadroṇataṭā jayadrathajalā gāndhāranīlotpalā",
+        "sa": "भीष्मद्रोणतटा जयद्रथजला गान्धारनीलोत्पला"
+      },
+      "p2": {
+        "te": "శల్యగ్రాహవతీ కృపేణ వహనీ కర్ణేన వేలాకులా",
+        "ro": "Śalyagrāhavatī kṛpeṇa vahanī karṇena velākulā",
+        "sa": "शल्यग्राहवती कृपेण वहनी कर्णेन वेलाकुला"
+      },
+      "p3": {
+        "te": "అశ్వత్థామవికర్ణఘోరమకరా దుర్యోధనావర్తినీ",
+        "ro": "Aśvatthāmavikarṇaghoramakarā duryodhanāvartinī",
+        "sa": "अश्वत्थामविकर्णघोरमकरा दुर्योधनावर्तिनी"
+      },
+      "p4": {
+        "te": "సోత్తీర్ణా ఖలు పాణ్డవై రణనదీ కైవర్తకః కేశవః",
+        "ro": "Sottīrṇā khalu pāṇḍavai raṇanadī kaivartakaḥ keśavaḥ",
+        "sa": "सोत्तीर्णा खलु पाण्डवै रणनदी कैवर्तकः केशवः"
+      },
+      "num": 5,
+      "meaning": {
+        "te": {
+          "short": "భీష్మద్రోణులు ఒడ్డులుగా, జయద్రథుడు నీరుగా, గాంధార రాజు నీలకమలాలుగా, శల్యుడు మొసలిగా, కర్ణుడు అలలుగా, అశ్వత్థామ-వికర్ణులు భయంకర మొసళ్లుగా, దుర్యోధనుడు సుడిగుండంగా ఉన్న ఈ రణనదిని పాండవులు దాటారు — కేశవుడే ఆ నావికుడు (కైవర్తకుడు).",
+          "long": "మహాభారత యుద్ధాన్ని ఒక భయంకరమైన నదిగా అభివర్ణించే అద్భుత రూపక శ్లోకమిది. భీష్మ-ద్రోణులు నదికి ఒడ్డులు; జయద్రథుడు నీటి ప్రవాహం; గాంధార రాజు (శకుని) నీలికమలాలు; శల్యుడు మొసలి; కృపాచార్యుని ధైర్యం ప్రవాహవేగం; కర్ణుడు కల్లోల అలలు; అశ్వత్థామ-వికర్ణులు భయంకర మొసళ్లు; దుర్యోధనుని మొండితనం సుడిగుండం — ఇంతటి భయానక రణనదిని పాండవులు దాటగలిగారు, ఎందుకంటే కేశవుడే (శ్రీకృష్ణుడే) ఆ నావను నడిపిన నావికుడు (కైవర్తకుడు) కాబట్టి."
+        },
+        "en": {
+          "short": "Bhīṣma and Droṇa its banks, Jayadratha its waters, the king of Gāndhāra its blue lotuses, Śalya its crocodile, Karṇa its waves, Aśvatthāmā and Vikarṇa its terrible sharks, Duryodhana its whirlpool — this river of battle was crossed by the Pāṇḍavas, with Keśava as the ferryman.",
+          "long": "A celebrated extended metaphor: the Mahābhārata war is pictured as a fearsome river. Bhīṣma and Droṇa form its banks; Jayadratha is its current; the Gāndhāra king (Śakuni) its blue lotuses; Śalya its crocodile; Kṛpa's steadiness its flow; Karṇa its churning waves; Aśvatthāmā and Vikarṇa its dreadful crocodiles; Duryodhana's obstinacy its whirlpool. Yet the Pāṇḍavas crossed this terrifying river of war safely — because Keśava (Kṛṣṇa) Himself was their ferryman."
+        },
+        "sa": {
+          "short": "भीष्मद्रोणतटा जयद्रथजला गान्धारनीलोत्पला शल्यग्राहवती कर्णवेलाकुला अश्वत्थामविकर्णघोरमकरा दुर्योधनावर्तिनी एषा रणनदी पाण्डवैः तीर्णा, कैवर्तकः केशवः आसीत्।",
+          "long": "अयं प्रसिद्धः रूपकश्लोकः महाभारतयुद्धं भयानकनदीरूपेण वर्णयति — भीष्मद्रोणौ तटौ, जयद्रथः जलम्, गान्धारराजः नीलकमलानि, शल्यः ग्राहः, कर्णः तरङ्गाः, अश्वत्थामविकर्णौ घोरमकरौ, दुर्योधनः आवर्तः। एतां भयङ्करीं रणनदीं पाण्डवाः सुखेन तेरुः, यतः केशवः एव नाविकः (कैवर्तकः) आसीत्।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "bhīṣmadroṇataṭā", "grammar": "nom. f.", "meaning": "having Bhīṣma and Droṇa as its banks" },
+          { "word": "jayadrathajalā", "grammar": "nom. f.", "meaning": "having Jayadratha as its water" },
+          { "word": "gāndhāranīlotpalā", "grammar": "nom. f.", "meaning": "having the Gāndhāra king as blue lotuses" },
+          { "word": "śalyagrāhavatī", "grammar": "nom. f.", "meaning": "having Śalya as its crocodile" },
+          { "word": "kṛpeṇa vahanī", "grammar": "—", "meaning": "flowing by Kṛpa's steadiness" },
+          { "word": "karṇena velākulā", "grammar": "—", "meaning": "turbulent with Karṇa's waves" },
+          { "word": "aśvatthāmavikarṇaghoramakarā", "grammar": "nom. f.", "meaning": "having Aśvatthāmā and Vikarṇa as terrible crocodiles" },
+          { "word": "duryodhanāvartinī", "grammar": "nom. f.", "meaning": "having Duryodhana as its whirlpool" },
+          { "word": "sottīrṇā", "grammar": "past pple.", "meaning": "was well crossed" },
+          { "word": "khalu pāṇḍavaiḥ", "grammar": "instr.", "meaning": "indeed by the Pāṇḍavas" },
+          { "word": "raṇanadī", "grammar": "nom.", "meaning": "the river of battle" },
+          { "word": "kaivartakaḥ keśavaḥ", "grammar": "nom.", "meaning": "Keśava [was] the boatman" }
+        ],
+        "te": [
+          { "word": "భీష్మద్రోణతటా", "grammar": "nom. f.", "meaning": "భీష్మద్రోణులు ఒడ్డులుగా కలది" },
+          { "word": "జయద్రథజలా", "grammar": "nom. f.", "meaning": "జయద్రథుడు నీరుగా కలది" },
+          { "word": "గాన్ధారనీలోత్పలా", "grammar": "nom. f.", "meaning": "గాంధార రాజు నీలకమలాలుగా కలది" },
+          { "word": "శల్యగ్రాహవతీ", "grammar": "nom. f.", "meaning": "శల్యుడు మొసలిగా కలది" },
+          { "word": "కృపేణ వహనీ", "grammar": "—", "meaning": "కృపాచార్యుని ధైర్యంతో ప్రవహించేది" },
+          { "word": "కర్ణేన వేలాకులా", "grammar": "—", "meaning": "కర్ణుడి వలన అలలతో కల్లోలమైనది" },
+          { "word": "అశ్వత్థామవికర్ణఘోరమకరా", "grammar": "nom. f.", "meaning": "అశ్వత్థామ-వికర్ణులు భయంకర మొసళ్లుగా కలది" },
+          { "word": "దుర్యోధనావర్తినీ", "grammar": "nom. f.", "meaning": "దుర్యోధనుడు సుడిగుండంగా కలది" },
+          { "word": "సోత్తీర్ణా", "grammar": "past pple.", "meaning": "చక్కగా దాటబడినది" },
+          { "word": "ఖలు పాణ్డవై", "grammar": "instr.", "meaning": "నిజంగా పాండవులచే" },
+          { "word": "రణనదీ", "grammar": "nom.", "meaning": "రణనది" },
+          { "word": "కైవర్తకః కేశవః", "grammar": "nom.", "meaning": "కైవర్తకుడు (నావికుడు) కేశవుడే" }
+        ],
+        "sa": [
+          { "word": "भीष्मद्रोणतटा", "grammar": "nom. f.", "meaning": "भीष्मद्रोणौ तटत्वेन यस्याः सा" },
+          { "word": "जयद्रथजला", "grammar": "nom. f.", "meaning": "जयद्रथः जलत्वेन यस्याः सा" },
+          { "word": "गान्धारनीलोत्पला", "grammar": "nom. f.", "meaning": "गान्धारराजः नीलकमलत्वेन यस्याः सा" },
+          { "word": "शल्यग्राहवती", "grammar": "nom. f.", "meaning": "शल्यः ग्राहत्वेन यस्याः सा" },
+          { "word": "कृपेण वहनी", "grammar": "—", "meaning": "कृपस्य धैर्येण प्रवहन्ती" },
+          { "word": "कर्णेन वेलाकुला", "grammar": "—", "meaning": "कर्णेन तरङ्गाकुला" },
+          { "word": "अश्वत्थामविकर्णघोरमकरा", "grammar": "nom. f.", "meaning": "अश्वत्थामविकर्णौ घोरमकरत्वेन यस्याः सा" },
+          { "word": "दुर्योधनावर्तिनी", "grammar": "nom. f.", "meaning": "दुर्योधनः आवर्तत्वेन यस्याः सा" },
+          { "word": "सोत्तीर्णा", "grammar": "past pple.", "meaning": "सम्यक् तीर्णा" },
+          { "word": "खलु पाण्डवैः", "grammar": "instr.", "meaning": "वस्तुतः पाण्डवैः" },
+          { "word": "रणनदी", "grammar": "nom.", "meaning": "युद्धनदी" },
+          { "word": "कैवर्तकः केशवः", "grammar": "nom.", "meaning": "नाविकः केशवः एव" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "పారాశర్యవచస్సరోజమమలం గీతార్థగన్ధోత్కటం",
+        "ro": "Pārāśaryavacassarojamamalaṃ gītārthagandhotkaṭaṃ",
+        "sa": "पाराशर्यवचस्सरोजममलं गीतार्थगन्धोत्कटं"
+      },
+      "p2": {
+        "te": "నానాఖ్యానకకేసరం హరికథా సమ్బోధనాబోధితమ్",
+        "ro": "Nānākhyānakakesaraṃ harikathā sambodhanābodhitam",
+        "sa": "नानाख्यानककेसरं हरिकथा सम्बोधनाबोधितम्"
+      },
+      "p3": {
+        "te": "లోకే సజ్జనషట్పదైరహరహః పేపీయమానం ముదా",
+        "ro": "Loke sajjanaṣaṭpadairaharahaḥ pepīyamānaṃ mudā",
+        "sa": "लोके सज्जनषट्पदैरहरहः पेपीयमानं मुदा"
+      },
+      "p4": {
+        "te": "భూయాద్భారతపఙ్కజం కలిమలప్రధ్వంసినః శ్రేయసే",
+        "ro": "Bhūyādbhāratapaṅkajaṃ kalimalapradhvaṃsinaḥ śreyase",
+        "sa": "भूयाद्भारतपङ्कजं कलिमलप्रध्वंसिनः श्रेयसे"
+      },
+      "num": 6,
+      "meaning": {
+        "te": {
+          "short": "వ్యాసవచనమనే నిర్మలమైన కమలం — గీతార్థపరిమళంతో నిండి, పలు కథలే దాని కేసరాలు, హరికథలచే వికసించినది — సజ్జనులనే తుమ్మెదలచే నిత్యం ఆనందంగా గ్రోలబడేదిగా, కలిమలాన్ని నశింపజేసేదిగా ఉండుగాక.",
+          "long": "ఈ శ్లోకం మహాభారతాన్నే ఒక పరిమళభరిత కమలంగా వర్ణిస్తుంది. పరాశరుని పుత్రుడైన వ్యాసుని వాక్కు (మహాభారతం) నిర్మలమైన కమలం వంటిది; గీతార్థమనే పరిమళంతో గుబాళిస్తుంది; అందులోని అనేకానేక ఉపాఖ్యానాలే దాని కేసరాలు (కేసరతంతువులు); హరికథలు వినడం ద్వారా వికసించేది. సజ్జనులనే తుమ్మెదలు దీన్ని నిత్యం ఆనందంగా గ్రోలుతూ ఉండుగాక — ఇది కలియుగ దోషాలను నశింపజేసి, శ్రేయస్సును చేకూర్చుగాక."
+        },
+        "en": {
+          "short": "May this spotless lotus of Vyāsa's words — fragrant with the meaning of the Gītā, its filaments the many tales, blossomed by the stories of Hari — be joyfully savored daily by the bees of noble people, for the destruction of Kali's impurities and the world's welfare.",
+          "long": "Here the entire Mahābhārata is pictured as a fragrant lotus. Vyāsa's speech (son of Parāśara) is the spotless lotus itself, intense with the fragrance of the Gītā's meaning; its many sub-narratives (ākhyānas) are its filaments; it blooms through the telling of Hari's stories. May this lotus be drunk in daily, with joy, by noble people who are likened to bees — and may that bring about the destruction of the impurities of the Kali age, for everyone's ultimate welfare."
+        },
+        "sa": {
+          "short": "पाराशर्यवचःसरोजम् अमलं गीतार्थगन्धोत्कटं नानाख्यानककेसरं हरिकथासम्बोधनाबोधितम् — लोके सज्जनषट्पदैः अहरहः मुदा पेपीयमानं भारतपङ्कजं कलिमलप्रध्वंसिनः श्रेयसे भूयात्।",
+          "long": "अत्र सम्पूर्णं महाभारतं सुगन्धिकमलरूपेण वर्ण्यते। पराशरपुत्रस्य व्यासस्य वचः (महाभारतम्) अमलं सरोजम् एव, गीतार्थगन्धेन उत्कटम्; तस्य बहवः उपाख्यानाः एव केसराः; हरिकथाश्रवणेन विकसितम्। सज्जनरूपषट्पदैः नित्यम् आनन्देन पीयमानम् इदं पङ्कजं कलियुगदोषान् नाशयतु, सर्वेषां श्रेयसे भवतु।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "pārāśaryavacaḥ", "grammar": "nom.", "meaning": "the speech of Parāśara's son (Vyāsa)" },
+          { "word": "sarojam amalaṃ", "grammar": "nom.", "meaning": "the spotless lotus" },
+          { "word": "gītārthagandhotkaṭaṃ", "grammar": "adj.", "meaning": "intense with the fragrance of the Gītā's meaning" },
+          { "word": "nānākhyānakakesaraṃ", "grammar": "adj.", "meaning": "having many tales as its filaments" },
+          { "word": "harikathā sambodhanābodhitam", "grammar": "—", "meaning": "awakened by the telling of Hari's stories" },
+          { "word": "loke sajjanaṣaṭpadaiḥ", "grammar": "instr.", "meaning": "by noble people [as] bees, in this world" },
+          { "word": "aharahaḥ pepīyamānaṃ mudā", "grammar": "—", "meaning": "drunk daily with joy" },
+          { "word": "bhūyāt bhāratapaṅkajaṃ", "grammar": "opt.", "meaning": "may this lotus of the Bhārata be" },
+          { "word": "kalimalapradhvaṃsinaḥ śreyase", "grammar": "dat.", "meaning": "for the welfare of the destroyer of Kali's impurities" }
+        ],
+        "te": [
+          { "word": "పారాశర్యవచః", "grammar": "nom.", "meaning": "పరాశరుని పుత్రుడైన వ్యాసుని వాక్కు" },
+          { "word": "సరోజమమలం", "grammar": "nom.", "meaning": "నిర్మలమైన కమలం" },
+          { "word": "గీతార్థగన్ధోత్కటం", "grammar": "adj.", "meaning": "గీతార్థపరిమళంతో నిండినది" },
+          { "word": "నానాఖ్యానకకేసరం", "grammar": "adj.", "meaning": "అనేక కథలే కేసరాలుగా కలది" },
+          { "word": "హరికథా సమ్బోధనాబోధితమ్", "grammar": "—", "meaning": "హరికథలచే వికసింపజేయబడినది" },
+          { "word": "లోకే సజ్జనషట్పదైః", "grammar": "instr.", "meaning": "లోకంలో సజ్జనులనే తుమ్మెదలచే" },
+          { "word": "అహరహః పేపీయమానం ముదా", "grammar": "—", "meaning": "నిత్యం ఆనందంగా గ్రోలబడేది" },
+          { "word": "భూయాద్భారతపఙ్కజం", "grammar": "opt.", "meaning": "భారతమనే కమలం అగుగాక" },
+          { "word": "కలిమలప్రధ్వంసినః శ్రేయసే", "grammar": "dat.", "meaning": "కలిమలాన్ని నశింపజేసేదానికి, శ్రేయస్సు కొరకు" }
+        ],
+        "sa": [
+          { "word": "पाराशर्यवचः", "grammar": "nom.", "meaning": "पराशरपुत्रस्य व्यासस्य वचनम्" },
+          { "word": "सरोजममलं", "grammar": "nom.", "meaning": "अमलं सरोजम्" },
+          { "word": "गीतार्थगन्धोत्कटं", "grammar": "adj.", "meaning": "गीतार्थगन्धेन उत्कटम्" },
+          { "word": "नानाख्यानककेसरं", "grammar": "adj.", "meaning": "बहुभिः आख्यानैः केसरयुक्तम्" },
+          { "word": "हरिकथासम्बोधनाबोधितम्", "grammar": "—", "meaning": "हरिकथाश्रवणेन विकसितम्" },
+          { "word": "लोके सज्जनषट्पदैः", "grammar": "instr.", "meaning": "लोके सज्जनरूपषट्पदैः" },
+          { "word": "अहरहः पेपीयमानं मुदा", "grammar": "—", "meaning": "नित्यम् आनन्देन पीयमानम्" },
+          { "word": "भूयाद्भारतपङ्कजं", "grammar": "opt.", "meaning": "भारतपङ्कजं भवतु" },
+          { "word": "कलिमलप्रध्वंसिनः श्रेयसे", "grammar": "dat.", "meaning": "कलिमलनाशकस्य श्रेयसे" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "మూకం కరోతి వాచాలం",
+        "ro": "Mūkaṃ karoti vācālaṃ",
+        "sa": "मूकं करोति वाचालं"
+      },
+      "p2": {
+        "te": "పఙ్గుం లఙ్ఘయతే గిరిమ్",
+        "ro": "Paṅguṃ laṅghayate girim",
+        "sa": "पङ्गुं लङ्घयते गिरिम्"
+      },
+      "p3": {
+        "te": "యత్కృపా తమహం వన్దే",
+        "ro": "Yatkṛpā tamahaṃ vande",
+        "sa": "यत्कृपा तमहं वन्दे"
+      },
+      "p4": {
+        "te": "పరమానన్దమాధవమ్",
+        "ro": "Paramānandamādhavam",
+        "sa": "परमानन्दमाधवम्"
+      },
+      "num": 7,
+      "meaning": {
+        "te": {
+          "short": "మూగవాడిని మాటకారిగా, కుంటివాడిని కొండలు దాటించే మాధవుని కృపకు నమస్కారం — ఆ పరమానంద మాధవుని నేను వందిస్తున్నాను.",
+          "long": "ఇది భగవంతుని అనుగ్రహ శక్తిని కీర్తించే చిన్న, శక్తివంతమైన శ్లోకం. ఆయన కృప మూగవాడిని మాటకారిగా చేస్తుంది, కుంటివాడిని కొండలు దాటించగలదు — అంటే అసాధ్యాన్ని సుసాధ్యం చేసే శక్తి. అటువంటి కృపాకటాక్షం గల పరమానంద మాధవుని (శ్రీకృష్ణుని) నేను నమస్కరిస్తున్నాను."
+        },
+        "en": {
+          "short": "I salute Mādhava of supreme bliss, by whose grace the mute becomes eloquent and the lame crosses mountains.",
+          "long": "A short but powerful verse celebrating divine grace: it can turn a mute person into an eloquent speaker and enable the lame to cross mountains — grace that makes the impossible possible. It is that supremely blissful Mādhava (Kṛṣṇa), possessing such compassion, whom this verse salutes."
+        },
+        "sa": {
+          "short": "यत्कृपया मूकः वाचालो भवति, पङ्गुः गिरिं लङ्घयते, तं परमानन्दमाधवम् अहं वन्दे।",
+          "long": "अयं लघुः परं प्रभावशाली श्लोकः भगवतः कृपाशक्तिं कीर्तयति — तस्य कृपया मूकः वाचालः भवति, पङ्गुः च पर्वतम् अपि लङ्घयते, अर्थात् असाध्यम् अपि साध्यं करोति। तादृशकृपासम्पन्नं परमानन्दस्वरूपं माधवं (कृष्णं) वन्दे।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "mūkaṃ", "grammar": "acc.", "meaning": "the mute one" },
+          { "word": "karoti vācālaṃ", "grammar": "—", "meaning": "makes eloquent" },
+          { "word": "paṅguṃ", "grammar": "acc.", "meaning": "the lame one" },
+          { "word": "laṅghayate girim", "grammar": "—", "meaning": "makes cross a mountain" },
+          { "word": "yatkṛpā", "grammar": "—", "meaning": "by whose grace" },
+          { "word": "tam ahaṃ vande", "grammar": "1st sg.", "meaning": "I salute him" },
+          { "word": "paramānandamādhavam", "grammar": "acc.", "meaning": "Mādhava of supreme bliss" }
+        ],
+        "te": [
+          { "word": "మూకం", "grammar": "acc.", "meaning": "మూగవానిని" },
+          { "word": "కరోతి వాచాలం", "grammar": "—", "meaning": "మాటకారిగా చేస్తుంది" },
+          { "word": "పఙ్గుం", "grammar": "acc.", "meaning": "కుంటివానిని" },
+          { "word": "లఙ్ఘయతే గిరిమ్", "grammar": "—", "meaning": "కొండలు దాటించగలదు" },
+          { "word": "యత్కృపా", "grammar": "—", "meaning": "ఎవరి కృపవలననైతే" },
+          { "word": "తమహం వన్దే", "grammar": "1st sg.", "meaning": "అతనిని నేను నమస్కరిస్తున్నాను" },
+          { "word": "పరమానన్దమాధవమ్", "grammar": "acc.", "meaning": "పరమానంద మాధవుని" }
+        ],
+        "sa": [
+          { "word": "मूकं", "grammar": "acc.", "meaning": "मूकम्" },
+          { "word": "करोति वाचालं", "grammar": "—", "meaning": "वाचालं करोति" },
+          { "word": "पङ्गुं", "grammar": "acc.", "meaning": "पङ्गुम्" },
+          { "word": "लङ्घयते गिरिम्", "grammar": "—", "meaning": "गिरिं लङ्घयते" },
+          { "word": "यत्कृपा", "grammar": "—", "meaning": "यस्य कृपया" },
+          { "word": "तमहं वन्दे", "grammar": "1st sg.", "meaning": "तम् अहं वन्दे" },
+          { "word": "परमानन्दमाधवम्", "grammar": "acc.", "meaning": "परमानन्दस्वरूपं माधवम्" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "శాన్తాకారం భుజగశయనం పద్మనాభం సురేశం",
+        "ro": "Śāntākāraṃ bhujagaśayanaṃ padmanābhaṃ sureśaṃ",
+        "sa": "शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं"
+      },
+      "p2": {
+        "te": "విశ్వాధారం గగనసదృశం మేఘవర్ణం శుభాఙ్గమ్",
+        "ro": "Viśvādhāraṃ gaganasadṛśaṃ meghavarṇaṃ śubhāṅgam",
+        "sa": "विश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम्"
+      },
+      "p3": {
+        "te": "లక్ష్మీకాన్తం కమలనయనం యోగిహృద్ధ్యానగమ్యం",
+        "ro": "Lakṣmīkāntaṃ kamalanayanaṃ yogihṛddhyānagamyaṃ",
+        "sa": "लक्ष्मीकान्तं कमलनयनं योगिहृद्ध्यानगम्यं"
+      },
+      "p4": {
+        "te": "వన్దే విష్ణుం భవభయహరం సర్వలోకైకనాథమ్",
+        "ro": "Vande viṣṇuṃ bhavabhayaharaṃ sarvalokaikanātham",
+        "sa": "वन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम्"
+      },
+      "num": 8,
+      "meaning": {
+        "te": {
+          "short": "శాంతమూర్తి, ఆదిశేషునిపై శయనించినవాడు, పద్మనాభుడు, దేవదేవుడు, విశ్వాధారుడు, ఆకాశం వంటివాడు, మేఘవర్ణుడు, శుభాంగుడు, లక్ష్మీకాంతుడు, కమలనయనుడు, యోగుల హృదయధ్యానగమ్యుడు అయిన విష్ణువుకు నమస్కారం — సంసారభయహరుడు, సర్వలోకైకనాథుడు.",
+          "long": "ఇది విష్ణుమూర్తిని కీర్తించే అత్యంత ప్రసిద్ధమైన శ్లోకం (సాధారణంగా విష్ణుస్తుతిగా వేరుగా కూడా పఠించబడేది), గీతాధ్యానంలో కూడా చేర్చబడింది. శాంతమైన రూపం, శేషశయనుడు, నాభిలో పద్మం కలవాడు, దేవతలకు ప్రభువు, విశ్వానికి ఆధారం, ఆకాశం వలె సర్వవ్యాపి, మేఘం వంటి నీలవర్ణం, శుభమైన అవయవాలు, లక్ష్మీదేవికి ప్రియుడు, కమలాల వంటి కన్నులు, యోగుల హృదయాంతరంగంలో ధ్యానం ద్వారా మాత్రమే చేరదగినవాడు — అటువంటి విష్ణువుకు నమస్కారం, ఆయనే సంసారభయాన్ని పోగొట్టేవాడు, సర్వలోకాలకూ ఏకైక నాథుడు."
+        },
+        "en": {
+          "short": "I salute Viṣṇu — of peaceful form, reclining on the serpent-couch, lotus-naveled, lord of the gods, support of the universe, sky-like, cloud-hued, of auspicious limbs, beloved of Lakṣmī, lotus-eyed, attainable through yogis' meditation, remover of the fear of worldly existence, sole lord of all worlds.",
+          "long": "One of the most celebrated verses in the entire Vaiṣṇava tradition (often recited independently), included here as part of the Gītā dhyāna. It describes Viṣṇu's peaceful form reclining on Śeṣa, the lotus at His navel, His lordship over the gods, His role as the support of the universe, sky-like in pervasiveness, cloud-dark in hue, of auspicious form, beloved of Lakṣmī, lotus-eyed, reachable only through the meditation of yogis' hearts — the one who removes the fear of worldly bondage, sole lord of all the worlds."
+        },
+        "sa": {
+          "short": "शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं विश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम्। लक्ष्मीकान्तं कमलनयनं योगिहृद्ध्यानगम्यं वन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम्॥",
+          "long": "अयं वैष्णवसम्प्रदाये अतिप्रसिद्धः श्लोकः (स्वतन्त्रतया अपि पठ्यते), गीताध्याने अपि समाविष्टः। शान्तं रूपम्, शेषशायी, नाभौ पद्मयुक्तः, देवानाम् ईशः, विश्वस्य आधारः, आकाशवत् व्यापकः, मेघवर्णः, शुभाङ्गः, लक्ष्म्याः प्रियः, कमलनेत्रः, योगिनां हृदयध्याने एव लभ्यः — तं विष्णुं वन्दे, यः संसारभयनाशकः, सर्वलोकानाम् एकः नाथः च।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "śāntākāraṃ", "grammar": "acc.", "meaning": "of peaceful form" },
+          { "word": "bhujagaśayanaṃ", "grammar": "acc.", "meaning": "reclining on the serpent" },
+          { "word": "padmanābhaṃ", "grammar": "acc.", "meaning": "lotus-naveled" },
+          { "word": "sureśaṃ", "grammar": "acc.", "meaning": "lord of the gods" },
+          { "word": "viśvādhāraṃ", "grammar": "acc.", "meaning": "support of the universe" },
+          { "word": "gaganasadṛśaṃ", "grammar": "acc.", "meaning": "like the sky" },
+          { "word": "meghavarṇaṃ", "grammar": "acc.", "meaning": "cloud-hued" },
+          { "word": "śubhāṅgam", "grammar": "acc.", "meaning": "of auspicious limbs" },
+          { "word": "lakṣmīkāntaṃ", "grammar": "acc.", "meaning": "beloved of Lakṣmī" },
+          { "word": "kamalanayanaṃ", "grammar": "acc.", "meaning": "lotus-eyed" },
+          { "word": "yogihṛddhyānagamyaṃ", "grammar": "acc.", "meaning": "attainable by yogis' heart-meditation" },
+          { "word": "vande viṣṇuṃ", "grammar": "1st sg.", "meaning": "I salute Viṣṇu" },
+          { "word": "bhavabhayaharaṃ", "grammar": "acc.", "meaning": "remover of the fear of worldly existence" },
+          { "word": "sarvalokaikanātham", "grammar": "acc.", "meaning": "sole lord of all worlds" }
+        ],
+        "te": [
+          { "word": "శాన్తాకారం", "grammar": "acc.", "meaning": "శాంతమైన రూపము కలవాడు" },
+          { "word": "భుజగశయనం", "grammar": "acc.", "meaning": "ఆదిశేషునిపై శయనించినవాడు" },
+          { "word": "పద్మనాభం", "grammar": "acc.", "meaning": "నాభిలో పద్మం కలవాడు" },
+          { "word": "సురేశం", "grammar": "acc.", "meaning": "దేవతలకు ప్రభువు" },
+          { "word": "విశ్వాధారం", "grammar": "acc.", "meaning": "విశ్వానికి ఆధారమైనవాడు" },
+          { "word": "గగనసదృశం", "grammar": "acc.", "meaning": "ఆకాశం వంటివాడు" },
+          { "word": "మేఘవర్ణం", "grammar": "acc.", "meaning": "మేఘవర్ణం కలవాడు" },
+          { "word": "శుభాఙ్గమ్", "grammar": "acc.", "meaning": "శుభమైన అవయవాలు కలవాడు" },
+          { "word": "లక్ష్మీకాన్తం", "grammar": "acc.", "meaning": "లక్ష్మీదేవికి ప్రియుడు" },
+          { "word": "కమలనయనం", "grammar": "acc.", "meaning": "కమలాల వంటి కన్నులు కలవాడు" },
+          { "word": "యోగిహృద్ధ్యానగమ్యం", "grammar": "acc.", "meaning": "యోగుల హృదయధ్యానానికి అందుబాటులో ఉండేవాడు" },
+          { "word": "వన్దే విష్ణుం", "grammar": "1st sg.", "meaning": "విష్ణువుకు నమస్కరిస్తున్నాను" },
+          { "word": "భవభయహరం", "grammar": "acc.", "meaning": "సంసారభయాన్ని పోగొట్టేవాడు" },
+          { "word": "సర్వలోకైకనాథమ్", "grammar": "acc.", "meaning": "సర్వలోకాలకు ఏకైక నాథుడు" }
+        ],
+        "sa": [
+          { "word": "शान्ताकारं", "grammar": "acc.", "meaning": "शान्तं रूपं यस्य सः" },
+          { "word": "भुजगशयनं", "grammar": "acc.", "meaning": "शेषशायी" },
+          { "word": "पद्मनाभं", "grammar": "acc.", "meaning": "नाभौ पद्मयुक्तः" },
+          { "word": "सुरेशं", "grammar": "acc.", "meaning": "देवानाम् ईशः" },
+          { "word": "विश्वाधारं", "grammar": "acc.", "meaning": "विश्वस्य आधारः" },
+          { "word": "गगनसदृशं", "grammar": "acc.", "meaning": "आकाशसदृशः" },
+          { "word": "मेघवर्णं", "grammar": "acc.", "meaning": "मेघवर्णः" },
+          { "word": "शुभाङ्गम्", "grammar": "acc.", "meaning": "शुभाङ्गः" },
+          { "word": "लक्ष्मीकान्तं", "grammar": "acc.", "meaning": "लक्ष्म्याः कान्तः" },
+          { "word": "कमलनयनं", "grammar": "acc.", "meaning": "कमलनयनः" },
+          { "word": "योगिहृद्ध्यानगम्यं", "grammar": "acc.", "meaning": "योगिनां हृदयध्याने गम्यः" },
+          { "word": "वन्दे विष्णुं", "grammar": "1st sg.", "meaning": "विष्णुं वन्दे" },
+          { "word": "भवभयहरं", "grammar": "acc.", "meaning": "भवभयहरः" },
+          { "word": "सर्वलोकैकनाथम्", "grammar": "acc.", "meaning": "सर्वलोकानाम् एकः नाथः" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "యం బ్రహ్మావరుణేన్ద్రరుద్రమరుతః స్తున్వన్తి దివ్యైః స్తవైః",
+        "ro": "Yaṃ brahmāvaruṇendrarudramarutaḥ stunvanti divyaiḥ stavaiḥ",
+        "sa": "यं ब्रह्मावरुणेन्द्ररुद्रमरुतः स्तुन्वन्ति दिव्यैः स्तवैः"
+      },
+      "p2": {
+        "te": "వేదైః సాఙ్గపదక్రమోపనిషదైః గాయన్తి యం సామగాః",
+        "ro": "Vedaiḥ sāṅgapadakramopaniṣadaiḥ gāyanti yaṃ sāmagāḥ",
+        "sa": "वेदैः साङ्गपदक्रमोपनिषदैः गायन्ति यं सामगाः"
+      },
+      "p3": {
+        "te": "ధ్యానావస్థిత తద్గతేన మనసా పశ్యన్తి యం యోగినః",
+        "ro": "Dhyānāvasthita tadgatena manasā paśyanti yaṃ yoginaḥ",
+        "sa": "ध्यानावस्थित तद्गतेन मनसा पश्यन्ति यं योगिनः"
+      },
+      "p4": {
+        "te": "యస్యాన్తం న విదుస్సురాసురగణాః దేవాయ తస్మై నమః",
+        "ro": "Yasyāntaṃ na vidussurāsuragaṇāḥ devāya tasmai namaḥ",
+        "sa": "यस्यान्तं न विदुस्सुरासुरगणाः देवाय तस्मै नमः"
+      },
+      "num": 9,
+      "meaning": {
+        "te": {
+          "short": "బ్రహ్మ-వరుణ-ఇంద్ర-రుద్ర-మరుత్తులు దివ్యస్తోత్రాలతో స్తుతించే, సామగానికులు వేదాంగ-పద-క్రమ-ఉపనిషత్తులతో గానం చేసే, యోగులు ధ్యానంలో మనసుతో దర్శించే, దేవదానవులకైనా అంతం తెలియని ఆ దేవునికి నమస్కారం.",
+          "long": "ఈ శ్లోకం భగవంతుని అనంతత్వాన్ని, అగమ్యతను కీర్తిస్తుంది. బ్రహ్మ, వరుణుడు, ఇంద్రుడు, రుద్రుడు, మరుత్తులు వంటి దేవతలు దివ్యస్తోత్రాలతో ఆయనను స్తుతిస్తారు; సామవేదగాయకులు వేదాంగాలు, పదపాఠం, క్రమపాఠం, ఉపనిషత్తులతో సహా వేదాలను గానం చేస్తూ ఆయనను కీర్తిస్తారు; యోగులు ధ్యానావస్థలో మనసును ఆయనయందు లగ్నం చేసి దర్శిస్తారు; అయినప్పటికీ దేవతలకైనా రాక్షసులకైనా ఆయన అంతం (పరిమితి) తెలియదు — అటువంటి పరమాత్మకు నమస్కారం."
+        },
+        "en": {
+          "short": "Salutations to that God whom Brahmā, Varuṇa, Indra, Rudra, and the Maruts praise with divine hymns, whom the Sāma-singers chant through the Vedas with their ancillary texts, whom yogis behold in meditation with minds fixed upon Him, and whose end even gods and demons do not know.",
+          "long": "This verse extols the Lord's infinitude and unfathomability. Great gods like Brahmā, Varuṇa, Indra, Rudra, and the Maruts praise Him with celestial hymns; singers of the Sāma-Veda glorify Him through the Vedas together with their auxiliary limbs, word-texts, sequence-texts, and Upaniṣads; yogis, established in meditation, perceive Him with minds wholly absorbed in Him — yet even the gods and demons cannot fathom His limits. To that Supreme Being, salutations."
+        },
+        "sa": {
+          "short": "यं ब्रह्मावरुणेन्द्ररुद्रमरुतः दिव्यैः स्तवैः स्तुवन्ति, वेदैः साङ्गपदक्रमोपनिषदैः सामगाः गायन्ति, ध्यानावस्थिताः योगिनः मनसा पश्यन्ति, यस्य अन्तं सुरासुरगणाः न विदुः, तस्मै देवाय नमः।",
+          "long": "अयं श्लोकः भगवतः अनन्तत्वम्, अगम्यत्वं च कीर्तयति। ब्रह्मवरुणेन्द्ररुद्रमरुतः दिव्यस्तवैः तं स्तुवन्ति; सामगायकाः साङ्गपदक्रमोपनिषद्भिः वेदैः तं गायन्ति; ध्यानावस्थिताः योगिनः तद्गतमनसा तं पश्यन्ति; तथापि सुरासुरगणाः अपि यस्य अन्तं न जानन्ति — तस्मै परमात्मने नमः।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "yaṃ brahmāvaruṇendrarudramarutaḥ", "grammar": "acc./nom.", "meaning": "whom Brahmā, Varuṇa, Indra, Rudra, and the Maruts" },
+          { "word": "stunvanti divyaiḥ stavaiḥ", "grammar": "—", "meaning": "praise with divine hymns" },
+          { "word": "vedaiḥ sāṅgapadakramopaniṣadaiḥ", "grammar": "instr.", "meaning": "through the Vedas with ancillary texts, word- and sequence-recitation, and Upaniṣads" },
+          { "word": "gāyanti yaṃ sāmagāḥ", "grammar": "—", "meaning": "whom the Sāma-singers chant" },
+          { "word": "dhyānāvasthita tadgatena manasā", "grammar": "instr.", "meaning": "with a mind fixed on Him in meditation" },
+          { "word": "paśyanti yaṃ yoginaḥ", "grammar": "—", "meaning": "whom the yogis behold" },
+          { "word": "yasyāntaṃ na viduḥ surāsuragaṇāḥ", "grammar": "—", "meaning": "whose end the hosts of gods and demons do not know" },
+          { "word": "devāya tasmai namaḥ", "grammar": "dat.", "meaning": "salutations to that God" }
+        ],
+        "te": [
+          { "word": "యం బ్రహ్మావరుణేన్ద్రరుద్రమరుతః", "grammar": "acc./nom.", "meaning": "బ్రహ్మ-వరుణ-ఇంద్ర-రుద్ర-మరుత్తులు ఎవరిని" },
+          { "word": "స్తున్వన్తి దివ్యైః స్తవైః", "grammar": "—", "meaning": "దివ్యస్తోత్రాలతో స్తుతిస్తారో" },
+          { "word": "వేదైః సాఙ్గపదక్రమోపనిషదైః", "grammar": "instr.", "meaning": "వేదాంగ-పద-క్రమ-ఉపనిషత్తులతో కూడిన వేదాలతో" },
+          { "word": "గాయన్తి యం సామగాః", "grammar": "—", "meaning": "సామగాయకులు ఎవరిని గానం చేస్తారో" },
+          { "word": "ధ్యానావస్థిత తద్గతేన మనసా", "grammar": "instr.", "meaning": "ధ్యానావస్థలో తన్మయమైన మనసుతో" },
+          { "word": "పశ్యన్తి యం యోగినః", "grammar": "—", "meaning": "యోగులు ఎవరిని దర్శిస్తారో" },
+          { "word": "యస్యాన్తం న విదుస్సురాసురగణాః", "grammar": "—", "meaning": "ఎవరి అంతం దేవదానవగణాలకైనా తెలియదో" },
+          { "word": "దేవాయ తస్మై నమః", "grammar": "dat.", "meaning": "ఆ దేవునికి నమస్కారం" }
+        ],
+        "sa": [
+          { "word": "यं ब्रह्मावरुणेन्द्ररुद्रमरुतः", "grammar": "acc./nom.", "meaning": "यं ब्रह्मवरुणेन्द्ररुद्रमरुतः" },
+          { "word": "स्तुन्वन्ति दिव्यैः स्तवैः", "grammar": "—", "meaning": "दिव्यैः स्तवैः स्तुवन्ति" },
+          { "word": "वेदैः साङ्गपदक्रमोपनिषदैः", "grammar": "instr.", "meaning": "साङ्गपदक्रमोपनिषद्भिः वेदैः" },
+          { "word": "गायन्ति यं सामगाः", "grammar": "—", "meaning": "सामगायकाः यं गायन्ति" },
+          { "word": "ध्यानावस्थित तद्गतेन मनसा", "grammar": "instr.", "meaning": "ध्यानावस्थितेन तद्गतेन मनसा" },
+          { "word": "पश्यन्ति यं योगिनः", "grammar": "—", "meaning": "योगिनः यं पश्यन्ति" },
+          { "word": "यस्यान्तं न विदुस्सुरासुरगणाः", "grammar": "—", "meaning": "यस्य अन्तं सुरासुरगणाः अपि न जानन्ति" },
+          { "word": "देवाय तस्मै नमः", "grammar": "dat.", "meaning": "तस्मै देवाय नमः" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "నారాయణం నమస్కృత్యం",
+        "ro": "Nārāyaṇaṃ namaskṛtyaṃ",
+        "sa": "नारायणं नमस्कृत्यं"
+      },
+      "p2": {
+        "te": "నరం చైవ నరోత్తమమ్",
+        "ro": "Naraṃ caiva narottamam",
+        "sa": "नरं चैव नरोत्तमम्"
+      },
+      "p3": {
+        "te": "దేవీం సరస్వతీం వ్యాసం",
+        "ro": "Devīṃ sarasvatīṃ vyāsaṃ",
+        "sa": "देवीं सरस्वतीं व्यासं"
+      },
+      "p4": {
+        "te": "తతో జయముదీరయేత్",
+        "ro": "Tato jayamudīrayet",
+        "sa": "ततो जयमुदीरयेत्"
+      },
+      "num": 10,
+      "meaning": {
+        "te": {
+          "short": "నారాయణుడికి, నరులలో శ్రేష్ఠుడైన నరునికి (అర్జునుడికి), సరస్వతీదేవికి నమస్కరించి, ఆపై జయమును (భారతమును) ప్రారంభించాలి.",
+          "long": "గీత లేదా భారత పారాయణం ప్రారంభించే ముందు పాటించవలసిన సంప్రదాయిక క్రమాన్ని ఈ శ్లోకం తెలియజేస్తుంది — ముందుగా నారాయణుడికి, తరువాత నరశ్రేష్ఠుడైన అర్జునుడికి, తరువాత విద్యాదేవత సరస్వతికి నమస్కరించి, ఆ తరువాతే 'జయము' అనే మరో పేరుగల మహాభారత గ్రంథ పఠనాన్ని ప్రారంభించాలి."
+        },
+        "en": {
+          "short": "Having saluted Nārāyaṇa, and Nara, the best among men, and the goddess Sarasvatī, one should then commence the recitation of Jaya (the Mahābhārata).",
+          "long": "This verse prescribes the traditional order of salutation before beginning recitation of the epic: first to Nārāyaṇa (Kṛṣṇa), then to Nara — Arjuna, foremost among men — and then to Goddess Sarasvatī, patroness of learning. Only after these three salutations should one proceed to recite 'Jaya,' another name for the Mahābhārata."
+        },
+        "sa": {
+          "short": "नारायणं नमस्कृत्य नरं चैव नरोत्तमम्। देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥",
+          "long": "अयं श्लोकः गीतापाठात्/भारतपाठात् पूर्वं पालनीयं परम्परागतक्रमं सूचयति — प्रथमं नारायणाय, ततः नरोत्तमाय अर्जुनाय, ततः विद्यादेवतायै सरस्वत्यै नमस्कृत्य, तदनन्तरम् एव 'जय' नामकं महाभारतग्रन्थं पठेत्।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "nārāyaṇaṃ namaskṛtya", "grammar": "gerund", "meaning": "having saluted Nārāyaṇa" },
+          { "word": "naraṃ caiva narottamam", "grammar": "acc.", "meaning": "and also Nara, the best of men" },
+          { "word": "devīṃ sarasvatīṃ", "grammar": "acc.", "meaning": "the goddess Sarasvatī" },
+          { "word": "vyāsaṃ", "grammar": "acc.", "meaning": "[and] Vyāsa" },
+          { "word": "tato jayam udīrayet", "grammar": "opt.", "meaning": "then one should proclaim/recite Jaya" }
+        ],
+        "te": [
+          { "word": "నారాయణం నమస్కృత్యం", "grammar": "gerund", "meaning": "నారాయణుడికి నమస్కరించి" },
+          { "word": "నరం చైవ నరోత్తమమ్", "grammar": "acc.", "meaning": "నరులలో శ్రేష్ఠుడైన నరునికి కూడా" },
+          { "word": "దేవీం సరస్వతీం", "grammar": "acc.", "meaning": "సరస్వతీదేవికి" },
+          { "word": "వ్యాసం", "grammar": "acc.", "meaning": "వ్యాసునికి" },
+          { "word": "తతో జయముదీరయేత్", "grammar": "opt.", "meaning": "ఆపై జయమును ప్రారంభించాలి" }
+        ],
+        "sa": [
+          { "word": "नारायणं नमस्कृत्यं", "grammar": "gerund", "meaning": "नारायणं नमस्कृत्य" },
+          { "word": "नरं चैव नरोत्तमम्", "grammar": "acc.", "meaning": "नरं च नरोत्तमम् अपि" },
+          { "word": "देवीं सरस्वतीं", "grammar": "acc.", "meaning": "देवीं सरस्वतीम्" },
+          { "word": "व्यासं", "grammar": "acc.", "meaning": "व्यासम्" },
+          { "word": "ततो जयमुदीरयेत्", "grammar": "opt.", "meaning": "ततः जयं पठेत्" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "సచ్చిదానన్దరూపాయ",
+        "ro": "Saccidānandarūpāya",
+        "sa": "सच्चिदानन्दरूपाय"
+      },
+      "p2": {
+        "te": "కృష్ణాయాక్లిష్టకారిణే",
+        "ro": "Kṛṣṇāyākliṣṭakāriṇe",
+        "sa": "कृष्णायाक्लिष्टकारिणे"
+      },
+      "p3": {
+        "te": "నమో వేదాన్తవేద్యాయ",
+        "ro": "Namo vedāntavedyāya",
+        "sa": "नमो वेदान्तवेद्याय"
+      },
+      "p4": {
+        "te": "గురవే బుద్ధిసాక్షిణే",
+        "ro": "Gurave buddhisākṣiṇe",
+        "sa": "गुरवे बुद्धिसाक्षिणे"
+      },
+      "num": 11,
+      "meaning": {
+        "te": {
+          "short": "సచ్చిదానంద స్వరూపుడు, నిర్మల కర్తగా వ్యవహరించేవాడు, వేదాంతం ద్వారా తెలియదగినవాడు, బుద్ధికి సాక్షి అయిన గురువు కృష్ణునికి నమస్కారం.",
+          "long": "ఈ శ్లోకం శ్రీకృష్ణుని తాత్విక స్వరూపాన్ని కీర్తిస్తుంది — సత్-చిత్-ఆనందముల (ఉనికి-చైతన్యం-ఆనందం) సమ్మేళనమే ఆయన స్వరూపం; ఆయన చేసే కర్మలు ఏ దోషమూ అంటనివి (అక్లిష్టకారి); వేదాంతశాస్త్రం ద్వారా మాత్రమే తెలియదగినవాడు; బుద్ధికి సాక్షిగా ఉండే గురుస్వరూపుడు — అటువంటి కృష్ణునికి నమస్కారం."
+        },
+        "en": {
+          "short": "Salutations to Kṛṣṇa — of the form of existence-consciousness-bliss, whose actions bring no affliction, knowable through Vedānta, the teacher who is the witness of the intellect.",
+          "long": "This verse praises Kṛṣṇa's philosophical nature: His very form is sat-chit-ānanda — being, consciousness, and bliss fused as one; His actions, though performed, cause no bondage or affliction; He is knowable only through the teaching of Vedānta; and He is the guru who silently witnesses the workings of the intellect. Salutations to that Kṛṣṇa."
+        },
+        "sa": {
+          "short": "सच्चिदानन्दरूपाय कृष्णायाक्लिष्टकारिणे। नमो वेदान्तवेद्याय गुरवे बुद्धिसाक्षिणे॥",
+          "long": "अयं श्लोकः कृष्णस्य तात्त्विकस्वरूपं कीर्तयति — सच्चिदानन्दस्वरूपः, अक्लिष्टकर्मकारी, वेदान्तेन एव ज्ञेयः, बुद्धेः साक्षिभूतः गुरुः च। तस्मै कृष्णाय नमः।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "saccidānandarūpāya", "grammar": "dat.", "meaning": "to the one of existence-consciousness-bliss form" },
+          { "word": "kṛṣṇāya akliṣṭakāriṇe", "grammar": "dat.", "meaning": "to Kṛṣṇa, whose actions cause no affliction" },
+          { "word": "namo vedāntavedyāya", "grammar": "dat.", "meaning": "salutations to the one knowable through Vedānta" },
+          { "word": "gurave buddhisākṣiṇe", "grammar": "dat.", "meaning": "to the teacher who is witness of the intellect" }
+        ],
+        "te": [
+          { "word": "సచ్చిదానన్దరూపాయ", "grammar": "dat.", "meaning": "సచ్చిదానంద స్వరూపుడైనవానికి" },
+          { "word": "కృష్ణాయాక్లిష్టకారిణే", "grammar": "dat.", "meaning": "దోషరహిత కర్మలు చేసే కృష్ణునికి" },
+          { "word": "నమో వేదాన్తవేద్యాయ", "grammar": "dat.", "meaning": "వేదాంతం ద్వారా తెలియదగినవానికి నమస్కారం" },
+          { "word": "గురవే బుద్ధిసాక్షిణే", "grammar": "dat.", "meaning": "బుద్ధికి సాక్షి అయిన గురువుకు" }
+        ],
+        "sa": [
+          { "word": "सच्चिदानन्दरूपाय", "grammar": "dat.", "meaning": "सच्चिदानन्दस्वरूपाय" },
+          { "word": "कृष्णायाक्लिष्टकारिणे", "grammar": "dat.", "meaning": "अक्लिष्टकर्मकारिणे कृष्णाय" },
+          { "word": "नमो वेदान्तवेद्याय", "grammar": "dat.", "meaning": "वेदान्तेन ज्ञेयाय नमः" },
+          { "word": "गुरवे बुद्धिसाक्षिणे", "grammar": "dat.", "meaning": "बुद्धेः साक्षिभूताय गुरवे" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "సర్వోపనిషదో గావః",
+        "ro": "Sarvopaniṣado gāvaḥ",
+        "sa": "सर्वोपनिषदो गावः"
+      },
+      "p2": {
+        "te": "దోగ్ధా గోపాలనన్దనః",
+        "ro": "Dogdhā gopālanandanaḥ",
+        "sa": "दोग्धा गोपालनन्दनः"
+      },
+      "p3": {
+        "te": "పార్థో వత్సః సుధీర్భోక్తా",
+        "ro": "Pārtho vatsaḥ sudhīrbhoktā",
+        "sa": "पार्थो वत्सः सुधीर्भोक्ता"
+      },
+      "p4": {
+        "te": "దుగ్ధం గీతామృతం మహత్",
+        "ro": "Dugdhaṃ gītāmṛtaṃ mahat",
+        "sa": "दुग्धं गीतामृतं महत्"
+      },
+      "num": 12,
+      "meaning": {
+        "te": {
+          "short": "ఉపనిషత్తులన్నీ ఆవులు, గోపాలనందనుడైన శ్రీకృష్ణుడే పితికేవాడు, పార్థుడు దూడ, సుధీరులు (జ్ఞానులు) దానిని త్రాగేవారు — గీతామృతమే ఆ గొప్ప పాలు.",
+          "long": "ఈ అందమైన రూపకశ్లోకం గీతను ఆవుపాలుగా వర్ణిస్తుంది — సర్వోపనిషత్తులే ఆవులు; గోపాలనందనుడైన శ్రీకృష్ణుడు (గోపాలుని కుమారుడు కావడం ఈ రూపకానికి మరింత సొగసునిచ్చే యాదృచ్ఛికత) పితికేవాడు; అర్జునుడు (పార్థుడు) దూడ, ఎందుకంటే అర్జునుడి ప్రశ్నల వలననే గీతోపదేశం జరిగింది; ధీరులైన జ్ఞానులు ఆ పాలను త్రాగేవారు; ఆ మహత్తరమైన పాలే గీతామృతం."
+        },
+        "en": {
+          "short": "All the Upaniṣads are the cows, Gopāla's son (Kṛṣṇa) is the milker, Pārtha is the calf, the wise are the drinkers — the great nectar of the Gītā is that milk.",
+          "long": "A beautiful sustained metaphor: the Upaniṣads collectively are cows; Kṛṣṇa, son of the cowherd Nanda, is fittingly the milker; Arjuna (Pārtha) is the calf, whose presence is needed for the cow to yield milk — just as it was Arjuna's questions that drew forth the teaching; the wise and steady-minded are those who drink; and the resulting great nectar is the Bhagavad Gītā itself."
+        },
+        "sa": {
+          "short": "सर्वोपनिषदो गावः दोग्धा गोपालनन्दनः। पार्थो वत्सः सुधीर्भोक्ता दुग्धं गीतामृतं महत्॥",
+          "long": "अयं मनोहरः रूपकश्लोकः गीतां गोदुग्धरूपेण वर्णयति — सर्वाः उपनिषदः गावः; गोपालनन्दनः कृष्णः दोग्धा; पार्थः (अर्जुनः) वत्सः, यतः तस्य प्रश्नैः एव उपदेशः प्रवृत्तः; सुधीराः भोक्तारः; तत् महत् दुग्धम् एव गीतामृतम्।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "sarvopaniṣadaḥ gāvaḥ", "grammar": "nom.", "meaning": "all the Upaniṣads [are] the cows" },
+          { "word": "dogdhā gopālanandanaḥ", "grammar": "nom.", "meaning": "the milker [is] the son of the cowherd (Kṛṣṇa)" },
+          { "word": "pārthaḥ vatsaḥ", "grammar": "nom.", "meaning": "Pārtha [is] the calf" },
+          { "word": "sudhīḥ bhoktā", "grammar": "nom.", "meaning": "the wise one [is] the enjoyer/drinker" },
+          { "word": "dugdhaṃ gītāmṛtaṃ mahat", "grammar": "nom.", "meaning": "the milk [is] the great nectar of the Gītā" }
+        ],
+        "te": [
+          { "word": "సర్వోపనిషదో గావః", "grammar": "nom.", "meaning": "సర్వోపనిషత్తులే ఆవులు" },
+          { "word": "దోగ్ధా గోపాలనన్దనః", "grammar": "nom.", "meaning": "పితికేవాడు గోపాలనందనుడు (కృష్ణుడు)" },
+          { "word": "పార్థో వత్సః", "grammar": "nom.", "meaning": "పార్థుడు దూడ" },
+          { "word": "సుధీర్భోక్తా", "grammar": "nom.", "meaning": "జ్ఞాని త్రాగేవాడు" },
+          { "word": "దుగ్ధం గీతామృతం మహత్", "grammar": "nom.", "meaning": "పాలే గీతామృతమనే గొప్ప అమృతం" }
+        ],
+        "sa": [
+          { "word": "सर्वोपनिषदो गावः", "grammar": "nom.", "meaning": "सर्वाः उपनिषदः गावः" },
+          { "word": "दोग्धा गोपालनन्दनः", "grammar": "nom.", "meaning": "दोग्धा गोपालनन्दनः" },
+          { "word": "पार्थो वत्सः", "grammar": "nom.", "meaning": "पार्थः वत्सः" },
+          { "word": "सुधीर्भोक्ता", "grammar": "nom.", "meaning": "सुधीः भोक्ता" },
+          { "word": "दुग्धं गीतामृतं महत्", "grammar": "nom.", "meaning": "दुग्धं गीतामृतं महत्" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "గీతాశాస్త్రమిదం పుణ్యం",
+        "ro": "Gītāśāstramidaṃ puṇyaṃ",
+        "sa": "गीताशास्त्रमिदं पुण्यं"
+      },
+      "p2": {
+        "te": "యః పఠేత్ ప్రయతః పుమాన్",
+        "ro": "Yaḥ paṭhet prayataḥ pumān",
+        "sa": "यः पठेत् प्रयतः पुमान्"
+      },
+      "p3": {
+        "te": "విష్ణోః పదమవాప్నోతి",
+        "ro": "Viṣṇoḥ padamavāpnoti",
+        "sa": "विष्णोः पदमवाप्नोति"
+      },
+      "p4": {
+        "te": "భయశోకాదివర్జితః",
+        "ro": "Bhayaśokādivarjitaḥ",
+        "sa": "भयशोकादिवर्जितः"
+      },
+      "num": 13,
+      "meaning": {
+        "te": {
+          "short": "ఈ పవిత్ర గీతాశాస్త్రాన్ని నియమంతో పఠించే మనుష్యుడు భయశోకాదులు లేని విష్ణుపదాన్ని పొందుతాడు.",
+          "long": "ఈ శ్లోకం గీతాపారాయణ ఫలాన్ని తెలియజేస్తుంది. పవిత్రమైన ఈ గీతాశాస్త్రాన్ని ఏ మనుష్యుడైనా నియమనిష్ఠతో (ప్రయతః) పఠిస్తే, అతడు భయము, శోకము మొదలైనవి ఏమాత్రం లేని విష్ణుపదాన్ని (మోక్షాన్ని) పొందుతాడు."
+        },
+        "en": {
+          "short": "Whoever devoutly and with self-restraint recites this sacred scripture of the Gītā attains the abode of Viṣṇu, free from fear, grief, and the like.",
+          "long": "This verse states the fruit of recitation: any person, with discipline and purity of intent, who studies this holy Gītā-śāstra reaches the supreme abode of Viṣṇu — a state utterly free from fear, sorrow, and all such afflictions."
+        },
+        "sa": {
+          "short": "गीताशास्त्रमिदं पुण्यं यः पठेत् प्रयतः पुमान्। विष्णोः पदमवाप्नोति भयशोकादिवर्जितः॥",
+          "long": "अयं श्लोकः गीतापठनस्य फलं वदति। यः कश्चित् पुमान् प्रयतः (नियमपूर्वकः) सन् इदं पुण्यं गीताशास्त्रं पठति, सः भयशोकादिरहितं विष्णोः परमपदं प्राप्नोति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "gītāśāstram idaṃ puṇyaṃ", "grammar": "acc.", "meaning": "this sacred scripture of the Gītā" },
+          { "word": "yaḥ paṭhet prayataḥ pumān", "grammar": "opt.", "meaning": "whichever disciplined person recites" },
+          { "word": "viṣṇoḥ padam avāpnoti", "grammar": "—", "meaning": "attains the abode of Viṣṇu" },
+          { "word": "bhayaśokādivarjitaḥ", "grammar": "adj.", "meaning": "free from fear, grief, and the like" }
+        ],
+        "te": [
+          { "word": "గీతాశాస్త్రమిదం పుణ్యం", "grammar": "acc.", "meaning": "ఈ పవిత్రమైన గీతాశాస్త్రాన్ని" },
+          { "word": "యః పఠేత్ ప్రయతః పుమాన్", "grammar": "opt.", "meaning": "ఏ నియమనిష్ఠుడైన మనుష్యుడు పఠిస్తాడో" },
+          { "word": "విష్ణోః పదమవాప్నోతి", "grammar": "—", "meaning": "విష్ణుపదాన్ని పొందుతాడు" },
+          { "word": "భయశోకాదివర్జితః", "grammar": "adj.", "meaning": "భయశోకాదులు లేనివాడై" }
+        ],
+        "sa": [
+          { "word": "गीताशास्त्रमिदं पुण्यं", "grammar": "acc.", "meaning": "इदं पुण्यं गीताशास्त्रम्" },
+          { "word": "यः पठेत् प्रयतः पुमान्", "grammar": "opt.", "meaning": "यः प्रयतः पुमान् पठति" },
+          { "word": "विष्णोः पदमवाप्नोति", "grammar": "—", "meaning": "विष्णोः पदम् अवाप्नोति" },
+          { "word": "भयशोकादिवर्जितः", "grammar": "adj.", "meaning": "भयशोकादिवर्जितः सन्" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "ఏకం శాస్త్రం దేవకీపుత్రగీతమ్",
+        "ro": "Ekaṃ śāstraṃ devakīputragītam",
+        "sa": "एकं शास्त्रं देवकीपुत्रगीतम्"
+      },
+      "p2": {
+        "te": "ఏకో దేవో దేవకీపుత్ర ఏవ",
+        "ro": "Eko devo devakīputra eva",
+        "sa": "एको देवो देवकीपुत्र एव"
+      },
+      "p3": {
+        "te": "ఏకో మన్త్రస్తస్య నామాని యాని",
+        "ro": "Eko mantrastasya nāmāni yāni",
+        "sa": "एको मन्त्रस्तस्य नामानि यानि"
+      },
+      "p4": {
+        "te": "కర్మాప్యేకం తస్య దేవస్య సేవా",
+        "ro": "Karmāpyekaṃ tasya devasya sevā",
+        "sa": "कर्माप्येकं तस्य देवस्य सेवा"
+      },
+      "num": 14,
+      "meaning": {
+        "te": {
+          "short": "దేవకీపుత్రుడు గానం చేసిన గీతయే ఏకైక శాస్త్రం; ఆ దేవకీపుత్రుడే ఏకైక దేవుడు; ఆయన నామాలే ఏకైక మంత్రం; ఆ దేవునికి సేవ చేయడమే ఏకైక కర్మ.",
+          "long": "ఈ ముగింపు శ్లోకం భక్తి యొక్క సారాంశాన్ని అత్యంత సరళంగా, నొక్కి చెబుతుంది — ఏకైక శాస్త్రం దేవకీపుత్రుడైన కృష్ణుడు పాడిన గీతయే; ఏకైక దేవుడు ఆ దేవకీపుత్రుడే; ఆయన నామాలు ఏవైనప్పటికీ అవే ఏకైక మంత్రం; మరియు ఆ దేవునికి సేవ చేయడమే ఏకైక కర్తవ్యం (కర్మ). నాలుగు 'ఏకం' పదాలతో ఏకాగ్రభక్తిని నొక్కిచెప్పే అందమైన శ్లోకమిది."
+        },
+        "en": {
+          "short": "The one scripture is the Gītā sung by the son of Devakī; the one God is that son of Devakī alone; the one mantra is His names, whatever they be; and the one action is service to that God.",
+          "long": "This closing verse distills devotion to its essence with fourfold emphasis on 'one' (ekam): the sole scripture worth knowing is the Gītā as sung by Kṛṣṇa, son of Devakī; the sole deity is that very Kṛṣṇa; the sole mantra is simply His names, whichever one chants; and the sole worthwhile action in life is service (sevā) to that God."
+        },
+        "sa": {
+          "short": "एकं शास्त्रं देवकीपुत्रगीतम् एको देवो देवकीपुत्र एव। एको मन्त्रस्तस्य नामानि यानि कर्माप्येकं तस्य देवस्य सेवा॥",
+          "long": "अयं समापनश्लोकः भक्तेः सारं चतुर्भिः 'एकम्' इति पदैः दृढतया वदति — एकं शास्त्रं देवकीपुत्रेण गीतं गीतमेव; एकः देवः सः देवकीपुत्रः एव; एकः मन्त्रः तस्य यानि नामानि तानि एव; एकं च कर्म तस्य देवस्य सेवा एव।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "ekaṃ śāstraṃ devakīputragītam", "grammar": "nom.", "meaning": "the one scripture [is] the Gītā sung by Devakī's son" },
+          { "word": "eko devo devakīputra eva", "grammar": "nom.", "meaning": "the one God [is] the son of Devakī alone" },
+          { "word": "eko mantraḥ tasya nāmāni yāni", "grammar": "nom.", "meaning": "the one mantra [is] His names, whichever they be" },
+          { "word": "karma api ekaṃ tasya devasya sevā", "grammar": "nom.", "meaning": "the one action too [is] service to that God" }
+        ],
+        "te": [
+          { "word": "ఏకం శాస్త్రం దేవకీపుత్రగీతమ్", "grammar": "nom.", "meaning": "ఏకైక శాస్త్రం దేవకీపుత్రుడు గానం చేసిన గీతయే" },
+          { "word": "ఏకో దేవో దేవకీపుత్ర ఏవ", "grammar": "nom.", "meaning": "ఏకైక దేవుడు ఆ దేవకీపుత్రుడే" },
+          { "word": "ఏకో మన్త్రస్తస్య నామాని యాని", "grammar": "nom.", "meaning": "ఏకైక మంత్రం ఆయన నామాలు ఏవైనప్పటికీ అవే" },
+          { "word": "కర్మాప్యేకం తస్య దేవస్య సేవా", "grammar": "nom.", "meaning": "ఏకైక కర్మ కూడా ఆ దేవునికి సేవ చేయడమే" }
+        ],
+        "sa": [
+          { "word": "एकं शास्त्रं देवकीपुत्रगीतम्", "grammar": "nom.", "meaning": "एकं शास्त्रं देवकीपुत्रेण गीतं गीतमेव" },
+          { "word": "एको देवो देवकीपुत्र एव", "grammar": "nom.", "meaning": "एकः देवः सः देवकीपुत्रः एव" },
+          { "word": "एको मन्त्रस्तस्य नामानि यानि", "grammar": "nom.", "meaning": "एकः मन्त्रः तस्य यानि नामानि तानि एव" },
+          { "word": "कर्माप्येकं तस्य देवस्य सेवा", "grammar": "nom.", "meaning": "एकं कर्म अपि तस्य देवस्य सेवा एव" }
+        ]
+      }
+    }
+  ]
+}

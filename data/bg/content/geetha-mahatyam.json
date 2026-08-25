@@ -1,0 +1,1633 @@
+{
+  "title": {
+    "te": "శ్రీ గీతా మాహాత్మ్యం",
+    "en": "Śrī Gītā Māhātmyam",
+    "sa": "श्री गीता माहात्म्यम्"
+  },
+  "shlokas": [
+    {
+      "p1": {
+        "te": "భగవన్ పరమేశాన",
+        "ro": "Bhagavan parameśāna",
+        "sa": "भगवन् परमेशान"
+      },
+      "p2": {
+        "te": "భక్తిరవ్యభిచారిణీ",
+        "ro": "Bhaktiravyabhicāriṇī",
+        "sa": "भक्तिरव्यभिचारिणी"
+      },
+      "p3": {
+        "te": "ప్రారబ్ధం భుజ్యమానస్య",
+        "ro": "Prārabdhaṃ bhujyamānasya",
+        "sa": "प्रारब्धं भुज्यमानस्य"
+      },
+      "p4": {
+        "te": "కథం భవతి హే ప్రభో",
+        "ro": "Kathaṃ bhavati he prabho",
+        "sa": "कथं भवति हे प्रभो"
+      },
+      "num": 1,
+      "speaker": {
+        "te": "ధరోవాచ",
+        "ro": "dharovāca",
+        "sa": "धरोवाच"
+      },
+      "meaning": {
+        "te": {
+          "short": "ధర్మదేవత అడుగుతాడు: 'ప్రభూ! ప్రారబ్ధకర్మను అనుభవిస్తున్నవానికి అవ్యభిచారిణి అయిన భక్తి ఎలా కలుగుతుంది?'",
+          "long": "గీతామాహాత్మ్యం ధర్మదేవత (ధరుడు) పరమేశ్వరుని ఒక ప్రశ్న అడగడంతో ప్రారంభమవుతుంది — ప్రారబ్ధకర్మఫలాన్ని అనుభవిస్తూనే ఉన్న మనిషికి, చలించని (అవ్యభిచారిణి) భక్తి ఎలా సాధ్యమవుతుంది? ఈ ప్రశ్నే తదుపరి శ్లోకాలలో శ్రీవిష్ణువు సమాధానానికి పీఠిక."
+        },
+        "en": {
+          "short": "Dharma asks: 'O Lord! How can unwavering devotion arise in one who is undergoing the fruits of prārabdha karma?'",
+          "long": "The Gītā Māhātmyam opens with Dharma (the god of righteousness) posing a question to the Supreme Lord — how can steadfast, unwavering (avyabhicāriṇī) devotion arise in a person who is still experiencing the results of prārabdha karma (karma already set in motion)? This question sets up Viṣṇu's answer in the following verses."
+        },
+        "sa": {
+          "short": "धर्मः भगवन्तं पृच्छति — प्रारब्धकर्मफलम् अनुभवतः पुंसः अव्यभिचारिणी भक्तिः कथं भवति इति।",
+          "long": "गीतामाहात्म्यस्य आरम्भे धर्मदेवता परमेश्वरं प्रश्नयति — प्रारब्धकर्मफलम् अनुभवन् अपि मनुष्यः कथम् अचलां (अव्यभिचारिणीम्) भक्तिं लभेत? अयं प्रश्नः अग्रिमश्लोकेषु विष्णोः उत्तरस्य भूमिका।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "bhagavan parameśāna", "grammar": "voc.", "meaning": "O Lord, supreme ruler" },
+          { "word": "bhaktiḥ avyabhicāriṇī", "grammar": "nom.", "meaning": "unwavering devotion" },
+          { "word": "prārabdhaṃ bhujyamānasya", "grammar": "gen.", "meaning": "of one experiencing prārabdha (fructifying) karma" },
+          { "word": "kathaṃ bhavati he prabho", "grammar": "—", "meaning": "how does it come about, O Lord?" }
+        ],
+        "te": [
+          { "word": "భగవన్ పరమేశాన", "grammar": "voc.", "meaning": "ఓ ప్రభూ! పరమేశ్వరా" },
+          { "word": "భక్తిరవ్యభిచారిణీ", "grammar": "nom.", "meaning": "అవ్యభిచారిణి అయిన భక్తి" },
+          { "word": "ప్రారబ్ధం భుజ్యమానస్య", "grammar": "gen.", "meaning": "ప్రారబ్ధాన్ని అనుభవిస్తున్నవానికి" },
+          { "word": "కథం భవతి హే ప్రభో", "grammar": "—", "meaning": "ఎలా కలుగుతుంది ప్రభూ" }
+        ],
+        "sa": [
+          { "word": "भगवन् परमेशान", "grammar": "voc.", "meaning": "हे भगवन् परमेश्वर" },
+          { "word": "भक्तिरव्यभिचारिणी", "grammar": "nom.", "meaning": "अव्यभिचारिणी भक्तिः" },
+          { "word": "प्रारब्धं भुज्यमानस्य", "grammar": "gen.", "meaning": "प्रारब्धं भुञ्जानस्य" },
+          { "word": "कथं भवति हे प्रभो", "grammar": "—", "meaning": "कथं भवति हे प्रभो" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "ప్రారబ్ధం భుజ్యమానో హి",
+        "ro": "Prārabdhaṃ bhujyamāno hi",
+        "sa": "प्रारब्धं भुज्यमानो हि"
+      },
+      "p2": {
+        "te": "గీతాభ్యాసరతః సదా",
+        "ro": "Gītābhyāsarataḥ sadā",
+        "sa": "गीताभ्यासरतः सदा"
+      },
+      "p3": {
+        "te": "స ముక్తః స సుఖీ లోకే",
+        "ro": "Sa muktaḥ sa sukhī loke",
+        "sa": "स मुक्तः स सुखी लोके"
+      },
+      "p4": {
+        "te": "కర్మణా నోపలిప్యతే",
+        "ro": "Karmaṇā nopalipyate",
+        "sa": "कर्मणा नोपलिप्यते"
+      },
+      "num": 2,
+      "speaker": {
+        "te": "శ్రీవిష్ణురువాచ",
+        "ro": "śrīviṣṇuruvāca",
+        "sa": "श्रीविष्णुरुवाच"
+      },
+      "meaning": {
+        "te": {
+          "short": "శ్రీవిష్ణువు సమాధానమిస్తాడు: ప్రారబ్ధాన్ని అనుభవిస్తూనే గీతాభ్యాసంలో సదా నిమగ్నుడైనవాడు ముక్తుడు, సుఖి; అతడు కర్మతో బంధింపబడడు.",
+          "long": "శ్రీవిష్ణువు ధర్మదేవత ప్రశ్నకు సూటిగా సమాధానమిస్తాడు — ప్రారబ్ధకర్మను అనుభవిస్తూ ఉన్నప్పటికీ, గీతాభ్యాసంలో నిత్యనిమగ్నుడైనవాడు ఈ లోకంలోనే ముక్తుడు, సుఖి అవుతాడు; అతని కర్మలు అతనిని బంధించలేవు — గీతాభ్యాసమే కర్మబంధాన్ని దాటించే మార్గం."
+        },
+        "en": {
+          "short": "Śrī Viṣṇu answers: one who, even while experiencing prārabdha karma, remains ever devoted to the practice of the Gītā, is liberated and happy in this world — untouched by the bondage of action.",
+          "long": "Viṣṇu answers Dharma's question directly: even a person undergoing prārabdha karma, if constantly engaged in gītābhyāsa (regular study/practice of the Gītā), becomes liberated (mukta) and content (sukhī) right here in this world; such a person is not bound by the results of their actions — regular engagement with the Gītā itself is what carries one beyond the bondage of karma."
+        },
+        "sa": {
+          "short": "श्रीविष्णुः उत्तरं ददाति — प्रारब्धं भुज्यमानः अपि यः सदा गीताभ्यासरतः, सः लोके मुक्तः सुखी च भवति, कर्मणा न लिप्यते।",
+          "long": "विष्णुः धर्मस्य प्रश्नस्य प्रत्यक्षम् उत्तरं वदति — प्रारब्धकर्मफलम् अनुभवन् अपि यः पुमान् सदा गीताभ्यासे निरतः तिष्ठति, सः इहैव लोके मुक्तः सुखी च भवति; तस्य कर्माणि तं न बध्नन्ति — गीताभ्यास एव कर्मबन्धनात् तारकः।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "prārabdhaṃ bhujyamāno hi", "grammar": "—", "meaning": "one who is indeed experiencing prārabdha karma" },
+          { "word": "gītābhyāsarataḥ sadā", "grammar": "nom.", "meaning": "ever devoted to the practice of the Gītā" },
+          { "word": "sa muktaḥ sa sukhī loke", "grammar": "nom.", "meaning": "he is liberated, he is happy in this world" },
+          { "word": "karmaṇā nopalipyate", "grammar": "—", "meaning": "is not tainted/bound by action" }
+        ],
+        "te": [
+          { "word": "ప్రారబ్ధం భుజ్యమానో హి", "grammar": "—", "meaning": "ప్రారబ్ధాన్ని అనుభవిస్తున్నప్పటికీ" },
+          { "word": "గీతాభ్యాసరతః సదా", "grammar": "nom.", "meaning": "గీతాభ్యాసంలో సదా నిమగ్నుడైనవాడు" },
+          { "word": "స ముక్తః స సుఖీ లోకే", "grammar": "nom.", "meaning": "అతడు ముక్తుడు, అతడు లోకంలో సుఖి" },
+          { "word": "కర్మణా నోపలిప్యతే", "grammar": "—", "meaning": "కర్మతో బంధింపబడడు" }
+        ],
+        "sa": [
+          { "word": "प्रारब्धं भुज्यमानो हि", "grammar": "—", "meaning": "प्रारब्धं भुञ्जानः अपि हि" },
+          { "word": "गीताभ्यासरतः सदा", "grammar": "nom.", "meaning": "गीताभ्यासे सदा निरतः" },
+          { "word": "स मुक्तः स सुखी लोके", "grammar": "nom.", "meaning": "सः मुक्तः सः लोके सुखी" },
+          { "word": "कर्मणा नोपलिप्यते", "grammar": "—", "meaning": "कर्मणा न लिप्यते" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "మహాపాపాదిపాపాని",
+        "ro": "Mahāpāpādipāpāni",
+        "sa": "महापापादिपापानि"
+      },
+      "p2": {
+        "te": "గీతాధ్యానం కరోతి చేత్",
+        "ro": "Gītādhyānaṃ karoti cet",
+        "sa": "गीताध्यानं करोति चेत्"
+      },
+      "p3": {
+        "te": "క్వచిత్స్పర్శం న కుర్వన్తి",
+        "ro": "Kvacitsparśaṃ na kurvanti",
+        "sa": "क्वचित्स्पर्शं न कुर्वन्ति"
+      },
+      "p4": {
+        "te": "నలినీదలమమ్బువత్",
+        "ro": "Nalinīdalamambuvat",
+        "sa": "नलिनीदलमम्बुवत्"
+      },
+      "num": 3,
+      "meaning": {
+        "te": {
+          "short": "ఎవరైనా గీతాధ్యానం చేస్తే, గొప్ప పాపాలు సైతం అతనిని ఏమాత్రం స్పృశించవు — తామరాకుపై నీటిబొట్టులా.",
+          "long": "గీతాధ్యానం చేసేవానికి మహాపాపాలు మొదలైన పాపాలేవీ అంటవని ఈ శ్లోకం చెబుతుంది. ఇది తామరాకు మీద పడిన నీటిబొట్టు ఆకును తడపకుండా జారిపోయినట్టుగా ఉంటుంది — గీతాధ్యానం ఆత్మను పాపాలకు అతీతంగా ఉంచుతుంది."
+        },
+        "en": {
+          "short": "If one practices meditation on the Gītā, even great sins do not touch him at all — like drops of water on a lotus leaf.",
+          "long": "This verse declares that great sins (mahāpāpa) and their lesser variants simply do not cling to one who practices gītā-dhyāna. The image used is a classical one: water on a lotus leaf never soaks in, but rolls off untouched — so too does gītā-dhyāna keep the soul unstained by sin."
+        },
+        "sa": {
+          "short": "महापापादिपापानि गीताध्यानं करोति चेत् क्वचित् स्पर्शं न कुर्वन्ति नलिनीदलम् अम्बुवत्।",
+          "long": "यः गीताध्यानं करोति, तं महापापानि तदितरपापानि च कदापि न स्पृशन्ति — यथा नलिनीदले पतितम् अम्बु दलं न आर्द्रीकरोति, तथैव गीताध्यानं आत्मानं पापेभ्यः अलिप्तं करोति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "mahāpāpādipāpāni", "grammar": "nom.", "meaning": "great sins and other sins" },
+          { "word": "gītādhyānaṃ karoti cet", "grammar": "cond.", "meaning": "if one practices meditation on the Gītā" },
+          { "word": "kvacit sparśaṃ na kurvanti", "grammar": "—", "meaning": "do not touch him at all" },
+          { "word": "nalinīdalam ambuvat", "grammar": "—", "meaning": "like water on a lotus leaf" }
+        ],
+        "te": [
+          { "word": "మహాపాపాదిపాపాని", "grammar": "nom.", "meaning": "మహాపాపాలు మొదలైన పాపాలు" },
+          { "word": "గీతాధ్యానం కరోతి చేత్", "grammar": "cond.", "meaning": "గీతాధ్యానం చేసినట్లయితే" },
+          { "word": "క్వచిత్స్పర్శం న కుర్వన్తి", "grammar": "—", "meaning": "ఏమాత్రం స్పృశించవు" },
+          { "word": "నలినీదలమమ్బువత్", "grammar": "—", "meaning": "తామరాకు మీద నీటిబొట్టులాగా" }
+        ],
+        "sa": [
+          { "word": "महापापादिपापानि", "grammar": "nom.", "meaning": "महापापानि तदितराणि पापानि च" },
+          { "word": "गीताध्यानं करोति चेत्", "grammar": "cond.", "meaning": "गीताध्यानं करोति चेत्" },
+          { "word": "क्वचित्स्पर्शं न कुर्वन्ति", "grammar": "—", "meaning": "कदापि स्पर्शं न कुर्वन्ति" },
+          { "word": "नलिनीदलमम्बुवत्", "grammar": "—", "meaning": "नलिनीदले जलबिन्दुवत्" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "గీతాయాః పుస్తకం యత్ర",
+        "ro": "Gītāyāḥ pustakaṃ yatra",
+        "sa": "गीतायाः पुस्तकं यत्र"
+      },
+      "p2": {
+        "te": "యత్ర పాఠః ప్రవర్తతే",
+        "ro": "Yatra pāṭhaḥ pravartate",
+        "sa": "यत्र पाठः प्रवर्तते"
+      },
+      "p3": {
+        "te": "తత్ర సర్వాణి తీర్థాని",
+        "ro": "Tatra sarvāṇi tīrthāni",
+        "sa": "तत्र सर्वाणि तीर्थानि"
+      },
+      "p4": {
+        "te": "ప్రయాగాదీని తత్ర వై",
+        "ro": "Prayāgādīni tatra vai",
+        "sa": "प्रयागादीनि तत्र वै"
+      },
+      "num": 4,
+      "meaning": {
+        "te": {
+          "short": "గీత గ్రంథం ఎక్కడ ఉంటుందో, గీతాపారాయణం ఎక్కడ జరుగుతుందో, అక్కడ ప్రయాగ మొదలైన సమస్త తీర్థాలు ఉంటాయి.",
+          "long": "గీతాగ్రంథం ఉన్న స్థలం, గీతాపారాయణం జరిగే స్థలం — అక్కడ ప్రయాగ మొదలైన సమస్త పుణ్యతీర్థాలు సాక్షాత్తుగా ఉంటాయని ఈ శ్లోకం చెబుతుంది. అంటే గీతను కలిగివుండటం, పఠించడం అన్ని తీర్థయాత్రల ఫలాన్ని ఇస్తుంది."
+        },
+        "en": {
+          "short": "Wherever the book of the Gītā is kept, and wherever its recitation takes place, there indeed reside all the sacred fords, beginning with Prayāga.",
+          "long": "This verse claims that the very presence of a copy of the Gītā, or a place where it is being recited, is equivalent to the presence of all the great tīrthas (sacred pilgrimage sites), starting with Prayāga — meaning that keeping and reciting the Gītā confers the merit of visiting every holy place."
+        },
+        "sa": {
+          "short": "गीतायाः पुस्तकं यत्र यत्र पाठः प्रवर्तते, तत्र सर्वाणि तीर्थानि प्रयागादीनि तत्र वै।",
+          "long": "यत्र गीतापुस्तकं वर्तते, यत्र च गीतापाठः प्रवर्तते, तत्रैव प्रयागादीनि सर्वाणि पुण्यतीर्थानि साक्षात् सन्ति इति अयं श्लोकः वदति — गीताधारणपठने सर्वतीर्थयात्राफलं लभ्यते।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "gītāyāḥ pustakaṃ yatra", "grammar": "loc.", "meaning": "wherever the book of the Gītā is" },
+          { "word": "yatra pāṭhaḥ pravartate", "grammar": "loc.", "meaning": "wherever its recitation takes place" },
+          { "word": "tatra sarvāṇi tīrthāni", "grammar": "nom.", "meaning": "there [are] all the sacred fords" },
+          { "word": "prayāgādīni tatra vai", "grammar": "—", "meaning": "beginning with Prayāga, indeed there" }
+        ],
+        "te": [
+          { "word": "గీతాయాః పుస్తకం యత్ర", "grammar": "loc.", "meaning": "గీత గ్రంథం ఎక్కడ ఉంటుందో" },
+          { "word": "యత్ర పాఠః ప్రవర్తతే", "grammar": "loc.", "meaning": "గీతాపారాయణం ఎక్కడ జరుగుతుందో" },
+          { "word": "తత్ర సర్వాణి తీర్థాని", "grammar": "nom.", "meaning": "అక్కడ సమస్త తీర్థాలు ఉంటాయి" },
+          { "word": "ప్రయాగాదీని తత్ర వై", "grammar": "—", "meaning": "ప్రయాగ మొదలైనవి అక్కడే" }
+        ],
+        "sa": [
+          { "word": "गीतायाः पुस्तकं यत्र", "grammar": "loc.", "meaning": "गीतायाः पुस्तकं यत्र वर्तते" },
+          { "word": "यत्र पाठः प्रवर्तते", "grammar": "loc.", "meaning": "यत्र पाठः प्रवर्तते" },
+          { "word": "तत्र सर्वाणि तीर्थानि", "grammar": "nom.", "meaning": "तत्र सर्वाणि तीर्थानि सन्ति" },
+          { "word": "प्रयागादीनि तत्र वै", "grammar": "—", "meaning": "प्रयागादीनि तत्रैव वस्तुतः" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "సర్వే దేవాశ్చ ఋషయః",
+        "ro": "Sarve devāśca ṛṣayaḥ",
+        "sa": "सर्वे देवाश्च ऋषयः"
+      },
+      "p2": {
+        "te": "యోగినః పన్నగాశ్చ యే",
+        "ro": "Yoginaḥ pannagāśca ye",
+        "sa": "योगिनः पन्नगाश्च ये"
+      },
+      "p3": {
+        "te": "గోపాలా గోపికా వాఽపి",
+        "ro": "Gopālā gopikā vā'pi",
+        "sa": "गोपाला गोपिका वाऽपि"
+      },
+      "p4": {
+        "te": "నారదోద్ధవపార్షదైః",
+        "ro": "Nāradoddhavapārṣadaiḥ",
+        "sa": "नारदोद्धवपार्षदैः"
+      },
+      "num": 5,
+      "meaning": {
+        "te": {
+          "short": "సర్వదేవతలు, ఋషులు, యోగులు, పన్నగులు, గోపాలురు, గోపికలు, నారద-ఉద్ధవాది పార్షదులతో సహా — గీత ప్రవర్తించే చోట శీఘ్రంగా సహాయం లభిస్తుంది.",
+          "long": "గీత పఠించబడే, ప్రచారంలో ఉండే స్థలంలో సర్వదేవతలు, ఋషులు, యోగులు, నాగులు, గోపాలగోపికలు, నారద-ఉద్ధవులతో సహా భగవత్పార్షదులు శీఘ్రంగా సహాయకులుగా వస్తారని ఈ శ్లోకం (6వ శ్లోకంతో కలిపి చదవాల్సినది) చెబుతుంది."
+        },
+        "en": {
+          "short": "All the gods, sages, yogis, and serpent-beings, the cowherds and cowherd-maidens, along with attendants like Nārada and Uddhava — swift help comes wherever the Gītā is present.",
+          "long": "This verse (continuing into the next) lists the divine company that swiftly comes to aid wherever the Gītā is actively recited and revered: all the gods, sages, yogis, serpent-deities (nāgas), the cowherd folk of Vraja, and Kṛṣṇa's own attendants such as Nārada and Uddhava."
+        },
+        "sa": {
+          "short": "सर्वे देवाः ऋषयः योगिनः पन्नगाः च ये, गोपालाः गोपिकाः वा अपि नारदोद्धवपार्षदैः [सह]।",
+          "long": "यत्र गीता प्रवर्तते, तत्र सर्वे देवाः, ऋषयः, योगिनः, नागाः, गोपालगोपिकाः, नारदोद्धवादिपार्षदाः च शीघ्रं सहायकाः भवन्ति इति अयं श्लोकः (अग्रिमश्लोकेन सह पठनीयः) वदति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "sarve devāśca ṛṣayaḥ", "grammar": "nom.", "meaning": "all the gods and sages" },
+          { "word": "yoginaḥ pannagāśca ye", "grammar": "nom.", "meaning": "the yogis and the serpent-beings" },
+          { "word": "gopālā gopikā vā'pi", "grammar": "nom.", "meaning": "the cowherds and cowherd-maidens too" },
+          { "word": "nāradoddhavapārṣadaiḥ", "grammar": "instr.", "meaning": "together with attendants like Nārada and Uddhava" }
+        ],
+        "te": [
+          { "word": "సర్వే దేవాశ్చ ఋషయః", "grammar": "nom.", "meaning": "సర్వదేవతలు, ఋషులు" },
+          { "word": "యోగినః పన్నగాశ్చ యే", "grammar": "nom.", "meaning": "యోగులు, పన్నగులు" },
+          { "word": "గోపాలా గోపికా వాఽపి", "grammar": "nom.", "meaning": "గోపాలురు, గోపికలు కూడా" },
+          { "word": "నారదోద్ధవపార్షదైః", "grammar": "instr.", "meaning": "నారదుడు-ఉద్ధవుడు మొదలైన పార్షదులతో" }
+        ],
+        "sa": [
+          { "word": "सर्वे देवाश्च ऋषयः", "grammar": "nom.", "meaning": "सर्वे देवाः ऋषयः च" },
+          { "word": "योगिनः पन्नगाश्च ये", "grammar": "nom.", "meaning": "योगिनः नागाः च ये" },
+          { "word": "गोपाला गोपिका वाऽपि", "grammar": "nom.", "meaning": "गोपालाः गोपिकाः वा अपि" },
+          { "word": "नारदोद्धवपार्षदैः", "grammar": "instr.", "meaning": "नारदोद्धवादिपार्षदैः सह" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "సహాయో జాయతే శీఘ్రం",
+        "ro": "Sahāyo jāyate śīghraṃ",
+        "sa": "सहायो जायते शीघ्रं"
+      },
+      "p2": {
+        "te": "యత్ర గీతా ప్రవర్తతే",
+        "ro": "Yatra gītā pravartate",
+        "sa": "यत्र गीता प्रवर्तते"
+      },
+      "p3": {
+        "te": "యత్ర గీతావిచారశ్చ",
+        "ro": "Yatra gītāvicāraśca",
+        "sa": "यत्र गीताविचारश्च"
+      },
+      "p4": {
+        "te": "పఠనం పాఠనం శ్రుతమ్",
+        "ro": "Paṭhanaṃ pāṭhanaṃ śrutam",
+        "sa": "पठनं पाठनं श्रुतम्"
+      },
+      "p5": {
+        "te": "తత్రాహం నిశ్చితం పృథ్వి",
+        "ro": "Tatrāhaṃ niścitaṃ pṛthvi",
+        "sa": "तत्राहं निश्चितं पृथ्वि"
+      },
+      "p6": {
+        "te": "నివసామి సదైవ హి",
+        "ro": "Nivasāmi sadaiva hi",
+        "sa": "निवसामि सदैव हि"
+      },
+      "num": 6,
+      "meaning": {
+        "te": {
+          "short": "గీత ప్రవర్తించే చోట శీఘ్రంగా సహాయం లభిస్తుంది; గీతావిచారం, పఠనం, పాఠనం, శ్రవణం జరిగే చోట నేను నిశ్చయంగా, భూదేవీ! సదా నివసిస్తాను.",
+          "long": "ఈ ఆరు-పాదాల శ్లోకం (5వ శ్లోకంతో అన్వయించి) — గీత ప్రచారంలో ఉన్నచోట శీఘ్రసహాయం లభిస్తుందని, మరియు గీతావిచారం, పఠనం, బోధన, శ్రవణం జరిగే ప్రతిచోటా భగవానుడు స్వయంగా — 'ఓ పృథ్వీ! నేను నిశ్చయంగా అక్కడ సదా నివసిస్తాను' అని — వాగ్దానం చేస్తున్నాడు."
+        },
+        "en": {
+          "short": "Wherever the Gītā flourishes, help comes swiftly; wherever there is reflection on the Gītā, its reading, teaching, and hearing — there, O Earth, I most certainly dwell forever.",
+          "long": "This six-pada verse (linked with the previous one) has the Lord declaring, addressing the Earth (Pṛthvī) directly, that wherever the Gītā is actively studied — discussed, read, taught, and heard — He Himself is certainly, permanently present."
+        },
+        "sa": {
+          "short": "सहायः जायते शीघ्रं यत्र गीता प्रवर्तते। यत्र गीताविचारश्च पठनं पाठनं श्रुतम्, तत्राहं निश्चितं पृथ्वि निवसामि सदैव हि।",
+          "long": "षट्पादः अयं श्लोकः (पूर्वश्लोकेन सह) — गीतायाः प्रवर्तनस्थाने शीघ्रं सहायः जायते इति, तथा गीताविचारः, पठनम्, पाठनम्, श्रवणं च यत्र भवति, तत्र भगवान् स्वयं — 'हे पृथ्वि! अहं निश्चितं तत्र सदैव निवसामि' इति प्रतिज्ञां करोति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "sahāyo jāyate śīghraṃ", "grammar": "—", "meaning": "help arises swiftly" },
+          { "word": "yatra gītā pravartate", "grammar": "loc.", "meaning": "wherever the Gītā is current/active" },
+          { "word": "yatra gītāvicāraśca paṭhanaṃ pāṭhanaṃ śrutam", "grammar": "—", "meaning": "where there is reflection, reading, teaching, and hearing of the Gītā" },
+          { "word": "tatrāhaṃ niścitaṃ pṛthvi", "grammar": "—", "meaning": "there I, O Earth, certainly" },
+          { "word": "nivasāmi sadaiva hi", "grammar": "1st sg.", "meaning": "dwell forever indeed" }
+        ],
+        "te": [
+          { "word": "సహాయో జాయతే శీఘ్రం", "grammar": "—", "meaning": "సహాయం శీఘ్రంగా లభిస్తుంది" },
+          { "word": "యత్ర గీతా ప్రవర్తతే", "grammar": "loc.", "meaning": "గీత ఎక్కడ ప్రవర్తిస్తుందో" },
+          { "word": "యత్ర గీతావిచారశ్చ పఠనం పాఠనం శ్రుతమ్", "grammar": "—", "meaning": "గీతావిచారం, పఠనం, బోధన, శ్రవణం ఎక్కడ జరుగుతాయో" },
+          { "word": "తత్రాహం నిశ్చితం పృథ్వి", "grammar": "—", "meaning": "అక్కడ నేను, ఓ పృథ్వీ, నిశ్చయంగా" },
+          { "word": "నివసామి సదైవ హి", "grammar": "1st sg.", "meaning": "సదా నివసిస్తాను" }
+        ],
+        "sa": [
+          { "word": "सहायो जायते शीघ्रं", "grammar": "—", "meaning": "सहायः शीघ्रं जायते" },
+          { "word": "यत्र गीता प्रवर्तते", "grammar": "loc.", "meaning": "यत्र गीता प्रवर्तते" },
+          { "word": "यत्र गीताविचारश्च पठनं पाठनं श्रुतम्", "grammar": "—", "meaning": "यत्र गीताविचारः पठनं पाठनं श्रवणं च" },
+          { "word": "तत्राहं निश्चितं पृथ्वि", "grammar": "—", "meaning": "तत्र अहं हे पृथ्वि निश्चितम्" },
+          { "word": "निवसामि सदैव हि", "grammar": "1st sg.", "meaning": "सदैव निवसामि हि" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "గీతాశ్రయేఽహం తిష్ఠామి",
+        "ro": "Gītāśraye'haṃ tiṣṭhāmi",
+        "sa": "गीताश्रयेऽहं तिष्ठामि"
+      },
+      "p2": {
+        "te": "గీతా మే చోత్తమం గృహమ్",
+        "ro": "Gītā me cottamaṃ gṛham",
+        "sa": "गीता मे चोत्तमं गृहम्"
+      },
+      "p3": {
+        "te": "గీతాజ్ఞానముపాశ్రిత్య",
+        "ro": "Gītājñānamupāśritya",
+        "sa": "गीताज्ञानमुपाश्रित्य"
+      },
+      "p4": {
+        "te": "త్రీల్లోకాన్పాలయామ్యహమ్",
+        "ro": "Trīllokānpālayāmyaham",
+        "sa": "त्रील्लोकान्पालयाम्यहम्"
+      },
+      "num": 7,
+      "meaning": {
+        "te": {
+          "short": "గీతాశ్రయంలోనే నేను నిలిచి ఉంటాను; గీతయే నా అత్యుత్తమ గృహం; గీతాజ్ఞానాన్ని ఆశ్రయించి నేనే మూడు లోకాలను పాలిస్తాను.",
+          "long": "భగవానుడు గీత పట్ల తనకున్న సన్నిహిత సంబంధాన్ని ప్రకటిస్తాడు — గీత అనే ఆశ్రయంలోనే తాను ఉంటాడు; గీతయే తనకు అత్యుత్తమమైన నివాసం (గృహం); గీతలో ఇమిడిన జ్ఞానాన్ని ఆధారం చేసుకునే తాను మూడు లోకాలను (స్వర్గ-భూ-పాతాళాలను) పరిపాలిస్తాడు."
+        },
+        "en": {
+          "short": "I abide in the refuge of the Gītā; the Gītā is my supreme abode; taking recourse to the knowledge of the Gītā, I Myself govern the three worlds.",
+          "long": "The Lord proclaims His intimate connection with the Gītā: He dwells within its shelter; the Gītā itself is His finest home; and it is by relying upon the knowledge contained in the Gītā that He governs the three worlds — heaven, earth, and the netherworld."
+        },
+        "sa": {
+          "short": "गीताश्रये अहं तिष्ठामि, गीता मे च उत्तमं गृहम्। गीताज्ञानम् उपाश्रित्य त्रीन् लोकान् पालयामि अहम्।",
+          "long": "भगवान् गीतायाः प्रति स्वस्य निकटसम्बन्धं घोषयति — गीताश्रये एव सः तिष्ठति; गीता एव तस्य उत्तमं गृहम्; गीतान्तर्गतं ज्ञानम् आश्रित्य एव सः त्रीन् लोकान् (स्वर्गभूपातालान्) पालयति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "gītāśraye'haṃ tiṣṭhāmi", "grammar": "1st sg.", "meaning": "I abide in the refuge of the Gītā" },
+          { "word": "gītā me cottamaṃ gṛham", "grammar": "nom.", "meaning": "the Gītā is my supreme home" },
+          { "word": "gītājñānam upāśritya", "grammar": "gerund", "meaning": "taking recourse to the knowledge of the Gītā" },
+          { "word": "trīllokānpālayāmyaham", "grammar": "1st sg.", "meaning": "I govern the three worlds" }
+        ],
+        "te": [
+          { "word": "గీతాశ్రయేఽహం తిష్ఠామి", "grammar": "1st sg.", "meaning": "గీతాశ్రయంలోనే నేను నిలిచి ఉంటాను" },
+          { "word": "గీతా మే చోత్తమం గృహమ్", "grammar": "nom.", "meaning": "గీతయే నాకు అత్యుత్తమ గృహము" },
+          { "word": "గీతాజ్ఞానముపాశ్రిత్య", "grammar": "gerund", "meaning": "గీతాజ్ఞానాన్ని ఆశ్రయించి" },
+          { "word": "త్రీల్లోకాన్పాలయామ్యహమ్", "grammar": "1st sg.", "meaning": "మూడు లోకాలను నేను పాలిస్తాను" }
+        ],
+        "sa": [
+          { "word": "गीताश्रयेऽहं तिष्ठामि", "grammar": "1st sg.", "meaning": "गीताश्रये अहं तिष्ठामि" },
+          { "word": "गीता मे चोत्तमं गृहम्", "grammar": "nom.", "meaning": "गीता मे उत्तमं गृहम्" },
+          { "word": "गीताज्ञानमुपाश्रित्य", "grammar": "gerund", "meaning": "गीताज्ञानम् आश्रित्य" },
+          { "word": "त्रील्लोकान्पालयाम्यहम्", "grammar": "1st sg.", "meaning": "त्रीन् लोकान् पालयामि अहम्" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "గీతా మే పరమా విద్యా",
+        "ro": "Gītā me paramā vidyā",
+        "sa": "गीता मे परमा विद्या"
+      },
+      "p2": {
+        "te": "బ్రహ్మరూపా న సంశయః",
+        "ro": "Brahmarūpā na saṃśayaḥ",
+        "sa": "ब्रह्मरूपा न संशयः"
+      },
+      "p3": {
+        "te": "అర్ధమాత్రాక్షరా నిత్యా",
+        "ro": "Ardhamātrākṣarā nityā",
+        "sa": "अर्धमात्राक्षरा नित्या"
+      },
+      "p4": {
+        "te": "స్వానిర్వాచ్యపదాత్మికా",
+        "ro": "Svānirvācyapadātmikā",
+        "sa": "स्वानिर्वाच्यपदात्मिका"
+      },
+      "num": 8,
+      "meaning": {
+        "te": {
+          "short": "గీత నాకు పరమవిద్య; నిస్సందేహంగా బ్రహ్మస్వరూపం; అర్ధమాత్రాక్షరమైనది (ఓంకార స్వరూపం), నిత్యమైనది, వాక్కుకు అందని పదాత్మకమైనది.",
+          "long": "ఈ శ్లోకం గీత యొక్క తాత్విక స్వభావాన్ని కీర్తిస్తుంది — గీత భగవానుని పరమవిద్య; అది సందేహం లేకుండా బ్రహ్మస్వరూపమే; అర్ధమాత్రాక్షరమైనది అంటే ఓంకారంలోని అర్ధమాత్ర (ఓం యొక్క సూక్ష్మతమ ధ్వని) వంటిది; ఇది నిత్యమైనది, శాశ్వతమైనది; మరియు వాక్కులకు అందని, తనకు తానే వివరణాతీతమైన పరమపదస్వరూపం."
+        },
+        "en": {
+          "short": "The Gītā is my supreme knowledge, undoubtedly of the form of Brahman itself; consisting of the half-syllable, eternal, of a nature indescribable in words.",
+          "long": "This verse extols the metaphysical essence of the Gītā: it is the Lord's own supreme wisdom, unquestionably identical with Brahman; it is 'ardhamātrā' — the subtle half-measure of the sacred syllable Oṃ; it is eternal (nityā), and its true nature is beyond verbal description (svānirvācyapadātmikā)."
+        },
+        "sa": {
+          "short": "गीता मे परमा विद्या, ब्रह्मरूपा न संशयः। अर्धमात्राक्षरा नित्या स्वानिर्वाच्यपदात्मिका।",
+          "long": "अयं श्लोकः गीतायाः तात्त्विकस्वरूपं कीर्तयति — गीता भगवतः परमा विद्या; निःसन्देहं ब्रह्मस्वरूपा एव; अर्धमात्राक्षरा इति ओङ्कारस्य सूक्ष्मतमांशस्वरूपा; नित्या शाश्वता च; वाचा अवर्णनीयं स्वस्वरूपम् अस्याः।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "gītā me paramā vidyā", "grammar": "nom.", "meaning": "the Gītā is my supreme knowledge" },
+          { "word": "brahmarūpā na saṃśayaḥ", "grammar": "—", "meaning": "of the form of Brahman, without doubt" },
+          { "word": "ardhamātrākṣarā nityā", "grammar": "nom.", "meaning": "of the half-syllable [Oṃ], eternal" },
+          { "word": "svānirvācyapadātmikā", "grammar": "nom.", "meaning": "of a nature self-indescribable in words" }
+        ],
+        "te": [
+          { "word": "గీతా మే పరమా విద్యా", "grammar": "nom.", "meaning": "గీత నాకు పరమవిద్య" },
+          { "word": "బ్రహ్మరూపా న సంశయః", "grammar": "—", "meaning": "బ్రహ్మస్వరూపమే, సందేహం లేదు" },
+          { "word": "అర్ధమాత్రాక్షరా నిత్యా", "grammar": "nom.", "meaning": "అర్ధమాత్రాక్షరమైనది, నిత్యమైనది" },
+          { "word": "స్వానిర్వాచ్యపదాత్మికా", "grammar": "nom.", "meaning": "వాక్కుకు అందని స్వస్వరూపమైనది" }
+        ],
+        "sa": [
+          { "word": "गीता मे परमा विद्या", "grammar": "nom.", "meaning": "गीता मे परमा विद्या" },
+          { "word": "ब्रह्मरूपा न संशयः", "grammar": "—", "meaning": "ब्रह्मस्वरूपा निःसन्देहम्" },
+          { "word": "अर्धमात्राक्षरा नित्या", "grammar": "nom.", "meaning": "अर्धमात्राक्षरा नित्या" },
+          { "word": "स्वानिर्वाच्यपदात्मिका", "grammar": "nom.", "meaning": "स्वयम् अनिर्वाच्यस्वरूपा" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "చిదానన్దేన కృష్ణేన",
+        "ro": "Cidānandena kṛṣṇena",
+        "sa": "चिदानन्देन कृष्णेन"
+      },
+      "p2": {
+        "te": "ప్రోక్తా స్వముఖతోఽర్జునమ్",
+        "ro": "Proktā svamukhato'rjunam",
+        "sa": "प्रोक्ता स्वमुखतोऽर्जुनम्"
+      },
+      "p3": {
+        "te": "వేదత్రయీ పరానన్దా",
+        "ro": "Vedatrayī parānandā",
+        "sa": "वेदत्रयी परानन्दा"
+      },
+      "p4": {
+        "te": "తత్త్వార్థజ్ఞానసంయుతా",
+        "ro": "Tattvārthajñānasaṃyutā",
+        "sa": "तत्त्वार्थज्ञानसंयुता"
+      },
+      "num": 9,
+      "meaning": {
+        "te": {
+          "short": "చిదానందస్వరూపుడైన శ్రీకృష్ణుడు తన నోటితోనే స్వయంగా అర్జునునికి బోధించినది; ఇది వేదత్రయం, పరమానందం, తత్త్వార్థజ్ఞానంతో కూడినది.",
+          "long": "గీత ఎవరిచే, ఎలా బోధించబడిందో, దాని స్వభావం ఏమిటో ఈ శ్లోకం చెబుతుంది — చిత్‌+ఆనందస్వరూపుడైన శ్రీకృష్ణుడే స్వయంగా తన నోటితో అర్జునునికి బోధించాడు; ఇది ఋగ్-యజుర్-సామ వేదత్రయ సారమే; పరమానందాన్నిచ్చేది; తత్త్వార్థజ్ఞానంతో నిండినది."
+        },
+        "en": {
+          "short": "Spoken by Kṛṣṇa, of the nature of consciousness and bliss, directly from His own mouth to Arjuna — it is the essence of the three Vedas, supremely blissful, filled with knowledge of ultimate reality.",
+          "long": "This verse describes the origin and character of the Gītā: it was taught directly, from His own mouth, by Kṛṣṇa — who is of the nature of pure consciousness-bliss (cidānanda) — to Arjuna. It embodies the essence of the three Vedas (Ṛg, Yajur, Sāma), bestows supreme bliss, and is replete with the knowledge of ultimate reality (tattvārtha-jñāna)."
+        },
+        "sa": {
+          "short": "चिदानन्देन कृष्णेन प्रोक्ता स्वमुखतः अर्जुनम्। वेदत्रयी परानन्दा तत्त्वार्थज्ञानसंयुता।",
+          "long": "गीतायाः उद्भवं स्वरूपं च अयं श्लोकः वदति — चिदानन्दस्वरूपेण कृष्णेन स्वमुखतः अर्जुनाय एव उपदिष्टा; इयं ऋग्यजुःसामरूपवेदत्रयीसारभूता; परमानन्दप्रदा; तत्त्वार्थज्ञानेन परिपूर्णा च।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "cidānandena kṛṣṇena", "grammar": "instr.", "meaning": "by Kṛṣṇa, of consciousness-bliss nature" },
+          { "word": "proktā svamukhato'rjunam", "grammar": "—", "meaning": "spoken from His own mouth to Arjuna" },
+          { "word": "vedatrayī parānandā", "grammar": "nom.", "meaning": "[the] essence of the three Vedas, supremely blissful" },
+          { "word": "tattvārthajñānasaṃyutā", "grammar": "nom.", "meaning": "endowed with knowledge of ultimate reality" }
+        ],
+        "te": [
+          { "word": "చిదానన్దేన కృష్ణేన", "grammar": "instr.", "meaning": "చిదానందస్వరూపుడైన కృష్ణునిచే" },
+          { "word": "ప్రోక్తా స్వముఖతోఽర్జునమ్", "grammar": "—", "meaning": "తన నోటితోనే అర్జునునికి బోధించబడినది" },
+          { "word": "వేదత్రయీ పరానన్దా", "grammar": "nom.", "meaning": "వేదత్రయ సారము, పరమానందమైనది" },
+          { "word": "తత్త్వార్థజ్ఞానసంయుతా", "grammar": "nom.", "meaning": "తత్త్వార్థజ్ఞానంతో కూడినది" }
+        ],
+        "sa": [
+          { "word": "चिदानन्देन कृष्णेन", "grammar": "instr.", "meaning": "चिदानन्दस्वरूपेण कृष्णेन" },
+          { "word": "प्रोक्ता स्वमुखतोऽर्जुनम्", "grammar": "—", "meaning": "स्वमुखतः अर्जुनाय उक्ता" },
+          { "word": "वेदत्रयी परानन्दा", "grammar": "nom.", "meaning": "वेदत्रयीसारभूता परमानन्दा" },
+          { "word": "तत्त्वार्थज्ञानसंयुता", "grammar": "nom.", "meaning": "तत्त्वार्थज्ञानेन युक्ता" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "యోఽష్టాదశం జపేన్నిత్యం",
+        "ro": "Yo'ṣṭādaśaṃ japennityaṃ",
+        "sa": "योऽष्टादशं जपेन्नित्यं"
+      },
+      "p2": {
+        "te": "నరో నిశ్చలమానసః",
+        "ro": "Naro niścalamānasaḥ",
+        "sa": "नरो निश्चलमानसः"
+      },
+      "p3": {
+        "te": "జ్ఞానసిద్ధిం స లభతే",
+        "ro": "Jñānasiddhiṃ sa labhate",
+        "sa": "ज्ञानसिद्धिं स लभते"
+      },
+      "p4": {
+        "te": "తతో యాతి పరం పదమ్",
+        "ro": "Tato yāti paraṃ padam",
+        "sa": "ततो याति परं पदम्"
+      },
+      "num": 10,
+      "meaning": {
+        "te": {
+          "short": "మనసు నిశ్చలంగా ఉంచుకుని పద్దెనిమిది అధ్యాయాలను నిత్యం జపించేవాడు జ్ఞానసిద్ధిని పొంది, పరమపదాన్ని చేరుకుంటాడు.",
+          "long": "గీత మొత్తం (18 అధ్యాయాలు) నిత్యం, నిశ్చలమనస్సుతో పఠించే/జపించే మనిషి జ్ఞానసిద్ధిని పొందుతాడని, ఆ తరువాత పరమపదాన్ని (మోక్షాన్ని) చేరుకుంటాడని ఈ శ్లోకం చెబుతుంది."
+        },
+        "en": {
+          "short": "Whoever recites the eighteen [chapters] daily, with a steady mind, attains perfection in knowledge and thereafter reaches the supreme abode.",
+          "long": "This verse promises that a person who, with unwavering concentration, chants/recites the eighteen chapters of the Gītā every single day, attains jñāna-siddhi (perfection or fulfillment through knowledge), and from there proceeds to attain the supreme, final abode (mokṣa)."
+        },
+        "sa": {
+          "short": "यः अष्टादशं जपेत् नित्यं नरः निश्चलमानसः। ज्ञानसिद्धिं स लभते ततो याति परं पदम्।",
+          "long": "यः पुमान् नित्यं निश्चलमनसा अष्टादशाध्यायात्मिकां गीतां जपति/पठति, सः ज्ञानसिद्धिं लभते, ततः परं पदं (मोक्षं) प्राप्नोति इति अयं श्लोकः वदति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "yo'ṣṭādaśaṃ japennityaṃ", "grammar": "—", "meaning": "whoever recites the eighteen [chapters] daily" },
+          { "word": "naro niścalamānasaḥ", "grammar": "nom.", "meaning": "a person of steady mind" },
+          { "word": "jñānasiddhiṃ sa labhate", "grammar": "—", "meaning": "he attains perfection of knowledge" },
+          { "word": "tato yāti paraṃ padam", "grammar": "—", "meaning": "thence he goes to the supreme abode" }
+        ],
+        "te": [
+          { "word": "యోఽష్టాదశం జపేన్నిత్యం", "grammar": "—", "meaning": "ఎవడు పద్దెనిమిది అధ్యాయాలను నిత్యం జపిస్తాడో" },
+          { "word": "నరో నిశ్చలమానసః", "grammar": "nom.", "meaning": "నిశ్చలమనసు గల మనిషి" },
+          { "word": "జ్ఞానసిద్ధిం స లభతే", "grammar": "—", "meaning": "అతడు జ్ఞానసిద్ధిని పొందుతాడు" },
+          { "word": "తతో యాతి పరం పదమ్", "grammar": "—", "meaning": "తరువాత పరమపదాన్ని చేరుకుంటాడు" }
+        ],
+        "sa": [
+          { "word": "योऽष्टादशं जपेन्नित्यं", "grammar": "—", "meaning": "यः अष्टादशाध्यायान् नित्यं जपति" },
+          { "word": "नरो निश्चलमानसः", "grammar": "nom.", "meaning": "निश्चलमनाः नरः" },
+          { "word": "ज्ञानसिद्धिं स लभते", "grammar": "—", "meaning": "सः ज्ञानसिद्धिं लभते" },
+          { "word": "ततो याति परं पदम्", "grammar": "—", "meaning": "ततः परं पदं याति" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "పాఠేఽసమర్థః సమ్పూర్ణే",
+        "ro": "Pāṭhe'samarthaḥ sampūrṇe",
+        "sa": "पाठेऽसमर्थः सम्पूर्णे"
+      },
+      "p2": {
+        "te": "తతోఽర్ధం పాఠమాచరేత్",
+        "ro": "Tato'rdhaṃ pāṭhamācaret",
+        "sa": "ततोऽर्धं पाठमाचरेत्"
+      },
+      "p3": {
+        "te": "తదా గోదానజం పుణ్యం",
+        "ro": "Tadā godānajaṃ puṇyaṃ",
+        "sa": "तदा गोदानजं पुण्यं"
+      },
+      "p4": {
+        "te": "లభతే నాత్ర సంశయః",
+        "ro": "Labhate nātra saṃśayaḥ",
+        "sa": "लभते नात्र संशयः"
+      },
+      "num": 11,
+      "meaning": {
+        "te": {
+          "short": "పూర్తిగా పఠించలేనివాడు అర్ధభాగాన్నైనా పఠించవచ్చు; అప్పుడు అతడు గోదానఫలమైన పుణ్యాన్ని పొందుతాడు, ఇందులో సందేహం లేదు.",
+          "long": "గీత మొత్తాన్ని పఠించలేని పరిస్థితిలో ఉన్నవారికి ఈ శ్లోకం ఉపశమనం ఇస్తుంది — పూర్తిగా పఠించలేనివాడు కనీసం సగభాగమైనా పఠిస్తే, అతనికి గోదానం చేసిన పుణ్యఫలం లభిస్తుందని, ఇందులో ఏమాత్రం సందేహం లేదని చెబుతుంది."
+        },
+        "en": {
+          "short": "If unable to recite the whole, one should then recite half; thereby one obtains the merit born of donating a cow — there is no doubt of this.",
+          "long": "This verse offers a graded alternative for those unable to complete a full recitation of the Gītā: reciting even half of it earns the meritorious fruit equivalent to that of godāna (the gift of a cow), a traditionally highly meritorious act — the text affirms there is no doubt about this."
+        },
+        "sa": {
+          "short": "पाठे असमर्थः सम्पूर्णे ततः अर्धं पाठम् आचरेत्। तदा गोदानजं पुण्यं लभते नात्र संशयः।",
+          "long": "सम्पूर्णां गीतां पठितुम् असमर्थः यः, सः तस्याः अर्धभागम् अपि पठेत्; तथा कृते सति गोदानजं पुण्यं सः लभते, अत्र किमपि संशयः नास्ति इति अयं श्लोकः आश्वासयति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "pāṭhe'samarthaḥ sampūrṇe", "grammar": "—", "meaning": "unable [to recite it] in full" },
+          { "word": "tato'rdhaṃ pāṭhamācaret", "grammar": "opt.", "meaning": "should then recite half of it" },
+          { "word": "tadā godānajaṃ puṇyaṃ", "grammar": "acc.", "meaning": "then the merit born of donating a cow" },
+          { "word": "labhate nātra saṃśayaḥ", "grammar": "—", "meaning": "one obtains — there is no doubt here" }
+        ],
+        "te": [
+          { "word": "పాఠేఽసమర్థః సమ్పూర్ణే", "grammar": "—", "meaning": "పూర్తిగా పఠించలేని అసమర్థుడు" },
+          { "word": "తతోఽర్ధం పాఠమాచరేత్", "grammar": "opt.", "meaning": "అప్పుడు అర్ధభాగాన్ని పఠించవచ్చు" },
+          { "word": "తదా గోదానజం పుణ్యం", "grammar": "acc.", "meaning": "అప్పుడు గోదానఫలమైన పుణ్యాన్ని" },
+          { "word": "లభతే నాత్ర సంశయః", "grammar": "—", "meaning": "పొందుతాడు, ఇందులో సందేహం లేదు" }
+        ],
+        "sa": [
+          { "word": "पाठेऽसमर्थः सम्पूर्णे", "grammar": "—", "meaning": "सम्पूर्णं पाठे असमर्थः" },
+          { "word": "ततोऽर्धं पाठमाचरेत्", "grammar": "opt.", "meaning": "ततः अर्धं पाठम् आचरेत्" },
+          { "word": "तदा गोदानजं पुण्यं", "grammar": "acc.", "meaning": "तदा गोदानजं पुण्यम्" },
+          { "word": "लभते नात्र संशयः", "grammar": "—", "meaning": "लभते अत्र संशयः नास्ति" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "త్రిభాగం పఠమానస్తు",
+        "ro": "Tribhāgaṃ paṭhamānastu",
+        "sa": "त्रिभागं पठमानस्तु"
+      },
+      "p2": {
+        "te": "గఙ్గాస్నానఫలం లభేత్",
+        "ro": "Gaṅgāsnānaphalaṃ labhet",
+        "sa": "गङ्गास्नानफलं लभेत्"
+      },
+      "p3": {
+        "te": "షడంశం జపమానస్తు",
+        "ro": "Ṣaḍaṃśaṃ japamānastu",
+        "sa": "षडंशं जपमानस्तु"
+      },
+      "p4": {
+        "te": "సోమయాగఫలం లభేత్",
+        "ro": "Somayāgaphalaṃ labhet",
+        "sa": "सोमयागफलं लभेत्"
+      },
+      "num": 12,
+      "meaning": {
+        "te": {
+          "short": "మూడోవంతు పఠించేవాడు గంగాస్నానఫలం పొందుతాడు; ఆరవవంతు జపించేవాడు సోమయాగఫలం పొందుతాడు.",
+          "long": "గీత పఠనంలో దామాషా ప్రకారం ఫలితాన్ని వివరించే శ్లోకమిది — గీతలో మూడోవంతు (త్రిభాగం) పఠించేవాడు గంగానదిలో స్నానం చేసిన ఫలాన్ని, ఆరవవంతు (షడంశం) జపించేవాడు సోమయాగం చేసిన ఫలాన్ని పొందుతాడని చెబుతుంది."
+        },
+        "en": {
+          "short": "One who recites a third [of the Gītā] obtains the merit of bathing in the Gaṅgā; one who recites a sixth part obtains the merit of performing the Soma sacrifice.",
+          "long": "Continuing the proportional-reward theme, this verse states that reciting even one-third of the Gītā yields merit equal to bathing in the sacred Gaṅgā river, while reciting just one-sixth of it earns the merit of performing a Soma-yajña, a major Vedic sacrifice."
+        },
+        "sa": {
+          "short": "त्रिभागं पठमानस्तु गङ्गास्नानफलं लभेत्। षडंशं जपमानस्तु सोमयागफलं लभेत्।",
+          "long": "गीतापठने अंशानुपातेन फलं वर्णयति अयं श्लोकः — यः त्रिभागं पठति, सः गङ्गास्नानस्य फलं लभते; यः षडंशं जपति, सः सोमयागस्य फलं लभते।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "tribhāgaṃ paṭhamānastu", "grammar": "—", "meaning": "one reciting a third part" },
+          { "word": "gaṅgāsnānaphalaṃ labhet", "grammar": "opt.", "meaning": "should obtain the merit of bathing in the Gaṅgā" },
+          { "word": "ṣaḍaṃśaṃ japamānastu", "grammar": "—", "meaning": "one reciting a sixth part" },
+          { "word": "somayāgaphalaṃ labhet", "grammar": "opt.", "meaning": "should obtain the merit of the Soma sacrifice" }
+        ],
+        "te": [
+          { "word": "త్రిభాగం పఠమానస్తు", "grammar": "—", "meaning": "మూడోవంతు పఠించేవాడు" },
+          { "word": "గఙ్గాస్నానఫలం లభేత్", "grammar": "opt.", "meaning": "గంగాస్నానఫలం పొందుతాడు" },
+          { "word": "షడంశం జపమానస్తు", "grammar": "—", "meaning": "ఆరవవంతు జపించేవాడు" },
+          { "word": "సోమయాగఫలం లభేత్", "grammar": "opt.", "meaning": "సోమయాగఫలం పొందుతాడు" }
+        ],
+        "sa": [
+          { "word": "त्रिभागं पठमानस्तु", "grammar": "—", "meaning": "त्रिभागं पठन्" },
+          { "word": "गङ्गास्नानफलं लभेत्", "grammar": "opt.", "meaning": "गङ्गास्नानफलं लभते" },
+          { "word": "षडंशं जपमानस्तु", "grammar": "—", "meaning": "षडंशं जपन्" },
+          { "word": "सोमयागफलं लभेत्", "grammar": "opt.", "meaning": "सोमयागफलं लभते" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "ఏకాధ్యాయం తు యో నిత్యం",
+        "ro": "Ekādhyāyaṃ tu yo nityaṃ",
+        "sa": "एकाध्यायं तु यो नित्यं"
+      },
+      "p2": {
+        "te": "పఠతే భక్తిసంయుతః",
+        "ro": "Paṭhate bhaktisaṃyutaḥ",
+        "sa": "पठते भक्तिसंयुतः"
+      },
+      "p3": {
+        "te": "రుద్రలోకమవాప్నోతి",
+        "ro": "Rudralokamavāpnoti",
+        "sa": "रुद्रलोकमवाप्नोति"
+      },
+      "p4": {
+        "te": "గణో భూత్వా వసేచ్చిరమ్",
+        "ro": "Gaṇo bhūtvā vasecciram",
+        "sa": "गणो भूत्वा वसेच्चिरम्"
+      },
+      "num": 13,
+      "meaning": {
+        "te": {
+          "short": "ఏ ఒక్క అధ్యాయాన్నైనా భక్తితో నిత్యం పఠించేవాడు రుద్రలోకాన్ని పొంది, గణంగా మారి చిరకాలం అక్కడ నివసిస్తాడు.",
+          "long": "గీతలోని ఒకే ఒక్క అధ్యాయాన్ని కూడా భక్తితో ప్రతిరోజూ పఠించేవాడు రుద్రలోకాన్ని (శివలోకాన్ని) పొందుతాడని, అక్కడ శివగణంగా మారి చాలాకాలం నివసిస్తాడని ఈ శ్లోకం చెబుతుంది — గీత పఠనానికి కనీస స్థాయిలో కూడా గొప్ప ఫలం ఉందని తెలియజేయడం దీని ఉద్దేశం."
+        },
+        "en": {
+          "short": "One who daily recites even a single chapter with devotion attains the world of Rudra, and dwells there long as one of his attendants.",
+          "long": "This verse assures that even the minimal effort of reciting just one chapter of the Gītā daily, done with devotion, is enough to attain Rudraloka (Śiva's world), where the devotee becomes one of Śiva's attendant beings (gaṇas) and resides for a long span of time — underscoring that even modest, sustained practice bears great fruit."
+        },
+        "sa": {
+          "short": "एकाध्यायं तु यो नित्यं पठते भक्तिसंयुतः। रुद्रलोकमवाप्नोति गणो भूत्वा वसेच्चिरम्।",
+          "long": "गीतायाः एकम् अपि अध्यायं भक्तियुक्तः यः नित्यं पठति, सः रुद्रलोकं प्राप्नोति, तत्र शिवगणः भूत्वा चिरकालं वसति इति अयं श्लोकः वदति — अल्पेन अपि पठनेन महत् फलं भवति इति सूचयन्।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "ekādhyāyaṃ tu yo nityaṃ", "grammar": "—", "meaning": "whoever [recites] even a single chapter daily" },
+          { "word": "paṭhate bhaktisaṃyutaḥ", "grammar": "—", "meaning": "recites, endowed with devotion" },
+          { "word": "rudralokamavāpnoti", "grammar": "—", "meaning": "attains the world of Rudra" },
+          { "word": "gaṇo bhūtvā vasecciram", "grammar": "opt.", "meaning": "becoming a gaṇa, may dwell there long" }
+        ],
+        "te": [
+          { "word": "ఏకాధ్యాయం తు యో నిత్యం", "grammar": "—", "meaning": "ఏ ఒక్క అధ్యాయాన్నైనా నిత్యం" },
+          { "word": "పఠతే భక్తిసంయుతః", "grammar": "—", "meaning": "భక్తితో పఠించేవాడు" },
+          { "word": "రుద్రలోకమవాప్నోతి", "grammar": "—", "meaning": "రుద్రలోకాన్ని పొందుతాడు" },
+          { "word": "గణో భూత్వా వసేచ్చిరమ్", "grammar": "opt.", "meaning": "గణంగా మారి చిరకాలం నివసిస్తాడు" }
+        ],
+        "sa": [
+          { "word": "एकाध्यायं तु यो नित्यं", "grammar": "—", "meaning": "एकम् अपि अध्यायं यः नित्यं" },
+          { "word": "पठते भक्तिसंयुतः", "grammar": "—", "meaning": "भक्तियुक्तः पठति" },
+          { "word": "रुद्रलोकमवाप्नोति", "grammar": "—", "meaning": "रुद्रलोकम् अवाप्नोति" },
+          { "word": "गणो भूत्वा वसेच्चिरम्", "grammar": "opt.", "meaning": "गणः भूत्वा चिरं वसेत्" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "అధ్యాయం శ్లోకపాదం వా",
+        "ro": "Adhyāyaṃ ślokapādaṃ vā",
+        "sa": "अध्यायं श्लोकपादं वा"
+      },
+      "p2": {
+        "te": "నిత్యం యః పఠతే నరః",
+        "ro": "Nityaṃ yaḥ paṭhate naraḥ",
+        "sa": "नित्यं यः पठते नरः"
+      },
+      "p3": {
+        "te": "స యాతి నరతాం యావత్",
+        "ro": "Sa yāti naratāṃ yāvat",
+        "sa": "स याति नरतां यावत्"
+      },
+      "p4": {
+        "te": "మన్వన్తరం వసున్ధరే",
+        "ro": "Manvantaraṃ vasundhare",
+        "sa": "मन्वन्तरं वसुन्धरे"
+      },
+      "num": 14,
+      "meaning": {
+        "te": {
+          "short": "ఒక అధ్యాయాన్ని, లేదా ఒక్క శ్లోకపాదాన్ని కూడా నిత్యం పఠించేవాడు ఒక మన్వంతరం వరకు మనుష్యజన్మనే పొందుతూ ఉంటాడు.",
+          "long": "ఒక అధ్యాయం లేదా కనీసం ఒక్క శ్లోకపాదాన్ని కూడా నిత్యం పఠించే మనిషి, ఎంతో దీర్ఘకాలం (ఒక మన్వంతరం వరకు) మనుష్యజన్మనే పొందుతూ, భూదేవిపై జీవించే భాగ్యాన్ని పొందుతాడని ఈ శ్లోకం చెబుతుంది — అంటే దుర్లభమైన మనుష్యజన్మ శాశ్వతంగా అతనికి లభిస్తుందని అర్థం."
+        },
+        "en": {
+          "short": "One who recites daily even a chapter, or just a quarter-verse, retains the state of a human being for a whole Manvantara upon this earth.",
+          "long": "This verse states that a person who daily recites even just one chapter, or even a single pāda (quarter-verse) of the Gītā, secures the rare privilege of human birth on this earth continuously for an entire manvantara (a vast cosmic time-period) — emphasizing how precious and hard-won a human birth is, and how it is safeguarded by this small daily practice."
+        },
+        "sa": {
+          "short": "अध्यायं श्लोकपादं वा नित्यं यः पठते नरः। स याति नरतां यावत् मन्वन्तरं वसुन्धरे।",
+          "long": "अध्यायम् एकं वा एकं श्लोकपादम् अपि नित्यं यः पठति, सः वसुन्धरायां मन्वन्तरपर्यन्तं नरत्वम् एव प्राप्नोति इति अयं श्लोकः वदति — दुर्लभं मनुष्यजन्म तेन स्थिरीक्रियते इति सूचयन्।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "adhyāyaṃ ślokapādaṃ vā", "grammar": "acc.", "meaning": "a chapter, or a quarter-verse" },
+          { "word": "nityaṃ yaḥ paṭhate naraḥ", "grammar": "—", "meaning": "whichever person recites daily" },
+          { "word": "sa yāti naratāṃ yāvat", "grammar": "—", "meaning": "he attains/retains human state for as long as" },
+          { "word": "manvantaraṃ vasundhare", "grammar": "—", "meaning": "a manvantara, O Earth" }
+        ],
+        "te": [
+          { "word": "అధ్యాయం శ్లోకపాదం వా", "grammar": "acc.", "meaning": "ఒక అధ్యాయాన్ని, లేదా ఒక్క శ్లోకపాదాన్ని" },
+          { "word": "నిత్యం యః పఠతే నరః", "grammar": "—", "meaning": "నిత్యం పఠించే మనిషి" },
+          { "word": "స యాతి నరతాం యావత్", "grammar": "—", "meaning": "అతడు మనుష్యజన్మనే పొందుతూ ఉంటాడు" },
+          { "word": "మన్వన్తరం వసున్ధరే", "grammar": "—", "meaning": "ఒక మన్వంతరం వరకు, ఓ భూదేవీ" }
+        ],
+        "sa": [
+          { "word": "अध्यायं श्लोकपादं वा", "grammar": "acc.", "meaning": "अध्यायं श्लोकपादं वा" },
+          { "word": "नित्यं यः पठते नरः", "grammar": "—", "meaning": "नित्यं यः पठति नरः" },
+          { "word": "स याति नरतां यावत्", "grammar": "—", "meaning": "सः नरत्वं याति यावत्" },
+          { "word": "मन्वन्तरं वसुन्धरे", "grammar": "—", "meaning": "मन्वन्तरं हे वसुन्धरे" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "గీతాయాః శ్లోకదశకం",
+        "ro": "Gītāyāḥ ślokadaśakaṃ",
+        "sa": "गीतायाः श्लोकदशकं"
+      },
+      "p2": {
+        "te": "సప్త పఞ్చ చతుష్టయమ్",
+        "ro": "Sapta pañca catuṣṭayam",
+        "sa": "सप्त पञ्च चतुष्टयम्"
+      },
+      "p3": {
+        "te": "ద్వౌ త్రీనేకం తదర్ధం వా",
+        "ro": "Dvau trīnekaṃ tadardhaṃ vā",
+        "sa": "द्वौ त्रीनेकं तदर्धं वा"
+      },
+      "p4": {
+        "te": "శ్లోకానాం యః పఠేన్నరః",
+        "ro": "Ślokānāṃ yaḥ paṭhennaraḥ",
+        "sa": "श्लोकानां यः पठेन्नरः"
+      },
+      "num": 15,
+      "meaning": {
+        "te": {
+          "short": "గీతలోని పది శ్లోకాలు, ఏడు, ఐదు, నాలుగు, రెండు, మూడు, ఒకటి, లేదా అర్ధశ్లోకాన్ని పఠించేవానికి కూడా ఫలం లభిస్తుంది.",
+          "long": "గీత పఠనంలో ఎంత తక్కువ మొత్తమైనా — పది శ్లోకాలైనా, ఏడు, ఐదు, నాలుగు, రెండు, మూడు, ఒక్క శ్లోకమైనా, లేదా అర్ధశ్లోకమైనా — పఠించే ప్రతివారికీ ఫలం లభిస్తుందని ఈ శ్లోకం (తరువాతి శ్లోకంతో అన్వయించి) చెబుతుంది. ఇది గీత పఠనానికి ఏ స్థాయిలోనూ ఫలం తప్పదని తెలియజేసే క్రమాన్ని కొనసాగిస్తుంది."
+        },
+        "en": {
+          "short": "Whoever recites ten verses of the Gītā, or seven, five, four, two, three, one, or even half a verse [also attains a result].",
+          "long": "Continuing the graded-merit theme (linked to the next verse for its result), this verse lists an escalating scale of minimal recitation — ten verses, seven, five, four, two, three, one, or even a half-verse — each of which, however small, is credited with its own fruit."
+        },
+        "sa": {
+          "short": "गीतायाः श्लोकदशकं सप्त पञ्च चतुष्टयम्। द्वौ त्रीन् एकं तदर्धं वा श्लोकानां यः पठेत् नरः।",
+          "long": "गीतापठने न्यूनातिन्यूनम् अपि परिमाणं — दश श्लोकाः, सप्त, पञ्च, चत्वारः, द्वौ, त्रयः, एकः, अथवा अर्धश्लोकः अपि — यः पठति, तस्य अपि फलं भवति इति अयं श्लोकः (अग्रिमश्लोकेन सह अन्वेयः) क्रमेण वदति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "gītāyāḥ ślokadaśakaṃ", "grammar": "acc.", "meaning": "ten verses of the Gītā" },
+          { "word": "sapta pañca catuṣṭayam", "grammar": "acc.", "meaning": "seven, five, [or] four" },
+          { "word": "dvau trīnekaṃ tadardhaṃ vā", "grammar": "acc.", "meaning": "two, three, one, or half of it" },
+          { "word": "ślokānāṃ yaḥ paṭhennaraḥ", "grammar": "—", "meaning": "of verses, whichever person recites" }
+        ],
+        "te": [
+          { "word": "గీతాయాః శ్లోకదశకం", "grammar": "acc.", "meaning": "గీతలోని పది శ్లోకాలను" },
+          { "word": "సప్త పఞ్చ చతుష్టయమ్", "grammar": "acc.", "meaning": "ఏడు, ఐదు, నాలుగు" },
+          { "word": "ద్వౌ త్రీనేకం తదర్ధం వా", "grammar": "acc.", "meaning": "రెండు, మూడు, ఒకటి, లేదా అర్ధశ్లోకాన్ని" },
+          { "word": "శ్లోకానాం యః పఠేన్నరః", "grammar": "—", "meaning": "శ్లోకాలలో ఏ మనిషి పఠిస్తాడో" }
+        ],
+        "sa": [
+          { "word": "गीतायाः श्लोकदशकं", "grammar": "acc.", "meaning": "गीतायाः दश श्लोकान्" },
+          { "word": "सप्त पञ्च चतुष्टयम्", "grammar": "acc.", "meaning": "सप्त पञ्च चत्वारः वा" },
+          { "word": "द्वौ त्रीनेकं तदर्धं वा", "grammar": "acc.", "meaning": "द्वौ त्रीन् एकं तदर्धं वा" },
+          { "word": "श्लोकानां यः पठेन्नरः", "grammar": "—", "meaning": "श्लोकानां यः पठति नरः" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "చన్ద్రలోకమవాప్నోతి",
+        "ro": "Candralokamavāpnoti",
+        "sa": "चन्द्रलोकमवाप्नोति"
+      },
+      "p2": {
+        "te": "వర్షాణామయుతం ధ్రువమ్",
+        "ro": "Varṣāṇāmayutaṃ dhruvam",
+        "sa": "वर्षाणामयुतं ध्रुवम्"
+      },
+      "p3": {
+        "te": "గీతాపాఠసమాయుక్తః",
+        "ro": "Gītāpāṭhasamāyuktaḥ",
+        "sa": "गीतापाठसमायुक्तः"
+      },
+      "p4": {
+        "te": "మృతా మానుషతాం వ్రజేత్",
+        "ro": "Mṛtā mānuṣatāṃ vrajet",
+        "sa": "मृता मानुषतां व्रजेत्"
+      },
+      "num": 16,
+      "meaning": {
+        "te": {
+          "short": "[అలా పఠించేవాడు] చంద్రలోకాన్ని పదివేల సంవత్సరాలు నిశ్చయంగా పొందుతాడు; గీతాపారాయణంతో కూడినవాడు మరణించాక తిరిగి మనుష్యజన్మనే పొందుతాడు.",
+          "long": "15వ శ్లోకంలో పేర్కొన్న కొద్దిపాటి పఠనం చేసేవాడు కూడా చంద్రలోకంలో పదివేల సంవత్సరాలు నిశ్చయంగా నివసిస్తాడని, ఆపైన మరణించి మళ్లీ మనుష్యజన్మనే (గీతాపారాయణానికి అనుకూలమైన జన్మను) పొందుతాడని ఈ శ్లోకం చెబుతుంది."
+        },
+        "en": {
+          "short": "He certainly attains the world of the Moon for ten thousand years; one associated with recitation of the Gītā, upon death, is reborn into human birth.",
+          "long": "Continuing from the previous verse, even minimal recitation as described earns residence in Candraloka (the lunar world) for ten thousand years; and one who has been associated with reciting the Gītā, when that celestial sojourn ends and death (of that state) occurs, is reborn specifically into a human birth — the birth most conducive to continuing the practice."
+        },
+        "sa": {
+          "short": "चन्द्रलोकमवाप्नोति वर्षाणाम् अयुतं ध्रुवम्। गीतापाठसमायुक्तः मृता मानुषतां व्रजेत्।",
+          "long": "पूर्वश्लोकोक्तं न्यूनम् अपि पठनं कुर्वन् चन्द्रलोकं दशसहस्रवर्षाणि निश्चयेन प्राप्नोति; गीतापाठेन युक्तः सः मरणानन्तरं पुनः मानुषजन्म एव व्रजति इति अयं श्लोकः वदति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "candralokamavāpnoti", "grammar": "—", "meaning": "attains the world of the Moon" },
+          { "word": "varṣāṇāmayutaṃ dhruvam", "grammar": "acc.", "meaning": "certainly for ten thousand years" },
+          { "word": "gītāpāṭhasamāyuktaḥ", "grammar": "nom.", "meaning": "one associated with recitation of the Gītā" },
+          { "word": "mṛtā mānuṣatāṃ vrajet", "grammar": "opt.", "meaning": "upon dying, attains human birth" }
+        ],
+        "te": [
+          { "word": "చన్ద్రలోకమవాప్నోతి", "grammar": "—", "meaning": "చంద్రలోకాన్ని పొందుతాడు" },
+          { "word": "వర్షాణామయుతం ధ్రువమ్", "grammar": "acc.", "meaning": "పదివేల సంవత్సరాలు నిశ్చయంగా" },
+          { "word": "గీతాపాఠసమాయుక్తః", "grammar": "nom.", "meaning": "గీతాపారాయణంతో కూడినవాడు" },
+          { "word": "మృతా మానుషతాం వ్రజేత్", "grammar": "opt.", "meaning": "మరణించాక మనుష్యజన్మను పొందుతాడు" }
+        ],
+        "sa": [
+          { "word": "चन्द्रलोकमवाप्नोति", "grammar": "—", "meaning": "चन्द्रलोकम् अवाप्नोति" },
+          { "word": "वर्षाणामयुतं ध्रुवम्", "grammar": "acc.", "meaning": "वर्षाणाम् अयुतं ध्रुवम्" },
+          { "word": "गीतापाठसमायुक्तः", "grammar": "nom.", "meaning": "गीतापाठेन युक्तः" },
+          { "word": "मृता मानुषतां व्रजेत्", "grammar": "opt.", "meaning": "मृत्वा मानुषत्वं व्रजेत्" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "గీతాభ్యాసం పునః కృత్వా",
+        "ro": "Gītābhyāsaṃ punaḥ kṛtvā",
+        "sa": "गीताभ्यासं पुनः कृत्वा"
+      },
+      "p2": {
+        "te": "లభతే ముక్తిముత్తమామ్",
+        "ro": "Labhate muktimuttamām",
+        "sa": "लभते मुक्तिमुत्तमाम्"
+      },
+      "p3": {
+        "te": "గీతేత్యుచ్చారసంయుక్తః",
+        "ro": "Gītetyuccārasaṃyuktaḥ",
+        "sa": "गीतेत्युच्चारसंयुक्तः"
+      },
+      "p4": {
+        "te": "మ్రియమాణో గతిం లభేత్",
+        "ro": "Mriyamāṇo gatiṃ labhet",
+        "sa": "म्रियमाणो गतिं लभेत्"
+      },
+      "num": 17,
+      "meaning": {
+        "te": {
+          "short": "మళ్లీ గీతాభ్యాసం చేసి ఉత్తమమైన ముక్తిని పొందుతాడు; 'గీత' అని ఉచ్చరిస్తూ మరణించేవాడు సద్గతిని పొందుతాడు.",
+          "long": "మనుష్యజన్మ పొందిన తరువాత తిరిగి గీతాభ్యాసం చేసేవాడు అత్యుత్తమమైన ముక్తినే పొందుతాడని, అంతేకాక కేవలం 'గీత' అనే పదాన్ని ఉచ్చరిస్తూ మరణించినవాడు కూడా సద్గతిని పొందుతాడని ఈ శ్లోకం గీత నామశక్తిని కీర్తిస్తుంది."
+        },
+        "en": {
+          "short": "Practicing the Gītā once again, he attains the highest liberation; one who dies while uttering the very word 'Gītā' attains a good destination.",
+          "long": "Having again taken human birth, if one resumes gītābhyāsa, the supreme liberation (mukti) follows. This verse further glorifies the power of even the name 'Gītā' — a person who dies with that very word on their lips attains a good and auspicious afterlife destination, regardless of other circumstances."
+        },
+        "sa": {
+          "short": "गीताभ्यासं पुनः कृत्वा लभते मुक्तिमुत्तमाम्। गीतेत्युच्चारसंयुक्तः म्रियमाणो गतिं लभेत्।",
+          "long": "मानुषजन्म पुनः प्राप्य यः गीताभ्यासं पुनः करोति, सः उत्तमां मुक्तिम् एव लभते; अपि च केवलं 'गीता' इति शब्दम् उच्चारयन् यः म्रियते, सः अपि सद्गतिं लभते इति अयं श्लोकः गीतानामशक्तिं कीर्तयति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "gītābhyāsaṃ punaḥ kṛtvā", "grammar": "gerund", "meaning": "having practiced the Gītā again" },
+          { "word": "labhate muktimuttamām", "grammar": "—", "meaning": "attains the highest liberation" },
+          { "word": "gītetyuccārasaṃyuktaḥ", "grammar": "nom.", "meaning": "one associated with uttering [the word] 'Gītā'" },
+          { "word": "mriyamāṇo gatiṃ labhet", "grammar": "opt.", "meaning": "while dying, should attain a [good] destination" }
+        ],
+        "te": [
+          { "word": "గీతాభ్యాసం పునః కృత్వా", "grammar": "gerund", "meaning": "గీతాభ్యాసాన్ని మళ్లీ చేసి" },
+          { "word": "లభతే ముక్తిముత్తమామ్", "grammar": "—", "meaning": "ఉత్తమమైన ముక్తిని పొందుతాడు" },
+          { "word": "గీతేత్యుచ్చారసంయుక్తః", "grammar": "nom.", "meaning": "'గీత' అని ఉచ్చరిస్తూ ఉన్నవాడు" },
+          { "word": "మ్రియమాణో గతిం లభేత్", "grammar": "opt.", "meaning": "మరణిస్తూ సద్గతిని పొందుతాడు" }
+        ],
+        "sa": [
+          { "word": "गीताभ्यासं पुनः कृत्वा", "grammar": "gerund", "meaning": "गीताभ्यासं पुनः कृत्वा" },
+          { "word": "लभते मुक्तिमुत्तमाम्", "grammar": "—", "meaning": "उत्तमां मुक्तिं लभते" },
+          { "word": "गीतेत्युच्चारसंयुक्तः", "grammar": "nom.", "meaning": "'गीता' इति उच्चारं कुर्वन्" },
+          { "word": "म्रियमाणो गतिं लभेत्", "grammar": "opt.", "meaning": "म्रियमाणः सद्गतिं लभेत्" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "గీతార్థశ్రవణాసక్తః",
+        "ro": "Gītārthaśravaṇāsaktaḥ",
+        "sa": "गीतार्थश्रवणासक्तः"
+      },
+      "p2": {
+        "te": "మహాపాపయుతోఽపి వా",
+        "ro": "Mahāpāpayuto'pi vā",
+        "sa": "महापापयुतोऽपि वा"
+      },
+      "p3": {
+        "te": "వైకుణ్ఠం సమవాప్నోతి",
+        "ro": "Vaikuṇṭhaṃ samavāpnoti",
+        "sa": "वैकुण्ठं समवाप्नोति"
+      },
+      "p4": {
+        "te": "విష్ణునా సహ మోదతే",
+        "ro": "Viṣṇunā saha modate",
+        "sa": "विष्णुना सह मोदते"
+      },
+      "num": 18,
+      "meaning": {
+        "te": {
+          "short": "గీతార్థశ్రవణంలో ఆసక్తుడైనవాడు, గొప్ప పాపాలున్నప్పటికీ, వైకుంఠాన్ని పొంది, విష్ణువుతో కలిసి ఆనందిస్తాడు.",
+          "long": "గీత అర్థాన్ని వినడంలో మనసు లగ్నం చేసిన మనిషి, గత జన్మల మహాపాపాలు కలిగి ఉన్నప్పటికీ, వైకుంఠాన్ని పొంది, అక్కడ సాక్షాత్తు విష్ణువుతో కలిసి ఆనందిస్తాడని ఈ శ్లోకం చెబుతుంది — గీతార్థశ్రవణం అంత శక్తిమంతమైనది."
+        },
+        "en": {
+          "short": "One devoted to hearing the meaning of the Gītā, even if burdened with great sins, attains Vaikuṇṭha and rejoices there together with Viṣṇu.",
+          "long": "This verse asserts the extraordinary power of listening attentively to the meaning of the Gītā: even a person weighed down with great sins, if devoted to such listening, attains Vaikuṇṭha (Viṣṇu's own abode) and dwells there in joyful company with the Lord Himself."
+        },
+        "sa": {
+          "short": "गीतार्थश्रवणासक्तः महापापयुतः अपि वा। वैकुण्ठं समवाप्नोति विष्णुना सह मोदते।",
+          "long": "गीतार्थश्रवणे आसक्तः यः पुमान्, सः पूर्वजन्मार्जितैः महापापैः युक्तः अपि सन्, वैकुण्ठं प्राप्नोति, तत्र साक्षात् विष्णुना सह मोदते इति अयं श्लोकः गीतार्थश्रवणस्य महाप्रभावं वदति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "gītārthaśravaṇāsaktaḥ", "grammar": "nom.", "meaning": "one devoted to hearing the meaning of the Gītā" },
+          { "word": "mahāpāpayuto'pi vā", "grammar": "—", "meaning": "even though burdened with great sin" },
+          { "word": "vaikuṇṭhaṃ samavāpnoti", "grammar": "—", "meaning": "attains Vaikuṇṭha" },
+          { "word": "viṣṇunā saha modate", "grammar": "—", "meaning": "rejoices together with Viṣṇu" }
+        ],
+        "te": [
+          { "word": "గీతార్థశ్రవణాసక్తః", "grammar": "nom.", "meaning": "గీతార్థశ్రవణంలో ఆసక్తుడైనవాడు" },
+          { "word": "మహాపాపయుతోఽపి వా", "grammar": "—", "meaning": "మహాపాపాలు కలిగి ఉన్నప్పటికీ" },
+          { "word": "వైకుణ్ఠం సమవాప్నోతి", "grammar": "—", "meaning": "వైకుంఠాన్ని పొందుతాడు" },
+          { "word": "విష్ణునా సహ మోదతే", "grammar": "—", "meaning": "విష్ణువుతో కలిసి ఆనందిస్తాడు" }
+        ],
+        "sa": [
+          { "word": "गीतार्थश्रवणासक्तः", "grammar": "nom.", "meaning": "गीतार्थश्रवणे आसक्तः" },
+          { "word": "महापापयुतोऽपि वा", "grammar": "—", "meaning": "महापापैः युक्तः अपि सन्" },
+          { "word": "वैकुण्ठं समवाप्नोति", "grammar": "—", "meaning": "वैकुण्ठं समवाप्नोति" },
+          { "word": "विष्णुना सह मोदते", "grammar": "—", "meaning": "विष्णुना सह मोदते" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "గీతార్థం ధ్యాయతే నిత్యం",
+        "ro": "Gītārthaṃ dhyāyate nityaṃ",
+        "sa": "गीतार्थं ध्यायते नित्यं"
+      },
+      "p2": {
+        "te": "కృత్వా కర్మాణి భూరిశః",
+        "ro": "Kṛtvā karmāṇi bhūriśaḥ",
+        "sa": "कृत्वा कर्माणि भूरिशः"
+      },
+      "p3": {
+        "te": "జీవన్ముక్తః స విజ్ఞేయః",
+        "ro": "Jīvanmuktaḥ sa vijñeyaḥ",
+        "sa": "जीवन्मुक्तः स विज्ञेयः"
+      },
+      "p4": {
+        "te": "దేహాన్తే పరమం పదమ్",
+        "ro": "Dehānte paramaṃ padam",
+        "sa": "देहान्ते परमं पदम्"
+      },
+      "num": 19,
+      "meaning": {
+        "te": {
+          "short": "ఎన్నో కర్మలు చేస్తూనే గీతార్థాన్ని నిత్యం ధ్యానించేవాడు జీవన్ముక్తుడిగా తెలియదగినవాడు; దేహాంతంలో పరమపదాన్ని పొందుతాడు.",
+          "long": "ఎన్నో కర్మలు (లౌకిక బాధ్యతలు) నిర్వర్తిస్తూనే, గీతార్థాన్ని నిత్యం ధ్యానించే మనిషిని జీవన్ముక్తుడని (జీవించి ఉండగానే ముక్తిని పొందినవాడని) పరిగణించాలని, అతడు దేహం విడిచిన తరువాత పరమపదాన్ని (మోక్షాన్ని) పొందుతాడని ఈ శ్లోకం చెబుతుంది."
+        },
+        "en": {
+          "short": "One who, while performing numerous actions, constantly meditates on the meaning of the Gītā, should be known as liberated-while-living (jīvanmukta); at the end of the body, he attains the supreme abode.",
+          "long": "This verse describes the state of jīvanmukti — liberation while still alive. A person who continues performing many worldly duties and actions, yet constantly holds the meaning of the Gītā in meditation, is to be recognized as already liberated even while living in the body; and when the body finally ends, that person attains the supreme, final abode."
+        },
+        "sa": {
+          "short": "गीतार्थं ध्यायते नित्यं कृत्वा कर्माणि भूरिशः। जीवन्मुक्तः स विज्ञेयः देहान्ते परमं पदम्।",
+          "long": "बहूनि कर्माणि कुर्वन् अपि यः नित्यं गीतार्थं ध्यायति, सः जीवन्नेव मुक्तः इति (जीवन्मुक्तः इति) ज्ञातव्यः; देहान्ते सः परमं पदं प्राप्नोति इति अयं श्लोकः जीवन्मुक्तिस्थितिं वर्णयति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "gītārthaṃ dhyāyate nityaṃ", "grammar": "—", "meaning": "constantly meditates on the meaning of the Gītā" },
+          { "word": "kṛtvā karmāṇi bhūriśaḥ", "grammar": "gerund", "meaning": "while performing numerous actions" },
+          { "word": "jīvanmuktaḥ sa vijñeyaḥ", "grammar": "—", "meaning": "he is to be known as liberated-while-living" },
+          { "word": "dehānte paramaṃ padam", "grammar": "acc.", "meaning": "at the end of the body, the supreme abode [he attains]" }
+        ],
+        "te": [
+          { "word": "గీతార్థం ధ్యాయతే నిత్యం", "grammar": "—", "meaning": "గీతార్థాన్ని నిత్యం ధ్యానిస్తూ" },
+          { "word": "కృత్వా కర్మాణి భూరిశః", "grammar": "gerund", "meaning": "అనేక కర్మలు చేస్తూ" },
+          { "word": "జీవన్ముక్తః స విజ్ఞేయః", "grammar": "—", "meaning": "అతడు జీవన్ముక్తుడిగా తెలియదగినవాడు" },
+          { "word": "దేహాన్తే పరమం పదమ్", "grammar": "acc.", "meaning": "దేహాంతంలో పరమపదాన్ని పొందుతాడు" }
+        ],
+        "sa": [
+          { "word": "गीतार्थं ध्यायते नित्यं", "grammar": "—", "meaning": "गीतार्थं नित्यं ध्यायन्" },
+          { "word": "कृत्वा कर्माणि भूरिशः", "grammar": "gerund", "meaning": "बहूनि कर्माणि कृत्वा" },
+          { "word": "जीवन्मुक्तः स विज्ञेयः", "grammar": "—", "meaning": "सः जीवन्मुक्तः इति विज्ञेयः" },
+          { "word": "देहान्ते परमं पदम्", "grammar": "acc.", "meaning": "देहान्ते परमं पदं प्राप्नोति" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "మలనిర్మోచనం పుంసాం",
+        "ro": "Malanirmocanaṃ puṃsāṃ",
+        "sa": "मलनिर्मोचनं पुंसां"
+      },
+      "p2": {
+        "te": "జలస్నానం దినే దినే",
+        "ro": "Jalasnānaṃ dine dine",
+        "sa": "जलस्नानं दिने दिने"
+      },
+      "p3": {
+        "te": "సకృద్గీతామ్భసి స్నానం",
+        "ro": "Sakṛdgītāmbhasi snānaṃ",
+        "sa": "सकृद्गीताम्भसि स्नानं"
+      },
+      "p4": {
+        "te": "సంసారమలనాశనమ్",
+        "ro": "Saṃsāramalanāśanam",
+        "sa": "संसारमलनाशनम्"
+      },
+      "num": 20,
+      "meaning": {
+        "te": {
+          "short": "మనుష్యుల మలినాన్ని పోగొట్టేది ప్రతిరోజూ చేసే జలస్నానం; అలాగే ఒక్కసారి గీతాజలంలో స్నానం చేస్తే సంసారమాలిన్యం నశిస్తుంది.",
+          "long": "ప్రతిరోజూ చేసే సాధారణ నీటిస్నానం శరీరపు మలినాన్ని మాత్రమే పోగొడుతుందని, కానీ గీత అనే జలంలో ఒక్కసారి స్నానం చేస్తే చాలు — సంసారానికి సంబంధించిన మొత్తం మాలిన్యమే నశిస్తుందని ఈ శ్లోకం పోల్చి చెబుతుంది."
+        },
+        "en": {
+          "short": "Daily bathing in water removes the impurity of the body; but a single bath in the waters of the Gītā destroys the impurity of worldly existence itself.",
+          "long": "This verse draws a contrast: ordinary daily bathing in water cleanses only the physical body's impurities, day after day; but a single immersion in the metaphorical 'waters' of the Gītā is enough to destroy the deeper impurity of saṃsāra — worldly bondage itself."
+        },
+        "sa": {
+          "short": "मलनिर्मोचनं पुंसां जलस्नानं दिने दिने। सकृद्गीताम्भसि स्नानं संसारमलनाशनम्।",
+          "long": "दिने दिने कृतं सामान्यं जलस्नानं शरीरस्य मात्रं मलं निर्मोचयति; परन्तु गीतारूपाम्भसि एकवारं स्नानं कृतं चेत् संसारस्य सम्पूर्णं मलं नाशं याति इति अयं श्लोकः तुलनात्मकरीत्या वदति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "malanirmocanaṃ puṃsāṃ", "grammar": "nom.", "meaning": "the removal of impurity for people" },
+          { "word": "jalasnānaṃ dine dine", "grammar": "nom.", "meaning": "[is] bathing in water day by day" },
+          { "word": "sakṛdgītāmbhasi snānaṃ", "grammar": "nom.", "meaning": "a single bath in the waters of the Gītā" },
+          { "word": "saṃsāramalanāśanam", "grammar": "nom.", "meaning": "[is] the destroyer of the impurity of worldly existence" }
+        ],
+        "te": [
+          { "word": "మలనిర్మోచనం పుంసాం", "grammar": "nom.", "meaning": "మనుష్యుల మలినాన్ని పోగొట్టేది" },
+          { "word": "జలస్నానం దినే దినే", "grammar": "nom.", "meaning": "ప్రతిరోజూ చేసే జలస్నానం" },
+          { "word": "సకృద్గీతామ్భసి స్నానం", "grammar": "nom.", "meaning": "ఒక్కసారి గీతాజలంలో స్నానం చేస్తే" },
+          { "word": "సంసారమలనాశనమ్", "grammar": "nom.", "meaning": "సంసారమాలిన్యాన్ని నశింపజేసేది" }
+        ],
+        "sa": [
+          { "word": "मलनिर्मोचनं पुंसां", "grammar": "nom.", "meaning": "पुंसां मलनिर्मोचनम्" },
+          { "word": "जलस्नानं दिने दिने", "grammar": "nom.", "meaning": "दिने दिने जलस्नानम्" },
+          { "word": "सकृद्गीताम्भसि स्नानं", "grammar": "nom.", "meaning": "सकृत् गीताम्भसि स्नानम्" },
+          { "word": "संसारमलनाशनम्", "grammar": "nom.", "meaning": "संसारमलनाशनम्" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "గీతామాశ్రిత్య బహవః",
+        "ro": "Gītāmāśritya bahavaḥ",
+        "sa": "गीतामाश्रित्य बहवः"
+      },
+      "p2": {
+        "te": "భూభుజో జనకాదయః",
+        "ro": "Bhūbhujo janakādayaḥ",
+        "sa": "भूभुजो जनकादयः"
+      },
+      "p3": {
+        "te": "నిధూతకల్మషా లోకే",
+        "ro": "Nidhūtakalmaṣā loke",
+        "sa": "निधूतकल्मषा लोके"
+      },
+      "p4": {
+        "te": "గీతా యాతాః పరం పదమ్",
+        "ro": "Gītā yātāḥ paraṃ padam",
+        "sa": "गीता याताः परं पदम्"
+      },
+      "num": 21,
+      "meaning": {
+        "te": {
+          "short": "జనకుడు మొదలైన అనేక రాజులు గీతను ఆశ్రయించి, లోకంలో పాపరహితులై, గీతద్వారానే పరమపదాన్ని పొందారు.",
+          "long": "గీతను ఆశ్రయించి ముక్తిని పొందిన మహారాజుల ఉదాహరణలను ఈ శ్లోకం ఇస్తుంది — జనకుడు మొదలైన అనేకమంది రాజులు గీతను ఆశ్రయించి, తమ పాపాలను (కల్మషాలను) పోగొట్టుకుని, గీత మార్గం ద్వారానే పరమపదాన్ని (మోక్షాన్ని) చేరుకున్నారు."
+        },
+        "en": {
+          "short": "Many kings, beginning with Janaka, took refuge in the Gītā; having shaken off their impurities in this world, they attained the supreme abode through the Gītā.",
+          "long": "This verse offers historical precedent: numerous kings, Janaka foremost among them, took the Gītā as their refuge. By doing so, they shed all worldly impurities (kalmaṣa) and, through the Gītā's path, reached the supreme and final abode."
+        },
+        "sa": {
+          "short": "गीताम् आश्रित्य बहवः भूभुजः जनकादयः। निधूतकल्मषा लोके गीतया याताः परं पदम्।",
+          "long": "गीताम् आश्रित्य मोक्षं प्राप्तानां महाराजानां दृष्टान्तान् अयं श्लोकः ददाति — जनकादयः बहवः भूपालाः गीताम् आश्रित्य स्वकीयानि पापानि (कल्मषाणि) निधूय, गीतामार्गेण एव परं पदं (मोक्षं) प्राप्ताः।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "gītāmāśritya bahavaḥ", "grammar": "gerund + nom.", "meaning": "many, having taken refuge in the Gītā" },
+          { "word": "bhūbhujo janakādayaḥ", "grammar": "nom.", "meaning": "kings, beginning with Janaka" },
+          { "word": "nidhūtakalmaṣā loke", "grammar": "nom.", "meaning": "having shaken off impurity in this world" },
+          { "word": "gītā yātāḥ paraṃ padam", "grammar": "—", "meaning": "through the Gītā, attained the supreme abode" }
+        ],
+        "te": [
+          { "word": "గీతామాశ్రిత్య బహవః", "grammar": "gerund + nom.", "meaning": "గీతను ఆశ్రయించి అనేకమంది" },
+          { "word": "భూభుజో జనకాదయః", "grammar": "nom.", "meaning": "జనకుడు మొదలైన రాజులు" },
+          { "word": "నిధూతకల్మషా లోకే", "grammar": "nom.", "meaning": "లోకంలో పాపరహితులై" },
+          { "word": "గీతా యాతాః పరం పదమ్", "grammar": "—", "meaning": "గీత ద్వారా పరమపదాన్ని పొందారు" }
+        ],
+        "sa": [
+          { "word": "गीतामाश्रित्य बहवः", "grammar": "gerund + nom.", "meaning": "गीताम् आश्रित्य बहवः" },
+          { "word": "भूभुजो जनकादयः", "grammar": "nom.", "meaning": "जनकादयः भूपालाः" },
+          { "word": "निधूतकल्मषा लोके", "grammar": "nom.", "meaning": "लोके निधूतपापाः" },
+          { "word": "गीता याताः परं पदम्", "grammar": "—", "meaning": "गीतया परं पदं गताः" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "తే శృణ్వన్తి పఠన్త్యేవ",
+        "ro": "Te śṛṇvanti paṭhantyeva",
+        "sa": "ते शृण्वन्ति पठन्त्येव"
+      },
+      "p2": {
+        "te": "గీతాశాస్త్రమహర్నిశమ్",
+        "ro": "Gītāśāstramaharniśam",
+        "sa": "गीताशास्त्रमहर्निशम्"
+      },
+      "p3": {
+        "te": "న తే వై మానుషా జ్ఞేయా",
+        "ro": "Na te vai mānuṣā jñeyā",
+        "sa": "न ते वै मानुषा ज्ञेया"
+      },
+      "p4": {
+        "te": "దేవా ఏవ న సంశయః",
+        "ro": "Devā eva na saṃśayaḥ",
+        "sa": "देवा एव न संशयः"
+      },
+      "num": 22,
+      "meaning": {
+        "te": {
+          "short": "వారు రేయింబవళ్లు గీతాశాస్త్రాన్ని వింటూ, పఠిస్తూనే ఉంటారు; వారిని మనుష్యులుగా భావించరాదు — నిస్సందేహంగా వారు దేవతలే.",
+          "long": "రేయింబవళ్లు గీతాశాస్త్రాన్ని వినడం, పఠించడంలో నిమగ్నమైన వారిని మామూలు మనుష్యులుగా భావించకూడదని, వారు నిస్సందేహంగా దేవతలుగానే పరిగణించదగినవారని ఈ శ్లోకం ఘనంగా కీర్తిస్తుంది."
+        },
+        "en": {
+          "short": "They constantly hear and recite the scripture of the Gītā, day and night; such people are not to be regarded as merely human — they are, without doubt, gods themselves.",
+          "long": "This verse elevates such devoted practitioners to a divine status: those who continuously hear and recite the Gītā-śāstra day and night should not be thought of as ordinary mortals at all — they are to be regarded, without any doubt, as gods incarnate."
+        },
+        "sa": {
+          "short": "ते शृण्वन्ति पठन्ति एव गीताशास्त्रम् अहर्निशम्। न ते वै मानुषा ज्ञेया देवा एव न संशयः।",
+          "long": "अहर्निशं गीताशास्त्रस्य श्रवणे पठने च निरताः जनाः सामान्यमानुषाः इव न मन्तव्याः; ते निःसन्देहं देवाः एव इति गणनीयाः इति अयं श्लोकः तान् उच्चैः कीर्तयति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "te śṛṇvanti paṭhantyeva", "grammar": "—", "meaning": "they constantly hear and recite" },
+          { "word": "gītāśāstramaharniśam", "grammar": "acc.", "meaning": "the scripture of the Gītā, day and night" },
+          { "word": "na te vai mānuṣā jñeyā", "grammar": "—", "meaning": "they should not be known as [mere] humans" },
+          { "word": "devā eva na saṃśayaḥ", "grammar": "—", "meaning": "they are gods indeed, without doubt" }
+        ],
+        "te": [
+          { "word": "తే శృణ్వన్తి పఠన్త్యేవ", "grammar": "—", "meaning": "వారు వింటూ, పఠిస్తారు" },
+          { "word": "గీతాశాస్త్రమహర్నిశమ్", "grammar": "acc.", "meaning": "గీతాశాస్త్రాన్ని రేయింబవళ్లు" },
+          { "word": "న తే వై మానుషా జ్ఞేయా", "grammar": "—", "meaning": "వారిని మనుష్యులుగా భావించరాదు" },
+          { "word": "దేవా ఏవ న సంశయః", "grammar": "—", "meaning": "వారు దేవతలే, సందేహం లేదు" }
+        ],
+        "sa": [
+          { "word": "ते शृण्वन्ति पठन्त्येव", "grammar": "—", "meaning": "ते शृण्वन्ति पठन्ति च" },
+          { "word": "गीताशास्त्रमहर्निशम्", "grammar": "acc.", "meaning": "गीताशास्त्रम् अहर्निशम्" },
+          { "word": "न ते वै मानुषा ज्ञेया", "grammar": "—", "meaning": "न ते मानुषाः ज्ञेयाः" },
+          { "word": "देवा एव न संशयः", "grammar": "—", "meaning": "देवाः एव न संशयः" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "జ్ఞానాజ్ఞానకృతం నిత్యమ్",
+        "ro": "Jñānājñānakṛtaṃ nityam",
+        "sa": "ज्ञानाज्ञानकृतं नित्यम्"
+      },
+      "p2": {
+        "te": "ఇన్ద్రియైర్జనితం చ యత్",
+        "ro": "Indriyairjanitaṃ ca yat",
+        "sa": "इन्द्रियैर्जनितं च यत्"
+      },
+      "p3": {
+        "te": "తత్సర్వం నాశమాయాతి",
+        "ro": "Tatsarvaṃ nāśamāyāti",
+        "sa": "तत्सर्वं नाशमायाति"
+      },
+      "p4": {
+        "te": "గీతాపాఠేన తత్ క్షణమ్",
+        "ro": "Gītāpāṭhena tat kṣaṇam",
+        "sa": "गीतापाठेन तत् क्षणम्"
+      },
+      "num": 23,
+      "meaning": {
+        "te": {
+          "short": "జ్ఞానంతో గానీ, అజ్ఞానంతో గానీ నిత్యం చేసిన కర్మలు, ఇంద్రియాలవల్ల జనించినవి — అవన్నీ గీతాపారాయణంతో ఆ క్షణమే నశించిపోతాయి.",
+          "long": "మనిషి తెలిసిగానీ తెలియకుండాగానీ నిత్యం చేసే కర్మలు, అలాగే ఇంద్రియాల ద్వారా జనించే వాంఛలు/పాపాలు — వాటన్నింటినీ గీతాపారాయణం ఒక్క క్షణంలోనే నశింపజేస్తుందని ఈ శ్లోకం చెబుతుంది — గీతపారాయణ శక్తి అంత తీక్షణమైనది."
+        },
+        "en": {
+          "short": "Whatever is done daily knowingly or unknowingly, and whatever arises through the senses — all of that is destroyed instantly through recitation of the Gītā.",
+          "long": "This verse describes the swift purifying power of Gītā recitation: whatever karma one accumulates daily — whether performed knowingly or unknowingly — and whatever arises from the workings of the senses, all of it is annihilated in an instant through gītā-pāṭha (recitation of the Gītā)."
+        },
+        "sa": {
+          "short": "ज्ञानाज्ञानकृतं नित्यम् इन्द्रियैः जनितं च यत्। तत्सर्वं नाशम् आयाति गीतापाठेन तत् क्षणम्।",
+          "long": "ज्ञानतः अज्ञानतः वा नित्यं कृतं यत्, इन्द्रियद्वारा जनितं च यत्, तत् सर्वं गीतापाठेन तत्क्षणम् एव नाशं याति इति अयं श्लोकः गीतापाठस्य तीव्रं शोधनसामर्थ्यं वदति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "jñānājñānakṛtaṃ nityam", "grammar": "acc.", "meaning": "whatever is done daily, knowingly or unknowingly" },
+          { "word": "indriyairjanitaṃ ca yat", "grammar": "acc.", "meaning": "and whatever is produced by the senses" },
+          { "word": "tatsarvaṃ nāśamāyāti", "grammar": "—", "meaning": "all of that comes to destruction" },
+          { "word": "gītāpāṭhena tat kṣaṇam", "grammar": "instr.", "meaning": "through recitation of the Gītā, instantly" }
+        ],
+        "te": [
+          { "word": "జ్ఞానాజ్ఞానకృతం నిత్యమ్", "grammar": "acc.", "meaning": "జ్ఞానంతో గానీ, అజ్ఞానంతో గానీ నిత్యం చేసినది" },
+          { "word": "ఇన్ద్రియైర్జనితం చ యత్", "grammar": "acc.", "meaning": "ఇంద్రియాలవల్ల జనించినది" },
+          { "word": "తత్సర్వం నాశమాయాతి", "grammar": "—", "meaning": "అదంతా నశించిపోతుంది" },
+          { "word": "గీతాపాఠేన తత్ క్షణమ్", "grammar": "instr.", "meaning": "గీతాపారాయణంతో ఆ క్షణమే" }
+        ],
+        "sa": [
+          { "word": "ज्ञानाज्ञानकृतं नित्यम्", "grammar": "acc.", "meaning": "ज्ञानेन अज्ञानेन वा नित्यं कृतम्" },
+          { "word": "इन्द्रियैर्जनितं च यत्", "grammar": "acc.", "meaning": "इन्द्रियैः जनितं च यत्" },
+          { "word": "तत्सर्वं नाशमायाति", "grammar": "—", "meaning": "तत् सर्वं नाशं याति" },
+          { "word": "गीतापाठेन तत् क्षणम्", "grammar": "instr.", "meaning": "गीतापाठेन तत्क्षणम्" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "ధిక్ తస్య జ్ఞానమాచారం",
+        "ro": "Dhik tasya jñānamācāraṃ",
+        "sa": "धिक् तस्य ज्ञानमाचारं"
+      },
+      "p2": {
+        "te": "వ్రతం చేష్టాం తపో యశః",
+        "ro": "Vrataṃ ceṣṭāṃ tapo yaśaḥ",
+        "sa": "व्रतं चेष्टां तपो यशः"
+      },
+      "p3": {
+        "te": "గీతార్థపఠనం నాఽస్తి",
+        "ro": "Gītārthapaṭhanaṃ nā'sti",
+        "sa": "गीतार्थपठनं नाऽस्ति"
+      },
+      "p4": {
+        "te": "నాధమస్తత్పరో జనః",
+        "ro": "Nādhamastatparo janaḥ",
+        "sa": "नाधमस्तत्परो जनः"
+      },
+      "num": 24,
+      "meaning": {
+        "te": {
+          "short": "గీతార్థపఠనం లేని వాని జ్ఞానం, ఆచారం, వ్రతం, చేష్ట, తపస్సు, యశస్సు — అన్నీ ధిక్కారానికి యోగ్యమే; అటువంటివాడు అధముడు కాక మరేమీ కాదు.",
+          "long": "గీతార్థాన్ని పఠించని మనిషి కలిగి ఉన్న జ్ఞానం, ఆచారం, వ్రతాలు, ప్రవర్తన, తపస్సు, కీర్తి — ఇవన్నీ నిరర్థకాలేనని, అతడు అధముడేనని ఈ శ్లోకం కఠినంగా చెబుతుంది — గీతా పఠనం లేని ఏ ఇతర సాధనకైనా విలువ లేదని నొక్కి చెప్పడం దీని ఉద్దేశం."
+        },
+        "en": {
+          "short": "Shame on the knowledge, conduct, vow, effort, austerity, and fame of one who does not recite the meaning of the Gītā — such a person is nothing but the lowest of the low.",
+          "long": "This verse speaks sharply: whatever knowledge, ritual conduct, vows, striving, austerity, or reputation a person may possess counts for nothing — is fit only for reproach — if that person does not engage in reciting the meaning of the Gītā; such a person is to be regarded as utterly base, emphasizing that no other spiritual practice substitutes for engagement with the Gītā."
+        },
+        "sa": {
+          "short": "धिक् तस्य ज्ञानम् आचारं व्रतं चेष्टां तपो यशः। गीतार्थपठनं नाऽस्ति नाधमः तत्परो जनः।",
+          "long": "यस्य गीतार्थपठनं नास्ति, तस्य ज्ञानम्, आचारः, व्रतम्, चेष्टा, तपः, यशः च सर्वम् धिक्कारार्हम् एव; सः जनः अधमः एव इति अयं श्लोकः कठोरतया वदति — गीतापठनं विना अन्यत् किमपि साधनं निरर्थकम् इति नोक्तुम्।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "dhik tasya jñānamācāraṃ", "grammar": "—", "meaning": "shame on his knowledge and conduct" },
+          { "word": "vrataṃ ceṣṭāṃ tapo yaśaḥ", "grammar": "acc.", "meaning": "vow, effort, austerity, and fame" },
+          { "word": "gītārthapaṭhanaṃ nā'sti", "grammar": "—", "meaning": "[in whom] recitation of the Gītā's meaning does not exist" },
+          { "word": "nādhamastatparo janaḥ", "grammar": "—", "meaning": "that person, devoted to that [lack], is nothing but the lowest" }
+        ],
+        "te": [
+          { "word": "ధిక్ తస్య జ్ఞానమాచారం", "grammar": "—", "meaning": "అతని జ్ఞానం, ఆచారం ధిక్కారానికి యోగ్యం" },
+          { "word": "వ్రతం చేష్టాం తపో యశః", "grammar": "acc.", "meaning": "వ్రతం, చేష్ట, తపస్సు, యశస్సు" },
+          { "word": "గీతార్థపఠనం నాఽస్తి", "grammar": "—", "meaning": "గీతార్థపఠనం లేనివానికి" },
+          { "word": "నాధమస్తత్పరో జనః", "grammar": "—", "meaning": "అటువంటివాడు అధముడు కాక మరేమీ కాదు" }
+        ],
+        "sa": [
+          { "word": "धिक् तस्य ज्ञानमाचारं", "grammar": "—", "meaning": "तस्य ज्ञानम् आचारं धिक्" },
+          { "word": "व्रतं चेष्टां तपो यशः", "grammar": "acc.", "meaning": "व्रतं चेष्टां तपः यशः" },
+          { "word": "गीतार्थपठनं नाऽस्ति", "grammar": "—", "meaning": "यस्य गीतार्थपठनं नास्ति" },
+          { "word": "नाधमस्तत्परो जनः", "grammar": "—", "meaning": "सः जनः अधमः एव" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "సంసారసాగరం ఘోరం",
+        "ro": "Saṃsārasāgaraṃ ghoraṃ",
+        "sa": "संसारसागरं घोरं"
+      },
+      "p2": {
+        "te": "తర్తుమిచ్ఛతి యో జనః",
+        "ro": "Tartumicchati yo janaḥ",
+        "sa": "तर्तुमिच्छति यो जनः"
+      },
+      "p3": {
+        "te": "గీతానావం సమారుహ్య",
+        "ro": "Gītānāvaṃ samāruhya",
+        "sa": "गीतानावं समारुह्य"
+      },
+      "p4": {
+        "te": "పారం యాతి సుఖేన సః",
+        "ro": "Pāraṃ yāti sukhena saḥ",
+        "sa": "पारं याति सुखेन सः"
+      },
+      "num": 25,
+      "meaning": {
+        "te": {
+          "short": "భయంకరమైన సంసారసాగరాన్ని దాటాలనుకునే మనిషి గీత అనే నావను ఎక్కి సుఖంగా ఆవలి ఒడ్డుకు చేరుకుంటాడు.",
+          "long": "సంసారం అనే ఘోరమైన సముద్రాన్ని దాటాలని కోరుకునే వ్యక్తి గీత అనే నావను ఆశ్రయిస్తే, ఎటువంటి కష్టం లేకుండా సుఖంగా ఆవలి ఒడ్డుకు (మోక్షానికి) చేరుకుంటాడని ఈ శ్లోకం ఒక సుందర రూపకంలో చెబుతుంది."
+        },
+        "en": {
+          "short": "Whoever wishes to cross the terrible ocean of worldly existence, boarding the boat of the Gītā, easily reaches the far shore.",
+          "long": "Using the classic boat-and-ocean metaphor, this verse states that anyone wishing to cross the fearsome ocean of saṃsāra need only board the vessel of the Gītā — by doing so, they cross over to the far shore (liberation) with ease and without hardship."
+        },
+        "sa": {
+          "short": "संसारसागरं घोरं तर्तुम् इच्छति यो जनः। गीतानावं समारुह्य पारं याति सुखेन सः।",
+          "long": "घोरं संसारसागरं तर्तुम् इच्छन् यः जनः, सः गीतारूपां नावम् आरुह्य, कस्यापि क्लेशं विना सुखेन एव पारं (मोक्षं) याति इति अयं श्लोकः सुन्दरेण रूपकेण वदति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "saṃsārasāgaraṃ ghoraṃ", "grammar": "acc.", "meaning": "the terrible ocean of worldly existence" },
+          { "word": "tartumicchati yo janaḥ", "grammar": "—", "meaning": "whichever person wishes to cross" },
+          { "word": "gītānāvaṃ samāruhya", "grammar": "gerund", "meaning": "having boarded the boat of the Gītā" },
+          { "word": "pāraṃ yāti sukhena saḥ", "grammar": "—", "meaning": "he reaches the far shore with ease" }
+        ],
+        "te": [
+          { "word": "సంసారసాగరం ఘోరం", "grammar": "acc.", "meaning": "భయంకరమైన సంసారసాగరాన్ని" },
+          { "word": "తర్తుమిచ్ఛతి యో జనః", "grammar": "—", "meaning": "దాటాలని కోరుకునే మనిషి" },
+          { "word": "గీతానావం సమారుహ్య", "grammar": "gerund", "meaning": "గీత అనే నావను ఎక్కి" },
+          { "word": "పారం యాతి సుఖేన సః", "grammar": "—", "meaning": "సుఖంగా ఆవలి ఒడ్డుకు చేరుకుంటాడు" }
+        ],
+        "sa": [
+          { "word": "संसारसागरं घोरं", "grammar": "acc.", "meaning": "संसारसागरं घोरम्" },
+          { "word": "तर्तुमिच्छति यो जनः", "grammar": "—", "meaning": "तर्तुम् इच्छति यः जनः" },
+          { "word": "गीतानावं समारुह्य", "grammar": "gerund", "meaning": "गीतानावम् आरुह्य" },
+          { "word": "पारं याति सुखेन सः", "grammar": "—", "meaning": "सुखेन पारं याति सः" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "గీతాయాః పఠనం కృత్వా",
+        "ro": "Gītāyāḥ paṭhanaṃ kṛtvā",
+        "sa": "गीतायाः पठनं कृत्वा"
+      },
+      "p2": {
+        "te": "మాహాత్మ్యం నైవ యః పఠేత్",
+        "ro": "Māhātmyaṃ naiva yaḥ paṭhet",
+        "sa": "माहात्म्यं नैव यः पठेत्"
+      },
+      "p3": {
+        "te": "వృథా పాఠో భవేత్తస్య",
+        "ro": "Vṛthā pāṭho bhavettasya",
+        "sa": "वृथा पाठो भवेत्तस्य"
+      },
+      "p4": {
+        "te": "శ్రమ ఏవ హ్యుదాహృతః",
+        "ro": "Śrama eva hyudāhṛtaḥ",
+        "sa": "श्रम एव ह्युदाहृतः"
+      },
+      "num": 26,
+      "meaning": {
+        "te": {
+          "short": "గీతను పఠించి, దాని మాహాత్మ్యాన్ని పఠించనివానికి ఆ పఠనం వృథా అవుతుంది; అది కేవలం శ్రమగానే మిగులుతుంది.",
+          "long": "గీతను పూర్తిగా పఠించినప్పటికీ, దాని మాహాత్మ్యం (ఈ ప్రస్తుత ప్రకరణం) పఠించని వానికి ఆ శ్రమ అంతా వృథాయేనని, అది కేవలం అలసటగానే మిగిలిపోతుందని ఈ శ్లోకం చెబుతుంది — గీతామాహాత్మ్య పఠనం యొక్క ఆవశ్యకతను నొక్కి చెప్పడమే దీని ఉద్దేశం."
+        },
+        "en": {
+          "short": "Having recited the Gītā, if one does not also recite its Māhātmyam, that recitation becomes fruitless for him — it is declared to be mere exertion.",
+          "long": "This verse insists on the importance of the Gītā Māhātmyam itself: even a complete recitation of the Gītā is rendered fruitless if one neglects to also recite its Māhātmyam (this very text extolling its glory) — such recitation, the verse says, amounts to nothing more than physical exertion, without spiritual fruit."
+        },
+        "sa": {
+          "short": "गीतायाः पठनं कृत्वा माहात्म्यं नैव यः पठेत्। वृथा पाठो भवेत् तस्य श्रम एव हि उदाहृतः।",
+          "long": "गीतां सम्पूर्णां पठित्वा अपि यः तस्याः माहात्म्यम् (इदं प्रकरणम्) न पठति, तस्य सा पठनक्रिया वृथा एव भवति, केवलं श्रमः एव सा उच्यते इति अयं श्लोकः गीतामाहात्म्यपठनस्य आवश्यकतां दृढयति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "gītāyāḥ paṭhanaṃ kṛtvā", "grammar": "gerund", "meaning": "having recited the Gītā" },
+          { "word": "māhātmyaṃ naiva yaḥ paṭhet", "grammar": "—", "meaning": "whoever does not also recite its Māhātmyam" },
+          { "word": "vṛthā pāṭho bhavettasya", "grammar": "—", "meaning": "his recitation becomes fruitless" },
+          { "word": "śrama eva hyudāhṛtaḥ", "grammar": "—", "meaning": "it is declared to be mere exertion" }
+        ],
+        "te": [
+          { "word": "గీతాయాః పఠనం కృత్వా", "grammar": "gerund", "meaning": "గీతను పఠించి" },
+          { "word": "మాహాత్మ్యం నైవ యః పఠేత్", "grammar": "—", "meaning": "మాహాత్మ్యాన్ని పఠించని వానికి" },
+          { "word": "వృథా పాఠో భవేత్తస్య", "grammar": "—", "meaning": "అతని పఠనం వృథా అవుతుంది" },
+          { "word": "శ్రమ ఏవ హ్యుదాహృతః", "grammar": "—", "meaning": "అది కేవలం శ్రమగానే మిగులుతుంది" }
+        ],
+        "sa": [
+          { "word": "गीतायाः पठनं कृत्वा", "grammar": "gerund", "meaning": "गीतायाः पठनं कृत्वा" },
+          { "word": "माहात्म्यं नैव यः पठेत्", "grammar": "—", "meaning": "माहात्म्यं यः न पठति" },
+          { "word": "वृथा पाठो भवेत्तस्य", "grammar": "—", "meaning": "तस्य पाठः वृथा भवति" },
+          { "word": "श्रम एव ह्युदाहृतः", "grammar": "—", "meaning": "श्रमः एव उदाहृतः" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "ఏతన్మాహాత్మ్యసంయుక్తం",
+        "ro": "Etanmāhātmyasaṃyuktaṃ",
+        "sa": "एतन्माहात्म्यसंयुक्तं"
+      },
+      "p2": {
+        "te": "గీతాభ్యాసం కరోతి యః",
+        "ro": "Gītābhyāsaṃ karoti yaḥ",
+        "sa": "गीताभ्यासं करोति यः"
+      },
+      "p3": {
+        "te": "స తత్ఫలమవాప్నోతి",
+        "ro": "Sa tatphalamavāpnoti",
+        "sa": "स तत्फलमवाप्नोति"
+      },
+      "p4": {
+        "te": "దుర్లభాం గతిమాప్నుయాత్",
+        "ro": "Durlabhāṃ gatimāpnuyāt",
+        "sa": "दुर्लभां गतिमाप्नुयात्"
+      },
+      "num": 27,
+      "meaning": {
+        "te": {
+          "short": "ఈ మాహాత్మ్యంతో కలిపి గీతాభ్యాసం చేసేవాడు దాని ఫలాన్ని పొంది, దుర్లభమైన గతిని పొందుతాడు.",
+          "long": "గీతను, ఆ మాహాత్మ్యాన్ని కూడా కలిపి అభ్యసించే మనిషి పూర్తి ఫలాన్ని పొందుతాడని, అరుదైన, దుర్లభమైన సద్గతిని పొందుతాడని ఈ శ్లోకం చెబుతుంది — ఇది గీతా + మాహాత్మ్య సంయుక్త పఠనం యొక్క సంపూర్ణఫలాన్ని కీర్తిస్తుంది."
+        },
+        "en": {
+          "short": "Whoever practices the Gītā together with this Māhātmyam attains its complete fruit and reaches a rare, hard-to-attain destination.",
+          "long": "This verse crowns the teaching: one who practices the Gītā combined with its Māhātmyam (rather than the Gītā alone) obtains the complete fruit of that practice and attains an exceedingly rare and difficult-to-reach spiritual destination — the full benefit promised throughout this text."
+        },
+        "sa": {
+          "short": "एतत् माहात्म्यसंयुक्तं गीताभ्यासं करोति यः। स तत्फलम् अवाप्नोति दुर्लभां गतिम् आप्नुयात्।",
+          "long": "एतेन माहात्म्येन सह गीताभ्यासं यः करोति, सः तस्य पूर्णं फलम् अवाप्नोति, दुर्लभां च सद्गतिं प्राप्नोति इति अयं श्लोकः गीतामाहात्म्यसंयुक्तपठनस्य पूर्णफलं कीर्तयति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "etanmāhātmyasaṃyuktaṃ", "grammar": "acc.", "meaning": "combined with this Māhātmyam" },
+          { "word": "gītābhyāsaṃ karoti yaḥ", "grammar": "—", "meaning": "whoever practices the Gītā" },
+          { "word": "sa tatphalamavāpnoti", "grammar": "—", "meaning": "he obtains its [full] fruit" },
+          { "word": "durlabhāṃ gatimāpnuyāt", "grammar": "opt.", "meaning": "[and] should attain a rare destination" }
+        ],
+        "te": [
+          { "word": "ఏతన్మాహాత్మ్యసంయుక్తం", "grammar": "acc.", "meaning": "ఈ మాహాత్మ్యంతో కలిపి" },
+          { "word": "గీతాభ్యాసం కరోతి యః", "grammar": "—", "meaning": "గీతాభ్యాసం చేసేవాడు" },
+          { "word": "స తత్ఫలమవాప్నోతి", "grammar": "—", "meaning": "అతడు దాని ఫలాన్ని పొందుతాడు" },
+          { "word": "దుర్లభాం గతిమాప్నుయాత్", "grammar": "opt.", "meaning": "దుర్లభమైన గతిని పొందుతాడు" }
+        ],
+        "sa": [
+          { "word": "एतन्माहात्म्यसंयुक्तं", "grammar": "acc.", "meaning": "एतत् माहात्म्येन युक्तम्" },
+          { "word": "गीताभ्यासं करोति यः", "grammar": "—", "meaning": "गीताभ्यासं यः करोति" },
+          { "word": "स तत्फलमवाप्नोति", "grammar": "—", "meaning": "सः तत्फलम् अवाप्नोति" },
+          { "word": "दुर्लभां गतिमाप्नुयात्", "grammar": "opt.", "meaning": "दुर्लभां गतिम् आप्नुयात्" }
+        ]
+      }
+    },
+    {
+      "p1": {
+        "te": "మాహాత్మ్యమేతద్గీతాయాః",
+        "ro": "Māhātmyametadgītāyāḥ",
+        "sa": "माहात्म्यमेतद्गीतायाः"
+      },
+      "p2": {
+        "te": "మయా ప్రోక్తం సనాతనమ్",
+        "ro": "Mayā proktaṃ sanātanam",
+        "sa": "मया प्रोक्तं सनातनम्"
+      },
+      "p3": {
+        "te": "గీతాన్తే చ పఠేద్యస్తు",
+        "ro": "Gītānte ca paṭhedyastu",
+        "sa": "गीतान्ते च पठेद्यस्तु"
+      },
+      "p4": {
+        "te": "యదుక్తం తత్ఫలం లభేత్",
+        "ro": "Yaduktaṃ tatphalaṃ labhet",
+        "sa": "यदुक्तं तत्फलं लभेत्"
+      },
+      "num": 28,
+      "speaker": {
+        "te": "సూత ఉవాచ",
+        "ro": "sūta uvāca",
+        "sa": "सूत उवाच"
+      },
+      "meaning": {
+        "te": {
+          "short": "సూతుడు చెబుతాడు: గీత యొక్క ఈ సనాతన మాహాత్మ్యాన్ని నేను తెలిపాను; గీత చివర దీనిని పఠించేవానికి చెప్పబడిన ఫలం లభిస్తుంది.",
+          "long": "ఈ చివరి శ్లోకంలో సూతమహర్షి తాను చెప్పినదంతా క్రోడీకరిస్తున్నాడు — గీత యొక్క ఈ సనాతనమైన మాహాత్మ్యాన్ని తానే స్వయంగా వివరించానని, గీత పారాయణం చివర్లో దీనిని కూడా పఠించేవానికి, ఇందులో చెప్పిన ఫలమంతా తప్పక లభిస్తుందని ముగిస్తాడు."
+        },
+        "en": {
+          "short": "Sūta says: I have thus proclaimed this eternal Māhātmyam of the Gītā; whoever recites this at the end of the Gītā attains the fruit that has been declared.",
+          "long": "In this closing verse, the sage Sūta sums up his own teaching — declaring that he has expounded this eternal (sanātana) glorification of the Gītā, and that whosoever recites this Māhātmyam at the conclusion of a Gītā recitation will surely obtain every fruit that has been promised throughout this text."
+        },
+        "sa": {
+          "short": "सूतः वदति — माहात्म्यम् एतत् गीतायाः मया प्रोक्तं सनातनम्। गीतान्ते च पठेत् यस्तु यदुक्तं तत्फलं लभेत्।",
+          "long": "अत्र समापनश्लोके सूतमहर्षिः स्वकीयोपदेशं संगृह्णाति — गीतायाः इदं सनातनं माहात्म्यं मया एव प्रोक्तम् इति, गीतापारायणस्य अन्ते यः इदम् अपि पठति, तस्मै उक्तं सर्वं फलं निश्चयेन लभ्यते इति उपसंहरति।"
+        }
+      },
+      "wbw": {
+        "en": [
+          { "word": "māhātmyametadgītāyāḥ", "grammar": "acc.", "meaning": "this Māhātmyam of the Gītā" },
+          { "word": "mayā proktaṃ sanātanam", "grammar": "—", "meaning": "declared by me, eternal" },
+          { "word": "gītānte ca paṭhedyastu", "grammar": "opt.", "meaning": "and whoever recites [this] at the end of the Gītā" },
+          { "word": "yaduktaṃ tatphalaṃ labhet", "grammar": "opt.", "meaning": "attains the fruit that has been declared" }
+        ],
+        "te": [
+          { "word": "మాహాత్మ్యమేతద్గీతాయాః", "grammar": "acc.", "meaning": "గీత యొక్క ఈ మాహాత్మ్యాన్ని" },
+          { "word": "మయా ప్రోక్తం సనాతనమ్", "grammar": "—", "meaning": "నేను తెలిపాను, సనాతనమైనది" },
+          { "word": "గీతాన్తే చ పఠేద్యస్తు", "grammar": "opt.", "meaning": "గీత చివర దీనిని పఠించేవాడు" },
+          { "word": "యదుక్తం తత్ఫలం లభేత్", "grammar": "opt.", "meaning": "చెప్పిన ఫలాన్ని పొందుతాడు" }
+        ],
+        "sa": [
+          { "word": "माहात्म्यमेतद्गीतायाः", "grammar": "acc.", "meaning": "गीतायाः एतत् माहात्म्यम्" },
+          { "word": "मया प्रोक्तं सनातनम्", "grammar": "—", "meaning": "मया प्रोक्तं सनातनम्" },
+          { "word": "गीतान्ते च पठेद्यस्तु", "grammar": "opt.", "meaning": "गीतान्ते यः पठति" },
+          { "word": "यदुक्तं तत्फलं लभेत्", "grammar": "opt.", "meaning": "यत् उक्तं तत्फलं लभते" }
+        ]
+      }
+    }
+  ]
+}
