@@ -101,9 +101,11 @@ const C = {
   // key is unique per chip (unlike VSN_GROUPS, section and decade ranges
   // here legitimately share "from" boundaries — e.g. Ānanda Laharī and
   // "1–10" both start at 1 — so selection state can't key off .from alone).
+  // `section: true` marks a range as a reader.js ref-badge sub-label
+  // (e.g. shown under the "SL · 12" badge), not just a selectable chip.
   SL_GROUPS: [
-    { key: 'al',  label: 'ఆనన్దలహరీ',   from: 1,  to: 41  },
-    { key: 'sl2', label: 'సౌన్దర్యలహరీ', from: 42, to: 100 },
+    { key: 'al',  label: 'ఆనన్దలహరీ',   from: 1,  to: 41,  section: true },
+    { key: 'sl2', label: 'సౌన్దర్యలహరీ', from: 42, to: 100, section: true },
     { key: 'd1',  label: '1–10',    from: 1,  to: 10  },
     { key: 'd2',  label: '11–20',   from: 11, to: 20  },
     { key: 'd3',  label: '21–30',   from: 21, to: 30  },
@@ -132,16 +134,31 @@ const C = {
     sl:   { te: 'సౌన్దర్యలహరీ', sa: 'सौन्दर्यलहरी', ro: 'Saundaryalaharī', en: 'Saundaryalaharī' }
   },
 
-  // Registry of readable texts — seed of a config-driven model so a future
-  // text (Viduranīti, saṅkṣipta Rāmāyaṇam, ...) can be added mostly by data
-  // + one entry here, rather than new hardcoded branches throughout the
-  // reader/search modules. Not yet consumed everywhere (see reader.js /
-  // search.js comments at each activeText branch) — Phase 1 wires it into
-  // Reader + Search only, matching the current sl rollout scope.
+  // Registry of readable texts. reader.js's chapter-grid/pool/bookmark/
+  // ref-badge machinery is genuinely driven by this for any text with
+  // grouping 'ranges' or 'single' — add a new one (Viduranīti, saṅkṣipta
+  // Rāmāyaṇam, ...) with just a data file + an entry here + a
+  // TEXT_LABELS entry + a <option> in index.html's #r-text-select; no
+  // reader.js changes needed for the read/browse/bookmark path.
+  // ('chapters' grouping — i.e. gita — stays its own bespoke code: real
+  // chapters, an about panel, VOTD, progress tracking, name search, none
+  // of which any future text is expected to want.)
+  //   shlokasPath   — key into top-level C.* holding the data file path
+  //   numberField   — verse-number field if not "s" (e.g. sl.json's "v")
+  //   ranges        — key into top-level C.* holding the {label,from,to,
+  //                   key?,section?} range-chip array (only for grouping:
+  //                   'ranges'); 'single' grouping needs no ranges array
+  //   badgePrefix   — verse-ref badge text, e.g. "SL · 12" (defaults to id)
+  //   hasVotd       — whether text-switching should show a verse-of-the-
+  //                   day card; false/omitted just hides it (the loader
+  //                   for a new true here would still need writing by
+  //                   hand — VOTD content selection isn't data-driven)
+  // Search (assets/js/modules/search.js) still has its own separate vsn/
+  // sl branches — not yet folded into this registry (a later phase).
   TEXTS: {
-    gita: { id: 'gita', grouping: 'chapters', totalVerses: 700, avadhanamModes: 'TEST_MODES_GITA' },
-    vsn:  { id: 'vsn',  grouping: 'ranges',   ranges: 'VSN_GROUPS', totalVerses: 108, avadhanamModes: 'TEST_MODES_VSN' },
-    sl:   { id: 'sl',   grouping: 'ranges',   ranges: 'SL_GROUPS',  totalVerses: 100, avadhanamModes: null }
+    gita: { id: 'gita', grouping: 'chapters', totalVerses: 700, avadhanamModes: 'TEST_MODES_GITA', hasVotd: true },
+    vsn:  { id: 'vsn',  grouping: 'ranges', ranges: 'VSN_GROUPS', shlokasPath: 'VSN_SHLOKAS', totalVerses: 108, avadhanamModes: 'TEST_MODES_VSN', badgePrefix: 'VSN', hasVotd: true },
+    sl:   { id: 'sl',   grouping: 'ranges', ranges: 'SL_GROUPS',  shlokasPath: 'SL_SHLOKAS',  numberField: 'v', totalVerses: 100, avadhanamModes: null, badgePrefix: 'SL', hasVotd: false }
   },
 
   // Avadhānam test modes

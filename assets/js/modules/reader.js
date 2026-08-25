@@ -19,19 +19,28 @@ const Reader = (() => {
   let extraChapterMode = null;
   let extraChapterCache = {};
 
-  // VSN state
-  let vsnShlokas        = [];
+  // VSN-only bespoke state (names browser, meta/about panel — see
+  // renderVsnAbout/renderVerse's VSN-only extras). Not part of the
+  // generic ranged-text engine below.
   let vsnNames          = [];
   let vsnNamesLoaded    = false;
   let vsnNameCountMap   = null;
-  let vsnSelectedGroups = new Set(); // empty = All; keyed by grp.from
   let vsnMeta           = null;
   let bgMeta            = null;
 
-  // SL (Saundarya Laharī) state — Reader + Search only for now (see
-  // constants.js TEXTS.sl comment). No Avadhānam/Library integration yet.
-  let slShlokas        = [];
-  let slSelectedGroups = new Set(); // empty = All; keyed by grp.from, same pattern as vsnSelectedGroups
+  // Generic engine for texts with C.TEXTS[id].grouping === 'ranges'|'single'
+  // (currently vsn, sl — Reader-only for now; see constants.js TEXTS.sl
+  // comment). One text id → its own shlokas + selected-range-keys, so a new
+  // text of this shape needs a data file + one C.TEXTS entry, no reader.js
+  // changes. Gita stays its own bespoke branch throughout this file — it
+  // has real chapters, an about panel, VOTD, progress tracking, etc. that
+  // no future text is expected to want, so it isn't part of this engine.
+  const rangedState = {}; // id -> { shlokas: [], selectedGroups: Set<string> }
+  function rs(id) { return rangedState[id] || (rangedState[id] = { shlokas: [], selectedGroups: new Set() }); }
+  function isRangedText(id) {
+    const cfg = C.TEXTS[id];
+    return !!cfg && (cfg.grouping === 'ranges' || cfg.grouping === 'single');
+  }
 
   const $ = id => document.getElementById(id);
 
@@ -51,9 +60,8 @@ const Reader = (() => {
     try { localStorage.setItem(BOOKMARKS_KEY, JSON.stringify([...set])); } catch(e) {}
   }
   function verseId(sh) {
-    if (activeText === 'vsn') return `vsn.${sh.s}`;
-    if (activeText === 'sl')  return `sl.${sh.s}`;
-    if (sh._extra)            return `${sh._extra}.${sh.s}`;
+    if (isRangedText(activeText)) return `${activeText}.${sh.s}`;
+    if (sh._extra)                return `${sh._extra}.${sh.s}`;
     return `${sh.c}.${sh.s}`;
   }
 
@@ -86,23 +94,25 @@ const Reader = (() => {
   }
 
   // ── Data loading ──────────────────────────────────────────────
-  async function loadVsn() {
-    if (vsnShlokas.length) return vsnShlokas;
-    const r = await fetch(C.VSN_SHLOKAS);
+  // Generic loader for any C.TEXTS entry with grouping 'ranges'|'single'.
+  // `cfg.numberField` (e.g. sl.json's "v") lets a text number its verses
+  // under a different key than "s" — aliased here so the rest of the file
+  // (sort/pool-index code, all of which reads .s) never has to know.
+  async function loadRangedText(id) {
+    const state = rs(id);
+    if (state.shlokas.length) return state.shlokas;
+    const cfg = C.TEXTS[id];
+    const r = await fetch(C[cfg.shlokasPath]);
     const data = await r.json();
-    vsnShlokas = data.shlokas || [];
-    return vsnShlokas;
+    const numField = cfg.numberField;
+    state.shlokas = (data.shlokas || []).map(sh => numField ? { ...sh, s: sh[numField] } : sh);
+    return state.shlokas;
   }
-
-  async function loadSl() {
-    if (slShlokas.length) return slShlokas;
-    const r = await fetch(C.SL_SHLOKAS);
-    const data = await r.json();
-    // sl.json numbers verses "v", not "s" like gita/vsn — alias s = v so
-    // the generic sort/pool-index code (which reads .s) works unmodified.
-    slShlokas = (data.shlokas || []).map(sh => ({ ...sh, s: sh.v }));
-    return slShlokas;
-  }
+  // Thin, readable aliases for call sites that are inherently VSN/SL-
+  // specific already (VOTD, names/meta lookups) — they don't need to know
+  // about the generic engine.
+  const loadVsn = () => loadRangedText('vsn');
+  const loadSl  = () => loadRangedText('sl');
 
   async function loadVsnNames() {
     if (vsnNamesLoaded) return vsnNames;
@@ -728,31 +738,19 @@ const Reader = (() => {
   }
 
   async function loadSelectedChapters() {
-    if (activeText === 'vsn') {
-      const all = await loadVsn();
+    if (isRangedText(activeText)) {
+      const cfg   = C.TEXTS[activeText];
+      const all   = await loadRangedText(activeText);
+      const state = rs(activeText);
       if (bookmarksMode) {
         const bms = getBookmarks();
-        pool = all.filter(s => bms.has(`vsn.${s.s}`));
-      } else if (vsnSelectedGroups.size === 0) {
+        pool = all.filter(s => bms.has(`${activeText}.${s.s}`));
+      } else if (cfg.grouping === 'single' || state.selectedGroups.size === 0) {
         pool = [...all];
       } else {
+        const groups = C[cfg.ranges] || [];
         pool = all.filter(s =>
-          C.VSN_GROUPS.some(g => vsnSelectedGroups.has(g.from) && s.s >= g.from && s.s <= g.to)
-        );
-      }
-      pool.sort((a, b) => a.s - b.s);
-      return;
-    }
-    if (activeText === 'sl') {
-      const all = await loadSl();
-      if (bookmarksMode) {
-        const bms = getBookmarks();
-        pool = all.filter(s => bms.has(`sl.${s.s}`));
-      } else if (slSelectedGroups.size === 0) {
-        pool = [...all];
-      } else {
-        pool = all.filter(s =>
-          C.SL_GROUPS.some(g => slSelectedGroups.has(g.key) && s.s >= g.from && s.s <= g.to)
+          groups.some(g => state.selectedGroups.has(String(g.key ?? g.from)) && s.s >= g.from && s.s <= g.to)
         );
       }
       pool.sort((a, b) => a.s - b.s);
@@ -807,10 +805,10 @@ const Reader = (() => {
     if (!sel) return;
     const script = window._script || 'te';
     const key = script === 'sa' ? 'sa' : script === 'ro' ? 'ro' : 'te';
-    sel.querySelector('option[value="gita"]').textContent = C.TEXT_LABELS.gita[key] || 'Bhagavad Gita';
-    sel.querySelector('option[value="vsn"]').textContent  = C.TEXT_LABELS.vsn[key]  || 'Vishnu Sahasranama';
-    const slOpt = sel.querySelector('option[value="sl"]');
-    if (slOpt) slOpt.textContent = C.TEXT_LABELS.sl[key] || 'Saundarya Laharī';
+    Object.keys(C.TEXT_LABELS).forEach(id => {
+      const opt = sel.querySelector(`option[value="${id}"]`);
+      if (opt) opt.textContent = C.TEXT_LABELS[id][key] || C.TEXT_LABELS[id].en || id;
+    });
   }
 
   // ── Chapter / group button grid ───────────────────────────────
@@ -849,14 +847,18 @@ const Reader = (() => {
     const myToken = ++_chGridToken;
     wrap.innerHTML = '';
 
-    if (activeText === 'vsn') {
+    if (isRangedText(activeText)) {
+      const cfg    = C.TEXTS[activeText];
+      const state  = rs(activeText);
+      const groups = cfg.grouping === 'ranges' ? (C[cfg.ranges] || []) : [];
+
       const allBtn = document.createElement('button');
-      allBtn.className = 'ch-btn all' + (vsnSelectedGroups.size === 0 && !bookmarksMode ? ' active' : '');
+      allBtn.className = 'ch-btn all' + (state.selectedGroups.size === 0 && !bookmarksMode ? ' active' : '');
       allBtn.textContent = t('all');
       allBtn.addEventListener('click', () => {
         bookmarksMode = false;
-        vsnSelectedGroups.clear();
-        updateVsnGroupBtns(wrap);
+        state.selectedGroups.clear();
+        updateRangedGroupBtns(wrap, activeText);
         pickRandom();
       });
       wrap.appendChild(allBtn);
@@ -868,73 +870,37 @@ const Reader = (() => {
       bmFilterBtn.title = window._uiLang === 'en' ? 'Bookmarks' : 'నచ్చిన శ్లోకాలు';
       bmFilterBtn.addEventListener('click', () => {
         bookmarksMode = !bookmarksMode;
-        if (bookmarksMode) vsnSelectedGroups.clear();
-        updateVsnGroupBtns(wrap);
+        if (bookmarksMode) state.selectedGroups.clear();
+        updateRangedGroupBtns(wrap, activeText);
         if (bookmarksMode) activateBookmarksFilter();
         else pickRandom();
       });
       wrap.appendChild(bmFilterBtn);
 
-      C.VSN_GROUPS.forEach(grp => {
+      groups.forEach(grp => {
+        const key = String(grp.key ?? grp.from);
         const btn = document.createElement('button');
-        btn.className = 'ch-btn' + (vsnSelectedGroups.has(grp.from) ? ' active' : '');
+        btn.className = 'ch-btn' + (state.selectedGroups.has(key) ? ' active' : '');
         btn.textContent = grp.label;
-        btn.dataset.from = grp.from;
+        btn.dataset.key = key;
         btn.addEventListener('click', () => {
           bookmarksMode = false;
-          vsnSelectedGroups.has(grp.from) ? vsnSelectedGroups.delete(grp.from) : vsnSelectedGroups.add(grp.from);
-          updateVsnGroupBtns(wrap);
+          state.selectedGroups.has(key) ? state.selectedGroups.delete(key) : state.selectedGroups.add(key);
+          updateRangedGroupBtns(wrap, activeText);
           pickRandom();
         });
         wrap.appendChild(btn);
       });
-      // Show VSN about panel
+
+      // Text-specific extras — the generic engine only owns the chip UI;
+      // anything bespoke (VSN's "about" panel) stays an explicit per-id
+      // hook rather than something every ranged text has to carry.
       hideBgAbout();
-      loadVsnMeta().then(meta => { if (activeText === 'vsn') renderVsnAbout(meta, window._script || 'te'); });
-      return;
-    }
-
-    if (activeText === 'sl') {
-      const allBtn = document.createElement('button');
-      allBtn.className = 'ch-btn all' + (slSelectedGroups.size === 0 && !bookmarksMode ? ' active' : '');
-      allBtn.textContent = t('all');
-      allBtn.addEventListener('click', () => {
-        bookmarksMode = false;
-        slSelectedGroups.clear();
-        updateSlGroupBtns(wrap);
-        pickRandom();
-      });
-      wrap.appendChild(allBtn);
-
-      // ♥ Bookmarks filter
-      const bmFilterBtn = document.createElement('button');
-      bmFilterBtn.className = 'ch-btn ch-btn-bm' + (bookmarksMode ? ' active' : '');
-      bmFilterBtn.textContent = '♥';
-      bmFilterBtn.title = window._uiLang === 'en' ? 'Bookmarks' : 'నచ్చిన శ్లోకాలు';
-      bmFilterBtn.addEventListener('click', () => {
-        bookmarksMode = !bookmarksMode;
-        if (bookmarksMode) slSelectedGroups.clear();
-        updateSlGroupBtns(wrap);
-        if (bookmarksMode) activateBookmarksFilter();
-        else pickRandom();
-      });
-      wrap.appendChild(bmFilterBtn);
-
-      C.SL_GROUPS.forEach(grp => {
-        const btn = document.createElement('button');
-        btn.className = 'ch-btn' + (slSelectedGroups.has(grp.key) ? ' active' : '');
-        btn.textContent = grp.label;
-        btn.dataset.key = grp.key;
-        btn.addEventListener('click', () => {
-          bookmarksMode = false;
-          slSelectedGroups.has(grp.key) ? slSelectedGroups.delete(grp.key) : slSelectedGroups.add(grp.key);
-          updateSlGroupBtns(wrap);
-          pickRandom();
-        });
-        wrap.appendChild(btn);
-      });
-      hideBgAbout();
-      hideVsnAbout();
+      if (activeText === 'vsn') {
+        loadVsnMeta().then(meta => { if (activeText === 'vsn') renderVsnAbout(meta, window._script || 'te'); });
+      } else {
+        hideVsnAbout();
+      }
       return;
     }
 
@@ -1097,19 +1063,12 @@ const Reader = (() => {
     if (card) card.hidden = true;
   }
 
-  function updateVsnGroupBtns(wrap) {
-    wrap.querySelector('.ch-btn.all')?.classList.toggle('active', vsnSelectedGroups.size === 0 && !bookmarksMode);
-    wrap.querySelector('.ch-btn-bm')?.classList.toggle('active', bookmarksMode);
-    wrap.querySelectorAll('.ch-btn[data-from]').forEach(btn => {
-      btn.classList.toggle('active', vsnSelectedGroups.has(Number(btn.dataset.from)));
-    });
-  }
-
-  function updateSlGroupBtns(wrap) {
-    wrap.querySelector('.ch-btn.all')?.classList.toggle('active', slSelectedGroups.size === 0 && !bookmarksMode);
+  function updateRangedGroupBtns(wrap, id) {
+    const state = rs(id);
+    wrap.querySelector('.ch-btn.all')?.classList.toggle('active', state.selectedGroups.size === 0 && !bookmarksMode);
     wrap.querySelector('.ch-btn-bm')?.classList.toggle('active', bookmarksMode);
     wrap.querySelectorAll('.ch-btn[data-key]').forEach(btn => {
-      btn.classList.toggle('active', slSelectedGroups.has(btn.dataset.key));
+      btn.classList.toggle('active', state.selectedGroups.has(btn.dataset.key));
     });
   }
 
@@ -1146,53 +1105,57 @@ const Reader = (() => {
     const script = window._script || 'te';
 
     const refEl = $('r-verse-ref');
-    if (activeText === 'vsn') {
+    if (isRangedText(activeText)) {
+      const cfg = C.TEXTS[activeText];
       refEl.innerHTML = '';
       const vBadge = document.createElement('span');
       vBadge.className = 'badge badge-shloka';
-      vBadge.textContent = `VSN · ${sh.s}`;
+      vBadge.textContent = `${cfg.badgePrefix || activeText.toUpperCase()} · ${sh.s}`;
       refEl.appendChild(vBadge);
 
-      // Names count badge
-      const cntBadge = document.createElement('span');
-      cntBadge.className = 'badge badge-names-count';
-      cntBadge.style.display = 'none';
-      refEl.appendChild(cntBadge);
-      loadVsnNameCountMap().then(map => {
-        const cnt = map.get(sh.s);
-        if (cnt) { cntBadge.textContent = `${cnt} ${t('names_count')}`; cntBadge.style.display = ''; }
-      });
+      // Optional "section" sub-badge (e.g. SL's Ānanda Laharī / Saundarya
+      // Laharī split) — data-driven via a `section: true` flag on
+      // qualifying entries in the text's ranges array.
+      if (cfg.grouping === 'ranges') {
+        const grp = (C[cfg.ranges] || []).find(g => g.section && sh.s >= g.from && sh.s <= g.to);
+        if (grp) {
+          const secBadge = document.createElement('span');
+          secBadge.className = 'ref-title';
+          secBadge.textContent = grp.label;
+          refEl.appendChild(secBadge);
+        }
+      }
 
-      // Nakshatra star badge
-      const nkNum  = Math.ceil(sh.s / 4);
-      const padNum = (sh.s - 1) % 4 + 1;
-      const nkBadge = document.createElement('span');
-      nkBadge.className = 'badge badge-nakshatra';
-      nkBadge.style.display = 'none';
-      nkBadge.style.cursor  = 'pointer';
-      refEl.appendChild(nkBadge);
-      fetch(C.NAKSHATRAS).then(r => r.json()).then(nks => {
-        const nk = nks.find(n => n.num === nkNum);
-        const nkName = nk ? (nk.name.sa ? Transliterate.convert(nk.name.sa, 'sa', script) : nk.name.te) : `Nakshatra ${nkNum}`;
-        const syllObj = nk && nk.sound_syllables ? nk.sound_syllables[`p${padNum}`] : null;
-        const syllable = syllObj ? (syllObj.sa ? Transliterate.convert(syllObj.sa, 'sa', script) : syllObj.te || '') : '';
-        nkBadge.textContent = `★ ${nkName} · ${t('pada')} ${padNum}${syllable ? ` · ${syllable}` : ''}`;
-        nkBadge.style.display = '';
-        nkBadge.onclick = () => Avadhaanam.showNakshatraModal(nkNum, padNum);
-      });
-    } else if (activeText === 'sl') {
-      refEl.innerHTML = '';
-      const vBadge = document.createElement('span');
-      vBadge.className = 'badge badge-shloka';
-      vBadge.textContent = `SL · ${sh.s}`;
-      refEl.appendChild(vBadge);
+      // VSN-only extras: names-count + nakshatra badges. Genuinely unique
+      // to VSN's own data/feature set (Avadhānam nakshatra modal, name
+      // token counts) — not part of the generic ranged-text shape, so
+      // they stay an explicit per-id hook rather than generalized.
+      if (activeText === 'vsn') {
+        const cntBadge = document.createElement('span');
+        cntBadge.className = 'badge badge-names-count';
+        cntBadge.style.display = 'none';
+        refEl.appendChild(cntBadge);
+        loadVsnNameCountMap().then(map => {
+          const cnt = map.get(sh.s);
+          if (cnt) { cntBadge.textContent = `${cnt} ${t('names_count')}`; cntBadge.style.display = ''; }
+        });
 
-      const grp = C.SL_GROUPS.find(g => (g.key === 'al' || g.key === 'sl2') && sh.s >= g.from && sh.s <= g.to);
-      if (grp) {
-        const secBadge = document.createElement('span');
-        secBadge.className = 'ref-title';
-        secBadge.textContent = grp.label;
-        refEl.appendChild(secBadge);
+        const nkNum  = Math.ceil(sh.s / 4);
+        const padNum = (sh.s - 1) % 4 + 1;
+        const nkBadge = document.createElement('span');
+        nkBadge.className = 'badge badge-nakshatra';
+        nkBadge.style.display = 'none';
+        nkBadge.style.cursor  = 'pointer';
+        refEl.appendChild(nkBadge);
+        fetch(C.NAKSHATRAS).then(r => r.json()).then(nks => {
+          const nk = nks.find(n => n.num === nkNum);
+          const nkName = nk ? (nk.name.sa ? Transliterate.convert(nk.name.sa, 'sa', script) : nk.name.te) : `Nakshatra ${nkNum}`;
+          const syllObj = nk && nk.sound_syllables ? nk.sound_syllables[`p${padNum}`] : null;
+          const syllable = syllObj ? (syllObj.sa ? Transliterate.convert(syllObj.sa, 'sa', script) : syllObj.te || '') : '';
+          nkBadge.textContent = `★ ${nkName} · ${t('pada')} ${padNum}${syllable ? ` · ${syllable}` : ''}`;
+          nkBadge.style.display = '';
+          nkBadge.onclick = () => Avadhaanam.showNakshatraModal(nkNum, padNum);
+        });
       }
     } else if (sh._extra) {
       // Pseudo-chapter verse (dhyana/mahatyam) — no chapter number, so
@@ -1567,18 +1530,11 @@ const Reader = (() => {
     try {
       const saved = JSON.parse(localStorage.getItem(LS_KEY) || 'null');
       if (!saved) return false;
-      if (saved.text === 'vsn' && saved.s) {
-        activeText = 'vsn';
-        const sel = $('r-text-select'); if (sel) sel.value = 'vsn';
+      if (isRangedText(saved.text) && saved.s) {
+        activeText = saved.text;
+        const sel = $('r-text-select'); if (sel) sel.value = saved.text;
         buildChapterGrid();
-        const shlokas = await loadVsn();
-        const target = shlokas.find(x => x.s === saved.s);
-        if (target) { pool = shlokas; renderVerse(target); return true; }
-      } else if (saved.text === 'sl' && saved.s) {
-        activeText = 'sl';
-        const sel = $('r-text-select'); if (sel) sel.value = 'sl';
-        buildChapterGrid();
-        const shlokas = await loadSl();
+        const shlokas = await loadRangedText(saved.text);
         const target = shlokas.find(x => x.s === saved.s);
         if (target) { pool = shlokas; renderVerse(target); return true; }
       } else if (saved.text === 'gita' && saved.extra && saved.s) {
@@ -1815,14 +1771,17 @@ const Reader = (() => {
           else pickRandom();
         }).catch(pickRandom);
       }
+      const cfg0 = C.TEXTS[activeText];
       if (activeText === 'vsn') {
         loadAndShowVsnVotd();
-      } else if (activeText === 'sl' || extraChapterMode) {
+      } else if ((cfg0 && !cfg0.hasVotd) || extraChapterMode) {
         const vc = $('r-votd-card'); if (vc) vc.hidden = true;
       } else {
         loadAndShowVotd();
       }
-      const pb0 = $('r-progress-badge'); if (pb0) pb0.hidden = (activeText === 'vsn' || activeText === 'sl' || !!extraChapterMode);
+      // 700-verse progress tracking is a Gita-specific concept — hide for
+      // every other text/pseudo-chapter, not just vsn/sl.
+      const pb0 = $('r-progress-badge'); if (pb0) pb0.hidden = (activeText !== 'gita' || !!extraChapterMode);
       checkGitaJayanti();
     });
 
@@ -1855,23 +1814,23 @@ const Reader = (() => {
       textSel.addEventListener('change', () => {
         activeText = textSel.value;
         selectedChs.clear();
-        vsnSelectedGroups.clear();
-        slSelectedGroups.clear();
+        Object.values(rangedState).forEach(s => s.selectedGroups.clear());
         buildChapterGrid();
-        if (activeText === 'vsn') {
-          loadVsn().then(shlokas => { if (shlokas.length) { pool = shlokas; renderVerse(shlokas[0]); } });
-        } else if (activeText === 'sl') {
-          loadSl().then(shlokas => { if (shlokas.length) { pool = shlokas; renderVerse(shlokas[0]); } });
+        if (isRangedText(activeText)) {
+          loadRangedText(activeText).then(shlokas => { if (shlokas.length) { pool = shlokas; renderVerse(shlokas[0]); } });
         } else {
           pickRandom();
         }
         const isVsn = activeText === 'vsn';
+        const cfg = C.TEXTS[activeText];
+        const hasVotd = !!(cfg && cfg.hasVotd);
         const namesBtn = $('r-vsn-names-btn'); if (namesBtn) namesBtn.style.display = isVsn ? '' : 'none';
-        const pb = $('r-progress-badge'); if (pb) pb.hidden = isVsn || activeText === 'sl';
-        // Switch VOTD to match text mode — no VOTD feed for SL, just hide it
+        const pb = $('r-progress-badge'); if (pb) pb.hidden = activeText !== 'gita';
+        // Switch VOTD to match text mode — texts that opt out (hasVotd
+        // false/unset, e.g. SL) just get the card hidden.
         const vc = $('r-votd-card');
         if (isVsn) { if (_votdVsnSh) showVotdCard(_votdVsnSh); else loadAndShowVsnVotd(); }
-        else if (activeText === 'sl') { if (vc) vc.hidden = true; }
+        else if (!hasVotd) { if (vc) vc.hidden = true; }
         else { if (vc) vc.hidden = true; if (_votdSh) showVotdCard(_votdSh); else loadAndShowVotd(); }
       });
     }
@@ -1930,22 +1889,13 @@ const Reader = (() => {
       if (highlightName) _pendingHighlight = highlightName;
       if (hlQuery) _pendingSearchHL = { q: hlQuery, scope: hlScope || 'both' };
       const sel = $('r-text-select');
-      if (text === 'vsn') {
-        if (activeText !== 'vsn') {
-          activeText = 'vsn';
-          if (sel) sel.value = 'vsn';
+      if (isRangedText(text)) {
+        if (activeText !== text) {
+          activeText = text;
+          if (sel) sel.value = text;
           buildChapterGrid();
         }
-        const shlokas = await loadVsn();
-        const target  = shlokas.find(x => x.s === sh);
-        if (target) { pool = shlokas; renderVerse(target); }
-      } else if (text === 'sl') {
-        if (activeText !== 'sl') {
-          activeText = 'sl';
-          if (sel) sel.value = 'sl';
-          buildChapterGrid();
-        }
-        const shlokas = await loadSl();
+        const shlokas = await loadRangedText(text);
         const target  = shlokas.find(x => x.s === sh);
         if (target) { pool = shlokas; renderVerse(target); }
       } else {
