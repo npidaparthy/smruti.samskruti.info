@@ -158,7 +158,13 @@ const C = {
   TEXTS: {
     gita: { id: 'gita', grouping: 'chapters', totalVerses: 700, avadhanamModes: 'TEST_MODES_GITA', hasVotd: true },
     vsn:  { id: 'vsn',  grouping: 'ranges', ranges: 'VSN_GROUPS', shlokasPath: 'VSN_SHLOKAS', totalVerses: 108, avadhanamModes: 'TEST_MODES_VSN', badgePrefix: 'VSN', hasVotd: true },
-    sl:   { id: 'sl',   grouping: 'ranges', ranges: 'SL_GROUPS',  shlokasPath: 'SL_SHLOKAS',  numberField: 'v', totalVerses: 100, avadhanamModes: null, badgePrefix: 'SL', hasVotd: false }
+    // shlokaSearch: true marks a text as full-text/verse-number searchable
+    // the same way Gita is (p1-p4 + meaning.en/te shaped verses) — search.js
+    // generalizes its "plain-num" and full-text branches over any such
+    // text generically. VSN deliberately has no such flag: its Search tab
+    // behavior searches *names*, not verse text, which isn't a shape a
+    // future text is expected to share, so it stays hand-written in search.js.
+    sl:   { id: 'sl',   grouping: 'ranges', ranges: 'SL_GROUPS',  shlokasPath: 'SL_SHLOKAS',  numberField: 'v', totalVerses: 100, avadhanamModes: null, badgePrefix: 'SL', hasVotd: false, shlokaSearch: true }
   },
 
   // Avadhānam test modes

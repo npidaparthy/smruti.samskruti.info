@@ -6,7 +6,10 @@ const Search = (() => {
   let vsnNames    = null;   // [{n, sh, name, meaning}]
   let gitaIndex   = null;
   let gitaCache   = {};     // ch number → shlokas[]
-  let slShlokas   = null;   // [{v, p1-p4, meaning}] — s alias added on load
+  // Generic cache for any C.TEXTS entry with shlokaSearch:true (currently
+  // just sl) — a future such text needs no new code here, only a data
+  // file + a C.TEXTS entry (see constants.js comment on shlokaSearch).
+  let rangedCache = {};     // text id → shlokas[], loaded once each
   let activeFilter = 'all';
   let activeScope  = 'both';   // 'both' | 'verse' | 'meaning'
   let debounceTimer = null;
@@ -36,12 +39,21 @@ const Search = (() => {
     return gitaCache[ch];
   }
 
-  async function loadSl() {
-    if (slShlokas) return slShlokas;
-    const r = await fetch(C.SL_SHLOKAS);
+  function shlokaSearchableTexts() {
+    return Object.keys(C.TEXTS).filter(id => C.TEXTS[id].shlokaSearch);
+  }
+  function isShlokaSearchable(id) {
+    return !!(C.TEXTS[id] && C.TEXTS[id].shlokaSearch);
+  }
+
+  async function loadRangedText(id) {
+    if (rangedCache[id]) return rangedCache[id];
+    const cfg = C.TEXTS[id];
+    const r = await fetch(C[cfg.shlokasPath]);
     const d = await r.json();
-    slShlokas = (d.shlokas || []).map(sh => ({ ...sh, s: sh.v }));
-    return slShlokas;
+    const numField = cfg.numberField;
+    rangedCache[id] = (d.shlokas || []).map(sh => numField ? { ...sh, s: sh[numField] } : sh);
+    return rangedCache[id];
   }
 
   // ── Normalisation ─────────────────────────────────────────────
@@ -142,22 +154,29 @@ const Search = (() => {
     return div;
   }
 
-  function slCard(sh) {
+  // Generic card for any shlokaSearch-flagged text (currently just sl).
+  // Chip label uses that text's full-name TEXT_LABELS entry (matching
+  // SL's existing display exactly) and a `srch-chip-<id>` CSS class —
+  // undefined for a text with no dedicated color yet, which just
+  // degrades to unstyled rather than breaking.
+  function rangedCard(sh, id) {
     const script = window._script || 'te';
     const lang   = window._meaningLang || 'en';
+    const scriptKey = script === 'sa' ? 'sa' : script === 'ro' ? 'ro' : 'te';
+    const label = (C.TEXT_LABELS[id] && C.TEXT_LABELS[id][scriptKey]) || id.toUpperCase();
     const p1 = (sh.p1 && (sh.p1[script] || sh.p1.ro)) || '';
     const m  = sh.meaning && (sh.meaning[lang] || sh.meaning.en);
     const short = m && m.short;
     const div = document.createElement('div');
-    div.className = 'srch-card srch-card-sl';
+    div.className = `srch-card srch-card-${id}`;
     div.innerHTML = `
       <div class="srch-card-meta">
-        <span class="srch-chip srch-chip-sl">సౌన్దర్యలహరీ</span>
+        <span class="srch-chip srch-chip-${id}">${label}</span>
         <span class="srch-card-ref">${sh.s}</span>
       </div>
       <div class="srch-card-title">${p1}</div>
       ${short ? `<div class="srch-card-sub">${short.slice(0,90)}${short.length>90?'…':''}</div>` : ''}`;
-    div.addEventListener('click', () => goToSl(+sh.s, lastQuery));
+    div.addEventListener('click', () => goToRanged(id, +sh.s, lastQuery));
     return div;
   }
 
@@ -170,8 +189,8 @@ const Search = (() => {
     window.dispatchEvent(new CustomEvent('searchNavigate', { detail: { text: 'gita', ch, s, hlQuery: query, hlScope: activeScope } }));
   }
 
-  function goToSl(sh, query) {
-    window.dispatchEvent(new CustomEvent('searchNavigate', { detail: { text: 'sl', sh, hlQuery: query, hlScope: activeScope } }));
+  function goToRanged(id, sh, query) {
+    window.dispatchEvent(new CustomEvent('searchNavigate', { detail: { text: id, sh, hlQuery: query, hlScope: activeScope } }));
   }
 
   // ── Core search ───────────────────────────────────────────────
@@ -261,15 +280,16 @@ const Search = (() => {
         }
       }
 
-      else if (activeFilter === 'sl') {
-        // Show SL verse #N (1-100)
-        const shlokas = await loadSl();
+      else if (isShlokaSearchable(activeFilter)) {
+        // Show <text> verse #N
+        const shlokas = await loadRangedText(activeFilter);
         const sh = shlokas.find(x => x.s === N);
-        if (sh) { frag.appendChild(slCard(sh)); count++; }
+        if (sh) { frag.appendChild(rangedCard(sh, activeFilter)); count++; }
         else {
+          const label = C.TEXT_LABELS[activeFilter]?.te || activeFilter;
           const msg = document.createElement('div');
           msg.className = 'srch-empty';
-          msg.textContent = `సౌన్దర్యలహరీలో ${N}వ శ్లోకం దొరకలేదు`;
+          msg.textContent = `${label}లో ${N}వ శ్లోకం దొరకలేదు`;
           frag.appendChild(msg); count++;
         }
       }
@@ -330,8 +350,11 @@ const Search = (() => {
         }
       }
 
-      if (activeFilter === 'all' || activeFilter === 'sl') {
-        const shlokas = await loadSl();
+      // Any shlokaSearch-flagged text (currently just sl) — a future such
+      // text is picked up automatically, no new branch needed here.
+      for (const id of shlokaSearchableTexts()) {
+        if (activeFilter !== 'all' && activeFilter !== id) continue;
+        const shlokas = await loadRangedText(id);
         const hits = shlokas.filter(sh => {
           const allRo = ['p1','p2','p3','p4'].map(k => (sh[k] && sh[k].ro) || '').join(' ');
           const allTe = ['p1','p2','p3','p4'].map(k => (sh[k] && sh[k].te) || '').join(' ');
@@ -344,7 +367,7 @@ const Search = (() => {
           if (activeScope === 'meaning') return inMeaning;
           return inVerse || inMeaning;
         }).slice(0, 15);
-        hits.forEach(sh => { frag.appendChild(slCard(sh)); count++; });
+        hits.forEach(sh => { frag.appendChild(rangedCard(sh, id)); count++; });
       }
     }
 
