@@ -15,6 +15,10 @@ const Avadhaanam = (() => {
   let currentPos   = 0;
   let revealed     = false;
   let activeText   = 'gita';
+  // ♥ bookmarks-only practice filter — shloka modes only (Gita/VSN verse
+  // recall). Not offered in VSN name-recall mode: bookmarks are per-
+  // shloka, not per-name, so there's nothing meaningful to filter there.
+  let bookmarksMode = false;
 
   const $ = id => document.getElementById(id);
 
@@ -124,6 +128,19 @@ const Avadhaanam = (() => {
   }
 
   async function buildPool() {
+    if (bookmarksMode && !isNameMode()) {
+      const bms = getBM();
+      if (activeText === 'gita') {
+        await loadGitaAll();
+        pool = allShlokas.filter(sh => bms.has(`${sh.c}.${sh.s}`));
+        pool.sort((a, b) => a.c !== b.c ? a.c - b.c : a.s - b.s);
+      } else {
+        await loadVsn();
+        pool = vsnShlokas.filter(sh => bms.has(`vsn.${sh.s}`));
+        pool.sort((a, b) => a.s - b.s);
+      }
+      return;
+    }
     if (activeText === 'gita') {
       if (selectedChs.size === 0) {
         await loadGitaAll();
@@ -178,14 +195,21 @@ const Avadhaanam = (() => {
 
     if (activeText === 'gita') {
       const allBtn = document.createElement('button');
-      allBtn.className = 'ch-btn all' + (selectedChs.size === 0 ? ' active' : '');
+      allBtn.className = 'ch-btn all' + (selectedChs.size === 0 && !bookmarksMode ? ' active' : '');
       allBtn.textContent = t('all');
       allBtn.addEventListener('click', () => {
+        bookmarksMode = false;
         selectedChs.clear();
         updateChBtns();
         pickRandom();
       });
       wrap.appendChild(allBtn);
+
+      wrap.appendChild(makeBookmarkFilterBtn(() => {
+        if (bookmarksMode) selectedChs.clear();
+        updateChBtns();
+        pickRandom();
+      }));
 
       for (let i = 1; i <= 18; i++) {
         const btn = document.createElement('button');
@@ -193,6 +217,7 @@ const Avadhaanam = (() => {
         btn.textContent = i;
         btn.dataset.ch = i;
         btn.addEventListener('click', () => {
+          bookmarksMode = false;
           selectedChs.has(i) ? selectedChs.delete(i) : selectedChs.add(i);
           updateChBtns();
           // Issue #5: auto-pick random verse on chapter select
@@ -224,20 +249,29 @@ const Avadhaanam = (() => {
       });
     } else {
       const allBtn = document.createElement('button');
-      allBtn.className = 'ch-btn all' + (vsnSelectedGroups.size === 0 ? ' active' : '');
+      allBtn.className = 'ch-btn all' + (vsnSelectedGroups.size === 0 && !bookmarksMode ? ' active' : '');
       allBtn.textContent = t('all');
       allBtn.addEventListener('click', () => {
+        bookmarksMode = false;
         vsnSelectedGroups.clear();
         updateVsnGroupBtns(wrap);
         buildPool().then(() => pickRandom());
       });
       wrap.appendChild(allBtn);
+
+      wrap.appendChild(makeBookmarkFilterBtn(() => {
+        if (bookmarksMode) vsnSelectedGroups.clear();
+        updateVsnGroupBtns(wrap);
+        pickRandom();
+      }));
+
       C.VSN_GROUPS.forEach(grp => {
         const btn = document.createElement('button');
         btn.className = 'ch-btn' + (vsnSelectedGroups.has(grp.from) ? ' active' : '');
         btn.textContent = grp.label;
         btn.dataset.from = grp.from;
         btn.addEventListener('click', () => {
+          bookmarksMode = false;
           vsnSelectedGroups.has(grp.from) ? vsnSelectedGroups.delete(grp.from) : vsnSelectedGroups.add(grp.from);
           updateVsnGroupBtns(wrap);
           buildPool().then(() => pickRandom());
@@ -247,17 +281,53 @@ const Avadhaanam = (() => {
     }
   }
 
+  // ♥ bookmarks-filter chip, shared by the Gita and VSN-shloka chapter
+  // grids (not offered in VSN name-recall mode — see `bookmarksMode`
+  // comment). `onToggle` runs the caller's own re-render/pool-rebuild.
+  function makeBookmarkFilterBtn(onToggle) {
+    const btn = document.createElement('button');
+    btn.className = 'ch-btn ch-btn-bm' + (bookmarksMode ? ' active' : '');
+    btn.textContent = '♥';
+    btn.title = window._uiLang === 'en' ? 'Bookmarks' : 'నచ్చిన శ్లోకాలు';
+    btn.addEventListener('click', () => {
+      bookmarksMode = !bookmarksMode;
+      onToggle();
+    });
+    return btn;
+  }
+
+  function showEmptyBookmarksState() {
+    pool = []; current = null;
+    const box = $('a-verse-box');
+    if (!box) return;
+    box.style.display = 'none';
+    let msg = $('a-empty-state');
+    if (!msg) {
+      msg = document.createElement('p');
+      msg.id = 'a-empty-state';
+      msg.className = 'muted';
+      msg.style.cssText = 'text-align:center;padding:24px 16px';
+      box.after(msg);
+    }
+    msg.textContent = window._uiLang === 'en'
+      ? 'No bookmarks yet. Tap ♡ on any verse to save it here.'
+      : 'ఇంకా ఏ శ్లోకమూ సేవ్ కాలేదు. ఏదైనా శ్లోకంపై ♡ నొక్కండి.';
+    msg.style.display = '';
+  }
+
   function updateChBtns() {
     const wrap = $('a-ch-wrap');
     if (!wrap) return;
-    wrap.querySelector('.ch-btn.all')?.classList.toggle('active', selectedChs.size === 0);
+    wrap.querySelector('.ch-btn.all')?.classList.toggle('active', selectedChs.size === 0 && !bookmarksMode);
+    wrap.querySelector('.ch-btn-bm')?.classList.toggle('active', bookmarksMode);
     wrap.querySelectorAll('.ch-btn[data-ch]').forEach(btn => {
       btn.classList.toggle('active', selectedChs.has(Number(btn.dataset.ch)));
     });
   }
 
   function updateVsnGroupBtns(wrap) {
-    wrap.querySelector('.ch-btn.all')?.classList.toggle('active', vsnSelectedGroups.size === 0);
+    wrap.querySelector('.ch-btn.all')?.classList.toggle('active', vsnSelectedGroups.size === 0 && !bookmarksMode);
+    wrap.querySelector('.ch-btn-bm')?.classList.toggle('active', bookmarksMode);
     wrap.querySelectorAll('.ch-btn[data-from]').forEach(btn => {
       btn.classList.toggle('active', vsnSelectedGroups.has(Number(btn.dataset.from)));
     });
@@ -774,7 +844,12 @@ const Avadhaanam = (() => {
   // ── Navigation ────────────────────────────────────────────────
   async function pickRandom() {
     await buildPool();
-    if (!pool.length) return;
+    if (!pool.length) {
+      if (bookmarksMode) showEmptyBookmarksState();
+      return;
+    }
+    const box = $('a-verse-box'); if (box) box.style.display = '';
+    const es  = $('a-empty-state'); if (es) es.style.display = 'none';
     currentPos = Math.floor(Math.random() * pool.length);
     current = pool[currentPos];
     renderCurrent();
@@ -923,6 +998,7 @@ const Avadhaanam = (() => {
       allShlokas = [];
       pool = [];
       current = null;
+      bookmarksMode = false;
       vsnSelectedGroups.clear(); vsnNameSelectedGroups.clear();
       buildModeSelect();
       buildChapterGrid();
@@ -932,6 +1008,9 @@ const Avadhaanam = (() => {
     $('a-mode-select').addEventListener('change', () => {
       Settings.set(C.LS.TEST_MODE, getMode());
       if (activeText === 'vsn') {
+        // Bookmarks filter isn't offered in name-recall mode (bookmarks
+        // are per-shloka, not per-name) — drop it when entering that mode.
+        if (isNameMode()) bookmarksMode = false;
         // Rebuild grid and pool when switching between shloka and namavali modes
         buildChapterGrid();
         buildPool().then(() => pickRandom());

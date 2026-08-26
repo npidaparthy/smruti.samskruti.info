@@ -9,8 +9,9 @@ const Library = (() => {
   let activeLibFilter  = 'all';   // 'all' | 'bookmarked' | 'noted'
   let activeTextFilter = 'all';   // 'all' | 'gita' | 'vsn' | ...
   let sortMode          = 'verse'; // 'verse' | 'recent'
-  let gitaCache = {};             // ch → shlokas[]
-  let vsnShlokas = null;          // s → shloka (loaded once)
+  let gitaCache    = {};          // ch → shlokas[]
+  let rangedCache  = {};          // text id (vsn/sl/...) → shlokas[], loaded once each
+  let extraCache   = {};          // gita pseudo-chapter id (dhyana/mahatyam) → shlokas[]
 
   // ── Storage ──────────────────────────────────────────────────
   function getBookmarks() {
@@ -26,8 +27,26 @@ const Library = (() => {
     try { localStorage.setItem(NOTES_KEY, JSON.stringify(notes)); } catch(e) {}
   }
 
+  // Bookmark/note ids are "<text>.<s>" for any C.TEXTS ranged/single text
+  // (vsn, sl, ...) or C.GITA_EXTRA_CHAPTERS pseudo-chapter (dhyana,
+  // mahatyam) — see reader.js's verseId(). Falls back to Gita's "c.s"
+  // shape for anything else.
+  function isRangedTextId(text) {
+    const cfg = C.TEXTS[text];
+    return !!cfg && (cfg.grouping === 'ranges' || cfg.grouping === 'single');
+  }
+  function isExtraChapterId(text) {
+    return (C.GITA_EXTRA_CHAPTERS || []).some(e => e.id === text);
+  }
+
   function parseId(id) {
-    if (id.startsWith('vsn.')) return { text: 'vsn', s: +id.slice(4) };
+    const dot = id.indexOf('.');
+    if (dot > 0) {
+      const prefix = id.slice(0, dot);
+      if (isRangedTextId(prefix) || isExtraChapterId(prefix)) {
+        return { text: prefix, s: +id.slice(dot + 1) };
+      }
+    }
     const [c, s] = id.split('.').map(Number);
     return { text: 'gita', c, s };
   }
@@ -41,35 +60,66 @@ const Library = (() => {
     return gitaCache[ch];
   }
 
-  async function loadVsnShlokas() {
-    if (vsnShlokas) return vsnShlokas;
-    const r = await fetch(C.VSN_SHLOKAS);
+  async function loadRangedShlokas(text) {
+    if (rangedCache[text]) return rangedCache[text];
+    const cfg = C.TEXTS[text];
+    const r = await fetch(C[cfg.shlokasPath]);
     const d = await r.json();
-    vsnShlokas = d.shlokas || [];
-    return vsnShlokas;
+    const numField = cfg.numberField;
+    rangedCache[text] = (d.shlokas || []).map(sh => numField ? { ...sh, s: sh[numField] } : sh);
+    return rangedCache[text];
   }
 
-  // ── Text filter dropdown (built from C.TEXT_LABELS — extensible) ──
+  async function loadExtraShlokas(id) {
+    if (extraCache[id]) return extraCache[id];
+    const cfg = (C.GITA_EXTRA_CHAPTERS || []).find(e => e.id === id);
+    const r = await fetch(C[cfg.shlokasPath]);
+    const d = await r.json();
+    extraCache[id] = (d.shlokas || []).map(sh => ({ ...sh, s: sh.num }));
+    return extraCache[id];
+  }
+
+  // ── Text filter dropdown (built from C.TEXT_LABELS + pseudo-chapters
+  // — extensible) ──
   function populateTextSelect() {
     const sel = $('lib-text-select');
     if (!sel) return;
     const uiLang = window._uiLang === 'en' ? 'en' : 'te';
     const allLabel = uiLang === 'en' ? 'All' : 'అన్నీ';
-    sel.innerHTML = `<option value="all">${allLabel}</option>` +
-      Object.keys(C.TEXT_LABELS).map(key => {
-        const label = C.TEXT_LABELS[key][uiLang] || C.TEXT_LABELS[key].en;
-        return `<option value="${key}">${label}</option>`;
-      }).join('');
+    const textOpts = Object.keys(C.TEXT_LABELS).map(key => {
+      const label = C.TEXT_LABELS[key][uiLang] || C.TEXT_LABELS[key].en;
+      return `<option value="${key}">${label}</option>`;
+    });
+    const extraOpts = (C.GITA_EXTRA_CHAPTERS || []).map(cfg => {
+      const label = `${cfg.icon} ${uiLang === 'en' ? cfg.label_en : cfg.label_te}`;
+      return `<option value="${cfg.id}">${label}</option>`;
+    });
+    sel.innerHTML = `<option value="all">${allLabel}</option>` + textOpts.join('') + extraOpts.join('');
     sel.value = activeTextFilter;
   }
 
   // ── Navigation ───────────────────────────────────────────────
   function goTo(parsed) {
-    if (parsed.text === 'vsn') {
-      window.dispatchEvent(new CustomEvent('searchNavigate', { detail: { text: 'vsn', sh: parsed.s } }));
-    } else {
+    if (parsed.text === 'gita') {
       window.dispatchEvent(new CustomEvent('searchNavigate', { detail: { text: 'gita', ch: parsed.c, s: parsed.s } }));
+    } else {
+      // vsn/sl (ranged texts) and dhyana/mahatyam (gita pseudo-chapters)
+      // all navigate the same way: reader.js's readerNavigate handler
+      // knows how to route each by id — see isRangedText()/
+      // GITA_EXTRA_CHAPTERS there.
+      window.dispatchEvent(new CustomEvent('searchNavigate', { detail: { text: parsed.text, sh: parsed.s } }));
     }
+  }
+
+  // Verse-ref badge label + a shared non-gita style bucket for any text
+  // that isn't gita (vsn/sl get their configured badgePrefix, pseudo-
+  // chapters get their icon).
+  function textBadgeLabel(text, uiLang) {
+    if (text === 'gita') return uiLang === 'en' ? 'Gītā' : 'గీతా';
+    const cfg = C.TEXTS[text];
+    if (cfg) return cfg.badgePrefix || text.toUpperCase();
+    const extra = (C.GITA_EXTRA_CHAPTERS || []).find(e => e.id === text);
+    return extra ? extra.icon : text;
   }
 
   // ── Card rendering ───────────────────────────────────────────
@@ -78,17 +128,17 @@ const Library = (() => {
     const lang   = window._meaningLang || 'en';
     const uiLang = window._uiLang === 'en' ? 'en' : 'te';
 
-    const isVsn = parsed.text === 'vsn';
+    const isGita = parsed.text === 'gita';
     const p1 = (sh && sh.p1 && (sh.p1[script] || sh.p1.ro)) || '';
     const m  = sh && sh.meaning && (sh.meaning[lang] || sh.meaning.en);
     const short = m && (m.short || (typeof m === 'string' ? m : ''));
 
     const div = document.createElement('div');
-    div.className = 'srch-card ' + (isVsn ? 'srch-card-vsn' : 'srch-card-gita');
+    div.className = 'srch-card ' + (isGita ? 'srch-card-gita' : 'srch-card-vsn');
     div.innerHTML = `
       <div class="srch-card-meta">
-        <span class="srch-chip ${isVsn ? 'srch-chip-vsn' : 'srch-chip-gita'}">${isVsn ? 'VSN' : (uiLang === 'en' ? 'Gītā' : 'గీతా')}</span>
-        <span class="srch-card-ref">${isVsn ? `శ్లో ${parsed.s}` : `${parsed.c}·${parsed.s}`}</span>
+        <span class="srch-chip ${isGita ? 'srch-chip-gita' : 'srch-chip-vsn'}">${textBadgeLabel(parsed.text, uiLang)}</span>
+        <span class="srch-card-ref">${isGita ? `${parsed.c}·${parsed.s}` : `శ్లో ${parsed.s}`}</span>
       </div>
       <div class="srch-card-title">${p1 || '…'}</div>
       ${short ? `<div class="srch-card-sub">${short.slice(0,90)}${short.length>90?'…':''}</div>` : ''}
@@ -189,12 +239,15 @@ const Library = (() => {
     for (const { id, parsed } of parsedList) {
       let sh = null;
       try {
-        if (parsed.text === 'vsn') {
-          const shlokas = await loadVsnShlokas();
-          sh = shlokas.find(x => x.s === parsed.s);
-        } else {
+        if (parsed.text === 'gita') {
           const shlokas = await loadGitaCh(parsed.c);
           sh = shlokas.find(x => +x.s === parsed.s);
+        } else if (isRangedTextId(parsed.text)) {
+          const shlokas = await loadRangedShlokas(parsed.text);
+          sh = shlokas.find(x => x.s === parsed.s);
+        } else {
+          const shlokas = await loadExtraShlokas(parsed.text);
+          sh = shlokas.find(x => x.s === parsed.s);
         }
       } catch(e) {}
       frag.appendChild(card(id, parsed, sh, bookmarks.has(id), notes[id]));

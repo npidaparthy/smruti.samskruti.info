@@ -1898,6 +1898,19 @@ const Reader = (() => {
         const shlokas = await loadRangedText(text);
         const target  = shlokas.find(x => x.s === sh);
         if (target) { pool = shlokas; renderVerse(target); }
+      } else if (C.GITA_EXTRA_CHAPTERS.some(e => e.id === text)) {
+        // Dhyāna Ślokas / Geetha Māhātmyam pseudo-chapter — e.g. from a
+        // Library bookmark tap (see library.js's goTo/parseId).
+        if (activeText !== 'gita' || extraChapterMode !== text) {
+          activeText = 'gita';
+          extraChapterMode = text;
+          if (sel) sel.value = 'gita';
+          await buildChapterGrid();
+          updateChBtnStates();
+        }
+        const shlokas = await loadExtraChapter(text);
+        const target  = shlokas.find(x => x.s === sh);
+        if (target) { pool = shlokas; renderVerse(target); }
       } else {
         if (activeText !== 'gita') {
           activeText = 'gita';
