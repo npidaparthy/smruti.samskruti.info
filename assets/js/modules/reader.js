@@ -350,6 +350,7 @@ const Reader = (() => {
     // 4. Chapters at a glance
     _set('bg-ml-chapters', L('18 Chapters — Yoga & Benefit', '18 అధ్యాయాలు — యోగం & ఫలం'));
     const chEl = $('bg-mv-chapters');
+    const _pTitle = title => (title && (isRo ? (title.ro || title.en) : (isDn ? (title.sa || title.ro) : (title.te || title.ro || title.en)))) || '';
     if (chEl && meta.chapters) {
       chEl.innerHTML = '';
       meta.chapters.forEach(ch => {
@@ -360,7 +361,7 @@ const Reader = (() => {
           <span class="bg-ch-num">${ch.ch}</span>
           <div class="bg-ch-info">
             <div class="bg-ch-header">
-              <span class="bg-ch-name">${_p(ch.name)}</span>
+              <span class="bg-ch-name">${_pTitle(chapterCache[ch.ch]?.title)}</span>
               <span class="bg-ch-v">${ch.verses} ${L('śloka','శ్లో')}</span>
             </div>
             ${ps ? `<span class="bg-ch-fruit">${isRo ? ps.en : (ps.te || ps.en)}</span>` : ''}
@@ -712,6 +713,14 @@ const Reader = (() => {
     return data;
   }
 
+  // Populates chapterCache for all 18 chapters (titles + full text) so the
+  // BG about panel's chapter list can read titles from the single source
+  // of truth (ch*.json) instead of the removed bg-meta.json duplicate.
+  async function loadAllChapterTitles() {
+    const idx = await loadIndex();
+    await Promise.all(idx.chapters.map(entry => loadChapter(entry.chapter)));
+  }
+
   // Dhyāna Ślokas / Geetha Māhātmyam — pseudo-chapters of the Gita text
   // (see C.GITA_EXTRA_CHAPTERS), not separate texts. Their JSON numbers
   // verses "num", not "s"/"c" like real chapters — alias so the generic
@@ -906,7 +915,7 @@ const Reader = (() => {
 
     hideVsnAbout();
     // Show BG about panel
-    loadBgMeta().then(meta => { if (activeText === 'gita') renderBgAbout(meta, window._script || 'te'); });
+    Promise.all([loadBgMeta(), loadAllChapterTitles()]).then(([meta]) => { if (activeText === 'gita') renderBgAbout(meta, window._script || 'te'); });
 
     // Gita chapter grid
     const idx = await loadIndex();
@@ -1036,8 +1045,8 @@ const Reader = (() => {
     const chData = await loadChapter(chNum);
     if (!ch) { card.hidden = true; return; }
 
-    const nameKey = script === 'ro' ? 'iast' : script === 'sa' ? 'sa' : 'te';
-    const yogaName = ch.name?.[nameKey] || ch.name?.iast || '';
+    const nameKey = script === 'ro' ? 'ro' : script === 'sa' ? 'sa' : 'te';
+    const yogaName = chData.title?.[nameKey] || chData.title?.ro || '';
     const phalashruti = ch.phalashruti?.[lang] || ch.phalashruti?.en || '';
 
     // Speaker breakdown
