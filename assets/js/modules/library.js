@@ -137,7 +137,8 @@ const Library = (() => {
     const uiLang = window._uiLang === 'en' ? 'en' : 'te';
 
     const isGita = parsed.text === 'gita';
-    const p1 = (sh && sh.p1 && (sh.p1[script] || sh.p1.ro)) || '';
+    const firstLine = sh && (sh.p1 || sh.h1);
+    const p1 = (firstLine && (firstLine[script] || firstLine.ro)) || '';
     const m  = sh && sh.meaning && (sh.meaning[lang] || sh.meaning.en);
     const short = m && (m.short || (typeof m === 'string' ? m : ''));
 

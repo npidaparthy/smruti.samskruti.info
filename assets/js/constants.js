@@ -16,6 +16,7 @@ const C = {
   EKADASHI:      '/data/calendar/content/ekadashi.json',
   BG_QUIZ:       '/data/quiz/bg-quiz.json',
   SL_SHLOKAS:    '/data/sl/sl.json',
+  SR_SHLOKAS:    '/data/sr/sr.json',
   // Two pseudo-chapters within the Gita text (not separate texts) — see
   // reader.js GITA_EXTRA_CHAPTERS comment for where they're wired in.
   DHYANA_SHLOKAS:   '/data/bg/content/dhyana-slokas.json',
@@ -131,7 +132,8 @@ const C = {
   TEXT_LABELS: {
     gita: { te: 'శ్రీమద్భగవద్గీతా', sa: 'श्रीमद्भगवद्गीता', ro: 'Śrīmad Bhagavadgītā', en: 'Śrīmad Bhagavadgītā' },
     vsn:  { te: 'శ్రీవిష్ణుసహస్రనామమ్', sa: 'श्रीविष्णुसहस्रनामम्', ro: 'Śrīviṣṇusahasranāmam', en: 'Śrī Viṣṇu Sahasranāmam' },
-    sl:   { te: 'సౌన్దర్యలహరీ', sa: 'सौन्दर्यलहरी', ro: 'Saundaryalaharī', en: 'Saundaryalaharī' }
+    sl:   { te: 'సౌన్దర్యలహరీ', sa: 'सौन्दर्यलहरी', ro: 'Saundaryalaharī', en: 'Saundaryalaharī' },
+    sr:   { te: 'శ్రీమద్రామాయణకథాసంక్షేపః', sa: 'श्रीमद्रामायणकथासंक्षेपः', ro: 'Śrīmadrāmāyaṇakathāsaṅkṣepaḥ', en: 'Saṅkṣepa Rāmāyaṇam' }
   },
 
   // Registry of readable texts. reader.js's chapter-grid/pool/bookmark/
@@ -164,7 +166,12 @@ const C = {
     // text generically. VSN deliberately has no such flag: its Search tab
     // behavior searches *names*, not verse text, which isn't a shape a
     // future text is expected to share, so it stays hand-written in search.js.
-    sl:   { id: 'sl',   grouping: 'ranges', ranges: 'SL_GROUPS',  shlokasPath: 'SL_SHLOKAS',  numberField: 'v', totalVerses: 100, avadhanamModes: null, badgePrefix: 'SL', hasVotd: false, shlokaSearch: true }
+    sl:   { id: 'sl',   grouping: 'ranges', ranges: 'SL_GROUPS',  shlokasPath: 'SL_SHLOKAS',  numberField: 'v', totalVerses: 100, avadhanamModes: null, badgePrefix: 'SL', hasVotd: false, shlokaSearch: true },
+    // Sankshepa Ramayanam — a single 100-verse sarga (no sub-ranges), kept
+    // as h1/h2 half-verses rather than guessed quarter-padas (renderVerse
+    // in reader.js has a dedicated h1/h2 rendering branch for this shape).
+    // No shlokaSearch: search.js's ranged-text branches assume p1-p4.
+    sr:   { id: 'sr',   grouping: 'single', shlokasPath: 'SR_SHLOKAS', totalVerses: 100, avadhanamModes: null, badgePrefix: 'SR', hasVotd: false }
   },
 
   // Avadhānam test modes

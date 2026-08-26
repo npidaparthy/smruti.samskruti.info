@@ -1233,6 +1233,12 @@ const Reader = (() => {
     const padaKeys = Object.keys(sh)
       .filter(k => /^p\d+$/.test(k))
       .sort((a, b) => parseInt(a.slice(1), 10) - parseInt(b.slice(1), 10));
+    // Half-verse texts (h1/h2 — e.g. Sankshepa Ramayanam, which keeps each
+    // verse as two halves rather than guessed quarter-padas) get a mid
+    // danda after the first half instead of every-2nd-pada.
+    const halfKeys = padaKeys.length ? [] : Object.keys(sh)
+      .filter(k => /^h\d+$/.test(k))
+      .sort((a, b) => parseInt(a.slice(1), 10) - parseInt(b.slice(1), 10));
     padaKeys.forEach((pk, i) => {
       const span = document.createElement('span');
       span.className = 'verse-pada';
@@ -1241,6 +1247,16 @@ const Reader = (() => {
       const isLast = i === padaKeys.length - 1;
       if (!isLast && (i + 1) % 2 === 0) text += ' ।';
       if (isLast) text += sh.c ? ` ॥ ${sh.c}.${sh.s} ॥` : ` ॥${sh.s}॥`;
+      span.textContent = text;
+      verseEl.appendChild(span);
+    });
+    halfKeys.forEach((hk, i) => {
+      const span = document.createElement('span');
+      span.className = 'verse-pada';
+      let text = padaText(sh[hk], script);
+      const isLast = i === halfKeys.length - 1;
+      if (!isLast) text += ' ।';
+      if (isLast) text += ` ॥${sh.s}॥`;
       span.textContent = text;
       verseEl.appendChild(span);
     });
