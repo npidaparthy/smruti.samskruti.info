@@ -210,7 +210,8 @@ const C = {
     LIPI_PRESET:  'smriti_lipi_preset',
     AUDIO_SPEED:  'smriti_audio_speed',
     AUTO_ADVANCE: 'smriti_auto_advance',
-    AV_MEANING:   'smriti_av_meaning'
+    AV_MEANING:   'smriti_av_meaning',
+    AV_NOTES:     'smriti_av_notes'
   }
 };
 

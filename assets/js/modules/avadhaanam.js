@@ -713,6 +713,7 @@ const Avadhaanam = (() => {
 
 
     renderMeaningGated(current);
+    renderNotesGated(current);
   }
 
   function renderHiddenAll(verseEl, script) {
@@ -749,6 +750,72 @@ const Avadhaanam = (() => {
     $('a-verse-hint').textContent = t('hint_revealed');
 
     if (current) renderMeaning(current);
+    if (current) renderNotesPanel(current);
+  }
+
+  // ── Personal notes ────────────────────────────────────────────
+  // Shared key with reader.js — a note written in one tab shows in the
+  // other, and both are also browsable together in the Library tab.
+  const NOTES_KEY = 'smriti_notes';
+  function getNotes() { try { return JSON.parse(localStorage.getItem(NOTES_KEY) || '{}'); } catch(e) { return {}; } }
+  function saveNote(id, text) {
+    const notes = getNotes();
+    if (text.trim()) notes[id] = text.trim();
+    else delete notes[id];
+    try { localStorage.setItem(NOTES_KEY, JSON.stringify(notes)); } catch(e) {}
+  }
+
+  function renderNotesPanel(sh) {
+    const wrap = $('a-notes-wrap');
+    if (!wrap || !sh) return;
+    const id    = avId(sh);
+    const en    = window._uiLang === 'en';
+    const saved = getNotes()[id] || '';
+
+    wrap.innerHTML = `
+      <details class="notes-details" ${saved ? 'open' : ''}>
+        <summary class="notes-summary">
+          <span class="notes-icon">✎</span>
+          <span class="notes-label">${en ? 'My note' : 'నా గమనిక'}</span>
+          ${saved ? '<span class="notes-dot">●</span>' : ''}
+        </summary>
+        <textarea class="notes-ta" id="a-notes-ta" rows="3"
+          placeholder="${en ? 'Write your note here…' : 'మీ గమనిక ఇక్కడ రాయండి…'}">${saved}</textarea>
+        <div class="notes-actions">
+          <button class="notes-save" id="a-notes-save">${en ? 'Save' : 'సేవ్'}</button>
+          ${saved ? `<button class="notes-clear" id="a-notes-clear">${en ? 'Clear' : 'తొలగించు'}</button>` : ''}
+        </div>
+      </details>
+    `;
+
+    $('a-notes-save')?.addEventListener('click', () => {
+      const text = $('a-notes-ta')?.value || '';
+      saveNote(id, text);
+      renderNotesPanel(sh);
+    });
+    $('a-notes-clear')?.addEventListener('click', () => {
+      saveNote(id, '');
+      renderNotesPanel(sh);
+    });
+  }
+
+  // ♥/✎ practice-mode gating: "Show notes by default in Avadhānam"
+  // setting mirrors the meaning one below. Default is 'show' — users can
+  // write and see notes while practicing, same as reading. Opting into
+  // 'hide' fully defers to Reveal, exactly like meaning, rather than
+  // trying to allow writing-new-while-hiding-old (simpler to reason
+  // about, and matches the mental model the meaning toggle already set).
+  function notesHiddenByDefault() {
+    return (window._avNotes || 'show') === 'hide';
+  }
+
+  function renderNotesGated(sh) {
+    if (!revealed && notesHiddenByDefault()) {
+      const wrap = $('a-notes-wrap');
+      if (wrap) wrap.innerHTML = `<span class="meaning-empty">${t('av_notes_hidden')}</span>`;
+      return;
+    }
+    renderNotesPanel(sh);
   }
 
   // ── Meaning rendering ─────────────────────────────────────────
@@ -1059,6 +1126,7 @@ const Avadhaanam = (() => {
     });
     window.addEventListener('meaningLangChange', () => { if (current) renderMeaningGated(current); });
     window.addEventListener('avMeaningChange', () => { if (current) renderMeaningGated(current); });
+    window.addEventListener('avNotesChange', () => { if (current) renderNotesGated(current); });
     window.addEventListener('uiLangChange', () => {
       buildModeSelect();
       buildChapterGrid();

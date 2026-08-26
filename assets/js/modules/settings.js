@@ -27,6 +27,7 @@ const Settings = (() => {
       autoAdvance:  get(LS.AUTO_ADVANCE, 'off'),
       autoAdvanceSecs: +get('smriti_auto_advance_secs', '9'),
       avMeaning:    get(LS.AV_MEANING,   'show'),
+      avNotes:      get(LS.AV_NOTES,     'show'),
     };
   }
 
@@ -206,6 +207,19 @@ const Settings = (() => {
       });
     });
     window._avMeaning = savedAvM;
+
+    // Avadhānam notes default
+    const savedAvN = get(LS.AV_NOTES, 'show');
+    document.querySelectorAll('[data-avnotes]').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.avnotes === savedAvN);
+      btn.addEventListener('click', () => {
+        set(LS.AV_NOTES, btn.dataset.avnotes);
+        window._avNotes = btn.dataset.avnotes;
+        document.querySelectorAll('[data-avnotes]').forEach(b => b.classList.toggle('active', b === btn));
+        window.dispatchEvent(new CustomEvent('avNotesChange', { detail: btn.dataset.avnotes }));
+      });
+    });
+    window._avNotes = savedAvN;
   }
 
   async function loadBuildBadge() {

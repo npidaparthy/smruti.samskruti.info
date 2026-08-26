@@ -1888,7 +1888,7 @@ details.bg-meta-section > *:not(summary) { padding-bottom: 12px; }
 .r-name-back-btn:hover { background: var(--bg-amber); color: #fff; }
 
 /* ── Personal notes ──────────────────────────────────── */
-#r-notes-wrap { margin: 4px 0 0; }
+#r-notes-wrap, #a-notes-wrap { margin: 4px 0 0; }
 .notes-details { border-radius: 10px; overflow: hidden; }
 .notes-summary {
   display: flex;
@@ -1948,7 +1948,7 @@ details.bg-meta-section > *:not(summary) { padding-bottom: 12px; }
   font-size: 12px;
   cursor: pointer;
 }
-body.focus-mode #r-notes-wrap { display: none; }
+body.focus-mode #r-notes-wrap, body.focus-mode #a-notes-wrap { display: none; }
 
 /* ── Reading progress badge ──────────────────────────── */
 .r-progress-badge {

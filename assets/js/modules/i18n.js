@@ -55,6 +55,7 @@ const I18N = {
     // meaning empty
     no_meaning:          'ఈ శ్లోకానికి అర్థం తయారవుతోంది.',
     av_meaning_hidden:   '👁 అర్థం దాచబడింది — Reveal నొక్కితే కనిపిస్తుంది',
+    av_notes_hidden:     '👁 గమనిక దాచబడింది — Reveal నొక్కితే కనిపిస్తుంది',
     // help back
     help_back:           '← వెనక',
     // settings extras
@@ -141,6 +142,8 @@ const I18N = {
     seconds:                  'సెకన్లు',
     av_meaning_setting:       'అవధానం అర్థం',
     av_meaning_sub:           'అవధానం కార్డులో అర్థం అప్రమేయంగా',
+    av_notes_setting:         'అవధానం గమనికలు',
+    av_notes_sub:             'అవధానం కార్డులో నా గమనిక అప్రమేయంగా',
     audio_speed_setting:      'ఆడియో వేగం',
     audio_speed_sub:          'పఠన ఆడియో వేగం',
     show:                     'చూపు',
@@ -210,6 +213,7 @@ const I18N = {
     nm_vsn_shlokas:      'VSN shlokas',
     no_meaning:          'Meaning for this verse is being prepared.',
     av_meaning_hidden:   '👁 Meaning hidden — tap Reveal to see it',
+    av_notes_hidden:     '👁 Note hidden — tap Reveal to see it',
     help_back:           '← Back',
     // settings extras
     font_size_sub_all:   'All texts',
@@ -295,6 +299,8 @@ const I18N = {
     seconds:                  'seconds',
     av_meaning_setting:       'Avadhānam meaning',
     av_meaning_sub:           'Show meaning by default in Avadhānam',
+    av_notes_setting:         'Avadhānam notes',
+    av_notes_sub:             'Show my note by default in Avadhānam',
     audio_speed_setting:      'Audio speed',
     audio_speed_sub:          'Recitation playback speed',
     show:                     'Show',
