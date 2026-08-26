@@ -82,6 +82,11 @@ jobs:
           IFS=',' read -ra CHS <<< "$CHAPTER_LIST"
           for ch in "${CHS[@]}"; do
             [ -z "$ch" ] && continue
+            chTag=$(printf "ch%02d" "$ch")
+            if [ ! -d "data/quiz/bg/$chTag" ]; then
+              echo "Skipping chapter $ch — no quiz data yet (data/quiz/bg/$chTag/ missing)"
+              continue
+            fi
             echo "::group::Chapter $ch"
             node scripts/qa-pdf/gen-qa-pdf.mjs --chapter "$ch" --chrome "$CHROME_PATH"
             echo "::endgroup::"
