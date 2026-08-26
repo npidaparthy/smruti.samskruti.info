@@ -39,6 +39,16 @@ const Library = (() => {
     return (C.GITA_EXTRA_CHAPTERS || []).some(e => e.id === text);
   }
 
+  // Dhyāna Ślokas / Geetha Māhātmyam are Gita pseudo-chapters, not their
+  // own text (see constants.js GITA_EXTRA_CHAPTERS comment) — they must
+  // not appear as a selectable "text" in the filter dropdown. For
+  // filtering purposes only, fold them into 'gita' so a bookmark there
+  // still shows up under the "గీత" filter; `card()`/data-loading keep
+  // using the specific id (parsed.text) for the right icon/data source.
+  function filterGroup(text) {
+    return isExtraChapterId(text) ? 'gita' : text;
+  }
+
   function parseId(id) {
     const dot = id.indexOf('.');
     if (dot > 0) {
@@ -79,8 +89,10 @@ const Library = (() => {
     return extraCache[id];
   }
 
-  // ── Text filter dropdown (built from C.TEXT_LABELS + pseudo-chapters
-  // — extensible) ──
+  // ── Text filter dropdown (built from C.TEXT_LABELS — extensible) ──
+  // Dhyāna Ślokas / Geetha Māhātmyam are NOT listed here — they're Gita
+  // pseudo-chapters, not a text of their own (see filterGroup() above).
+  // Selecting "గీత" already includes their bookmarks.
   function populateTextSelect() {
     const sel = $('lib-text-select');
     if (!sel) return;
@@ -90,11 +102,7 @@ const Library = (() => {
       const label = C.TEXT_LABELS[key][uiLang] || C.TEXT_LABELS[key].en;
       return `<option value="${key}">${label}</option>`;
     });
-    const extraOpts = (C.GITA_EXTRA_CHAPTERS || []).map(cfg => {
-      const label = `${cfg.icon} ${uiLang === 'en' ? cfg.label_en : cfg.label_te}`;
-      return `<option value="${cfg.id}">${label}</option>`;
-    });
-    sel.innerHTML = `<option value="all">${allLabel}</option>` + textOpts.join('') + extraOpts.join('');
+    sel.innerHTML = `<option value="all">${allLabel}</option>` + textOpts.join('');
     sel.value = activeTextFilter;
   }
 
@@ -194,7 +202,7 @@ const Library = (() => {
     else if (activeLibFilter === 'noted') ids = new Set([...ids].filter(id => notes[id]));
 
     let parsedList = [...ids].map(id => ({ id, parsed: parseId(id) }));
-    if (activeTextFilter !== 'all') parsedList = parsedList.filter(x => x.parsed.text === activeTextFilter);
+    if (activeTextFilter !== 'all') parsedList = parsedList.filter(x => filterGroup(x.parsed.text) === activeTextFilter);
 
     if (sortMode === 'recent') {
       // No real timestamps stored — approximate "recent" from each store's
@@ -214,6 +222,8 @@ const Library = (() => {
       parsedList.sort((a, b) => recencyScore(b.id) - recencyScore(a.id));
     } else {
       parsedList.sort((a, b) => {
+        const ag = filterGroup(a.parsed.text), bg = filterGroup(b.parsed.text);
+        if (ag !== bg) return ag === 'gita' ? -1 : 1;
         if (a.parsed.text !== b.parsed.text) return a.parsed.text === 'gita' ? -1 : 1;
         const ac = a.parsed.c || 0, bc = b.parsed.c || 0;
         if (ac !== bc) return ac - bc;
