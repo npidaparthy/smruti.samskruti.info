@@ -34,6 +34,7 @@
     {
       "id": "bg",
       "label": "శ్రీమద్భగవద్గీతా",
+      "labels": { "te": "శ్రీమద్భగవద్గీతా", "en": "Bhagavad Gita" },
       "script": "te",
       "source": {
         "glob": "data/bg/content/chapters/*.json",
@@ -100,6 +101,7 @@
     {
       "id": "vsn",
       "label": "శ్రీవిష్ణుసహస్రనామమ్",
+      "labels": { "te": "శ్రీవిష్ణుసహస్రనామమ్", "sa": "श्रीविष्णुसहस्रनामस्तोत्रम्", "en": "Śrī Viṣṇu Sahasranāma Stotram" },
       "script": "te",
       "source": {
         "glob": "data/vsn/vsn-daily-cards.json",
@@ -157,6 +159,7 @@
     {
       "id": "sl",
       "label": "సౌన్దర్యలహరీ",
+      "labels": { "te": "సౌన్దర్యలహరీ", "sa": "सौन्दर्यलहरी", "en": "Saundarya Laharī" },
       "script": "te",
       "source": {
         "glob": "data/sl/sl.json",
@@ -216,6 +219,7 @@
     {
       "id": "sr",
       "label": "శ్రీమద్రామాయణకథాసంక్షేపః",
+      "labels": { "te": "శ్రీమద్రామాయణకథాసంక్షేపః", "sa": "श्रीमद्रामायणकथासंक्षेपः", "en": "Saṅkṣepa Rāmāyaṇam" },
       "script": "te",
       "source": {
         "glob": "data/sr/sr.json",
@@ -276,6 +280,7 @@
     {
       "id": "vd",
       "label": "వేదాన్తడిణ్డిమః",
+      "labels": { "te": "వేదాన్తడిణ్డిమః", "sa": "वेदान्तडिण्डिमः", "en": "Vedanta Dindimah" },
       "script": "te",
       "source": {
         "glob": "data/v-dindhima/dindima.json",

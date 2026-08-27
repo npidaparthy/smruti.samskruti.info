@@ -22,7 +22,14 @@
     } catch (e) { return new Date().toISOString().slice(0, 10).replace(/-/g, ''); }
   }
   function folderOf(feed) { const out = String(feed.output || ('daily/' + feed.id + '/')).replace(/\/+$/, ''); return out.split('/').pop(); }
-  function labelOf(feed) { return feed.label || String(feed.id).replace(/(^|[-_])(\w)/g, (_, a, b) => (a ? ' ' : '') + b.toUpperCase()); }
+  // feed.labels (te/sa/en) lets the tab button itself switch language along
+  // with everything else — feed.label is the fallback for a feed with no
+  // per-language labels at all, then finally a prettified feed.id.
+  function labelOf(feed) {
+    const l = effectiveLang(feed);
+    return (feed.labels && (feed.labels[l] || feed.labels.te)) || feed.label ||
+      String(feed.id).replace(/(^|[-_])(\w)/g, (_, a, b) => (a ? ' ' : '') + b.toUpperCase());
+  }
   function extOf(feed) { const c = state.config || {}; const f = (feed.card && feed.card.format) || (c.card && c.card.format) || 'png'; return f === 'jpeg' ? 'jpg' : f; }
   function variantIds(feed) { return (feed.variants || []).map((v) => v.id).filter(Boolean); }
   function languages() { const seen = {}, list = []; state.feeds.forEach((f) => variantIds(f).forEach((l) => { if (!seen[l]) { seen[l] = 1; list.push(l); } })); return list; }
@@ -104,9 +111,18 @@
     const nav = $('#tabs'); nav.innerHTML = '';
     if (state.feeds.length < 2) return;
     state.feeds.forEach((f) => {
-      const b = document.createElement('button'); b.className = 'tab'; b.type = 'button'; b.textContent = labelOf(f); b.dataset.id = f.id;
+      const b = document.createElement('button'); b.className = 'tab'; b.type = 'button'; b.dataset.id = f.id;
       b.addEventListener('click', () => goto(f.id, null));
       nav.appendChild(b);
+    });
+    updateTabLabels();
+  }
+  // Tab text depends on the current language (labelOf), which can change
+  // without a full tab rebuild — refreshed on every render(), not just boot.
+  function updateTabLabels() {
+    document.querySelectorAll('.tab').forEach((b) => {
+      const f = state.feeds.find((x) => x.id === b.dataset.id);
+      if (f) b.textContent = labelOf(f);
     });
   }
   function buildLangs() {
@@ -128,6 +144,7 @@
   // ── render ───────────────────────────────────────────────────────────────────
   function render() {
     const feed = state.current, date = state.date;
+    updateTabLabels();
     document.querySelectorAll('.tab').forEach((t) => t.classList.toggle('active', t.dataset.id === feed.id));
     const avail = variantIds(feed), shown = effectiveLang(feed);
     document.querySelectorAll('.lang-btn').forEach((b) => {
