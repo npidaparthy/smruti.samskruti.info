@@ -138,6 +138,22 @@
       .then(reg => {
         console.log('SW registered');
         reg.update().catch(() => {});
+
+        // A homescreen-installed PWA session can stay open for days without
+        // ever re-navigating (the only other trigger for an update check),
+        // so poll for a new version while the app is actually visible: once
+        // immediately whenever it's brought to the foreground, plus a
+        // periodic safety-net for long uninterrupted sessions.
+        const POLL_MS = 30 * 60 * 1000; // 30 min
+        let pollTimer = null;
+        const pollUpdate = () => reg.update().catch(() => {});
+        const startPolling = () => { if (!pollTimer) pollTimer = setInterval(pollUpdate, POLL_MS); };
+        const stopPolling  = () => { clearInterval(pollTimer); pollTimer = null; };
+        document.addEventListener('visibilitychange', () => {
+          if (document.visibilityState === 'visible') { pollUpdate(); startPolling(); }
+          else stopPolling();
+        });
+        if (document.visibilityState === 'visible') startPolling();
       })
       .catch(err => console.warn('SW registration failed', err));
 
