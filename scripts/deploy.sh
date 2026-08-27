@@ -13,5 +13,8 @@ VERSION="${COMMIT}.${BUILT}"
 echo "{\"version\":\"${VERSION}\",\"commit\":\"${COMMIT}\",\"built\":\"$(git log -1 --format="%aI")\"}" > version.json
 echo "✓ version.json → ${VERSION}"
 
-sed -i '' "s/const CACHE = 'smriti-v[^']*'/const CACHE = 'smriti-v${COMMIT}'/" service-worker.js
-echo "✓ service-worker.js CACHE → smriti-v${COMMIT}"
+# Same VERSION string as above (not just the commit hash) — so the cache name
+# a browser bumps against and the build badge a user sees in Settings are
+# always identical, never two independently-tracked "version" concepts.
+sed -i '' "s/const CACHE = 'smriti-[^']*'/const CACHE = 'smriti-${VERSION}'/" service-worker.js
+echo "✓ service-worker.js CACHE → smriti-${VERSION}"
