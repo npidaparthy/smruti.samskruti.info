@@ -1,4 +1,4 @@
-const CACHE = 'smriti-v24';
+const CACHE = 'smriti-v25';
 
 const DEV = false;
 
@@ -61,12 +61,16 @@ self.addEventListener('fetch', e => {
     return;
   }
 
-  // Stale-while-revalidate for JS / CSS / HTML
+  // Stale-while-revalidate for JS / CSS / HTML. The revalidation fetch uses
+  // {cache: 'no-store'} so it always hits the network — without it, a
+  // same-URL asset (bare precached paths, or a ?v= number someone forgot to
+  // bump) could keep being satisfied from the browser's own HTTP cache
+  // forever, silently defeating this whole revalidation step.
   if (isSwr(url)) {
     e.respondWith(
       caches.open(CACHE).then(cache =>
         cache.match(e.request).then(cached => {
-          const fresh = fetch(e.request).then(r => { cache.put(e.request, r.clone()); return r; });
+          const fresh = fetch(e.request, { cache: 'no-store' }).then(r => { cache.put(e.request, r.clone()); return r; });
           return cached || fresh;   // serve cached instantly; fresh updates cache for next load
         })
       )
