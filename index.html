@@ -168,6 +168,95 @@
       </details>
     </div>
 
+    <!-- SR (Sankshepa Ramayanam) Meta Panel — reuses VSN's vsn-meta-* CSS
+         classes (same section shape: what-is, origin rows, story,
+         why-recite, phalashruti) with its own sr-* DOM ids. -->
+    <div id="sr-about" style="display:none">
+      <details class="vsn-meta-card" id="sr-meta-details">
+        <summary class="vsn-meta-summary">
+          <span id="sr-meta-title">శ్రీమద్రామాయణకథాసంక్షేపః</span>
+          <span class="vsn-meta-chevron">›</span>
+        </summary>
+        <div class="vsn-meta-body">
+
+          <!-- Stat strip -->
+          <div class="bg-stat-strip">
+            <div class="bg-stat"><span class="bg-stat-n" id="sr-stat-verses">100</span><span class="bg-stat-l" id="sr-sl-verses">శ్లోకాలు</span></div>
+            <div class="bg-stat-div"></div>
+            <div class="bg-stat"><span class="bg-stat-n" id="sr-stat-sargas">1</span><span class="bg-stat-l" id="sr-sl-sargas">సర్గం</span></div>
+            <div class="bg-stat-div"></div>
+            <div class="bg-stat"><span class="bg-stat-n" id="sr-stat-meters">2</span><span class="bg-stat-l" id="sr-sl-meters">ఛందస్సులు</span></div>
+          </div>
+
+          <!-- 1. What is it -->
+          <div class="vsn-meta-section">
+            <div class="vsn-meta-section-heading" id="sr-ml-what"></div>
+            <div class="vsn-meta-narrative" id="sr-mv-what"></div>
+          </div>
+
+          <!-- 2. Source -->
+          <div class="vsn-meta-section vsn-meta-origin">
+            <div class="vsn-meta-section-heading" id="sr-ml-source"></div>
+            <div class="vsn-meta-rows">
+              <div class="vsn-meta-row">
+                <span class="vsn-meta-label" id="sr-ml-text"></span>
+                <span class="vsn-meta-val" id="sr-mv-text"></span>
+              </div>
+              <div class="vsn-meta-row">
+                <span class="vsn-meta-label" id="sr-ml-kanda"></span>
+                <span class="vsn-meta-val" id="sr-mv-kanda"></span>
+              </div>
+              <div class="vsn-meta-row">
+                <span class="vsn-meta-label" id="sr-ml-sarga"></span>
+                <span class="vsn-meta-val" id="sr-mv-sarga"></span>
+              </div>
+              <div class="vsn-meta-row">
+                <span class="vsn-meta-label" id="sr-ml-composed"></span>
+                <span class="vsn-meta-val" id="sr-mv-composed"></span>
+              </div>
+            </div>
+          </div>
+
+          <!-- 3. Who to whom + Story -->
+          <div class="vsn-meta-section">
+            <div class="vsn-meta-section-heading" id="sr-ml-story"></div>
+            <div class="vsn-meta-who-row">
+              <div class="vsn-who-card">
+                <div class="vsn-who-role" id="sr-ml-speaker"></div>
+                <div class="vsn-who-name" id="sr-mv-speaker"></div>
+              </div>
+              <div class="vsn-who-arrow">→</div>
+              <div class="vsn-who-card">
+                <div class="vsn-who-role" id="sr-ml-listener"></div>
+                <div class="vsn-who-name" id="sr-mv-listener"></div>
+              </div>
+            </div>
+            <div class="vsn-meta-narrative" id="sr-mv-narrative"></div>
+          </div>
+
+          <!-- 4. Why recite it -->
+          <div class="vsn-meta-section">
+            <div class="vsn-meta-section-heading" id="sr-ml-why"></div>
+            <div class="vsn-meta-narrative" id="sr-mv-why"></div>
+          </div>
+
+          <!-- 5. Auspicious times -->
+          <div class="vsn-meta-section vsn-meta-times">
+            <div class="vsn-meta-section-heading" id="sr-ml-times"></div>
+            <div class="vsn-meta-narrative" id="sr-mv-times"></div>
+          </div>
+
+          <!-- 6. Phalaśruti -->
+          <div class="vsn-meta-section vsn-meta-phalashruti">
+            <div class="vsn-meta-section-heading" id="sr-ml-phalashruti"></div>
+            <div class="vsn-meta-narrative" id="sr-mv-phalashruti-text"></div>
+            <ul class="vsn-meta-fruits" id="sr-mv-fruits"></ul>
+          </div>
+
+        </div>
+      </details>
+    </div>
+
     <!-- BG Meta Panel -->
     <div id="bg-about" style="display:none">
       <details class="bg-meta-card" id="bg-meta-details">

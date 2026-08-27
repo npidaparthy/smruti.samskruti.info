@@ -17,6 +17,7 @@ const C = {
   BG_QUIZ:       '/data/quiz/bg-quiz.json',
   SL_SHLOKAS:    '/data/sl/sl.json',
   SR_SHLOKAS:    '/data/sr/sr.json',
+  SR_META:       '/data/sr/sr-meta.json',
   // Two pseudo-chapters within the Gita text (not separate texts) — see
   // reader.js GITA_EXTRA_CHAPTERS comment for where they're wired in.
   DHYANA_SHLOKAS:   '/data/bg/content/dhyana-slokas.json',

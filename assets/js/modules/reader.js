@@ -26,6 +26,7 @@ const Reader = (() => {
   let vsnNamesLoaded    = false;
   let vsnNameCountMap   = null;
   let vsnMeta           = null;
+  let srMeta            = null;
   let bgMeta            = null;
 
   // Generic engine for texts with C.TEXTS[id].grouping === 'ranges'|'single'
@@ -267,6 +268,99 @@ const Reader = (() => {
 
   function hideVsnAbout() {
     const panel = $('vsn-about');
+    if (panel) panel.style.display = 'none';
+  }
+
+  // Sankshepa Ramayanam about panel — deliberately reuses VSN's markup/CSS
+  // classes (vsn-meta-*) rather than inventing a new set, since its shape
+  // (what-is, origin rows, speaker→listener story, why-recite, phalashruti)
+  // is the same as VSN's; only the DOM ids (sr-*) and data are its own.
+  async function loadSrMeta() {
+    if (srMeta) return srMeta;
+    const r = await fetch(C.SR_META);
+    srMeta = await r.json();
+    return srMeta;
+  }
+
+  function renderSrAbout(meta, script) {
+    const panel = $('sr-about');
+    if (!panel) return;
+    panel.style.display = '';
+
+    const isRo = script === 'ro', isDn = script === 'sa';
+    const _p   = o => (o && (isRo ? (o.ro || o.en) : (isDn ? (o.sa || o.ro) : (o.te || o.ro || o.en)))) || '';
+    const _set = (id, val) => { const el = $(id); if (el) el.textContent = val; };
+    const lang = (isRo || window._uiLang === 'en') ? 'english' : 'telugu';
+    const L    = (en, te) => (isRo || window._uiLang === 'en') ? en : te;
+
+    _set('sr-meta-title', _p(meta.title));
+
+    // Stats
+    const st = meta.stats || {};
+    _set('sr-stat-verses',  st.verses  ?? '');
+    _set('sr-stat-sargas',  st.sargas  ?? '');
+    _set('sr-stat-meters',  st.meters  ?? '');
+    _set('sr-sl-verses', L('verses', 'శ్లోకాలు'));
+    _set('sr-sl-sargas', L('sarga',  'సర్గం'));
+    _set('sr-sl-meters', L('meters', 'ఛందస్సులు'));
+
+    // 1. What is it
+    _set('sr-ml-what', L('What is Saṅkṣepa Rāmāyaṇam?', 'సంక్షేప రామాయణం అంటే ఏమిటి?'));
+    const wi = meta.what_is || {};
+    _set('sr-mv-what', wi[lang] || wi.english || '');
+
+    // 2. Source
+    _set('sr-ml-source',   L('Source & Setting', 'గ్రంథం & సందర్భం'));
+    const src = meta.source || {};
+    _set('sr-ml-text',     L('Source text', 'మూలగ్రంథం'));
+    _set('sr-mv-text',     _p(src.text));
+    _set('sr-ml-kanda',    L('Kāṇḍa', 'కాండ'));
+    _set('sr-mv-kanda',    _p(src.kanda));
+    _set('sr-ml-sarga',    L('Sarga', 'సర్గం'));
+    _set('sr-mv-sarga',    src.sarga ? `${src.sarga.number} · ${_p(src.sarga)}` : '');
+    _set('sr-ml-composed', L('Composed', 'రచనాకాలం'));
+    const comp = (src.composed && src.composed.traditional) || {};
+    _set('sr-mv-composed', _p(comp));
+
+    // 3. Story — speaker/listener
+    _set('sr-ml-story', L('The Story — Who Spoke to Whom?', 'కథాసందర్భం — ఎవరు ఎవరికి చెప్పారు?'));
+    const story = meta.story || {};
+    _set('sr-ml-speaker',  L('Speaker', 'వక్త'));
+    _set('sr-mv-speaker',  _p(story.speaker));
+    _set('sr-ml-listener', L('Listener', 'శ్రోత'));
+    _set('sr-mv-listener', _p(story.listener));
+    const narr = story.narrative || {};
+    _set('sr-mv-narrative', narr[lang] || narr.english || '');
+
+    // 4. Why recite it
+    _set('sr-ml-why', L('Why Recite This?', 'ఇది ఎందుకు పఠించాలి?'));
+    const wy = meta.why_recite || {};
+    _set('sr-mv-why', wy[lang] || wy.english || '');
+
+    // 5. Auspicious times
+    _set('sr-ml-times', L('When to Recite', 'పారాయణకు తగిన సమయాలు'));
+    const at = meta.auspicious_times || {};
+    _set('sr-mv-times', at[lang] || at.english || '');
+
+    // 6. Phalaśruti
+    _set('sr-ml-phalashruti', L('Phalaśruti — Fruits of Recitation', 'ఫలశ్రుతి — పారాయణ ఫలములు'));
+    const ps = meta.phalashruti || {};
+    _set('sr-mv-phalashruti-text', (ps.summary && (ps.summary[lang] || ps.summary.english)) || '');
+    const fl = $('sr-mv-fruits');
+    if (fl && ps.key_fruits) {
+      fl.innerHTML = '';
+      ps.key_fruits.forEach(f => {
+        const li = document.createElement('li');
+        const primary = isRo ? (f.english || '') : (f.telugu || f.english);
+        li.innerHTML = `<span class="fruit-primary">${primary}</span>` +
+          (!isRo ? `<span class="fruit-sub">${f.english}</span>` : '');
+        fl.appendChild(li);
+      });
+    }
+  }
+
+  function hideSrAbout() {
+    const panel = $('sr-about');
     if (panel) panel.style.display = 'none';
   }
 
@@ -902,18 +996,24 @@ const Reader = (() => {
       });
 
       // Text-specific extras — the generic engine only owns the chip UI;
-      // anything bespoke (VSN's "about" panel) stays an explicit per-id
-      // hook rather than something every ranged text has to carry.
+      // anything bespoke (VSN/SR's "about" panels) stays an explicit
+      // per-id hook rather than something every ranged text has to carry.
       hideBgAbout();
       if (activeText === 'vsn') {
         loadVsnMeta().then(meta => { if (activeText === 'vsn') renderVsnAbout(meta, window._script || 'te'); });
       } else {
         hideVsnAbout();
       }
+      if (activeText === 'sr') {
+        loadSrMeta().then(meta => { if (activeText === 'sr') renderSrAbout(meta, window._script || 'te'); });
+      } else {
+        hideSrAbout();
+      }
       return;
     }
 
     hideVsnAbout();
+    hideSrAbout();
     // Show BG about panel
     Promise.all([loadBgMeta(), loadAllChapterTitles()]).then(([meta]) => { if (activeText === 'gita') renderBgAbout(meta, window._script || 'te'); });
 
@@ -1905,6 +2005,7 @@ const Reader = (() => {
       updateTextSelectLabels();
       if (current) renderVerse(current);
       if (activeText === 'vsn' && vsnMeta) renderVsnAbout(vsnMeta, window._script || 'te');
+      if (activeText === 'sr' && srMeta) renderSrAbout(srMeta, window._script || 'te');
       if (activeText === 'gita' && bgMeta) renderBgAbout(bgMeta, window._script || 'te');
       const vc = $('r-votd-card'); if (_votdSh && vc && !vc.hidden) showVotdCard(_votdSh);
     });

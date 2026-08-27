@@ -1,0 +1,49 @@
+{
+  "title": {
+    "te": "శ్రీమద్రామాయణకథాసంక్షేపః",
+    "sa": "श्रीमद्रामायणकथासंक्षेपः",
+    "ro": "Śrīmadrāmāyaṇakathāsaṅkṣepaḥ",
+    "en": "Saṅkṣepa Rāmāyaṇam"
+  },
+  "stats": { "verses": 100, "sargas": 1, "meters": 2 },
+  "what_is": {
+    "telugu": "సంక్షేప రామాయణం వాల్మీకి రామాయణం బాలకాండలోని ప్రథమ సర్గం (100 శ్లోకాలు) — నారదుడు వాల్మీకికి చెప్పిన రామకథా సంక్షిప్త రూపం. ఇది పూర్తి రామాయణానికి ఒక సంక్షిప్త అవలోకనం వంటిది, రాముని జననం నుండి పట్టాభిషేకం వరకు మొత్తం కథను వంద శ్లోకాలలో ఇముడ్చుతుంది.",
+    "english": "Saṅkṣepa Rāmāyaṇam is the first sarga (100 verses) of Vālmīki Rāmāyaṇa's Bāla Kāṇḍa — a compressed telling of Rāma's entire story, narrated by the sage Nārada to Vālmīki. It serves as a summary of the whole epic in miniature, from Rāma's birth through his coronation."
+  },
+  "source": {
+    "text": { "te": "వాల్మీకి రామాయణం", "sa": "वाल्मीकिरामायणम्", "ro": "Vālmīki Rāmāyaṇam", "en": "Vālmīki Rāmāyaṇa" },
+    "kanda": { "te": "బాలకాండ", "sa": "बालकाण्डम्", "ro": "Bāla Kāṇḍa", "en": "Bāla Kāṇḍa" },
+    "sarga": { "number": 1, "te": "ప్రథమః సర్గః", "sa": "प्रथमः सर्गः", "ro": "Prathamaḥ Sargaḥ", "en": "Sarga 1" },
+    "composed": {
+      "traditional": { "te": "త్రేతాయుగంలో వాల్మీకి రచించినది", "sa": "त्रेतायुगे वाल्मीकिना रचितम्", "ro": "Tretāyuge Vālmīkinā racitam", "en": "Composed by Vālmīki in the Tretā Yuga, per tradition" }
+    }
+  },
+  "story": {
+    "speaker": { "te": "నారదుడు", "sa": "नारदः", "ro": "Nāradaḥ", "en": "Nārada" },
+    "listener": { "te": "వాల్మీకి", "sa": "वाल्मीकिः", "ro": "Vālmīkiḥ", "en": "Vālmīki" },
+    "narrative": {
+      "telugu": "వాల్మీకి నారదుని ఒక ప్రశ్న అడుగుతాడు — ఈ లోకంలో సర్వగుణసంపన్నుడైన ఆదర్శ పురుషుడు ఎవరు? నారదుడు సమాధానంగా రాముని కథను సంక్షిప్తంగా చెబుతాడు. ఈ సంభాషణే వాల్మీకికి రామాయణ రచనకు ప్రేరణనిస్తుంది.",
+      "english": "Vālmīki asks Nārada a single question: who, in this world, embodies every virtue? Nārada's answer is this compressed telling of Rāma's life — the conversation that inspires Vālmīki to compose the full Rāmāyaṇa."
+    }
+  },
+  "why_recite": {
+    "telugu": "సంక్షేప రామాయణాన్ని సంప్రదాయబద్ధంగా పూర్ణ రామాయణ పారాయణానికి ముందు మంగళాచరణంగా పఠిస్తారు — ఇది కథ మొత్తానికి ఒక అవలోకనం ఇచ్చి, పారాయణకు వేదికను సిద్ధం చేస్తుంది. ఇది స్వతంత్రంగా కూడా నిత్య పారాయణకు యోగ్యమైనది.",
+    "english": "Traditionally recited as an invocatory preface before a full Rāmāyaṇa recitation, giving the reciter a complete overview before the longer parāyaṇa begins. It also stands on its own as a daily recitation text."
+  },
+  "auspicious_times": {
+    "telugu": "శ్రీరామనవమి సందర్భంగా, రామాయణ పారాయణ ఆరంభంలో, లేదా ఏ రోజైనా ఉదయం పారాయణకు తగినది.",
+    "english": "Especially fitting around Śrī Rāma Navamī, at the start of a Rāmāyaṇa parāyaṇa, or as part of any morning recitation."
+  },
+  "phalashruti": {
+    "summary": {
+      "telugu": "ఈ కథ పవిత్రమైనది, పాపనాశకమైనది, వేదాలతో సమానమైనదిగా గ్రంథమే చెబుతుంది (శ్లో. 98). పఠించువారు సర్వపాపవిముక్తులై, కుటుంబసమేతంగా స్వర్గంలో గౌరవించబడతారని పేర్కొనబడింది.",
+      "english": "The text itself declares this account pure, sin-destroying, and equal in worth to the Vedas (v.98) — promising freedom from sin and, together with one's family, honor in heaven to whoever recites it."
+    },
+    "key_fruits": [
+      { "telugu": "సర్వపాపాల నుండి విముక్తి", "english": "Freedom from all sins" },
+      { "telugu": "దీర్ఘాయుష్షు, కుటుంబ శ్రేయస్సు", "english": "Long life and the wellbeing of one's family" },
+      { "telugu": "మరణానంతరం స్వర్గగౌరవం", "english": "Honor in heaven after death" },
+      { "telugu": "వర్ణాన్ని బట్టి ప్రత్యేక ఫలం (వాక్శ్రేష్ఠత్వం, రాజ్యాధికారం, వ్యాపారలాభం, గొప్పతనం)", "english": "A fruit suited to one's own path — eloquence, sovereignty, prosperity, or greatness" }
+    ]
+  }
+}
