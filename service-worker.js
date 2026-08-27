@@ -1,4 +1,4 @@
-const CACHE = 'smriti-v25';
+const CACHE = 'smriti-v4eebae0';
 
 const DEV = false;
 
