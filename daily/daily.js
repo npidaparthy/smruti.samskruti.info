@@ -27,7 +27,12 @@
   function variantIds(feed) { return (feed.variants || []).map((v) => v.id).filter(Boolean); }
   function languages() { const seen = {}, list = []; state.feeds.forEach((f) => variantIds(f).forEach((l) => { if (!seen[l]) { seen[l] = 1; list.push(l); } })); return list; }
   function currentLang() { const L = languages(); if (!L.length) return null; if (state.lang && L.indexOf(state.lang) >= 0) return state.lang; return L[0]; }
-  function baseFor(feed) { const l = currentLang(); return (l && variantIds(feed).indexOf(l) >= 0) ? `today.${l}` : 'today'; }
+  // The preferred language (currentLang) may not exist for every feed (e.g. BG
+  // has no Sanskrit variant) — this resolves what's actually shown for `feed`,
+  // falling back to its first variant, so the UI never claims a language is
+  // active when the card silently fell back to another one.
+  function effectiveLang(feed) { const l = currentLang(), avail = variantIds(feed); return (l && avail.indexOf(l) >= 0) ? l : (avail[0] || l); }
+  function baseFor(feed) { const l = effectiveLang(feed); return (l && variantIds(feed).indexOf(l) >= 0) ? `today.${l}` : 'today'; }
   function archivePathOf(feed) { const m = state.manifest && state.manifest.feeds && state.manifest.feeds[feed.id]; return (m && m.path) || feed.archivePath; }
   function datesOf(feed) {
     const m = state.manifest && state.manifest.feeds && state.manifest.feeds[feed.id];
@@ -124,7 +129,13 @@
   function render() {
     const feed = state.current, date = state.date;
     document.querySelectorAll('.tab').forEach((t) => t.classList.toggle('active', t.dataset.id === feed.id));
-    document.querySelectorAll('.lang-btn').forEach((b) => b.classList.toggle('active', b.dataset.lang === currentLang()));
+    const avail = variantIds(feed), shown = effectiveLang(feed);
+    document.querySelectorAll('.lang-btn').forEach((b) => {
+      const supported = avail.indexOf(b.dataset.lang) >= 0;
+      b.classList.toggle('active', b.dataset.lang === shown);
+      b.disabled = !supported;
+      b.title = supported ? '' : `${labelOf(feed)} has no ${LANG_LABEL[b.dataset.lang] || b.dataset.lang} card`;
+    });
     const dates = datesOf(feed), i = dates.indexOf(date);
     $('#prev').disabled = i <= 0; $('#next').disabled = i >= dates.length - 1;
     $('#date').textContent = fmtDate(date) + (date === todayKey() ? ' · నేడు' : '');

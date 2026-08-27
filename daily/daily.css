@@ -67,8 +67,9 @@ body {
   background: transparent; color: var(--muted);
   border: 1px solid var(--line); transition: all .15s;
 }
-.lang-btn:hover { color: var(--ink); border-color: var(--accent); }
+.lang-btn:hover:not(:disabled) { color: var(--ink); border-color: var(--accent); }
 .lang-btn.active { background: var(--accent-2); color: #1a1208; border-color: var(--accent-2); font-weight: 600; }
+.lang-btn:disabled { opacity: .25; cursor: default; }
 
 /* ── Date navigation (prev / date-pill / next) — sits beside the language toggle ── */
 .datebar { display: flex; align-items: center; gap: .5rem; margin-left: auto; }
