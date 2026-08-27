@@ -18,6 +18,7 @@ const C = {
   SL_SHLOKAS:    '/data/sl/sl.json',
   SR_SHLOKAS:    '/data/sr/sr.json',
   SR_META:       '/data/sr/sr-meta.json',
+  VD_SHLOKAS:    '/data/v-dindhima/dindima.json',
   // Two pseudo-chapters within the Gita text (not separate texts) — see
   // reader.js GITA_EXTRA_CHAPTERS comment for where they're wired in.
   DHYANA_SHLOKAS:   '/data/bg/content/dhyana-slokas.json',
@@ -134,7 +135,8 @@ const C = {
     gita: { te: 'శ్రీమద్భగవద్గీతా', sa: 'श्रीमद्भगवद्गीता', ro: 'Śrīmad Bhagavadgītā', en: 'Śrīmad Bhagavadgītā' },
     vsn:  { te: 'శ్రీవిష్ణుసహస్రనామమ్', sa: 'श्रीविष्णुसहस्रनामम्', ro: 'Śrīviṣṇusahasranāmam', en: 'Śrī Viṣṇu Sahasranāmam' },
     sl:   { te: 'సౌన్దర్యలహరీ', sa: 'सौन्दर्यलहरी', ro: 'Saundaryalaharī', en: 'Saundaryalaharī' },
-    sr:   { te: 'శ్రీమద్రామాయణకథాసంక్షేపః', sa: 'श्रीमद्रामायणकथासंक्षेपः', ro: 'Śrīmadrāmāyaṇakathāsaṅkṣepaḥ', en: 'Saṅkṣepa Rāmāyaṇam' }
+    sr:   { te: 'శ్రీమద్రామాయణకథాసంక్షేపః', sa: 'श्रीमद्रामायणकथासंक्षेपः', ro: 'Śrīmadrāmāyaṇakathāsaṅkṣepaḥ', en: 'Saṅkṣepa Rāmāyaṇam' },
+    vd:   { te: 'వేదాన్తడిణ్డిమః', sa: 'वेदान्तडिण्डिमः', ro: 'Vedāntaḍiṇḍimaḥ', en: 'Vedanta Dindimah' }
   },
 
   // Registry of readable texts. reader.js's chapter-grid/pool/bookmark/
@@ -172,7 +174,12 @@ const C = {
     // as h1/h2 half-verses rather than guessed quarter-padas (renderVerse
     // in reader.js has a dedicated h1/h2 rendering branch for this shape).
     // No shlokaSearch: search.js's ranged-text branches assume p1-p4.
-    sr:   { id: 'sr',   grouping: 'single', shlokasPath: 'SR_SHLOKAS', totalVerses: 100, avadhanamModes: null, badgePrefix: 'SR', hasVotd: false }
+    sr:   { id: 'sr',   grouping: 'single', shlokasPath: 'SR_SHLOKAS', totalVerses: 100, avadhanamModes: null, badgePrefix: 'SR', hasVotd: false },
+    // Vedanta Dindima — single 94-verse stotram, same h1/h2 half-verse
+    // shape as sr (reuses reader.js's h1/h2 rendering branch). No wbw
+    // table (its richer padavibhagam/anvayam/tatparyam data isn't
+    // surfaced by the reader UI yet — carried in the data for later).
+    vd:   { id: 'vd',   grouping: 'single', shlokasPath: 'VD_SHLOKAS', totalVerses: 94, avadhanamModes: null, badgePrefix: 'VD', hasVotd: false }
   },
 
   // Avadhānam test modes
