@@ -212,5 +212,123 @@
         }
       ]
     }
+    ,
+    {
+      "id": "sr",
+      "label": "శ్రీమద్రామాయణకథాసంక్షేపః",
+      "script": "te",
+      "source": {
+        "glob": "data/sr/sr.json",
+        "records": "array:shlokas",
+        "idField": "s"
+      },
+      "fieldMap": {
+        "verse": ["h1.te", "h2.te"],
+        "meaning": "meaning.te.short",
+        "commentary": "meaning.te.long",
+        "s": "s"
+      },
+      "sections": ["verse", "meaning", "commentary"],
+      "card": {
+        "header": {
+          "heading": "శ్రీమద్రామాయణకథాసంక్షేపః"
+        }
+      },
+      "caption": "{verse}\n\n{meaning}\n\n— శ్రీమద్రామాయణకథాసంక్షేపః · శ్లో. {s}\n{link}",
+      "output": "daily/sr/",
+      "archivePath": "smruti/sr",
+      "telegram": {
+        "enabled": true,
+        "chatIds": ["-1004269667567"],
+        "testChatIds": ["-1004269667567"],
+        "lang": "te"
+      },
+      "variants": [
+        {
+          "id": "te",
+          "label": "తెలుగు"
+        },
+        {
+          "id": "sa",
+          "label": "संस्कृतम्",
+          "card": { "header": { "heading": "श्रीमद्रामायणकथासंक्षेपः" } },
+          "fieldMap": {
+            "verse": ["h1.sa", "h2.sa"],
+            "meaning": "meaning.sa.short",
+            "commentary": "meaning.sa.long"
+          },
+          "script": "sa"
+        },
+        {
+          "id": "en",
+          "label": "IAST",
+          "card": { "header": { "heading": "Saṅkṣepa Rāmāyaṇam" } },
+          "fieldMap": {
+            "verse": ["h1.ro", "h2.ro"],
+            "meaning": "meaning.en.short",
+            "commentary": "meaning.en.long"
+          },
+          "script": "iast"
+        }
+      ]
+    }
+    ,
+    {
+      "id": "vd",
+      "label": "వేదాన్తడిణ్డిమః",
+      "script": "te",
+      "source": {
+        "glob": "data/v-dindhima/dindima.json",
+        "records": "array:shlokas",
+        "idField": "s"
+      },
+      "fieldMap": {
+        "verse": ["h1.te", "h2.te"],
+        "meaning": "meaning.te.short",
+        "commentary": "meaning.te.long",
+        "s": "s"
+      },
+      "sections": ["verse", "meaning", "commentary"],
+      "card": {
+        "header": {
+          "heading": "వేదాన్తడిణ్డిమః"
+        }
+      },
+      "caption": "{verse}\n\n{meaning}\n\n— వేదాన్తడిణ్డిమః · శ్లో. {s}\n{link}",
+      "output": "daily/vd/",
+      "archivePath": "smruti/vd",
+      "telegram": {
+        "enabled": true,
+        "chatIds": ["-1004269667567"],
+        "testChatIds": ["-1004269667567"],
+        "lang": "te"
+      },
+      "variants": [
+        {
+          "id": "te",
+          "label": "తెలుగు"
+        },
+        {
+          "id": "sa",
+          "label": "संस्कृतम्",
+          "card": { "header": { "heading": "वेदान्तडिण्डिमः" } },
+          "fieldMap": {
+            "verse": ["h1.sa", "h2.sa"]
+          },
+          "script": "sa"
+        },
+        {
+          "id": "en",
+          "label": "IAST",
+          "card": { "header": { "heading": "Vedanta Dindimah" } },
+          "fieldMap": {
+            "verse": ["h1.ro", "h2.ro"],
+            "meaning": "meaning.en.short",
+            "commentary": "meaning.en.long"
+          },
+          "script": "iast"
+        }
+      ]
+    }
   ]
 }
