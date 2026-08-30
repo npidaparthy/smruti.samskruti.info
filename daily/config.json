@@ -71,7 +71,7 @@
       "archivePath": "smruti/bg",
       "telegram": {
         "enabled": true,
-        "chatIds": ["-1001666111648"],
+        "chatIds": ["-1001666111648", "-1004269667567"],
         "testChatIds": ["-1004269667567"],
         "lang": "te"
       },
