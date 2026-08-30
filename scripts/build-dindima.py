@@ -34,17 +34,24 @@ SRC_DIR  = ROOT / "data" / "v-dindhima"
 OUT_PATH = SRC_DIR / "dindima.json"
 
 
+MID_DANDA = re.compile(r"\s*।\s*$")
+
+
 def split_half(text):
     """A verse's te/sa/iast shlokam is two lines joined by \\n — split into
-    (h1, h2), stripping the source's own embedded verse-number marker off
-    the end of line 2 (reader.js appends its own). Verse 94 has a trailing
-    colophon line ("Om tat sat") after the verse proper; fold any line(s)
-    past the first two into h2, after the number-marker strip."""
+    (h1, h2). Line 1 already ends with its own mid-verse "।" (stripped here
+    — reader.js's h1/h2 rendering branch adds its own, so leaving the
+    source's copy in place would show a duplicate "। ।"). Line 2's trailing
+    verse-number marker is stripped the same way (reader.js appends its own
+    "॥{s}॥" too). Verse 94 has a trailing colophon line ("Om tat sat") after
+    the verse proper; fold any line(s) past the first two into h2, after
+    the number-marker strip."""
     lines = [l.strip() for l in text.split("\n") if l.strip()]
     if len(lines) < 2:
         raise ValueError(f"expected at least 2 lines, got {len(lines)}: {text!r}")
+    h1_line = MID_DANDA.sub("", lines[0])
     h2_line = VERSE_NUM_MARKER.sub("", lines[1])
-    return lines[0], " ".join([h2_line] + lines[2:])
+    return h1_line, " ".join([h2_line] + lines[2:])
 
 
 def main():
