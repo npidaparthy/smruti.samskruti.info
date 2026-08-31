@@ -20,17 +20,17 @@
     // that line with its own isolated label column below — avoids any
     // label collision regardless of viewport width.
     const zones = [
-      { key: 'Kaṇṭha', sub: 'throat', letters: 'a, ā, ka-varga, ha', color: '#c86a6a', x: 40 },
-      { key: 'Tālu',   sub: 'palate', letters: 'i, ī, ca-varga, ya', color: '#6aa8d8', x: 150 },
-      { key: 'Mūrdhā', sub: 'roof',   letters: 'ṛ, ṝ, ṭa-varga, ra', color: '#8bc48a', x: 260 },
-      { key: 'Danta',  sub: 'teeth',  letters: 'ḷ, ta-varga, la, sa', color: '#c8a84b', x: 370 },
-      { key: 'Oṣṭha',  sub: 'lips',   letters: 'u, ū, pa-varga', color: '#e07c3a', x: 480 },
-      { key: 'Nāsikā', sub: 'nose',   letters: 'ña, ma, ṅa, ṇa, na', color: '#b083c8', x: 590 }
+      { key: 'Kaṇṭha', te: 'కణ్ఠ్యములు', sub: 'throat', letters: 'a, ā, ka-varga, ha', color: '#c86a6a', x: 40 },
+      { key: 'Tālu',   te: 'తాలవ్యములు', sub: 'palate', letters: 'i, ī, ca-varga, ya', color: '#6aa8d8', x: 150 },
+      { key: 'Mūrdhā', te: 'మూర్ధన్యములు', sub: 'roof',   letters: 'ṛ, ṝ, ṭa-varga, ra', color: '#8bc48a', x: 260 },
+      { key: 'Danta',  te: 'దన్త్యములు', sub: 'teeth',  letters: 'ḷ, ta-varga, la, sa', color: '#c8a84b', x: 370 },
+      { key: 'Oṣṭha',  te: 'ఓష్ఠ్యములు', sub: 'lips',   letters: 'u, ū, pa-varga', color: '#e07c3a', x: 480 },
+      { key: 'Nāsikā', te: 'నాసిక్యములు', sub: 'nose',   letters: 'ña, ma, ṅa, ṇa, na', color: '#b083c8', x: 590 }
     ];
     const dotY = 40;
     const dots = zones.map(z => `<circle cx="${z.x}" cy="${dotY}" r="9" fill="${z.color}" opacity="0.75"/>`).join('');
     const labels = zones.map(z => `
-      <text x="${z.x}" y="${dotY + 30}" text-anchor="middle" class="diagram-label-strong">${z.key}</text>
+      <text x="${z.x}" y="${dotY + 30}" text-anchor="middle" class="diagram-label-strong">${lang === 'te' ? z.te : z.key}</text>
       <text x="${z.x}" y="${dotY + 46}" text-anchor="middle" class="diagram-label">${z.sub}</text>
       <text x="${z.x}" y="${dotY + 61}" text-anchor="middle" class="diagram-label">${z.letters}</text>
     `).join('');
@@ -67,9 +67,10 @@
   function renderVerse(v, extraClass) {
     if (!v) return '';
     const translation = pick(v.translation);
+    const second = lang === 'te' && v.te ? v.te : v.ro;
     return `<div class="verse-card ${extraClass || ''}">
       <div class="verse-sa">${v.sa}</div>
-      <div class="verse-ro">${v.ro}</div>
+      <div class="verse-ro">${second}</div>
       ${v.source ? `<div class="verse-source">${v.source}</div>` : ''}
       ${translation ? `<div class="verse-translation">${translation}</div>` : ''}
     </div>`;
@@ -219,7 +220,7 @@
     localStorage.setItem('guide_lang', l);
     document.querySelectorAll('.script-toggle button').forEach(b => b.classList.toggle('active', b.dataset.lang === l));
     const search = document.getElementById('guide-search');
-    if (search) search.placeholder = lang === 'te' ? 'వెతకండి — స్థానం, మాత్ర, సంధి, మహాప్రాణం…' : 'Search — sthāna, mātrā, sandhi, mahāprāṇa…';
+    if (search) search.placeholder = lang === 'te' ? 'వెతకండి — స్థానం, మాత్ర, సన్ధి, మహాప్రాణం…' : 'Search — sthāna, mātrā, sandhi, mahāprāṇa…';
     renderAll();
   }
 

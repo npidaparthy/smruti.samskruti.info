@@ -19,6 +19,7 @@ const GUIDE_CONTENT = {
       verse: {
         sa: 'शीक्षां व्याख्यास्यामः । वर्णः स्वरः । मात्रा बलम् । साम सन्तानः । इत्युक्तः शीक्षाध्यायः ॥',
         ro: 'śīkṣāṁ vyākhyāsyāmaḥ | varṇaḥ svaraḥ | mātrā balam | sāma santānaḥ | ityuktaḥ śīkṣādhyāyaḥ ||',
+        te: 'శీక్షాం వ్యాఖ్యాస్యామః । వర్ణః స్వరః । మాత్రా బలమ్ । సామ సన్తానః । ఇత్యుక్తః శీక్షాధ్యాయః ॥',
         source: 'Taittirīya Upaniṣad, Śīkṣāvallī 1.2.1',
         translation: {
           en: 'We shall now explain the science of pronunciation: Letter (varṇa), Accent (svara), Duration (mātrā), Effort (bala), Rhythm (sāma), and Flow (santāna).',
@@ -34,7 +35,7 @@ const GUIDE_CONTENT = {
         { term: 'Mātrā', sub: 'Duration', en: { en: 'Short, long, and protracted vowels held for their exact, strict count of beats.', te: 'హ్రస్వ, దీర్ఘ, ప్లుత స్వరాలను వాటి ఖచ్చితమైన కాల ప్రమాణంతో పలకడం.' } },
         { term: 'Bala', sub: 'Effort', en: { en: 'Internal (tongue/lip contact) and external (breath) effort — covered under Prayatna below.', te: 'అంతః ప్రయత్నం (నాలుక/పెదవుల స్పర్శ) మరియు బాహ్య ప్రయత్నం (ఊపిరి) — దిగువ ప్రయత్నం విభాగంలో వివరణ.' } },
         { term: 'Sāma', sub: 'Evenness', en: { en: 'A constant tempo and smooth rhythm, without rushing, dragging, or emotional distortion.', te: 'తొందరపడకుండా, జాప్యం చేయకుండా, భావావేశం లేకుండా — స్థిరమైన వేగం, సాఫీ లయ.' } },
-        { term: 'Santāna', sub: 'Flow', en: { en: 'How words join in continuous recitation (sandhi), and where pauses are and are not allowed.', te: 'నిరంతర పఠనంలో పదాలు ఎలా కలుస్తాయో (సంధి), ఎక్కడ ఆగవచ్చో ఎక్కడ ఆగకూడదో.' } }
+        { term: 'Santāna', sub: 'Flow', en: { en: 'How words join in continuous recitation (sandhi), and where pauses are and are not allowed.', te: 'నిరంతర పఠనంలో పదాలు ఎలా కలుస్తాయో (సన్ధి), ఎక్కడ ఆగవచ్చో ఎక్కడ ఆగకూడదో.' } }
       ]
     },
 
@@ -56,11 +57,11 @@ const GUIDE_CONTENT = {
         { term: 'Combined places', sub: '', letters: 'va = danta+oṣṭha · e, ai = kaṇṭha+tālu · o, au = kaṇṭha+oṣṭha — these diphthongs are themselves vowel-combinations: e = a+i, ai = ā+ī, o = a+u, au = ā+ū' },
         {
           term: 'Hakāra after a nasal — a Telugu print convention',
-          sub: { en: 'Not a sandhi rule, but a common orthographic pattern', te: 'సంధి నియమం కాదు, ముద్రణలో కనిపించే సాధారణ ధోరణి' },
+          sub: { en: 'Not a sandhi rule, but a common orthographic pattern', te: 'సన్ధి నియమం కాదు, ముద్రణలో కనిపించే సాధారణ ధోరణి' },
           tentative: true,
           letters: {
             en: 'In some Telugu-script printings, a conjunct ending in ḍha/hma before ha-adjacent letters is respelled with the class-nasal (ṇ/n/m) directly before ha — e.g. prauḍha appears as prauṇha, vahni as vanhi, brahma as bramha. This is a print/orthography habit noted in traditional teaching notes rather than a Pāṇinian sandhi rule; the correct chanted sound is still the original aspirate (ḍha/hma), not the respelled nasal+ha. Flagged here for awareness — check with a teacher before treating this as a pronunciation instruction.',
-            te: 'కొన్ని తెలుగు ముద్రణలలో, హ-సమీప అక్షరాల ముందు ఢ/హ్మ తో ముగిసే సంయుక్తాక్షరాన్ని నేరుగా వర్గ-నాసిక్యంతో (ణ/న/మ) హ ముందు మళ్ళీ రాస్తారు — ఉదా. ప్రౌఢ → ప్రౌణ్హ, వహ్ని → వన్హి, బ్రహ్మ → బ్రమ్హ. ఇది పాణినీయ సంధి నియమం కాదు — సంప్రదాయ బోధనా నోట్సులలో కనిపించే ముద్రణ/రచనా అలవాటు మాత్రమే; నిజంగా పలకవలసిన ధ్వని ఇప్పటికీ మూల మహాప్రాణమే (ఢ/హ్మ), తిరిగి రాసిన నాసిక్యం+హ కాదు. అవగాహన కోసం ఇక్కడ గుర్తించాం — దీన్ని ఉచ్చారణ సూచనగా తీసుకునే ముందు గురువును సంప్రదించండి.'
+            te: 'కొన్ని తెలుగు ముద్రణలలో, హ-సమీప అక్షరాల ముందు ఢ/హ్మ తో ముగిసే సంయుక్తాక్షరాన్ని నేరుగా వర్గ-నాసిక్యంతో (ణ/న/మ) హ ముందు మళ్ళీ రాస్తారు — ఉదా. ప్రౌఢ → ప్రౌణ్హ, వహ్ని → వన్హి, బ్రహ్మ → బ్రమ్హ. ఇది పాణినీయ సన్ధి నియమం కాదు — సంప్రదాయ బోధనా నోట్సులలో కనిపించే ముద్రణ/రచనా అలవాటు మాత్రమే; నిజంగా పలకవలసిన ధ్వని ఇప్పటికీ మూల మహాప్రాణమే (ఢ/హ్మ), తిరిగి రాసిన నాసిక్యం+హ కాదు. అవగాహన కోసం ఇక్కడ గుర్తించాం — దీన్ని ఉచ్చారణ సూచనగా తీసుకునే ముందు గురువును సంప్రదించండి.'
           }
         },
         {
@@ -80,7 +81,7 @@ const GUIDE_CONTENT = {
         source: 'Śikṣā sūtras — Yogavāha classification',
         translation: {
           en: 'Anusvāra and visarga are classed as "following" (para) sounds of a vowel — not full vowels, not full consonants, but a distinct category called yogavāha ("that which carries the combination"). Anusvāra, visarga, jihvāmūlīya, and upadhmānīya all belong to this same category — which is why they behave differently from ordinary consonants in sandhi.',
-          te: 'అనుస్వారం, విసర్గ — స్వరం తర్వాత వచ్చే ("పర") ధ్వనులుగా వర్గీకరించబడతాయి — పూర్తి స్వరాలు కావు, పూర్తి హల్లులు కావు, "యోగవాహాః" అనే ప్రత్యేక వర్గం. అనుస్వారం, విసర్గ, జిహ్వామూలీయం, ఉపధ్మానీయం — నాలుగూ ఇదే వర్గానికి చెందుతాయి — అందుకే సంధిలో ఇవి సాధారణ హల్లుల కంటే వేరుగా ప్రవర్తిస్తాయి.'
+          te: 'అనుస్వారం, విసర్గ — స్వరం తర్వాత వచ్చే ("పర") ధ్వనులుగా వర్గీకరించబడతాయి — పూర్తి స్వరాలు కావు, పూర్తి హల్లులు కావు, "యోగవాహాః" అనే ప్రత్యేక వర్గం. అనుస్వారం, విసర్గ, జిహ్వామూలీయం, ఉపధ్మానీయం — నాలుగూ ఇదే వర్గానికి చెందుతాయి — అందుకే సన్ధిలో ఇవి సాధారణ హల్లుల కంటే వేరుగా ప్రవర్తిస్తాయి.'
         }
       },
       body2: [
@@ -89,6 +90,7 @@ const GUIDE_CONTENT = {
       verse2: {
         sa: 'यद्यपि बहुनाधीषे तथापि पठ पुत्र! व्याकरणम् । स्वजनः श्वजनो मा भूत् सकलं शकलं सकृत् शकृत् ॥',
         ro: 'yadyapi bahunādhīṣe tathāpi paṭha putra! vyākaraṇam | svajanaḥ śvajano mā bhūt sakalaṁ śakalaṁ sakṛt śakṛt ||',
+        te: 'యద్యపి బహునాధీషే తథాపి పఠ పుత్ర! వ్యాకరణమ్ । స్వజనః శ్వజనో మా భూత్ సకలం శకలం సకృత్ శకృత్ ॥',
         source: 'Traditional verse on the necessity of grammar (cf. Patañjali Mahābhāṣya)',
         translation: {
           en: 'My child, even if you study little else, learn grammar. So that svajanaḥ (kinsman, dental sa) never becomes śvajanaḥ (a dog, palatal śa) — sakalam (whole, dental sa) never becomes śakalam (a fragment, palatal śa) — and sakṛt (once, dental sa) never becomes śakṛt (excrement, palatal śa).',
@@ -108,6 +110,7 @@ const GUIDE_CONTENT = {
       verse: {
         sa: 'उदात्तश्च अनुदात्तश्च स्वरितश्च त्रयः स्वराः । एकश्रुति दूरात् संबुद्धौ इति शिक्षा प्रकीर्तिता ॥',
         ro: 'udāttaśca anudāttaśca svaritaśca trayaḥ svarāḥ | ekaśruti dūrāt saṁbuddhau iti śikṣā prakīrtitā ||',
+        te: 'ఉదాత్తశ్చ అనుదాత్తశ్చ స్వరితశ్చ త్రయః స్వరాః । ఏకశ్రుతి దూరాత్ సంబుద్ధౌ ఇతి శిక్షా ప్రకీర్తితా ॥',
         source: 'Pāṇinīya Śīkṣā',
         translation: {
           en: 'Udātta (raised), anudātta (lowered), and svarita (a blend of the two) are the three [Vedic] pitch accents. Ekaśruti (a level monotone) is used when calling out to someone from a distance. Thus is śikṣā proclaimed.',
@@ -138,6 +141,7 @@ const GUIDE_CONTENT = {
       verse: {
         sa: 'एकमात्रो भवेद्ध्रस्वो द्विमात्रो दीर्घ उच्यते । त्रिमात्रस्तु प्लुतो ज्ञेयो व्यञ्जनं चार्धमात्रकम् ॥',
         ro: 'ekamātro bhaveddhrasvo dvimātro dīrgha ucyate | trimātrastu pluto jñeyo vyañjanaṁ cārdhamātrakam ||',
+        te: 'ఏకమాత్రో భవేద్ధ్రస్వో ద్విమాత్రో దీర్ఘ ఉచ్యతే । త్రిమాత్రస్తు ప్లుతో జ్ఞేయో వ్యఞ్జనం చార్ధమాత్రకమ్ ॥',
         source: 'Pāṇinīya Śīkṣā',
         translation: {
           en: 'One mātrā is defined as the time taken to snap a finger or blink an eye — a natural, physical unit of time, not a vague feeling of "short" or "long".',
@@ -158,7 +162,7 @@ const GUIDE_CONTENT = {
       icon: '👃',
       title: { en: 'Anunāsika — Nasalized vs Oral', sa: 'अनुनासिकः', te: 'అనునాసికం — నాసిక్య, నిరనునాసిక అక్షరాలు' },
       body: [
-        { en: 'Anunāsika means "sounded through the nose [as well as the mouth]" — air passes through both passages at once. This is a different, often-confused category from anusvāra (ं), which is a nasal stop that comes after a vowel, not a nasal quality of the vowel itself — see Sandhi & Parasavarṇa above for anusvāra.', te: 'అనునాసికం అంటే — నోటితో పాటు ముక్కు గుండా కూడా ధ్వని రావడం. ఇది అనుస్వారం (ం) కంటే వేరు — అనుస్వారం స్వరం తర్వాత వచ్చే నాసిక్య ఆగివేత, స్వరం యొక్క స్వంత గుణం కాదు. అనుస్వారం గురించి పైన సంధి విభాగంలో చూడండి.' }
+        { en: 'Anunāsika means "sounded through the nose [as well as the mouth]" — air passes through both passages at once. This is a different, often-confused category from anusvāra (ं), which is a nasal stop that comes after a vowel, not a nasal quality of the vowel itself — see Sandhi & Parasavarṇa above for anusvāra.', te: 'అనునాసికం అంటే — నోటితో పాటు ముక్కు గుండా కూడా ధ్వని రావడం. ఇది అనుస్వారం (ం) కంటే వేరు — అనుస్వారం స్వరం తర్వాత వచ్చే నాసిక్య ఆగివేత, స్వరం యొక్క స్వంత గుణం కాదు. అనుస్వారం గురించి పైన సన్ధి విభాగంలో చూడండి.' }
       ],
       items: [
         { term: 'Anunāsika consonants', sub: { en: 'The five class-nasals', te: 'ఐదు వర్గ నాసిక్యాలు' }, letters: { en: 'ṅa, ña, ṇa, na, ma — each already carries its own sthāna (kaṇṭha/tālu/mūrdhā/danta/oṣṭha) plus the nasal cavity, engaged together.', te: 'ఙ, ఞ, ణ, న, మ — వీటిలో ప్రతి ఒక్కటీ తన సొంత స్థానం (కంఠ/తాలు/మూర్ధ/దంత/ఓష్ఠ) తో పాటు నాసికను కూడా ఏకకాలంలో ఉపయోగిస్తుంది.' } },
@@ -194,6 +198,7 @@ const GUIDE_CONTENT = {
       verse2: {
         sa: 'अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च । अहमेवाक्षयः कालो धाताहं विश्वतोमुखः ॥',
         ro: 'akṣarāṇām akāro\'smi dvandvaḥ sāmāsikasya ca | ahamevākṣayaḥ kālo dhātāhaṁ viśvatomukhaḥ ||',
+        te: 'అక్షరాణామకారోఽస్మి ద్వన్ద్వః సామాసికస్య చ । అహమేవాక్షయః కాలో ధాతాహం విశ్వతోముఖః ॥',
         source: 'Bhagavad Gītā 10.33',
         translation: {
           en: 'Among letters, I am the letter A; among compounds, I am the dvandva. I alone am imperishable time; I am the sustainer, facing all directions. — Krishna names Himself with the very letter whose correct pronunciation carries this much weight.',
@@ -209,6 +214,7 @@ const GUIDE_CONTENT = {
       verse: {
         sa: 'यथा व्याघ्री हरेत्पुत्रान् दंष्ट्राभ्यां न च पीडयेत् । भीता दन्तपाताभ्यामिति वर्णान् प्रयोजयेत् ॥',
         ro: 'yathā vyāghrī haretputrān daṁṣṭrābhyāṁ na ca pīḍayet | bhītā dantapātābhyāmiti varṇān prayojayet ||',
+        te: 'యథా వ్యాఘ్రీ హరేత్పుత్రాన్ దంష్ట్రాభ్యాం న చ పీడయేత్ । భీతా దన్తపాతాభ్యామితి వర్ణాన్ ప్రయోజయేత్ ॥',
         source: 'Pāṇinīya Śīkṣā, v.24 — "The Tigress Analogy"',
         translation: {
           en: 'Just as a tigress carries her cubs between her teeth without crushing them, yet holds them firmly lest they fall — so articulate each letter: firm, but never harsh or strained.',
@@ -240,6 +246,7 @@ const GUIDE_CONTENT = {
       verse2: {
         sa: 'व्याघ्री यथा हरेत्पुत्रान्दंष्ट्राभ्यां न च पीडयेत् । भीता पतनभेदाभ्यां तद्वद्वर्णान्पीडयेत् ॥',
         ro: 'vyāghrī yathā haretputrān daṁṣṭrābhyāṁ na ca pīḍayet | bhītā patanabhedābhyāṁ tadvad varṇān pīḍayet ||',
+        te: 'వ్యాఘ్రీ యథా హరేత్పుత్రాన్దంష్ట్రాభ్యాం న చ పీడయేత్ । భీతా పతనభేదాభ్యాం తద్వద్వర్ణాన్పీడయేత్ ॥',
         source: 'Pāṇinīya Śīkṣā, v.24 — alternate reading',
         translation: {
           en: 'A variant of the same verse — word order and the second line\'s ending differ from the version above, but the teaching is identical. Both readings circulate in the tradition.',
@@ -258,6 +265,7 @@ const GUIDE_CONTENT = {
       verse: {
         sa: 'न अतिद्रुतं न अतिविलम्बितं मध्यमं पठनं हितम् । स्पष्टं सुश्रावणं चैव वाचनस्य विशेषणम् ॥',
         ro: 'na atidrutaṁ na ativilambitaṁ madhyamaṁ paṭhanaṁ hitam | spaṣṭaṁ suśrāvaṇaṁ caiva vācanasya viśeṣaṇam ||',
+        te: 'న అతిద్రుతం న అతివిలమ్బితం మధ్యమం పఠనం హితమ్ । స్పష్టం సుశ్రావణం చైవ వాచనస్య విశేషణమ్ ॥',
         source: 'Śikṣā sūtras',
         translation: {
           en: 'Neither too fast nor too slow — a moderate (madhyama) pace is beneficial for recitation. Clear and pleasant-to-hear — these are the marks of good vācana (recitation).',
@@ -272,7 +280,7 @@ const GUIDE_CONTENT = {
     {
       id: 'sandhi',
       icon: '🔗',
-      title: { en: 'Sandhi & Parasavarṇa — Flow', sa: 'सन्तानः', te: 'సంధి — స్వరాల కలయిక' },
+      title: { en: 'Sandhi & Parasavarṇa — Flow', sa: 'सन्तानः', te: 'సన్ధి — స్వరాల కలయిక' },
       body: [
         { en: 'An anusvāra (ం) has no independent sound of its own — unlike every other letter, its pronunciation always depends entirely on the consonant that follows it. That is exactly what the parasavarṇa rule below specifies.', te: 'అనుస్వారానికి (ం) సొంతమైన స్వతంత్ర ఉచ్చారణ లేదు — మిగతా ప్రతి అక్షరం లాగా కాకుండా, దాని పలుకుబడి పూర్తిగా తర్వాత వచ్చే హల్లుపై ఆధారపడి ఉంటుంది. కింద ఉన్న పరసవర్ణ నియమం సరిగ్గా దీన్నే నిర్దేశిస్తుంది.' },
         { en: 'When chanting continuous text (saṁhitā-pāṭha), sandhi rules must be applied smoothly across word boundaries — not read word-by-word and then artificially joined.', te: 'నిరంతర పఠనంలో (సంహితా-పాఠం), పద సంధులు సహజంగా కలవాలి — విడివిడిగా చదివి తర్వాత కృత్రిమంగా జోడించకూడదు.' }
@@ -299,7 +307,7 @@ const GUIDE_CONTENT = {
           sub: { en: 'No change — visarga stays as-is', te: 'మార్పు లేదు — విసర్గ యథాతథం' },
           en: {
             en: 'Unlike before ka/kha (jihvāmūlīya) or pa/pha (upadhmānīya), a visarga right before a word beginning with kṣa does not change or sandhi away — it is simply held as a plain visarga. Example, Bhagavad Gītā 2.32: "sukhinaḥ kṣatriyāḥ pārtha" — the ḥ in sukhinaḥ stays a visarga going into kṣatriyāḥ, with no merge and no substitution.',
-            te: 'క/ఖ (జిహ్వామూలీయం) లేదా ప/ఫ (ఉపధ్మానీయం) ముందు మాదిరిగా కాకుండా, క్ష-తో మొదలయ్యే పదం ముందు వచ్చిన విసర్గ మారదు, సంధి చెందదు — సాధారణ విసర్గగానే నిలుస్తుంది. ఉదాహరణ, భగవద్గీత 2.32: "సుఖినః క్షత్రియాః పార్థ" — ఇందులో సుఖినః లోని విసర్గ క్షత్రియాః ముందు ఎలాంటి మార్పు లేకుండా అలాగే నిలుస్తుంది.'
+            te: 'క/ఖ (జిహ్వామూలీయం) లేదా ప/ఫ (ఉపధ్మానీయం) ముందు మాదిరిగా కాకుండా, క్ష-తో మొదలయ్యే పదం ముందు వచ్చిన విసర్గ మారదు, సన్ధి చెందదు — సాధారణ విసర్గగానే నిలుస్తుంది. ఉదాహరణ, భగవద్గీత 2.32: "సుఖినః క్షత్రియాః పార్థ" — ఇందులో సుఖినః లోని విసర్గ క్షత్రియాః ముందు ఎలాంటి మార్పు లేకుండా అలాగే నిలుస్తుంది.'
           }
         },
         {
@@ -307,7 +315,7 @@ const GUIDE_CONTENT = {
           sub: { en: 'Must be pronounced, not silent — Rules of Chanting in Saṁskṛtam, Swamini Svatmabodhananda Saraswati', te: 'తప్పనిసరిగా పలకాలి, మౌనం కాదు — Rules of Chanting in Saṁskṛtam, స్వామినీ స్వాత్మబోధానంద సరస్వతి' },
           en: {
             en: 'A visarga at the true end of a sentence or verse-quarter (not one that sandhi-merges with what follows) must still be audibly pronounced — it is an aspirate, not a silent mark that only matters in writing. Reciters who trail off before the final ḥ, or drop it silently, are skipping a real sound.',
-            te: 'వాక్యం లేదా పాదం నిజంగా ముగిసేచోట వచ్చిన విసర్గ (తర్వాతి పదంతో సంధి చెందనిది) కూడా వినిపించేలా పలకాలి — ఇది కేవలం రాతలో మాత్రమే ఉండే మౌన గుర్తు కాదు, ఒక ఘోష (aspirate) ధ్వని. చివరి ః ముందు స్వరం సన్నగిల్లిపోయేవారు, లేదా దాన్ని మౌనంగా వదిలేసేవారు నిజమైన ధ్వనిని దాటవేస్తున్నారు.'
+            te: 'వాక్యం లేదా పాదం నిజంగా ముగిసేచోట వచ్చిన విసర్గ (తర్వాతి పదంతో సన్ధి చెందనిది) కూడా వినిపించేలా పలకాలి — ఇది కేవలం రాతలో మాత్రమే ఉండే మౌన గుర్తు కాదు, ఒక ఘోష (aspirate) ధ్వని. చివరి ః ముందు స్వరం సన్నగిల్లిపోయేవారు, లేదా దాన్ని మౌనంగా వదిలేసేవారు నిజమైన ధ్వనిని దాటవేస్తున్నారు.'
           }
         },
         {
@@ -339,7 +347,7 @@ const GUIDE_CONTENT = {
         text: 'karmaṇy-evādhikāras te',
         note: {
           en: 'karmaṇi + eva sandhi-joins to karmaṇyevādhikāraste — chant it as one continuous unit, not "karmani ... eva ... adhikaraste" with breaks.',
-          te: 'కర్మణి + ఏవ సంధి కలిసి కర్మణ్యేవాధికారస్తే అవుతుంది — దీన్ని ఒకే నిరంతర భాగంగా పలకాలి, "కర్మణి ... ఏవ ... అధికారస్తే" అని విడగొట్టకూడదు.'
+          te: 'కర్మణి + ఏవ సన్ధి కలిసి కర్మణ్యేవాధికారస్తే అవుతుంది — దీన్ని ఒకే నిరంతర భాగంగా పలకాలి, "కర్మణి ... ఏవ ... అధికారస్తే" అని విడగొట్టకూడదు.'
         }
       }
     },
@@ -388,6 +396,7 @@ const GUIDE_CONTENT = {
       verse: {
         sa: 'गीती शीघ्री शिरःकम्पी यथा लिखितपाठकः । अनर्थज्ञोऽल्पकण्ठश्च षडेते पाठकाधमाः ॥',
         ro: 'gītī śīghrī śiraḥkampī yathā likhitapāṭhakaḥ | anarthajño\'lpakaṇṭhaśca ṣaḍete pāṭhakādhamāḥ ||',
+        te: 'గీతీ శీఘ్రీ శిరఃకమ్పీ యథా లిఖితపాఠకః । అనర్థజ్ఞోఽల్పకణ్ఠశ్చ షడేతే పాఠకాధమాః ॥',
         source: 'Pāṇinīya Śīkṣā, v.32 — Six Faults'
       },
       items: [
@@ -401,6 +410,7 @@ const GUIDE_CONTENT = {
       verse2: {
         sa: 'माधुर्यमक्षरव्यक्तिः पदच्छेदस्तु सुस्वरः । धैर्यं लयसमर्थं च षडेते पाठका गुणाः ॥',
         ro: 'mādhuryamakṣaravyaktiḥ padacchedastu susvaraḥ | dhairyaṁ layasamarthaṁ ca ṣaḍete pāṭhakā guṇāḥ ||',
+        te: 'మాధుర్యమక్షరవ్యక్తిః పదచ్ఛేదస్తు సుస్వరః । ధైర్యం లయసమర్థం చ షడేతే పాఠకా గుణాః ॥',
         source: 'Pāṇinīya Śīkṣā, v.33 — Six Virtues'
       },
       items2: [
@@ -416,7 +426,7 @@ const GUIDE_CONTENT = {
     {
       id: 'common-mistakes',
       icon: '🚫',
-      title: { en: 'Common Mistakes — With Real Examples', sa: '', te: 'సాధారణ తప్పులు — నిజమైన ఉదాహరణలతో' },
+      title: { en: 'Common Mistakes — With Real Examples', sa: '', te: 'సాధారణ ఉచ్చారణ దోషాలు — నిజమైన ఉదాహరణలతో' },
       body: [
         { en: 'These are errors reciters make routinely, often without realizing it — each with a concrete, verified example from texts this site already hosts.', te: 'ఇవి పఠనకర్తలు రోజూ చేసే తప్పులు, తరచుగా తెలియకుండానే — ప్రతి దానికీ ఈ సైట్‌లో ఇప్పటికే ఉన్న గ్రంథాల నుండి నిర్దిష్ట, ధృవీకరించిన ఉదాహరణ.' }
       ],
@@ -432,7 +442,7 @@ const GUIDE_CONTENT = {
           term: 'Anusvāra flattened to a generic "ma" everywhere',
           en: {
             en: 'The parasavarṇa rule (see Sandhi above) means an anusvāra should change its nasal quality to match the following consonant\'s class — guttural before ka, palatal before ca, and so on. Pronouncing every anusvāra as a plain "m" regardless of context is one of the most widespread habits among reciters.',
-            te: 'పరసవర్ణ నియమం (పైన సంధి చూడండి) ప్రకారం అనుస్వారం తర్వాత వచ్చే హల్లు వర్గాన్ని బట్టి తన నాసిక్య గుణాన్ని మార్చుకోవాలి — క ముందు కంఠ్యం, చ ముందు తాలవ్యం, ఇలా. సందర్భంతో సంబంధం లేకుండా ప్రతి అనుస్వారాన్నీ సాధారణ "మ"గా పలకడం పఠనకర్తలలో అత్యంత విస్తృతమైన అలవాటు.'
+            te: 'పరసవర్ణ నియమం (పైన సన్ధి చూడండి) ప్రకారం అనుస్వారం తర్వాత వచ్చే హల్లు వర్గాన్ని బట్టి తన నాసిక్య గుణాన్ని మార్చుకోవాలి — క ముందు కంఠ్యం, చ ముందు తాలవ్యం, ఇలా. సందర్భంతో సంబంధం లేకుండా ప్రతి అనుస్వారాన్నీ సాధారణ "మ"గా పలకడం పఠనకర్తలలో అత్యంత విస్తృతమైన అలవాటు.'
           }
         },
         {
@@ -477,7 +487,7 @@ const GUIDE_CONTENT = {
           sutra: 'पद्मनाभोऽमरप्रभुः',
           en: {
             en: 'This is padmanābhaḥ + amaraprabhuḥ ("lord of the immortals") sandhi-joined. Dropping the avagraha and chanting "padmanābho marprabhuḥ" loses the negating a- of amara ("immortal") — the meaning is not a minor slur, it actually changes.',
-            te: 'ఇది పద్మనాభః + అమరప్రభుః ("అమరుల ప్రభువు") సంధి కలయిక. అవగ్రహాన్ని వదిలేసి "పద్మనాభో మరప్రభుః" అని పలికితే అమర ("అమరుడు") లోని నిషేధార్థక అ- పోతుంది — ఇది చిన్న అస్పష్టత కాదు, నిజంగా అర్థమే మారుతుంది.'
+            te: 'ఇది పద్మనాభః + అమరప్రభుః ("అమరుల ప్రభువు") సన్ధి కలయిక. అవగ్రహాన్ని వదిలేసి "పద్మనాభో మరప్రభుః" అని పలికితే అమర ("అమరుడు") లోని నిషేధార్థక అ- పోతుంది — ఇది చిన్న అస్పష్టత కాదు, నిజంగా అర్థమే మారుతుంది.'
           }
         },
         {
@@ -509,7 +519,7 @@ const GUIDE_CONTENT = {
           sub: { en: 'e.g. padma, nissaigunya', te: 'ఉదా. పద్మ, నిస్సైగుణ్య' },
           en: {
             en: 'A conjunct consonant (saṁyuktākṣara) is written by stacking its component letters, but must be pronounced as the sequence they represent — padma is written as a single stacked glyph but chanted as pa+d+ma; nissaigunya unpacks as nis+t+raigunya. Guessing the pronunciation from the visual shape of an unfamiliar conjunct, instead of unpacking it into its actual letters first, is a common source of error — see "Unpack the sandhi first" in Practice Method above for the same discipline applied to sandhi.',
-            te: 'సంయుక్తాక్షరాన్ని దాని ఘటక అక్షరాలను పేర్చి రాస్తారు, కానీ అవి సూచించే అక్షర క్రమంగానే పలకాలి — పద్మ అనేది ఒకే పేర్చిన గుర్తుగా రాసినా ప+ద్+మ గా పలకాలి; నిస్సైగుణ్య అనేది నిస్+త్+రైగుణ్యగా విడిపోతుంది. కొత్త సంయుక్తాక్షరాన్ని విడగొట్టకుండా, దాని ఆకారాన్ని చూసి ఉచ్చారణను ఊహించడం సాధారణ తప్పుకు మూలం — ఇదే క్రమశిక్షణను సంధికి వర్తింపజేయడం కోసం పైన అభ్యాస పద్ధతిలో "ముందు సంధిని విడగొట్టండి" చూడండి.'
+            te: 'సంయుక్తాక్షరాన్ని దాని ఘటక అక్షరాలను పేర్చి రాస్తారు, కానీ అవి సూచించే అక్షర క్రమంగానే పలకాలి — పద్మ అనేది ఒకే పేర్చిన గుర్తుగా రాసినా ప+ద్+మ గా పలకాలి; నిస్సైగుణ్య అనేది నిస్+త్+రైగుణ్యగా విడిపోతుంది. కొత్త సంయుక్తాక్షరాన్ని విడగొట్టకుండా, దాని ఆకారాన్ని చూసి ఉచ్చారణను ఊహించడం సాధారణ తప్పుకు మూలం — ఇదే క్రమశిక్షణను సన్ధికి వర్తింపజేయడం కోసం పైన అభ్యాస పద్ధతిలో "ముందు సన్ధిని విడగొట్టండి" చూడండి.'
           }
         },
         {
@@ -645,10 +655,10 @@ const GUIDE_CONTENT = {
           }
         },
         {
-          term: { en: '2. Unpack the sandhi first', te: '2. ముందు సంధిని విడగొట్టండి' },
+          term: { en: '2. Unpack the sandhi first', te: '2. ముందు సన్ధిని విడగొట్టండి' },
           en: {
             en: 'Split each pada into its individual words before you try to chant it joined. Know what "karmaṇyevādhikāraste" actually is — karmaṇi + eva + adhikāraḥ + te — before you chant it as one flowing unit. Chanting a sandhi you don\'t understand is memorizing a sound, not a sentence.',
-            te: 'కలిపి పఠించే ముందు ప్రతి పాదాన్ని విడివిడి పదాలుగా విడగొట్టండి. "కర్మణ్యేవాధికారస్తే" అంటే నిజంగా ఏమిటో తెలుసుకోండి — కర్మణి + ఏవ + అధికారః + తే — తర్వాతే దాన్ని ఒకే ప్రవాహంగా పఠించండి. అర్థం కాని సంధిని పఠించడం అంటే ధ్వనిని కంఠస్థం చేయడమే, వాక్యాన్ని కాదు.'
+            te: 'కలిపి పఠించే ముందు ప్రతి పాదాన్ని విడివిడి పదాలుగా విడగొట్టండి. "కర్మణ్యేవాధికారస్తే" అంటే నిజంగా ఏమిటో తెలుసుకోండి — కర్మణి + ఏవ + అధికారః + తే — తర్వాతే దాన్ని ఒకే ప్రవాహంగా పఠించండి. అర్థం కాని సన్ధిని పఠించడం అంటే ధ్వనిని కంఠస్థం చేయడమే, వాక్యాన్ని కాదు.'
           }
         },
         {
