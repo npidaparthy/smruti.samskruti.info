@@ -218,6 +218,8 @@
     lang = l;
     localStorage.setItem('guide_lang', l);
     document.querySelectorAll('.script-toggle button').forEach(b => b.classList.toggle('active', b.dataset.lang === l));
+    const search = document.getElementById('guide-search');
+    if (search) search.placeholder = lang === 'te' ? 'వెతకండి — స్థానం, మాత్ర, సంధి, మహాప్రాణం…' : 'Search — sthāna, mātrā, sandhi, mahāprāṇa…';
     renderAll();
   }
 
