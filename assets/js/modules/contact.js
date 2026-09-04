@@ -43,13 +43,23 @@ const Contact = (function () {
 
     const fd = new FormData(form);
     const payload = {
-      name:    fd.get('name'),
-      email:   fd.get('email'),
+      name:    (fd.get('name') || '').trim(),
+      email:   (fd.get('email') || '').trim(),
       subject: fd.get('subject'),
-      message: fd.get('message'),
+      message: (fd.get('message') || '').trim(),
       lang:    window._uiLang || 'te',
       site:    fd.get('site'),
     };
+
+    // Belt-and-braces on top of the form's own required-field validation —
+    // guards against novalidate/JS quirks silently sending blank fields.
+    if (!payload.name || !payload.email || !payload.message) {
+      btn.disabled = false;
+      status.textContent = en ? 'Please fill in name, email, and message.' : 'దయచేసి పేరు, ఇమెయిల్, సందేశం నింపండి.';
+      status.className = 'contact-status err';
+      status.hidden = false;
+      return;
+    }
 
     // Fire and forget — no-cors means we can't read the response anyway
     fetch(APPS_SCRIPT_URL, {
