@@ -6,6 +6,7 @@ const Contact = (function () {
   function open() {
     document.getElementById('contact-modal').hidden = false;
     document.getElementById('contact-form')?.querySelector('input[name="name"]')?.focus();
+    clearFieldErrors();
   }
 
   function close() {
@@ -13,6 +14,36 @@ const Contact = (function () {
     document.getElementById('contact-form')?.reset();
     const status = document.getElementById('contact-status');
     if (status) { status.hidden = true; status.className = 'contact-status'; }
+    clearFieldErrors();
+  }
+
+  // Per-field inline errors — the browser's own required-field bubble
+  // (novalidate-suppressed) follows <html lang> rather than the site's
+  // own toggle, so we roll our own, localized to _uiLang like everything
+  // else on the page.
+  function showFieldError(name, msg) {
+    const field = document.querySelector(`#contact-form [name="${name}"]`);
+    if (!field) return;
+    field.classList.add('field-invalid');
+    const errId = 'contact-err-' + name;
+    let errEl = document.getElementById(errId);
+    if (!errEl) {
+      errEl = document.createElement('div');
+      errEl.id = errId;
+      errEl.className = 'field-error';
+      field.insertAdjacentElement('afterend', errEl);
+    }
+    errEl.textContent = msg;
+    errEl.hidden = false;
+    field.addEventListener('input', () => {
+      field.classList.remove('field-invalid');
+      errEl.hidden = true;
+    }, { once: true });
+  }
+
+  function clearFieldErrors() {
+    document.querySelectorAll('#contact-form .field-invalid').forEach(f => f.classList.remove('field-invalid'));
+    document.querySelectorAll('#contact-form .field-error').forEach(e => { e.hidden = true; });
   }
 
   function i18nSelect() {
@@ -40,6 +71,7 @@ const Contact = (function () {
 
     btn.disabled = true;
     status.hidden = true;
+    clearFieldErrors();
 
     const fd = new FormData(form);
     const payload = {
@@ -51,15 +83,18 @@ const Contact = (function () {
       site:    fd.get('site'),
     };
 
-    // Belt-and-braces on top of the form's own required-field validation —
-    // guards against novalidate/JS quirks silently sending blank fields.
-    if (!payload.name || !payload.email || !payload.message) {
-      btn.disabled = false;
-      status.textContent = en ? 'Please fill in name, email, and message.' : 'దయచేసి పేరు, ఇమెయిల్, సందేశం నింపండి.';
-      status.className = 'contact-status err';
-      status.hidden = false;
-      return;
+    // Per-field validation — the form's own required-field checks are
+    // suppressed (novalidate), on purpose: the browser's native tooltip
+    // follows <html lang="te"> rather than the site's own toggle, so we
+    // do this ourselves and stay in sync with _uiLang.
+    let valid = true;
+    if (!payload.name)    { showFieldError('name',    en ? 'Please enter your name' : 'దయచేసి మీ పేరు నమోదు చేయండి'); valid = false; }
+    if (!payload.email)   { showFieldError('email',   en ? 'Please enter your email' : 'దయచేసి మీ ఇమెయిల్ నమోదు చేయండి'); valid = false; }
+    else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(payload.email)) {
+      showFieldError('email', en ? 'Please enter a valid email' : 'సరైన ఇమెయిల్ నమోదు చేయండి'); valid = false;
     }
+    if (!payload.message) { showFieldError('message', en ? 'Please enter your message' : 'దయచేసి మీ సందేశం నమోదు చేయండి'); valid = false; }
+    if (!valid) { btn.disabled = false; return; }
 
     // Fire and forget — no-cors means we can't read the response anyway
     fetch(APPS_SCRIPT_URL, {

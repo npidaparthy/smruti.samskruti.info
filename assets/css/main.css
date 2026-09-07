@@ -350,6 +350,9 @@ body {
 .contact-status { font-size: 13px; padding: 8px 12px; border-radius: var(--r); margin-bottom: 10px; }
 .contact-status.ok  { background: #1a3a1a; color: #6fcf6f; }
 .contact-status.err { background: #3a1a1a; color: #cf6f6f; }
+.form-group input.field-invalid,
+.form-group textarea.field-invalid { border-color: #cf6f6f; }
+.field-error { font-size: 11px; color: #cf6f6f; margin-top: 2px; }
 
 /* ── Shared controls ───────────────────────────────────────────── */
 .ctrl-row {
